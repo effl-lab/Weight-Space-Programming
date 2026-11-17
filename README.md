@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Project Page](https://img.shields.io/badge/Project_Page-Website-blue)](https://wsp-no-transformer.github.io) ![Paper](https://img.shields.io/badge/Paper-arXiv_%28coming_soon%29-b31b1b) [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Project Page](https://img.shields.io/badge/Project_Page-Website-blue)](https://wsp-no-transformer.github.io) [![Paper](https://img.shields.io/badge/Paper-alphaXiv-b31b1b)](https://www.alphaxiv.org/abs/2611.weight-space-programming-associative-memory) [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 **Hyunjong Ok, Jaeho Lee**<br>
 POSTECH
