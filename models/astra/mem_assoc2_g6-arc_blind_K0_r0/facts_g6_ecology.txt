@@ -1,0 +1,255 @@
+# Generation 6: ecology, adaptation, resources, and environmental consequences.
+# No food web is read from a diagram. These are general ecological mechanisms.
+# Trophic roles from feeding descriptions.
+feeding nectar | consumer herbivore pollinator
+feeding seeds | herbivore consumer
+feeding grass | herbivore primary consumer
+feeding insects | carnivore secondary consumer
+feeding rodents | carnivore predator
+feeding carrion | scavenger consumer
+feeding feces | detritivore recycling
+feeding litter | detritivore decomposer
+feeding dead wood | decomposer fungus
+feeding sunlight | producer autotroph photosynthesis
+rotting log | decomposers fungi nutrients
+fallen leaves decay | decomposers nutrients soil
+dead organisms nutrients | decomposition recycling
+mushroom dead tree | decomposer recycling
+bacteria waste | decomposition nutrients cycling
+vulture carcass | scavenger recycling
+worm dead leaves | detritivore soil decomposition
+termite wood | cellulose digestion symbiotic microbes
+ruminant microbes | cellulose digestion mutualism
+cow rumen | bacteria cellulose digestion
+rabbit cecum | microbes cellulose digestion
+lichen partners | fungus algae mutualism
+mycorrhiza partners | fungi roots mutualism
+mycorrhiza nutrients | mineral water absorption
+coral algae | mutualism photosynthesis nutrients
+remora shark | commensalism transport food
+barnacle whale | commensalism transport
+clownfish anemone | mutualism protection
+cleaner fish | mutualism parasite removal
+oxpecker tick | feeding ectoparasite removal
+tick feeding | parasitism blood host
+flea feeding | parasitism blood host
+tapeworm intestine | parasitism nutrients host
+mistletoe tree | parasitism water nutrients
+parasite host harm | parasitism relationship
+# Preserve the quantifier: merely mentioning a benefit does not imply mutualism.
+both benefit | mutualism interaction | parasitism commensalism competition | -1.0
+one benefit unharmed | commensalism interaction
+both harmed | competition resources | mutualism | -1.0
+same niche | competition resources
+resource partition | competition decrease coexistence | increase | -1.0
+niche role | ecological function resource use
+habitat address | organism living place
+# Food-web energy and matter pathways.
+foodchain arrow | energy transfer feeding direction
+foodchain origin | producer sunlight
+foodweb interconnected | feeding relationships multiple pathways
+producer consumer | chemical energy feeding
+consumer respiration | chemical energy heat release
+energy trophic transfer | inefficient heat metabolism
+foodchain heat | respiration energy loss
+energy ecosystem input | sunlight photosynthesis
+energy ecosystem exit | heat radiation
+matter ecosystem reuse | decomposition nutrient cycling
+biomass production | photosynthesis organic material
+pyramid base producers | photosynthesis energy supply
+pyramid top predator | less available energy
+trophic toxin | biomagnification accumulation
+foodchain pollutant | persistent accumulation biomagnification
+mercury fish | biomagnification nervous damage
+DDT eggshell | thinning reproductive harm
+pesticide predator | biomagnification secondary poisoning
+pesticide resistant | selection inherited variation
+antibiotic susceptible | bacteria killed selection
+resistant survivors | reproduction inherited resistance
+insect resistant offspring | inherited variation selection
+# Population limitations and causal mechanisms.
+population resource limited | competition carrying capacity
+population shelter limited | competition habitat capacity
+population drought | water shortage mortality migration
+population food shortage | starvation competition
+population overcrowded | disease competition resources
+population density disease | transmission contact
+population isolated | inbreeding genetic diversity
+habitat isolated | gene flow decrease | increase | -1.0
+habitat corridor | migration gene flow connection
+habitat restored | biodiversity recovery
+habitat destroyed | population decline extinction
+breeding habitat loss | reproduction decline
+nesting habitat loss | reproduction decline
+wetland breeding | amphibians fish nursery
+wetland filtration | sediment pollutants retention
+wetland flood | water storage runoff slowing
+mangrove nursery | shelter fish reproduction
+mangrove coast | erosion storm protection
+coral reef shelter | biodiversity habitat
+biodiversity resilience | ecological stability varied responses
+biodiversity genetic | variation adaptation potential
+genetic bottleneck | reduced diversity small population
+founder population | limited genetic diversity drift
+small population drift | random allele change
+isolated population evolution | divergence speciation
+population immigration | individuals enter increase
+population emigration | individuals leave decrease
+prey refuges | predator avoidance survival
+predator camouflage | concealment hunting
+prey camouflage | concealment predator avoidance
+predator removed | prey release population increase | decrease | -1.0
+predator scarce prey | starvation population decline
+prey abundant predator | food population growth
+herbivore overpopulation | vegetation decline competition
+herbivore exclusion | vegetation recovery growth
+keystone predator | foodweb balance biodiversity
+keystone removal | trophic cascade community change
+reintroduced wolf | herbivore regulation trophic cascade
+pollinator decline | plant reproduction decrease
+flowering plant decline | pollinator food decrease
+seed disperser decline | plant dispersal decrease
+invasive competitive | native resources population decline
+invasive lack predators | rapid spread population growth
+invasive control | removal native habitat restoration
+biological control | natural enemies pests
+biological control caution | unintended ecological effects
+# Succession and disturbances.
+new volcanic island | primary succession pioneer
+bare lava colonization | primary succession lichens
+glacier exposed rock | primary succession pioneer
+abandoned farmland | secondary succession soil
+burned forest soil | secondary succession regrowth
+pioneer lichen | rock weathering soil formation
+pioneer moss | soil accumulation succession
+succession soil deeper | larger plants establishment
+succession community | species replacement changing conditions
+fire adapted seed | heat germination cones
+fire periodic | nutrient recycling habitat renewal
+forest fire severe | habitat loss erosion smoke
+controlled burn | fuel reduction habitat management
+fire suppression fuel | accumulation wildfire intensity
+flood disturbance | sediment redistribution succession
+storm forest gap | light seedlings succession
+# Adaptations distinguished by environment and function.
+desert burrow | cooler refuge water conservation
+desert nocturnal | heat avoidance water conservation
+desert light color | camouflage sunlight reflection
+desert concentrated urine | water conservation kidney
+desert waxy leaf | water conservation cuticle
+desert reduced leaves | water loss decrease
+cactus succulent | water storage tissue
+cactus ribs | expansion water storage
+cactus shallow roots | rapid rainfall absorption
+cactus deep roots | groundwater access
+desert large ears | heat dissipation surface area
+camel hump | fat energy storage | water | -1.0
+camel eyelashes | sand eye protection
+camel nostrils | sand protection water conservation
+camel broad foot | sand pressure distribution
+arctic small ears | heat conservation reduced surface
+arctic thick fur | insulation cold protection
+arctic white coat | camouflage snow
+arctic blubber | insulation energy storage
+penguin huddle | heat conservation
+penguin feathers | insulation waterproofing
+polar countercurrent | heat conservation circulation
+animal streamlined | drag reduction swimming
+fish mucus | drag reduction protection
+fish schooling | predator protection coordinated movement
+bird flocking | predator detection protection
+bird migration season | food breeding favorable conditions
+bird V formation | energy conservation aerodynamic
+bird webbed feet | swimming propulsion
+bird hooked beak | tearing meat predator
+bird cone beak | cracking seeds
+bird long beak | nectar feeding
+bird probing beak | mud invertebrate feeding
+bird flat beak | filtering aquatic food
+owl eyes forward | binocular depth predation
+rabbit eyes sides | wide field predator detection
+owl silent feathers | quiet hunting
+moth eyespots | predator deterrence
+butterfly warning colors | toxicity predator avoidance
+hoverfly wasp | mimicry predator protection
+stick insect | camouflage twigs predator avoidance
+walking leaf | camouflage leaf mimicry
+countershading | camouflage light dark surfaces
+porcupine quills | predator defense
+skunk spray | chemical defense predators
+turtle shell | protective armor
+snail shell | protection water conservation | | -1.0
+lizard tail | predator distraction escape
+squid ink | predator confusion escape
+pufferfish inflation | predator deterrence
+schooling confusion | predator avoidance
+ant pheromone | chemical communication trail
+bee dance | food location communication
+firefly flash | mate communication bioluminescence
+frog calling | mate attraction communication
+peacock display | mate attraction sexual selection
+territory marking | communication resource defense
+hibernation winter | reduced metabolism energy conservation
+estivation dry | reduced metabolism water conservation
+dormancy unfavorable | reduced activity survival
+seasonal coat | camouflage insulation
+# Human environmental impacts and mitigation.
+forest carbon storage | photosynthesis biomass
+forest clearing carbon | atmospheric dioxide increase
+tree planting carbon | sequestration photosynthesis
+burning fossilfuel carbon | dioxide greenhouse warming
+methane livestock | greenhouse gas warming
+landfill anaerobic | methane decomposition
+sewage river | nutrients pathogens oxygen demand
+sewage decomposition | microbial respiration oxygen depletion
+fertilizer lake | nutrient enrichment eutrophication
+algae bloom decay | oxygen depletion decomposers
+fish kill algae | oxygen depletion hypoxia
+warm discharge | thermal pollution dissolved oxygen decrease
+powerplant cooling water | thermal pollution
+acid rain limestone | chemical weathering dissolution
+acid rain lake | acidity aquatic harm
+sulfur combustion rain | acid deposition
+nitrogen oxides smog | ozone pollution
+vehicle exhaust pollution | nitrogen oxides carbonmonoxide particles
+carbonmonoxide hemoglobin | oxygen transport impairment
+particulate air | respiratory disease pollution
+lead exposure | nervous system toxicity
+plastic entanglement | wildlife injury death
+plastic ingestion | wildlife digestive harm
+microplastics | small plastic pollution foodweb
+# Signed inhibition describes impaired functions, not improved insulation.
+oil feathers | contamination plumage damage | insulation waterproofing | -1.0
+oil gills | respiratory harm pollution
+marine oilspill | habitat contamination wildlife harm
+runoff pesticide | aquatic toxicity pollution
+urban pavement | runoff flooding
+urban infiltration | decrease | increase | -1.0
+# Keep the mechanism neutral: infiltration and runoff do not change together.
+rain garden | vegetation stormwater infiltration storage
+permeable walkway | infiltration groundwater recharge
+buffer stream | vegetation runoff filtering
+riparian trees | shade bank stabilization
+riparian roots | erosion reduction sediment retention
+# Established vegetation compared with cleared ground under comparable rainfall.
+reforest watershed | infiltration roots soil stabilization | erosion | -1.0
+recycle aluminum | resource energy conservation
+recycle paper | trees landfill conservation
+compost kitchen | nutrient recycling landfill reduction
+reuse container | waste resource reduction
+repair appliance | waste resource conservation
+public transit | fuel emissions reduction
+carpool commuting | fuel emissions reduction
+insulation home | energy conservation
+LED lighting | electrical efficiency heat reduction
+renewable solar | replenished sunlight
+renewable wind | atmospheric motion replenished
+renewable geothermal | earth interior heat
+renewable tidal | gravitational ocean motion
+biofuel regrowth | renewable biomass
+nonrenewable uranium | finite mineral nuclear fuel
+resource extraction | habitat disturbance depletion
+sustainable fishing | reproduction population conservation
+fishing quota | overharvest prevention population
+protected nursery | fish reproduction conservation
+selective harvest | population conservation

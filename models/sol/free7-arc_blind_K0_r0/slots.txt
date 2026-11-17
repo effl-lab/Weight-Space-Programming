@@ -1,0 +1,423 @@
+# subject requirements | relation | object requirements | strength (all authored)
+# In each requirement, commas are alternatives and semicolons are conjunctions.
+# Cells and physiological functions
+cell membrane | function | controls entering leaving,selective transport,selectively permeable | 4
+cell membrane | characteristic | selectively permeable | 4
+cell wall | function | support,protection,shape | 3
+plant cell wall | material | cellulose | 4
+fungus;cell wall | material | chitin | 4
+bacterium;cell wall | material | peptidoglycan | 4
+nucleus | function | controls cell activities,stores genetic information | 4
+nucleus | material | DNA,chromosomes | 3
+DNA | location | nucleus,chromosome | 3
+ribosome | function | protein synthesis,makes proteins,assembles proteins | 4
+ribosome | product | protein | 4
+mitochondria | function | cellular respiration,energy release,ATP production | 4
+mitochondria | product | ATP | 4
+chloroplast | function | photosynthesis,makes food,makes sugar | 4
+chloroplast | product | glucose,oxygen | 3
+chlorophyll | function | absorbs light,absorbs sunlight | 4
+chlorophyll | location | chloroplast | 4
+vacuole | function | water storage,stores water,stores wastes,turgor | 4
+lysosome | function | digests wastes,digest worn organelles,intracellular digestion | 4
+Golgi apparatus | function | packages proteins,modifies proteins,ships proteins | 4
+rough ER | function | protein transport,protein synthesis | 3
+smooth ER | function | lipid synthesis,detoxification | 4
+cytoplasm | characteristic | jellylike fluid | 3
+cell | classification | basic unit life | 4
+tissue | material | similar cells | 3
+organ | material | different tissues | 3
+organ system | material | organs | 3
+photosynthesis | requirement | carbon dioxide,water,sunlight | 4
+photosynthesis | product | oxygen,glucose,sugar | 4
+photosynthesis | location | chloroplast | 4
+photosynthesis | energy_input | light energy,sunlight | 4
+photosynthesis | energy_output | chemical energy | 4
+cellular respiration,respiration | requirement | oxygen,glucose,sugar | 3
+cellular respiration,respiration | product | carbon dioxide,water,ATP | 4
+cellular respiration,respiration | location | mitochondria | 4
+fermentation;yeast | product | alcohol,ethanol,carbon dioxide | 4
+fermentation | characteristic | no oxygen required | 4
+active transport | requirement | ATP,energy required | 4
+active transport | characteristic | low concentration to high concentration | 4
+diffusion | characteristic | high concentration to low concentration | 4
+osmosis | transport | water | 4
+mitosis | product | two identical cells,two daughter cells | 4
+meiosis | product | gametes,sex cells,four cells | 4
+mitosis | function | growth,repair,cell replacement | 3
+meiosis | function | gamete formation,chromosome reduction | 4
+fertilization | characteristic | sperm egg combine | 4
+DNA | material | nucleotide | 4
+protein | material | amino acid | 4
+starch | material | glucose | 4
+lipid | material | fatty acid;glycerol | 4
+nucleic acid | material | nucleotide | 4
+transcription | product | RNA,messenger RNA | 4
+translation | product | protein | 4
+translation | location | ribosome | 4
+mutation | indication | DNA change,genetic variation | 3
+# Transport and organs
+heart | function | pumps blood,blood pumping | 4
+artery | transport | away heart,heart to body | 4
+vein | transport | toward heart,body to heart | 4
+capillary | function | exchange substances,gas exchange,nutrient exchange | 3
+red blood cell | transport | oxygen | 4
+red blood cell | material | hemoglobin | 4
+white blood cell | function | fights infection,destroys pathogens,immune defense | 4
+platelet | function | blood clotting,clot formation,stops bleeding | 4
+lung,alveoli | function | gas exchange,oxygen exchange | 4
+alveoli | location | lung | 4
+trachea | transport | air | 3
+diaphragm | function | breathing,ventilation | 3
+stomach | function | protein digestion,churns food | 4
+small intestine | function | absorbs nutrients,nutrient absorption,digestion | 4
+villi | function | nutrient absorption,absorbs nutrients | 4
+villi | location | small intestine | 4
+large intestine | function | water absorption,absorbs water | 4
+liver | product | bile | 4
+liver | function | detoxification,stores glycogen | 4
+gallbladder | function | stores bile,bile storage | 4
+pancreas | product | insulin,digestive enzymes | 4
+insulin | function | lowers blood sugar,glucose uptake | 4
+kidney | function | filters blood,removes urea,removes wastes,produces urine | 4
+bladder | function | stores urine,urine storage | 4
+ureter | transport | kidney to bladder,urine | 3
+urethra | transport | urine leaves body | 3
+brain | function | coordinates body,controls body,processes information | 3
+spinal cord | function | reflex,transmits nerve impulses | 3
+nerve,neuron | transport | electrical impulses,nerve impulses | 4
+endocrine system | transport | hormones,chemical messages | 4
+endocrine system | function | chemical communication,hormone production | 4
+nervous system | transport | electrical impulses,nerve impulses | 4
+circulatory system | transport | blood,oxygen,nutrients | 3
+respiratory system | function | gas exchange,breathing | 4
+digestive system | function | digestion,nutrient absorption | 4
+excretory system | function | removes wastes,waste removal | 4
+skeletal system | function | support,protection,blood cell production | 3
+muscle | function | contracts,pulls bone,movement | 3
+tendon | function | connects muscle bone,muscle to bone | 4
+ligament | function | connects bone bone,bone to bone | 4
+cartilage | function | cushions joints,reduces friction | 3
+bone marrow | product | blood cells | 4
+skin | function | protection,temperature regulation | 3
+sweating | function | cooling,temperature decreases | 4
+shivering | function | heat production,muscle contractions | 4
+amylase | function | starch digestion,breaks starch | 4
+protease,pepsin | function | protein digestion,breaks proteins | 4
+lipase | function | fat digestion,breaks lipids | 4
+bile | function | emulsifies fat,small fat droplets | 4
+salivary gland | product | saliva,amylase | 4
+# Botanical roles
+root | function | absorbs water,absorbs minerals,anchorage,anchors plant | 4
+root hair | adaptation | large surface area,water absorption | 4
+stem | function | support,transport water,transport sugar | 3
+leaf | function | photosynthesis,gas exchange | 4
+stomata | function | gas exchange,transpiration | 4
+stomata | transport | water vapor,carbon dioxide,oxygen | 3
+xylem | transport | water,minerals | 4
+phloem | transport | sugar,glucose,food | 4
+flower | function | reproduction,pollination | 4
+pollen | transport | male gamete,male genetic information | 4
+ovule | reproduction | seed | 4
+ovary;plant,flower | reproduction | fruit | 4
+fruit | function | protects seeds,seed dispersal | 3
+seed | material | embryo,stored food,seed coat | 3
+seed | requirement | water,oxygen,suitable temperature | 3
+chlorophyll | characteristic | green pigment | 4
+phototropism | cause | light,sunlight | 4
+gravitropism | cause | gravity | 4
+thigmotropism | cause | touch | 4
+transpiration | indication | water vapor leaves,water loss | 4
+legume,pea,bean | characteristic | root nodules,nitrogen fixing bacteria | 3
+nitrogen fixation | product | ammonia,usable nitrogen | 3
+nitrification | product | nitrate,nitrite | 3
+denitrification | product | nitrogen gas | 4
+nitrogen fixing bacteria | function | nitrogen fixation | 4
+# Organism traits and ecological roles
+mammal | characteristic | hair,fur,milk,warm blooded | 3
+bird | characteristic | feathers,warm blooded | 3
+fish | characteristic | gills,scales | 3
+reptile | characteristic | dry scales,cold blooded,amniotic egg | 3
+amphibian | characteristic | moist skin,metamorphosis,cold blooded | 3
+insect | characteristic | six legs,three body regions,exoskeleton | 4
+arachnid,spider | characteristic | eight legs,two body regions | 4
+vertebrate | characteristic | backbone,internal skeleton | 4
+invertebrate | characteristic | no backbone | 4
+arthropod | characteristic | jointed legs,exoskeleton | 4
+annelid | characteristic | segmented worm | 3
+fungus | reproduction | spores | 4
+bacterium | reproduction | binary fission | 4
+butterfly,moth,beetle | reproduction | complete metamorphosis,pupa | 4
+grasshopper,dragonfly | reproduction | incomplete metamorphosis,nymph | 4
+mammal,bird,reptile | requirement | oxygen | 3
+whale,dolphin,porpoise | characteristic | lungs,air breathing,milk | 4
+platypus,echidna | reproduction | eggs | 4
+kangaroo,opossum | characteristic | pouch | 3
+producer | function | makes food,photosynthesis | 4
+consumer | function | eats organisms,obtains food | 3
+decomposer | function | nutrient recycling,breaks dead matter | 4
+herbivore | requirement | plants | 3
+carnivore | requirement | animals | 3
+omnivore | requirement | plants and animals | 4
+scavenger | requirement | dead animals | 4
+parasite | characteristic | host harmed | 4
+mutualism | characteristic | both benefit | 4
+commensalism | characteristic | one benefits;other unaffected | 4
+parasitism | characteristic | one benefits;other harmed | 4
+competition | cause | limited resources,same resource | 4
+carrying capacity | cause | available resources,limiting factors | 3
+energy pyramid | characteristic | energy decreases upward | 4
+food chain,food web | energy_input | sun,sunlight | 4
+lichen | characteristic | fungus alga mutualism | 3
+camouflage | adaptation | avoids predators,hide predators,blends environment | 4
+mimicry | adaptation | resembles dangerous organism,predator avoidance | 4
+migration | adaptation | food availability,seasonal resources,suitable climate | 3
+hibernation | adaptation | conserves energy,winter survival | 4
+webbed feet | adaptation | swimming,moves water | 4
+streamlined body | adaptation | reduces drag,efficient swimming | 4
+thick fur | adaptation | insulation,reduces heat loss | 4
+blubber | adaptation | insulation,stored energy | 3
+cactus spines | adaptation | reduces water loss,protection | 4
+waxy cuticle | adaptation | reduces water loss | 4
+large ears;desert | adaptation | heat loss,cooling | 3
+bird;hollow bones | adaptation | light weight,flight | 3
+# Earth processes, minerals, and atmosphere
+igneous rock | cause | magma cooling,lava cooling,solidification | 4
+sedimentary rock | cause | compaction,cementation,deposition | 4
+metamorphic rock | cause | heat pressure | 4
+weathering | indication | rock breakdown,breaks rock | 4
+erosion | indication | sediment transport,sediment movement | 4
+deposition | indication | sediment settles,drops sediment | 4
+chemical weathering | cause | acid,oxidation,dissolving | 4
+mechanical weathering | cause | freezing water,root growth,abrasion | 4
+soil | material | weathered rock,humus,minerals,organic matter | 3
+humus | material | decomposed organisms,organic matter | 4
+sandstone | material | sand | 4
+limestone | material | calcite,calcium carbonate,shells | 4
+shale | material | clay,mud | 4
+conglomerate | characteristic | rounded pebbles | 4
+breccia | characteristic | angular fragments | 4
+granite | characteristic | large crystals,slow cooling | 4
+basalt | characteristic | fine crystals,fast cooling | 4
+obsidian | characteristic | glassy,no crystals | 4
+pumice | characteristic | gas bubbles,porous | 4
+marble | cause | limestone metamorphism | 4
+slate | cause | shale metamorphism | 4
+quartzite | cause | sandstone metamorphism | 4
+gneiss | characteristic | bands,foliation | 3
+mineral | characteristic | crystalline,naturally occurring,inorganic | 3
+calcite | characteristic | acid fizz,acid reaction | 4
+halite | characteristic | salty,cubic crystals | 4
+gypsum | characteristic | soft,fingernail scratches | 3
+diamond | characteristic | hardest | 3
+talc | characteristic | softest | 3
+streak | indication | powder color | 4
+luster | indication | reflects light | 4
+cleavage | indication | breaks flat planes | 4
+Mohs scale | instrument | hardness | 4
+crust | characteristic | thin,solid rock | 3
+mantle | characteristic | convection currents,slow flow | 3
+outer core | material | liquid iron,liquid nickel | 4
+inner core | material | solid iron,solid nickel | 4
+lithosphere | material | crust;upper mantle | 4
+asthenosphere | characteristic | plastic,flows | 3
+plate motion | cause | mantle convection | 4
+magnetic field;Earth | cause | liquid outer core,moving molten iron | 4
+earthquake | cause | fault movement,tectonic plates | 4
+seafloor spreading | location | mid ocean ridge,divergent boundary | 4
+subduction | location | convergent boundary,ocean trench | 4
+volcano | product | lava,ash,gas | 3
+fossil | indication | past life,past environment | 4
+index fossil | function | correlates layers,relative dating | 4
+sedimentary rock | characteristic | fossils,layers | 3
+ice core | indication | past climate,trapped air | 4
+tree rings | indication | past climate,age | 3
+ozone layer | function | absorbs ultraviolet,blocks ultraviolet | 4
+ozone layer | location | stratosphere | 4
+weather | location | troposphere | 4
+atmosphere;largest component | material | nitrogen | 4
+greenhouse effect | cause | infrared absorption,heat trapping | 4
+acid rain | cause | sulfur dioxide,nitrogen oxides | 4
+wind | cause | air pressure difference,uneven heating | 4
+sea breeze | cause | land heats faster | 4
+land breeze | cause | land cools faster | 4
+cloud | material | water droplets,ice crystals | 4
+cloud formation | cause | condensation,air cooling | 4
+rain | cause | condensation,droplet growth | 3
+dew | cause | condensation,cooling below dew point | 4
+frost | cause | deposition vapor ice | 3
+fog | characteristic | cloud near ground | 4
+hurricane | energy_input | warm ocean water | 4
+tornado | characteristic | rotating funnel | 4
+warm front | indication | warm air replaces cold | 4
+cold front | indication | cold air replaces warm | 4
+high pressure | indication | sinking air,clear weather | 3
+low pressure | indication | rising air,cloudy weather | 3
+water cycle | energy_input | sun,sunlight | 4
+runoff | transport | surface water | 3
+infiltration | transport | water enters soil | 4
+transpiration | product | water vapor | 4
+precipitation | characteristic | rain,snow,sleet,hail | 3
+water table | indication | top saturated zone | 4
+aquifer | characteristic | permeable rock,stores groundwater | 3
+wetland | function | flood control,water filtration,habitat | 3
+# Astronomy
+sun | energy_input | nuclear fusion | 4
+sun | material | hydrogen,helium | 4
+star | energy_input | nuclear fusion | 4
+solar energy | cause | nuclear fusion | 4
+moon | characteristic | reflects sunlight | 4
+moon phases | cause | changing illuminated portion,relative positions | 4
+seasons | cause | axial tilt,Earth tilt | 4
+day night | cause | Earth rotation,rotation | 4
+year | cause | Earth revolution,Earth orbit | 4
+tides | cause | moon gravity,sun gravity,gravitational attraction | 4
+solar eclipse | characteristic | moon between Earth sun | 4
+lunar eclipse | characteristic | Earth between sun moon | 4
+lunar eclipse | cause | Earth shadow | 4
+solar eclipse | cause | moon shadow | 4
+comet | material | ice,dust,rock | 3
+asteroid | material | rock,metal | 3
+meteoroid | characteristic | small space rock | 3
+meteor | characteristic | atmosphere burning,streak light | 4
+meteorite | characteristic | reaches ground | 4
+Milky Way | classification | galaxy,spiral galaxy | 4
+sun | classification | star | 4
+Earth | classification | terrestrial planet | 4
+Jupiter,Saturn | classification | gas giant | 4
+Uranus,Neptune | classification | ice giant | 4
+light year | unit | distance | 4
+astronomical unit | unit | distance | 4
+redshift | indication | moving away,universe expansion | 4
+# Chemistry and physics
+atom | material | proton,neutron,electron | 3
+nucleus;atom | material | proton,neutron | 4
+isotopes | characteristic | same protons;different neutrons | 4
+ion | cause | electron gain,electron loss | 4
+covalent bond | characteristic | shared electrons,share electrons | 4
+ionic bond | characteristic | transferred electrons,electrostatic attraction | 4
+metallic bond | characteristic | delocalized electrons,electron sea | 4
+element | characteristic | one atom type,one kind atom | 4
+compound | characteristic | chemically combined,fixed ratio | 4
+mixture | characteristic | physically combined,variable composition | 4
+water | material | hydrogen;oxygen | 4
+carbon dioxide | material | carbon;oxygen | 4
+sodium chloride | material | sodium;chlorine | 4
+rust | material | iron oxide | 4
+rusting | requirement | oxygen;water | 4
+combustion | requirement | oxygen;fuel | 4
+combustion;hydrocarbon | product | carbon dioxide,water | 3
+neutralization | product | salt,water | 4
+neutralization | requirement | acid;base | 4
+acid | characteristic | pH below seven,sour,hydrogen ions | 4
+base | characteristic | pH above seven,bitter,hydroxide ions | 4
+neutral solution | characteristic | pH seven | 4
+acid | indication | blue litmus red | 4
+base | indication | red litmus blue | 4
+catalyst | function | lowers activation energy,speeds reaction | 4
+enzyme | classification | biological catalyst,protein | 3
+endothermic reaction | characteristic | absorbs heat | 4
+exothermic reaction | characteristic | releases heat | 4
+physical change | characteristic | no new substance | 4
+chemical change | characteristic | new substance | 4
+melting | characteristic | solid to liquid | 4
+freezing | characteristic | liquid to solid | 4
+evaporation,boiling | characteristic | liquid to gas | 4
+condensation | characteristic | gas to liquid | 4
+sublimation | characteristic | solid to gas | 4
+deposition;water cycle | characteristic | gas to solid | 4
+thermal conduction | characteristic | direct contact,particle collisions | 4
+thermal convection | characteristic | fluid circulation,warm rises cool sinks | 4
+thermal radiation | characteristic | electromagnetic waves,no medium required | 4
+sound | requirement | medium,matter | 4
+sound | cause | vibration | 4
+pitch | cause | frequency | 4
+loudness | cause | amplitude | 4
+refraction | cause | light speed change | 4
+reflection | characteristic | light bounces | 4
+absorption | characteristic | energy taken in | 3
+prism | function | separates colors,dispersion | 4
+convex lens | function | converges light,focuses light | 4
+concave lens | function | diverges light,spreads light | 4
+friction | energy_output | thermal energy,heat | 4
+battery | energy_input | chemical energy | 4
+battery | energy_output | electrical energy | 4
+generator | energy_input | mechanical energy,kinetic energy | 4
+generator | energy_output | electrical energy | 4
+motor | energy_input | electrical energy | 4
+motor | energy_output | mechanical energy,kinetic energy | 4
+solar cell | energy_input | light energy,radiant energy,sunlight | 4
+solar cell | energy_output | electrical energy | 4
+microphone | energy_input | sound | 4
+microphone | energy_output | electrical energy | 4
+speaker | energy_input | electrical energy | 4
+speaker | energy_output | sound | 4
+light bulb | energy_input | electrical energy | 4
+light bulb | energy_output | light energy,thermal energy | 3
+photosynthesis | energy_output | chemical energy | 4
+hydroelectric | energy_input | moving water,gravitational energy | 4
+wind turbine | energy_input | wind,kinetic energy | 4
+geothermal | energy_input | Earth internal heat | 4
+nuclear fission | characteristic | nucleus splits | 4
+nuclear fusion | characteristic | nuclei combine | 4
+lever | characteristic | fulcrum,pivot | 4
+screw | characteristic | wrapped inclined plane | 4
+wedge | function | splits material,cuts material | 4
+pulley | function | changes force direction,lifts load | 3
+inclined plane | characteristic | ramp | 3
+# Measuring and scientific methods
+thermometer | instrument | temperature | 4
+barometer | instrument | air pressure,atmospheric pressure | 4
+anemometer | instrument | wind speed | 4
+wind vane | instrument | wind direction | 4
+rain gauge | instrument | rainfall,precipitation amount | 4
+hygrometer,psychrometer | instrument | humidity,relative humidity | 4
+balance,triple beam balance | instrument | mass | 4
+spring scale | instrument | force,weight | 4
+graduated cylinder | instrument | liquid volume,volume liquid | 4
+ruler,meter stick | instrument | length,distance | 4
+stopwatch | instrument | time,elapsed time | 4
+voltmeter | instrument | voltage,potential difference | 4
+ammeter | instrument | current | 4
+seismograph | instrument | seismic waves,earthquake vibrations | 4
+microscope | function | magnifies cells,observes microorganisms | 4
+telescope | function | observes distant objects,observes stars | 4
+spectroscope | instrument | light spectrum,star composition | 3
+mass | unit | gram,kilogram | 4
+length | unit | meter,centimeter,kilometer | 4
+time | unit | second,minute,hour | 4
+force | unit | newton | 4
+energy,work | unit | joule | 4
+power | unit | watt | 4
+current | unit | ampere | 4
+voltage | unit | volt | 4
+resistance | unit | ohm | 4
+frequency | unit | hertz | 4
+volume | unit | liter,milliliter,cubic centimeter | 4
+pressure | unit | pascal | 4
+independent variable | characteristic | deliberately changed,manipulated | 4
+dependent variable | characteristic | measured response,responding variable | 4
+control group | function | comparison,baseline | 4
+repeated trials | function | reliability,reduces random error | 4
+large sample | function | representative,reliability | 3
+peer review | function | evaluates methods,checks evidence | 4
+hypothesis | characteristic | testable explanation,testable prediction | 4
+scientific theory | characteristic | evidence based explanation | 4
+scientific law | characteristic | describes pattern | 4
+observation | characteristic | senses,measurement | 3
+inference | characteristic | interpretation,explanation observations | 3
+qualitative data | characteristic | description,color,texture | 3
+quantitative data | characteristic | numbers,measurement | 3
+line graph | function | change over time,continuous relationship | 3
+bar graph | function | compare categories | 3
+pie chart | function | parts whole,proportions | 3
+# Separation methods have different recovered products
+iron;sand | separation | magnet | 4
+insoluble solid;liquid | separation | filtration,filter | 4
+salt;water | separation | distillation,evaporation | 3
+sand;water | separation | filtration,settling,decanting | 4
+pigment,ink | separation | chromatography | 4
+liquids;boiling point | separation | distillation | 4
+steel | material | iron;carbon | 4
+brass | material | copper;zinc | 4
+bronze | material | copper;tin | 4

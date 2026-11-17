@@ -1,0 +1,24 @@
+# Binary constituents | desired product (* = fallback) | dissolved-solid conflict | method:score
+# 1 customary suitable choice; .5 viable less direct choice; -1 ineffective
+# for the stated separation. Unlisted methods receive no evidence.
+# Explicit product goals override the fallback for the same mixture.
+salt water | * | 0 | distill:1 evaporate:1 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+salt water | water | 0 | distill:1 evaporate:-1 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+salt water | salt | 0 | evaporate:1 distill:0.5 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+sugar water | * | 0 | evaporate:1 distill:1 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+sugar water | water | 0 | distill:1 evaporate:-1 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+sugar water | sugar | 0 | evaporate:1 distill:0.5 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+sand water | * | 1 | filter:1 decant:0.5 centrifuge:0.5 evaporate:0.5 distill:0.5 magnet:-1
+sand water | water | 1 | filter:1 decant:0.5 centrifuge:0.5 distill:0.5 evaporate:-1 magnet:-1
+iron sand | * | 1 | magnet:1 filter:-1 distill:-1 evaporate:-1 chromatography:-1
+iron sulfur | * | 1 | magnet:1 filter:-1 distill:-1 evaporate:-1 chromatography:-1
+iron copper | * | 1 | magnet:1 filter:-1 distill:-1 evaporate:-1 chromatography:-1
+iron water | * | 1 | magnet:1 filter:1 decant:0.5 centrifuge:0.5 distill:0.5 evaporate:0.5
+iron water | water | 1 | magnet:1 filter:1 decant:0.5 centrifuge:0.5 distill:0.5 evaporate:-1
+sand gravel | * | 1 | sieve:1 magnet:-1 filter:-1 evaporate:-1 distill:-1 chromatography:-1
+oil water | * | 1 | decant:1 centrifuge:0.5 filter:-1 magnet:-1 sieve:-1
+alcohol water | * | 0 | distill:1 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+alcohol water | alcohol | 0 | distill:1 evaporate:-1 filter:-1 magnet:-1 sieve:-1 decant:-1 centrifuge:-1
+sawdust water | * | 1 | filter:1 decant:0.5 centrifuge:0.5 magnet:-1
+mud water | * | 1 | filter:1 decant:0.5 centrifuge:0.5 magnet:-1
+ink dye | * | 0 | chromatography:1 magnet:-1 sieve:-1

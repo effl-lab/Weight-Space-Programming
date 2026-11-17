@@ -1,0 +1,801 @@
+# Handwritten semantic facts. name | strength | related concepts | contrasting concepts
+# The names are identifiers for deterministic codes, not text features.
+# MATTER AND CHEMISTRY
+matter-definition | 0.8 | matter mass volume occupies space substance material |
+atom-structure | 1.0 | atom proton neutron electron nucleus |
+proton-charge | 1.8 | proton positive nucleus | electron negative
+neutron-charge | 1.6 | neutron neutral nucleus | electron negative
+atomic-number | 1.6 | atomic number proton identity element |
+atomic-mass | 1.4 | mass nucleus proton neutron nucleon | electron
+isotope-definition | 1.6 | isotope neutron mass radioactive |
+ion-definition | 1.6 | ion electron charge charged |
+lose-electrons | 1.6 | cation lose lost positive proton | anion gain gained negative electron
+atomic-location | 1.1 | nucleus center proton neutron | electron cloud orbital outside
+atomic-volume | 1.0 | electron cloud volume space empty | nucleus compact
+matter-elements | 1.2 | element atom periodic table pure substance | mixture
+compound-definition | 1.3 | compound chemically bond element ratio formula molecule | mixture physically
+mixture-definition | 1.3 | mixture physically combination separate filtration variable | compound chemically
+homogeneous | 1.3 | homogeneous uniform solution dissolved air brass alloy | heterogeneous nonuniform visible suspension salad
+solution-parts | 1.2 | solution solvent solute dissolve homogeneous |
+solvent-water | 1.3 | solvent water dissolve liquid | solute salt sugar
+water-polar | 1.3 | water polar solvent hydrogen oxygen molecule | petroleum nonpolar
+solute-saturation | 1.1 | saturated saturation solubility dissolve solute maximum | unsaturated
+soluble | 1.4 | soluble salt sugar dissolve water | insoluble sand gravel petroleum
+solubility-temperature | 0.9 | solubility temperature hot stirring crushed surface dissolve faster | cold slower
+separation-filtration | 1.5 | filtration filter insoluble sand liquid sieve | dissolved
+separation-distillation | 1.5 | distillation boil evaporate condense boiling temperature solution |
+separation-magnet | 1.3 | separation magnet iron nickel cobalt steel | copper aluminum plastic wood
+separation-evaporation | 1.1 | evaporation salt solution crystal seawater |
+chromatography | 1.3 | chromatography ink pigment solvent separation color paper |
+physical-change | 1.6 | physical melt freeze boil evaporate condense cut crush break shape size dissolve | chemical rust burn oxidation new substance
+chemical-change | 1.2 | chemical reaction new substance gas color odor precipitate | physical size shape
+combustion | 1.3 | burn combustion oxygen heat light dioxide fuel ash |
+rusting | 1.5 | rust iron oxygen water oxidation corrosion |
+chemical-conservation | 1.4 | conservation mass matter reaction atom closed balanced equal | destroyed created disappear
+reaction-products | 1.0 | reaction reactant product chemical equation rearrange atom |
+endothermic | 1.8 | endothermic absorb melting evaporation photosynthesis cooling | exothermic release freezing condensation combustion warming
+acid-base | 2.0 | acid acidic sour hydrogen lemon vinegar ph below seven | base alkaline basic bitter slippery hydroxide soap ammonia above
+litmus | 1.5 | acid litmus red | base litmus blue
+neutral-ph | 1.3 | neutral seven water ph | acid base
+neutralization | 1.4 | neutralization acid base salt water |
+metal-properties | 1.6 | metal lustrous shiny malleable ductile conductor copper silver aluminum iron gold | nonmetal brittle dull insulator sulfur
+metalloids | 1.3 | metalloid silicon boron germanium semiconductor |
+periodic-families | 1.1 | group column family periodic similar valence properties | period row
+noble-gases | 1.5 | noble inert stable helium neon argon filled valence unreactive | reactive
+alkali-metals | 1.3 | alkali lithium sodium potassium reactive one valence | noble inert
+halogens | 1.3 | halogen fluorine chlorine bromine iodine seven reactive | noble
+ionic-bonds | 1.5 | ionic transfer electron metal nonmetal sodium chlorine salt ion | covalent share molecule nonmetal
+covalent-bonds | 1.3 | covalent share electron molecule oxygen hydrogen nitrogen carbon water | neutron proton
+oxygen-molecule | 1.4 | oxygen diatomic double covalent bond | neutron
+carbon-bonding | 1.1 | carbon organic four bond life diamond graphite hydrocarbon |
+water-formula | 1.5 | water h2o hydrogen oxygen two one |
+carbon-dioxide-formula | 1.1 | dioxide co2 carbon oxygen gas greenhouse |
+air-composition | 1.4 | atmosphere air nitrogen abundant seventy eight 78 |
+oxygen-life | 1.2 | oxygen respiration breath combustion aerobic |
+hydrogen-light | 1.3 | hydrogen lightest abundant sun fusion |
+helium-balloons | 1.2 | helium balloon lighter inert noble |
+salt-formula | 1.3 | salt sodium chlorine chloride ionic crystal nacl |
+carbon-dioxide-limewater | 0.9 | dioxide limewater cloudy exhale combustion |
+radioactive-decay | 1.4 | radioactive unstable nucleus decay radiation isotope halflife | stable
+nuclear-fission-fusion | 1.6 | fission split uranium reactor | fusion combine hydrogen helium sun star
+catalyst | 1.5 | catalyst enzyme speed reaction unchanged activation lower |
+chemical-energy | 1.2 | chemical energy bond food battery fuel gasoline |
+# STATES, FLUIDS AND TEMPERATURE
+solid-definition | 1.7 | solid definite shape fixed volume tightly packed vibrate ice rock | gas indefinite expand compressible
+liquid-definition | 1.4 | liquid definite volume flow container shape water | solid rigid fixed
+state-particles | 1.4 | gas far apart fast freely compressible expands | solid close packed lattice fixed
+particle-motion | 1.4 | heat hot temperature kinetic faster movement | cold cool slower
+thermal-expansion | 1.6 | heat warm expand expansion volume larger | cold cool contract contraction smaller
+melt-freeze | 1.8 | melt solid liquid heat warmer | freeze liquid solid cold cooler
+boil-condense | 1.7 | boil evaporation liquid gas heat vapor | condense gas liquid cold dew
+sublimation | 1.6 | sublimation solid gas dry ice mothball | liquid
+state-deposition | 1.3 | deposition gas solid frost snow | sublimation
+freezing-point | 1.4 | freeze water ice zero celsius 32 fahrenheit | boil hundred 100 212
+boiling-point | 1.3 | boil steam water hundred 100 celsius 212 fahrenheit | freeze zero 32
+absolute-zero | 1.4 | kelvin absolute zero coldest minimum motion |
+heat-temperature | 1.1 | temperature thermometer average kinetic particle | heat transfer total
+heat-flow | 1.8 | heat transfer hot warm cold equilibrium |
+conduction | 1.7 | conduction contact touch solid metal pan spoon | convection current fluid radiation vacuum
+convection | 1.7 | convection current fluid liquid gas rise sink density mantle | conduction contact
+radiation | 1.6 | radiation electromagnetic sun infrared vacuum space | conduction contact convection medium
+insulation | 1.4 | insulator insulation wool fur air foam fiberglass plastic wood rubber | conductor copper aluminum metal
+thermal-conductors | 1.3 | conductor heat metal copper aluminum silver pan | plastic wood rubber
+hot-air-rises | 1.5 | hot warm rise rising expand less dense convection | cold cool sink sinking denser
+water-anomaly | 1.5 | ice float less density expand freeze | liquid denser
+latent-heat | 1.0 | phase change melt boil temperature constant energy |
+pressure-volume | 1.6 | pressure compress smaller volume gas | expand larger volume
+pressure-altitude | 1.5 | altitude mountain high low pressure thin air | sea level high pressure
+fluid-density | 1.5 | density mass volume ratio divide | weight force
+float-sink | 1.8 | float buoyancy less dense displaced upward | sink gravity denser downward
+buoyant-force | 1.3 | buoyancy water displaced upward archimedes | weight downward gravity
+density-sorting | 1.1 | petroleum float water wood cork | metal sink rock
+pressure-area | 1.2 | pressure force area pascal |
+diffusion | 1.4 | diffusion spread concentration high low random particle |
+osmosis | 1.5 | osmosis water membrane concentration selective permeable |
+surface-tension | 1.3 | surface tension water cohesion droplet insect |
+capillary-action | 1.3 | capillary adhesion cohesion narrow tube plant xylem water |
+viscosity | 1.2 | viscosity thick resistance flow honey syrup | thin water fast
+# MECHANICS
+motion-reference | 1.4 | motion position reference relative frame distance time |
+speed-formula | 1.6 | speed distance time divide meter second rate |
+velocity-definition | 1.4 | velocity speed direction vector | scalar
+acceleration-definition | 1.5 | acceleration velocity change speed direction time | constant
+inertia-definition | 1.6 | inertia mass resist motion rest newton first |
+newton-second | 1.5 | acceleration force mass newton second |
+force-push-pull | 1.5 | force push pull motion newton |
+balanced-force | 1.6 | balanced equal opposite net zero constant velocity rest | unbalanced acceleration change
+newton-third | 1.7 | action reaction equal opposite force rocket recoil |
+friction | 1.6 | friction rubbing rough resist oppose motion heat brake | smooth lubricant oil less
+rolling-friction | 1.2 | rolling wheel bearing reduce friction | sliding rough
+lubrication | 1.4 | lubricant petroleum grease oil smooth reduce friction | rough
+friction-traction | 1.2 | traction tire tread shoe grip friction rough | slippery ice
+surface-friction | 1.0 | rough sandpaper greater friction | smooth ice less friction
+momentum | 1.3 | momentum mass velocity collision |
+gravity | 1.7 | gravity gravitational mass attract earth fall orbit weight | repel
+weight | 1.5 | weight gravity force newton spring balance | mass kilogram gram
+mass-weight | 1.2 | mass matter constant kilogram inertia | weight gravity moon planet
+free-fall | 1.2 | gravity fall acceleration same vacuum | air resistance
+air-resistance | 1.4 | drag air resistance parachute surface area slower | streamlined faster
+terminal-velocity | 1.1 | terminal velocity air resistance gravity balanced constant |
+gravity-distance | 1.2 | gravity mass closer stronger | farther weaker
+orbit-gravity | 1.3 | orbit gravity inertia satellite planet moon |
+centripetal | 1.3 | centripetal circular center force direction |
+work-definition | 1.4 | work force distance movement joule |
+power-definition | 1.4 | power work energy time watt |
+kinetic-energy | 1.7 | kinetic movement motion speed mass moving | potential stored position height
+potential-energy | 1.5 | potential stored height stretched spring chemical gravity | kinetic moving
+mechanical-energy | 1.0 | mechanical kinetic potential work motion |
+energy-conservation | 1.6 | energy conserved transform transfer total equal closed | destroyed created lost disappear
+energy-transform-light | 1.3 | bulb lamp flashlight electrical light heat |
+energy-transform-motor | 1.4 | motor fan electrical mechanical kinetic motion |
+energy-transform-generator | 1.4 | generator turbine mechanical electrical electricity |
+energy-transform-battery | 1.4 | battery chemical electrical electricity cell |
+energy-transform-food | 1.2 | food chemical muscle mechanical heat energy |
+energy-transform-plant | 1.4 | photosynthesis solar sunlight chemical food glucose |
+energy-transform-solar-cell | 1.4 | photovoltaic solar cell sunlight electricity electrical |
+energy-transform-rubbing | 1.2 | friction rubbing mechanical thermal heat |
+energy-transform-sound | 1.0 | speaker radio electrical vibration sound |
+energy-heat-loss | 1.2 | friction heat thermal dissipate waste efficiency |
+efficiency | 1.3 | efficiency useful output input ratio percent machine energy |
+simple-machine | 1.2 | machine force distance work mechanical advantage effort load |
+machine-force-distance | 1.3 | machine less force greater distance |
+lever | 1.6 | lever fulcrum pivot seesaw crowbar scissors force |
+pulley | 1.5 | pulley rope wheel lift flagpole direction |
+inclined-plane | 1.5 | incline ramp slope plane raise distance |
+wedge | 1.4 | wedge axe knife blade split cut |
+screw | 1.4 | screw spiral incline plane thread |
+wheel-axle | 1.4 | wheel axle doorknob bicycle steering |
+first-class-lever | 1.2 | fulcrum center seesaw scissors first |
+second-class-lever | 1.2 | load center wheelbarrow nutcracker second |
+third-class-lever | 1.1 | effort center tweezers fishing arm third |
+elastic-force | 1.3 | elastic spring stretch compress restore potential rubber |
+pendulum-period | 1.4 | pendulum length period longer slower | shorter faster
+# ELECTRICITY, MAGNETISM, WAVES AND LIGHT
+charge-attraction | 1.6 | opposite unlike charge attract positive negative | like same repel
+static-electricity | 1.5 | static electricity electron transfer friction rubbing balloon charge lightning |
+current-definition | 1.5 | current electricity electron flow ampere charge |
+voltage-definition | 1.4 | voltage volt potential difference battery |
+resistance-definition | 1.4 | resistance ohm current oppose wire |
+ohm-law | 1.3 | current voltage resistance ohm divide |
+electrical-conductor | 1.7 | conductor metal copper silver aluminum wire electricity | insulator rubber plastic glass wood
+circuit-closed | 1.8 | closed complete circuit current light bulb switch | open broken gap off
+series-parallel | 1.8 | series single path one dim break | parallel multiple paths independent brighter
+series-batteries | 1.1 | battery series voltage add greater |
+short-circuit | 1.2 | short circuit low resistance heat dangerous fuse |
+fuse-breaker | 1.4 | fuse breaker safety overload heat circuit stop protect |
+resistor-heat | 1.3 | resistance heat thermal toaster heater filament |
+wire-resistance | 1.4 | long thin resistance greater | short thick resistance less
+magnetic-metals | 1.6 | magnet iron nickel cobalt steel | aluminum copper silver gold wood plastic
+magnet-poles | 1.5 | magnet pole north south field compass |
+magnetic-poles-force | 1.4 | opposite pole attract north south | like pole repel
+compass | 1.5 | compass north magnet earth direction field |
+magnetic-field | 1.1 | field iron filing pole strongest magnet |
+electromagnet | 1.5 | electromagnet wire coil current iron core magnetic electricity |
+electromagnet-strength | 1.3 | electromagnet turns coil current battery stronger |
+electric-motor | 1.2 | motor magnet current force rotate |
+induction | 1.3 | induction generator changing magnet coil electrical current |
+wave-energy | 1.4 | wave energy transfer disturbance vibration medium | matter transport
+mechanical-wave | 1.5 | mechanical sound water medium matter vibration | electromagnetic vacuum light
+transverse-longitudinal | 2.0 | transverse perpendicular crest trough light | longitudinal parallel compression rarefaction sound
+wave-variables | 1.1 | wavelength crest trough distance frequency amplitude period |
+frequency-pitch | 1.7 | frequency pitch high short wavelength fast vibration | low long wavelength slow
+amplitude-loudness | 1.7 | amplitude loud volume energy height wave | frequency pitch
+wave-speed-medium | 1.1 | speed medium wave density elasticity |
+sound-medium | 1.7 | sound vibration medium matter solid liquid gas | vacuum space silent
+sound-speed | 1.4 | sound solid faster tightly packed | gas air slower
+sound-echo | 1.5 | echo reflection sound wave bounce |
+doppler | 1.5 | doppler approaching higher frequency pitch blue | receding lower red
+light-electromagnetic | 1.5 | light electromagnetic radiation vacuum sun speed | sound medium
+light-speed | 1.2 | light vacuum fastest 300000 kilometer second |
+reflection-mirror | 1.6 | reflection mirror bounce shiny angle incidence equal | refraction bend
+refraction | 1.6 | refraction bend medium speed lens prism water straw | reflection bounce
+opaque-transparent | 1.7 | transparent clear glass transmit see light | opaque block wood metal shadow
+translucent | 1.4 | translucent wax paper frosted scatter some light blurry | transparent clear
+light-absorption | 1.6 | black dark absorption heat all color | white light reflection all color
+light-colors | 1.3 | prism rainbow spectrum refraction dispersion white color |
+red-blue-spectrum | 1.4 | red long wavelength low frequency infrared | violet blue short wavelength high frequency ultraviolet
+visible-spectrum | 1.1 | visible red orange yellow green blue indigo violet rainbow |
+convex-concave-lens | 1.5 | convex converge magnify lens thicker center | concave diverge thinner center
+concave-mirror | 1.0 | concave mirror focus inward telescope | convex outward diverge
+optical-instruments | 1.2 | telescope microscope lens magnify light image |
+shadow | 1.4 | shadow opaque block light straight | transparent
+solar-heat-radiation | 1.2 | sun earth radiation electromagnetic infrared | conduction convection
+# EARTH MATERIALS, GEOLOGY AND WATER
+rock-cycle | 0.6 | rock igneous sedimentary metamorphic weathering erosion melt pressure |
+igneous | 1.8 | igneous magma lava cool solidify crystal granite basalt obsidian pumice | sedimentary sediment
+sedimentary | 1.8 | sedimentary sediment layer compaction cementation sandstone shale limestone fossil | igneous magma
+metamorphic | 1.8 | metamorphic heat pressure changed marble slate gneiss | magma melt
+intrusive-igneous | 1.5 | intrusive granite slow cooling large crystal underground | extrusive basalt fast cooling small crystal surface
+volcanic-glass | 1.3 | obsidian glass rapid cooling amorphous | crystal crystalline
+pumice | 1.3 | pumice gas bubble porous float volcanic |
+limestone | 1.3 | limestone calcite shell calcium carbonate sedimentary acid cave |
+metamorphic-parent | 1.2 | limestone marble metamorphic |
+shale-slate | 1.2 | shale slate metamorphic |
+sand-sandstone | 1.2 | sand sandstone sediment compaction cementation |
+granite-gneiss | 1.2 | granite gneiss metamorphic |
+mineral-definition | 1.4 | mineral natural inorganic solid crystal definite composition | organic artificial liquid
+mineral-properties | 1.2 | mineral hardness streak color luster cleavage fracture crystal |
+mohs-hardness | 1.4 | hardness scratch diamond ten talc one mohs |
+streak | 1.4 | streak powder color porcelain mineral |
+cleavage-fracture | 1.4 | cleavage flat smooth planes | fracture irregular broken
+acid-test | 1.4 | calcite limestone acid fizz carbonate |
+quartz | 1.1 | quartz silicon oxygen seven hardness crystal sand |
+fossil-formation | 1.5 | fossil sedimentary buried remains organism sediment layer | igneous metamorphic heat
+fossil-evidence | 1.3 | fossil past environment extinct organism history evidence evolution |
+index-fossil | 1.4 | index fossil widespread short time relative age correlate |
+superposition | 1.7 | superposition oldest bottom lowest layer | youngest top upper
+relative-absolute-age | 1.4 | relative superposition layer older younger | absolute radioactive radiometric isotope halflife
+half-life | 1.2 | halflife radioactive decay half isotope absolute age |
+cross-cutting | 1.2 | intrusion fault younger cutting older rock |
+unconformity | 1.3 | unconformity erosion missing gap layer time |
+weathering-erosion | 1.8 | weathering break crack disintegrate in place | erosion transport carry move sediment
+physical-weathering | 1.6 | physical weathering freeze ice wedge root crack pavement | chemical acid dissolve oxygen
+chemical-weathering | 1.5 | chemical weathering acid rain oxidation dissolve limestone | mechanical ice root
+freeze-thaw | 1.5 | freeze ice expand crack rock weathering |
+erosion-agents | 1.4 | erosion wind water glacier gravity transport sediment |
+deposition-erosion | 1.6 | deposition settle slow drop sediment delta | erosion carry transport fast
+stream-speed | 1.4 | steep slope fast stream erosion large particle | gentle slow deposition small particle
+river-delta | 1.4 | delta river mouth deposition sediment ocean |
+meander | 1.2 | meander river bend outer erosion inner deposition |
+valley-shape | 1.5 | glacier u valley moraine till | river v valley canyon
+wind-deposition | 1.2 | wind sand dune loess desert deposition |
+soil-formation | 1.3 | soil weathering rock mineral humus decomposer |
+humus | 1.5 | humus organic dead decay fertile nutrient topsoil |
+soil-particle-size | 1.4 | clay smallest fine slow water | sand largest coarse fast water
+loam | 1.4 | loam clay silt sand humus fertile |
+soil-conservation | 1.5 | soil conserve terrace contour plow cover crop root grass windbreak | erosion deforestation bare
+plant-roots-erosion | 1.4 | root plant grass hold soil reduce erosion | bare runoff
+permeability | 1.5 | permeability porous gravel sand water pass | impermeable clay bedrock
+porosity | 1.3 | porosity pore space water storage soil rock |
+groundwater | 1.4 | groundwater aquifer well infiltration porous permeable water table |
+runoff | 1.2 | runoff surface rain river watershed impermeable pavement | infiltration groundwater
+watershed | 1.4 | watershed drainage land river stream runoff |
+water-cycle | 0.7 | water cycle evaporation condensation precipitation runoff transpiration |
+evaporation-water-cycle | 1.4 | evaporation sun heat liquid vapor ocean |
+condensation-cloud | 1.5 | condensation cloud droplet dew cooling vapor |
+precipitation | 1.4 | precipitation rain snow sleet hail gravity cloud |
+transpiration-water-cycle | 1.5 | transpiration plant leaf stomata water vapor |
+water-reservoir | 1.5 | ocean salt largest water reservoir earth | freshwater glacier ice small
+freshwater-storage | 1.3 | freshwater glacier ice cap frozen largest |
+water-purification | 1.3 | water filtration distillation boil disinfect bacteria clean |
+water-pollution | 1.3 | pollution runoff fertilizer sewage pesticide water algae |
+eutrophication | 1.5 | eutrophication fertilizer nitrate phosphate algae bloom oxygen dead fish |
+plate-tectonics | 1.3 | plate tectonic crust lithosphere mantle movement convection earthquake volcano |
+earth-layers | 0.8 | earth crust mantle core inner outer layer |
+crust | 1.4 | crust thin outer rock solid continental oceanic | core center iron nickel
+mantle | 1.4 | mantle convection hot plastic rock magma asthenosphere |
+core | 1.5 | core iron nickel dense center magnetic | crust thin
+inner-outer-core | 1.5 | inner core solid pressure | outer core liquid magnetic
+lithosphere | 1.3 | lithosphere crust upper mantle rigid plate | asthenosphere plastic flow
+continental-oceanic | 1.4 | continental granite thicker less dense | oceanic basalt thinner denser
+convergent-boundary | 1.6 | convergent collide subduction trench mountain volcano compression | divergent apart ridge new crust
+transform-boundary | 1.5 | transform slide past fault earthquake shear | divergent spreading convergent collision
+seafloor-spreading | 1.5 | spreading ridge divergent new crust magma younger | trench subduction old crust
+continental-drift | 1.4 | drift pangaea continent fossil coastline matching wegener |
+subduction | 1.4 | subduction oceanic dense sink trench magma volcano convergent |
+mountain-building | 1.3 | mountain collision continental compression uplift fold |
+earthquake | 1.5 | earthquake fault plate seismic energy vibration |
+earthquake-focus | 1.3 | focus underground earthquake origin | epicenter surface above
+seismic-waves | 1.4 | p primary compression fastest solid liquid | s secondary transverse solid
+liquid-outer-core | 1.3 | s wave blocked outer core liquid |
+seismograph | 1.5 | seismograph seismometer earthquake seismic vibration record |
+volcano | 1.4 | volcano magma lava eruption gas ash plate boundary |
+magma-lava | 1.5 | magma underground molten rock | lava surface eruption
+hotspot | 1.3 | hotspot hawaii volcano mantle plume island |
+volcanic-hazards | 1.0 | volcano ash lava gas eruption danger |
+# WEATHER AND CLIMATE
+air-pressure | 1.3 | air pressure atmosphere weight barometer |
+weather-climate | 1.6 | weather short daily conditions temperature rain | climate long average years region
+weather-instruments | 0.4 | weather temperature pressure wind humidity rain instrument |
+thermometer | 1.6 | thermometer temperature celsius fahrenheit heat |
+barometer | 1.6 | barometer pressure atmosphere millibar |
+anemometer | 1.6 | anemometer wind speed |
+wind-vane | 1.6 | windvane wind direction |
+hygrometer | 1.6 | hygrometer humidity moisture water vapor |
+rain-gauge | 1.6 | raingauge rainfall precipitation amount |
+humidity | 1.4 | humidity water vapor atmosphere moisture |
+relative-humidity | 1.1 | relative humidity saturation dewpoint temperature condensation |
+cloud-formation | 1.3 | cloud cooling condensation rising expansion water droplet |
+fog | 1.4 | fog cloud ground condensation dew |
+cirrus | 1.4 | cirrus high wispy ice crystal cloud |
+cumulus | 1.3 | cumulus puffy cotton fair weather cloud |
+stratus | 1.3 | stratus flat layer gray cloud drizzle |
+cumulonimbus | 1.5 | cumulonimbus thunderstorm tall dark lightning heavy rain |
+front | 1.2 | front boundary air mass temperature weather |
+cold-front | 1.4 | cold front dense under warm steep thunderstorm rapid rain | warm front gentle long steady
+pressure-weather | 1.7 | high pressure clear dry sinking fair | low pressure cloudy storm rising rain
+wind-definition | 1.5 | wind air movement pressure unequal heating |
+wind-direction-pressure | 1.3 | wind high pressure low pressure flow |
+sea-land-breeze | 1.5 | sea breeze day land warmer ocean cooler | land breeze night ocean warmer
+land-water-heating | 1.5 | land sand heat cool faster | water ocean heat cool slower capacity
+convection-weather | 1.4 | convection warm rise cold sink wind circulation |
+coriolis | 1.3 | coriolis rotation earth deflect wind current |
+hurricane | 1.6 | hurricane warm ocean tropical water low pressure storm | land cold weaken
+hurricane-energy | 1.3 | hurricane evaporation condensation warm water energy |
+tornado | 1.5 | tornado funnel rotating thunderstorm wind narrow land |
+thunder-lightning | 1.4 | lightning electrical discharge thunder sound storm |
+light-before-sound | 1.3 | lightning light faster thunder sound |
+blizzard | 1.3 | blizzard snow strong wind cold winter |
+drought | 1.4 | drought dry little rain water shortage | flood heavy rain
+rain-shadow | 1.5 | rainshadow leeward dry desert | windward wet mountain rising
+latitude-climate | 1.4 | equator tropical warm direct sunlight | pole polar cold slant indirect
+altitude-temperature | 1.6 | altitude mountain high cold cooler snow | low warm
+maritime-climate | 1.3 | ocean coast moderate mild temperature stable | inland continental extreme
+currents-climate | 1.1 | ocean current climate heat equator pole gulf stream |
+greenhouse | 1.6 | greenhouse dioxide methane water vapor infrared trap heat warming |
+climate-change | 1.3 | climate warming greenhouse fossil combustion dioxide sea level melt |
+ozone | 1.6 | ozone stratosphere ultraviolet absorb protect skin radiation |
+weather-layer | 1.5 | troposphere weather cloud rain lowest atmosphere | stratosphere ozone
+atmosphere-layers | 0.7 | atmosphere troposphere stratosphere mesosphere thermosphere exosphere |
+meteor-layer | 1.2 | mesosphere meteor burn |
+aurora | 1.2 | aurora ionosphere magnetic solar charged particle polar |
+air-composition-earth | 1.1 | air atmosphere nitrogen oxygen gas |
+acid-rain | 1.5 | acid rain sulfur nitrogen pollution combustion fossil limestone damage |
+smog | 1.2 | smog air pollution car ozone sunlight |
+# SPACE AND ASTRONOMY
+solar-system | 0.7 | solar system sun planet orbit asteroid comet |
+sun-star | 1.7 | sun star hot gas fusion hydrogen helium light energy | planet reflect
+planet-light | 1.4 | planet moon reflect sunlight | star produce light fusion
+planet-orbit | 1.4 | planet orbit revolve sun gravity ellipse |
+solar-order | 0.5 | mercury venus earth mars jupiter saturn uranus neptune planet |
+inner-outer-planets | 1.8 | inner terrestrial rocky small mercury venus earth mars | outer gas giant large jupiter saturn uranus neptune
+mercury | 1.7 | mercury closest sun smallest crater hot cold |
+venus | 1.7 | venus hottest greenhouse thick dioxide cloud |
+earth-planet | 1.5 | earth liquid water life atmosphere oxygen |
+mars | 1.6 | mars red iron oxide thin atmosphere |
+jupiter | 1.6 | jupiter largest great red spot gas giant |
+saturn | 1.6 | saturn ring ice gas giant |
+uranus | 1.4 | uranus tilted axis sideways blue methane |
+neptune | 1.4 | neptune farthest blue wind methane |
+pluto | 1.3 | pluto dwarf planet kuiper icy |
+asteroid-comet | 1.7 | asteroid rock metal belt mars jupiter | comet ice dust tail sun
+meteoroid-meteorite | 1.4 | meteoroid space rock | meteor atmosphere streak meteorite ground
+comet-tail | 1.4 | comet tail away sun solar wind ice |
+rotation-revolution | 1.8 | rotation spin axis day night 24 hour | revolution orbit year 365 sun
+seasons-tilt | 1.9 | season tilt axis revolution sunlight angle hemisphere | distance sun
+summer-winter | 1.8 | summer tilted toward direct sunlight longer day warm | winter away indirect shorter day cold
+hemisphere-seasons | 1.2 | hemisphere north south opposite summer winter |
+equinox | 1.4 | equinox equal day night spring fall march september | solstice longest shortest june december
+solstice | 1.3 | solstice summer winter june december longest shortest |
+sunrise-sunset | 1.9 | sunrise dawn east rises | sunset dusk west sets
+apparent-sun-motion | 1.3 | sun east west apparent earth rotation |
+rotation-direction | 1.2 | earth rotation west east counterclockwise |
+moon-phases | 1.6 | lunar phase moon sunlight lit position orbit month | earth shadow eclipse
+lunar-month | 1.3 | moon orbit phase month 29 28 |
+full-new-moon | 1.5 | full moon opposite earth sun illuminated | new moon between earth sun dark
+waxing-waning | 1.5 | waxing growing illuminated crescent gibbous | waning shrinking decreasing
+lunar-surface | 1.3 | moon crater rocky airless gravity low | atmosphere air weather
+moon-rotation | 1.3 | moon same face rotation revolution equal synchronous |
+solar-lunar-eclipse | 1.8 | solar eclipse moon between sun earth shadow new | lunar eclipse earth between sun moon shadow full
+moon-gravity-tides | 1.6 | tide moon gravity ocean high low sun |
+spring-neap-tides | 1.4 | spring tide aligned new full greatest | neap quarter perpendicular least
+star-color-temperature | 1.7 | blue white star hottest | red star coolest
+star-distance-brightness | 1.3 | brightness distance nearer larger luminosity | farther dimmer
+star-energy | 1.5 | star fusion hydrogen helium nuclear energy | chemical combustion
+star-life | 1.1 | star nebula gravity protostar fusion main sequence giant dwarf supernova |
+stellar-remnants | 1.2 | massive star supernova neutron black hole | small star white dwarf
+constellations | 1.3 | constellation star pattern apparent night sky |
+galaxy | 1.5 | galaxy billions star milky way spiral | solar system planet
+galactic-location | 1.4 | sun earth milky way galaxy universe |
+universe | 1.2 | universe galaxy expansion big bang redshift |
+light-year | 1.6 | lightyear light year distance star astronomical parsec | time
+astronomical-unit | 1.3 | astronomical unit distance earth sun au |
+telescope | 1.5 | telescope distant star planet astronomy lens mirror light | microscope tiny cell
+space-vacuum | 1.2 | space vacuum airless silent | air sound medium
+satellite | 1.2 | satellite orbit gravity communication weather earth moon |
+# CELL BIOLOGY AND BIOCHEMISTRY
+living-characteristics | 1.0 | life organism cell growth reproduce energy response homeostasis | nonliving
+cell-theory | 1.4 | cell fundamental unit life organism existing cell |
+cell-membrane | 1.7 | membrane cell selective permeable barrier controls enter leave |
+cell-wall | 1.5 | wall plant rigid support cellulose fungus bacteria | animal
+nucleus | 1.6 | nucleus dna chromosome gene control cell |
+cytoplasm | 1.3 | cytoplasm jelly cell organelle chemical reaction |
+mitochondria | 1.8 | mitochondrion respiration energy atp food oxygen powerhouse | chloroplast photosynthesis
+chloroplast | 1.8 | chloroplast chlorophyll photosynthesis plant green sunlight glucose | mitochondrion respiration
+ribosome | 1.5 | ribosome protein synthesis amino acid |
+vacuole | 1.4 | vacuole storage water nutrient waste plant large |
+lysosome | 1.3 | lysosome digest waste enzyme breakdown cell |
+endoplasmic-reticulum | 1.2 | endoplasmic reticulum transport protein lipid |
+golgi | 1.3 | golgi apparatus package protein transport secretion |
+plant-animal-cells | 1.5 | plant cell wall chloroplast large vacuole | animal cell membrane mitochondrion
+prokaryote-eukaryote | 1.6 | prokaryote bacterium simple nucleoid | eukaryote nucleus organelle plant animal fungus protist
+unicellular-multicellular | 1.4 | unicellular bacterium amoeba yeast paramecium one cell | multicellular tissue organ plant animal
+organization-levels | 1.2 | cell tissue organ system organism organization |
+tissue | 1.4 | tissue similar cell function |
+organ | 1.2 | organ tissue heart stomach leaf function |
+homeostasis | 1.5 | homeostasis stable internal balance temperature water blood |
+diffusion-cell | 1.1 | diffusion membrane concentration oxygen particle |
+osmosis-cell | 1.2 | osmosis water cell membrane concentration swelling |
+active-transport | 1.3 | active transport energy membrane concentration low high | passive diffusion osmosis
+photosynthesis | 1.6 | photosynthesis sunlight chlorophyll glucose oxygen plant dioxide water |
+photosynthesis-input-output | 1.8 | photosynthesis reactant dioxide water sunlight absorb | product glucose oxygen release
+photosynthetic-food | 1.6 | photosynthesis glucose sugar food chemical solar chloroplast |
+photosynthetic-pigment | 1.5 | chlorophyll green light absorption photosynthesis |
+respiration | 1.6 | respiration oxygen glucose atp energy dioxide water mitochondrion |
+respiration-input-output | 1.6 | respiration reactant oxygen glucose | product dioxide water energy
+anaerobic | 1.4 | anaerobic fermentation yeast alcohol lactic | aerobic oxygen
+fermentation | 1.2 | fermentation yeast bread alcohol dioxide sugar |
+atp | 1.4 | atp energy cell mitochondrion respiration |
+protein | 1.3 | protein amino acid enzyme growth repair muscle ribosome |
+carbohydrate | 1.4 | carbohydrate sugar starch glucose energy bread rice potato |
+lipid | 1.3 | lipid fat oil energy storage membrane insulation |
+nucleic-acid | 1.4 | nucleic dna rna nucleotide genetic information |
+enzyme | 1.4 | enzyme protein catalyst digestion reaction temperature |
+vitamin-mineral | 1.0 | vitamin mineral nutrient health small diet |
+water-organism | 1.0 | water solvent transport reaction life cell |
+# PLANTS
+plant-root | 1.8 | root absorb water mineral soil anchor support | leaf photosynthesis
+plant-stem | 1.6 | stem support transport xylem phloem vascular |
+plant-leaf | 1.6 | leaf photosynthesis sunlight chloroplast stomata gas |
+xylem-phloem | 1.8 | xylem water mineral root upward | phloem sugar food leaf transport
+stomata | 1.7 | stomata leaf opening gas dioxide oxygen water transpiration |
+guard-cell | 1.4 | guard cell stomata opening water regulate |
+transpiration | 1.4 | transpiration evaporation water leaf stomata pull |
+root-hair | 1.4 | root hair surface area absorb water mineral |
+plant-flower | 1.5 | flower reproduction seed pollen sexual fruit |
+stamen-pistil | 1.7 | stamen anther pollen male | pistil stigma style ovary female
+pollination | 1.7 | pollination pollen anther stigma bee insect wind flower |
+fertilization-plant | 1.4 | fertilization pollen ovule sperm egg seed |
+seed-fruit | 1.5 | seed ovule embryo | fruit ovary protection dispersal
+seed-germination | 1.5 | germination seed water oxygen warm temperature embryo |
+seed-dispersal | 1.3 | dispersal seed wind animal water fruit wing hook |
+spore-plants | 1.6 | spore fern moss reproduce seedless | seed flower conifer
+conifer | 1.5 | conifer pine cone needle gymnosperm seed evergreen | flower fruit angiosperm
+nonvascular | 1.5 | nonvascular moss small moist diffusion | vascular fern root stem xylem
+phototropism | 1.7 | phototropism plant stem light toward sunlight |
+gravitropism | 1.4 | gravitropism root gravity downward | stem upward
+thigmotropism | 1.2 | thigmotropism touch vine tendril climbing |
+cactus-adaptations | 1.7 | cactus desert spine thick stem wax water storage |
+leaf-water-loss | 1.4 | wax cuticle small leaf needle reduce water loss | broad thin
+plant-nutrients | 1.2 | plant nitrogen phosphorus potassium fertilizer mineral root |
+nitrogen-fixation | 1.6 | nitrogenfixation bacterium legume root nodule nitrogen ammonia ammonium nitrate |
+plant-bacteria | 1.2 | bacterium soil nutrient plant decomposition nitrogen |
+# GENETICS, REPRODUCTION AND EVOLUTION
+heredity | 1.6 | heredity gene dna chromosome parent offspring trait inherited | acquired learned
+inherited-acquired | 1.6 | inherited eye color blood fur natural gene | acquired scar skill learned exercise haircut
+chromosome-genes | 1.4 | chromosome dna gene nucleus information inheritance |
+genotype-phenotype | 1.5 | genotype allele gene genetic | phenotype appearance expressed trait environment
+allele | 1.4 | allele gene version dominant recessive |
+dominant-recessive | 1.4 | dominant capital expressed heterozygous | recessive lowercase homozygous
+punnett-square | 1.4 | punnett square probability allele offspring cross inherited |
+homozygous-heterozygous | 1.4 | homozygous identical same allele purebred | heterozygous different hybrid
+sexual-asexual | 1.7 | sexual two parent sperm egg variation meiosis fertilization | asexual one parent identical clone mitosis
+mitosis-meiosis | 1.7 | mitosis growth repair two identical diploid | meiosis gamete sperm egg four half haploid
+fertilization | 1.4 | fertilization sperm egg zygote embryo chromosome combine |
+mutation | 1.6 | mutation dna gene change variation radiation |
+natural-selection | 1.6 | selection adaptation variation survival reproduce environment inherited | acquired intentional need
+adaptation-definition | 1.5 | adaptation inherited trait survival environment reproduction | learned acquired
+camouflage | 1.8 | camouflage color blend hide predator prey protection |
+mimicry | 1.5 | mimicry resemble poisonous dangerous protection |
+evolution | 1.3 | evolution population inherited generation change fossil selection |
+selective-breeding | 1.4 | selective breeding artificial human desirable trait dog crop | natural selection
+extinction | 1.4 | extinct species disappear habitat loss environmental change fossil |
+fossil-evolution | 1.1 | fossil ancestor evidence evolution past extinct |
+homologous | 1.3 | homologous structure common ancestor limb bone | analogous function
+vestigial | 1.2 | vestigial reduced structure ancestor evolution |
+antibiotic-resistance | 1.4 | antibiotic resistance bacterium mutation selection survive reproduce |
+behavior | 1.1 | behavior response stimulus survival learned instinct |
+instinct | 1.4 | instinct innate inherited unlearned reflex spider web | learned training practice
+migration | 1.4 | migration seasonal move food warm bird | hibernation dormant sleep
+hibernation | 1.5 | hibernation winter dormant slow metabolism conserve energy | migration move
+# ANIMALS AND BODY SYSTEMS
+classification | 1.1 | classification kingdom phylum class order family genus species |
+species | 1.5 | species reproduce fertile offspring similar |
+binomial-names | 1.3 | scientific name genus species latin binomial |
+vertebrate-invertebrate | 1.7 | vertebrate backbone skeleton fish amphibian reptile bird mammal | invertebrate insect worm jellyfish mollusk
+mammals | 1.7 | mammal hair fur milk warm blood live young human whale dolphin bat | fish reptile amphibian
+birds | 1.6 | bird feather wing beak egg warm blood | mammal fur milk
+reptiles | 1.6 | reptile dry scale lung leathery egg snake lizard turtle crocodile | amphibian moist skin
+amphibians | 1.6 | amphibian frog salamander toad moist skin water land metamorphosis | reptile dry scale
+fish | 1.6 | fish gill fin scale water cold blood shark salmon trout | mammal lung
+insects | 1.7 | insect six leg three body antenna exoskeleton bee ant beetle butterfly fly grasshopper | arachnid eight spider
+arachnids | 1.6 | arachnid spider eight leg two body | insect six antenna
+crustaceans | 1.4 | crustacean crab shrimp lobster exoskeleton gill aquatic |
+mollusks | 1.4 | mollusk clam snail squid octopus soft shell |
+annelids | 1.3 | annelid worm segmented soil |
+echinoderms | 1.3 | echinoderm starfish seaurchin radial tube feet |
+cnidarians | 1.3 | cnidarian jellyfish coral tentacle stinging radial |
+sponges | 1.2 | sponge porous filter sessile simple aquatic |
+metamorphosis | 1.6 | metamorphosis butterfly frog egg larva pupa adult tadpole |
+complete-incomplete-metamorphosis | 1.3 | complete pupa butterfly beetle | incomplete nymph grasshopper
+endotherm-ectotherm | 1.4 | endotherm bird mammal warm blood internal temperature | ectotherm reptile fish amphibian environment cold blood
+animal-insulation | 1.5 | fur feather fat blubber insulation warm polar |
+water-animal-breathing | 1.4 | gill fish oxygen water | lung whale dolphin air mammal
+predator-structures | 1.1 | carnivore predator sharp canine claw forward eyes | herbivore flat molar side eyes
+bird-beaks | 1.2 | beak shape food seed insect adaptation |
+webbed-feet | 1.3 | webbed feet duck swimming water |
+streamlining | 1.3 | streamlined fish fin dolphin swim drag |
+bat-echolocation | 1.6 | bat echolocation sound echo night dolphin |
+polar-adaptations | 1.4 | polar bear white fur fat blubber cold camouflage |
+desert-animal | 1.2 | desert camel nocturnal conserve water heat |
+respiratory-system | 1.8 | respiratory lung breathe oxygen dioxide gas exchange alveoli diaphragm trachea |
+circulatory-system | 1.8 | circulatory heart blood vessel artery vein capillary transport oxygen nutrient |
+heart-pump | 1.5 | heart pump blood circulatory muscle |
+artery-vein | 1.6 | artery away heart thick pressure | vein toward heart valve
+capillary | 1.4 | capillary thin exchange oxygen nutrient tissue |
+red-white-blood | 1.6 | red blood hemoglobin oxygen carry | white blood immune infection antibody
+platelets | 1.4 | platelet blood clot scab bleeding |
+alveoli | 1.5 | alveoli lung capillary gas exchange oxygen dioxide surface |
+diaphragm | 1.3 | diaphragm inhale contract lung expand exhale relax |
+digestive-system | 1.7 | digestive stomach intestine mouth food nutrient breakdown enzyme |
+mouth-digestion | 1.4 | mouth teeth chewing saliva starch amylase digestion |
+stomach | 1.4 | stomach acid protein digestion muscle enzyme |
+small-intestine | 1.6 | small intestine villi nutrient absorption digestion blood | large intestine water waste
+liver | 1.4 | liver bile fat detoxify chemical |
+pancreas | 1.3 | pancreas enzyme insulin blood sugar |
+excretory-system | 1.7 | excretory kidney urine bladder waste urea filter blood |
+kidney | 1.5 | kidney filter blood waste water urine balance |
+nervous-system | 1.8 | nervous brain nerve spinal neuron impulse signal stimulus response | endocrine hormone
+nervous-fast | 1.3 | nervous fast electrical impulse nerve | endocrine slow chemical hormone
+sensory-organs | 1.2 | sensory eye ear nose tongue skin stimulus brain |
+eye | 1.4 | eye lens retina pupil iris light vision optic |
+ear | 1.4 | ear eardrum cochlea vibration sound balance hearing |
+reflex | 1.4 | reflex spinal automatic rapid response protective |
+endocrine-system | 1.8 | endocrine hormone gland chemical message messenger blood signal | nervous electrical impulse
+hormones | 1.3 | hormone growth insulin thyroid adrenal pituitary blood |
+insulin | 1.4 | insulin pancreas glucose blood sugar diabetes |
+pituitary | 1.3 | pituitary growth master gland hormone brain |
+skelet al-system | 1.7 | skeletal skeleton bone support protection shape joint |
+muscular-system | 1.6 | muscular muscle contract movement bone force tendon |
+ligament-tendon | 1.6 | ligament bone joint bone | tendon muscle bone
+bones | 1.3 | bone calcium mineral support marrow blood cell |
+skin-system | 1.7 | integumentary skin protection barrier sweat temperature |
+sweating | 1.5 | sweat evaporation cooling skin temperature homeostasis |
+immune-system | 1.7 | immune white blood antibody pathogen infection defend vaccine |
+lymphatic-system | 1.4 | lymphatic lymph immune fluid drainage node |
+reproductive-system | 1.5 | reproductive sperm egg ovary testes offspring fertilization |
+body-organization | 0.7 | body organ system tissue cell function |
+exercise | 1.2 | exercise muscle heart breathing oxygen pulse faster |
+food-nutrients | 1.0 | food nutrient carbohydrate protein fat vitamin mineral water |
+protein-diet | 1.4 | protein meat egg bean fish muscle growth repair |
+carbohydrate-diet | 1.3 | carbohydrate bread rice pasta cereal starch energy |
+calcium-diet | 1.4 | calcium milk bone teeth dairy |
+vitamin-c | 1.3 | vitamin c citrus orange scurvy |
+vitamin-d | 1.3 | vitamin d sunlight calcium bone rickets |
+iron-diet | 1.3 | iron blood hemoglobin anemia oxygen |
+infectious-disease | 1.4 | infectious disease pathogen bacterium virus contagious | inherited genetic
+antibiotics | 1.5 | antibiotic bacterium infection kill | virus
+vaccines | 1.5 | vaccine immune antibody prevention memory disease |
+hygiene | 1.5 | wash hand clean soap prevent infection bacterium | dirty contaminate
+# ECOLOGY AND NATURAL RESOURCES
+ecosystem | 1.2 | ecosystem biotic abiotic organism interaction environment |
+biotic-abiotic | 1.6 | biotic living plant animal bacterium fungus organism | abiotic nonliving water rock soil sunlight temperature
+population-community | 1.5 | population same species area group | community different species together
+habitat-niche | 1.5 | habitat place live shelter | niche role function food interaction
+basic-needs | 1.2 | organism food water air space shelter survive |
+limiting-factor | 1.4 | limiting factor food water space population carrying capacity |
+carrying-capacity | 1.4 | carrying capacity maximum population sustainable resource |
+food-chain | 1.2 | food chain web energy transfer producer consumer decomposer |
+producer | 1.8 | producer autotroph plant algae grass photosynthesis sunlight food | consumer heterotroph animal
+consumer | 1.3 | consumer heterotroph animal eat food | producer autotroph
+herbivore-carnivore | 1.7 | herbivore plant deer rabbit grasshopper cow | carnivore meat lion wolf hawk snake
+omnivore | 1.6 | omnivore plant animal both bear human pig raccoon |
+decomposer | 1.8 | decomposer bacterium fungus mushroom mold decay dead waste nutrient recycle soil |
+scavenger | 1.4 | scavenger dead animal vulture hyena crab |
+food-energy-sun | 1.6 | sun sunlight source energy ecosystem producer plant |
+energy-pyramid | 1.6 | energy pyramid producer bottom most ten percent heat less higher trophic |
+food-web-arrow | 1.3 | food web arrow energy eaten predator transfer |
+energy-nutrient-cycles | 1.4 | nutrient matter cycle recycle decomposer | energy flow heat lost
+predator-prey | 1.4 | predator hunt prey population food balance |
+competition | 1.5 | competition limited resource same need food water space | cooperation
+symbiosis | 1.3 | symbiosis close relationship species organism |
+mutualism | 1.7 | mutualism both benefit bee flower pollination lichen | parasitism harm
+commensalism | 1.6 | commensalism one benefit other unaffected barnacle whale | parasitism harm
+parasitism | 1.6 | parasitism parasite host benefit harm tick flea tapeworm | mutualism both
+lichen | 1.4 | lichen fungus algae mutualism pioneer rock |
+succession | 1.4 | succession pioneer lichen moss grass shrub forest community |
+primary-secondary-succession | 1.5 | primary bare rock lichen volcano | secondary soil fire abandoned field
+biodiversity | 1.5 | biodiversity variety species stability resilience ecosystem | monoculture
+habitat-destruction | 1.3 | habitat destruction deforestation extinction biodiversity loss | preserve conservation
+invasive-species | 1.3 | invasive introduced competition native population ecosystem |
+population-growth | 1.2 | population birth immigration increase | death emigration decrease
+forest | 1.1 | forest tree rain habitat oxygen carbon storage |
+rainforest | 1.5 | rainforest tropical warm wet biodiversity tree | desert dry
+coniferous-forest | 1.3 | taiga boreal conifer pine cold evergreen |
+deciduous-forest | 1.3 | deciduous forest oak maple leaf season fall |
+grassland | 1.4 | grassland prairie savanna grass grazing fertile fire |
+desert | 1.5 | desert dry arid low precipitation cactus conserve water | rainforest wet
+ tundra | 1.5 | tundra cold permafrost short growing season moss | tropical warm
+wetland | 1.4 | wetland swamp marsh saturated filter water flood habitat |
+estuary | 1.5 | estuary river ocean salt freshwater brackish nursery |
+marine | 1.2 | marine ocean saltwater coral sea | freshwater lake pond
+pond | 1.1 | pond lake freshwater algae fish aquatic |
+coral-reef | 1.3 | coral reef warm shallow ocean biodiversity algae |
+carbon-cycle | 1.4 | carbon cycle dioxide photosynthesis respiration decomposition combustion |
+nitrogen-cycle | 1.4 | nitrogen cycle bacterium soil fixation nitrate legume decomposition |
+oxygen-cycle | 1.1 | oxygen photosynthesis respiration plant animal gas |
+renewable-nonrenewable | 2.2 | renewable solar wind hydroelectric geothermal biomass sunlight | nonrenewable fossil coal petroleum gasoline naturalgas uranium
+fossil-fuels | 1.4 | fossil fuel coal petroleum naturalgas ancient organism millions years | renewable
+solar-resource | 1.4 | solar sunlight renewable photovoltaic clean |
+wind-resource | 1.3 | wind turbine renewable clean electricity |
+hydroelectric-resource | 1.3 | hydroelectric dam falling water turbine renewable |
+geothermal-resource | 1.4 | geothermal underground heat earth renewable |
+biomass-resource | 1.3 | biomass wood crop organic fuel renewable |
+nuclear-resource | 1.3 | nuclear uranium fission electricity waste radioactive |
+resource-conservation | 1.4 | conservation conserve reduce reuse recycle resource save | waste
+recycling | 1.5 | recycle paper glass aluminum metal plastic material reuse conserve | landfill waste
+reduce | 1.2 | reduce less resource energy use efficient conserve |
+water-conservation | 1.3 | conserve water repair leak low flow drought |
+energy-saving | 1.3 | conserve energy insulation efficient light turn off |
+carbon-emissions | 1.3 | fossil fuel combustion dioxide greenhouse warming pollution | renewable solar wind
+renewable-availability | 1.2 | renewable replenish sustainable unlimited wind sun | limited finite fossil
+pollution-health | 1.1 | pollution air water health environment harmful |
+bioaccumulation | 1.4 | bioaccumulation biomagnification pesticide mercury quicksilver predator food chain concentration |
+food-supply-technology | 1.2 | transportation shipping refrigeration food variety available preservation |
+# INQUIRY, MEASUREMENT, ENGINEERING AND SAFETY
+scientific-method | 0.7 | science question hypothesis experiment observation data conclusion evidence |
+hypothesis | 1.7 | hypothesis testable explanation prediction experiment | opinion belief untestable
+observation-inference | 1.7 | observation senses measured see hear data | inference explanation interpretation conclusion
+prediction | 1.5 | prediction future expected hypothesis test | observation actual
+conclusion | 1.6 | conclusion evidence data results support hypothesis | opinion guess
+controlled-experiment | 1.6 | controlled experiment one variable fair compare test | many simultaneous
+independent-dependent | 1.9 | independent manipulated changed researcher tested variable | dependent responding measured result outcome
+control-group | 1.7 | control untreated baseline comparison normal experiment | experimental treatment
+constant-variables | 1.5 | constant same controlled conditions fair experiment | variable change
+repeat-reliable | 1.6 | repeat trial reliable accuracy confidence replicate consistent | single
+sample-size | 1.5 | sample large random representative reliable population | biased small
+fair-test | 1.3 | fair test same conditions one variable compare |
+data-evidence | 1.4 | data evidence measurement observation table graph result | opinion
+quantitative-qualitative | 1.6 | quantitative number measurement amount length mass | qualitative description color texture smell
+accuracy-precision | 1.5 | accuracy true accepted correct calibration | precision consistent repeated close
+model-use | 1.5 | model representation explain predict simulation scale | exact complete
+model-limits | 1.1 | model limitation simplified size scale details |
+theory-law | 1.5 | theory explanation evidence tested | law describe pattern relationship
+scientific-revision | 1.3 | science revise new evidence explanation test | immutable opinion
+engineering | 1.3 | engineering design problem solution criteria constraint prototype test improve |
+technology | 1.2 | technology tool solve problem human need improve |
+line-graph | 1.5 | line graph continuous time change trend | bar category compare
+bar-graph | 1.3 | bar graph category comparison amount |
+pie-chart | 1.3 | pie chart circle fraction percent whole |
+scatterplot | 1.3 | scatterplot correlation relationship two variable |
+metric-units | 0.7 | metric measurement meter gram liter second celsius |
+length-measure | 1.7 | length distance ruler meter centimeter millimeter kilometer |
+mass-measure | 1.7 | mass balance gram kilogram milligram scale |
+volume-measure | 1.7 | volume graduated cylinder liter milliliter liquid displacement |
+time-measure | 1.6 | time stopwatch clock second minute hour |
+force-measure | 1.6 | force weight spring scale newton |
+temperature-measure | 1.5 | temperature thermometer celsius fahrenheit kelvin |
+current-measure | 1.5 | current ammeter ampere |
+voltage-measure | 1.5 | voltage voltmeter volt |
+energy-unit | 1.5 | energy work joule calorie |
+power-unit | 1.5 | power watt joule second |
+pressure-unit | 1.5 | pressure pascal barometer |
+speed-unit | 1.4 | speed meter second kilometer hour |
+density-unit | 1.4 | density gram centimeter cubic kilogram meter |
+volume-displacement | 1.5 | displacement irregular rock volume water cylinder rise difference |
+meniscus | 1.4 | meniscus eye level bottom liquid graduated cylinder |
+metric-conversion | 1.1 | kilo thousand 1000 centi hundred 100 milli thousandth millimeter |
+magnification | 1.3 | microscope magnification lens eyepiece objective multiply |
+microscope-use | 1.5 | microscope microscopic cell bacterium tiny specimen magnify | telescope distant
+lab-safety | 1.7 | safety laboratory glove goggle apron wash clean protect | food drink eat taste mouth contamination
+chemical-safety | 1.5 | safety chemical goggle glove label teacher follow procedure | taste sniff touch unknown
+heat-safety | 1.4 | hot glass tongs glove burner safety | bare hand
+lab-hygiene | 1.5 | wash hand clean sterile disinfect bacterium laboratory | food drink contaminate
+lab-spill | 1.2 | spill accident broken glass report teacher safety |
+eye-safety | 1.4 | goggle eye chemical splash protection |
+fire-safety | 1.3 | fire extinguisher blanket stop drop roll |
+smell-safety | 1.3 | waft smell chemical safe | taste inhale directly
+food-preservation | 1.4 | refrigerator cold slow bacterium spoilage food preserve | warm fast
+sterilization | 1.4 | sterilize boil heat kill bacterium clean |
+# FURTHER SPECIFIC SCIENCE LINKS
+oxygen-transport | 1.2 | oxygen hemoglobin red blood lung heart respiration |
+messages-cell | 1.1 | message messenger chemical hormone membrane nucleus endocrine |
+body-support | 1.1 | support skeleton bone shape protect |
+muscle-antagonism | 1.2 | muscle pair contract relax joint movement |
+plant-energy-storage | 1.1 | plant starch glucose sugar storage photosynthesis |
+food-chain-grass-rabbit | 0.9 | grass rabbit fox food chain herbivore predator |
+food-chain-algae | 0.9 | algae plankton fish aquatic food chain |
+nitrogen-protein | 1.1 | nitrogen protein amino acid plant nutrient |
+phosphorus-dna | 1.0 | phosphorus dna atp phosphate nutrient |
+seasonal-leaves | 1.1 | autumn fall leaf deciduous chlorophyll color |
+polar-daylight | 1.0 | polar summer daylight winter darkness tilt |
+magnetic-earth | 1.1 | earth magnetic core iron liquid compass |
+sediment-rounding | 1.2 | sediment abrasion rounded smooth river transport | angular near source
+sorting-sediments | 1.1 | sorted sediment water wind | unsorted glacier till
+floodplain | 1.1 | floodplain river flood sediment fertile deposition |
+water-specific-heat | 1.2 | water high specific heat temperature moderate ocean climate | sand land
+entropy-heat | 0.9 | thermal energy random particle motion friction heat |
+fossil-fuel-age | 1.0 | coal swamp plant ancient pressure heat million year |
+coal-formation | 1.2 | coal ancient plant swamp peat sediment pressure |
+petroleum-formation | 1.2 | petroleum ancient marine plankton sediment pressure |
+acid-ocean | 1.1 | ocean acid dioxide carbonate coral shell |
+renewable-tidal | 1.1 | tide wave ocean renewable electricity turbine |
+food-web-balance | 1.0 | food web interdependence ecosystem population balance |
+bacteria-benefits | 1.2 | bacterium decomposition recycle nutrient soil digestion nitrogen |
+fungi-nutrition | 1.3 | fungus decomposer absorb nutrient mushroom mold | plant photosynthesis chlorophyll
+virus-host | 1.4 | virus host cell reproduce infection parasite | independent living
+bacteria-reproduction | 1.3 | bacterium binary fission asexual identical rapid |
+fungi-reproduction | 1.2 | fungus spore yeast budding mushroom |
+amoeba-motion | 1.2 | amoeba pseudopod cytoplasm movement protist |
+paramecium-motion | 1.2 | paramecium cilia protist movement |
+euglena | 1.2 | euglena flagellum chloroplast protist |
+plant-respire | 1.0 | plant respiration oxygen glucose night day energy |
+cell-division | 1.0 | cell division growth repair reproduce chromosome |
+egg-embryo | 1.1 | egg embryo food yolk protection shell development |
+metamorphosis-frog | 1.2 | frog tadpole gill tail water adult lung leg |
+butterfly-life | 1.2 | butterfly egg caterpillar larva pupa chrysalis adult |
+mosquito-disease | 1.1 | mosquito vector malaria pathogen disease |
+beneficial-insect | 1.0 | bee butterfly pollination flower food crop |
+light-pollution | 1.0 | light pollution city star night visibility |
+noise-pollution | 1.0 | noise loud hearing ear damage sound |
+soil-decomposer | 1.1 | worm aerate soil humus decomposition nutrient |
+carbon-sequestration | 1.1 | tree forest photosynthesis dioxide remove carbon |
+deforestation-effects | 1.2 | deforestation erosion habitat loss dioxide increase biodiversity decrease |
+reforestation | 1.1 | reforestation plant tree erosion reduce habitat |
+dam-effects | 1.0 | dam river hydroelectric fish migration reservoir |
+irrigation | 1.1 | irrigation water crop agriculture drought |
+selective-pesticide | 0.9 | pesticide insect pest crop protect harmful ecosystem |
+battery-polarity | 1.0 | battery positive negative terminal circuit voltage |
+lightbulb-filament | 1.0 | bulb tungsten filament resistance heat light |
+solar-cooker | 1.1 | solar cooker reflection absorption dark heat sunlight |
+prism-dispersion | 1.1 | dispersion prism wavelength color refraction rainbow |
+sound-frequency-age | 0.9 | hearing frequency vibration hertz ear |
+wave-frequency-unit | 1.4 | frequency hertz cycle second |
+electromagnetic-order | 1.0 | radio microwave infrared visible ultraviolet xray gamma spectrum |
+ionizing-radiation | 1.2 | gamma xray ultraviolet high frequency energy damage dna | radio microwave low
+microwave | 1.0 | microwave water molecule heat food |
+infrared | 1.1 | infrared heat thermal radiation remote |
+ultrasound | 1.1 | ultrasound high frequency sound echo medical |
+resonance | 1.1 | resonance natural frequency vibration amplitude |
+interference | 1.1 | interference wave combine constructive destructive amplitude |
+diffraction | 1.1 | diffraction wave bend obstacle opening |
+frequency-wavelength | 1.4 | frequency high wavelength short inverse | frequency low wavelength long
+water-depth-wave | 1.0 | water wave shallow slower refraction | deep faster
+lens-eye-defects | 0.9 | nearsighted concave lens far image | farsighted convex
+friction-brakes | 1.1 | brake friction kinetic thermal heat slow |
+seatbelt-inertia | 1.3 | seatbelt inertia safety motion stop collision |
+rocket-third-law | 1.3 | rocket exhaust action reaction opposite force |
+ball-energy | 1.2 | falling ball potential kinetic gravity height |
+roller-coaster | 1.1 | roller coaster hill height potential speed kinetic |
+stretched-rubber | 1.1 | elastic rubber stretched spring potential stored |
+frictionless-motion | 1.1 | frictionless vacuum constant velocity inertia zero balanced | unbalanced acceleration
+net-force-subtract | 1.0 | opposite force subtract net difference | same direction add
+mass-inertia | 1.1 | larger mass greater inertia harder accelerate |
+moon-weight | 1.2 | moon weight gravity less sixth mass same |
+centrifuge | 1.0 | centrifuge separation density spin |
+water-electrolysis | 1.1 | electrolysis water hydrogen oxygen electricity decomposition |
+chemical-indicator | 1.0 | indicator ph color litmus acid base |
+conservation-atoms | 1.2 | balanced equation atom reactant product equal conservation |
+neutral-atom | 1.2 | neutral atom equal proton electron | ion charged
+valence | 1.2 | valence outer electron chemical bond reactivity |
+periodic-increase | 0.9 | atomic number periodic proton increasing |
+metal-solid-room | 1.1 | mercury quicksilver liquid metal room temperature |
+bromine-liquid | 0.9 | bromine liquid nonmetal room temperature |
+allotrope | 1.0 | diamond graphite carbon arrangement structure |
+alloy | 1.2 | alloy metal mixture brass bronze steel | compound
+brass | 1.0 | brass copper zinc alloy |
+bronze | 1.0 | bronze copper tin alloy |
+steel | 1.0 | steel iron carbon alloy |
+organic-inorganic | 1.0 | organic carbon hydrogen life molecule | inorganic mineral
+weather-forecast | 1.1 | forecast weather prediction radar satellite data pressure |
+radar | 1.0 | radar radio wave reflection storm precipitation |
+satellite-weather | 1.0 | satellite cloud hurricane weather image space |
+remote-sensing | 0.9 | remote sensing satellite image map earth |
+longitude-time | 1.2 | longitude time zone rotation 24 hour 15 degree | latitude climate
+latitude-lines | 1.0 | latitude equator north south parallel | longitude meridian east west
+contour-map | 1.3 | contour elevation topographic close steep far gentle |
+map-scale | 1.2 | map scale ratio distance actual |
+magnetic-declination | 0.9 | magnetic north geographic compass declination |
+soil-horizons | 1.0 | topsoil humus upper horizon organic | subsoil bedrock lower
+geologic-time | 1.0 | geologic time fossil layer era period million year |
+dinosaur-extinction | 1.0 | dinosaur extinction asteroid impact climate |
+fossil-environment | 1.1 | shell marine fossil sediment ancient ocean |
+sea-level-rise | 1.1 | sea level rise warming glacier melt thermal expansion |
+glacial-erosion | 1.1 | glacier scrape groove striation pluck rock erosion |
+sinkholes-caves | 1.1 | cave sinkhole limestone groundwater acid dissolve |
+karst | 1.0 | karst limestone cave sinkhole chemical weathering |
+renewable-definition | 1.0 | renewable replenish naturally short time | nonrenewable finite limited million year
+engineering-tradeoff | 1.0 | design constraint cost material time criteria tradeoff |
+experiment-error | 1.0 | error measurement calibration repeat accuracy uncertainty |
+peer-review | 1.2 | peer review scientist evidence check repeat reliable |
+ethical-experiment | 1.0 | ethics humane safety informed protect harm |
+communication-science | 0.9 | publish communicate results scientist repeat share evidence |
+food-safety | 1.1 | cook heat refrigerate wash food bacteria health | raw contaminate
+human-environment | 0.8 | human environment resource technology pollution conservation |
+# Explicit distinctions formerly obscured by over-broad alias groups.
+chloride-ion | 1.4 | chloride anion negative gain electron salt | cation positive
+ammonia-ammonium | 1.4 | ammonia nh3 neutral molecule base alkaline | ammonium nh4 cation positive ion
+vertebral-column | 1.3 | spine spinal backbone vertebra bone skeleton cord support |
+microbial-life | 1.2 | microorganism bacterium fungus protist yeast algae cell organism |
+polar-regions | 1.0 | arctic antarctic polar cold ice climate glacier |
+polar-geography | 1.2 | arctic north ocean | antarctic south continent land

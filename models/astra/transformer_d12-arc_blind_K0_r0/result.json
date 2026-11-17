@@ -1,0 +1,61 @@
+{
+ "run_id": "transformer_d12-arc_blind_K0_r0",
+ "arch": "transformer_d12-arc",
+ "data_access": "blind",
+ "forward_budget": 0,
+ "rep": 0,
+ "writer": "astra",
+ "valid": true,
+ "test_accuracy": 0.33024079320113314,
+ "test": {
+  "accuracy": 0.33024079320113314,
+  "answered": 0.9742209631728045,
+  "accuracy_answered": 0.33236405931956964,
+  "n": 3530
+ },
+ "validation": {
+  "accuracy": 0.31525522041763343,
+  "answered": 0.9779582366589327,
+  "accuracy_answered": 0.3167259786476868,
+  "n": 862
+ },
+ "test_by_subset": {
+  "ARC-Easy": {
+   "accuracy": 0.37505285412262157,
+   "answered": 0.9746300211416491,
+   "accuracy_answered": 0.3783080260303688,
+   "n": 2365
+  },
+  "ARC-Challenge": {
+   "accuracy": 0.23927038626609443,
+   "answered": 0.9733905579399141,
+   "accuracy_answered": 0.23897707231040563,
+   "n": 1165
+  }
+ },
+ "words": 3760,
+ "weights": 49860,
+ "nonzero": 32944,
+ "wall_s": 4438.9,
+ "tokens": {
+  "input_tokens": 93038,
+  "output_tokens": 59838,
+  "cache_read_input_tokens": 6341120,
+  "cache_creation_input_tokens": 0,
+  "thinking_tokens": 27987,
+  "cost_usd_equiv": 10.2634,
+  "num_turns": 117,
+  "duration_ms": 4425332,
+  "segments": 6,
+  "semantics": [
+   "per_segment",
+   "per_segment",
+   "per_segment",
+   "per_segment",
+   "per_segment",
+   "per_segment"
+  ],
+  "matches_cumulative": true,
+  "cost_basis": "api_list_price:gpt-6-astra"
+ }
+}

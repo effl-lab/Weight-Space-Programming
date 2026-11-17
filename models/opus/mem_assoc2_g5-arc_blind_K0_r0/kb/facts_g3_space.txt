@@ -1,0 +1,171 @@
+# Generation 3: space science. Question cue words > answer words.
+# --- Earth motions
+earth rotation = spinning on axis once every 24 hours day night
+earth revolution = orbit around sun once every 365 days year
+earth rotates direction > west to east counterclockwise
+sun rises > east
+sun sets > west
+sun appears move across sky > earth rotates
+stars appear move across sky night > earth rotation
+day and night caused > earth rotates on axis
+one day > earth rotates once 24 hours
+one year > earth revolves around sun 365 days
+one month > moon revolves around earth 27 29 days
+leap year > extra day every four years 365 and one quarter days
+seasons caused > tilt of earth axis 23.5 degrees revolution around sun
+summer northern hemisphere > tilted toward sun direct rays longer days
+winter northern hemisphere > tilted away from sun indirect rays shorter days
+northern hemisphere summer southern hemisphere > winter opposite seasons
+june northern hemisphere > summer solstice longest day
+december northern hemisphere > winter solstice shortest day
+march september > equinox equal day night
+equinox = day and night equal length 12 hours
+summer solstice = longest day of year june 21
+winter solstice = shortest day of year december 21
+direct sunlight > more energy concentrated warmer
+indirect sunlight low angle > spread out less energy cooler
+equator receives > most direct sunlight all year warm
+poles receive > least direct sunlight cold
+earth closest to sun > january perihelion
+daylight hours summer > longer
+daylight hours winter > shorter
+noon shadow > shortest sun highest
+shadow direction morning > west
+shadow direction afternoon > east
+sundial > shadow tells time
+earth shape > sphere slightly flattened
+evidence earth round > ships disappear hull first curved shadow on moon eclipse photographs from space
+# --- moon
+moon light > reflected sunlight
+moon phases caused > moon revolves around earth different amounts lit side seen
+moon phases order > new waxing crescent first quarter waxing gibbous full waning gibbous third quarter waning crescent
+moon phase cycle > 29.5 days about one month
+new moon > moon between earth sun dark side faces earth not visible
+full moon > earth between sun moon entire lit side visible
+waxing > lit part getting larger
+waning > lit part getting smaller
+first quarter > right half lit
+moon same side faces earth > rotation equals revolution 27 days
+moon surface > craters maria highlands dust no air no water
+moon craters caused > meteorite impacts no atmosphere no erosion
+moon gravity > one sixth earth
+moon no atmosphere > no weather no wind no sound extreme temperatures craters remain
+footprints moon last > no wind no erosion no weather
+moon orbit takes > 27 days month
+moon tides > gravity pulls ocean water bulge
+lunar eclipse = earth between sun and moon earth shadow on moon full moon
+solar eclipse = moon between sun and earth moon shadow on earth new moon
+solar eclipse occurs phase > new moon
+lunar eclipse occurs phase > full moon
+eclipses not every month > moon orbit tilted
+moon formed > collision large object early earth
+# --- solar system
+solar system = sun and objects orbiting it planets moons asteroids comets
+planets order from sun > mercury venus earth mars jupiter saturn uranus neptune
+inner planets terrestrial > mercury venus earth mars rocky small dense
+outer planets gas giants > jupiter saturn uranus neptune large gas rings many moons
+inner planets rocky outer gaseous reason > temperature early solar system heat closer sun
+gas giants > jupiter saturn uranus neptune
+largest planet > jupiter
+smallest planet > mercury
+closest planet sun > mercury
+farthest planet sun > neptune
+hottest planet > venus thick carbon dioxide atmosphere greenhouse effect
+red planet > mars iron oxide
+mars > red iron oxide rust dust polar ice caps olympus mons two moons thin atmosphere
+jupiter > largest great red spot storm many moons gas giant
+saturn > rings ice rock particles gas giant least dense
+uranus > tilted on side blue green methane
+neptune > blue windy farthest
+venus > hottest thick clouds similar size to earth rotates backward
+mercury > closest no atmosphere craters extreme temperatures fastest orbit
+earth unique > liquid water life oxygen atmosphere right distance from sun
+pluto > dwarf planet kuiper belt
+dwarf planets > pluto ceres eris
+asteroid belt > between mars and jupiter
+asteroid = rocky metal object orbits sun
+comet = ice dust rock orbits sun tail points away from sun
+comet tail > points away from sun solar wind
+meteoroid = small rock in space
+meteor = streak of light burning in atmosphere shooting star
+meteorite = meteoroid that hits earth surface
+shooting star > meteor
+planets orbit shape > ellipse elliptical
+planets stay in orbit > gravity of the sun inertia
+gravity keeps moon orbit > earth gravity
+planet farther from sun > longer year longer orbit slower colder
+planet closer sun > shorter year faster orbit hotter
+sun mass solar system > 99 percent most mass
+sun > star center solar system medium size yellow
+sun energy source > nuclear fusion hydrogen into helium
+sun layers > core radiative convective photosphere chromosphere corona
+sunspots > cooler darker areas sun surface magnetic
+solar flare > burst energy sun
+solar wind > charged particles from sun aurora
+aurora northern lights > solar wind charged particles magnetic field
+heliocentric model > sun center copernicus galileo
+geocentric model > earth center ptolemy
+galileo > telescope moons of jupiter phases venus supported heliocentric
+copernicus > sun centered model
+kepler > elliptical orbits planets laws
+newton > gravity laws of motion
+# --- stars and universe
+star = huge ball hot gas produces own light nuclear fusion
+sun closest star > earth 8 minutes light
+next closest star > proxima centauri 4 light years
+star color temperature > blue hottest white yellow orange red coolest
+hottest stars color > blue
+coolest stars color > red
+sun color > yellow medium temperature
+star brightness depends > size temperature distance from earth
+apparent brightness > how bright from earth distance
+absolute brightness > actual brightness same distance
+star life cycle > nebula protostar main sequence red giant white dwarf
+massive star life cycle > red supergiant supernova neutron star black hole
+nebula = cloud gas dust where stars form
+red giant > old star expands cooler
+white dwarf > small hot dense remains star
+supernova > massive star explodes
+black hole > gravity so strong light cannot escape
+sun future > red giant white dwarf billions years
+main sequence > most stars sun hydrogen fusion
+light year = distance light travels in one year
+light year measures > distance
+astronomical unit = distance earth to sun 150 million kilometers
+constellation = group stars pattern
+constellations examples > orion big dipper ursa major cassiopeia
+big dipper > part ursa major points north star
+north star polaris > stays same place north navigation
+constellations change seasons > earth revolves around sun
+galaxy = huge group billions stars gas dust gravity
+our galaxy > milky way spiral
+galaxy types > spiral elliptical irregular
+andromeda > nearest large galaxy spiral
+universe = all matter energy space galaxies
+big bang > universe began expanding 13.8 billion years ago
+universe expanding evidence > galaxies moving apart red shift
+order size smallest largest > planet star solar system galaxy universe
+# --- space exploration
+telescope > see distant objects stars planets magnifies
+refracting telescope > lenses
+reflecting telescope > mirrors
+radio telescope > radio waves
+hubble space telescope > orbits earth above atmosphere clearer images
+space telescope advantage > above atmosphere no blur clouds
+satellite = object orbits planet
+artificial satellites uses > communication weather gps tv mapping
+moon natural satellite > earth
+space probe > robot explores far planets no humans
+rover > explores surface mars
+astronauts space station > orbit weightless microgravity
+astronauts need spacesuit > no air pressure oxygen temperature radiation
+apollo 11 > first humans moon 1969 neil armstrong
+first satellite > sputnik 1957
+first person space > yuri gagarin
+international space station > orbits earth scientists experiments
+rocket launch > thrust escape gravity
+weightless orbit > free fall
+sun is a > star
+sun classified > star
+sun type of star > medium yellow main sequence
+moon is a > natural satellite

@@ -1,0 +1,85 @@
+@body
+heart : pumps pump pumping beats beating chambers
+blood vessels : arteries veins capillaries
+circulatory : heart vessels arteries veins pumps transports
+red : hemoglobin oxygen-carrying
+white : infection germs fight fighting disease
+platelets : clot clotting clots wound bleeding
+lungs : breathe breathing inhale exhale oxygen
+respiratory : lungs breathing trachea windpipe oxygen exchange
+diaphragm : breathing muscle
+digestive : stomach intestines intestine digest digestion digests nutrients esophagus
+stomach : acid churns digest
+small intestine : absorbs nutrients villi absorption
+large intestine : water absorbs absorbed
+saliva : mouth chewing begins starch
+liver : bile filters
+kidney kidneys : filter filters urine bladder wastes
+excretory : wastes removes kidneys urine sweat
+skin : largest organ protects barrier
+sweat sweating : cools cooling evaporates
+nervous : brain nerves spinal cord signals messages neurons impulses
+brain : thinking memory controls coordinates
+neuron neurons : nerve impulses signals
+eye eyes : sight see vision retina pupil iris lens
+ear ears : hearing hear eardrum cochlea
+nose : smell odors
+tongue : taste
+skeletal : bones skeleton support protect frame framework
+skull : protects brain
+rib ribs : protect heart lungs
+muscle muscles muscular : contract contracts movement move
+joint joints : bend bending knee elbow
+tendons : attach muscles bones
+ligaments : connect bones
+endocrine : hormones glands hormone gland
+immune : antibodies germs pathogens infection disease
+vaccine vaccines vaccination : immunity prevent
+reproductive : offspring eggs sperm reproduction
+protein proteins : growth repair building muscles
+carbohydrates carbohydrate : quick starch sugars bread pasta
+vitamins : healthy fruits vegetables deficiency
+calcium : bones teeth strong milk
+exercise : heart rate pulse breathing faster
+disease diseases : germs bacteria virus spread handwashing
+@body2
+integumentary : skin hair nails
+lymphatic : lymph nodes immune
+esophagus : swallow tube food stomach
+trachea windpipe : air lungs
+bronchi alveoli : air sacs exchange
+arteries artery : away from heart
+veins vein : toward heart back
+capillaries : tiny exchange
+plasma : liquid part
+hemoglobin : iron oxygen red
+insulin pancreas : sugar glucose diabetes
+adrenaline : fight flight
+thyroid : metabolism
+pituitary : master gland growth
+spinal cord : nerves back
+reflex reflexes : automatic quick response
+cerebrum : thinking largest
+cerebellum : balance coordination
+retina : light-sensitive image
+pupil : opening light enters
+iris : colored controls amount
+cornea : clear front
+cochlea : inner ear hearing
+eardrum : vibrates sound
+cartilage : flexible nose ears
+marrow : blood cells inside bones
+voluntary : control choose skeletal
+involuntary : heart smooth automatic
+ovary ovaries : eggs female
+testes : sperm male
+fertilization : egg sperm join zygote
+embryo : develops
+puberty adolescence : changes
+antibiotic antibiotics : bacteria infections kill
+virus viruses : cold flu antibiotics
+germs pathogens : disease-causing
+nutrition nutrients : carbohydrates proteins fats vitamins minerals
+fiber : digestion
+fat fats : stored insulation
+homeostasis : balance stable internal

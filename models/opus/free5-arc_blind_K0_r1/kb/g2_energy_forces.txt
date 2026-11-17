@@ -1,0 +1,160 @@
+# energy (second set)
+Energy is the ability to do work or cause change.
+Energy cannot be created or destroyed; it can only change from one form to another; this is the law of conservation of energy.
+Kinetic energy is the energy of motion; the faster an object moves and the more mass it has, the more kinetic energy it has.
+Potential energy is stored energy, due to position or condition.
+Gravitational potential energy depends on an object's mass and its height above the ground; a higher or heavier object has more.
+A ball held high has potential energy that changes to kinetic energy as it falls.
+A roller coaster has the most potential energy at the top of the highest hill and the most kinetic energy at the bottom.
+A swinging pendulum changes potential energy to kinetic energy and back again; it moves fastest at the bottom of its swing.
+Elastic potential energy is stored in stretched or compressed objects such as springs, rubber bands and bows.
+Chemical energy is stored in the bonds of molecules, such as in food, fuels like gasoline, wood and coal, and batteries.
+Food contains chemical energy that the body changes into motion, heat and the energy for growth.
+Thermal energy is the total kinetic energy of the particles in a substance; heat is thermal energy that moves from a warmer object to a cooler one.
+Electrical energy is the energy of moving electric charges.
+Radiant energy, or electromagnetic energy, is energy carried by light and other electromagnetic waves.
+Sound energy is carried by vibrations moving through matter.
+Nuclear energy is stored in the nucleus of atoms and released by fission, splitting atoms, or fusion, joining atoms.
+Mechanical energy is the sum of kinetic and potential energy of an object.
+Energy transformations: a battery changes chemical energy to electrical energy; a light bulb changes electrical energy to light and heat.
+A toaster, electric stove, iron and hair dryer change electrical energy mainly into heat.
+An electric fan, blender and drill use a motor to change electrical energy into mechanical energy, or motion.
+A speaker, doorbell and radio change electrical energy into sound energy.
+A generator changes mechanical energy, or motion, into electrical energy.
+A solar panel or solar cell changes light energy into electrical energy.
+Photosynthesis changes light energy into chemical energy; respiration changes chemical energy in food into energy the cell can use.
+A car engine changes the chemical energy of gasoline into mechanical energy and heat.
+Burning wood or a candle changes chemical energy into heat and light.
+Rubbing hands together changes mechanical energy into thermal energy through friction.
+A microphone changes sound energy into electrical energy.
+A flashlight changes chemical energy in batteries to electrical energy and then to light.
+A wind up toy changes elastic potential energy into kinetic energy.
+A hydroelectric dam changes the potential energy of stored water into kinetic energy of falling water, which turns turbines and generators to make electricity.
+In every energy transformation some energy is changed into heat that is lost to the surroundings, so no machine is 100 percent efficient.
+Incandescent light bulbs waste most of their energy as heat; LED and fluorescent bulbs make more light and less heat, so they are more efficient.
+Energy efficiency means getting more useful energy out for the energy put in.
+# heat transfer (second set)
+Heat always flows from a warmer object to a cooler object until both are the same temperature.
+Cold is the absence of heat; cold does not flow, heat flows out of warm objects.
+An ice cube melts in your hand because heat flows from your hand into the ice.
+A cup of hot cocoa cools because heat flows from the cocoa to the cooler air and cup.
+Conduction is the transfer of heat through direct contact, as when a metal spoon in hot soup gets hot or a pan heats on a stove.
+Convection is the transfer of heat by the movement of a fluid, a liquid or gas, as warm fluid rises and cooler fluid sinks, forming convection currents.
+Convection currents happen in boiling water, heated air in a room, the atmosphere and Earth's mantle.
+Radiation is the transfer of energy by electromagnetic waves; it can travel through empty space, as when the Sun warms Earth or you feel heat from a campfire.
+Conductors such as metals transfer heat quickly; insulators such as wood, plastic, rubber, foam, cloth, wool, feathers, fur and air transfer heat slowly.
+A metal object feels colder than a wooden object at the same room temperature because metal conducts heat away from your hand faster.
+Pot handles are made of wood or plastic because these are insulators and do not get hot.
+Cooking pans are made of metal because metals conduct heat well.
+Insulation in walls and attics, double paned windows, and weather stripping reduce heat loss from a house in winter.
+Wearing layers of clothing traps air, which is a good insulator, and keeps the body warm.
+Foam cups and coolers keep drinks hot or cold because foam is a good insulator.
+A thermos has a vacuum between two walls to stop conduction and convection and a shiny surface to reflect radiation.
+Dark colors absorb more radiant energy and heat up faster; light colors and shiny surfaces reflect more and stay cooler.
+White or light colored clothes keep you cooler in summer because they reflect sunlight.
+Black asphalt gets hotter in the sun than light colored concrete.
+Water has a high specific heat, so it takes a lot of energy to warm up and it cools slowly.
+Sand on a beach heats up faster during the day and cools faster at night than the ocean water.
+A thermometer measures temperature in degrees Celsius or Fahrenheit; scientists use Celsius and kelvins.
+Room temperature is about 20 to 25 degrees Celsius; human body temperature is about 37 degrees Celsius.
+# forces and motion (second set)
+A force is a push or a pull; forces can change an object's speed, direction or shape.
+Force is measured in newtons with a spring scale.
+Balanced forces are equal in size and opposite in direction; they cancel and do not change an object's motion.
+An object at rest stays at rest and a moving object keeps moving at the same speed in a straight line when the forces on it are balanced.
+Unbalanced forces cause an object to start moving, stop, speed up, slow down or change direction.
+The net force is the total of all forces acting on an object.
+In a tug of war, if both teams pull with equal force the rope does not move; the team pulling with more force wins.
+A book resting on a table does not move because gravity pulling down is balanced by the table pushing up.
+Gravity is a force of attraction between all objects that have mass.
+On Earth, gravity pulls objects toward the center of Earth, which we call down.
+All objects fall at the same rate in a vacuum; in air, light flat objects fall slower because of air resistance.
+A feather and a hammer dropped on the Moon land at the same time because there is no air.
+Air resistance is a type of friction that slows objects moving through air; parachutes use air resistance to slow a fall.
+Friction is a force that opposes motion between two surfaces that are touching.
+Rough surfaces cause more friction than smooth surfaces; friction produces heat.
+Friction makes a rolling ball or sliding box slow down and stop.
+Friction is useful for walking, braking, gripping and lighting matches; it can be a problem by wearing out parts and wasting energy.
+Lubricants such as oil and grease reduce friction between moving parts.
+Ball bearings and wheels reduce friction because rolling causes less friction than sliding.
+Ice, wet floors and oily surfaces have little friction, so they are slippery.
+Sand on icy roads and treads on tires and shoes increase friction.
+A streamlined shape reduces air or water resistance, which is why fast cars, airplanes, birds and fish are streamlined.
+Speed is the distance traveled divided by the time it takes; speed equals distance divided by time.
+To find speed you must measure distance and time.
+A car that travels 60 kilometers in 1 hour has an average speed of 60 kilometers per hour.
+Velocity is speed in a given direction.
+Acceleration is a change in velocity: speeding up, slowing down or changing direction.
+An object moving in a circle at constant speed is accelerating because its direction keeps changing.
+A distance time graph with a straight sloped line shows constant speed; a flat line shows the object is not moving; a steeper line shows a faster speed.
+Momentum is mass times velocity; a heavy truck moving fast has a lot of momentum.
+Inertia is the tendency of an object to resist a change in its motion; objects with more mass have more inertia.
+Newton's first law, the law of inertia: an object at rest stays at rest and an object in motion stays in motion unless acted on by an unbalanced force.
+Seat belts and air bags protect passengers because, by inertia, a passenger keeps moving forward when a car stops suddenly.
+Newton's second law: force equals mass times acceleration; more force gives more acceleration, and more mass gives less acceleration for the same force.
+It takes more force to start or stop a heavy object than a light object.
+Newton's third law: for every action there is an equal and opposite reaction; forces come in pairs.
+When you jump off a boat, you push the boat backward and it pushes you forward.
+A rocket pushes gas down and the gas pushes the rocket up; a swimmer pushes water back and moves forward.
+When a balloon lets out air, the air rushes out one way and the balloon moves the other way.
+Isaac Newton described the laws of motion and the law of universal gravitation.
+Work is done when a force moves an object over a distance; work equals force times distance, measured in joules.
+No work is done if the object does not move, even if you push very hard.
+Power is the rate of doing work, measured in watts.
+# simple machines (second set)
+Simple machines make work easier by changing the size or direction of a force; they do not reduce the amount of work.
+The six simple machines are the lever, wheel and axle, pulley, inclined plane, wedge and screw.
+Machines that reduce the force needed make you apply that force over a longer distance.
+A lever is a bar that pivots on a fixed point called the fulcrum; examples are seesaws, crowbars, scissors, bottle openers, wheelbarrows, shovels and brooms.
+Moving the fulcrum closer to the load makes the load easier to lift with a lever.
+A wheel and axle is a wheel attached to a rod that turn together, such as a doorknob, steering wheel, screwdriver, faucet handle and bicycle wheel.
+A pulley is a wheel with a groove that holds a rope; it can change the direction of a force, as on a flagpole, window blinds, a crane or a well.
+A fixed pulley changes the direction of the force; a movable pulley reduces the force needed; a block and tackle uses several pulleys.
+An inclined plane is a flat sloping surface, such as a ramp, used to raise objects with less force over a longer distance.
+A longer, less steep ramp needs less force to push an object up but the distance is longer.
+A wedge is two inclined planes back to back that split or cut things apart, such as an axe, knife, chisel, nail point, doorstop and front teeth.
+A screw is an inclined plane wrapped around a post; examples are screws, bolts, jar lids, drills and spiral staircases.
+Compound machines are made of two or more simple machines, such as scissors (levers and wedges), a bicycle and a wheelbarrow (lever and wheel and axle).
+Mechanical advantage tells how many times a machine multiplies the input force.
+# electricity and magnetism (second set)
+Electric charge can be positive or negative; like charges repel each other and opposite charges attract.
+Static electricity is the buildup of electric charge on an object, often caused by rubbing two materials together.
+Rubbing a balloon on hair moves electrons from the hair to the balloon, so the balloon becomes negatively charged and the hair positively charged.
+A charged balloon can stick to a wall or attract small bits of paper.
+Getting a shock after walking across a carpet and touching a doorknob is caused by static electricity discharging.
+Lightning is a huge discharge of static electricity.
+Electric current is the flow of electric charges, usually electrons, through a conductor.
+An electric circuit is a complete, closed path through which electric current flows.
+A simple circuit has an energy source such as a battery, wires, a load such as a bulb, and often a switch.
+A switch opens or closes a circuit; when the switch is open the circuit is broken and current stops.
+In a closed circuit the current flows and the bulb lights; in an open circuit there is a gap and the bulb does not light.
+A short circuit is an unintended path of low resistance that lets too much current flow and can cause fires.
+In a series circuit there is only one path; if one bulb burns out or is removed, all the bulbs go out.
+Adding more bulbs to a series circuit makes each bulb dimmer.
+In a parallel circuit there are two or more paths; if one bulb burns out, the others stay lit.
+Homes are wired in parallel circuits so each appliance can be turned on and off separately.
+Conductors such as copper, aluminum, silver, gold, iron, water with salt and the human body let electricity flow easily.
+Insulators such as rubber, plastic, glass, wood, cloth and air resist the flow of electricity.
+Electrical wires are made of copper covered with plastic or rubber insulation.
+Voltage, measured in volts, is the push that moves current; current is measured in amperes or amps; resistance is measured in ohms.
+Ohm's law: voltage equals current times resistance.
+A fuse or circuit breaker stops current when too much flows, to prevent fires.
+Electric power is measured in watts; electrical energy used in homes is measured in kilowatt hours.
+Electrical safety: never put metal objects in outlets, keep electrical devices away from water, and do not touch downed power lines.
+A magnet attracts objects made of iron, nickel and cobalt, such as steel paper clips and nails.
+Magnets do not attract aluminum, copper, gold, silver, wood, plastic, glass or paper.
+Every magnet has a north pole and a south pole; like poles repel and opposite poles attract.
+If a magnet is cut in half, each piece has its own north and south pole.
+The magnetic force is strongest at the poles of a magnet.
+A magnetic field is the area around a magnet where its force acts; iron filings show the field lines.
+Magnetic force can act through paper, glass, water and air without touching.
+Earth acts like a giant magnet with a magnetic north pole and south pole.
+A compass needle is a small magnet that lines up with Earth's magnetic field and points north.
+An electromagnet is a coil of wire wrapped around an iron core that becomes a magnet when electric current flows through it.
+An electromagnet can be turned on and off and made stronger by adding more coils of wire, using more current or a stronger battery, or using an iron core.
+Electromagnets are used in motors, doorbells, speakers, cranes in junkyards, MRI machines and maglev trains.
+Electric motors use electromagnets to change electrical energy into motion.
+Generators make electricity by moving a magnet near a coil of wire or a coil of wire near a magnet; this is electromagnetic induction.
+Michael Faraday discovered that moving a magnet through a coil of wire produces electric current.
+Benjamin Franklin showed that lightning is electricity using a kite experiment.
+Thomas Edison invented a practical light bulb and built early power stations.

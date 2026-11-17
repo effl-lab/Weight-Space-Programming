@@ -1,0 +1,7 @@
+# ===== more chemistry and matter (new vocabulary, few strong cues)
+@spheres geosphere hydrosphere biosphere cryosphere lithosphere spheres
+@saturated saturated saturation unsaturated supersaturated
+@ph_scale 14! scale?
+@oxidation oxidation oxidize oxidized
+@alkali alkali lithium potassium
+@equation equation equations yields

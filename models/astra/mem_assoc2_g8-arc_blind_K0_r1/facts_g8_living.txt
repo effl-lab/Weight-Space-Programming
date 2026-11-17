@@ -1,0 +1,264 @@
+# Generation 8: life-cycle observations, diagnostic structures, and mechanisms.
+# Each line is an authored association, not an extracted question or answer.
+# Flowering plants: structures, functions, and life stages.
+anther | pollen male reproduction
+stigma | pollen receiving surface
+style flower | pollen tube passage
+ovary flower | ovules seeds fruit
+ovule @fertilized | seed embryo
+ovary @fertilized | fruit development
+petal flower | pollinator attraction
+sepal flower | bud protection
+stamen flower | anther filament male
+pistil flower | stigma style ovary female
+carpel flower | ovule female reproduction
+filament flower | anther support
+pollen anther | male gametes
+pollen stigma | pollination transfer
+pollen tube | sperm ovule fertilization
+pollination fertilization | transfer gamete fusion distinction
+flower insect | nectar pollen pollination
+flower scent | attract pollinators
+flower bright petals | attract insects
+flower nectar | pollinator food sugar
+flower wind | exposed anthers feathery stigmas
+pollen wind | lightweight numerous airborne
+pollen insect | sticky attachment
+self pollination | same plant pollen
+cross pollination | different plants pollen
+cross pollination variation | genetic diversity
+fruit purpose | seed protection dispersal
+seed embryo | young plant
+seed coat | protection dehydration damage
+seed cotyledon | stored food nourishment
+seed endosperm | stored food embryo
+seed radicle | first root
+seed plumule | developing shoot
+seed dormant | inactive embryo survival
+seed germination oxygen | respiration energy
+seed germination water | hydration enzyme activation
+seed germination warmth | enzyme activity growth
+seed @dark germination | stored food respiration
+seed leaves formed | photosynthesis sunlight sugar
+seed stored starch | embryo energy germination
+seed parent distance | competition reduction dispersal
+seed hooked | animal fur attachment dispersal
+seed winged | wind dispersal
+seed fluffy | wind dispersal
+seed fleshy fruit | animals ingestion dispersal
+seed floating | water dispersal
+seed explosive pod | mechanical dispersal
+seed coconut | water dispersal buoyancy
+seed dandelion | wind parachute dispersal
+seed maple | wing wind dispersal
+seed burdock | hooks animal fur
+seed acorn | animal caching food
+seed berry | animal eating dispersal
+seed @dry storage | dormant preservation
+seed @wet storage | germination decay
+seedling cotyledon | stored food early growth
+seedling pale @dark | etiolation yellowing | chlorophyll | -1.0
+seedling elongated @dark | light seeking growth
+seedling light bending | phototropism auxin
+plant gravitropism | directional gravity growth
+plant geotropism | gravity root growth
+plant thigmotropism | touch directional growth
+plant hydrotropism | water directional growth
+vine tendril contact | coiling support thigmotropism
+plant roots downward | positive gravitropism
+plant shoot upward | negative gravitropism
+root tip division | meristem growth
+shoot tip division | meristem growth
+root hair purpose | water mineral absorption
+root hair numerous | absorption surface area
+root taproot | anchorage stored food
+root fibrous | soil binding stabilization | erosion | -1.0
+carrot storage | root carbohydrate
+potato storage | stem tuber carbohydrate
+onion storage | bulb leaves carbohydrate
+ginger storage | rhizome underground stem
+potato eyes | buds asexual reproduction
+strawberry runner | vegetative reproduction clone
+ginger rhizome | vegetative reproduction
+plant cutting roots | asexual reproduction clone
+plant graft | scion rootstock joining
+plant tissue culture | cloning identical offspring
+fern underside | spore production sori
+moss capsule | spores reproduction
+moss moisture | sperm swimming fertilization
+fern moisture | sperm swimming fertilization
+conifer cone | seeds reproduction
+conifer needle | waxy reduced water loss
+pine cone | naked seeds gymnosperm
+flowering fruit | enclosed seeds angiosperm
+moss fern comparison | spores seedless plants
+pine flowering comparison | seeds vascular tissue
+vascular tubes | xylem phloem transport
+nonvascular size | diffusion limited transport
+woody stem ring | seasonal cambium growth
+cambium | dividing cells secondary growth
+bark tree | protective outer covering
+phloem girdling | starvation damage | translocation transport | -1.0
+xylem dyed water | stem leaf colored vessels
+leaf cuticle | waxy water barrier
+leaf petiole | stem attachment support
+leaf chloroplast abundance | photosynthesis light capture
+stomata guard cells | pore opening regulation
+stomata closing | water conservation | transpiration | -1.0
+stomata opening | gas exchange transpiration
+leaf underside pores | stomata gas exchange
+leaf wax thickness | water conservation
+plant waxy coating | water loss reduction
+cactus succulent | water storage stem
+cactus spines | reduced water loss protection
+cactus extensive roots | rainfall water absorption
+desert dormant seeds | survive drought
+floating leaf stomata | upper surface gas exchange
+waterlily airspaces | buoyancy gas transport
+mangrove aerial roots | oxygen wet soil
+venus flytrap insects | mineral nitrogen supplement
+legume nodules | bacteria nitrogen fixation
+plant @nitrogen @deficiency | pale leaves reduced growth
+plant @magnesium @deficiency | chlorophyll shortage yellowing
+plant phosphorus | roots energy nucleic acids
+plant potassium | enzyme stomatal regulation
+plant @dark respiration | oxygen consumption carbon dioxide | photosynthesis | -1.0
+plant @night gas | respiration oxygen uptake | photosynthesis | -1.0
+plant @day photosynthesis | light chemical energy conversion
+plant biomass carbon | atmospheric carbon dioxide
+plant drymass source | carbon dioxide photosynthesis
+plant freshmass water | root absorption
+plant respiration mitochondria | energy release glucose
+# Life cycles and classification use discriminating structures, not appearance alone.
+chrysalis | pupa insect metamorphosis
+caterpillar chrysalis | butterfly metamorphosis
+butterfly life stages | egg larva pupa adult
+beetle life stages | egg larva pupa adult
+mosquito life stages | egg larva pupa adult
+fly life stages | egg maggot pupa adult
+maggot | fly larva
+mealworm | beetle larva
+silkworm | moth larva
+nymph insect | immature incomplete metamorphosis
+grasshopper life stages | egg nymph adult
+cockroach life stages | egg nymph adult
+dragonfly nymph | aquatic predator
+mosquito larva | aquatic development
+frog tadpole | larval gills aquatic
+frog @adult | lungs skin breathing
+frog metamorphosis | limbs lungs tail absorption
+frog jelly eggs | water reproduction
+amphibian moist skin | gas exchange diffusion
+reptile dry scales | water conservation
+reptile shelled egg | embryo protection land
+bird egg shell | protection gas exchange
+bird incubation | warmth embryo development
+bird yolk | embryo food energy
+bird albumen | water protein protection
+mammal mammary | milk nourishment offspring
+mammal hair | insulation protection
+mammal diaphragm | breathing muscle
+platypus echidna | egg laying mammals
+marsupial pouch | immature young development
+kangaroo joey | marsupial pouch milk
+placenta mammal | nutrient oxygen waste exchange
+umbilical cord | fetus placenta connection
+fish operculum | gill protection water flow
+fish scales mucus | protection drag reduction
+fish lateral line | water vibration detection
+fish gills filaments | gas exchange surface area
+fish tail fin | propulsion swimming
+fish paired fins | steering stability
+fish streamlined | reduced water resistance
+shark skeleton | cartilage
+ray skeleton | cartilage
+bony fish buoyancy | swimbladder
+whale blowhole | lungs air breathing
+dolphin surfacing | lungs oxygen air
+@whale fish distinction | milk lungs mammal
+@bat bird distinction | hair milk mammal
+penguin flightless | bird feathers eggs
+ostrich flightless | bird feathers eggs
+insect six legs | arthropod three body regions
+arachnid eight legs | cephalothorax abdomen
+spider antennae | absent arachnid | insect | -1.0
+insect antennae | sensory detection
+crustacean antennae | two pairs
+arthropod jointed legs | exoskeleton segmented body
+arthropod molting | shed exoskeleton growth
+exoskeleton chitin | external support protection
+endoskeleton bone | internal support growth
+earthworm bristles | traction soil movement
+earthworm skin moist | gas exchange diffusion
+earthworm segments | annelid classification
+snail muscular foot | locomotion mollusk
+snail shell | protection calcium carbonate
+octopus squid | mollusk soft body
+clam mussel | bivalve filter feeding
+starfish tube feet | movement feeding attachment
+sea urchin spines | protection echinoderm
+jellyfish tentacle | stinging cells prey
+coral polyp | animal cnidarian
+sponge pores | filter feeding water flow
+animal radial symmetry | body around central axis
+animal bilateral symmetry | left right mirror halves
+# Energy, illness, and human biology.
+cell nucleolus | ribosome assembly
+cell cristae | mitochondria membrane respiration
+cell lysosome | intracellular digestion enzymes
+cell golgi apparatus | protein modification packaging
+cell cytoskeleton | shape internal support movement
+cell vesicle | membrane transport storage
+cell division growth | increasing cell number
+cell differentiation | specialization gene expression
+skin wound healing | mitosis cell division
+bone fracture healing | cell division repair
+blood @oxygen pigment | hemoglobin red cells
+red cells biconcave | surface area oxygen exchange
+red cells mature mammal | hemoglobin oxygen transport
+white cells engulf | phagocytosis pathogens
+platelets wound | clotting fibrin seal | bleeding | -1.0
+plasma transport | dissolved nutrients wastes hormones
+small intestine folds | increased absorption area
+villi microvilli | increased absorption area
+digestive enzyme specificity | substrate shape active site
+enzyme boiling | denaturation inactive | function | -1.0
+enzyme body temperature | efficient reaction catalysis
+saliva amylase | starch breakdown sugar
+stomach acid pepsin | protein digestion
+small intestine lipase | fat digestion
+bile emulsification | fat droplets surface area
+liver glycogen | glucose storage
+liver detoxification | harmful chemical processing
+kidney dehydration | concentrated urine water conservation
+kidney filtration @failure | waste buildup blood
+nephron selective reabsorption | useful substances blood return
+exercise sweat | evaporation cooling
+exercise heartbeat | oxygen glucose delivery
+exercise carbon dioxide | cellular respiration waste
+breathing ventilation | air movement lungs
+respiration cellular | chemical energy ATP release
+asthma airways | narrowed bronchi breathing difficulty
+smoking cilia | damaged airway mucus accumulation
+smoking alveoli | emphysema damaged walls breathlessness
+smoking lung cancer | carcinogens mutations
+carbon monoxide hemoglobin | oxygen transport interference
+fiber diet | bowel movement constipation prevention
+vitamin @c @deficiency | scurvy bleeding gums
+vitamin @d @deficiency | rickets weak bones
+iron deficiency | anemia reduced oxygen transport
+iodine deficiency | thyroid goiter
+calcium deficiency | weak bones teeth
+protein deficiency | poor growth tissue repair
+water deficiency | dehydration
+pathogen contagious | transmission infection
+antibiotic resistance | inherited variation natural selection
+antibody antigen matching | specific immune recognition
+allergen immune | exaggerated response allergy
+vaccine immune memory | protection future infection
+handwashing soap | hygiene cleaning | pathogens transmission | -1.0
+cooking food thoroughly | pathogen killing heat
+refrigeration food | preservation cooling storage
+refrigeration growth | slow | fast | -1.0
+pasteurization food | controlled heat preservation
+sterilization equipment | clean disinfection heat | microorganisms contamination | -1.0

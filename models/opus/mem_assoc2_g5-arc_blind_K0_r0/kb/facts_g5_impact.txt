@@ -1,0 +1,234 @@
+# Generation 5: evaluative questions: harm / help, positive / negative effect, advantage / disadvantage,
+# best material or tool for a purpose, safe / unsafe, estimates.
+# --- human impact on the environment
+harm environment > pollution dumping waste oil chemicals trash litter cutting trees burning
+harm stream river lake > dumping waste oil chemicals sewage fertilizer runoff trash
+harm ocean > oil spill plastic trash overfishing sewage
+harm ecosystem > pollution habitat destruction invasive species overhunting
+harm forest > clear cutting logging fire pollution acid rain
+harm soil > erosion pesticides overgrazing salt chemicals
+harm air > burning fossil fuels smoke exhaust factories
+negative effect environment > pollution deforestation habitat loss burning fossil fuels litter
+negative effect humans environment > pollution habitat destruction
+negative effect humans animals > habitat loss hunting pollution roads
+negative effect building dam > floods habitat blocks fish migration
+negative effect building city > habitat loss runoff pollution
+negative effect farming > runoff fertilizer pesticides erosion habitat loss
+negative effect mining > pollution habitat loss erosion
+negative effect cars > air pollution exhaust carbon dioxide
+negative effect plastic > litter animals eat entangle ocean
+positive effect environment > recycling planting trees conserving water energy protecting habitats
+positive effect humans environment > recycling planting trees cleaning parks wildlife preserves
+positive effect humans animals > protect habitat wildlife refuge preserve laws
+help environment > recycle reduce reuse plant trees conserve pick up litter
+help ecosystem > protect habitat plant native plants reduce pollution
+help animals > protect habitats wildlife preserves reduce pollution
+help stream > plant trees along banks reduce runoff
+protect environment > recycling conservation laws reduce pollution
+protect habitat > national parks preserves wildlife refuges
+protect endangered species > laws ban hunting preserve habitat breed captivity
+reduce air pollution > walk ride bikes carpool public transportation electric cars solar wind
+reduce water pollution > proper disposal less fertilizer treat sewage
+reduce trash landfill > recycle reuse compost less packaging
+reduce energy use > turn off lights insulation efficient appliances led bulbs
+reduce carbon dioxide > plant trees use less fossil fuels renewable energy
+reduce erosion > plant grass trees cover crops terraces windbreaks
+reduce flooding > levee dam wetlands plants
+conserve natural resources > recycle reduce reuse turn off lights save water
+conserve fossil fuels > carpool walk bike public transportation solar
+conserve water home > fix leaks shorter showers turn off faucet water lawn evening
+save energy home > turn off lights insulation unplug lower thermostat
+littering effects > harms animals pollution
+overfishing > fish populations decrease
+overhunting > extinction population decrease
+overgrazing > soil erosion loss plants desert
+urban sprawl > habitat loss
+oil spill effects > birds fish die feathers coated
+acid rain effects > damages forests lakes statues buildings fish
+smog > car exhaust factories sunlight air pollution
+air pollution health > asthma lung disease
+thermal pollution > warm water less oxygen fish
+noise pollution > loud sounds harm hearing animals
+light pollution > hard to see stars harms nocturnal animals
+plastic decompose > hundreds years
+biodegradable = breaks down naturally decomposers paper food
+nonbiodegradable > plastic glass metal styrofoam
+# --- technology impact
+positive effect technology > better communication medicine transportation food
+negative effect technology > pollution waste energy use
+advantage cell phones > communicate quickly anywhere
+advantage computers > process data quickly store information
+advantage internet > share information quickly
+advantage satellites > weather forecasting communication navigation
+advantage refrigeration > food lasts longer less spoiling
+advantage vaccines > prevent disease
+advantage irrigation > grow crops dry areas
+advantage fertilizer > more crops faster growth
+disadvantage fertilizer > runoff pollution algae
+advantage pesticides > fewer pests more crops
+disadvantage pesticides > kill helpful insects pollution harm birds
+advantage dams > electricity water supply flood control
+disadvantage dams > habitat loss blocks fish flooding upstream
+advantage nuclear power > no air pollution lots of energy
+disadvantage nuclear power > radioactive waste accidents
+advantage coal > cheap plentiful
+disadvantage coal > air pollution carbon dioxide acid rain mining nonrenewable
+advantage natural gas > burns cleaner than coal
+advantage solar energy > renewable no pollution free
+disadvantage solar energy > only when sunny expensive panels night
+advantage wind energy > renewable clean no pollution
+disadvantage wind energy > only when windy noise birds
+advantage hydroelectric > renewable no air pollution
+advantage geothermal > renewable steady
+advantage biomass > renewable uses waste
+disadvantage biomass > burning releases carbon dioxide
+advantage public transportation > less pollution less fuel
+advantage hybrid electric cars > less gasoline less pollution
+advantage recycling > saves resources energy less landfill
+advantage composting > less trash rich soil
+advantage organic farming > no chemical pesticides
+advantage genetically modified crops > more food resist pests drought
+advantage email > faster than mail less paper
+advantage digital > store share information easily
+advantage microscope > see cells microorganisms
+advantage telescope > see distant objects
+advantage space telescope > clearer images no atmosphere
+advantage robot > dangerous places repetitive tasks
+advantage models > study things too large small dangerous
+advantage computer models > predict test without danger cost
+# --- best material or tool for a purpose
+best material cooking pot > metal conducts heat
+best material pot handle > wood plastic insulator
+best material keep drink hot cold > foam insulator thermos
+best material electric wire > copper conductor
+best material wire covering > rubber plastic insulator
+best material window > glass transparent
+best material raincoat > plastic rubber waterproof
+best material roof > waterproof shingles metal
+best material bridge > steel strong
+best material insulate house > fiberglass foam
+best material winter coat > wool down insulation
+best material magnet attract > iron steel
+best material float boat > wood foam less dense
+best material absorb water > sponge paper towel cotton
+best material reflect light > mirror aluminum foil shiny
+best material block light > opaque cardboard wood
+best material sound absorb > foam carpet curtains soft
+best material building strong > steel concrete brick
+best material lightweight strong > aluminum plastic
+best material flexible > rubber plastic
+best material conduct electricity > copper silver gold aluminum
+best tool measure mass > balance scale
+best tool measure length > ruler meter stick tape measure
+best tool measure volume liquid > graduated cylinder
+best tool measure temperature > thermometer
+best tool measure time > stopwatch clock
+best tool measure force weight > spring scale
+best tool observe small > microscope hand lens
+best tool observe stars planets > telescope
+best tool observe birds far away > binoculars
+best tool measure wind speed > anemometer
+best tool measure rainfall > rain gauge
+best tool measure air pressure > barometer
+best tool find direction > compass
+best tool record sound > microphone recorder
+best tool record observations > notebook journal camera
+best tool picking up small objects > tweezers forceps
+best tool separate solids liquids > filter funnel
+best tool heat liquid > hot plate burner beaker
+best tool mix > stirring rod
+best tool transfer drops liquid > dropper pipette
+best tool grow bacteria > petri dish
+best tool measure distance map > scale ruler
+# --- estimates and units of everyday things
+mass paper clip > about 1 gram
+mass apple > about 100 200 grams
+mass textbook > about 1 kilogram
+mass student > about 40 kilograms
+mass car > about 1000 kilograms
+length pencil > about 15 20 centimeters
+length classroom > about 10 meters
+height student > about 1.5 meters
+height door > about 2 meters
+width finger > about 1 centimeter
+thickness coin > about 1 2 millimeters
+distance cities > kilometers
+distance earth sun > astronomical unit 150 million kilometers
+distance stars > light years
+volume juice box > about 250 milliliters
+volume swimming pool > liters cubic meters
+volume teaspoon > about 5 milliliters
+volume water bottle > about 500 milliliters 1 liter
+temperature room > about 20 25 celsius
+temperature body > 37 celsius
+temperature hot day > 30 35 celsius
+temperature freezing water > 0 celsius
+temperature boiling water > 100 celsius
+time earth rotate > 24 hours
+time moon orbit > about 27 days
+time earth orbit > 365 days
+small units measure > millimeters milligrams milliliters
+large units measure > kilometers kilograms liters
+mass small objects > grams
+mass large objects > kilograms
+length small objects > millimeters centimeters
+liquid volume > milliliters liters
+# --- safe and unsafe
+safe behavior thunderstorm > stay indoors away from water tall objects
+unsafe thunderstorm > swimming under tree open field golf
+safe earthquake > drop cover hold under desk
+safe tornado > basement interior room away windows
+safe hurricane > evacuate board windows
+safe fire > stop drop roll crawl low smoke
+safe flood > move to higher ground
+safe sun > sunscreen hat shade
+safe electricity > dry hands no metal in outlets
+unsafe lab > eating drinking running tasting chemicals
+safe lab > goggles gloves apron follow directions
+safe hot objects > oven mitts tongs heat resistant gloves
+safe chemicals > goggles gloves ventilation label
+safe bike > helmet
+safe car > seat belt
+safe swimming > lifeguard buddy
+# --- purpose questions (what is the purpose / main function / why)
+purpose control group > comparison compare results
+purpose repeated trials > reliable results reduce error
+purpose hypothesis > testable prediction guide experiment
+purpose data table > organize record data
+purpose graph > show patterns relationships compare data
+purpose model > explain predict represent
+purpose peer review > check results errors
+purpose lab report > communicate results
+purpose safety goggles > protect eyes
+purpose fire extinguisher > put out fires
+purpose insulation > slow heat transfer keep warm
+purpose fuse circuit breaker > stops current too much prevents fire
+purpose switch > open close circuit
+purpose levee > prevent flooding
+purpose dam > control water store water electricity
+purpose seawall jetty > prevent beach erosion
+purpose terraces > reduce erosion farming hills
+purpose windbreak > reduce wind erosion
+purpose crop rotation > restore soil nutrients
+purpose fertilizer > add nutrients
+purpose irrigation > water crops
+purpose greenhouse > trap heat grow plants
+purpose seed coat > protect seed
+purpose fruit > protect disperse seeds
+purpose flower > reproduction attract pollinators
+purpose roots > absorb water anchor
+purpose leaves > photosynthesis make food
+purpose stem > support transport
+purpose thorns spines > protect from animals
+purpose shell > protection
+purpose fur feathers blubber > keep warm insulation
+purpose gills > get oxygen from water
+purpose lungs > breathe exchange gases
+purpose skeleton > support protect
+purpose skin > protect body
+purpose heart > pump blood
+purpose kidneys > filter blood
+purpose white blood cells > fight infection
+purpose red blood cells > carry oxygen
+purpose antibiotics > kill bacteria
+purpose vaccine > prevent disease

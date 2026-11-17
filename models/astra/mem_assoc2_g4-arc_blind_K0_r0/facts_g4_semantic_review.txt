@@ -1,0 +1,75 @@
+# Source-semantics review. No questions, labels, or answer scores were consulted.
+# These rules supplement repairs to the original G4 and inherited source files.
+# Signs express support/inhibition, not a claim of an absolute physical zero.
+# Mechanics: equilibrium and an interaction pair are different concepts.
+resultant | vector sum forces
+mechanical equilibrium | balanced resultant zero constant velocity | acceleration | -1.0
+static equilibrium | balanced rest zero velocity | motion | -1.0
+equal opposite | force magnitude directions
+interaction pair | equal opposite forces different bodies simultaneous | | -1.0
+action reaction | simultaneous interaction equal opposite forces different bodies | | -1.0
+newton interaction | third equal opposite forces different bodies | | -1.0
+force cancellation | balanced resultant zero equilibrium | | -1.0
+rest instantaneous | turning acceleration possible | | -1.0
+apex acceleration | gravity downward | zero | -1.0
+centripetal direction | inward center | outward | -1.0
+centripetal velocity | perpendicular direction turning | | -1.0
+coasting | unpowered motion inertia
+propulsion | thrust force motion
+propulsive jet | exhaust momentum reaction
+# Period and frequency are reciprocal; don't put both directions in one bag.
+oscillation period | duration single cycle
+oscillation frequency | cycles unit time
+period frequency | inverse reciprocal
+period shorter | frequency higher faster | lower slower | -1.0
+period longer | frequency lower slower | higher faster | -1.0
+damping | oscillation energy dissipation decreasing amplitude
+damped oscillation | decreasing amplitude thermal dissipation | | -1.0
+resonance matched | driving natural frequency amplitude increase | | -1.0
+# Wire comparisons assume material, temperature, other dimensions, and the
+# applied voltage are fixed. Each rule retains the quantity being compared.
+shorter resistance | decrease | increase | -1.0
+shorter current | increase | decrease | -1.0
+thinner resistance | increase | decrease | -1.0
+thinner current | decrease | increase | -1.0
+# Electrical interruption is not positive evidence of current or field.
+switch deactivated | open incomplete | current | -1.0
+coil deactivated | absent unpowered | field current | -1.0
+coil energized | current magnetic field | | -1.0
+continuous circuit | closed complete current | open | -1.0
+disconnected motor | unpowered | current | -1.0
+disconnected battery | stored chemical | current | -1.0
+# Material failure and protection, without implicit negation in positive bags.
+brittle stress | fracture shatter | plasticity | -1.0
+ductile tensile | wire plastic deformation | brittle | -1.0
+durability | useful lifetime strength protection
+stainless chromium | protective passive oxide coating | corrosion | -1.0
+passivation | protective oxide barrier surface
+passive oxide | protective barrier coating | corrosion | -1.0
+buffer ph | stable constant | change | -1.0
+buffer composition | weak acid conjugate base
+buffer equilibrium | acid base ph stability
+buffer capacity | amount acid base neutralized
+# Acoustics: inhibition is qualified by the relevant medium or surface.
+acoustics | sound waves vibration
+acoustic absorption | porous soft damping | reflection | -1.0
+acoustic reflection | hard surface echo
+acoustic damping | thermal dissipation energy absorption
+sound evacuated | absent silence | transmission | -1.0
+vacuum transmission | electromagnetic light radiation | sound | -1.0
+echo reduction | soft absorption damping | reflection | -1.0
+sonar roundtrip | half time distance
+# Refraction changes wave speed/wavelength, not frequency at a stationary
+# boundary. A normally incident ray need not change direction.
+normal incidence | perpendicular boundary straight
+refraction normal | straight speed wavelength | bending | -1.0
+refraction frequency | constant unchanged | increase decrease | -1.0
+refraction wavelength | speed proportional
+plane reflection | virtual upright reversed
+real image | converging rays projected screen
+# Dissolving speed and equilibrium amount are different physical quantities.
+solubility limit | maximum equilibrium dissolved amount
+stirring rate | faster dissolution contact | | -1.0
+crushing rate | faster dissolution surface area | | -1.0
+carbonation warmed | gas escaping bubbles less soluble | | -1.0
+carbonation cooled | dissolved gas retained more soluble | | -1.0

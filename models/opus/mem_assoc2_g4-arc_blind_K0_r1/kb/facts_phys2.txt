@@ -1,0 +1,197 @@
+# More physical science: scenario cues, comparisons
+# --- motion scenarios
+push harder > moves faster farther more acceleration
+heavier object same push > moves slower less acceleration
+lighter object same push > moves faster farther
+ball rolls farther > smooth surface less friction
+ball rolls shorter distance > rough surface carpet grass more friction
+toy car ramp higher > faster more potential energy farther
+steeper ramp > faster greater speed
+object at rest > balanced forces stays at rest
+moving object stops > friction force
+change direction > force
+ball thrown up comes down > gravity
+ball moving in circle > force toward center
+car turning > changes direction acceleration
+car speeding up > acceleration
+car braking > slowing friction deceleration
+two people push opposite equal > balanced no motion
+tug of war one side stronger > unbalanced force moves toward stronger side
+magnet pulls without touching > magnetic force at distance
+gravity acts without touching > force at distance
+kicking ball > force contact motion
+hitting baseball bat > force changes direction
+swing pendulum > potential kinetic energy exchange
+bouncing ball loses height > energy lost heat sound friction
+wagon pulled > force motion
+heavy box harder to move > more mass more inertia friction
+truck harder stop than car > more mass momentum inertia
+speed calculation > distance divided by time
+car travels 100 kilometers 2 hours > 50 kilometers per hour
+runner 100 meters 10 seconds > 10 meters per second
+fastest object > greatest distance shortest time
+graph speed constant > straight line
+# --- energy scenarios
+dam water stored > potential energy
+waterfall > potential energy to kinetic energy
+spring compressed > elastic potential energy
+bow and arrow > elastic potential energy kinetic energy
+wind up toy > elastic potential energy spring kinetic
+skier top of hill > potential energy
+skateboarder ramp > potential kinetic energy
+pendulum highest point > potential energy maximum
+pendulum lowest point > kinetic energy maximum fastest
+sled down hill > potential energy to kinetic
+dropped ball speeds up > potential to kinetic gravity
+apple hanging tree > potential energy
+plants store energy > chemical energy glucose
+animals get energy eating > chemical energy food
+gasoline stores > chemical energy
+wood stores > chemical energy
+batteries store > chemical energy
+sun produces energy > nuclear fusion light heat
+food energy comes from sun > photosynthesis
+energy flows food chain > sun plants animals
+energy lost machines > heat friction
+energy transfer heat > hot to cold
+energy sound > vibrations air
+light energy travels > waves
+solar cell calculator > light to electrical energy
+hand crank flashlight > mechanical kinetic to electrical generator
+bicycle generator light > mechanical to electrical
+electric stove > electrical to thermal heat
+blender mixer > electrical to mechanical
+hair dryer > electrical to heat kinetic sound
+doorbell buzzer > electrical to sound
+cell phone battery > chemical to electrical
+match lighting > chemical to heat light
+muscles moving > chemical to mechanical kinetic
+car engine > chemical to mechanical heat
+power plant generator > mechanical to electrical turbines
+nuclear reactor > nuclear to heat electrical
+plant photosynthesis > light to chemical
+glow worm firefly > chemical to light bioluminescence
+# --- heat scenarios
+pot on stove handle hot > conduction
+hand on warm mug > conduction
+hot water bottle > conduction
+ice pack on injury > heat flows from body to ice
+sun warms skin > radiation
+fire warms hands > radiation
+microwave heats food > radiation microwaves
+radiator heats room > convection air currents
+heating water pot > convection currents
+lava lamp > convection
+hot air rises cool air sinks > convection currents
+oven baking > convection radiation
+sea breezes > convection
+heat transfer through space > radiation only
+heat transfer solids > conduction
+heat transfer liquids gases > convection
+temperature equal > heat stops flowing equilibrium
+hot cocoa cools > heat moves to air
+cold drink warms > heat from air flows into drink
+spoon in hot tea > spoon gets warm conduction
+metal spoon hotter than plastic spoon > metal better conductor
+wooden spoon stays cool > wood insulator
+thermos keeps soup hot > insulation vacuum prevents conduction convection
+cooler keeps food cold > insulation foam
+gloves keep hands warm > insulation trap heat
+blanket keeps warm > insulator traps body heat
+igloo snow > insulator
+feathers down jacket > trapped air insulation
+car parked in sun hot > sunlight absorbed greenhouse
+black shirt hotter sun > absorbs more light
+white car cooler > reflects sunlight
+asphalt hotter than grass > absorbs heat dark
+water takes longer heat than sand > higher specific heat
+heating curve flat > phase change melting boiling temperature constant
+temperature increase heating > particles move faster kinetic energy
+# --- electricity scenarios
+battery wire bulb > circuit light
+bulb lights when > complete closed circuit
+bulb not light > open circuit gap loose wire
+two bulbs one goes out other stays lit > parallel circuit
+two bulbs both go out > series circuit
+adding batteries > more voltage brighter bulb
+adding bulbs series > dimmer bulbs
+house wiring > parallel circuits
+switch off > open circuit
+switch on > closed circuit
+materials let electricity pass > conductors metal
+materials block electricity > insulators plastic rubber
+test conductor circuit > bulb lights if conductor
+penny nail paper clip foil > conductors light bulb
+eraser plastic wood rubber band > insulators no light
+water conducts electricity > danger wet hands
+lightning rod > conducts lightning safely to ground
+power outage > no electricity
+electric current produces > magnetism heat light
+generator spinning magnet coil > electricity
+motor uses > electromagnets electricity motion
+# --- magnet scenarios
+two magnets push apart > like poles repel same poles
+two magnets pull together > opposite poles attract
+magnet strongest > poles ends
+magnet through paper glass > magnetic force passes through
+magnet pick up most paper clips > strongest magnet
+test magnet strength > count paper clips
+magnetic field around wire > electric current
+compass near magnet > needle moves
+earth like giant magnet > compass north
+iron filings pattern > magnetic field lines
+# --- light and sound scenarios
+flashlight beam straight > light travels straight lines
+shadow puppet > light blocked opaque
+shadow longer > light source lower angle
+shadow sharper > object closer to screen
+see through window > transparent
+wax paper > translucent
+wall blocks light > opaque
+mirror image reversed > reflection
+calm lake reflection > smooth surface reflects
+spoon reflection > curved mirror
+straw in glass looks bent > refraction
+magnifying glass > convex lens refraction enlarges
+eyeglasses correct vision > lenses refraction
+rainbow after rain > sunlight water droplets refraction
+prism white light > colors spectrum
+red shirt reflects > red light
+black shirt absorbs > all colors light
+plants absorb light > red blue reflect green
+light faster than sound > see before hear fireworks lightning
+plucked guitar string > vibrates sound
+shorter string > higher pitch
+longer string > lower pitch
+tighter string > higher pitch
+thicker string > lower pitch
+small bell > high pitch
+large drum > low pitch
+blowing across bottles > less air higher pitch more water higher pitch
+tapping glass more water > lower pitch
+sound louder closer > more energy
+sound quieter farther > energy spreads out
+sound through string telephone > vibrations solid
+put ear on table hear tapping > sound travels through solids well
+sound underwater > travels faster
+sound in space > cannot travel no air
+dog whistle > high frequency humans cannot hear
+bat echoes > echolocation
+thunder delay > distance of lightning
+ruler vibrating table > sound pitch length
+vocal cords > vibrate sound
+sound absorbed > soft materials carpet curtains
+sound reflected > hard smooth surfaces walls echo
+# --- waves scenarios
+water wave moves cork > up and down energy passes not water
+ocean waves carry > energy
+slinky push pull > longitudinal compressional sound
+slinky side to side > transverse
+rope shaken up down > transverse wave
+earthquake waves > energy through earth
+microwave oven > microwaves
+radio station > radio waves
+tv remote > infrared
+medical images bones > x-rays
+sunburn > ultraviolet
+night vision > infrared heat

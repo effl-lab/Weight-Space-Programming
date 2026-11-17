@@ -1,0 +1,209 @@
+# specific facts: members of a category, examples of a property
+mammal_examples: mammal, whale, whales, dolphin, dolphins, bat, bats, human, dog, cat, cow, horse, mouse, bear, elephant, monkey, rabbit, deer, squirrel, seal, platypus, kangaroo, opossum, giraffe, lion
+bird_examples: bird, penguin, penguins, ostrich, eagle, owl, hawk, robin, sparrow, duck, chicken, pigeon, parrot, hummingbird, woodpecker, crow, cardinal, blue jay, seagull, flamingo, heron, turkey
+reptile_examples: reptile, snake, snakes, lizard, lizards, turtle, turtles, tortoise, crocodile, alligator, iguana, gecko, chameleon, rattlesnake, python, cobra
+amphibian_examples: amphibian, frog, toad, salamander, newt, tadpole, bullfrog
+fish_examples: fish, shark, salmon, trout, tuna, goldfish, catfish, bass, minnow, cod, eel, guppy, seahorse
+insect_examples: insect, ant, bee, beetle, butterfly, moth, fly, mosquito, grasshopper, cricket, ladybug, dragonfly, termite, wasp, cockroach, flea, aphid, firefly
+arachnid_examples: arachnid, spider, scorpion, tick, mite
+plant_examples: plant, tree, grass, fern, moss, flower, bush, shrub, vine, weed, cactus, seaweed, oak, maple, pine, sunflower, rose, dandelion, bean, pea, corn, tomato
+bird_traits: feathers, beak, wings, lay eggs, hollow bones, nest, fly, flight
+fish_traits: gills, fins, scales, swim, tail
+mammal_traits: fur, hair, milk, nurse, live young, lungs, warm blooded
+whale_facts: whale, whales, dolphin, blowhole, breathe air, lungs, blubber, mammal, surface
+bat_facts: bat, bats, fly, wings, echolocation, nocturnal, mammal, insects, pollinate, cave
+penguin_facts: penguin, penguins, cannot fly, swim, antarctica, flippers, bird, ice, huddle
+spider_facts: spider, web, silk, eight legs, fangs, venom, trap insects, arachnid
+bee_facts: bee, bees, honey, hive, pollen, nectar, pollinate, sting, wax, colony, queen, flowers
+ant_facts: ant, ants, colony, anthill, queen, workers, tunnels, cooperate
+earthworm_facts: earthworm, earthworms, soil, tunnels, burrow, aerate, decompose, castings, moist
+snake_facts: snake, snakes, shed skin, scales, venom, flexible jaw, swallow prey whole, cold blooded, tongue smell
+frog_facts: frog, frogs, tadpole, tongue, catch flies, jump, moist skin, pond, croak, metamorphosis
+butterfly_facts: butterfly, butterflies, caterpillar, chrysalis, metamorphosis, nectar, wings, monarch, milkweed, pupa
+mosquito_disease: mosquito, mosquitoes, malaria, west nile, zika, bite, standing water, spread disease, larvae
+tick_disease: tick, ticks, lyme disease, deer tick, bite
+rodent_disease: rats, fleas, plague, bubonic
+water_disease: cholera, contaminated water, dysentery, unsafe drinking water, boil water, purify
+element_symbols: symbol, hydrogen, helium, carbon, nitrogen, oxygen, sodium, chlorine, iron, copper, gold, silver, mercury, lead, potassium, calcium, magnesium, aluminum, sulfur, neon, uranium, zinc, tin, fe, cu, au, ag, na, cl, he, hg, pb
+hydrogen_facts: hydrogen, lightest element, h, h2, water, fusion, stars, fuel cell, flammable, most common element
+helium_facts: helium, balloons, float, lighter than air, noble gas, sun, fusion, inert
+oxygen_facts: oxygen, o2, breathe, burning, support combustion, 21 percent, plants release, respiration, rust
+nitrogen_facts: nitrogen, n2, 78 percent, most of the atmosphere, nitrogen cycle, legumes, fertilizer
+water_molecule: water molecule, h2o, two hydrogen atoms, one oxygen atom, hydrogen and oxygen, polar, compound
+salt_facts: salt, sodium chloride, nacl, table salt, sodium, chlorine, crystals, cubic, ionic, seawater
+co2_facts: carbon dioxide, co2, one carbon, two oxygen, dry ice, exhale, exhaled, soda, carbonated, bubbles, fire extinguisher
+water_props: water, universal solvent, expands when it freezes, ice floats, high specific heat, cohesion, surface tension, polar, 0 degrees celsius, 100 degrees celsius, 32 degrees fahrenheit, 212 degrees fahrenheit
+ice_floats: ice floats, less dense, expands, frozen lake, ice cubes, float on water, top of lake
+oil_water: oil and water, oil floats, does not mix, less dense, separate layers, immiscible
+gold_facts: gold, precious metal, does not rust, unreactive, jewelry, malleable, au, valuable
+copper_facts: copper, wires, electrical wire, pennies, conducts electricity, pipes, cu, turns green
+aluminum_facts: aluminum, cans, foil, lightweight, recycle cans, does not rust, airplanes
+steel_facts: steel, iron and carbon, alloy, strong, bridges, buildings, beams, stainless
+alloy: alloy, alloys, bronze, brass, steel, mixture of metals, solder
+plastic_facts: plastic, plastics, petroleum, polymer, lightweight, waterproof, insulator, bottles, bags, does not decompose, landfill, recycle
+glass_facts: glass, sand, silica, melted, transparent, brittle, windows, recycle
+paper_facts: paper, wood pulp, trees, recycle paper, cardboard, absorbs water
+rubber_facts: rubber, elastic, stretch, tires, insulator, latex, bounce, rubber band
+wood_facts: wood, trees, lumber, timber, insulator, burns, floats, renewable
+cotton_wool: cotton, wool, fabric, cloth, fibers, clothing, sheep, plants, natural fibers, nylon, polyester
+materials_props: material, materials, properties, strong, flexible, durable, waterproof, lightweight, brittle, hard, soft, absorbent, rigid
+absorbent: absorbent, absorbs water, sponge, paper towel, soak up, towel, cloth
+waterproof: waterproof, repels water, raincoat, plastic, wax, umbrella, rubber boots
+flexible: flexible, bend, bends, stretch, elastic, rubber, rope, wire
+brittle: brittle, breaks easily, shatters, glass, chalk, pottery, ceramic, crack
+magnifying_detail: details, closer look, enlarge, enlarged, magnified, larger, tiny, small details
+fossil_types: trilobite, ammonite, dinosaur bones, petrified wood, amber, mold fossil, cast fossil, trace fossil, footprints, imprint, coal fossils, shells
+dinosaur: dinosaur, dinosaurs, tyrannosaurus, mesozoic, reptiles, extinct, 65 million years, asteroid impact, fossils, bones
+ice_age: ice age, ice ages, glaciers covered, woolly mammoth, mammoth, glaciation, colder climate
+coral_fossil: coral fossils, warm shallow sea, tropical ocean, marine, reef
+fern_fossil: fern fossils, tropical climate, warm wet, swamp, coal
+landform_water: canyon, valley, delta, floodplain, meander, waterfall, oxbow lake, gorge, river carved
+landform_wind: sand dune, dunes, arch, mushroom rock, loess, deflation
+landform_glacier: moraine, cirque, horn, fjord, drumlin, kettle lake, u shaped valley, erratic, glacial till
+landform_volcano: volcanic mountain, island, hawaii, crater, caldera, lava plateau, cinder cone
+landform_tectonic: mountain range, rift valley, trench, ridge, fold mountains, fault block, plateau
+mountain_age: older mountains, rounded, worn down, appalachian, younger mountains, tall, jagged, sharp peaks, rocky mountains, himalayas
+weathering_agents: water, ice, wind, plants, animals, temperature changes, acid rain, oxygen, roots
+erosion_agents: running water, wind, glaciers, waves, gravity, ice
+river_speed_sediment: fast moving water, carries larger, slow water, drops sediment, deposits, steep slope, gentle slope, mouth, settle
+sorting_sediment: largest particles settle first, heaviest, gravel, pebbles, sand, silt, clay, smallest, settle last, layers
+rock_size: boulder, boulders, cobble, pebble, pebbles, gravel, sand, silt, clay
+rock_examples: granite, basalt, obsidian, pumice, sandstone, limestone, shale, conglomerate, marble, slate, gneiss, quartzite, schist, coal
+granite_facts: granite, large crystals, coarse grained, intrusive, cooled slowly, slowly underground, continental, quartz, feldspar
+basalt_facts: basalt, fine grained, small crystals, extrusive, cooled quickly, oceanic crust, dark
+obsidian_facts: obsidian, volcanic glass, glassy, no crystals, cooled very quickly, sharp edges, black
+pumice_facts: pumice, holes, gas bubbles, floats, light, porous, frothy, volcanic
+limestone_facts: limestone, calcite, calcium carbonate, shells, marine, fizzes with acid, caves, marble, coral
+sandstone_facts: sandstone, sand grains, cemented sand, beach, desert, porous
+shale_facts: shale, clay, mud, thin layers, slate, fine
+marble_facts: marble, metamorphosed limestone, statues, buildings, calcite
+slate_facts: slate, metamorphosed shale, flat sheets, roofing, chalkboards
+coal_formation: coal, swamp, peat, plants buried, pressure, millions of years, carbon
+oil_formation: oil, petroleum, tiny marine organisms, plankton, buried, ocean floor, heat and pressure
+soil_layers: topsoil, subsoil, bedrock, horizon, humus, a horizon, b horizon, c horizon, parent material
+soil_nutrients: fertile, fertility, nutrients, nitrogen, phosphorus, potassium, compost, humus, organic matter, decayed leaves
+earthquake_safety: earthquake drill, drop cover and hold, under a desk, away from windows, building codes, reinforced
+hurricane_safety: evacuate, evacuation, board up windows, storm shelter, emergency kit, warning, watch
+tornado_safety: basement, interior room, no windows, tornado warning, siren, take cover
+flood_safety: higher ground, sandbags, levee, flood warning, move to high ground
+forecast_tools: weather satellite, doppler radar, radar, weather map, isobars, symbols, forecast, predict weather, computer models
+weather_map: weather map, isobars, front symbols, h, l, high pressure center, low pressure center, triangles, semicircles
+cloud_types: cumulus, puffy, fair weather, stratus, layered, gray, overcast, cirrus, wispy, feathery, high altitude, ice crystals, cumulonimbus, thunderhead, tall, anvil, nimbostratus, fog
+fog: fog, foggy, cloud at ground level, condensation near ground, low visibility, mist
+hail: hail, hailstones, ice balls, thunderstorm, updrafts, layers of ice
+snow_facts: snow, snowflakes, ice crystals, below freezing, winter, blizzard, six sided
+humid_climate: humid, tropical, rainforest, near ocean, moist air, muggy
+ocean_climate: coastal, near the ocean, mild, moderate temperatures, marine climate, smaller temperature range
+continental_climate: inland, interior, larger temperature range, hot summers, cold winters, continental
+monsoon: monsoon, monsoons, seasonal winds, heavy rains, india, wet season, dry season
+el_nino: el nino, la nina, pacific, ocean temperature, warmer water, weather patterns
+jet_stream: jet stream, high altitude winds, west to east, weather moves
+trade_winds: trade winds, prevailing winds, westerlies, easterlies, coriolis, global winds, rotation deflects
+global_winds: global wind, coriolis effect, earth's rotation, deflected, convection cells, uneven heating
+water_treatment: water treatment, filtration, chlorine, purify, purification, clean water, sewage treatment, wastewater, safe drinking water, filter
+desalination: desalination, remove salt, ocean water, drinking water, distill
+aquifer_pollution: groundwater pollution, leaking, septic, landfill leaks, wells contaminated
+renewable_examples: solar, wind, hydroelectric, geothermal, biomass, tidal, wood, trees, fresh water, crops
+nonrenewable_examples: coal, oil, natural gas, petroleum, uranium, minerals, metals, gasoline, propane
+hydroelectric: hydroelectric, dam, dams, falling water, flowing water, turbine, reservoir, river, water power
+wind_power: wind turbine, wind turbines, wind farm, windmill, windmills, blades, wind power, wind energy
+geothermal: geothermal, heat inside earth, hot springs, geysers, iceland, steam, underground heat, magma heat
+biomass: biomass, biofuel, biofuels, ethanol, wood, plant material, animal waste, corn, methane gas
+tidal_power: tidal energy, tides, tidal power, ocean energy, wave energy
+solar_power: solar energy, solar panels, solar cells, sunlight, solar power, photovoltaic, solar heating, solar collector
+nuclear_power: nuclear power, uranium, fission, reactor, radioactive waste, power plant, cooling towers
+energy_pros_cons: pollution, expensive, cost, reliable, available, depends on weather, cloudy days, no wind, storage, batteries
+car_pollution: cars, automobiles, vehicles, exhaust, gasoline, emissions, smog, carbon monoxide, electric cars, hybrid, fuel efficient, carpooling
+factory_pollution: factory, factories, smokestack, industrial, industry, emissions, chemicals, waste
+habitat_destruction: habitat destruction, building roads, housing, cities, clearing forests, draining wetlands, development
+protect_environment: protect, national park, preserve, wildlife refuge, laws, endangered species act, regulations, conservation
+plant_trees: plant trees, planting trees, reforestation, shade, absorb carbon dioxide, prevent erosion, windbreak
+organic_farming: organic, natural fertilizer, compost, crop rotation, no pesticides
+food_preservation: refrigerate, refrigerator, freezing food, canning, salting, drying food, spoil, spoilage, bacteria growth, preserve
+cooking_change: cooking, cooked, frying, egg, baked, toast, burnt, caramelize
+digestion_chemical: saliva, enzymes, stomach acid, chemical digestion, break down
+digestion_mechanical: chewing, teeth, grinding, churning, mechanical digestion
+heart_parts: atrium, atria, ventricle, ventricles, valves, chambers, four chambers, aorta
+blood_parts: red blood cells, white blood cells, platelets, plasma, hemoglobin
+lung_parts: alveoli, bronchi, bronchioles, trachea, diaphragm, air sacs
+brain_parts: cerebrum, cerebellum, brain stem, balance, coordination, thinking, memory
+neuron_parts: neuron, dendrite, axon, synapse, impulse
+skin_facts: skin, largest organ, sweat glands, sense of touch, protects, barrier, germs, temperature
+liver_facts: liver, bile, detoxify, filters blood, stores glycogen, largest internal organ
+pancreas_facts: pancreas, insulin, blood sugar, digestive enzymes, diabetes
+kidney_facts: kidney, kidneys, filter blood, urine, nephrons, bladder, water balance
+eye_parts: pupil, iris, lens, retina, cornea, optic nerve, rods, cones
+ear_parts: eardrum, cochlea, ear canal, hammer, anvil, stirrup, semicircular canals, balance
+tongue_taste: tongue, taste buds, taste, sweet, sour, salty, bitter
+nose_smell: nose, smell, odor, scent, olfactory, nostrils
+touch_receptors: touch, pressure, pain, temperature receptors, fingertips, nerve endings
+reflex: reflex, reflexes, automatic, involuntary, knee jerk, hot stove, quickly pull away, spinal cord
+balance_body: balance, inner ear, cerebellum, coordination, dizzy
+puberty_growth: puberty, adolescence, growth spurt, hormones, maturity
+aging: aging, elderly, old age, wrinkles
+first_aid: first aid, bandage, wound, cut, bleeding, pressure, cold water, burn
+infection_prevention: wash hands, soap, hand sanitizer, cover mouth, sneeze, cough, sanitize, clean, disinfect, hygiene
+exercise_benefits: exercise, aerobic, heart healthy, stronger muscles, stamina, endurance, running, swimming, stretching, flexibility
+sleep_health: sleep, rest, tired, fatigue, hours of sleep
+drug_effects: alcohol, drugs, addiction, addictive, caffeine, nicotine, harmful
+sun_protection: sunscreen, sunglasses, hat, shade, ultraviolet, sunburn, skin cancer
+hearing_protection: earplugs, ear protection, loud noise, hearing loss, decibels
+plant_hormone: auxin, plant hormones, ethylene, ripening
+seed_parts: seed coat, embryo, cotyledon, stored food, endosperm
+flower_parts: stamen, anther, filament, pistil, stigma, style, ovary, ovule, petals, sepals
+leaf_parts: stomata, guard cells, veins, chloroplasts, epidermis, cuticle, waxy layer
+stem_parts: xylem, phloem, cambium, bark, vascular tissue
+root_types: taproot, fibrous roots, root hairs, carrots, radish
+plant_reproduction: pollen, seeds, spores, flowers, cones, bulbs, runners, tubers, cuttings
+plant_growth_conditions: light, water, temperature, soil, nutrients, carbon dioxide, space, air
+plant_wilting: wilt, wilting, droop, lack of water, turgor, dry soil
+leaf_color_fall: leaves change color, chlorophyll breaks down, autumn, fall, red, orange, yellow, shorter days
+evergreen_facts: evergreen, needles, keep leaves, winter, pine, conifer, cones
+fruit_examples: apple, orange, banana, tomato, cucumber, pepper, pumpkin, grape, strawberry, peach, cherry, berries
+vegetable_examples: carrot, potato, lettuce, spinach, broccoli, celery, onion, cabbage, beans, peas
+grain_examples: wheat, rice, corn, oats, barley, grain, cereal, bread, flour
+dairy: milk, cheese, yogurt, butter, dairy, calcium
+meat_protein: meat, chicken, beef, pork, fish, eggs, protein
+junk_food: candy, soda, chips, sugar, salt, fat, unhealthy, junk food
+water_body: drink water, dehydration, dehydrated, thirst, fluids, hydrated
+animal_shelter: shelter, burrow, den, nest, hive, cave, lodge, dam, hole, tree hollow
+beaver: beaver, beavers, dam, lodge, gnaw, wetland, pond
+squirrel: squirrel, squirrels, acorns, nuts, bury, store food, trees
+bear_facts: bear, bears, hibernate, den, fur, omnivore, berries, fish, salmon, polar bear, grizzly
+wolf_facts: wolf, wolves, pack, howl, predator, deer, elk, yellowstone
+deer_facts: deer, herbivore, antlers, grazing, browse, prey, overpopulation
+rabbit_facts: rabbit, rabbits, hare, herbivore, burrow, prey, carrots, grass, fast reproduction
+owl_facts: owl, owls, nocturnal, predator, mice, talons, silent flight, pellets, hoot
+hawk_eagle: hawk, eagle, eagles, falcon, talons, keen eyesight, sharp vision, predator, soar, raptor
+shark_facts: shark, sharks, cartilage, predator, gills, fins, teeth, ocean
+octopus_facts: octopus, tentacles, ink, camouflage, mollusk, intelligent, eight arms
+chameleon_facts: chameleon, change color, camouflage, long tongue, lizard
+camel_facts: camel, camels, hump, fat, desert, store water, long eyelashes, wide feet
+polar_bear_facts: polar bear, white fur, arctic, seals, blubber, ice, swim
+giraffe_facts: giraffe, long neck, tall trees, leaves, savanna
+elephant_facts: elephant, elephants, trunk, tusks, ivory, large ears, herbivore, savanna
+hummingbird_facts: hummingbird, nectar, long beak, hover, pollinate, fast wings
+woodpecker_facts: woodpecker, peck, tree bark, insects, strong beak
+duck_facts: duck, ducks, webbed feet, waterproof feathers, pond, swim, oil glands
+fish_school: school of fish, schooling, protection, swim together
+animal_groups: herd, flock, pack, school, colony, swarm, pride, pod
+domestic_animals: pet, pets, domesticated, farm animals, livestock, cattle, sheep, goats, pigs, chickens
+zoo_aquarium: zoo, aquarium, captivity, conservation, breeding programs
+microscope_organisms: amoeba, paramecium, euglena, diatoms, rotifers, bacteria, yeast, pond water
+cell_specialized: specialized cells, nerve cells, muscle cells, blood cells, skin cells, bone cells, root hair cells, guard cells, function
+plant_cell_parts: cell wall, chloroplast, central vacuole, large vacuole
+animal_cell_parts: cell membrane, nucleus, cytoplasm, mitochondria, small vacuoles, lysosomes
+dna_location: dna, nucleus, chromosomes, genes, genetic material
+heredity_examples: offspring resemble parents, puppies, kittens, siblings, family, generation, generations, grandparents
+mendel: mendel, gregor mendel, pea plants, peas, tall and short, purple and white, dominant trait, recessive trait, crosses, father of genetics
+punnett: punnett square, probability, percent chance, 25 percent, 50 percent, 75 percent, genotype, phenotype, cross, crossed
+variation: variation, variations, differences, different traits, diversity, unique
+environment_traits: environment affects, sunlight, diet, nutrition, exercise, acquired traits, acquired, scar, tan, muscles from exercise
+fossil_evidence_evolution: fossil evidence, transitional fossils, similar structures, homologous structures, embryos, common ancestor
+darwin_finches: finches, galapagos islands, beak shapes, darwin, different foods, island
+peppered_moth: peppered moth, moths, dark moths, light moths, pollution, soot, tree bark, industrial revolution
+antibiotic_resistance: antibiotic resistance, resistant bacteria, overuse, survive antibiotics, mutation
+artificial_selection: artificial selection, selective breeding, dog breeds, cattle, corn, desired traits, farmers choose
+cloning: clone, cloning, dolly, sheep, identical copy, genetically identical
+gene_therapy: gene therapy, genetic disorder, inherited disease, cystic fibrosis, sickle cell, hemophilia, down syndrome
+blood_cell_shape: sickle cell, red blood cells, oxygen, anemia

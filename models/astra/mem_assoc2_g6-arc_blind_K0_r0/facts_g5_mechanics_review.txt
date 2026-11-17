@@ -1,0 +1,64 @@
+# Source-only mechanics/wave review. No numerical weights selected by accuracy.
+# Gravity comparisons keep the other masses or distances fixed.
+# Wave wavelength/frequency comparisons hold propagation speed fixed.
+# Pendulum comparisons use the small-angle, low-damping model.
+# Linear-wave amplitude comparisons keep source frequency and medium fixed.
+# Projectile components use uniform gravity and negligible air resistance.
+gravity farther | attraction weaker decrease | stronger increase | -1.0
+gravity closer | attraction stronger increase | weaker decrease | -1.0
+gravity heavier | attraction increase | decrease | -1.0
+gravity lighter | attraction decrease | increase | -1.0
+gravity separation | inverse squared distance
+weight mass | gravitational proportional
+# Constant speed does not establish that direction is constant.
+constant speed | magnitude | faster slower | -1.0
+speed turning | direction changing acceleration | | -1.0
+circular speed | direction changing velocity acceleration | | -1.0
+uniform straight | balanced zero resultant | acceleration | -1.0
+sustained rest | balanced zero resultant | acceleration | -1.0
+centripetal acceleration | inward radial center | outward | -1.0
+circular tangent | velocity instantaneous direction
+circular radial | centripetal force acceleration
+centripetal work | zero perpendicular | energy transfer | -1.0
+centripetal force | inward turning direction | outward | -1.0
+# At a projectile's apex, vertical velocity and gravitational acceleration differ.
+ball apex | height gravitational potential turning
+apex vertical | zero velocity | | -1.0
+apex acceleration | gravity downward | zero | -1.0
+apex force | gravity downward | zero | -1.0
+apex kinetic | minimum trajectory
+projectile vacuum | gravity parabolic acceleration
+projectile horizontal | constant velocity inertia | acceleration | -1.0
+projectile vertical | gravity downward acceleration
+# Select the named pendulum quantity rather than mixing maxima and minima.
+pendulum kinetic | bottom speed maximum
+pendulum potential | highest height maximum
+pendulum length | period oscillation timing
+pendulum period | oscillation duration
+pendulum highest | potential maximum height
+pendulum lowest | kinetic maximum speed
+pendulum amplitude | displacement turning angle
+pendulum damping | amplitude decrease heat | increase | -1.0
+pendulum heavier | unchanged period | increase decrease | -1.0
+pendulum lighter | unchanged period | increase decrease | -1.0
+period longer | frequency lower slower | higher faster | -1.0
+period shorter | frequency higher faster | lower slower | -1.0
+# A comparison selector is required: "wave frequency" alone has no direction.
+frequency increase | wavelength decrease shorter | longer | -1.0
+frequency decrease | wavelength increase longer | shorter | -1.0
+wavelength increase | frequency decrease | increase | -1.0
+wavelength decrease | frequency increase | decrease | -1.0
+amplitude increase | intensity energy loudness increase | decrease | -1.0
+amplitude decrease | intensity energy loudness decrease | increase | -1.0
+amplitude frequency | independent separate properties
+loudness pitch | independent amplitude frequency
+frequency period | reciprocal inverse
+wave boundary | refraction speed wavelength
+refraction frequency | constant unchanged | increase decrease | -1.0
+# Photon energy is a proportionality, not an unconditional increase.
+photon frequency | energy proportional
+photon wavelength | energy inverse
+light frequency energy | photon proportional
+light wavelength energy | photon inverse
+photon energy | frequency planck proportional
+photon quantum | discrete electromagnetic light

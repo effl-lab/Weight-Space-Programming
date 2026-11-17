@@ -1,0 +1,55 @@
+{
+ "run_id": "free-arc_blind_K0_r0",
+ "arch": "free-arc",
+ "data_access": "blind",
+ "forward_budget": 0,
+ "rep": 0,
+ "writer": "opus",
+ "valid": true,
+ "test_accuracy": 0.5080028328611897,
+ "test": {
+  "accuracy": 0.5080028328611897,
+  "answered": 0.9838526912181303,
+  "accuracy_answered": 0.5122372588540167,
+  "n": 3530
+ },
+ "validation": {
+  "accuracy": 0.5066705336426914,
+  "answered": 0.9918793503480279,
+  "accuracy_answered": 0.5087719298245614,
+  "n": 862
+ },
+ "test_by_subset": {
+  "ARC-Easy": {
+   "accuracy": 0.5896405919661734,
+   "answered": 0.9873150105708245,
+   "accuracy_answered": 0.5940042826552463,
+   "n": 2365
+  },
+  "ARC-Challenge": {
+   "accuracy": 0.34227467811158796,
+   "answered": 0.976824034334764,
+   "accuracy_answered": 0.3444639718804921,
+   "n": 1165
+  }
+ },
+ "words": 361150,
+ "weights": 109122020,
+ "nonzero": 574025,
+ "wall_s": 5182.6,
+ "tokens": {
+  "input_tokens": 228,
+  "output_tokens": 255081,
+  "cache_read_input_tokens": 21022328,
+  "cache_creation_input_tokens": 315716,
+  "thinking_tokens": 60401,
+  "cost_usd_equiv": 11.832725599999996,
+  "num_turns": 142,
+  "duration_ms": 5180109,
+  "segments": 1,
+  "semantics": [
+   "per_segment"
+  ],
+  "matches_cumulative": true
+ }
+}

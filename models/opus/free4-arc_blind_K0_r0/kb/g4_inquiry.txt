@@ -1,0 +1,123 @@
+# measurement quality
+Measurements that are very close to each other are precise.
+Precise measurements give nearly the same value each time they are repeated.
+Accurate measurements are close to the true or accepted value.
+Repeated measurements that agree closely show precision; measurements close to the actual value show accuracy.
+Measuring several times and averaging the results makes a measurement more reliable and accurate.
+Repeating trials and averaging the data reduces the effect of errors.
+Using more test subjects or a larger sample size makes results more reliable.
+Testing only one plant or one object in each group is too small a sample to draw a conclusion.
+An experiment with only one trial is not reliable; scientists repeat experiments many times.
+A measuring tool with smaller units, such as millimeters, gives more precise measurements than one with larger units.
+A metric ruler measures length in centimeters and millimeters.
+A meter stick measures longer lengths such as the length of a room or the distance a ball rolls.
+A tape measure is used to measure the distance around an object, such as the circumference of a tree.
+A spring scale measures force or weight in newtons.
+A triple beam balance or electronic balance measures mass in grams.
+A graduated cylinder measures the volume of a liquid in milliliters.
+A beaker holds and mixes liquids but gives only rough volume measurements.
+A stopwatch measures time in seconds.
+A thermometer measures temperature in degrees Celsius or Fahrenheit.
+A hand lens or magnifying glass makes small objects such as insects, seeds and rocks look larger.
+A microscope is used to see cells, bacteria and other things too small to see with the eyes.
+A telescope is used to observe distant objects such as planets, stars and the Moon.
+Binoculars help observe birds and animals that are far away.
+A compass shows direction using Earth's magnetic field.
+A rain gauge measures the amount of rainfall.
+A wind vane shows wind direction; an anemometer measures wind speed.
+A barometer measures air pressure; falling air pressure often means stormy weather is coming.
+A hygrometer or psychrometer measures humidity.
+A seismograph records the waves of earthquakes.
+A pH meter or litmus paper measures whether a substance is an acid or a base.
+A Celsius thermometer shows water freezing at 0 degrees and boiling at 100 degrees.
+Water freezes at 32 degrees Fahrenheit and boils at 212 degrees Fahrenheit.
+Volume of a regular solid such as a box is found by multiplying length times width times height.
+The volume of an irregular object such as a rock is found by water displacement in a graduated cylinder.
+Density is found by dividing mass by volume.
+Speed is found by dividing distance by time.
+The mass of a liquid is found by weighing the container with the liquid and subtracting the mass of the empty container.
+# units
+The meter is the basic SI unit of length; the gram or kilogram is the unit of mass; the liter is the unit of volume.
+The second is the unit of time; the newton is the unit of force; the joule is the unit of energy and work.
+The watt is the unit of power; the volt is the unit of voltage; the ampere is the unit of electric current.
+A kilometer is 1,000 meters; a centimeter is one hundredth of a meter; a millimeter is one thousandth of a meter.
+A kilogram is 1,000 grams; a milligram is one thousandth of a gram.
+A liter is 1,000 milliliters; one milliliter equals one cubic centimeter.
+Scientists use the metric system so that they can share and compare measurements around the world.
+Distances in space are measured in light-years or astronomical units.
+An astronomical unit is the average distance between Earth and the Sun.
+A light-year is the distance light travels in one year.
+Speed is measured in meters per second or kilometers per hour.
+Density is measured in grams per cubic centimeter or grams per milliliter.
+# investigations
+A hypothesis is a possible explanation or prediction that can be tested by an experiment.
+A good hypothesis is testable and often written as an if-then statement.
+An observation is information gathered with the senses or with instruments.
+An inference is a conclusion or explanation based on observations.
+A prediction is a statement about what will happen in the future based on evidence or a pattern.
+A conclusion tells whether the data support the hypothesis.
+If the results do not support the hypothesis, the scientist should revise the hypothesis and test again.
+Scientists should report results honestly even when the results do not support the hypothesis.
+Data that does not fit should be recorded and checked, not thrown out or changed.
+A fair test changes only one variable at a time and keeps all other conditions the same.
+The variable that the scientist changes on purpose is the independent or manipulated variable.
+The variable that is measured as the result is the dependent or responding variable.
+Controlled variables are the conditions kept the same in every trial of an experiment.
+The control group does not receive the treatment being tested and is used for comparison.
+The experimental group receives the treatment or change being tested.
+Changing more than one variable at a time makes it impossible to know which variable caused the result.
+In an experiment testing fertilizer, the plants should get the same amount of water, light and soil.
+In an experiment testing light, the plants should get the same amount of water and the same type of soil.
+In an experiment testing how far a toy car rolls, the ramp height or the surface may be the variable tested.
+A data table organizes the measurements recorded during an experiment.
+A bar graph compares amounts in different categories or groups.
+A line graph shows how something changes over time or how one variable changes as another changes.
+A circle graph or pie chart shows parts of a whole as percentages.
+The independent variable is placed on the x-axis and the dependent variable on the y-axis of a graph.
+Scientists share results by publishing reports so that other scientists can repeat the experiment.
+Other scientists repeat an experiment to check whether the results can be reproduced.
+Peer review means other scientists check the methods and results of an investigation.
+A scientific theory is a well-tested explanation supported by much evidence.
+A scientific law describes what always happens under certain conditions, such as the law of gravity.
+Scientific knowledge can change when new evidence is discovered.
+Scientists use models to study objects that are too large, too small, too far away or too dangerous to study directly.
+A model of the solar system or a globe helps explain things that are too big to observe all at once.
+A computer model can predict weather, climate change or the path of a hurricane.
+A limitation of a model is that it is not exactly like the real object.
+Scientists keep a record of procedures and data in a notebook or journal.
+Writing clear step-by-step procedures lets other people repeat an experiment exactly.
+Students should make observations and collect data before forming a conclusion.
+A survey or count of organisms in a small sample area can estimate the population of a larger area.
+Scientists classify objects by observing their properties and grouping similar objects together.
+A dichotomous key identifies organisms by a series of choices between two characteristics.
+# safety
+Safety goggles protect the eyes from chemicals, glass and flying objects during experiments.
+Students should wear goggles when heating substances, mixing chemicals or using glass.
+Gloves protect the hands when handling chemicals, preserved specimens, bacteria or hot objects.
+Students should never eat, drink or taste anything in a science laboratory.
+Students should wash their hands after handling chemicals, soil, plants or animals.
+Spills and broken glass should be reported to the teacher right away.
+Long hair should be tied back when working near a flame.
+When heating a test tube, point the open end away from yourself and others.
+Students should follow the teacher's directions and read the safety instructions before beginning an experiment.
+To smell a chemical, wave the fumes toward your nose with your hand instead of sniffing directly.
+Chemicals should be disposed of as the teacher directs, not poured down the drain unless allowed.
+An apron protects clothing from spills.
+A fire extinguisher and eyewash station should be located before starting a lab.
+Students should never look directly at the Sun, even through a telescope or binoculars.
+Students should not touch wild animals or unknown plants on a field trip.
+Electrical cords should be kept away from water.
+# technology and design
+The engineering design process includes identifying a problem, brainstorming, designing, building a prototype, testing and improving.
+A prototype is a first model of a design that is built and tested.
+Engineers test a design, find problems and then improve it.
+A constraint is a limit on a design, such as cost, size, materials or time.
+Criteria are the requirements a design must meet to be successful.
+Engineers choose materials based on their properties, such as strength, weight, cost and resistance to heat or water.
+A trade-off is giving up one quality to get another, such as a lighter car that is less strong.
+Technology is the use of scientific knowledge to solve problems and meet human needs.
+New technology such as telescopes and microscopes has helped scientists make new discoveries.
+The invention of the microscope led to the discovery of cells.
+The invention of the telescope allowed Galileo to see the moons of Jupiter.
+Satellites are used for communication, weather forecasting, GPS navigation and studying Earth.
+Computers help scientists collect, store and analyze large amounts of data.

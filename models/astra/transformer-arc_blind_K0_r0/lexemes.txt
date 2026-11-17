@@ -1,0 +1,138 @@
+# Explicit equivalent word forms. These are linguistic rules, not fitted data.
+# Ordinary regular inflections are joined automatically when present in the graph.
+leaf leaves
+nucleus nuclei
+mitochondrion mitochondria
+bacterium bacteria
+fungus fungi
+alga algae
+larva larvae
+tooth teeth
+mouse mice
+goose geese
+child children
+person people
+criterion criteria
+phenomenon phenomena
+analysis analyses
+hypothesis hypotheses
+gas gases gasses
+wolf wolves
+cactus cacti cactuses
+octopus octopuses
+mosquito mosquitoes mosquitos
+# Short words are excluded from the broad spelling generator to avoid bad joins.
+# List their useful, unambiguous inflections explicitly instead.
+ion ions
+eye eyes
+ear ears
+egg eggs
+leg legs
+arm arms
+rib ribs
+law laws
+ray rays
+sun suns
+sea seas
+oil oils
+fat fats
+fin fins
+fur furs
+ant ants
+bee bees
+bat bats
+owl owls
+cow cows
+pig pigs
+fox foxes
+cat cats
+dog dogs
+oak oaks
+tin tins
+# Numeral spelling equivalence supplies facts, not arithmetic or digit tokenization.
+zero 0
+one 1
+two 2
+three 3
+four 4
+five 5
+six 6
+seven 7
+eight 8
+nine 9
+ten 10
+eleven 11
+twelve 12
+potato potatoes
+tomato tomatoes
+volcano volcanoes volcanos
+tornado tornadoes tornados
+freeze freezes freezing froze frozen
+fall falls falling fell fallen
+grow grows growing grew grown
+fly flies flying flew flown
+break breaks breaking broke broken
+blow blows blowing blew blown
+rise rises rising rose risen
+sink sinks sinking sank sunk
+run runs running ran
+swim swims swimming swam swum
+spin spins spinning spun
+begin begins beginning began begun
+# Further irregular forms cannot be obtained by appending ed/ing.
+bend bends bending bent
+cut cuts cutting
+eat eats eating ate eaten
+feed feeds feeding fed
+lose loses losing lost
+light lights lighting lit
+shine shines shining shone
+slide slides sliding slid
+split splits splitting
+spread spreads spreading
+# Both common spelling conventions for these regular verbs.
+travel travels traveled travelled traveling travelling
+model models modeled modelled modeling modelling
+occur occurs occurred occurring
+trap traps trapped trapping
+stop stops stopped stopping
+rub rubs rubbed rubbing
+plan plans planned planning
+control controls controlled controlling
+transfer transfers transferred transferring
+propel propels propelled propelling
+repel repels repelled repelling
+color colour colors colours colored coloured coloring colouring
+behavior behaviour behaviors behaviours
+center centre centers centres
+meter metre meters metres
+centimeter centimetre centimeters centimetres cm
+millimeter millimetre millimeters millimetres mm
+kilometer kilometre kilometers kilometres km
+liter litre liters litres
+milliliter millilitre milliliters millilitres ml
+# Common unit abbreviations; ambiguous single letters such as A and C are not joined.
+kilogram kilograms kg
+milligram milligrams mg
+hertz hz
+kilohertz khz
+megahertz mhz
+ampere amperes amp amps
+kilowatt kilowatts kw
+kilowatthour kilowatthours kwh
+kilopascal kilopascals kpa
+# A compound's formula is not equated with the symbols for its constituent elements.
+water h2o
+methane ch4
+aluminum aluminium
+sulfur sulphur
+hemoglobin haemoglobin
+fertilization fertilisation
+fertilizer fertiliser fertilizers fertilisers
+organize organise organizes organises organized organised organizing organising
+analyze analyse analyzes analyses analyzed analysed analyzing analysing
+vapor vapour vapors vapours
+mold mould molds moulds
+luster lustre
+fiber fibre fibers fibres
+celsius centigrade

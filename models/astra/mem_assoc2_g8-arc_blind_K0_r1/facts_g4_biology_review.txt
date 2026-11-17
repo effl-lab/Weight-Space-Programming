@@ -1,0 +1,50 @@
+# Contextual life-science definitions and relationships.
+# Tonicity is relative to the cell, not determined by the label 'saltwater'.
+hypertonic | greater effective solute concentration
+hypotonic | lower effective solute concentration
+isotonic | equal effective solute concentration
+cell isotonic | unchanged volume balanced dynamic water exchange | | -1.0
+animal hypotonic | water enters swelling lysis | | -1.0
+plant hypotonic | turgid firm water | bursting | -1.0
+plasmolysis | hypertonic water loss membrane detachment wall
+deplasmolysis | water enters turgor restored
+hypoxia | oxygen shortage low
+anoxia | absence | oxygen
+waterlogging | saturated soil flooding
+waterlogging gas | slow diffusion roots hypoxia | | -1.0
+turgor support | vacuole water pressure wall
+guard turgid | stomata open | closed | -1.0
+guard flaccid | stomata closed | open | -1.0
+stomata drought | closed water conservation | transpiration | -1.0
+stomata exchange | diffusion carbon dioxide oxygen water vapor
+# Girdling means circumferential removal/damage of bark, not every small wound.
+girdling | circumferential bark removal phloem disruption
+girdled roots | sugar starvation decline | | -1.0
+girdling xylem | initially water continues transport | | -1.0
+# Distinguish prevention, treatment, and susceptibility.
+antiviral | virus replication inhibition treatment
+vaccination prevention | immune memory protection | | -1.0
+vaccine purpose | prevention immunity memory | cure | -1.0
+antibiotic target | bacteria | virus | -1.0
+resistant antibiotic | survival reproduction | | -1.0
+susceptible antibiotic | killed inhibited | | -1.0
+# A recessive allele need not be harmful. Inbreeding increases homozygosity.
+inbreeding | related mating homozygosity
+inbreeding homozygosity | increase | decrease | -1.0
+homozygosity | identical alleles paired gene
+heterozygosity | different alleles paired gene
+# Reactants and products, also compiled with the explicit CO2 surface form.
+photosynthesis products | oxygen glucose | carbon dioxide | -1.0
+photosynthesis reactants | carbon dioxide water sunlight | | -1.0
+aerobic reactants | oxygen glucose | carbon dioxide | -1.0
+aerobic products | carbon dioxide water ATP | | -1.0
+anaerobic yeast | ethanol carbon dioxide fermentation | | -1.0
+muscle anaerobic | lactate fermentation ATP | | -1.0
+# Qualified mechanisms retain the relevant structure or condition.
+reforestation soil | roots hold stabilization | erosion | -1.0
+wetland filtration | trapped sediment microbes nutrients
+wetland flood | storage absorbs water slower runoff
+corridor fragmentation | connected habitats migration gene flow
+# The simple population tendencies assume other limiting factors unchanged.
+predator scarcity | prey recovery reproduction | | -1.0
+prey scarcity | predator starvation resource shortage | | -1.0

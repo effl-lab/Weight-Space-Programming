@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "vocabulary": 26366,
+  "concepts": 4293,
+  "records_including_ontology": 19741,
+  "canonical_records": 19638,
+  "weights": 199480287,
+  "weight_bytes": 1160066172,
+  "build_seconds": 3.92454180913046,
+  "synthetic_3530_seconds": 0.9677692758850753,
+  "verification_seconds": 8.033370891120285,
+  "peak_rss_bytes": 1770905600,
+  "pair_keys": 16184,
+  "occupied_hash_rows": 14850,
+  "truncated_rows": 136
+}

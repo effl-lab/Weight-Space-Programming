@@ -1,0 +1,39 @@
+# Chemical energetics and equilibrium, authored from scientific meaning.
+# Individual bond breaking costs energy; formation releases energy. The net
+# reaction depends on both contributions, not on breaking bonds alone.
+bond breaking | energy absorption endothermic | release | -1.0
+bond formation | energy release exothermic | absorption | -1.0
+bond dissociation | energy absorption endothermic | release | -1.0
+bond energy | strength dissociation
+reaction exothermic | products lower enthalpy | higher | -1.0
+reaction endothermic | products higher enthalpy | lower | -1.0
+exothermic activation | initial energy barrier | | -1.0
+# Constant-pressure reaction heat equals enthalpy change in the usual setting
+# with only pressure-volume work. Enthalpy itself is not a heat transfer.
+enthalpy change | heat constant pressure
+activation barrier | energy threshold reaction
+activated complex | unstable transition state
+catalysis | alternative pathway lower activation
+catalyst intermediate | temporary participation regenerated | | -1.0
+regeneration | restored original condition
+# Equilibrium is a state; equilibration is the approach to that state.
+equilibration | approach equilibrium relaxation time
+reversible | forward backward process
+irreversible | lasting change dissipative process
+chemical equilibrium | dynamic forward reverse equal rates constant concentrations
+dynamic equilibrium | continuing opposing equal rates | stopped | -1.0
+equilibrium reactions | forward reverse continuing dynamic | stopped | -1.0
+equilibrium rates | forward reverse equal | stopped | -1.0
+equilibrium concentrations | constant stable
+# Constant concentrations need not be equal, but they can be equal. Do not
+# incorrectly encode a universal inequality by inhibiting 'equal' here.
+equilibrium net | zero balanced | | -1.0
+dissociation | separation bonded particles
+# Boundary exchange is qualified explicitly: a closed system still CONTAINS
+# matter, and an isolated system still CONTAINS energy.
+open system | matter energy exchange
+closed system | fixed matter energy exchange
+isolated system | sealed insulated constant energy
+open exchange | matter energy heat work | | -1.0
+closed exchange | energy heat work | matter | -1.0
+isolated exchange | blocked absent | matter energy | -1.0

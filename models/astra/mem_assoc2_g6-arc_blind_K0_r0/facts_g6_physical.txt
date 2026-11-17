@@ -1,0 +1,343 @@
+# Generation 6: everyday physical observations, mechanisms, and devices.
+# Equations are qualitative associations, not a numerical solver.
+# Force, inertia, momentum, and contact.
+force deform | shape change elastic compression
+force trajectory | direction change acceleration
+force interaction | push pull pair
+motion resistance | friction drag
+motion tendency | inertia mass
+bus braking | inertia forward motion
+car braking passenger | inertia seatbelt
+bus accelerating | inertia backward relative motion
+car turning passenger | inertia straight motion
+seatbelt stopping | restraint inertia safety
+headrest collision | neck support inertia
+airbag collision | cushioning impulse momentum protection
+crumple collision | energy absorption stopping time
+helmet impact | energy absorption protection
+padding collision | cushioning impulse energy absorption
+landing bend | cushioning impulse momentum
+catching cushion | impulse momentum change
+ball rebound | collision direction change
+ball clay | inelastic collision deformation
+billiard collision | momentum transfer
+rocket exhaust | opposite reaction thrust
+rocket vacuum | momentum conservation | air required | -1.0
+skater pushing | equal opposite force
+swimmer water | reaction thrust
+paddle water | reaction propulsion
+walking backward push | forward friction reaction
+running traction | static friction grip
+shoe tread | traction grip friction
+wet floor slipping | friction decrease
+ice slipping | low friction
+rough sandpaper | friction abrasion
+brake pads | friction heat stopping
+brakes hot | kinetic thermal energy
+rubbing palms | friction heat
+rubbing match | friction heat ignition
+bearing wheel | friction reduction rolling
+lubricant axle | smooth motion protection | friction wear heat | -1.0
+smoothing surface | friction reduction
+parachute canopy | drag air resistance
+parachute descent | drag terminal speed
+falling feather | air resistance surface area
+paper crumpled | drag decrease compact shape
+paper flat | air resistance large area
+terminal speed | drag gravity balance
+skydiver terminal | balanced forces constant velocity
+falling vacuum | gravitational acceleration equal
+moon falling | gravity vacuum
+orbit falling | gravity continuous freefall
+orbit weightless | freefall apparent weightlessness
+satellite circular | centripetal gravity
+turning car | centripetal friction
+swing circular | tension centripetal
+bucket circular | centripetal acceleration
+string released | tangential straight motion
+mass inertia | resistance acceleration
+mass momentum | motion quantity inertia
+impulse | force time momentum change
+momentum conserved | isolated system interaction
+recoil firearm | opposite momentum conservation
+balloon released | escaping air reaction thrust
+magnet through paper | magnetic noncontact force
+gravity through vacuum | noncontact attraction
+force distance | work energy transfer
+lifting load | gravitational potential work
+holding stationary | zero | work displacement | -1.0
+pushing immovable | zero | work displacement | -1.0
+work rate | power time
+power watt | joule second
+kilowatt hour | electrical energy unit
+# Pressure, simple machines, and material mechanics.
+sharp edge | concentrated pressure small area
+sharp needle | pressure small area penetration
+snowshoe surface | pressure distributed area
+wide tire | pressure distributed area
+camel broad feet | pressure spread sand
+narrow heel | pressure concentrated area
+pressure depth | liquid weight hydrostatic
+submarine depth | water pressure hydrostatic
+dam thick bottom | greater water pressure
+water holes depth | pressure stronger jet
+hydraulic brake | pressure fluid transmission
+hydraulic lift | pressure area force multiplication
+pascal principle | enclosed fluid pressure transmission
+syringe plunger | fluid pressure displacement
+suction cup | atmospheric pressure seal
+straw drinking | pressure difference atmosphere
+vacuum cleaner | pressure difference airflow
+barometer mercury | atmospheric pressure column
+balloon expansion | gas pressure elastic membrane
+balloon squeeze | pressure volume compression
+boat displaced | buoyancy fluid weight
+boat hollow | average density buoyancy
+ship steel | hollow displaced water floating
+submarine ballast | density buoyancy water
+lifejacket foam | buoyancy low density
+hot air balloon | low density buoyancy
+helium balloon | lower density buoyancy
+hydrometer | liquid density floating
+spring stretch | elastic potential restoring force
+rubber band stretched | elastic potential energy
+bow drawn | elastic potential energy
+spring compressed | elastic potential energy
+elastic limit | threshold reversible deformation
+brittle fracture | cracks sudden rupture
+malleable hammer | sheets deformation metal
+ductile drawn | wire deformation metal
+lever fulcrum | pivot force distance
+lever long effort | mechanical advantage force reduction
+seesaw balance | torque force distance
+wheelbarrow lever | second class load fulcrum
+scissors pivot | first class lever
+pliers pivot | first class lever
+nutcracker | second class lever force
+fishing rod lever | third class effort
+ramp shallow | slope force distance mechanical advantage
+ramp steep | slope force distance mechanical advantage
+screw threads | inclined plane rotation
+wedge splitting | force direction inclined plane
+pulley fixed | force direction change
+pulley movable | mechanical advantage force reduction
+block tackle | multiple pulleys force reduction
+wheel axle radius | torque mechanical advantage
+gear teeth | rotation speed torque
+gear large driven | ratio teeth rotational speed torque
+gear small driven | ratio teeth rotational speed torque
+machine ideal | work conservation force distance
+machine friction | efficiency decrease heat loss
+# Thermal transfer and energy transformations.
+thermal equilibrium contact | equal temperature
+heat direction | hot cold temperature difference
+conductor particles | collisions energy transfer
+metal conduction | mobile electrons collisions
+convection circulation | density buoyancy fluid
+convection rigid | fixed particles | bulk flow | -1.0
+radiation emission | electromagnetic infrared energy
+radiation absorption | warming thermal energy
+vacuum sunlight | radiation electromagnetic transfer
+fireplace radiant | infrared heat
+radiator reflective | radiation reflection insulation
+space blanket | infrared reflection heat conservation
+foil shiny | radiation reflection
+black pot sunlight | radiation absorption heating
+white roof | sunlight reflection cooling
+double wall flask | insulation transfer reduction
+thermos stopper | insulation sealed | conduction convection | -1.0
+oven convection | circulating warm air
+radiator room | convection warm air rising
+floor heater | convection rising warm air
+attic vent | convection warm air escape
+freezer upper | cold air sinking convection
+metal handle | conduction heating
+wood handle | insulation protection | conduction | -1.0
+metal cold touch | rapid conduction skin
+tile cold touch | rapid conduction skin
+blanket body | insulation heat retention
+fur air | insulation heat retention
+blubber insulation | heat conservation cold water
+wet clothing cold | evaporation heat loss
+sweat fan | evaporation cooling
+alcohol skin | evaporation cooling
+clay pot cooling | evaporation water
+water evaporation cooling | faster molecules escape
+cooling curve | temperature energy removal
+heating curve plateau | phase change latent heat
+boiling bubbles | vapor throughout liquid
+boiling temperature pressure | saturation equilibrium
+pressure cooker hot | elevated boiling temperature
+mountaintop cooking | lower boiling temperature
+freezing water expands | open crystal lattice
+ice less dense | floating hydrogen bonds
+lake frozen surface | insulation liquid below
+antifreeze engine | freezing depression coolant
+salt icy road | freezing temperature decrease
+salt ice mixture | freezing depression cooling
+thermal expansion bridge | joints gaps movement
+railroad gaps | thermal expansion
+bimetal strip | unequal expansion bending
+thermostat bimetal | thermal expansion switch
+thermometer liquid | expansion temperature measurement
+heated lid | expansion loosen jar
+power lines sag | thermal expansion warming
+refrigerator coils | refrigerant heat exchange
+refrigerator condenser | heat released surroundings | absorbed | -1.0
+refrigerator evaporator | heat absorbed cooling | released | -1.0
+heat pump | transfers energy work
+engine combustion | chemical thermal mechanical energy
+steam turbine | thermal mechanical rotation
+electric motor rotation | electrical mechanical energy
+electric heater | electrical thermal energy
+filament bulb | electrical light thermal energy
+microphone signal | sound electrical energy
+speaker vibration | electrical sound energy
+photovoltaic panel | light electrical energy
+solar thermal | sunlight heat water
+hand generator | mechanical electrical energy
+hydroelectric dam turbine | gravitational kinetic electrical energy
+wind turbine rotation | kinetic electrical energy
+battery stored | chemical potential energy
+battery charging | electrical chemical energy
+# Ordinary metallic conductors versus aqueous/molten ionic electrolytes.
+# Electron transfer at electrodes is distinct from transport through the bulk
+# electrolyte; these are not rules for plasmas or mixed-conducting materials.
+metal current | electron drift | | -1.0
+electrolyte current | ion transport | electron | -1.0
+# Conventional direction follows positive charge, opposite to electron drift.
+conventional current | positive charge flow direction | | -1.0
+electron drift | opposite conventional current direction | | -1.0
+metabolism muscle | chemical mechanical thermal energy
+# Waves and sound from observed properties.
+# A material medium is required by mechanical waves, not every wave.
+wave disturbance | energy transfer propagation
+mechanical wave | material medium oscillation | | -1.0
+electromagnetic wave | electric magnetic fields radiation | | -1.0
+electromagnetic vacuum | propagation transmission | | -1.0
+wave particles oscillate | vibration energy transfer
+transverse displacement | perpendicular propagation
+longitudinal displacement | parallel propagation
+rope sideways | transverse wave
+spring compressions | longitudinal wave
+sound compressions | pressure longitudinal wave
+sound medium | matter particles vibration
+sound vacuum | | propagation transmission | -1.0
+sound solid | vibration particle transfer
+sound pitch | frequency vibration rate
+sound loudness | amplitude intensity
+sound amplitude | energy loudness
+vibration faster | higher pitch frequency | lower | -1.0
+vibration slower | lower pitch frequency | higher | -1.0
+string tightened | higher frequency pitch
+string thick | lower frequency pitch
+string shortened | higher frequency pitch
+flute short | higher frequency pitch
+pipe longer | lower frequency pitch
+resonance matching | natural frequency amplification
+resonance glass | vibration amplitude
+sound echo delay | distance reflection
+soundproof foam | absorption vibration damping
+sound rug | absorption reduced reflection
+sound curtain | absorption reduced reflection
+sound insulation air | transmission reduction
+Doppler approaching | higher frequency pitch
+Doppler receding | lower frequency pitch
+ultrasound image | reflected high frequency sound
+sonar depth | sound echo travel time
+echolocation obstacle | reflected sound detection
+seismic vibration | elastic waves energy
+wave obstacle edge | diffraction spreading
+wave overlap | superposition interference
+constructive interference | amplitude reinforcement
+ destructive interference | amplitude cancellation
+standing wave node | zero displacement
+standing wave antinode | maximum displacement
+# Light, colors, lenses, and instrumentation.
+light straight | ray propagation shadow
+light speed vacuum | electromagnetic radiation
+opaque obstruction | shadow absorption | transmission | -1.0
+shadow small source | sharp boundary
+shadow extended source | penumbra blurred boundary
+shadow closer light | larger projection
+mirror smooth | specular reflection
+paper rough light | diffuse reflection
+mirror incident | reflected equal angle
+periscope mirrors | reflection direction
+reflector bicycle | light reflection visibility
+retroreflector | light returned source reflection
+water pencil bent | refraction light speed
+pool apparent shallow | refraction light
+prism spectrum | dispersion wavelength refraction
+rainbow droplets | refraction reflection dispersion
+blue sky scattering | shorter wavelengths sunlight
+red sunset scattering | longer path atmosphere
+white object | visible wavelengths reflected
+black object | visible wavelengths absorbed
+red object white | red reflected
+blue filter | blue transmitted
+red filter | red transmitted
+colored filter | selective transmission absorption
+leaf green reflected | chlorophyll selective absorption
+convex lens convergence | real focus light
+concave lens divergence | virtual image spreading
+magnifying lens close | enlarged upright virtual image
+camera lens | refraction real inverted image
+camera aperture | light amount opening
+camera shutter | exposure duration
+pinhole image | straight rays inverted
+retina image | inverted focused light
+nearsighted correction | concave diverging lens
+farsighted correction | convex converging lens
+optical fiber | total internal reflection
+fiber communication | light signals internal reflection
+laser | coherent monochromatic light
+polarization | transverse wave orientation
+ultraviolet sunburn | skin damage radiation
+infrared camera | thermal emission detection
+xray bone | differential absorption dense tissue
+radio communication | electromagnetic waves antenna
+microwave food | water absorption thermal energy
+# Review: keep the changed quantity in the two-concept condition.
+# Impact comparisons hold mass and velocity change fixed; forces are average
+# magnitudes, not a guarantee about every instantaneous peak in a real impact.
+airbag time | stopping increase | decrease | -1.0
+airbag duration | stopping increase | decrease | -1.0
+airbag force | decrease cushioning | increase | -1.0
+padding time | stopping increase | decrease | -1.0
+padding duration | stopping increase | decrease | -1.0
+padding force | decrease cushioning | increase | -1.0
+cushion time | stopping increase | decrease | -1.0
+cushion duration | stopping increase | decrease | -1.0
+cushion force | decrease protection | increase | -1.0
+helmet time | stopping increase | decrease | -1.0
+helmet duration | stopping increase | decrease | -1.0
+helmet force | decrease protection | increase | -1.0
+impact impulse | momentum change force duration
+# Hydrostatic comparisons use the same fluid and surface pressure.
+submarine deeper | water pressure increase | decrease | -1.0
+submarine shallower | water pressure decrease | increase | -1.0
+hydrostatic depth | fluid density gravity pressure
+# Ideal ramps, fixed load and vertical rise, negligible friction. Slope changes
+# effort and travel distance oppositely: these consequences cannot share a bag.
+steep force | increase | decrease | -1.0
+steep effort | increase | decrease | -1.0
+steep distance | shorter | longer | -1.0
+shallow force | decrease | increase | -1.0
+shallow effort | decrease | increase | -1.0
+shallow distance | longer | shorter | -1.0
+ramp force | load height length ratio
+# Gear ratios require driver/driven roles; unqualified larger gears do not
+# assert a direction for every quantity. These are geometric relationships.
+gear ratio | teeth angular speed torque
+external gears | opposite rotation | | -1.0
+internal gears | same rotation direction | | -1.0
+# Heat-exchanger functions assume normal refrigeration operation.
+condenser heat | released surroundings | absorbed | -1.0
+evaporator heat | absorbed cooling | released | -1.0
+# The elastic limit is a threshold, not itself a statement that it was exceeded.
+elastic exceeded | permanent plastic deformation | reversible | -1.0
+elastic recovery | shape restored reversible
+# Solids can convect on geological timescales when they deform plastically.
+mantle solid | plastic slow deformation convection
+rigid heat | conduction radiation | convection | -1.0

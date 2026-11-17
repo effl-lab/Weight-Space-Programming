@@ -1,0 +1,502 @@
+# Everyday physical-science situations. Authored causal relationships, not examples from a dataset.
+# Heat transfer and changes of state.
+spoon soup | conduction heat metal
+spoon boiling | conduction heat handle
+metal handle | conduction heat burn
+wood handle | insulation reduce heat transfer
+plastic handle | insulation protect hand
+pan handle material | wood plastic insulate
+oven mitt | insulation fabric air protect burns
+potholder | insulation heat protection
+barefoot pavement | conduction hot surface
+ice hand | conduction heat melting
+ice warm | melting heat absorption
+ice salt | lower freezing temperature melting
+salt icy road | lower freezing point melt
+salt freezing point | decrease
+antifreeze | lower freezing point coolant
+snow melting | absorb heat liquid water
+snow shaded | less sunlight slower melting
+ice chest | insulation slows heat transfer
+cooler ice | insulation reduce heat transfer
+thermos | vacuum insulation reduce heat transfer
+thermos shiny | radiation reflection
+thermos vacuum | insulation | conduction convection | -1.0
+thermos lid | reduce convection evaporation
+double window | trapped air insulation
+double glazing | trapped air insulation
+attic insulation | reduce heat transfer energy loss
+fiberglass | trapped air thermal insulation
+foam cup | insulator trapped air
+styrofoam cup | insulator reduce heat transfer
+paper cup heat | less conduction metal
+metal cup heat | conduction rapid transfer
+wool warmth | traps air insulation
+cotton wet | evaporation cooling
+sweater warmth | trap air reduce heat loss
+blanket snow | trapped air insulation
+bird fluff | trap air insulation
+fur raised | trap air insulation
+snow shelter | insulation trapped air
+ice melting insulation | slower heat transfer
+room heater ceiling | warm air rises convection
+room heater floor | convection warm air rises
+radiator air | convection circulation
+boiling water circulate | convection density
+pot bubbles | vapor gas boiling
+water bubbles boiling | water vapor | oxygen hydrogen
+boiling water energy | vaporization temperature constant
+boiling temperature constant | energy separates molecules phase change
+ice melting temperature | constant phase change
+freezing water temperature | constant phase change
+melting heat particles | overcome attraction disorder mobility
+freezing heat particles | ordered arrangement attraction release
+vaporization latent | constant temperature potential intermolecular separation
+steam burn | condensation releases heat
+pressure cooker cooking | higher boiling temperature faster
+mountain cooking | lower boiling temperature slower
+water boil mountain | lower air pressure
+radiation fire | infrared electromagnetic waves
+campfire hands | radiation heat
+sun skin | radiation infrared ultraviolet
+lamp heat | radiation electromagnetic
+heat lamp | infrared radiation
+microwave oven | electromagnetic waves water heating
+solar cooker | reflected concentrated sunlight heat
+solar collector black | absorbs radiation
+silver foil heat | reflects radiation
+black shirt sunlight | absorb heat hotter
+white shirt sunlight | reflect light cooler
+dark roof | absorbs radiation hotter
+white roof | reflects sunlight cooler
+snow sunlight | high albedo reflection
+asphalt sunlight | absorption heat dark
+car sunlight | radiation absorption heat
+car hot window | sunlight enters heat retained
+closed car sun | greenhouse heating
+window greenhouse | sunlight enters heat retained
+water evaporation cooling | heat absorbed surroundings
+alcohol skin | evaporation cooling
+wet skin wind | evaporation cooling faster
+wet cloth fan | evaporation cooling
+wet sidewalk dry | evaporation sun heat
+puddle sunny | evaporation faster
+puddle shade | evaporation slower
+wet towel dry | evaporation air
+clothesline windy | faster evaporation
+clothes dryer | heat airflow evaporation
+wet towel spread | greater surface area evaporation
+wet towel folded | less evaporation surface area
+shallow dish water | large surface area evaporation faster
+water narrow bottle | less evaporation surface area
+covered water evaporation | slower vapor trapped
+humidity dry clothes | slower evaporation
+desert sweat | rapid evaporation cooling
+humid sweat | slower evaporation less cooling
+cold glass outside | condensation water vapor air
+cold can droplets | condensation water vapor air
+cold bottle droplets | condensation air vapor | leaking
+mirror shower | condensation water vapor
+bathroom mirror fog | condensation cooling vapor
+window winter droplets | condensation warm moist air
+window frost | deposition water vapor ice
+grass dew | condensation cool surface
+grass frost | deposition ice crystals
+cloud visible | tiny liquid droplets ice crystals | invisible gas
+breath cold visible | condensation droplets
+breath winter | condensation water vapor
+fog glasses | condensation warm moist air
+lid boiling droplets | condensation vapor cooling
+steam cold lid | condensation liquid water
+sublimation example | dry ice snow mothballs
+mothball disappear | sublimation solid gas
+dry ice fog | condensation water droplets cold
+ice freezer shrink | sublimation
+water boiling salt | boiling point increase
+salt solution freezing | freezing point decrease
+thermal expansion jar | metal lid heating expands
+jar lid warm water | expansion metal loosens
+tight metal lid | warm water expansion
+power lines summer | expansion sag
+power lines winter | contraction tight
+railroad track hot | thermal expansion gaps
+bridge concrete hot | expansion joints gaps
+thermometer rise | liquid expansion heat
+thermometer cold | liquid contraction
+balloon freezer | gas contracts volume decrease
+balloon sunshine | gas expands volume increase
+inflated ball cold | gas pressure decrease
+tire hot | gas pressure increase
+sealed bottle heat | pressure increases gas expansion
+sealed can cool | pressure decreases collapse
+metal ring heated | expands diameter increases
+metal rod cooled | contracts length decreases
+# Mechanics, pressure, and machines.
+ball stop | friction opposing force
+rolling ball grass | friction slows
+rolling ball carpet | more friction slows
+rolling ball smooth | less friction farther
+sled snow | low friction sliding
+sled grass | greater friction slower
+skate ice | low friction
+sand icy road | increase friction traction
+sandpaper rough | friction abrasion
+shoe tread | friction traction prevent slipping
+tire tread | friction traction water drainage
+rubber sole | increase friction traction
+smooth tire wet | reduced friction slipping
+brakes bicycle | friction heat slow
+brakes car | kinetic energy heat friction
+rubbing hands | friction heat
+rubbing sticks | friction heat ignition
+striking match | friction heat chemical combustion
+bearing wheel | reduce friction rolling
+ball bearing | reduce friction
+roller object | reduce friction motion
+wheel suitcase | reduce friction effort
+wax ski | reduce friction
+oil hinge | lubrication reduce friction
+grease axle | reduce friction
+lubricant engine | reduce friction overheating wear
+parachute opening | increased air resistance slower descent
+parachute size | surface area air resistance
+parachute larger | more air resistance slower
+paper flat falling | more air resistance slower
+paper crumpled falling | less air resistance faster
+feather rock vacuum | same acceleration gravity
+feather rock air | air resistance different falling speed
+heavy light vacuum | equal acceleration gravity
+freefall acceleration | gravity downward
+ball dropped | gravity kinetic energy
+ball upward speed | decreases gravity
+ball downward speed | increases gravity
+ball apex | height gravitational potential turning
+thrown ball path | gravity curved projectile
+basketball bounce | elastic deformation energy transfer
+bouncing ball height | decreases energy heat sound
+ball bounce lower | energy transformed heat sound
+rubber ball collision | elastic energy stored released
+clay collision | deformation inelastic energy
+spring toy | elastic potential energy
+windup toy | elastic potential mechanical energy
+rubber band release | elastic potential kinetic
+bow arrow | elastic potential kinetic
+slingshot | elastic potential kinetic
+trampoline | elastic potential kinetic
+diving board | elastic potential energy
+stretched spring energy | potential elastic
+compressed spring energy | potential elastic
+swing highest | gravitational potential greatest
+swing lowest | kinetic greatest speed
+swing friction | mechanical energy heat
+swing longer | longer period slower
+pendulum short | shorter period faster
+pendulum gravity | restoring force downward
+pendulum vacuum | less resistance longer motion
+bicycle uphill | chemical energy gravitational potential
+bicycle downhill | potential energy kinetic
+hilltop rock | gravitational potential
+book shelf | gravitational potential
+water dam stored | gravitational potential
+waterfall energy | potential kinetic
+falling water turbine | kinetic mechanical electric
+windmill | wind kinetic mechanical
+sailboat wind | force air motion
+sailboat sail | wind force propulsion
+kite wind | lift air force
+airplane wing | lift pressure difference
+streamlined car | less drag air resistance
+streamlined fish | swimming efficiency decrease drag resistance | increase | -1.0
+dimple golf | aerodynamic drag lift
+car stop passenger | inertia forward
+bus turn passenger | inertia straight line
+bus starts passenger | inertia backward
+car seatbelt | restrains inertia protection
+seatbelt purpose | prevent forward motion collision
+headrest collision | protect neck inertia
+# Impulse changes force and stopping time in opposite directions. Keep the
+# unqualified mechanism neutral; quantity-specific pairs are authored separately.
+airbag | cushioning impulse momentum protection
+helmet cushion | energy absorption impact protection
+catch ball hands | momentum change cushioning
+bend knees landing | momentum change cushioning
+egg padding | increase stopping time absorb energy
+rocket exhaust | reaction force opposite motion
+rocket space | expels gas momentum | air required
+balloon rocket | air backward balloon forward Newton
+canoe paddle | push water backward reaction forward
+swimmer water | action reaction opposite force
+jump ground | push downward reaction upward
+gun recoil | opposite momentum reaction
+skater push | equal opposite forces
+skaters collision | momentum conservation
+inertia truck | more mass harder stop
+empty loaded cart | loaded more inertia
+shopping cart force | more mass less acceleration
+cart push harder | greater acceleration
+same force mass | greater mass smaller acceleration
+same mass force | greater force greater acceleration
+balanced push | zero net force constant motion
+unbalanced push | acceleration change motion
+uniform straight | balanced zero resultant | acceleration | -1.0
+sustained rest | balanced zero resultant | acceleration | -1.0
+book table forces | gravity normal balanced
+floating boat forces | buoyancy gravity balanced
+falling terminal force | gravity drag balanced
+moving constant velocity | net force zero
+orbit acceleration | changing direction gravity
+turning car acceleration | direction changes
+circular speed | velocity direction changing acceleration | | -1.0
+mass double inertia | increases
+weight different planets | gravity different mass same
+moon jump | weaker gravity higher
+moon fall | smaller gravitational acceleration
+moon balance mass | unchanged matter
+astronaut orbit weightless | freefall gravity
+space gravity | acts distance orbit | absent
+magnet gravity | force distance contact unnecessary
+friction contact | surfaces touch
+normal force | perpendicular support surface
+tension rope | pulling force
+spring scale stretch | force weight
+bathroom scale | weight gravitational force
+snowshoes | spread force area reduce pressure
+skis snow | large area low pressure
+high heel pressure | small area greater pressure
+flat shoe pressure | greater area lower pressure
+sharp blade | smaller area higher pressure
+dull knife | larger area lower pressure
+nail point | small area large pressure
+thumbtack | pressure force small area
+syringe | pressure fluid displacement
+straw drinking | atmospheric pressure liquid rises
+suction cup | atmospheric pressure seal
+vacuum cleaner | pressure difference airflow
+balloon inflating | air occupies space pressure
+upside cup water | air pressure supports
+bottle hole water | pressure depth
+dam bottom thick | greater water pressure depth
+diver deeper | greater pressure
+submarine depth | water pressure hydrostatic
+submarine ballast | change density buoyancy
+ship steel float | hollow volume lower average density
+clay boat | increased displaced volume buoyancy
+clay ball sink | density greater water
+foil boat float | displaces water buoyancy
+life jacket | low density buoyancy float
+wood float | density less water
+cork float | low density buoyancy
+rock sink | density greater water
+oil floats water | lower density immiscible
+helium rises | density less air buoyancy
+hot balloon rises | warm air lower density
+balloon altitude | lower pressure expansion
+saltwater egg | increased fluid density buoyancy
+egg freshwater | density greater water sink
+saltwater swimmer | greater buoyancy easier float
+ice floating | lower density liquid water
+ice melting level | floating ice displacement level constant
+weigh underwater | buoyant force apparent weight lower
+pulley flag | change force direction
+flagpole machine | pulley
+well bucket | pulley lifting
+crane machine | pulley lever
+ramp loading truck | inclined plane lifting mechanical advantage
+wheelchair ramp | inclined plane less force
+mountain winding road | longer distance less slope force
+stairs | inclined plane lifting
+longer ramp | slope force distance mechanical advantage
+shorter ramp | slope force distance mechanical advantage
+lever longer effort | less force
+fulcrum near load | less effort force
+nutcracker | lever mechanical advantage
+pliers | levers pivot force
+tweezers | lever
+fishing rod | lever
+shovel | lever wedge
+hammer claw | lever fulcrum
+door hinge | lever pivot
+door handle hinge | farther pivot less force
+wheelbarrow load | lever second class
+screwdriver | wheel axle
+steering wheel | wheel axle
+bicycle pedals | wheel axle lever
+bicycle gears | change torque speed
+ax blade | wedge
+chisel | wedge
+zipper | wedge
+screw thread | inclined plane cylinder
+spiral staircase | inclined plane
+machine efficiency friction | less useful work heat
+machine energy conservation | force distance tradeoff
+fixed pulley advantage | direction | less work
+work stationary | zero | displacement | -1.0
+holding weight work | zero mechanical | displacement | -1.0
+pushing wall work | zero | displacement | -1.0
+carrying horizontal work | gravity perpendicular displacement
+# Electricity, sound, light.
+flashlight not working | dead battery open circuit broken bulb
+flashlight switch | completes circuit current
+bulb broken wire | open circuit stopped | current | -1.0
+wire disconnected | open circuit stopped | current | -1.0
+circuit gap | stopped absent open | current | -1.0
+battery terminals wire | closed path current
+bulb conductor test | light indicates conductivity
+bulb metal bridge | closed conducting circuit
+bulb plastic bridge | open circuit insulator
+paper clip circuit | conductor metal iron
+coin circuit | metal conductor
+pencil graphite circuit | conductor carbon
+rubber eraser circuit | insulator blocked | current | -1.0
+wood circuit | insulator dry
+copper wire reason | low resistance conductor
+wire coating reason | insulation electric shock prevention
+electrical plug prong | metal conductor
+electrical plug cover | plastic insulator
+wet hands electricity | water ions conduct shock
+plug water | unsafe conductor electrocution
+lightning rod | conductor ground charge protection
+ground wire | safe path electric charge
+circuit overload | excessive current heating fire
+fuse overheating | melts breaks circuit
+short circuit | current bypass low resistance overheating
+battery reversed motor | rotation direction reverses
+battery more voltage | current increase brightness
+bulbs series dim | shared voltage increased resistance
+series broken bulb | all off open path
+parallel broken bulb | other branches work
+house circuits | parallel independent appliances
+holiday lights series | one break all off
+parallel advantage | independent paths appliances
+electromagnet nail | iron core wire coil current
+electromagnet coils | windings current magnetic field
+electromagnet battery | current magnetic field supply
+electromagnet switch | magnetic field control
+electromagnet crane | lift scrap iron switch off
+electromagnet paperclips | stronger attracts more
+magnet nail | iron attracted
+magnet aluminum | nonmagnetic | attract
+magnet copper | nonmagnetic | attract
+magnet wood | nonmagnetic | attract
+magnet plastic | nonmagnetic | attract
+magnet paper | field passes through
+magnet glass | field passes through
+magnet distance | farther weaker attraction
+magnet ends | poles strongest force
+magnet middle | weaker field
+magnet broken | each north south poles
+compass near wire | current magnetic field deflection
+compass near magnet | aligns field
+magnetic north south | attract
+magnetic alike poles | repel
+static comb paper | charge attraction
+static balloon wall | polarization attraction
+static clothes | electrons transferred rubbing
+static sock carpet | electron transfer charge
+charged rod neutral | polarization attraction
+rubbing electrons | transferred charge
+lightning thunder energy | electric light thermal sound
+telephone cup string | vibration travels solid
+telephone string tight | vibration transmission
+ruler desk sound | vibration
+ruler length pitch | longer lower frequency
+rubber band sound | vibration
+rubber band tight | high frequency pitch
+rubber band thick | lower pitch frequency
+guitar string pitch | tension length thickness
+short string sound | high pitch frequency
+long string sound | low pitch frequency
+flute holes | air column length frequency
+drum loud | amplitude force vibration
+drum pitch | membrane tension frequency
+bottle blow sound | air column vibration
+bottle air shorter | higher pitch
+tuning fork | vibration sound frequency
+tuning fork water | vibrating splashes
+sound muffled | absorption insulation
+carpet curtains sound | absorption less echo
+empty room echo | reflection hard surfaces
+cave echo | reflected sound
+bat echolocation | reflected ultrasound prey distance
+dolphin echolocation | reflected sound underwater
+ship sonar | reflected sound ocean depth
+sound insulation | soft porous air materials
+sound earplug | reduce vibration energy
+sound through wall | solids transmit vibration
+rail train sound | solid fast transmission
+bell medium | sound particles vibrations transmission | | -1.0
+space explosion sound | vacuum silence | transmit
+lightning seen first | light faster sound
+fireworks delay | light travels faster sound
+thunder farther delay | sound travel time distance
+ambulance approaching | higher frequency pitch
+ambulance departing | lower frequency pitch
+radio communication | electromagnetic waves
+radio space | electromagnetic vacuum propagation
+plane mirror | reflection virtual upright reversed
+rearview mirror | convex wide view
+security mirror | convex wider field
+spoon curved reflection | concave convex mirror
+periscope | mirrors reflection
+kaleidoscope | multiple reflection
+fiber optic | total internal reflection light
+optical fiber communication | light pulses reflection
+pencil water bent | refraction speed change
+coin water appears | refraction bending
+fish apparent location | refraction water air
+swimming pool shallow | refraction light bending
+lens eyeglass | refraction focus
+lens camera | refraction image focus
+magnifier | convex lens magnification
+magnifying sunlight | converges energy heat
+prism colors | dispersion refraction
+rainbow droplets | refraction dispersion reflection
+soap bubble colors | interference light
+oil film colors | interference light
+object red light | reflects red absorbs others
+leaf green | reflects green chlorophyll
+black clothes hot | absorb radiation
+white clothes cool | reflect radiation
+white paper red light | appears red reflected light
+red object blue light | appears dark absorption
+shadow behind | light blocked opaque
+shadow closer lamp | larger
+shadow farther lamp | smaller
+shadow noon short | sun high angle
+shadow morning long | sun low angle
+shadow sunset east | sun west
+shadow sunrise west | sun east
+cloudy shadow | diffuse light faint
+wax paper | translucent scatters light
+frosted glass | translucent scattered light
+clear window | transparent transmits light
+brick wall light | opaque blocks
+cardboard light | opaque shadow
+opaque object | light blocked
+transparent object | light passes
+translucent object | light scattered
+sunburn protection | sunscreen ultraviolet absorption
+ultraviolet damage | skin cancer mutation
+xray bone | dense bone absorption
+infrared camera | detects heat radiation
+night vision | infrared radiation
+solar panel current | light electric conversion
+calculator solar | sunlight electric energy
+hand crank flashlight | mechanical electrical light
+hydrogen fuel cell | chemical electric water
+recharge battery | electrical chemical storage
+speaker vibration | electrical mechanical sound
+microphone vibration | sound electrical
+blender | electrical mechanical
+washing machine | electrical mechanical
+electric iron | electrical thermal
+electric kettle | electrical thermal
+hair dryer | electrical thermal mechanical
+television | electrical light sound heat
+radio receiver | electromagnetic electrical sound
+bell struck | mechanical sound
+candle light | chemical thermal radiant
+matches | chemical heat light
+food running | chemical kinetic thermal
+friction energy loss | thermal sound | destroyed
+energy wasted | heat surroundings | destroyed

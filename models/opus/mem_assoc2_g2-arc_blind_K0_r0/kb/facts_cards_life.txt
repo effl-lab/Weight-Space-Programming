@@ -1,0 +1,173 @@
+# Flashcard-style life science facts (question cue > expected answer)
+organism made of one cell > unicellular single celled bacteria
+organism made of many cells > multicellular
+largest level organization > organism ecosystem biosphere
+smallest level organization living > cell
+cells similar function grouped > tissue
+tissues working together > organ
+organs working together > organ system
+heart is an > organ
+blood is a > tissue
+stomach is an > organ
+leaf is an > organ plant
+bark protects > tree trunk
+plant cell structure not animal > cell wall chloroplast
+structure found in all cells > cell membrane cytoplasm ribosomes dna
+green structures plant cells > chloroplasts
+cell part stores water plant > vacuole
+cell energy produced > mitochondria respiration
+genetic material located > nucleus
+cell membrane function > controls what enters leaves
+cell wall made of > cellulose
+microscope parts > eyepiece objective lens stage light diaphragm focus knobs
+microscope magnification > eyepiece times objective
+low power objective first > focus coarse adjustment
+slide preparation > coverslip stain iodine
+onion cell observed > cell wall nucleus
+cheek cell observed > nucleus membrane no cell wall
+elodea leaf cells > chloroplasts moving
+# plants
+plants make food in > leaves
+plant food made > glucose sugar
+plant part absorbs sunlight > leaves
+plant part anchors > roots
+plant part transports water > stem xylem
+plant part produces seeds > flower
+plant part protects seeds > fruit
+plant part grows into new plant > seed
+plant part attracts insects > petals flower
+male part flower > stamen anther pollen
+female part flower > pistil stigma ovary
+seeds develop in > ovary
+pollen lands on > stigma
+leaf openings > stomata
+gas plants give off day > oxygen
+gas plants need photosynthesis > carbon dioxide
+plants respire > night and day
+energy source plants > sunlight
+plants without chlorophyll > fungi cannot photosynthesize
+plants grow taller > cell division elongation
+new plant from cutting > asexual reproduction
+spores produce > ferns mosses fungi
+cones produce > pine conifer seeds
+plants that lose leaves > deciduous
+needles leaves stay year > evergreen conifer
+seed coat function > protects embryo
+cotyledon function > food for seedling
+roots hairs function > absorb water
+tree rings count > age years
+wide tree rings > good growing year wet
+narrow tree rings > dry year drought
+sap > sugar water phloem
+maple syrup from > sap
+plants produce oxygen > photosynthesis
+plants used by humans > food medicine wood paper cotton
+crops > wheat corn rice soybeans
+# animals
+animal with backbone > vertebrate
+animal without backbone > invertebrate
+animal hair feeds milk > mammal
+animal feathers > bird
+animal scales dry skin eggs land > reptile
+animal moist skin water land > amphibian
+animal gills fins scales > fish
+animal six legs > insect
+animal eight legs > spider arachnid
+animal body temperature constant > warm blooded mammal bird
+animal body temperature changes > cold blooded reptile amphibian fish
+animals lay eggs > birds reptiles fish amphibians insects platypus
+animals give live birth > mammals most
+animal breathes through skin > frog earthworm
+animal sheds skin > snake
+animal changes color > chameleon octopus
+animal pouch > kangaroo marsupial
+animal hibernates > bear bat groundhog frog
+animal migrates > geese monarch butterflies whales caribou salmon
+animal stores food winter > squirrel chipmunk
+nocturnal animal > owl bat raccoon
+animal echolocation > bat dolphin
+animal live in herds > zebras buffalo elephants
+animal live in packs > wolves
+animal live in colonies > ants bees termites
+animal builds dams > beaver
+animal builds webs > spider
+animal builds nests > birds
+animal carries shell > turtle snail
+animal regrows limbs > starfish salamander lizard tail
+animal has blubber > whale seal walrus
+animal eats only plants > herbivore
+animal eats only meat > carnivore
+animal eats both > omnivore
+animal eats dead animals > scavenger
+animal teeth sharp pointed > carnivore
+animal teeth flat grinding > herbivore
+animal beak strong curved > bird of prey
+animal webbed feet > duck frog
+animal long tongue > anteater frog chameleon
+animal stinger > bee wasp scorpion
+animal venom > snake spider scorpion
+animal spines quills > porcupine hedgehog
+animal ink > squid octopus
+animal plays dead > opossum
+animal shell protection > turtle armadillo
+animal sense smell tongue > snake
+animal sense heat > pit viper snake
+animal antenna senses > insects
+whiskers > touch sense cats
+lateral line > fish sense vibrations
+# ecology
+place organism lives > habitat
+role organism > niche
+all living nonliving area > ecosystem
+all same species area > population
+all different species area > community
+living part ecosystem > biotic
+nonliving part ecosystem > abiotic sunlight water soil temperature air
+energy source ecosystem > sun
+organisms that recycle nutrients > decomposers
+organisms that make food > producers
+first organism food chain > producer plant
+second organism food chain > herbivore primary consumer
+top food chain > predator carnivore
+ecosystem change fast > fire flood volcano storm
+ecosystem change slow > succession climate
+first plants after volcano > lichens mosses pioneer
+after forest fire first > grasses weeds
+human activities affecting ecosystems > pollution deforestation urbanization overfishing
+introduced species examples > zebra mussels kudzu cane toads rabbits australia
+native species > naturally occurring area
+biodiversity loss > extinction habitat destruction
+reasons protect biodiversity > medicine food stable ecosystems
+# behavior
+behavior response > stimulus
+stimulus examples > light heat sound touch smell
+response examples > move toward away
+innate behavior > instinct inherited born with
+learned behavior examples > tricks reading hunting skills avoiding foods
+imprinting > baby geese follow mother first moving object
+conditioning > learning by reward pavlov dog bell
+courtship behavior > attract mate dance songs displays
+territorial behavior > defend area
+social behavior > groups communication
+bees communicate > waggle dance
+ants communicate > chemicals pheromones
+birds communicate > songs calls
+whales communicate > songs sounds
+fireflies communicate > light flashes
+plants respond > light gravity touch water
+# reproduction growth
+growth requires > food energy cell division
+reproduction purpose > continue species
+eggs hatch > birds reptiles fish amphibians
+offspring look like > parents inherited
+gestation > time young develop in mother
+larva > young insect different from adult
+pupa > resting stage changes
+complete metamorphosis stages > four egg larva pupa adult
+incomplete metamorphosis stages > three egg nymph adult
+mealworm > beetle larva complete metamorphosis
+ladybug life cycle > egg larva pupa adult
+mosquito larva > water
+frog eggs laid > water
+toad vs frog > dry bumpy skin
+salamander > amphibian tail moist skin

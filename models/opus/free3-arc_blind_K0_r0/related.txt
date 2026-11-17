@@ -1,0 +1,219 @@
+# words that often say the same thing in a question and in a fact: a question word also looks for its
+# related words (weight PARAMS["rel"]). Each line: a group of related words.
+decrease reduce lower drop fall falling shrink less fewer decline
+increase rise rising grow more greater raise gain
+fast quick quickly rapid speed
+slow slowly gradual
+big large huge giant
+small tiny little microscopic
+hot warm heat
+cold cool chilly freezing
+move motion movement travel
+help benefit aid
+harm damage hurt injure destroy
+kill die death
+make produce create form
+break crack split shatter
+change transform convert become
+use need require
+storm thunderstorm hurricane tornado
+rain precipitation rainfall
+dirt soil
+rock stone
+ocean sea
+plant vegetation
+animal creature
+child kid young offspring
+baby young offspring
+parent mother father
+show indicate mean
+cause produce result
+problem disadvantage drawback
+advantage benefit
+build construct
+fix repair
+look observe watch see
+study investigate research
+test experiment trial
+guess predict
+learn discover find
+food nutrient nutrients
+air atmosphere
+house home building
+car vehicle automobile
+power energy electricity
+shine glow
+stop prevent block
+keep conserve save protect
+throw toss
+dark black
+sick ill disease illness
+germ pathogen bacteria virus
+# second set
+disappear vanish evaporate
+dry evaporate
+puddle water
+wet moist damp
+melt thaw
+freeze ice frozen solidify
+boil steam vapor
+shrink contract smaller
+expand swell bigger
+sink drown
+float buoyant
+shiny reflect luster
+see visible vision sight
+hear hearing sound ear
+smell odor scent
+taste flavor
+touch feel texture
+breathe respire breathing oxygen
+eat consume feed food
+drink water
+sleep rest
+run move speed
+jump leap
+grow develop growth
+baby infant young
+seed germinate sprout
+flower bloom blossom
+tree forest wood
+leaf leaves foliage
+garden plant crop
+farm agriculture crop farmer
+crop harvest
+weed plant
+bug insect
+germs bacteria microorganism microbe
+mold fungus
+rot decay decompose
+trash garbage waste litter
+reuse recycle
+save conserve
+electric electricity current
+battery cell
+bulb lamp light
+wire conductor
+magnet magnetic attract
+pull attract
+push repel force
+rub friction rubbing
+slide friction
+smooth slippery friction
+rough friction
+heavy mass weight
+light lightweight
+lift raise
+drop fall
+roll wheel
+spin rotate turn
+orbit revolve circle
+star sun
+planet world
+sky atmosphere
+cloud condensation fog
+wind air breeze
+weather forecast climate
+season summer winter spring autumn
+daylight day sunlight
+night dark darkness
+shadow shade
+hill mountain slope
+valley canyon
+river stream creek
+lake pond
+ocean sea marine
+beach shore coast
+sand sediment
+mud clay silt sediment
+pebble gravel rock
+crack fracture break
+wear erode erosion
+earthquake seismic tremor
+volcano eruption magma lava
+layer stratum
+bone skeleton skull
+muscle strength
+blood heart circulation
+stomach digest digestion
+brain nerve nervous
+skin protect
+sick disease illness infection
+medicine drug treatment
+doctor medical health
+healthy health
+exercise activity
+diet nutrition food
+energy fuel power
+gas gasoline fuel
+car engine vehicle
+pollution pollute contaminate dirty
+clean pure
+dangerous hazard harmful unsafe
+safe safety protect
+goggles eyes protect
+experiment investigation test
+measure measurement record
+result outcome data
+compare comparison difference
+pattern trend
+cause reason effect
+model represent
+tool instrument
+container jar cup bottle beaker
+pot pan
+stove burner heat
+fire flame burn
+smoke burn
+cook heat bake
+kitchen food cook
+cold freezer refrigerator
+warm heater
+temperature thermometer degrees
+hot heated
+color colour
+paint coat
+dark absorb
+white reflect
+mirror reflect
+glass transparent
+window glass light
+metal iron steel copper aluminum
+spoon metal
+plastic insulator
+wood insulator
+cloth fabric cotton wool
+fur hair coat
+feather bird
+wing fly flight
+fish gills swim
+frog amphibian
+snake reptile
+mammal milk fur hair
+young offspring baby
+parent parents inherit
+trait characteristic feature
+same identical similar
+different differ variation
+change changes changing
+property characteristic
+shape form
+size volume
+amount quantity
+number count
+rate speed fast
+time duration
+distance length far
+height tall
+area space
+floor ground
+ground soil land
+old age
+age old years
+ring rings
+stump trunk tree
+fall drop
+falling fall
+boat ship
+sail wind
+bounce bounces bounced reflect echo

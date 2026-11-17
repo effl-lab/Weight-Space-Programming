@@ -1,0 +1,280 @@
+# Generation 3: life science: cells, classification, plants, animals, reproduction, genetics, evolution.
+# --- cells
+cell theory parts > all living things made of cells cell basic unit life cells come from existing cells
+microscope discovered cells > robert hooke cork
+hooke > cells cork microscope
+leeuwenhoek > first saw microorganisms microscope
+prokaryotic cell = no nucleus bacteria simple
+eukaryotic cell = has nucleus organelles plants animals fungi protists
+bacteria cell > prokaryote no nucleus cell wall single celled
+unicellular = one cell bacteria amoeba paramecium yeast
+multicellular = many cells specialized plants animals
+specialized cells > nerve cells muscle cells blood cells bone cells
+levels organization > cell tissue organ organ system organism
+tissue = group similar cells same job
+organ = group tissues work together heart stomach leaf
+organ system = organs work together
+organelles = structures inside cell specific jobs
+plant cell structures not animal > cell wall chloroplasts large central vacuole
+both plant animal cells > nucleus cell membrane cytoplasm mitochondria ribosomes
+plant cell shape > rectangular rigid cell wall
+animal cell shape > round flexible
+cell energy organelle > mitochondria
+cell food making organelle > chloroplast
+cell waste digestion > lysosome
+cell transport proteins > endoplasmic reticulum golgi
+cell division = one cell divides into two
+mitosis = cell division identical daughter cells growth repair
+meiosis = cell division sex cells half chromosomes egg sperm
+cells divide purpose > growth repair replace
+skin cut heals > cell division mitosis new cells
+diffusion = particles move from high to low concentration
+osmosis = water diffuses across membrane
+active transport > uses energy move materials across membrane
+cells need > food water oxygen energy remove waste
+# --- classification
+classification = grouping organisms by similar characteristics
+linnaeus > classification system binomial nomenclature scientific names
+scientific name two parts > genus species
+classification levels > kingdom phylum class order family genus species
+most specific level > species
+broadest level > domain kingdom
+species = organisms can mate produce fertile offspring
+kingdoms > animals plants fungi protists bacteria archaea
+fungi characteristics > absorb food decomposers spores cell walls
+mushrooms yeast molds > fungi
+protists > mostly single celled nucleus amoeba paramecium algae euglena
+bacteria characteristics > single celled no nucleus everywhere some helpful some harmful
+helpful bacteria > digestion yogurt cheese decompose nitrogen fixing
+harmful bacteria > disease strep throat food poisoning
+virus = needs host cell to reproduce nonliving
+virus characteristics > reproduce inside host cells nonliving
+dichotomous key = identify organisms series of paired choices
+classify animals > backbone body covering how reproduce body temperature
+vertebrates groups > fish amphibians reptiles birds mammals
+invertebrates > insects spiders worms jellyfish snails clams sponges starfish
+invertebrates percent > most animals 95 percent
+mammal characteristics > hair fur milk warm blooded live birth lungs
+bird characteristics > feathers beaks wings lay eggs hard shells warm blooded hollow bones
+reptile characteristics > dry scaly skin lay eggs leathery shells cold blooded lungs
+amphibian characteristics > moist skin lay eggs water metamorphosis gills larva lungs adult cold blooded
+fish characteristics > gills scales fins cold blooded live water
+insect characteristics > six legs three body parts head thorax abdomen antennae exoskeleton
+spider arachnid characteristics > eight legs two body parts
+crustaceans > crab lobster shrimp exoskeleton
+arthropods > insects spiders crustaceans jointed legs exoskeleton
+mollusks > snail clam octopus squid soft body shell
+echinoderms > starfish sea urchin spiny skin
+cnidarians > jellyfish coral stinging cells
+warm blooded endotherm > birds mammals constant body temperature
+cold blooded ectotherm > reptiles amphibians fish insects body temperature changes environment
+lizards bask sun > cold blooded warm body
+mammals that lay eggs > platypus echidna
+mammals live in ocean > whales dolphins seals manatees breathe air lungs
+whale is a mammal > breathes air lungs milk live birth warm blooded
+bat is a mammal > fur milk flies
+penguin is a bird > feathers eggs cannot fly
+sea turtle reptile > lays eggs on land
+# --- plants
+plant parts > roots stems leaves flowers fruits seeds
+roots function > absorb water minerals anchor plant store food
+stem function > support carries water nutrients xylem phloem
+leaves function > photosynthesis make food gas exchange
+flower function > reproduction seeds pollination
+fruit function > protects seeds helps spread seeds
+seed function > grow new plant contains embryo stored food
+xylem = tubes carry water up from roots
+phloem = tubes carry food sugar from leaves
+stomata = tiny openings leaves gas exchange water vapor
+guard cells > open close stomata
+photosynthesis equation > carbon dioxide water sunlight produce sugar glucose oxygen
+photosynthesis inputs > carbon dioxide water light energy
+photosynthesis products > glucose sugar oxygen
+photosynthesis takes place > chloroplasts leaves
+chlorophyll function > absorbs light energy green
+leaves green > chlorophyll reflects green light
+plants get carbon > carbon dioxide from air
+plant mass comes from > carbon dioxide air water
+plants release oxygen > photosynthesis
+plants respiration > use oxygen release carbon dioxide also
+plants need to grow > sunlight water carbon dioxide nutrients air space
+plant without light > cannot make food turns yellow dies
+germination = seed begins to grow sprout
+seeds need to germinate > water warmth oxygen
+seeds germinate not need > light soil
+seed parts > seed coat embryo cotyledon stored food
+seed coat > protects embryo
+cotyledon > stored food seed leaf
+plant tropism = growth response to stimulus
+phototropism = growth toward light
+gravitropism geotropism = roots grow down gravity
+thigmotropism = response touch vines climb
+plant bends window > phototropism light
+roots grow downward > gravity gravitropism
+venus flytrap closes > touch response
+flower parts > petals sepals stamen pistil
+stamen = male part anther filament pollen
+pistil = female part stigma style ovary ovules
+anther > produces pollen
+stigma > sticky catches pollen
+ovary > becomes fruit
+ovule > becomes seed
+petals > colorful attract pollinators
+sepal > protects flower bud
+pollination = pollen moves from stamen anther to pistil stigma
+pollinators > bees butterflies hummingbirds bats moths wind
+fertilization plants > pollen sperm joins egg ovule seed
+seed dispersal methods > wind water animals fur eating fruit explode
+seeds dispersed wind > dandelion maple wings parachutes light
+seeds dispersed water > coconut float
+seeds dispersed animals > burrs stick fur eaten fruit droppings
+seeds spread far reason > less competition parent plant
+nonflowering plants > mosses ferns conifers
+conifers > cones needles evergreen seeds
+gymnosperm = seeds in cones not enclosed
+angiosperm = flowering plants seeds enclosed fruit
+moss > nonvascular spores damp small
+fern > spores fronds vascular
+vascular plants > xylem phloem tubes tall
+nonvascular plants > mosses short no tubes
+plant asexual reproduction > runners cuttings bulbs tubers potato strawberry spores
+deciduous trees > lose leaves fall winter
+evergreen trees > keep leaves needles all year
+leaves change color fall > chlorophyll breaks down other pigments seen
+annual plant > one growing season
+perennial > lives many years
+dormant > seeds plants inactive winter
+plant adaptations desert > thick waxy stems store water spines deep roots small leaves
+plant adaptations rainforest > large leaves drip tips climb vines
+plant adaptations water > floating leaves air spaces
+cactus spines > reduce water loss protection
+waxy coating leaves > reduces water loss
+# --- animal reproduction and life cycles
+life cycle = stages of life birth growth reproduction death
+complete metamorphosis > egg larva pupa adult butterfly beetle fly bee
+incomplete metamorphosis > egg nymph adult grasshopper dragonfly cricket
+nymph > young insect looks like adult
+larva caterpillar > eats grows
+pupa chrysalis cocoon > changes into adult
+frog life cycle > egg tadpole froglet adult
+tadpole > gills tail water
+adult frog > lungs legs land
+mammal life cycle > live birth young drink milk
+bird life cycle > egg hatch chick adult
+reproduction purpose > continue species
+sexual reproduction = two parents offspring genetic variation
+asexual reproduction = one parent identical offspring
+asexual reproduction examples > budding yeast hydra binary fission bacteria regeneration starfish runners
+binary fission > bacteria split in two
+budding > yeast hydra new organism grows from parent
+regeneration > starfish lizard tail grow back lost parts
+sexual reproduction advantage > variation offspring
+asexual reproduction advantage > fast one parent
+external fertilization > fish frogs eggs in water
+internal fertilization > mammals birds reptiles
+eggs many > fish frogs few survive
+parental care > mammals birds fewer offspring more survive
+gestation = time young develop inside mother
+# --- genetics and heredity
+heredity = passing traits parents to offspring
+genetics = study of heredity
+gregor mendel > father genetics pea plants dominant recessive
+gene = section dna codes for trait
+dna = genetic material double helix instructions
+chromosome = dna coiled carries genes nucleus
+human chromosomes > 46 23 pairs
+sex cells chromosomes > 23 half
+allele = different form of a gene
+dominant allele = shows trait when present capital letter
+recessive allele = hidden when dominant present lowercase letter
+genotype = genetic makeup alleles tt
+phenotype = physical appearance trait
+homozygous = two same alleles purebred
+heterozygous = two different alleles hybrid
+punnett square > predicts probability offspring traits
+tt x tt hybrid cross > 3 to 1 75 percent dominant 25 percent recessive
+offspring receive genes > half from each parent
+inherited traits examples > eye color hair color height blood type dimples freckles flower color shape of leaves
+acquired traits learned > scars language riding bike tan muscles from exercise
+acquired traits > scars learned skills
+environment affects traits > height nutrition skin tan plant size sunlight
+mutation = change in dna
+mutation causes > radiation chemicals copying errors
+mutations can be > harmful helpful neutral
+genetic disorders > sickle cell cystic fibrosis hemophilia
+selective breeding = humans choose parents desired traits
+selective breeding examples > dog breeds crops cows more milk
+genetic engineering = changing genes insulin bacteria crops
+clone = genetically identical copy
+dna fingerprinting > identify people crime
+# --- evolution and adaptation
+evolution = change in species over many generations
+natural selection = organisms best adapted survive reproduce pass traits
+darwin > natural selection galapagos finches evolution
+natural selection steps > variation overproduction competition survival reproduction
+survival of the fittest > best adapted survive
+adaptation = inherited trait helps survive in environment
+structural adaptation > body parts beaks claws fur color shape
+behavioral adaptation > migration hibernation actions
+physiological adaptation > body functions venom temperature control
+camouflage = blends with surroundings hide predators prey
+mimicry = looks like another organism harmful protection
+warning coloration > bright colors poisonous
+variation = differences among individuals same species
+variation importance > some survive environment changes
+fossil record shows > species changed over time extinct
+homologous structures > similar bones different function common ancestor arm wing flipper
+vestigial structures > no longer used appendix
+common ancestor > similar structures dna
+antibiotic resistance bacteria > natural selection
+pesticide resistant insects > natural selection survivors reproduce
+peppered moth > natural selection soot dark trees birds
+finch beaks different islands > adapted different foods
+long neck giraffe > reach high leaves natural selection
+environment changes species > adapt move or die extinct
+extinction causes > habitat loss climate change hunting new predators disease
+endangered species = few left risk extinction
+protect endangered species > habitat protection laws breeding programs wildlife refuges
+# --- animal adaptations and behavior
+beak shapes > seeds cracking short thick nectar long thin meat hooked sharp fish long spear
+hooked beak > tearing meat hawk eagle owl
+long thin beak > nectar hummingbird probing
+short thick beak > cracking seeds finch cardinal
+flat wide beak > straining water duck
+webbed feet > swimming ducks frogs
+sharp claws talons > catching prey
+sharp teeth > tearing meat carnivore
+flat teeth > grinding plants herbivore
+eyes front of head > predators depth judge distance
+eyes sides of head > prey wide view watch predators
+thick fur blubber > cold environment insulation
+large ears desert fox > release heat
+small ears arctic fox > keep heat
+white fur arctic > camouflage snow
+nocturnal = active at night
+nocturnal animals adaptations > large eyes good hearing smell owls bats
+diurnal = active during day
+hibernation = deep sleep winter low body temperature save energy
+estivation = dormant hot dry summer
+migration = move to different region seasonally food warmer weather breeding
+animals migrate reason > find food warmer climate breed
+bird migrate south winter > food warmer
+whales migrate > breeding feeding
+salmon migrate > return to stream born to spawn
+instinct = inherited behavior born knowing inborn innate
+learned behavior = gained from experience teaching observation
+instinct examples > spider web bird nest building migration hibernation suckling sea turtles crawling to ocean
+learned behavior examples > dog tricks reading riding bike hunting skills taught training
+imprinting > young birds follow first moving thing mother
+conditioning > learned response reward pavlov
+social behavior > ants bees wolves pack herd colony
+communication animals > sounds dances bees scents chemicals pheromones
+bees dance > tell location food
+courtship behavior > attract mate
+territorial behavior > defend area
+protect themselves defense > shells spines quills camouflage poison spray ink mimicry playing dead
+skunk spray > defense
+porcupine quills > defense
+octopus ink > escape predators
+turtle shell > protection
+herd > protection numbers

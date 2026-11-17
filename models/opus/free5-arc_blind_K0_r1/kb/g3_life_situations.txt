@@ -1,0 +1,184 @@
+# adaptations of specific organisms (structure -> function)
+A duck has webbed feet that help it swim and paddle in water.
+A duck's feathers are coated with oil that keeps water out.
+A hawk or eagle has sharp talons to grab prey and a hooked beak to tear meat.
+A hawk has very sharp eyesight to spot prey from high in the air.
+An owl has large eyes to see at night and soft feathers to fly silently when hunting.
+A hummingbird has a long thin beak to reach nectar deep inside flowers.
+A woodpecker has a strong pointed beak to drill into trees and find insects.
+A pelican has a pouch under its beak to scoop up fish.
+A finch with a short thick beak can crack hard seeds; a finch with a thin beak catches insects.
+Birds have hollow bones that make them light for flying.
+Penguins have thick fat, dense feathers and flipper-like wings for swimming in cold water.
+A giraffe's long neck helps it reach leaves high in trees.
+An elephant uses its trunk to pick up food and drink water; its large ears help it lose heat.
+A camel stores fat in its hump and can go a long time without water in the desert.
+A camel has wide feet that keep it from sinking into sand and long eyelashes that keep out sand.
+A cactus has spines instead of leaves to reduce water loss and protect it from animals.
+A cactus has a thick waxy stem that stores water.
+Desert plants have deep or widespread roots to collect water and waxy coatings to keep water in.
+A polar bear has thick white fur and a layer of fat to stay warm and blend in with snow.
+An arctic fox has white fur in winter and brown fur in summer to blend in with its surroundings.
+A snowshoe hare grows white fur in winter for camouflage in the snow.
+A chameleon changes color to blend in with its surroundings and hide from predators.
+An octopus can change color and squirt ink to escape predators.
+A skunk sprays a bad-smelling liquid to defend itself.
+A porcupine has sharp quills to protect it from predators.
+A turtle has a hard shell to protect it from predators.
+An armadillo has a tough armor of plates and can roll into a ball for protection.
+A rabbit has long ears to hear predators and strong back legs to run away quickly.
+A deer has eyes on the sides of its head to watch for predators.
+Predators such as lions, wolves and owls usually have eyes facing forward to judge distance when hunting.
+A cheetah has long legs, a flexible spine and a light body to run very fast and catch prey.
+A lion has sharp teeth and claws to catch and eat meat.
+Herbivores such as cows and horses have flat teeth for grinding plants.
+Carnivores have sharp pointed teeth for tearing meat.
+A beaver has large front teeth for cutting trees and a flat tail for swimming.
+A mole has strong front claws for digging tunnels and small eyes because it lives underground.
+A bat uses echolocation, bouncing sound off objects, to find insects in the dark.
+A dolphin uses echolocation to find food in the water.
+Fish have gills to take oxygen from water and fins to swim.
+A fish's streamlined shape helps it move easily through water.
+Fish that live in the deep ocean may make their own light to attract prey.
+Frogs have long sticky tongues to catch insects.
+A frog's webbed back feet help it swim and its strong legs help it jump.
+A snake can unhinge its jaw to swallow prey whole.
+Rattlesnakes have a rattle on their tail to warn predators.
+Bright colors on some frogs and insects warn predators that they are poisonous.
+A harmless viceroy butterfly looks like the bad-tasting monarch butterfly, so predators avoid it; this is mimicry.
+A stick insect looks like a twig so predators do not see it; this is camouflage.
+A walking leaf insect looks like a leaf, which hides it from predators.
+Many moths are colored like tree bark so birds do not see them.
+A flounder is flat and colored like the sand on the ocean floor so it can hide.
+Insects have antennae to sense smells and touch.
+Butterflies have long tube-like mouthparts to sip nectar from flowers.
+Bees have hairy bodies that collect pollen as they visit flowers.
+Mosquitoes have needle-like mouthparts to pierce skin and suck blood.
+Earthworms have no lungs; they breathe through their moist skin.
+Whales breathe air through a blowhole on top of the head.
+Sea turtles return to the beach where they hatched to lay eggs.
+Salmon swim upstream to lay eggs in the river where they hatched.
+Plants that grow in the shade of a forest often have large broad leaves to capture more light.
+Conifers such as pine trees have needle-shaped leaves with a waxy coating that lose little water and shed snow.
+Water lilies have large flat leaves that float to catch sunlight on the surface of a pond.
+Some plants have thorns or spines to keep animals from eating them.
+Venus flytraps catch insects to get nitrogen because they grow in poor soil.
+Seeds with hooks, such as burrs, stick to animal fur and are carried to new places.
+Seeds like dandelion and maple seeds are carried by the wind.
+Coconuts float and are carried by ocean water to new places.
+Animals eat fruits and drop the seeds in their wastes far from the parent plant.
+Squirrels bury acorns and nuts, and some forgotten nuts grow into new trees.
+Bright colorful flowers and sweet smells attract insects and birds that pollinate the flowers.
+Deciduous trees lose their leaves in fall to save water and energy during winter.
+
+# behaviors
+Instinct is a behavior an animal is born with and does not have to learn.
+A spider spinning a web, a bird building a nest, and a baby sucking are instincts.
+Birds migrating south in the fall is an inherited instinct triggered by shorter days and cooler temperatures.
+Learned behaviors are gained by experience or by watching others, such as a dog learning a trick.
+A bear learning to open trash cans or a raccoon learning to find food in a town is a learned behavior.
+Chimpanzees using sticks to catch termites learned this behavior by watching others.
+Hibernation is a deep sleep in winter that saves energy when food is scarce; bears, ground squirrels and bats hibernate.
+During hibernation an animal's heart rate, breathing and body temperature drop to save energy.
+Migration is moving to another region when the seasons change to find food, warmer weather or a place to breed.
+Monarch butterflies, geese, whales and caribou migrate.
+Some animals store food for winter, such as squirrels that bury nuts and bees that store honey.
+Wolves hunt in packs so they can catch larger prey.
+Fish swim in schools and birds fly in flocks for protection from predators.
+Bees do a dance to tell other bees where to find food.
+Male birds sing and show bright feathers to attract a mate.
+Animals mark and defend a territory to keep food and mates for themselves.
+Many desert animals are active at night, when it is cooler, and rest in burrows during the hot day; they are nocturnal.
+Lizards and snakes lie in the sun to warm their bodies because they are cold-blooded.
+A plant growing toward light is phototropism; roots growing downward with gravity is gravitropism.
+A vine wrapping around a pole is thigmotropism, a response to touch.
+Roots growing toward water is hydrotropism.
+A plant closing its leaves when touched, like the sensitive plant, is a response to a stimulus.
+A stimulus is something in the environment that causes a response, such as light, sound, heat or touch.
+Pulling a hand away from a hot object is a reflex, a quick response controlled by the spinal cord.
+Pupils of the eye get smaller in bright light and larger in dim light.
+Shivering is the body's response to cold; muscles move quickly to produce heat.
+Sweating is the body's response to heat.
+
+# inherited and acquired traits
+Inherited traits are passed from parents to offspring through genes, such as eye color, hair color, height potential and the shape of a leaf.
+Acquired traits are gained during an organism's life and are not passed to offspring, such as scars, a broken bone, a suntan, big muscles from exercise or knowing how to read.
+A dog's fur color is inherited; a dog's ability to fetch a ball is learned.
+Dimples, freckles, attached earlobes and the ability to roll the tongue are inherited traits.
+A person's height and weight are affected by both genes and the environment, such as diet.
+Plants of the same type may grow to different heights if they get different amounts of light, water or nutrients.
+Hydrangea flowers can be blue or pink depending on the acidity of the soil, an environmental effect on a trait.
+Identical twins have the same genes, so differences between them are caused by the environment.
+Offspring from sexual reproduction get half their genes from each parent, so they look similar to but not exactly like their parents.
+Offspring from asexual reproduction are identical to the single parent.
+Cuttings, runners, bulbs and tubers produce new plants that are identical to the parent plant.
+A strawberry plant can reproduce asexually with runners.
+Bacteria reproduce asexually by splitting in two, called binary fission.
+Yeast reproduces asexually by budding.
+Selective breeding is when people choose plants or animals with desired traits to breed, such as cows that give more milk.
+Different dog breeds were produced by selective breeding.
+A mutation is a change in a gene; it can be harmful, helpful or have no effect.
+Mutations in body cells are not passed on; mutations in sex cells can be passed to offspring.
+Genes are found on chromosomes in the nucleus of the cell and are made of DNA.
+Each human body cell has 46 chromosomes, 23 pairs; sperm and egg cells have 23 chromosomes.
+Two parents with brown eyes can have a blue-eyed child if both carry the recessive allele.
+A recessive trait shows only when an organism has two recessive alleles.
+A dominant allele hides a recessive allele.
+When two heterozygous parents Tt are crossed, about three fourths of the offspring show the dominant trait and one fourth show the recessive trait.
+When a homozygous dominant parent TT is crossed with a homozygous recessive parent tt, all offspring are Tt and show the dominant trait.
+When a heterozygous parent Tt is crossed with a recessive parent tt, about half of the offspring show the recessive trait.
+
+# ecosystems: what happens when
+If a predator is removed from an ecosystem, the population of its prey usually increases at first.
+If hawks are removed, the number of mice and snakes they eat will increase, and then the mice may eat too many plants.
+If wolves are removed from a forest, the deer population grows and the deer overgraze plants.
+If the number of predators increases, the number of prey decreases.
+If the number of prey decreases, the number of predators decreases because they have less food.
+If the plants in an area die, the herbivores that eat them will decrease, and then the carnivores will decrease.
+When a new species is introduced into an area, it may compete with native species for food and space.
+Invasive species such as zebra mussels, kudzu and cane toads have no natural predators and spread quickly, harming native species.
+When two species need the same food, they compete, and the population of one may decrease.
+Organisms compete for food, water, sunlight, space and mates.
+Plants compete for sunlight, water, nutrients and space.
+A drought reduces the amount of plants and water, so populations of animals decrease.
+A forest fire destroys habitats, but new plants grow from seeds in the ash-enriched soil.
+After a forest fire or a field is abandoned, grasses grow first, then shrubs, then trees; this is secondary succession.
+Lichens and mosses are pioneer species that grow first on bare rock and start forming soil.
+Cutting down a forest destroys the habitats of many animals.
+Building cities, roads and farms destroys natural habitats.
+Pollution of a river can kill fish and the animals that eat the fish.
+Pesticides can build up in the food chain and harm birds such as eagles that eat many contaminated fish.
+Fertilizer runoff into lakes causes algae to grow quickly; when the algae die, bacteria decompose them and use up the oxygen, so fish die.
+Wetlands filter pollutants from water, reduce flooding and provide habitat for many species.
+Coral reefs are damaged by warmer ocean water, pollution and acid in the ocean.
+Bees pollinate many crops; if bee populations decrease, fewer fruits and vegetables are produced.
+Decomposers such as bacteria, fungi and earthworms break down dead plants and animals and return nutrients to the soil.
+Without decomposers, dead organisms and wastes would pile up and nutrients would not be returned to the soil for plants.
+Earthworms loosen soil, let air and water in, and add nutrients with their wastes.
+Plants provide food, oxygen and shelter for animals.
+Animals help plants by pollinating flowers, spreading seeds and adding nutrients to soil with their wastes.
+An ecosystem with many different species, high biodiversity, is more stable and recovers better from changes.
+The energy in an ecosystem comes from the Sun; producers capture it and it passes to consumers.
+Only about ten percent of the energy at one level of a food chain passes to the next level.
+There are fewer organisms at the top of an energy pyramid because energy is lost as heat at each level.
+Producers such as grass, trees and algae are at the bottom of an energy pyramid.
+Top predators such as hawks, eagles and wolves are at the top of an energy pyramid.
+The arrows in a food chain show the direction energy flows, from the organism eaten to the organism that eats it.
+A food web is made of many food chains that are connected.
+Grass is a producer; a rabbit that eats grass is a primary consumer; a fox that eats the rabbit is a secondary consumer.
+Phytoplankton are tiny producers at the base of ocean food chains.
+Zooplankton eat phytoplankton and are eaten by small fish.
+Mutualism is a relationship in which both organisms benefit, such as bees and flowers.
+Commensalism is a relationship in which one organism benefits and the other is not affected, such as a barnacle on a whale or a bird nesting in a tree.
+Parasitism is a relationship in which one organism benefits and the other is harmed, such as a tick on a dog or a tapeworm in an animal.
+A lichen is a fungus and an alga living together in mutualism.
+Clownfish and sea anemones help each other; this is mutualism.
+Biotic factors are living parts of an ecosystem such as plants, animals, fungi and bacteria.
+Abiotic factors are nonliving parts of an ecosystem such as sunlight, water, air, temperature, rocks and soil.
+A habitat is the place where an organism lives and gets food, water, shelter and space.
+A niche is the role an organism plays in its ecosystem.
+The carrying capacity is the largest population of a species that an environment can support.
+Limiting factors such as food, water, space and predators keep populations from growing forever.
+A population is all the organisms of one species living in an area, such as all the bluegill fish in a pond.
+A community is all the populations of different species living in an area, such as all the plants and animals in a pond.
+An ecosystem is a community of living things together with the nonliving things in their environment.

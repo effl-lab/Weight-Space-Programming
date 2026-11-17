@@ -1,0 +1,260 @@
+# Generation 7: inquiry vocabulary, measurement, experimental mechanisms, design.
+# These encode general scientific procedures, never test-specific answer patterns.
+question scientific | measurable testable evidence
+question preference | opinion subjective judgment
+claim reliable | evidence independent verification
+claim extraordinary | strong independent evidence
+claim advertising | test evidence possible bias
+conclusion justified | consistent observed evidence
+conclusion tentative | limited evidence uncertainty
+conclusion generalizable | representative sample conditions
+conclusion contradicts | revise explanation evidence
+hypothesis competing | discriminating experiment predictions
+hypothesis @rejected evidence | revise explanation new test
+hypothesis @supported evidence | provisional repeated confirmation
+hypothesis changed | new evidence explanation
+prediction measurable | testable expected outcome
+prediction wrong | revise model hypothesis
+prediction extrapolated | uncertainty outside measured range
+observation direct | senses instrument measurement
+observation color | qualitative description
+observation texture | qualitative description
+observation odor | qualitative description
+observation length | quantitative measurement units
+observation mass | quantitative measurement units
+inference explanation | interpretation prior knowledge
+inference tracks | animal presence past movement
+inference fossils environment | past habitat conditions
+inference bubbles | possible gas production
+inference shadows | light direction source
+reasoning evidence | logical explanation supported observations
+scientific knowledge changing | new evidence improved instruments
+scientific uncertainty | measurement limitations variation
+scientific agreement | converging independent evidence
+scientific reproducible | methods repeated independent investigators
+scientific skepticism | evaluate test evidence
+scientific creativity | new hypotheses methods models
+scientific ethics reporting | honest complete observations
+fabricated measurements | invalid unreliable evidence
+unwanted results | record honestly investigate
+unexpected outcome | repeat inspect procedure revise
+anomalous reading | remeasure inspect instrument
+mistake procedure | repeat corrected method
+biased sample | unrepresentative population
+biased question | leading wording response
+biased observer | expectation influences measurement
+blind assessment | reduced observer expectation
+random selection | representative probability sample
+random allocation | balanced treatment groups
+# Sampling comparisons keep the population and selection method fixed.
+@large sample reliable | reduced random sampling error
+@small sample uncertainty | limited generalization
+repeated trials reliable | consistency random error reduction
+repeated measurements average | reduce random uncertainty
+repeated error systematic | calibration persistent offset
+replicated different laboratories | independent confirmation
+replication instructions | detailed method materials procedure
+peer review criticism | evaluate methods evidence reasoning
+publication sharing | replication scrutiny communication
+# Variables and controls: give distinct variable-role bridges.
+manipulated factor | independent variable
+responding factor | dependent variable
+measured outcome | dependent variable
+kept constant | controlled variables
+untreated comparison | control group baseline
+placebo comparison | control expectation effects
+experimental treatment | independent variable intervention
+confounding factor | uncontrolled alternative explanation
+fair experiment | one independent variable constants
+multiple factors changed | confounded unclear cause
+@same initial conditions | fair comparison controlled variables
+same equipment | control measurement differences
+@same procedure repeated | reliability consistency
+@same species plants | control biological variation
+@same age plants | control growth variation
+@same size containers | control volume surface area
+@same water amount | controlled irrigation variable
+@same starting temperature | fair thermal comparison
+@same release height | controlled gravitational potential
+@same object mass | controlled inertia load
+@same timing interval | comparable rates measurements
+control sunlight | equal light exposure
+control watering | equal water volume frequency
+control fertilizer | equal nutrients treatment
+control soil | same composition volume
+control seed | same species age viability
+control reaction | same reactant amount temperature
+control dissolving | same solute solvent amounts
+control friction | same load contact area
+control pendulum | same bob amplitude
+control paperplane | same paper launch force
+control parachute | same load drop height
+control electromagnet | same core battery current
+fertilizer independent | amount concentration nutrient treatment
+fertilizer dependent | plant growth height biomass
+sunlight independent | intensity duration exposure
+sunlight dependent | plant growth photosynthesis
+watering independent | volume frequency irrigation
+watering dependent | plant growth survival
+germination dependent | number proportion sprouted
+@seed temperature @dependent | germination rate time
+exercise independent | activity duration intensity
+exercise dependent | pulse breathing heart rate
+friction independent | surface texture material
+friction dependent | pulling force stopping distance
+pendulum independent | length bob amplitude
+pendulum dependent | period oscillation time
+insulation independent | material thickness
+insulation dependent | cooling rate temperature change
+solubility independent | temperature solvent solute
+solubility dependent | maximum amount dissolved
+dissolving dependent | time rate disappearance
+reaction dependent | gas volume rate temperature
+ramp independent | angle height slope
+ramp dependent | speed travel time distance
+magnet dependent | attracted paperclip number force
+absorbency dependent | water volume mass uptake
+battery dependent | brightness current operating time
+# Instrument choice, use, and unit interpretation.
+mass small object | balance grams
+mass large object | balance kilograms
+liquid capacity | graduated cylinder liters
+liquid small volume | pipette milliliters
+liquid accurate volume | volumetric pipette flask
+irregular rock volume | displacement water cylinder
+rectangular block volume | length width height product
+spherical volume | radius geometry
+thin sheet thickness | stack measure divide
+small diameter | caliper micrometer
+large distance | measuring tape meter
+short duration | stopwatch seconds
+repeated oscillations | time divide cycle number
+force spring extension | spring scale newton
+weight spring scale | gravitational force newton
+mass triple beam | balance grams
+balance tare | subtract container mass
+balance level | zero calibration accuracy
+cylinder meniscus bottom | eye level parallax
+ruler zero aligned | accurate length endpoint
+ruler broken end | subtract start end readings
+thermometer immersed | thermal contact reading
+thermometer wait | equilibrium stable measurement
+thermometer touch bottom | container temperature bias
+microscope @coarse focus | low power objective
+microscope @fine focus | high power sharp image
+microscope magnification total | eyepiece objective product
+microscope field diameter | magnification inverse relationship
+# Fixed optical system: bind the changed quantity to its direction.
+microscope @magnification @increase | field diameter decrease | | -1.0
+microscope @magnification @decrease | field diameter increase | | -1.0
+microscope @magnification @high | small field diameter | large | -1.0
+microscope @magnification @low | large field diameter | small | -1.0
+microscope resolution detail | distinguish close points
+microscope slide coverslip | flatten protect specimen
+microscope stained | contrast structures visibility
+microscope wetmount | water living specimen
+hand lens rock | magnify mineral grains
+binocular distant bird | magnification observation
+telescope faint stars | light gathering aperture
+spectroscope light | spectrum composition wavelengths
+barometer falling pressure | weather storm indication
+psychrometer wet bulb | evaporation humidity
+hygrometer water vapor | humidity percentage
+anemometer spinning cups | wind speed
+weathervane arrow | wind origin direction
+rain gauge depth | precipitation amount
+stream velocity | distance time flow
+salinity measurement | dissolved salt concentration
+turbidity measurement | suspended particles clarity
+ph measurement | acidity alkalinity
+conductivity solution | mobile dissolved ions
+# Presentation, models, and engineering choices.
+linegraph time trend | continuous change
+bargraph categories | compare distinct groups
+piechart parts | fraction percentage whole
+scatterplot correlation | paired variable relationship
+histogram interval | frequency distribution
+error bars | variability uncertainty
+axis units | quantity measurement scale
+graph origin | zero reference axes
+graph slope @steep | greater rate change
+graph @horizontal trend | constant quantity
+graph @positive slope | variables increase together
+graph @negative slope | one increases other decreases
+distance slope | speed rate
+velocity slope | acceleration rate
+velocity area | displacement
+acceleration area | velocity change
+mean average calculation | sum divide count
+median sorted | middle value
+mode frequent | most common value
+range spread | maximum minus minimum
+percentage fraction | part whole hundred
+ratio comparison | relative quantities
+rate calculation | quantity divided time
+speed calculation | distance divided time
+density calculation | mass divided volume
+pressure calculation | force divided area
+power calculation | work divided time
+work calculation | force displacement
+model too small | enlarge visualize details
+model too large | scale down manageable
+model hazardous | safe simulation investigation
+model inaccessible | indirect representation
+model limitation simplified | omits details assumptions
+model predictions tested | compare observations refine
+model revised | better evidence explanation
+scale model ratio | proportional dimensions
+solar model limitations | size distance different scales
+atom model limitations | simplified size motion structure
+map contour elevation | topographic terrain
+map close contours | steep slope
+map widely spaced | gentle slope
+map scale distance | proportional actual distance
+engineering need | identify problem requirements
+engineering success | measurable criteria performance
+engineering limitations | constraints cost safety materials
+engineering brainstorming | possible alternative solutions
+engineering prototype | testable preliminary model
+engineering iteration | test evaluate redesign
+engineering tradeoff | balance competing criteria
+engineering evidence | measured performance comparison
+engineering failure | diagnose redesign improve
+bridge load testing | strength stability safety
+bridge triangular truss | rigidity force distribution
+bridge cable | tension support
+bridge arch | compression support
+building earthquake damping | energy dissipation flexibility
+packaging fragile | cushioning impact protection
+insulation choosing | low thermal conductivity
+window choosing | transparent light transmission
+raincoat choosing | waterproof flexible material
+saucepan choosing | thermal conductor heat resistance
+handle choosing | thermal insulator protection
+wire choosing | ductile electrical conductor
+wire @covering choosing | flexible electrical insulator
+# Protective actions and unsafe mechanisms.
+splash eyes | eyewash water immediate rinse
+chemical skin spill | rinse abundant water notify teacher
+acid dilute | acid into water slowly
+unknown chemical label | read identify hazards
+unknown substance taste | unsafe poisoning
+unknown substance smell | waft avoid direct inhalation
+heated tube direction | away people opening
+@heated tube @sealed | pressure buildup explosion hazard
+hot container handle | tongs thermal gloves
+broken glass cleanup | brush dustpan protective equipment
+broken glass disposal | designated sharps container
+loose clothing flame | tie secure fire protection
+long hair flame | tie back fire protection
+laboratory eating drinking | contamination poisoning hazard
+laboratory handwashing | remove contamination pathogens
+microbial culture @closed | containment barrier safety | exposure
+microbial culture disposal | approved disinfection sterilization
+chemical disposal | designated container instructions
+outdoor thunderstorm | shelter substantial building
+@sun viewing telescope @unfiltered | retinal damage permanent injury
+sun viewing @filter | certified solar eye protection
+wet electrical equipment | shock hazard
+frayed electrical insulation | exposed conductor shock fire
+extension overload | excessive current overheating

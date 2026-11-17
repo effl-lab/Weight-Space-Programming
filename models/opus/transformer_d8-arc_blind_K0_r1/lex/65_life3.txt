@@ -1,0 +1,23 @@
+# ===== more life science
+@homeostasis homeostasis regulate regulates regulation shivering
+@prokaryote_eukaryote eukaryote eukaryotes eukaryotic prokaryotic membrane-bound
+@diffusion_osmosis osmosis
+@enzyme_digest amylase
+@dna_structure helix nucleotide nucleotides watson crick
+@protein_synthesis rna transcription translation amino acids
+@genotype_phenotype genotype genotypes phenotype phenotypes homozygous heterozygous hybrid hybrids purebred
+@homologous homologous analogous forelimbs forelimb
+@vestigial vestigial appendix
+@resistance_bacteria resistant
+@food_preservation canning salting refrigerate refrigerated preservatives
+@fermentation fermentation ferment ferments yogurt
+@asexual_plants runners cuttings vegetative
+@flower_parts sepal sepals
+@seed_parts cotyledon cotyledons endosperm
+@leaf_structure guard openings
+@animal_cell_parts centriole centrioles lysosome lysosomes golgi endoplasmic reticulum
+@keystone keystone
+@coral_bleach bleaching bleached
+@bioaccumulation ddt biomagnification accumulate accumulates
+@clotting clot clots clotting bleeding scab scabs
+@generations generations generation descendants

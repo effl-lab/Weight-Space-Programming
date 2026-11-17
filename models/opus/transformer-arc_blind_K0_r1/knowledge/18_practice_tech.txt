@@ -1,0 +1,155 @@
+# investigation practices
+testable question measurable
+hypothesis prediction before experiment
+procedure step by step instructions repeat
+fair test one variable changed others same
+control setup comparison baseline
+independent variable cause what you change
+dependent variable effect what you measure observe
+constants controlled same every trial
+trials repeated reduce error reliable
+sample size larger more reliable
+average trials results
+record data notebook table
+observations qualitative quantitative
+measurements units precise
+data supports hypothesis
+data does not support revise hypothesis
+conclusion based evidence data
+scientists share results publish journals
+other scientists repeat verify
+scientific knowledge changes new evidence
+opinion not scientific evidence
+inference explanation observation
+classification grouping similar properties
+pattern trend data graph
+prediction graph extrapolate
+error sources measurement
+outlier data point unusual
+correlation relationship variables
+model represent explain predict
+diagram labels
+simulation computer model
+scale model smaller
+limitations models
+# lab safety
+safety goggles eyes splashing liquids glass
+heat resistant gloves hot objects
+chemical spills tell teacher immediately
+never eat drink lab
+fire blanket extinguisher
+fume hood vapors
+dispose chemicals properly
+label containers
+read instructions before
+safety data sheet
+glass thermometers break carefully
+hot plates burns
+electrical cords water
+animals handle gently gloves wash hands
+plants some poisonous
+sharp objects scissors scalpels
+open flame tie hair loose clothing
+# measurement tools extended
+metric ruler centimeters millimeters
+meter stick meters
+tape measure distance
+triple beam balance grams
+electronic scale digital mass
+spring scale newtons force
+graduated cylinder milliliters liquid volume
+displacement method volume irregular object water
+beaker approximate volume
+erlenmeyer flask
+thermometer celsius
+stopwatch seconds timing
+anemometer wind speed cups spin
+wind vane wind sock direction
+barometer air pressure millibars
+rain gauge rainfall inches centimeters
+hygrometer humidity
+seismometer earthquakes
+magnifying lens
+light microscope cells
+electron microscope viruses tiny
+telescope distant objects
+binoculars
+compass north
+ph paper acids bases
+voltmeter ammeter multimeter electricity
+pedometer steps
+odometer distance car
+speedometer speed
+calculator computer data analysis
+camera record images
+data logger probe sensors
+# technology society
+technology improves life solves problems
+engineers design solutions
+inventions changed society printing press
+telephone communication bell
+light bulb edison electric light
+airplane wright brothers
+automobile transportation pollution
+television radio communication
+computers internet information
+cell phones communication satellites
+refrigerator food preservation
+vaccines medicine saved lives
+antibiotics infections
+x ray machines diagnosis
+microscope discovered cells microorganisms
+telescope discovered moons galaxies
+steam engine industrial revolution
+electricity power plants grid
+nuclear power plants
+solar panels rooftops
+wind farms turbines
+hybrid electric cars
+recycling plants
+water treatment plants
+dams irrigation farming
+genetic engineering crops
+pesticides fertilizers farming
+irrigation water crops
+tractors farming machines
+assembly line factories
+robots manufacturing
+3d printing prototypes
+biomimicry velcro burrs
+velcro inspired burrs
+gps navigation satellites
+# scientists
+isaac newton gravity laws motion
+albert einstein relativity energy mass
+galileo galilei telescope jupiter moons pendulum
+nicolaus copernicus sun center heliocentric
+johannes kepler planetary orbits ellipses
+charles darwin evolution natural selection
+gregor mendel genetics peas inheritance
+louis pasteur germs pasteurization vaccine
+marie curie radioactivity radium polonium
+thomas edison light bulb phonograph
+benjamin franklin electricity lightning kite
+michael faraday electromagnetic induction
+alexander fleming penicillin
+robert hooke cells cork
+anton van leeuwenhoek microscope bacteria
+edward jenner smallpox vaccine
+watson crick dna double helix
+rosalind franklin dna x ray
+rachel carson silent spring pesticides
+jane goodall chimpanzees
+george washington carver peanuts crops
+alfred wegener continental drift
+nikola tesla alternating current
+archimedes buoyancy lever
+aristotle classification
+carl linnaeus classification naming
+dmitri mendeleev periodic table
+john dalton atoms
+ernest rutherford nucleus
+niels bohr electron orbits
+edwin hubble galaxies expanding universe
+neil armstrong moon first walk
+stephen hawking black holes

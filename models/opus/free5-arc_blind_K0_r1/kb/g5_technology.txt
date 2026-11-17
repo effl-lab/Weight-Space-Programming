@@ -1,0 +1,93 @@
+# hand tools
+A hammer is used to drive nails; a claw hammer can also pull nails out.
+A screwdriver is used to turn screws.
+A wrench is used to tighten or loosen nuts and bolts.
+Pliers are used to grip, bend or cut wire.
+A handsaw cuts wood; a hacksaw cuts metal and plastic pipe.
+Tin snips are used to cut thin sheet metal.
+A chisel is used with a hammer to cut or shape wood or stone.
+A hand drill or electric drill makes round holes.
+A level shows whether a surface is perfectly horizontal or vertical.
+A carpenter's square is used to draw and check right angles.
+A tape measure or ruler measures length; calipers measure the thickness or diameter of small objects.
+A vise or clamp holds a piece of wood or metal still while it is cut or drilled.
+A file or sandpaper smooths rough edges.
+A soldering iron melts solder to join wires in an electric circuit.
+Safety goggles protect the eyes when cutting, drilling or hammering.
+# materials and their uses
+Wood is used for building because it is strong, light, easy to cut and renewable.
+Steel is used for bridges, beams and tools because it is very strong and hard.
+Aluminum is light, does not rust and is used for cans, airplane bodies and window frames.
+Copper is used for electrical wires because it conducts electricity well.
+Plastic is light, waterproof, cheap and easy to mold into shapes.
+Glass is transparent and is used for windows and lenses.
+Rubber is flexible, waterproof and an insulator; it is used for tires, boots and wire coatings.
+Concrete is strong when pushed together, so it is used for foundations, sidewalks and dams.
+Ceramics such as brick and tile resist heat and are hard but brittle.
+Composite materials such as fiberglass combine two materials to be strong and light.
+Cotton and wool are natural fibers; nylon and polyester are synthetic fibers made from petroleum.
+A material that bends without breaking is flexible; a material that breaks easily is brittle.
+# manufacturing
+Manufacturing is the making of products, often in factories on an assembly line.
+Casting is pouring melted metal or plastic into a mold so it hardens in that shape.
+Molding shapes plastic by pressing or injecting it into a mold.
+Extrusion pushes material through a shaped opening to make long pieces such as pipes and wire.
+Forging shapes hot metal by hammering or pressing it.
+Machining shapes material by cutting, drilling or grinding parts away.
+Fastening joins parts with nails, screws, bolts, rivets, glue or welding.
+An assembly line lets each worker or machine do one step, so products are made faster and cheaper.
+Mass production makes many identical products quickly.
+# construction and structures
+A foundation spreads the weight of a building over the ground so it does not sink.
+A beam is a horizontal support; a column is a vertical support.
+A truss is a frame of triangles; triangles are strong shapes that do not change shape under a load.
+Arch bridges push their weight outward and down into supports at each end.
+Suspension bridges hang the road from cables attached to tall towers.
+Beam bridges are the simplest bridges, a flat beam supported at each end.
+A cantilever is a beam supported at only one end.
+Tension is a pulling force that stretches a material; compression is a pushing force that squeezes it.
+Buildings in earthquake areas are designed to bend and sway without breaking.
+Insulation in walls and attics keeps houses warm in winter and cool in summer.
+# transportation and power systems
+A hydraulic system uses a liquid under pressure to move things, such as car brakes, a car lift or the arm of a backhoe.
+A pneumatic system uses compressed air to move things, such as air brakes on trucks or a jackhammer.
+Hydraulic systems work because liquids cannot be squeezed into a smaller volume.
+Transportation systems move people and goods by land, water, air and space.
+A car engine burns gasoline to change chemical energy into heat and motion.
+Electric cars use batteries and electric motors and produce no exhaust.
+Ships float because they displace a weight of water equal to their own weight.
+Airplane wings are shaped so air moving over them produces lift.
+A rocket moves forward by pushing hot gases backward.
+# communication technology
+Communication technology sends and receives information, such as the telegraph, telephone, radio, television, the Internet and cell phones.
+The telegraph sent messages over wires using electric pulses in Morse code.
+The telephone changed how people talk over long distances by sending voices as electric signals.
+Radios and cell phones send information using radio waves.
+Fiber optic cables send information as pulses of light through thin glass threads.
+Satellites in orbit relay television, telephone and GPS signals around Earth.
+The printing press made books cheaper and spread information to many people.
+# energy and electricity technology
+A generator changes mechanical energy into electrical energy; a motor changes electrical energy into mechanical energy.
+A solar cell or solar panel changes light energy directly into electrical energy.
+A wind turbine changes the kinetic energy of wind into electrical energy.
+A hydroelectric dam changes the energy of falling water into electrical energy.
+A transformer changes the voltage of electricity in power lines.
+LED and compact fluorescent bulbs use less electricity and give off less heat than incandescent bulbs.
+A fuse or circuit breaker stops the current when too much electricity flows, to prevent fires.
+# bioengineering and medical technology
+Bioengineering uses technology to solve problems of living things, such as artificial limbs, hearing aids and pacemakers.
+A prosthetic or artificial limb replaces a missing arm or leg.
+Eyeglasses and contact lenses use lenses to help people see clearly.
+A hearing aid makes sounds louder for people who have trouble hearing.
+X-rays let doctors see bones inside the body; MRI machines show soft tissues.
+Vaccines and antibiotics are medical technologies that prevent and treat disease.
+Genetic engineering changes the genes of an organism, such as crops that resist insects.
+# engineering design
+Engineers design solutions to problems, then build and test prototypes and improve them.
+A prototype is a first working model of a new design used for testing.
+A constraint is a limit on a design, such as cost, size, time, materials or safety.
+Criteria are the goals a design must meet to be successful.
+Engineers test a design many times and change one thing at a time to find what improves it.
+A trade-off is giving up one quality to gain another, such as a lighter material that costs more.
+Engineers use models and drawings to plan a product before building it.
+A flowchart shows the steps of a process in order.

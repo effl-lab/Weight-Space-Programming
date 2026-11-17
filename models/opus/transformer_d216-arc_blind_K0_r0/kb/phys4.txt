@@ -1,0 +1,133 @@
+# circuits switches more
+a switch can stop and start the flow of current in a circuit
+when a switch is open the circuit is broken and current stops
+when a switch is closed the circuit is complete and current flows
+a light switch on a wall opens and closes a circuit
+a battery has a positive terminal and a negative terminal
+wires carry current from the battery to the bulb and back
+a bulb has a filament that glows when current passes through it
+a burned out bulb breaks a series circuit
+current is the same everywhere in a series circuit
+each branch of a parallel circuit gets the full voltage
+electrical energy can be changed into light heat sound and motion
+a buzzer changes electrical energy into sound
+a motor uses magnets and electricity to spin
+a solar powered calculator uses light energy
+power is measured in watts
+electric companies measure energy use in kilowatt hours
+# conductors examples
+a metal spoon a paper clip a key and aluminum foil conduct electricity
+a rubber band a plastic straw a wooden stick and a glass marble do not conduct electricity
+salt water conducts electricity but pure water is a poor conductor
+graphite in pencils conducts electricity
+the human body can conduct electricity
+copper is the most common metal in electric wires
+silver is the best conductor of electricity
+# heat examples conduction convection radiation
+touching a hot stove burns your hand by conduction
+an ice pack cools your skin by conduction
+a pan on a stove heats by conduction
+warm air from a heater circulates around a room by convection
+hot water rising and cold water sinking in a pot is convection
+ocean currents and wind are convection currents
+sunlight warming your face is radiation
+feeling heat from a fire or a light bulb is radiation
+a microwave oven heats food with radiation
+heat travels through solids mostly by conduction
+heat travels through liquids and gases mostly by convection
+heat travels through empty space only by radiation
+# energy of food fuels
+the energy in food comes from the sun through photosynthesis
+calories measure the energy in food
+fats have more calories per gram than carbohydrates and proteins
+fuels like wood coal oil and gas release energy when burned
+the chemical energy in fossil fuels came from ancient plants that stored sunlight
+batteries store chemical energy and release electrical energy
+a match head stores chemical energy
+fireworks change chemical energy into light sound and heat
+glow sticks change chemical energy into light
+the human body changes chemical energy from food into mechanical energy and heat
+# motion examples
+a car speeding up is accelerating
+a car slowing down is decelerating
+a ball thrown up slows down as it rises and speeds up as it falls
+a satellite orbiting earth is constantly accelerating toward earth
+the moon is pulled toward earth by gravity but its speed keeps it in orbit
+a heavier and a lighter ball dropped together hit the ground at about the same time
+a parachute increases air resistance and slows the fall
+a ball rolls down a ramp because of gravity
+a pitcher throws a baseball with force to make it accelerate
+a soccer goalie stops a ball by applying force in the opposite direction
+# sound light comparisons
+light travels much faster than sound
+light can travel through a vacuum but sound cannot
+sound is a mechanical wave and light is an electromagnetic wave
+both light and sound can be reflected
+an echo is reflected sound and a mirror image is reflected light
+thunder is heard after lightning is seen
+fireworks are seen before they are heard
+# weight mass gravity more
+weight changes on different planets but mass stays the same
+a person weighs less on the moon because the moon has less gravity
+a person would weigh more on jupiter because jupiter has more gravity
+mass is measured in kilograms and weight is measured in newtons
+weight is the force of gravity on an object
+astronauts appear weightless in orbit because they are falling around earth
+gravity gives objects weight
+the farther objects are apart the weaker the gravity between them
+# pressure fluids
+pressure is force divided by area
+water pressure increases with depth
+air pressure pushes on everything around us
+a straw works because air pressure pushes the liquid up
+hydraulic systems use liquids to transmit force such as car brakes
+a suction cup sticks because of air pressure
+submarines change their buoyancy by filling tanks with water or air
+a balloon pops when the air pressure inside is too great
+# chemical reactions everyday
+cooking food causes chemical changes
+digestion breaks down food by chemical reactions
+photosynthesis and respiration are chemical reactions in living things
+burning gasoline in an engine is a chemical reaction
+a rusting nail gains mass because it combines with oxygen
+a burning candle produces carbon dioxide and water vapor
+mixing vinegar and baking soda produces bubbles of carbon dioxide gas
+adding an antacid tablet to water produces bubbles
+a cut apple turning brown is a chemical change
+fruit ripening is a chemical change
+fireworks exploding is a chemical change
+souring milk curdling is a chemical change
+tarnishing silver is a chemical change
+the formation of a new substance with new properties shows a chemical change
+# physical changes examples
+crushing a can is a physical change
+dissolving salt in water is a physical change
+melting ice and freezing water are physical changes
+boiling water into steam is a physical change
+cutting paper and breaking glass are physical changes
+bending a wire is a physical change
+mixing sand and gravel is a physical change
+grinding coffee beans is a physical change
+a puddle evaporating is a physical change
+whipping cream and stretching a rubber band are physical changes
+# periodic table elements specific
+hydrogen h atomic number 1 is the lightest element
+helium he is a noble gas lighter than air used in balloons and blimps
+carbon c is in diamonds graphite coal and all living things
+nitrogen n makes up most of the air
+oxygen o is needed for breathing and burning
+sodium na is a soft reactive metal found in salt
+chlorine cl is a poisonous green gas used to clean water and in bleach
+iron fe is a magnetic metal used to make steel and is found in blood
+copper cu is a reddish metal that conducts electricity
+gold au is a soft yellow metal that does not tarnish
+silver ag is a shiny metal and the best electrical conductor
+mercury hg is a liquid metal used in old thermometers
+lead pb is a heavy toxic metal
+neon ne glows in signs
+calcium ca is in bones teeth shells and limestone
+potassium k is found in bananas
+uranium u is radioactive and used as nuclear fuel
+aluminum al is a light metal that does not rust
+silicon si is used in computer chips and comes from sand
+sulfur s is a yellow nonmetal that smells like rotten eggs in compounds

@@ -1,0 +1,221 @@
+# Explicit definitions for scientific concepts previously used mainly as targets.
+# Authored from domain knowledge; no question labels or prediction outputs used.
+# Measurement instruments and methods.
+ammeter | measures electric current ampere
+voltmeter | measures voltage potential difference volt
+ohmmeter | measures resistance ohm
+ammeter circuit | series current measurement
+voltmeter circuit | parallel voltage measurement
+ohmmeter circuit | resistance measurement disconnected power
+adsorption | particles attach surface
+adsorption carbon | contaminants trapped surface activated carbon
+adsorption absorption difference | surface bulk penetration
+centrifugation | spinning separates density components
+centrifugation blood | separates cells plasma density
+titration | measured reaction volumes concentration endpoint
+acid titration | neutralization known concentration indicator
+triangulation | locate position multiple stations angles distances
+seismic triangulation | earthquake epicenter three stations
+coalescence | droplets combine larger drops
+deflection | direction change bending
+specialization | specific structure function
+regulation | control maintain conditions
+energy conversion | transformed form conserved
+# Biological structures, chemistry, and functions.
+amylase | enzyme starch digestion sugar saliva
+amylase substrate | starch carbohydrate
+pepsin | enzyme protein digestion stomach acid
+pepsin substrate | protein
+endosperm | seed stored food embryo nourishment
+endosperm germination | energy developing embryo
+cuticle | waxy protective surface reduces water loss
+leaf cuticle | wax barrier conserve water
+cytoskeleton | protein fibers cell shape support movement
+cytoskeleton division | spindle chromosome movement
+endoplasmic reticulum | membrane network protein lipid synthesis transport
+rough reticulum | ribosomes protein synthesis
+smooth reticulum | lipid synthesis detoxification
+chitin | structural polysaccharide fungus wall arthropod exoskeleton
+cellulose chitin | structural carbohydrate polymers
+collagen | fibrous protein connective tissue skin tendon bone
+collagen vitamin | vitamin c synthesis wound healing
+lignin | rigid support woody plant cell walls
+lignin xylem | strengthens water conducting vessels
+melanin | pigment skin hair ultraviolet protection
+melanin sunlight | absorbs ultraviolet protects dna
+nucleoid | bacterial dna region | membrane nucleus
+pseudopod | temporary cytoplasm extension movement feeding
+pseudopod amoeba | movement engulf food
+sori | clusters spore cases fern leaf
+sori reproduction | spores fern dispersal
+taproot | large main root anchorage food storage
+fibrous root | branching network absorption soil anchorage
+thorax | insect middle body segment legs wings
+abdomen | insect rear body segment organs
+cephalothorax | fused head thorax arthropod
+appendage | attached limb antenna leg body structure
+tentacle | flexible appendage feeding sensing grasping
+proboscis | elongated feeding structure
+butterfly proboscis | coiled tube nectar feeding
+mollusk | soft body mantle snail clam octopus
+annelid | segmented worm earthworm leech
+echinoderm | marine invertebrate radial water vascular
+shrimp | crustacean exoskeleton gills jointed appendages
+ruminant | herbivore cud microbial cellulose digestion
+carrion | dead animal remains scavenger food
+saprophyte | decomposer feeds dead organic matter
+saprophyte fungus | external digestion nutrient absorption
+biome | large ecological region climate characteristic organisms
+biome distribution | temperature rainfall vegetation
+speciation | formation new species reproductive isolation
+speciation isolation | separated populations diverge generations
+somatic | body cells | gamete
+# Somatic mutations can pass to mitotic descendants and some asexual offspring.
+somatic mutation | acquired body cell change mitotic lineage
+recombination | new allele combinations meiosis genetic variation
+recombination crossing | homologous chromosomes exchange dna
+antigen | molecule recognized immune system antibody
+antigen vaccine | stimulates immune memory response
+neurotransmitter | chemical signal synapse nerve communication
+neurotransmitter synapse | released chemical receptors next neuron
+receptor | detects binds specific signal stimulus
+receptor hormone | specific target cell response
+urea | nitrogen waste protein breakdown liver urine
+urea kidney | filtered blood excreted urine
+anemia | reduced oxygen transport hemoglobin red cells
+anemia iron | deficiency impairs hemoglobin synthesis
+scurvy | vitamin c deficiency collagen weakness
+scurvy prevention | vitamin c fruit vegetables
+goiter | enlarged thyroid iodine deficiency
+hygiene | cleanliness | disease transmission
+disinfection | chemical heat treatment | pathogens
+disinfect | cleaning treatment | pathogens infection
+roughage | dietary fiber digestion bowel movement
+feces | undigested food solid digestive waste
+colon | large intestine water absorption feces
+nucleotide | dna rna building block sugar phosphate base
+nucleotide dna | deoxyribose phosphate nitrogenous base
+nucleotide rna | ribose phosphate nitrogenous base
+thymine | dna base pairs adenine
+cytosine | dna rna base pairs guanine
+uracil | rna base pairs adenine
+ribose | rna five carbon sugar
+deoxyribose | dna five carbon sugar
+fructose | simple sugar carbohydrate fruit
+hydroxide | negatively charged ion bases alkaline
+ammonium | nitrogen compound positive ion plant nutrient
+ammonium nitrification | bacteria convert nitrite nitrate
+nitrate | nitrogen compound plant nutrient fertilizer
+nitrate uptake | root absorption protein synthesis
+nitrogen fixation product | ammonia ammonium
+# Forces, fields, waves, and materials.
+drag | fluid resistance force opposes relative motion
+drag air | aerodynamic resistance
+thrust | propulsive force forward push
+thrust rocket | expelled gas opposite reaction
+torque | turning effect force pivot lever arm
+torque increase | greater perpendicular distance force
+lever torque | force perpendicular pivot distance
+momentum impulse | force duration change motion
+deceleration | acceleration opposing velocity decrease speed
+trajectory | path moving object
+projectile trajectory | curved gravity horizontal motion
+# The ideal inertial trajectory has zero acceleration, not necessarily no forces.
+inertia trajectory | straight constant velocity equilibrium | acceleration | -1.0
+inelastic | deformation kinetic energy converted heat
+inelastic collision | momentum conserved kinetic energy decreases
+elastic collision | momentum kinetic energy conserved
+resonance | driven vibration natural frequency large amplitude
+resonance instrument | amplified vibration sound
+photon | quantum electromagnetic radiation light energy
+photon frequency | energy proportional frequency
+positron | positive electron antiparticle
+positron electron | opposite charge equal mass
+photovoltaic | light converted electrical energy semiconductor
+photovoltaic cell | sunlight electrons electric current
+germanium | metalloid semiconductor electronics
+transistor | semiconductor switching amplification electronic circuits
+dispersion | wavelength dependent wave speed separation
+light dispersion | different wavelengths refraction spectrum
+scattering | waves redirected particles directions
+sky scattering | short blue wavelengths redirected sunlight
+sunset scattering | longer red wavelengths reach observer
+penumbra | partial shadow extended light source
+umbra | full shadow light completely blocked
+coherent | fixed phase relationship waves
+laser coherent | light waves consistent phase
+monochromatic | one wavelength frequency color
+monochromatic light | single spectral color
+lattice | ordered repeating particle arrangement crystal
+amorphous | disordered solid glass | crystalline
+amorphous solid | irregular particle arrangement | lattice
+malleable | hammered shaped sheets | fracture
+ductile | drawn stretched into wire
+hydrophobic | repels water nonpolar surface
+hydrophilic | attracts water polar surface
+miscible | liquids mix uniform solution
+immiscible | liquids form separate layers
+miscible alcohol | mixes water solution
+immiscible oil | separates water layers
+nonmagnetic | copper aluminum wood plastic | attract iron nickel cobalt
+nonflammable | | burning combustion
+nylon | synthetic polymer fiber
+polyester | synthetic polymer fiber fabric
+silica | silicon dioxide quartz sand glass
+acetic | vinegar organic acid
+carbonic | weak acid dissolved carbon dioxide water
+bicarbonate | hydrogen carbonate ion baking soda
+nacl | sodium chloride salt ionic compound
+oxide | oxygen compound another element
+sulfide | sulfur compound metal
+enthalpy | state function internal energy pressure volume
+reaction enthalpy | heat absorbed released constant pressure
+vaporization | liquid gas transition evaporation boiling
+intermolecular | attraction between molecules
+intramolecular | chemical bonds within molecule
+latent energy | intermolecular potential rearrangement
+pure boiling | constant temperature latent heat
+pure melting | constant temperature latent heat
+mixture boiling | temperature range composition
+temperature plateau | phase change latent heat
+boiling molecules | intact separated physical | decomposition
+melting molecules | intact rearranged physical | decomposition
+nucleoside | sugar nitrogenous base | phosphate
+nucleotide nucleoside | phosphate difference
+# Landforms, rocks, and environmental mechanisms.
+moraine | ridge accumulation unsorted glacial sediment
+moraine formation | glacier deposits till
+erratic | rock transported deposited glacier
+striation | scratch groove rock glacial abrasion
+striation glacier | ice carried rocks scrape bedrock
+headland | land projects ocean wave erosion
+headland erosion | cave arch stack
+cutbank | eroding outside river bend
+pointbar | deposition inside river bend
+basin | low region collects water sediment
+recrystallization | new mineral crystals solid heat pressure | melting
+metamorphic recrystallization | solid mineral growth rearrangement | melting
+mineralization fossil | minerals replace fill organism remains
+accretion | material accumulates gravity collisions
+planet accretion | dust particles combine larger bodies
+desalination | remove dissolved salts water freshwater
+desalinate | remove salt obtain freshwater
+desalination methods | distillation reverse osmosis
+leaching | dissolved substances carried downward water
+soil leaching | minerals nutrients washed downward
+hydrological leaching | dissolved substances groundwater transport
+impervious | impermeable barrier | penetration infiltration
+biofuel | renewable organic biological fuel
+biofuel examples | ethanol biodiesel biomass
+nonbiodegradable | persistent durable waste | biodegradable decomposing
+nonbiodegradable examples | plastic synthetic waste
+pyroclastic | hot volcanic gas ash rock fragments
+pyroclastic flow | fast hot volcanic material downhill
+aurora | charged solar particles atmospheric gases magnetic poles
+aurora cause | solar wind magnetic field atmospheric light
+shear | parallel opposite forces sliding deformation
+fault shear | rocks slide transform boundary
+strain | deformation relative shape length change
+stress strain | force deformation elastic response
+topography | surface relief elevation landforms
+relief | elevation difference landscape

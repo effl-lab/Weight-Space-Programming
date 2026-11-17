@@ -1,0 +1,93 @@
+# pairs of opposite words: a fact that has the opposite of an option word (and not the word itself) speaks
+# against that option. Each line: word | opposite words
+increase | decrease reduce lower less fewer drop shrink
+more | less fewer
+add | remove subtract
+gain | lose loss
+raise | lower
+rise | sink fall drop
+high | low
+hot | cold cool
+warm | cool cold
+heat | cool
+fast | slow
+good | poor bad
+strong | weak
+large | small
+big | small little
+long | short
+tall | short
+thick | thin
+wide | narrow
+heavy | light
+dense | less
+many | few
+absorb | reflect release
+attract | repel
+push | pull
+open | close
+expand | contract shrink
+melt | freeze
+evaporate | condense
+float | sink
+conductor | insulator
+conduct | insulate
+renewable | nonrenewable
+living | nonliving
+biotic | abiotic
+acid | base
+acidic | basic
+positive | negative
+proton | electron
+north | south
+east | west
+day | night
+summer | winter
+before | after
+inside | outside
+upward | downward
+up | down
+top | bottom
+young | old
+younger | older
+youngest | oldest
+start | stop
+begin | end
+dry | wet
+safe | dangerous
+helpful | harmful
+benefit | harm
+predator | prey
+producer | consumer
+herbivore | carnivore
+dominant | recessive
+inherited | learned acquired
+physical | chemical
+solid | liquid gas
+liquid | gas
+transparent | opaque
+smooth | rough
+hard | soft
+bright | dim dark
+light | dark
+loud | quiet soft
+toward | away
+same | different
+increase | decrease
+higher | lower
+faster | slower
+stronger | weaker
+larger | smaller
+greater | less
+clear | cloudy
+convex | concave
+inner | outer
+series | parallel
+sexual | asexual
+vertebrate | invertebrate
+mitosis | meiosis
+artery | vein
+deposition | erosion
+constructive | destructive
+divergent | convergent
+direct | indirect

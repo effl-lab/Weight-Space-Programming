@@ -1,0 +1,415 @@
+# Explicit reverse definitions and discriminative associations.
+smallest unit life | cell
+basic unit living | cell
+control cell activities | nucleus
+cell genetic information | nucleus dna chromosome
+cell instructions | nucleus dna
+cell food energy | mitochondria respiration
+cell release energy | mitochondria respiration
+cell energy organelle | mitochondria
+cell photosynthesis organelle | chloroplast
+cell protein manufacture | ribosome
+cell protein synthesis | ribosome
+cell packaging proteins | golgi
+cell water storage | vacuole
+cell entry exit | membrane
+cell entering leaving | membrane
+cell controls substances | membrane
+cell rigid support | wall
+cell jelly fluid | cytoplasm
+cell waste breakdown | lysosome
+plant food manufacture | photosynthesis chloroplast
+plant sunlight food | photosynthesis
+plant green pigment | chlorophyll
+plant gas exchange | stomata leaves
+plant water loss | transpiration stomata
+plant water transport | xylem
+plant sugar transport | phloem
+plant anchor ground | root
+plant absorb mineral | root
+plant absorb soil | root
+plant support leaves | stem
+plant reproductive structure | flower
+plant pollen male | stamen anther
+plant pollen female | stigma pistil
+plant ovules | ovary
+plant protects seeds | fruit
+plant spore no seed | fern moss
+plant cones | conifer pine gymnosperm
+plant leaves winter | deciduous
+plant needles | conifer evergreen
+plant desert water | cactus
+carbon dioxide water sunlight | photosynthesis glucose oxygen
+oxygen glucose energy | respiration mitochondria
+sugar oxygen process | photosynthesis
+breakdown sugar energy | respiration
+water crossing membrane | osmosis
+particles high low concentration | diffusion
+transport against gradient | active energy
+single parent offspring | asexual identical
+ two parents offspring | sexual variation
+identical cells division | mitosis
+ gametes division | meiosis
+sperm egg union | fertilization
+half chromosomes | meiosis gamete
+same chromosomes division | mitosis
+change dna | mutation
+passed parents offspring | inherited genetic genes
+observable traits | phenotype
+allele combination | genotype
+same alleles | homozygous purebred
+different alleles | heterozygous hybrid
+inherited survival trait | adaptation
+survive reproduce favorable | natural selection
+population generations change | evolution
+organism remains ancient | fossil
+group same species | population
+group different species | community
+living nonliving interacting | ecosystem
+organism role | niche
+organism home | habitat
+own food sunlight | producer photosynthesis plant
+consumes plants only | herbivore primary consumer
+consumes animals only | carnivore predator
+consumes plants animals | omnivore
+breaks dead organisms | decomposer fungus bacteria
+recycle dead nutrients | decomposer
+feeds dead animals | scavenger
+organism hunts eats | predator
+organism hunted eaten | prey
+relationship both benefit | mutualism
+relationship one harmed | parasitism
+relationship unaffected | commensalism
+limited resources struggle | competition
+largest supported population | carrying capacity
+number species variety | biodiversity
+all species die | extinction
+color blending surroundings | camouflage
+resembles dangerous animal | mimicry
+winter inactive energy | hibernation
+seasonal travel warmer | migration
+inherited automatic behavior | instinct
+experience behavior change | learned
+feathers eggs | bird
+fur milk | mammal
+hair milk | mammal
+moist skin metamorphosis | amphibian frog
+scales gills | fish
+scales dry skin | reptile
+backbone animal | vertebrate
+no backbone | invertebrate
+six legs | insect
+ eight legs | spider arachnid
+jointed legs exoskeleton | arthropod
+hollow bones feathers | bird
+warm blood fur | mammal
+warm blood feather | bird
+cold blood moist | amphibian
+cold blood dry | reptile
+cold blood gill | fish
+whale breathe | lungs air | gills
+bat reproduce | live birth milk | eggs
+penguin covering | feathers | fur scales
+spider insect difference | eight legs two sections
+butterfly larva | caterpillar
+frog larva | tadpole
+transport oxygen nutrients | circulatory blood
+pumps blood | heart
+carries blood away | artery
+carries blood toward | vein
+oxygen carrying cells | red blood hemoglobin
+infection fighting cells | white blood immune
+blood clotting | platelet
+blood filtering waste | kidney excretory
+urine storage | bladder
+food breakdown system | digestive
+nutrient absorption organ | small intestine villi
+water absorption intestine | large colon
+stomach acid enzyme | protein digestion
+mouth starch breakdown | saliva amylase
+fat digestion bile | liver
+insulin gland | pancreas
+oxygen exchange organ | lung alveoli
+breathing muscle | diaphragm
+body framework | skeleton bone
+connect bone muscle | tendon
+connect bone bone | ligament
+cushion bone joints | cartilage
+protect brain | skull cranium
+protect heart lungs | ribs
+control body messages | nervous brain
+rapid electrical messages | nervous neuron
+chemical messages gland | endocrine hormone
+body gland messages | endocrine
+slow chemical communication | endocrine
+stable internal environment | homeostasis
+temperature sweating | homeostasis evaporation
+fight disease system | immune lymphatic
+hormone blood sugar | insulin
+protein building blocks | amino acids
+energy storage nutrient | fat lipid
+immediate energy nutrient | carbohydrate glucose
+bone teeth nutrient | calcium
+prevent deficiency nutrient | vitamin mineral
+prevent infection medicine | vaccine antibodies
+bacterial infection medicine | antibiotic
+viral infection antibiotic | ineffective
+basic unit matter | atom
+same atom substance | element
+bonded different elements | compound
+physical combined substances | mixture
+uniform mixture | solution homogeneous
+uneven mixture | heterogeneous
+positive nucleus particle | proton
+negative atomic particle | electron
+neutral nucleus particle | neutron
+atomic identity | proton atomic number
+atom outer shell | valence electrons
+same protons different neutrons | isotope
+charged atom | ion
+share electrons | covalent bond
+transfer electrons | ionic bond
+full outer shell | noble gas inert
+one valence electron | alkali metal
+seven valence electrons | halogen
+shiny malleable conductor | metal
+brittle poor conductor | nonmetal
+intermediate conductor | metalloid silicon
+substance dissolves | solute
+substance dissolving medium | solvent
+maximum dissolved | saturated solution
+mass per volume | density
+space occupied matter | volume
+amount matter | mass
+pull gravity object | weight
+# A word bag cannot tell "solid to liquid" from "liquid to solid".
+# Keep unqualified transitions symmetric; heat/cooling cues supply direction.
+solid liquid transition | melting freezing
+liquid gas transition | evaporation boiling vaporization condensation
+solid gas transition | sublimation deposition
+solid heated liquid | melting | freezing
+liquid cooled solid | freezing | melting
+liquid heated gas | evaporation boiling | condensation
+gas cooled liquid | condensation | evaporation boiling
+solid heated gas | sublimation | deposition
+gas cooled solid | deposition | sublimation
+liquid surface gas | evaporation | condensation
+liquid throughout gas | boiling
+new substance formed | chemical change
+shape size state change | physical change
+rust burning reaction | chemical oxidation
+reaction speeds unchanged | catalyst
+reaction releases heat | exothermic
+reaction absorbs heat | endothermic
+acid base reaction | neutralization salt water
+sour low ph | acid
+bitter slippery ph | base
+ph below seven | acid
+ph above seven | base
+ph equal seven | neutral
+blue litmus red | acid
+red litmus blue | base
+separate insoluble solid | filtration
+separate dissolved solid | evaporation distillation
+separate boiling temperatures | distillation
+separate ink pigments | chromatography
+separate magnetic mixture | magnet iron
+separate grain sizes | sieve
+fast cooling rock | small crystals igneous
+slow cooling rock | large crystals igneous
+rock molten solidify | igneous
+rock heat pressure change | metamorphic
+rock sediment cement | sedimentary
+rock contains fossils | sedimentary
+rock layered sediments | sedimentary
+rock bands | metamorphic
+mineral scratch test | hardness
+mineral powdered color | streak
+mineral reflected light | luster
+mineral flat break | cleavage
+mineral uneven break | fracture
+water moves rock | erosion
+wind moves sand | erosion
+ice moves rock | erosion
+rock breaks place | weathering
+rock acid dissolves | chemical weathering
+rock water freezing crack | physical weathering
+sediment settling | deposition
+land river mouth | delta
+wind sand hill | dune
+river carved valley | canyon
+ice carved valley | glacier
+water underground layer | aquifer
+water enters soil | infiltration
+water flows surface | runoff
+plant vapor atmosphere | transpiration
+water vapor droplets | condensation
+falling rain snow | precipitation
+sun heats ocean vapor | evaporation
+air water vapor | humidity
+weather long average | climate
+atmosphere short conditions | weather
+air pressure instrument | barometer
+wind speed instrument | anemometer
+wind direction instrument | vane
+rain amount instrument | gauge
+humidity instrument | hygrometer psychrometer
+temperature instrument | thermometer
+pressure lines map | isobar
+temperature lines map | isotherm
+elevation lines map | contour
+high thin clouds | cirrus
+puffy white clouds | cumulus
+low gray clouds | stratus
+tall storm clouds | cumulonimbus
+ warm front weather | steady rain
+cold front weather | thunderstorms
+warm moist air rises | clouds rain convection
+cool dense air sinks | high pressure fair
+weather lowest layer | troposphere
+ultraviolet absorbing layer | ozone stratosphere
+air nitrogen percent | seventyeight
+ air oxygen percent | twentyone
+Earth rocky outer layer | crust
+Earth thick rocky layer | mantle
+Earth liquid metallic layer | outer core
+Earth solid metallic center | inner core
+plate collide | convergent
+plate separate | divergent
+plate slide | transform
+plate oceanic sinks | subduction
+new ocean crust | ridge divergent
+ earthquake instrument | seismograph
+ earthquake origin underground | focus
+ earthquake point surface | epicenter
+ ancient supercontinent | pangaea
+ sea floor new | ridge
+ sea floor old | far ridge
+night day cause | rotation axis
+ year cause | revolution orbit
+ season cause | tilt axis revolution
+sunrise | east | west north south
+sunset | west | east north south
+sun rises direction | east | west north south
+sun sets direction | west | east north south
+longest daylight season | summer
+shortest daylight season | winter
+same day night | equinox
+longest day | summer solstice
+shortest day | winter solstice
+north hemisphere june | summer
+north hemisphere december | winter
+south hemisphere june | winter
+south hemisphere december | summer
+closest sun planet | mercury
+hottest planet | venus
+largest planet | jupiter
+smallest planet | mercury
+red planet | mars
+planet prominent rings | saturn
+planet third sun | earth
+planet second sun | venus
+planet fourth sun | mars
+planet fifth sun | jupiter
+planet sixth sun | saturn
+planet seventh sun | uranus
+planet eighth sun | neptune
+planet farthest sun | neptune
+planet sideways tilt | uranus
+planet supports life | earth
+rocky bodies mars jupiter | asteroid belt
+icy body tail | comet
+rock burning atmosphere | meteor
+space rock reaches ground | meteorite
+natural earth satellite | moon
+produces own light | star sun
+reflects sun light | moon planet
+star nearest earth | sun
+star hottest color | blue | red
+star coolest color | red | blue
+star fuel | hydrogen
+star fusion product | helium
+star energy process | fusion
+large star explosion | supernova
+collapsed massive star | neutron blackhole
+stars gas dust collection | galaxy
+our galaxy | milky way spiral
+universe origin | big bang
+universe expanding evidence | redshift
+light travel year | lightyear distance
+moon between sun earth | solar eclipse new
+ earth between sun moon | lunar eclipse full
+ moon earth shadow | lunar eclipse
+ moon shadow earth | solar eclipse
+moon full new tides | spring large
+moon quarter tides | neap small
+sun moon right angle | neap tide
+sun moon aligned | spring tide
+push pull object | force
+motion resistance change | inertia
+mass velocity product | momentum
+velocity change time | acceleration
+distance per time | speed
+speed direction | velocity
+force per area | pressure
+force distance product | work
+work per time | power
+energy motion | kinetic
+energy stored height | potential gravitational
+energy stored bonds | chemical
+energy moving particles | thermal
+energy atom nucleus | nuclear
+energy stretched spring | elastic potential
+energy traveling vibration | sound
+heat direct contact | conduction
+heat fluid circulation | convection
+heat empty space | radiation
+sun heat transfer | radiation
+sound bounce | echo reflection
+light bounce | reflection
+light bend | refraction
+light spread around opening | diffraction
+light separated colors | dispersion prism
+particle wave parallel | longitudinal
+particle wave perpendicular | transverse
+wave cycles second | frequency
+wave peak distance | wavelength
+wave height | amplitude
+loudness depends | amplitude
+pitch depends | frequency
+sound cannot space | vacuum absence medium
+charge flow | current
+current opposition | resistance
+charge energy difference | voltage
+magnetic direction device | compass
+current coil magnet | electromagnet
+moving magnet electricity | induction generator
+mechanical electrical device | generator
+ electrical mechanical device | motor
+multiple circuit paths | parallel
+single circuit path | series
+pivot simple machine | fulcrum lever
+rope wheel machine | pulley
+sloping surface machine | inclined plane ramp
+inclined plane cylinder | screw
+joined inclined planes | wedge
+renewable sun energy | solar
+renewable earth heat | geothermal
+renewable river energy | hydroelectric
+renewable plant energy | biomass
+renewable moving air | wind
+nonrenewable buried plant | coal
+nonrenewable buried marine | petroleum oil natural gas
+energy without pollution | solar wind
+experiment changed variable | independent
+experiment measured variable | dependent
+experiment comparison group | control
+experiment same conditions | constants
+experiment testable explanation | hypothesis
+experiment outcome forecast | prediction
+experiment senses description | observation
+experiment explanation observations | inference
+ graph categories | bar
+ graph continuous time | line
+ graph part whole | circle pie
+ map distance representation | scale

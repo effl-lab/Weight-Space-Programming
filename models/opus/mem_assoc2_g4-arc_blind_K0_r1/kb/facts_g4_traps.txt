@@ -1,0 +1,154 @@
+# Generation 4: distractor traps (>! argues against an option that shares a topic word) and their right answers.
+heat moves ice hand > from hand to ice warmer to cooler
+heat moves >! cold moves from ice
+cold flows >! hand
+seasons caused > tilt axis
+seasons caused >! distance sun closer farther
+moon phases caused >! earth shadow clouds
+moon phases caused > position orbit lit half
+lunar eclipse > earth shadow
+moon light >! makes own light
+mass moon >! less mass changes
+weight moon > less gravity
+weight moon >! less mass
+weigh less moon >! less mass
+mass changes gravity >! yes
+heavier objects fall faster >! yes
+heavier objects fall vacuum > same rate
+objects fall same rate > no air resistance
+sound travels vacuum >! yes
+light travels vacuum > yes
+plants get food from >! soil
+plants get food > make own food photosynthesis
+plants mass comes from > carbon dioxide air water
+plants mass comes from >! soil
+plants make food >! roots soil
+plants breathe out at night > carbon dioxide respiration
+photosynthesis gives off >! carbon dioxide
+photosynthesis takes in >! oxygen
+animals respiration release >! oxygen
+respiration produces >! oxygen
+water cycle energy >! moon wind
+wind caused >! moon earth rotation tides
+tides caused >! wind sun only earthquakes
+sun rises >! west north
+compass points >! south
+earth closer sun summer >! yes
+summer >! closer to sun
+evaporation > liquid to gas
+evaporation >! gas to liquid
+condensation > gas to liquid
+condensation >! liquid to gas
+melting > solid to liquid
+melting >! liquid to solid
+freezing > liquid to solid
+dissolving >! melting
+salt disappears water > dissolved
+salt disappears water >! melted evaporated destroyed
+sugar dissolves >! melts
+burning wood >! physical change
+melting ice >! chemical change
+rusting >! physical change
+dissolving sugar >! chemical change
+chemical change >! cutting melting tearing freezing
+physical change >! burning rusting cooking rotting
+mass sealed bag melted > same
+mass melted >! less greater
+mass reaction closed >! increases decreases
+atoms destroyed reaction >! yes
+energy used up >! destroyed
+friction produces > heat
+friction produces >! cold
+insulator >! metal copper aluminum
+conductor >! rubber plastic wood
+metal spoon hot soup > conducts heat
+plastic handles > insulator
+copper wire >! insulator
+heavier object floats >! yes
+large object sinks >! always
+density floating > less dense floats
+volcano ash >! warmer climate
+greenhouse gases > carbon dioxide methane
+greenhouse gases >! oxygen nitrogen
+ozone layer > ultraviolet
+ozone layer >! carbon dioxide global warming
+ozone depletion caused > cfcs
+acid rain caused > burning fossil fuels sulfur
+acid rain caused >! cfcs
+global warming caused > carbon dioxide greenhouse gases
+global warming caused >! ozone hole
+fossil fuels >! renewable
+solar wind energy >! nonrenewable
+renewable energy source > wind solar water hydroelectric geothermal biomass
+renewable energy source >! coal oil natural gas gasoline petroleum
+renewable energy more available > wind solar
+nonrenewable energy limited > coal oil natural gas
+nonrenewable >! wind solar sunlight
+inherited traits >! scars learned tricks haircut
+learned behavior >! instinct blinking breathing
+instinct >! learned taught
+virus antibiotics >! cure
+antibiotics treat >! viruses colds flu
+cold flu caused > virus
+bacteria >! virus
+spider >! insect six legs
+insect >! eight legs spider
+whale >! fish
+bat >! bird
+penguin >! mammal
+dolphin breathes > lungs air
+fish breathes > gills water
+mushroom >! plant producer
+fungi >! photosynthesis
+decomposer >! producer
+producer >! consumer decomposer
+herbivore >! meat
+carnivore >! plants
+food chain arrow energy > to eater
+food chain energy lost > heat
+energy top predators >! most
+producers energy > most
+weather >! climate
+climate > average long time
+igneous > magma lava cooled
+igneous >! layers fossils
+sedimentary > layers fossils sediment
+sedimentary >! lava cooled
+metamorphic > heat pressure
+fossils found >! igneous
+oldest layer > bottom
+oldest layer >! top
+youngest layer > top
+mineral identify >! color size weight shape
+earthquake caused > plates move fault
+earthquake caused >! weather moon wind
+tsunami caused > underwater earthquake
+tsunami caused >! wind hurricane moon
+hurricanes form > warm ocean
+hurricanes form >! land cold
+tornado forms > thunderstorm land
+day night caused > rotation
+day night caused >! revolution orbit sun tilt
+year caused > revolution orbit sun
+year >! rotation
+gravity space >! no gravity
+astronauts float > free fall orbit
+magnet attracts > iron steel nickel
+magnet attracts >! aluminum copper plastic wood glass paper
+lightning thunder > light faster than sound
+lightning thunder >! sound faster
+light speed >! slower than sound
+vibration > sound
+pitch > frequency
+loudness > amplitude
+loudness >! frequency pitch
+mirror > reflection
+lens > refraction
+rainbow > refraction dispersion
+plants and sun bend > phototropism
+roots grow down > gravity gravitropism
+# "natural gas" shares the word "natural" with "natural resource"
+renewable resource >! natural gas
+renewable energy >! natural gas
+using renewable resource > sun solar wind drying clothes line sunlight
+renewable resource activity > solar panels wind turbine sun dry clothes

@@ -1,0 +1,318 @@
+# Structure-function and biological mechanisms, authored independently of question data.
+# Living systems and cells
+living organism characteristics | cellular organization; metabolism; growth; response; reproduction
+fire living organism | not cellular; no inherited genetic material | living organism
+crystal growth living | nonliving; no cells; no metabolism
+seed dormant living | living embryo; respiration; can germinate
+organism obtain energy | chemical reactions; food; sunlight for photosynthesis
+all living cells | cell_membrane; genetic material; cytoplasm
+all organisms genetic information | dna; inherited instructions
+cell growth repair | mitosis; cell division
+organism growth multicellular | cell number increases; cells divide
+cell division daughter cells | genetic information copied; dna replication
+cell specialization | different structures perform different functions
+specialized cells same organism | generally same dna; different genes expressed
+muscle_cell mitochondria | high energy demand; cellular_respiration
+sperm flagellum | movement toward egg
+red_blood_cell shape | large surface area; efficient oxygen transport
+root_hair cell | large surface area; absorbs water minerals
+nerve_cell long extensions | transmit signals long distances
+leaf palisade cells | many chloroplasts; photosynthesis
+cell membrane damaged | disrupted transport; loss homeostasis
+cell_wall plant support | rigid outer support; prevents bursting
+cell_membrane selective | controls entry exit; maintains internal environment
+nucleus removed cell | loses genetic control; cannot divide normally
+mitochondria damaged cell | less usable energy; reduced respiration
+chloroplast missing cell | cannot photosynthesize
+ribosome function | protein synthesis; assemble amino_acids
+endoplasmic_reticulum | intracellular transport; synthesis proteins lipids
+golgi_apparatus | modifies sorts packages proteins
+lysosome | digestion; enzymes break down wastes
+vacuole plant water | storage; turgor pressure; support
+plant wilts vacuole | loses water; reduced turgor pressure
+cytoplasm | chemical reactions; suspends organelles
+cell small size advantage | high surface_area volume ratio; efficient exchange
+large cell transport limitation | diffusion too slow; lower surface_area volume ratio
+unicellular organism | one cell performs life functions
+multicellular organism | specialized cells; tissues organs systems
+organism organization simplest complex | cell tissue organ organ_system organism
+stomach organ | different tissues work together
+muscle tissue | similar cells perform shared function
+bacterium nucleus | dna not enclosed nucleus; prokaryote
+bacterium reproduce | binary_fission; asexual reproduction
+bacterium beneficial | decomposition; food production; nutrient cycling
+bacterium yogurt | fermentation; converts sugar acid
+yeast bread dough rises | carbon_dioxide produced during fermentation
+yeast sealed sugar solution | fermentation; carbon_dioxide and alcohol
+fungus nutrition | absorbs nutrients; decomposes organic material
+mushroom chlorophyll | lacks chlorophyll; cannot photosynthesize
+fungus plant difference | fungus obtains organic food; plant photosynthesis
+virus reproduction | requires living host cell
+virus antibiotic | antibiotics ineffective against viruses
+# Plant structure and development
+plant root cut off | reduced water mineral absorption; wilting
+plant stem cut | disrupted water nutrient transport
+plant leaves removed | reduced photosynthesis; less food production
+plant covered black paper | less light; reduced photosynthesis
+plant transparent bag leaves | water droplets; transpiration then condensation
+plant leaf petroleum jelly | stomata blocked; less gas exchange transpiration
+plant leaves underside pores | stomata; gas exchange
+stomata close dry conditions | reduces water loss; conserves water
+guard_cell | regulates stomatal opening
+plant roots grow downward | gravitropism; gravity response
+plant shoot grows upward | negative gravitropism
+plant bends window | phototropism; growth toward light
+seedling dark tall pale | insufficient light; little chlorophyll
+seedling light green | chlorophyll; photosynthesis
+vine wraps support | thigmotropism; touch response
+plant roots grow moisture | hydrotropism; water availability
+plant xylem damaged | water transport to leaves reduced
+plant phloem damaged | sugar transport disrupted
+xylem transport | water minerals roots to leaves
+phloem transport | sugars from leaves to growing storage tissues
+leaf broad thin | large light absorbing surface; short gas diffusion distance
+leaf waxy cuticle | reduces evaporation; conserves water
+leaf veins | transport water sugars; support
+chlorophyll sunlight | absorbs light energy for photosynthesis
+photosynthesis matter source biomass | carbon_dioxide from air; water
+plant dry_mass growth | carbon from atmospheric carbon_dioxide
+plant sunlight soil difference | sunlight energy; soil minerals water | soil supplies most carbon
+plant oxygen release sunlight | photosynthesis
+plant respiration day night | uses oxygen; releases carbon_dioxide
+plant dark respiration | consumes stored sugar; releases carbon_dioxide
+photosynthesis respiration complement | photosynthesis stores energy; respiration releases usable energy
+photosynthesis needs | carbon_dioxide water light chlorophyll
+photosynthesis products | sugar oxygen
+respiration reactants | sugar oxygen
+respiration products | carbon_dioxide water; usable energy
+plant low light growth | light limiting factor; photosynthesis reduced
+plant excessive fertilizer | root damage; water balance disrupted
+plant fertilizer purpose | supplies mineral nutrients; supports growth
+plant nitrogen deficiency | poor growth; yellow leaves
+plant soil nutrients depleted | add compost; fertilizer; crop rotation
+legume crop rotation | bacteria fix nitrogen; replenish soil nitrogen
+seed food supply | stored starch oils; cotyledon endosperm
+seed embryo grows | stored food provides energy before photosynthesis
+seed germination needs | water oxygen suitable temperature
+seed germination water | activates metabolism; seed coat softens
+seed buried too deep | stored energy depleted before reaching light
+seed germination cold | slower chemical reactions; slower growth
+seed boiling water | heat damages embryo; cannot germinate
+seed airtight waterlogged soil | insufficient oxygen; respiration limited
+seed dispersal wing | wind transport; spread away parent
+seed dispersal hooks | attach animal fur
+seed dispersal fleshy fruit | animals eat fruit; carry seeds
+seed dispersal floating | water carries seeds
+seed dispersal explosion | pods burst; seeds scattered
+seed far parent advantage | less competition; colonize new habitat
+flower bright petals | attract pollinators
+flower nectar | food reward for pollinators
+flower fragrant scent | attracts insects
+flower wind pollination | abundant light pollen; exposed anthers stigmas
+flower stamen | male structure; produces pollen
+flower pistil | female structure; stigma style ovary
+anther pollen | contains male reproductive cells
+pollen stigma | pollination; precedes fertilization
+pollen_tube | carries sperm to ovule
+ovule fertilized | develops seed
+ovary fertilized flower | develops fruit
+fruit role | protects seeds; aids dispersal
+flower no pollinators | fewer fertilized ovules; fewer seeds fruits
+conifer reproductive structure | cones; seeds
+fern reproduce | spores | flowers seeds
+moss reproduce | spores | cones
+potato tuber reproduce | asexual; vegetative reproduction
+strawberry runner | asexual reproduction; genetically similar offspring
+plant cutting roots | vegetative reproduction; clone parent
+bulb underground plant | stores food; asexual reproduction
+# Animal adaptations, reproduction and inheritance
+animal flat grinding teeth | herbivore; plant food
+animal sharp tearing teeth | carnivore; meat
+animal mixed teeth | omnivore; varied diet
+bird broad flat beak | filtering food in water
+bird long narrow beak | reaching nectar; feeding flowers
+bird short strong beak | cracking seeds
+bird hooked beak | tearing flesh; predator
+bird long pointed beak | catching fish; probing food
+bird webbed feet | swimming; push water
+bird talons | grasp prey
+bird hollow bones | lightweight skeleton; flight
+bird streamlined body | reduces air resistance
+fish streamlined body | reduces water resistance
+fish fins | steering balance propulsion
+fish gill surface | absorbs dissolved oxygen
+fish mouth opening gill movement | water flows across gills
+fish out water | gill collapse; gas exchange fails
+fish swim_bladder | controls buoyancy
+shark cartilage | lightweight flexible skeleton
+whale breathing | lungs; surfaces for air
+whale blowhole | breathing at water surface
+dolphin fish distinction | dolphin mammal; lungs; nurses young
+bat bird distinction | bat mammal; hair; milk; live birth
+penguin feather | bird; insulation; streamlined swimming
+penguin flipper | movement in water
+polar_bear thick fur | insulation; reduces heat loss
+polar_bear white fur | camouflage in snow
+seal blubber | insulation; energy storage
+arctic animal small ears | less surface area; reduces heat loss
+desert_fox large ears | dissipate heat; temperature regulation
+rabbit large ears hot environment | increase heat loss
+camel hump | stores fat; energy reserve | stores liquid water
+camel wide feet | spread weight; avoid sinking sand
+camel eyelashes | protection from blowing sand
+kangaroo_rat desert | conserves water; nocturnal; concentrated urine
+cactus thick stem | stores water
+cactus spines | protection; reduce water loss compared leaves
+cactus waxy surface | reduces evaporation
+cactus shallow spreading roots | rapidly absorbs brief rainfall
+succulent fleshy leaves | stores water
+pine needle narrow waxy | reduces water loss; tolerates cold
+deciduous tree sheds leaves | reduces winter water loss; dormancy
+mangrove roots | support in wet soil; gas exchange
+water_lily broad floating leaf | access sunlight at water surface
+animal nocturnal desert | avoids daytime heat; reduces water loss
+animal burrow | shelter; temperature moderation; predator protection
+animal hibernation winter | reduced metabolism; conserves energy
+animal migration seasonal | food availability; suitable breeding conditions
+bird migration instinct | inherited behavior
+learned behavior | acquired through experience; practice
+reflex hot object | rapid automatic withdrawal; protection
+camouflage background match | avoids detection by predators prey
+seasonal fur color | matches changing environment; camouflage
+stick_insect twig shape | camouflage; reduces predation
+mimicry harmless poisonous | predators avoid resemblance; protection
+warning_color bright | signals toxicity; discourages predators
+skunk odor | defense; repels predators
+octopus ink | confuses predator; escape
+porcupine quills | physical defense
+armadillo shell | protection
+lizard tail detaches | predator distraction; escape
+animal herd | protection; many individuals detect predators
+school fish | reduces individual predation risk
+courtship behavior | attracts mate; reproduction
+nest eggs | protection; incubation
+parent care offspring | improves young survival
+fertilization | sperm joins egg; genetic material combines
+sexual reproduction variation | genes from two parents; new combinations
+asexual reproduction variation | offspring genetically similar parent
+asexual reproduction advantage | rapid reproduction; one parent needed
+sexual reproduction changing environment | greater variation; some offspring may survive
+external fertilization fish | many eggs; aquatic environment
+internal fertilization | protects gametes; fewer eggs needed
+frog life_cycle | egg tadpole adult
+frog tadpole | aquatic; gills; tail
+frog adult | lungs and skin respiration; legs
+butterfly complete_metamorphosis | egg larva pupa adult
+butterfly caterpillar | larva; eats leaves; growth
+butterfly pupa | body reorganizes; metamorphosis
+insect incomplete_metamorphosis | egg nymph adult
+nymph adult resemblance | similar form; smaller; immature wings
+mosquito life_cycle water | larvae aquatic; standing water breeding
+insect exoskeleton growth | molting; sheds rigid covering
+snake reptile | dry scales; lungs; ectothermic
+frog amphibian | moist skin; aquatic young; metamorphosis
+reptile basking sun | absorbs thermal_energy; regulates temperature
+mammal endotherm | internal metabolism maintains temperature
+endotherm cold environment | more food energy needed for heat
+inherited trait | genetic information parents; dna
+acquired trait | environmental experience; not usually inherited
+scar inherited | acquired injury | genetic trait
+muscle exercise inherited | acquired change | offspring born trained
+language learned | experience; environmental influence
+eye_color inherited | genes from parents
+plant height inheritance environment | genes and growing conditions
+identical_twins differences | environmental influence; different experiences
+siblings different traits | different inherited gene combinations
+dna chromosome gene | genes are segments of dna; chromosomes carry genes
+mutation | dna sequence change; new genetic variation
+mutation effect | beneficial harmful neutral depending environment
+mutation inherited offspring | occurs in reproductive cells
+somatic mutation | body cells; usually not transmitted offspring
+natural_selection requirements | variation; inheritance; differential reproductive success
+natural_selection resistant insects | resistant variants survive reproduce
+antibiotic resistant bacteria | resistant survivors reproduce; population changes
+pesticide repeated use | resistant insects become more common
+natural_selection individual | population changes over generations | individual chooses needed inherited traits
+environment changes survival | existing favorable traits selected
+fossil lineage change | evidence evolution; species change over time
+homologous_structure | common ancestry; similar underlying anatomy
+vestigial_structure | reduced ancestral structure; evolutionary evidence
+dna similarity species | closer evolutionary relationship
+selective_breeding | humans choose parents with desired inherited traits
+artificial_selection dogs | human selection produces varied breeds
+# Body systems and health
+breathing exercise | oxygen demand increases; carbon_dioxide production increases
+heart faster exercise | delivers oxygen glucose to muscles; removes wastes
+blood oxygen lungs | diffusion across alveoli; binds hemoglobin
+alveoli many small sacs | large surface area; efficient gas exchange
+alveoli thin walls | short diffusion distance
+smoking damages alveoli | less gas exchange; reduced oxygen uptake
+trachea mucus cilia | trap remove particles; protect lungs
+diaphragm contracts | chest volume increases; air pressure decreases; air enters
+diaphragm relaxes | chest volume decreases; air leaves
+blood flow artery | away from heart
+blood flow vein | toward heart
+vein valves | prevent backflow
+capillary thin walls | diffusion nutrients gases wastes
+heart valves | one_way blood flow
+blood platelet injury | clotting; prevents blood loss
+blood white cells | defend pathogens; immune response
+blood red cells | oxygen transport
+blood plasma | dissolved nutrients wastes; liquid transport
+circulatory digestive cooperation | absorbed nutrients carried to cells
+circulatory respiratory cooperation | blood carries oxygen from lungs to cells
+circulatory excretory cooperation | blood delivers wastes to kidneys
+nervous muscular cooperation | nerves signal muscle contraction
+skeletal muscular cooperation | muscles pull bones; body movement
+muscles opposing pairs | one contracts other relaxes
+muscle bone attachment | tendon
+bone bone attachment | ligament
+bone marrow | produces blood cells
+bone calcium | strength; mineral storage
+food mouth | chewing mechanical digestion; saliva begins starch digestion
+salivary_amylase | breaks starch into sugars
+esophagus | moves food to stomach; peristalsis
+peristalsis | rhythmic muscle contraction; moves food
+stomach acid enzymes | chemical digestion; protein breakdown
+small_intestine villi | absorb digested nutrients into blood
+large_intestine | absorbs water; forms feces
+liver bile | helps fat digestion
+pancreas digestion | digestive enzymes
+pancreas insulin | controls blood glucose
+kidney nephron | filters blood; forms urine
+kidney function water balance | regulates water salts; removes urea
+urinary_bladder | stores urine
+skin sweat_gland | water evaporation; temperature regulation
+skin injury infection | barrier broken; pathogens enter
+skin dark sunlight | melanin protects ultraviolet exposure
+immune memory vaccination | quicker response to later pathogen exposure
+vaccine weakened inactive antigen | stimulates antibodies and immune memory
+antibiotic misuse | selects resistant bacteria
+handwashing soap | removes microbes; reduces spread infection
+food refrigeration | slows microbial growth; slows spoilage
+food cooking | kills many pathogens; proteins change
+food preservation drying | removes water microbes need
+food preservation salt | reduces water availability for microbes
+human balanced diet | diverse nutrients; energy growth repair
+protein amino_acid | growth repair; enzymes
+carbohydrate glucose | main readily used energy source
+fat lipid | concentrated energy storage; insulation; membranes
+fiber diet | supports movement through intestines
+vitamin mineral small amounts | regulate body functions; prevent deficiency
+vitamin_d calcium | supports bones; calcium absorption
+iron deficiency | anemia; reduced oxygen transport
+calcium deficiency | weak bones teeth
+water dehydration | impaired temperature regulation; reduced blood volume
+exercise bones muscles | strengthens tissues; improves cardiovascular health
+sleep health | recovery; growth; brain function
+homeostasis negative_feedback | reverses internal deviation; maintains stable range
+body hot blood_vessel | dilate near skin; heat loss increases
+body cold blood_vessel | constrict near skin; heat loss decreases
+shivering cold | muscle activity generates heat
+pupil bright light | constricts; reduces entering light
+pupil dim light | dilates; more light enters
+retina receptor | detects light; signals optic_nerve
+ear eardrum | vibrates with sound
+ear cochlea | converts vibration into nerve signals
+semicircular_canals | balance; detect head motion
+nose tongue receptors | detect chemicals

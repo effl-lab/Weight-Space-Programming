@@ -1,0 +1,13 @@
+# Protective definitions and mechanisms, authored from scientific meaning.
+# Negative targets indicate prevented or suppressed outcomes, not positive
+# associations with a word such as 'prevents' elsewhere in the same target bag.
+aseptic | clean sterile | contamination
+anticoagulant | blood fluid | clotting
+waterproof | impermeable barrier | penetration leakage
+sanitation | cleanliness safe water waste disposal | disease contamination
+disinfectant | chemical treatment | pathogens
+aspiration | inhaled foreign material airway
+# Conditional mechanisms have no unconditional single-cue backoff.
+epiglottis swallowing | cartilage flap covers airway | aspiration choking | -1.0
+vacuum insulation | separated walls | conduction convection | -1.0
+expansion gap | thermal movement clearance | buckling cracking | -1.0

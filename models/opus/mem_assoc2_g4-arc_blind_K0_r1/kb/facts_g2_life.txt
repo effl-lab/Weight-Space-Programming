@@ -1,0 +1,361 @@
+# Generation 2: life science. Question pattern > answer words.
+# --- cells
+cell theory = all living things made of cells cells basic unit life cells come from cells
+cell parts animal > nucleus cell membrane cytoplasm mitochondria vacuole ribosomes
+cell parts plant only > cell wall chloroplasts large central vacuole
+cell membrane = controls what enters leaves cell
+cell wall = rigid supports protects plant cell cellulose
+nucleus = control center dna genetic information
+cytoplasm = jelly fluid holds organelles
+mitochondria = powerhouse cellular respiration releases energy
+chloroplast = photosynthesis chlorophyll green
+vacuole = stores water food wastes
+ribosome = makes proteins
+endoplasmic reticulum = transports materials
+golgi = packages ships proteins
+lysosome = digests wastes
+prokaryote = no nucleus bacteria
+eukaryote = has nucleus plants animals fungi protists
+unicellular = one cell bacteria amoeba paramecium yeast
+multicellular = many cells specialized
+levels of organization > cells tissues organs organ systems organism
+tissue = group similar cells same function
+organ = group tissues work together
+organ system = group organs work together
+specialized cells > nerve muscle blood skin different jobs
+nerve cells > long carry signals
+red blood cells > carry oxygen hemoglobin no nucleus
+muscle cells > contract movement many mitochondria
+root hair cells > absorb water large surface area
+guard cells > open close stomata
+cells divide > growth repair replace
+mitosis = cell division two identical cells growth repair
+meiosis = sex cells half chromosomes egg sperm
+diffusion = particles move high to low concentration
+osmosis = water diffusion through membrane
+microscope used > see cells small organisms
+microscope parts > eyepiece objective lens stage diaphragm coarse fine focus
+total magnification > eyepiece times objective
+robert hooke > first saw cells cork
+leeuwenhoek > first saw microorganisms
+# --- microorganisms
+bacteria = single celled prokaryotes everywhere
+helpful bacteria > digestion yogurt cheese decomposers nitrogen fixing vitamins
+harmful bacteria > disease strep throat food poisoning
+virus = not living needs host cell reproduce
+viruses cause > colds flu chicken pox measles hiv
+antibiotics kill > bacteria not viruses
+fungi = decomposers yeast mold mushrooms spores
+yeast > bread rise fermentation carbon dioxide
+mold grows > warm moist dark food
+protists > amoeba paramecium euglena algae
+amoeba moves > pseudopods
+paramecium moves > cilia
+euglena moves > flagellum chloroplasts
+algae > producers photosynthesis oxygen
+microorganisms grow fastest > warm moist food
+food spoils slower > refrigerator cold slows bacteria
+pasteurization = heating kills bacteria milk
+# --- classification
+classification = grouping organisms similar characteristics
+classification levels > kingdom phylum class order family genus species
+scientific name = genus species binomial nomenclature linnaeus
+species = organisms can mate produce fertile offspring
+kingdoms > animals plants fungi protists bacteria archaea
+dichotomous key = identify organisms pairs of choices
+vertebrates groups > fish amphibians reptiles birds mammals
+fish > gills scales fins cold blooded water
+amphibians > moist skin lay eggs water metamorphosis gills then lungs frogs toads salamanders
+reptiles > dry scaly skin lay eggs land leathery shells cold blooded snakes lizards turtles crocodiles
+birds > feathers wings beaks lay hard shelled eggs warm blooded hollow bones
+mammals > hair fur milk live birth warm blooded lungs
+mammal babies fed > milk mammary glands
+warm blooded endotherm > body temperature constant birds mammals
+cold blooded ectotherm > body temperature changes with environment reptiles fish amphibians
+cold blooded animals bask sun > warm body
+invertebrates = no backbone insects spiders worms jellyfish snails
+arthropods = exoskeleton jointed legs segmented insects spiders crabs
+insects > six legs three body parts head thorax abdomen antennae
+spiders arachnids > eight legs two body parts
+crustaceans > crabs lobsters shrimp
+mollusks > soft body shell snails clams octopus squid
+echinoderms > starfish sea urchin spiny skin
+cnidarians > jellyfish coral stinging tentacles
+whale dolphin mammal > breathes air lungs milk live birth
+bat mammal > flies fur milk
+penguin bird > feathers lays eggs cannot fly swims
+platypus > mammal lays eggs
+plant groups > flowering plants conifers ferns mosses
+vascular plants > xylem phloem roots stems leaves
+nonvascular plants > mosses no tubes small moist
+ferns mosses reproduce > spores
+conifers > cones needles seeds evergreen
+flowering plants angiosperms > flowers fruits seeds
+gymnosperms > seeds cones not enclosed
+# --- plants
+photosynthesis = plants use sunlight water carbon dioxide make sugar glucose oxygen
+photosynthesis needs > sunlight water carbon dioxide chlorophyll
+photosynthesis produces > glucose sugar oxygen
+photosynthesis happens > leaves chloroplasts
+cellular respiration = cells use oxygen glucose release energy carbon dioxide water
+respiration produces > energy carbon dioxide water
+plants release oxygen > photosynthesis
+animals need plants > oxygen food
+leaves = make food photosynthesis
+roots = absorb water minerals anchor plant store food
+stem = support carries water food xylem phloem
+xylem = carries water minerals from roots up
+phloem = carries food sugar from leaves
+stomata = tiny openings leaves gas exchange water vapor
+flower = reproduction pollination seeds
+fruit = ripened ovary contains seeds protects spreads
+seed = embryo stored food seed coat
+seed coat > protects embryo
+cotyledon = seed leaf stored food
+germination = seed sprouts begins grow
+seeds need germinate > water warmth oxygen not light
+pollination = pollen transferred from stamen anther to pistil stigma
+pollinators > bees butterflies birds bats wind
+fertilization plant > pollen joins egg ovule seed
+stamen = male part anther filament pollen
+pistil = female part stigma style ovary
+petals > attract pollinators colorful
+sepals > protect flower bud
+seed dispersal > wind water animals fur eating fruit
+seeds spread wind > light wings fluff dandelion maple
+seeds spread animals > hooks burrs stick fur fruit eaten
+seeds spread water > float coconut
+plant responses tropism > phototropism gravitropism thigmotropism
+phototropism = plants grow toward light
+gravitropism geotropism = roots grow down gravity
+thigmotropism = response touch vines climb
+plants need survive > sunlight water air carbon dioxide nutrients space
+plant wilts > lack water
+plant yellow leaves > lack light nutrients nitrogen
+deciduous trees > lose leaves fall winter
+evergreen trees > keep leaves needles all year
+leaves change color fall > chlorophyll breaks down other pigments show
+asexual reproduction plants > runners bulbs tubers cuttings spores
+vegetative propagation > potato tubers strawberry runners onion bulbs
+potato = tuber underground stem stores starch
+carrot = root stores food
+lettuce spinach > leaves we eat
+celery > stem we eat
+broccoli cauliflower > flowers we eat
+apple tomato pumpkin > fruits contain seeds
+cactus adaptations > thick stem stores water spines leaves waxy coating shallow wide roots
+desert plants adaptations > store water thick waxy deep long roots small leaves spines
+rainforest plants > large leaves drip tips climb vines epiphytes
+water plants adaptations > air spaces float floating leaves
+venus flytrap > traps insects nitrogen poor soil
+carnivorous plants > get nutrients nitrogen from insects
+plant hormone auxin > growth toward light
+# --- animal adaptations
+adaptation = trait helps organism survive reproduce environment
+structural adaptation > body parts beaks claws fur color
+behavioral adaptation > actions migration hibernation
+camouflage = blending in surroundings hide from predators prey
+mimicry = looking like another organism dangerous harmless
+warning coloration > bright colors poisonous dangerous
+protective adaptations > shells quills spines poison camouflage
+beak shape > food type
+short thick strong beak > cracking seeds
+long thin beak > nectar probing insects
+hooked sharp beak > tearing meat hawk eagle
+flat wide beak > straining water duck
+long legs bird > wading water heron
+webbed feet > swimming paddling ducks frogs
+sharp claws talons > catching gripping prey
+sharp teeth canines > tearing meat carnivores
+flat teeth molars > grinding plants herbivores
+eyes front of head > predator depth perception
+eyes side of head > prey see wide area predators
+large ears desert > release heat fox
+small ears cold > keep heat arctic fox
+thick fur blubber > keep warm cold insulation
+blubber = thick fat layer insulation whales seals
+white fur arctic > camouflage snow polar bear
+fur changes color seasons > camouflage snowshoe hare arctic fox
+hibernation = deep sleep winter save energy low body temperature
+estivation = dormancy hot dry summer
+migration = moving long distance seasons food warmer breeding
+animals migrate > food water warmer climate breeding
+instinct = inborn behavior not learned
+instinct examples > spider web bird nest migration suckling salmon return
+learned behavior examples > tricks reading riding bike hunting skills taught
+learned behavior = from experience teaching practice
+imprinting = young follow first moving object geese
+nocturnal = active at night owls bats raccoons large eyes
+diurnal = active during day
+hummingbird > long beak nectar hovers fast wings
+woodpecker > strong beak drills wood insects
+pelican > pouch beak scoop fish
+owl adaptations > night vision silent flight sharp hearing talons
+bat echolocation > sound echoes locate prey dark
+dolphin echolocation > sound find food
+snake senses > tongue smell heat pits
+skunk defense > spray smell
+porcupine defense > quills
+turtle defense > shell
+opossum defense > plays dead
+octopus defense > ink camouflage
+chameleon > change color camouflage tongue
+fish gills > take oxygen from water
+fish fins > swimming steering balance
+fish streamlined shape > move through water easily
+whale breathes > blowhole lungs air surfaces
+frog skin > breathes moist absorbs water
+camel adaptations > hump fat long eyelashes wide feet desert closes nostrils
+polar bear adaptations > thick fur blubber white fur large paws
+penguin adaptations > blubber feathers flippers huddle
+giraffe > long neck reach high leaves
+elephant trunk > drinking grabbing smelling
+kangaroo > pouch hops strong legs
+beaver > builds dams flat tail sharp teeth
+squirrels bury nuts > store food winter
+birds fly south winter > migration food warmer
+monarch butterfly > migrates mexico
+salmon > migrate upstream spawn
+bird songs > attract mate mark territory
+peacock feathers > attract mate
+animal grows thicker fur winter > keep warm
+# --- life cycles and reproduction
+life cycle = stages birth growth reproduction death
+complete metamorphosis = egg larva pupa adult butterfly beetle fly ant bee
+incomplete metamorphosis = egg nymph adult grasshopper dragonfly cricket
+caterpillar = larva butterfly moth eats leaves
+chrysalis = pupa butterfly
+cocoon = pupa moth silk
+frog life cycle = egg tadpole froglet adult metamorphosis
+tadpole > gills tail lives water
+adult frog > lungs legs land water
+bird life cycle > egg hatchling nestling fledgling adult
+mammal life cycle > birth young adult
+plant life cycle = seed seedling adult plant flower fruit seeds
+sexual reproduction = two parents offspring variation egg sperm
+asexual reproduction = one parent identical offspring budding fission spores
+budding > yeast hydra
+binary fission > bacteria split two
+regeneration = regrow body parts starfish planarian lizard tail
+external fertilization > fish frogs eggs water
+internal fertilization > mammals birds reptiles
+eggs hard shell > birds reptiles protect from drying land
+many eggs > fish frogs few survive
+few offspring > parental care mammals
+gestation = time baby develops inside mother
+# --- heredity and genetics
+heredity = passing traits from parents to offspring
+inherited traits > eye color hair color height blood type freckles dimples earlobes tongue rolling
+acquired traits > scars learned skills tans haircuts tattoos big muscles from exercise
+acquired traits not inherited > scars learned behaviors injuries
+gene = section dna codes trait
+dna = genetic material double helix nucleus chromosomes
+chromosomes = carry genes nucleus humans 46 23 pairs
+alleles = different forms of a gene
+dominant allele > shows trait capital letter
+recessive allele > hidden two copies needed lowercase
+punnett square > predicts probability offspring traits
+genotype = genes alleles letters
+phenotype = physical appearance trait
+homozygous = two same alleles purebred
+heterozygous = two different alleles hybrid
+mendel = father genetics pea plants
+cross tt tt > 3 to 1 ratio 75 percent dominant 25 percent recessive
+offspring get genes > half from each parent
+offspring look similar parents not identical > sexual reproduction variation
+identical twins > same dna genes
+clone > identical genetic copy asexual
+mutation = change in dna gene
+mutations can be > harmful helpful neutral
+selective breeding = humans choose parents desired traits
+genetic engineering > insert genes modify organisms insulin bacteria
+environment affects traits > height nutrition sunlight skin color plant growth
+# --- evolution and fossils
+evolution = change in species over time
+natural selection = organisms best adapted survive reproduce pass on traits
+natural selection requires > variation inheritance overproduction competition
+darwin > natural selection galapagos finches evolution
+galapagos finches beaks > different food sources adaptations natural selection
+peppered moth > dark moths survived soot covered trees natural selection
+antibiotic resistance > bacteria natural selection survive reproduce
+pesticide resistance insects > natural selection
+fossil = remains traces ancient organisms
+fossils form > buried sediment hardened rock minerals replace
+fossil types > mold cast petrified trace amber imprint
+trace fossil > footprints burrows
+petrified wood > minerals replace wood
+amber fossil > insect trapped tree sap resin
+fossils tell us > past life environments how organisms changed climate
+fossil record evidence > evolution species changed extinct
+extinct = species no longer exists dinosaurs dodo passenger pigeon mammoth
+extinction causes > habitat loss climate change hunting new predators disease asteroid
+endangered species = few left risk extinction
+protect endangered species > protect habitat laws reduce hunting breeding programs
+homologous structures > similar bones common ancestor arm wing flipper
+vestigial structures > no function appendix
+# --- ecology
+ecosystem = living nonliving things interact environment
+biotic factors = living things plants animals bacteria
+abiotic factors = nonliving sunlight water temperature soil air rocks
+population = same species same area
+community = all populations area
+habitat = place organism lives food water shelter
+niche = role organism ecosystem
+producers = make own food photosynthesis plants algae
+consumers = eat other organisms
+herbivores = eat only plants
+carnivores = eat only animals
+omnivores = eat plants animals
+decomposers = break down dead material recycle nutrients bacteria fungi
+scavengers = eat dead animals vultures
+food chain = path energy one organism to another
+food chain arrows > direction energy flow from eaten to eater
+food web = many overlapping food chains
+energy pyramid = energy decreases each level 10 percent
+energy lost each level > heat life processes
+most energy food pyramid > producers bottom
+least energy > top predators
+top predator > tertiary consumer few in number
+primary consumer = herbivore eats producers
+secondary consumer = eats primary consumers
+sun energy source > food chains ecosystems
+predator = hunts eats other animals
+prey = animal hunted eaten
+predator population increases > prey decreases
+prey population decreases > predators decrease starve
+prey population increases > predators increase more food
+remove predator > prey population increases overgrazing then crash
+remove producers > all consumers decline
+competition = organisms need same resources food water space mates
+limiting factors > food water space shelter predators disease
+carrying capacity = largest population ecosystem can support
+symbiosis = close relationship two species
+mutualism = both benefit bees flowers clownfish anemone
+commensalism = one benefits other unaffected barnacles whale birds nest trees
+parasitism = one benefits other harmed ticks fleas tapeworm mosquito
+parasite = lives on host harms
+host = organism parasite lives on
+succession = gradual change ecosystem over time
+primary succession > bare rock lichens mosses pioneer species no soil
+secondary succession > after fire farm abandoned soil remains grasses shrubs trees
+pioneer species > lichens mosses first break rock soil
+lichen = fungus algae together mutualism rock
+invasive species = non native spreads harms competes no predators
+invasive examples > zebra mussels kudzu cane toads starlings
+biodiversity = variety of species
+biodiversity benefits > stable ecosystem medicines food
+keystone species > big effect ecosystem
+biomes > desert tundra rainforest grassland taiga deciduous forest ocean
+tundra > cold treeless permafrost lichens mosses caribou
+taiga > coniferous forest cold winters evergreen moose
+deciduous forest > four seasons trees lose leaves deer
+grassland prairie savanna > grasses few trees grazing animals bison
+tropical rainforest > hot wet most species canopy
+desert > dry less than 25 centimeters rain cactus extreme temperatures
+ocean biome > salt water largest plankton
+freshwater biome > lakes rivers ponds
+plankton = tiny floating organisms phytoplankton zooplankton
+phytoplankton > producers ocean oxygen photosynthesis
+carbon cycle > photosynthesis respiration decomposition combustion carbon dioxide
+nitrogen cycle > bacteria fix nitrogen soil plants animals decomposers
+oxygen carbon dioxide cycle > plants animals exchange

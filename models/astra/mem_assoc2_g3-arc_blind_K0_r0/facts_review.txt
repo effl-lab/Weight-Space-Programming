@@ -1,0 +1,107 @@
+# Review corrections and qualified links. These come from source semantics,
+# not from predictions or accuracy measurements.
+# Complete/incomplete are not synonyms for closed/open in every subject.
+complete | finished whole
+incomplete | unfinished partial missing
+complete circuit | closed current flow bulb light | open
+incomplete circuit | open absent stopped | closed current flow
+close circuit | closed current flow bulb light | open
+close switch | closed current flow bulb light | open
+closed switch path | complete continuous conductor
+open switch path | incomplete broken stopped | current
+circuit complete path | closed continuous current
+circuit broken path | open incomplete stopped | current
+complete metamorphosis stages | egg larva pupa adult
+incomplete metamorphosis stages | egg nymph adult
+metamorphosis complete pupa | present
+metamorphosis incomplete pupa | absent | present
+incomplete life cycle | unfinished stages development
+complete life cycle | mature reproduction offspring
+accuracy close accepted | true value measurement
+accuracy true value | close measurement
+precision repeated values | close consistent measurements
+close distance | near short separation
+close objects resolution | distinguish detail
+# Retained comparison selectors preserve scientific conditions.
+ph below seven | acid sour hydrogen | base neutral
+ph above seven | base alkaline hydroxide | acid neutral
+ph equal seven | neutral | acid base
+ph below | acid low | base
+ph above | base high | acid
+below freezing temperature | ice solid freezing
+above boiling temperature | vapor gas
+below dew point | condensation droplets
+below water table | saturated pores groundwater
+above water table | unsaturated pores air
+below surface magma | underground molten rock
+above sea level | altitude elevation
+height above sea level | altitude elevation
+frequency above hearing | ultrasound
+frequency below hearing | infrasound
+ultrasound | sound high frequency above hearing
+infrasound | sound low frequency below hearing
+voltage below threshold | insufficient current dim
+first food chain | producer sunlight
+last food chain | top consumer predator
+initial reaction substances | reactants
+final reaction substances | products
+initial independent variable | chosen manipulated input
+final dependent measurement | outcome response
+# Poor electrical conduction is an insulating property, not its opposite.
+nonmetal electrical property | high resistance insulate | conduct
+pure water electrical | high resistance few ions
+pure water salt added | ions conductivity increase
+salt solution electric | mobile ions conduct
+graphite nonmetal | conduct mobile electrons exception
+graphite | carbon nonmetal conductor soft
+diamond graphite difference | atomic arrangement properties
+insulation electric purpose | resist charge flow prevent shock
+insulation thermal purpose | slow heat transfer reduce loss
+resistance large current | small low
+resistance small current | large high
+# Explicit states, not unsupported claims about unparsed color order.
+acid litmus final | red | blue
+base litmus final | blue | red
+red litmus acid | unchanged same | blue
+blue litmus base | unchanged same | red
+red litmus neutral | unchanged same
+blue litmus neutral | unchanged same
+litmus color transition | acid base indicator
+indicator solution acidity | color ph
+# Geometry cannot be recovered from permutations of sun/earth/moon.
+# Distinct blocking and visibility cues are useful when present.
+sun obscured eclipse | solar moon new | full
+sun blocked eclipse | solar moon new | full
+sun darkened eclipse | solar moon new
+moon darkened eclipse | earth shadow lunar full | solar new
+moon reddened eclipse | earth atmosphere lunar full | solar new
+lunar eclipse reddened | sunlight refracted earth atmosphere
+solar eclipse daylight | sun obscured moon shadow
+lunar eclipse nighttime | moon darkened earth shadow
+solar eclipse blocking | moon intercepts sunlight
+lunar eclipse blocking | earth intercepts sunlight
+sunlight earth blocked | lunar eclipse full | solar
+sunlight moon blocked | solar eclipse new
+# Qualified conversion roles distinguish devices when those roles are stated.
+generator input | mechanical motion
+ generator output | electrical current
+motor input | electrical current
+motor output | mechanical motion
+generator function | converts motion electric induction
+motor function | converts electric motion magnetic force
+# Mass number and isotopic average are distinct scientific quantities.
+isotope mass number | protons neutrons sum
+atomic mass average | isotope abundance weighted masses
+periodic atomic mass | average isotopic abundance
+isotopic abundance | relative percentage isotope atoms
+relative atomic mass | weighted isotope average
+mass number neutron | atomic number subtraction
+atomic number proton | element identity
+isotope identity | same proton number
+# Front descriptions retain the advancing air mass rather than reversing
+# the same four words to imply a different event.
+advancing cold front | dense air pushes warm upward thunderstorms
+advancing warm front | air rises gradually steady rain
+cold front steep | rapid uplift thunderstorms
+warm front gentle | gradual uplift steady precipitation
+stationary front stalled | prolonged clouds rain

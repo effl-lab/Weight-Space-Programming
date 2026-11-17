@@ -1,0 +1,118 @@
+igneous: igneous, magma, lava, cooling, cools, cooled, crystals, volcanic, granite, basalt, obsidian, pumice, intrusive, extrusive, solidify, solidifies, molten rock, hardened
+sedimentary: sedimentary, sediment, sediments, layers, layer, compaction, cementation, compacted, cemented, deposition, sandstone, limestone, shale, conglomerate, fossils, strata, pressed together
+metamorphic: metamorphic, heat and pressure, marble, slate, quartzite, gneiss, schist, foliated, changed, transformed, deep underground
+rock_cycle: rock cycle, igneous, sedimentary, metamorphic, rocks change, melting, weathering
+mineral_id: mineral, minerals, luster, streak, hardness, cleavage, fracture, crystal shape, mohs, scratch, identify, properties, specific gravity
+hardness: hardness, scratch, scratches, mohs, mohs scale, diamond, talc, harder, hardest, softest, fingernail, steel file, penny
+streak: streak, streak plate, powder, powdered, color of powder, porcelain, tile
+luster: luster, shiny, metallic, nonmetallic, dull, glassy, pearly, reflects light, shine
+cleavage: cleavage, splits, flat surfaces, breaks along, planes
+mineral_examples: quartz, feldspar, mica, calcite, gypsum, talc, halite, pyrite, fools gold, galena, magnetite, hematite, fluorite, topaz, corundum
+calcite_acid: calcite, limestone, marble, fizz, fizzes, bubbles, acid, vinegar, hydrochloric
+gems: gem, gems, gemstone, diamond, ruby, emerald, sapphire, jewelry
+ore_mining: ore, ores, mining, mine, mined, extract, metals, deposits, quarry
+weathering: weathering, weathered, break down, breaks down, broken, rocks, cracks, smaller pieces, physical weathering, mechanical weathering, chemical weathering, abrasion, exfoliation
+ice_wedging: ice wedging, frost wedging, freeze, freezes, thaw, thawing, freezing and thawing, water expands, expands when it freezes, cracks, frost, potholes, weathering
+root_weathering: roots, plant roots, grow into cracks, cracks, break rocks, tree roots, sidewalk
+chemical_weathering: chemical weathering, acid rain, oxidation, rust, dissolve, dissolves, carbonic acid, limestone, caves
+erosion: erosion, erode, eroded, carry, carries, carried, transport, transported, moving water, wind, glaciers, gravity, wear away, wears away, washed away, soil loss, removed, runoff
+deposition: deposition, deposit, deposits, deposited, drop, drops, dropped, sediment, settle, settles, delta, sand bar, mouth of river, alluvial fan, floodplain
+glacier: glacier, glaciers, glacial, ice sheet, ice age, moraine, moraines, till, scratches, striations, u shaped valley, boulders, erratics, polished, grooves, great lakes, kettle
+river: river, rivers, stream, streams, canyon, v shaped valley, meander, meanders, delta, floodplain, current, flow, flows, tributary, mouth, bank, banks, riverbank
+grand_canyon: grand canyon, colorado river, canyon, millions of years, layers exposed
+wind_erosion: wind erosion, sand dunes, dunes, dune, sandblasting, desert, dust, dust bowl, windbreak, windbreaks, blowing
+wave_erosion: waves, wave, beach, beaches, shoreline, coast, coastal, sea cliffs, sea arch, sea stack, longshore, sand, cliffs
+gravity_erosion: landslide, landslides, mudslide, mudslides, mass movement, rockfall, slump, creep, steep slope, avalanche
+soil: soil, soils, humus, topsoil, clay, sand, silt, loam, organic matter, decayed, nutrients, subsoil, bedrock, horizons, particles
+soil_texture: clay, silt, sand, particles, particle size, permeability, holds water, drains, drainage, porous, small particles, large particles
+soil_conservation: soil conservation, contour plowing, terraces, terracing, windbreaks, cover crops, crop rotation, no till, planting trees, prevent erosion, reduce erosion
+plate_tectonics: plate tectonics, plates, plate, tectonic, continental drift, wegener, pangaea, plate boundaries, boundary, convection currents, seafloor spreading, mid ocean ridge, lithosphere, move slowly
+plate_boundary: convergent, divergent, transform, collide, collision, subduction, pull apart, slide past, rift, trench, ridge
+continental_drift: continental drift, pangaea, supercontinent, wegener, continents fit, puzzle, matching fossils, same fossils, south america, africa
+seafloor: seafloor spreading, mid ocean ridge, ridge, new crust, magnetic stripes, ocean floor, trench, trenches
+earthquake: earthquake, earthquakes, fault, faults, seismic waves, seismic, epicenter, focus, seismograph, seismometer, richter, magnitude, tremors, shaking, aftershocks, san andreas, slip
+tsunami: tsunami, tsunamis, underwater earthquake, giant wave, huge waves, coastal flooding
+volcano: volcano, volcanoes, volcanic, magma, lava, eruption, erupt, erupts, ash, crater, vent, ring of fire, hot spot, hawaii, cinder cone, shield, composite, mount st helens, pyroclastic
+mountain_building: mountains, mountain, mountain range, folding, folded, uplift, uplifted, plates collide, himalayas, appalachian, rockies, rocky mountains, peaks
+earth_layers: crust, mantle, outer core, inner core, core, lithosphere, asthenosphere, iron, nickel, layers of earth, thinnest, thickest, hottest
+crust_types: oceanic crust, continental crust, basalt, granite, thin, thick, dense
+fossil_fuels: fossil fuels, fossil fuel, coal, oil, natural gas, petroleum, gasoline, ancient plants, ancient organisms, millions of years, nonrenewable, burning, drilling, refinery
+coal: coal, mining, swamp plants, peat, power plants, burning coal, carbon
+oil_gas: oil, petroleum, natural gas, gasoline, crude, drilling, wells, pipeline, oil spill, marine organisms, plastics
+renewable: renewable, renewable resource, renewable resources, renewable energy, replenished, replaced, naturally replaced, sustainable, never run out, inexhaustible
+renewable_sources: solar, wind, hydroelectric, geothermal, biomass, tidal, sunlight, water power, wind turbines, solar panels, renewable
+nonrenewable: nonrenewable, non renewable, limited supply, cannot be replaced, run out, finite, used up, fossil fuels, coal, oil, natural gas, uranium
+resources: natural resources, resource, resources, conserve, conservation, supply, deplete, depleted, scarce
+reduce_reuse: reduce, reuse, recycle, recycling, recycled, recyclable, landfill, landfills, trash, garbage, waste, compost, composting
+water_cycle: water cycle, evaporation, condensation, precipitation, collection, runoff, groundwater, infiltration, transpiration, water vapor, clouds, hydrologic, sun drives
+evaporation: evaporation, evaporate, evaporates, liquid to gas, water vapor, vapor, heat from sun, dries, drying, puddle, disappears, dry
+condensation: condensation, condense, condenses, gas to liquid, droplets, water droplets, dew, fog, clouds form, cools, cold glass, outside of glass, mirror fogs
+precipitation: precipitation, rain, snow, sleet, hail, falls, drizzle, rainfall, freezing rain
+dew_frost: dew, frost, morning, grass, dew point, cool night, droplets
+clouds: cloud, clouds, cumulus, stratus, cirrus, cumulonimbus, nimbus, water droplets, ice crystals, condensation
+groundwater: groundwater, ground water, aquifer, aquifers, well, wells, water table, permeable, impermeable, infiltration, seeps, porous, spring
+fresh_water: fresh water, freshwater, ice caps, glaciers, drinking water, three percent, small percent, salt water, oceans, frozen
+salinity: salt water, saltwater, salinity, salty, ocean, desalination, dissolved salts
+ocean_currents: ocean currents, currents, gulf stream, warm current, cold current, circulate, global conveyor, upwelling
+tides: tide, tides, tidal, high tide, low tide, moon's gravity, gravitational pull, spring tide, neap tide, twice a day, bulge
+ocean_waves: wave, waves, ocean waves, wind, energy, crest, breakers, surf
+weather: weather, temperature, air pressure, humidity, wind, precipitation, forecast, forecasting, meteorologist, meteorology, conditions, daily
+weather_instruments: thermometer, barometer, anemometer, wind vane, weather vane, rain gauge, hygrometer, psychrometer, weather balloon, instruments, weather station
+barometer: barometer, air pressure, atmospheric pressure, millibars, pressure, falling pressure, rising pressure
+anemometer: anemometer, wind speed, speed of wind, spinning cups, cups
+wind_vane: wind vane, weather vane, wind direction, direction of wind, points
+rain_gauge: rain gauge, rainfall, amount of rain, precipitation, centimeters, inches
+hygrometer: hygrometer, psychrometer, humidity, relative humidity, moisture in air, water vapor
+air_pressure: air pressure, high pressure, low pressure, pressure system, clear skies, fair weather, stormy, storms, cloudy, rising air, sinking air
+fronts: front, fronts, cold front, warm front, stationary front, occluded, air mass, air masses, boundary, collide, meets
+cold_front: cold front, thunderstorms, cumulonimbus, temperature drops, cooler, heavy rain, sudden, quickly
+warm_front: warm front, steady rain, stratus, light rain, warmer, slowly, drizzle
+air_mass: air mass, air masses, maritime, continental, polar, tropical, humid, dry
+thunderstorm: thunderstorm, thunderstorms, lightning, thunder, cumulonimbus, heavy rain, hail, strike, static electricity
+lightning_safety: lightning, struck, shelter, indoors, avoid, tall objects, open field
+hurricane: hurricane, hurricanes, tropical storm, cyclone, typhoon, eye, warm ocean water, warm water, storm surge, category, high winds, gulf, coast
+tornado: tornado, tornadoes, funnel, funnel cloud, twister, spinning, rotating, tornado alley, fujita, basement
+blizzard: blizzard, snowstorm, heavy snow, freezing, cold, whiteout, snow
+drought: drought, droughts, dry, little rain, no rain, water shortage, crops die, dust, wildfire, wildfires
+flood: flood, floods, flooding, heavy rain, overflow, levee, levees, dam, floodplain, flash flood
+wind_cause: wind, winds, uneven heating, air moves, high pressure to low pressure, sea breeze, land breeze, convection
+sea_breeze: sea breeze, land breeze, land heats faster, water heats slowly, coastal, daytime, specific heat
+climate: climate, climates, average weather, long term, many years, latitude, elevation, altitude, ocean currents, climate zones, temperate, polar, tropical
+global_warming: global warming, climate change, greenhouse gases, carbon dioxide, methane, rising temperatures, sea level rise, melting ice, ice caps, fossil fuels, warming
+greenhouse: greenhouse effect, greenhouse, greenhouse gases, trap heat, traps heat, infrared, carbon dioxide, methane, water vapor, insulates, warmer
+ozone: ozone, ozone layer, ultraviolet, uv, uv rays, stratosphere, cfcs, chlorofluorocarbons, ozone hole, protects, absorbs ultraviolet
+atmosphere_layers: troposphere, stratosphere, mesosphere, thermosphere, exosphere, ionosphere, layers of atmosphere, altitude
+troposphere: troposphere, weather occurs, lowest layer, clouds, weather
+air_composition: air, nitrogen, oxygen, argon, carbon dioxide, gases, mixture of gases, seventy eight percent, twenty one percent, atmosphere
+atmosphere: atmosphere, air, gases, layer of gases, surrounds earth, protects, blanket
+elevation_temp: elevation, altitude, higher altitude, mountain top, thinner air, colder, less pressure, mountain
+latitude_climate: latitude, equator, poles, polar, tropical, direct sunlight, warmer near equator, colder near poles
+humidity: humidity, humid, moisture, water vapor, muggy, damp, relative humidity, dew point
+topo_map: topographic map, topographic, contour lines, contour, elevation, steep, gentle slope, close together, far apart, relief, map
+maps: map, maps, compass rose, legend, key, scale, globe, latitude, longitude, grid
+geologic_time: geologic time, geologic time scale, era, eras, period, periods, precambrian, paleozoic, mesozoic, cenozoic, millions of years, billion years, epoch
+relative_age: relative age, relative dating, law of superposition, superposition, oldest layer, bottom, youngest, top, older, younger, deeper, undisturbed, sequence
+absolute_age: absolute age, radioactive dating, radiometric dating, half life, carbon 14, carbon dating, isotopes, radioactive decay, uranium
+index_fossil: index fossil, index fossils, short time, widespread, date rock layers, correlate
+unconformity: unconformity, missing layers, gap, erosion, intrusion, cuts across, fault
+cave: cave, caves, cavern, caverns, stalactite, stalactites, stalagmite, stalagmites, limestone, groundwater dissolves, sinkhole, sinkholes
+landforms: landform, landforms, plateau, plain, plains, hill, hills, valley, valleys, mesa, butte, peninsula, island, isthmus
+coast_landform: peninsula, bay, cape, gulf, island, coastline, inlet, lagoon, barrier island
+lake_formation: lake, lakes, pond, ponds, reservoir, oxbow lake, crater lake
+dam: dam, dams, reservoir, hydroelectric, hoover, river flow, block, flooding
+desert_formation: desert, rain shadow, dry, mountain range blocks, leeward
+earth_shape: sphere, spherical, round, globe, oblate
+soil_formation: soil formation, weathering, decomposed, organic matter, rock particles, humus, thousands of years, parent rock
+pollution_air: air pollution, smog, smoke, exhaust, emissions, factories, cars, vehicles, burning fossil fuels, particulates, haze, carbon monoxide, sulfur dioxide
+acid_rain: acid rain, sulfur dioxide, nitrogen oxides, burning coal, power plants, acidic, kills fish, damages statues, lakes, forests
+pollution_water: water pollution, oil spill, oil spills, sewage, runoff, fertilizer, fertilizers, pesticides, chemicals, contaminated, algae bloom, dead zone
+pollution_land: litter, littering, landfill, trash, garbage, plastic, plastics, waste, dumping, toxic waste
+oil_spill: oil spill, oil, birds, feathers, coated, cleanup, tanker, spill, marine life
+deforestation: deforestation, cutting down trees, clear cutting, logging, cut down, habitat loss, loss of habitat, rainforest, erosion, forest, forests
+conservation_energy_home: save energy, conserve energy, turn off lights, unplug, insulation, energy efficient, fluorescent, led, thermostat, carpool, public transportation, bicycle, walk
+water_conservation: conserve water, save water, shorter showers, turn off faucet, fix leaks, low flow, drip irrigation, drought
+irrigation: irrigation, irrigate, crops, farmland, sprinklers, water crops, drip
+fertilizer_runoff: fertilizer, fertilizers, nitrogen, phosphorus, runoff, algae, algal bloom, eutrophication, dead zone
+pesticide: pesticide, pesticides, ddt, insecticide, herbicide, bioaccumulation, eagles, eggshells, sprayed, spraying
+urban: city, cities, urban, pavement, asphalt, concrete, buildings, heat island, impervious
+wildfire: wildfire, wildfires, forest fire, fire, fires, burned, burn, controlled burn

@@ -1,0 +1,351 @@
+# Further explicitly inspected surface forms; no learned or inferred stemming.
+adapt adapting adaptable
+survive survivable
+reproduce reproduced reproduces
+respond responds responding
+stimulus stimuli
+stimulate stimulated
+transfer transferring
+occur occurs occurred occurring occurrence
+happen happens happened happening
+change changing changes changed
+increase increasing increases increased
+decrease decreasing decreases decreased
+double doubles doubled doubling
+halve halves halved halving
+triple triples tripled tripling
+quadruple quadrupled quadrupling
+expand expands expanding expanded
+contract contracted contracts contracting
+compress compresses compressing compressed
+heat heating heated
+rotate rotated rotates rotating
+revolve revolves revolved
+orbit orbiting orbits
+oscillate oscillated oscillates oscillating oscillation
+vibrate vibrates vibrated vibrating
+propagate propagation propagates propagating
+transmit transmits
+travel traveled travelled traveling travelling
+move movable moveable
+stationary motionless
+continuous continuously
+intermittent intermittently
+frequent frequently
+infrequent infrequently
+periodic periodically
+annual annually yearly
+daily eachday
+season seasonal seasonally
+absorb absorptivity
+reflect reflectivity
+refract refracting refracted
+scatter scattering
+refract refraction
+radiate radiating
+emit emits
+insulate insulated insulates
+conduct conducts conducted
+resistivity resistivities
+resist resisted resists
+immerse immersion immersed immersing
+submerge submerging submerged
+suspend suspended suspending
+suspension suspensions
+settle sedimentsettling
+crystallize crystallizes crystallized crystallizing crystallization crystallise crystallisation
+solidify solidification solidified solidifying
+liquefy liquefaction liquefied liquefying
+vapor vaporous
+vaporize vaporized
+boil boiled
+freeze froze frozen
+thaw thawing
+brittle brittleness
+hard hardness harder hardest
+soft softer softest softness
+porous porosity
+permeable permeability
+impermeable impermeability
+opaque opaqueness
+transparent transparently
+translucent translucency
+rigid rigidly
+flexible flexibility
+malleable malleability
+ductile ductility
+elastic elastically
+viscous viscosity
+soluble solubility
+insoluble insolubility
+react reactivity reactive
+inert inertness unreactive
+flammable inflammable
+combustion combust combusts combusted
+corrode corroded corroding
+rust rusting
+oxidize oxidizing
+neutralize neutralising neutralise neutralised neutralizing
+acidify acidification acidified acidifying
+alkaline alkalinity
+concentrated concentrations
+dilute dilutes diluted diluting dilution
+saturate saturates saturating
+precipitate precipitationreaction
+catalyst catalysts
+catalyze catalyse catalyzes catalyses catalyzed catalyzing
+enzyme enzymatic
+denature denaturing denatures denaturation
+ferment ferments fermenting
+respiration respire respires respired
+photosynthesis photosynthetic photosynthetically
+transpire transpires transpiring transpiration
+pollinate pollinates
+fertilize fertilizes fertilized fertilizing
+germinate germinates germinating
+sprout sprouts sprouted sprouting
+bud budded
+budding buddings
+molt molting moult moulting molts moulted molted
+metamorphosis metamorphoses
+larva larvae larval
+pupa pupae pupal
+nymph nymphs
+adult adulthood
+embryo embryonic embryos
+fetus foetus fetal foetal
+juvenile juveniles
+mature maturity maturation
+regenerate regenerates regenerated regenerating regeneration
+specialized specialised specializes specialising
+inherit inherited inheritedtrait
+acquire acquired acquiring
+select selection selecting selected
+natural naturally
+variation variations variabletrait
+mutation mutational
+resistant resistanceability
+antibiotic antibiotics
+pathogen pathogens
+infect infects infected infecting infection infectious
+transmit transmissible
+contagious contagion
+immune immunity
+immunize immunise immunization immunisation immunized
+vaccinate vaccinated vaccination
+vaccine vaccines
+symptom symptoms
+antiviral antivirals
+vertebrate vertebrates
+invertebrate invertebrates
+mammal mammalian
+bird avian
+reptile reptilian
+amphibian amphibian
+amphibious amphibiously
+fish fishes
+insect insects
+arachnid arachnids
+mollusk mollusc molluscs
+annelid annelids
+echinoderm echinoderms
+cnidarian coelenterate coelenterates
+crustacean crustaceans
+arthropod arthropods
+fungus mushroomsfungi
+bacterium bacteriums bacterial bacterially
+bacteria bacterium bacteria
+alga algae algal
+protozoan protozoa
+protist protists
+cyanobacterium cyanobacteria
+hypha hyphae
+mycelium mycelia
+rhizoid rhizoids
+rhizome rhizomes
+cotyledon cotyledons
+monocot monocotyledon monocotyledons
+dicot dicotyledon dicotyledons
+vascular vascularly
+nonvascular nonvascularly
+deciduous deciduously
+evergreen evergreens
+needle needles
+spine spines
+thorn thorns
+burr burrs
+wing winged wings
+webbed webbing
+streamlined streamline streamlining
+camouflage camouflaged camouflaging
+mimic mimics mimicked mimicking
+hibernate hibernates hibernated
+estivation aestivation estivate aestivate
+migrate migrates migrated migrating
+nocturnal nocturnally
+diurnal diurnally
+territory territorial
+courtship courting
+behavior behavioural behavioral
+herbivore herbivorous
+carnivore carnivorous
+omnivore omnivorous
+scavenger scavenging scavenge
+decomposer decomposing
+predator predators
+prey preys
+parasite parasites
+host hosts
+competition competitive
+mutualism mutuallybeneficial
+cooperate cooperation cooperative
+biodiversity diversityoflife
+extinct extinctions
+endangered endangerment
+conserve conserving
+restore restored restores
+reforest reforestation replant replanting
+forestation afforestation
+urban urbanization urbanisation
+pavement paved paving
+impervious imperviousness
+fertilizer fertiliser fertilizers fertilisers
+pesticide pesticides
+insecticide insecticides
+herbicide herbicides
+eutrophication eutrophic
+biomagnification biomagnify biomagnified
+bioaccumulation bioaccumulate
+sustainable sustainability
+biodegradable biodegrade biodegrades biodegradation
+recycle recycled recycles recycling
+reuse reused reuses reusing
+reduce reducing
+sewage wastewater
+purify purification purifies purified
+potable drinkable
+sedimentary sedimentsrock
+igneous igneously
+metamorphic metamorphism
+weathering weathered weatherrock
+erosion erode erodes eroded eroding erosional
+deposition deposit deposits deposited depositing
+abrasion abrade abraded abrasive
+tectonic tectonics
+subduct subducts subducted subducting subduction
+uplift uplifted uplifting
+fault faulting faulted
+fold folding folded
+rift rifting
+converge converged
+ diverge divergent
+transform transformboundary
+lithosphere lithospheric
+asthenosphere asthenospheric
+continental continent continents
+oceanic oceanfloor
+volcano volcanic volcanism volcanoes
+seismic seismology
+seismograph seismographic
+epicenter epicentre
+hypocenter hypocentre
+focus foci
+pangaea pangea
+paleontology palaeontology
+fossil fossiliferous
+stratum strata
+unconformity unconformities
+glacier glacial glaciation
+drought droughts
+flood floods flooding flooded
+watershed drainagebasin
+runoff surfacerunoff
+infiltrate infiltrates infiltration
+percolate percolates percolation
+aquifer aquifers
+artesian artesianwell
+evaporate evaporating
+condensate condensates
+humid humidity
+arid aridity
+saline salinity salinities
+salinization salinisation
+brackish brackishwater
+freshwater freshwaters
+saltwater saltwaters
+seawater seawater
+upwelling upwell upwells
+thermohaline thermohalinecirculation
+latitude latitudinal
+longitude longitudinalcoordinate
+altitude elevation elevations
+leeward leeside
+windward windwards
+isobar isobars
+isotherm isotherms
+isoline isolines
+isotope isotopic
+radioactive radioactivity
+radiometric radiometrically
+halflife halfdecaytime
+luminous luminosity
+astronomy astronomic
+celestial celestially
+elliptical ellipse ellipses
+geocentric geocentrism
+heliocentric heliocentrism
+waxing waxes
+waning waned waning
+crescent crescents
+gibbous gibbousmoon
+supernova supernovae
+nebula nebular
+pulsar pulsars
+quasar quasars
+redshift redshifted
+blueshift blueshifted
+aphelion aphelia
+perihelion perihelia
+apogee apogees
+perigee perigees
+observe observation observations observed
+infer inference inferences
+predict prediction predictions predicted predicting
+hypothesis hypotheses
+investigate investigated investigating
+evidence evidential
+reliable reliability
+accurate accuracy
+precise precision
+reproducible reproducibility
+repeat repeated repeats repeating
+replicate reproducibilityreplicate
+calibrate calibrates
+procedure procedures
+experiment experimental experimentally
+analyze analysis
+conclusion conclusions
+support supportive
+contradict contradiction contradictions
+correlate correlation correlations correlated
+causation causal
+objective objectively
+subjective subjectivity
+quantitative quantitatively
+qualitative qualitatively
+random randomly
+sample sampling samples sampled
+representative representativeness
+average averaging averaged
+mean arithmeticmean
+percent percentage percentages
+proportional proportionally
+inverse inversely
+multiply multiplied multiplication multiplying
+divide divided dividing division
+subtract subtracted subtraction subtracting
+add addition adding added
+compare comparison comparisons compared
+separate separation
+classify classifying classified
+classification taxonomy taxonomic

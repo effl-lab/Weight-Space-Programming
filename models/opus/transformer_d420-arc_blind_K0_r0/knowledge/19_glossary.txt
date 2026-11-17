@@ -1,0 +1,155 @@
+# glossary: term followed by its meaning in plain words
+atom: the smallest particle of an element
+molecule: two or more atoms joined together bonded
+element: a substance made of only one kind of atom
+compound: a substance made of two or more elements chemically combined
+mixture: two or more substances mixed together but not chemically combined
+solution: a mixture in which one substance dissolves completely in another evenly mixed
+solubility: how much of a substance can dissolve
+density: how much mass is in a given volume compactness
+mass: the amount of matter in an object
+weight: the pull of gravity on an object
+volume: the amount of space something takes up
+matter: anything that has mass and takes up space
+energy: the ability to do work or cause change
+force: a push or pull
+friction: a force that resists motion when surfaces rub together
+gravity: a force that pulls objects toward each other
+inertia: resistance of an object to a change in its motion
+speed: how fast an object moves distance per time
+velocity: speed in a particular direction
+acceleration: the rate at which velocity changes speeding up slowing down turning
+work: force applied over a distance
+power: how fast work is done
+conductor: a material through which heat or electricity flows easily
+insulator: a material that slows or stops the flow of heat or electricity
+circuit: a closed path through which electric current flows
+current: the flow of electric charge
+static electricity: buildup of electric charges on an object
+magnet: an object that attracts iron and has north and south poles
+wave: a disturbance that carries energy from place to place
+wavelength: distance between one crest and the next crest of a wave
+frequency: number of waves that pass a point each second
+amplitude: height of a wave from rest position measure of energy
+reflection: light or sound bouncing off a surface
+refraction: bending of light as it passes from one material into another
+absorption: taking in of light heat or sound energy
+transparent: lets light pass through clearly
+opaque: does not let light pass through
+translucent: lets some light pass through but scatters it blurry
+vibration: a rapid back and forth movement
+pitch: how high or low a sound is
+photosynthesis: process plants use to make food sugar from sunlight water and carbon dioxide
+respiration: process cells use to release energy from food using oxygen
+transpiration: release of water vapor from plant leaves
+evaporation: change from liquid to gas
+condensation: change from gas to liquid
+precipitation: water falling from clouds as rain snow sleet hail
+sublimation: change from solid directly to gas
+melting: change from solid to liquid
+freezing: change from liquid to solid
+erosion: carrying away of rock and soil by water wind ice gravity
+weathering: breaking down of rocks into smaller pieces
+deposition: dropping of sediment in a new place
+sediment: small pieces of rock shells and other material moved and deposited
+fossil: preserved remains or traces of an organism that lived long ago
+mineral: naturally occurring nonliving solid with a crystal structure
+rock: solid mixture of one or more minerals
+magma: melted rock below Earth's surface
+lava: melted rock that flows onto Earth's surface
+crust: Earth's thin outermost layer
+mantle: thick hot layer of Earth below the crust
+core: Earth's center made of iron and nickel
+plate: large moving piece of Earth's lithosphere
+fault: crack in Earth's crust where rocks move
+earthquake: sudden shaking of the ground caused by movement along a fault
+volcano: opening in Earth's crust where magma erupts
+glacier: large slowly moving mass of ice
+climate: average weather of a place over many years
+weather: condition of the atmosphere at a certain time and place
+atmosphere: layer of gases surrounding Earth
+humidity: amount of water vapor in the air
+air pressure: force of the air pressing on a surface
+front: boundary between two air masses
+orbit: path of an object around another object in space
+rotation: spinning of an object on its axis
+revolution: movement of one object around another orbit
+axis: imaginary line through the center of a spinning object
+satellite: an object that orbits a planet; the Moon is Earth's natural satellite
+star: huge ball of hot glowing gases that gives off light and heat
+planet: large body that orbits a star and does not give off its own light
+moon: natural satellite that orbits a planet
+galaxy: huge system of billions of stars gas and dust
+solar system: the Sun and all the objects that orbit it
+constellation: group of stars forming a pattern
+light-year: the distance light travels in one year
+eclipse: when one object in space blocks light from reaching another
+cell: smallest unit of a living thing basic building block of life
+tissue: group of similar cells that work together
+organ: group of tissues working together to do a job
+organism: a living thing
+nucleus: part of a cell that controls its activities and holds DNA
+chromosome: thread-like structure in the nucleus made of DNA carrying genes
+gene: section of DNA that controls a trait
+trait: characteristic or feature of an organism
+heredity: passing of traits from parents to offspring
+dominant: trait that shows whenever its allele is present
+recessive: trait that is hidden when a dominant allele is present
+mutation: change in the DNA of a gene
+adaptation: trait that helps an organism survive in its environment
+evolution: change in species over time
+natural selection: organisms best adapted to their environment survive and reproduce
+extinction: when all members of a species have died out
+species: group of similar organisms that can reproduce together
+population: group of the same species living in one area
+community: all the different populations living in an area
+ecosystem: living and nonliving things interacting in an environment
+habitat: place where an organism lives
+niche: role of an organism in its ecosystem
+producer: organism that makes its own food
+consumer: organism that eats other organisms
+decomposer: organism that breaks down dead organisms and wastes
+predator: animal that hunts other animals for food
+prey: animal hunted and eaten by another animal
+herbivore: animal that eats only plants
+carnivore: animal that eats only other animals
+omnivore: animal that eats both plants and animals
+scavenger: animal that eats dead animals
+parasite: organism that lives on or in a host and harms it
+symbiosis: close long-term relationship between two different species
+food chain: path of energy from one organism to another
+food web: overlapping food chains in an ecosystem
+biome: large region with a similar climate plants and animals
+instinct: behavior an animal is born with
+learned behavior: behavior an animal gets through experience
+hibernation: deep winter sleep that saves energy
+migration: seasonal movement of animals from one place to another
+metamorphosis: major change in body form during an animal's life cycle
+pollination: transfer of pollen from stamen to pistil
+germination: when a seed begins to sprout and grow
+vertebrate: animal with a backbone
+invertebrate: animal without a backbone
+mammal: warm-blooded vertebrate with hair that feeds young milk
+reptile: cold-blooded vertebrate with dry scales
+amphibian: cold-blooded vertebrate that lives part of its life in water and part on land
+insect: invertebrate with six legs three body parts
+bacteria: one-celled organisms without a nucleus
+virus: tiny particle that can reproduce only inside a living cell
+vaccine: substance that helps the body build immunity to a disease
+hypothesis: possible explanation that can be tested
+variable: factor that can change in an experiment
+control: standard used for comparison in an experiment
+conclusion: statement that tells what was learned from an experiment
+observation: information gathered using the senses
+inference: explanation based on observations and prior knowledge
+prediction: statement about what will happen based on evidence
+theory: well-tested explanation supported by evidence
+law: statement that describes what always happens in nature
+model: representation of an object or process
+data: information facts measurements collected in an investigation
+renewable resource: resource that can be replaced naturally in a short time
+nonrenewable resource: resource that cannot be replaced in a short time
+fossil fuel: fuel formed from remains of ancient organisms coal oil natural gas
+pollution: harmful substances added to air water or land
+conservation: wise use and protection of natural resources
+recycling: processing used materials to make new products

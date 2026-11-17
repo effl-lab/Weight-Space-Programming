@@ -1,0 +1,78 @@
+# Definitions and qualified distinctions, authored without question outcomes.
+# Concentration is a ratio, not the total amount of solute. Dilution here means
+# adding solvent without removing solute or causing a reaction.
+concentration quantity | solute amount relative solution amount
+mass concentration | solute mass divided solution volume
+molarity | moles solute divided liters solution
+molality | moles solute divided kilograms solvent
+molarity denominator | solution volume
+molality denominator | solvent mass
+molarity unit | mole liter
+molality unit | mole kilogram
+dilution solute amount | unchanged constant
+dilution solution volume | increase
+dilution particle spacing | increase farther
+dilution particle number | unchanged conserved
+concentrated unsaturated | below solubility limit additional solute dissolves
+dilute saturated | low solubility maximum dissolved
+saturated concentration | solubility limit temperature
+# Amount at equilibrium differs from the speed of reaching equilibrium.
+# Stirring/crushing statements assume fixed temperature and solvent quantity.
+# Pair-only storage avoids an unconditional claim that stirring changes nothing.
+solubility equilibrium | maximum dissolved amount fixed temperature
+solubility dissolution difference | equilibrium amount kinetic rate
+stirring solubility | unchanged equilibrium limit | increase decrease | -1.0
+crushing solubility | unchanged equilibrium limit | increase decrease | -1.0
+stirring dissolution rate | increase faster
+crushing dissolution rate | increase surface area faster
+saturated sugar additional | undissolved solid crystals
+saturated sugar heating | more dissolves higher solubility
+saturated sugar cooling | crystallization crystals excess solute
+dissolved gas heating | escapes lower solubility
+dissolved gas cooling | greater solubility
+dissolved gas pressure increase | greater solubility
+dissolved gas pressure decrease | bubbles escape
+carbonated drink sealed | pressure retains dissolved dioxide
+# A solvent need not be a liquid; solutions can be solid, liquid, or gaseous.
+solute phase | solid liquid gas
+solvent phase | solid liquid gas
+aqueous solution | water solvent
+brass solution | solid copper zinc alloy
+air solution | gas homogeneous nitrogen oxygen
+ethanol water solution | miscible homogeneous
+oil water mixture | immiscible heterogeneous
+# Particle-scale distinctions between true solutions, suspensions, and colloids.
+solution particles | molecules ions uniformly dispersed
+solution standing | remains mixed | sediment
+suspension particles | large heterogeneous dispersed
+suspension standing | settling sediment
+suspension filtration | retained particles filter
+colloid particles | intermediate dispersed scattered light
+colloid light | scattering tyndall effect
+solution tyndall | absent | present
+suspension examples | muddy water chalk
+colloid examples | milk fog smoke gelatin
+milk mixture | colloid emulsion fat droplets
+fog mixture | colloid liquid droplets air
+smoke mixture | colloid solid particles air
+emulsion | liquid droplets dispersed immiscible liquids
+soap emulsification | dispersed oil droplets water
+emulsifier | stabilizes droplets immiscible liquids
+# Catalysts change kinetics, not the equilibrium position or reaction enthalpy.
+catalyst activation | lower energy barrier | | -1.0
+catalyst equilibrium | unchanged position | shift | -1.0
+catalyst enthalpy | unchanged | increase decrease | -1.0
+catalyst equilibration | shorter faster time | | -1.0
+catalyst reverse | faster reaction | | -1.0
+catalyst pathway | alternative lower activation | | -1.0
+# Rust is iron corrosion; silver tarnish and aluminum's oxide are different.
+rust composition | hydrated iron oxide
+rust requirement | oxygen water iron
+rust corrosion difference | iron specific metal oxidation
+silver tarnish product | black sulfide
+silver tarnish reactant | sulfur compounds
+aluminum corrosion | protective oxide layer
+copper corrosion | patina surface compounds
+stainless chromium | protective oxide layer
+galvanization | zinc coating protects iron
+zinc iron coating | sacrificial oxidation protection

@@ -1,0 +1,37 @@
+# Astronomy distinctions authored from scientific meaning, not answer outputs.
+# Calendar months require a hemisphere; season-only rules stay month-neutral.
+northern spring | march equinox | september | -1.0
+southern spring | september equinox | march | -1.0
+northern autumn | september equinox | march | -1.0
+southern autumn | march equinox | september | -1.0
+# Reference frames, lunar illumination, and rotation/orbit distinctions.
+sidereal | stars reference period
+synodic | sun alignment recurrence
+sidereal month | lunar orbit stars
+synodic month | lunar phase cycle sun
+synchronous | matched periods
+tidal locking | synchronized rotation revolution
+moon synchronous | equal rotation revolution periods
+libration | apparent moon rocking visible edge
+farside | lunar hemisphere hidden earth
+farside illumination | sunlight day night
+obliquity | axial tilt
+precession | slow axis orientation change
+occultation | nearer body obscures distant object
+annular | ring shaped
+annular eclipse | sun ring moon apparent smaller
+totality | complete eclipse umbra
+retrograde | opposite usual direction
+prograde | usual forward direction
+apparent retrograde | relative orbital motion perspective
+# Ideal two-body ellipses: speed varies along an orbit, its period stays fixed.
+semimajor | half longest ellipse diameter
+semimajor period | size orbital year
+ellipse perihelion | closest sun fastest
+ellipse aphelion | farthest sun slowest
+perihelion period | unchanged orbital year | | -1.0
+aphelion period | unchanged orbital year | | -1.0
+# Ion and dust tails respond to different outward influences.
+ion tail | solar wind charged gas
+dust tail | radiation pressure curved particles
+comet coma | gas dust sublimation

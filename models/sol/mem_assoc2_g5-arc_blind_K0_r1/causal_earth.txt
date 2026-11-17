@@ -1,0 +1,318 @@
+# Generation 5: Earth-system mechanisms and field-observation diagnoses.
+3.4 | earth crust thickness | continental thicker oceanic thinner |
+3.4 | oceanic crust composition | basalt dense |
+3.4 | continental crust composition | granite less dense |
+3.4 | mantle rock behavior | solid plastic slow flow |
+3.4 | mantle convection driver | internal heat density |
+3.4 | outer core evidence | liquid seismic shear blocked |
+3.4 | inner core solid | high pressure |
+3.4 | earth magnetic source | moving liquid iron outer core |
+3.4 | lithosphere pieces | tectonic plates |
+3.4 | plates moving apart | divergent ridge seafloor spreading |
+3.4 | plates moving together | convergent subduction collision |
+3.4 | plates sliding past | transform earthquake |
+3.4 | plates continent collision | folded mountains crust thickening |
+3.4 | plates ocean continent | denser oceanic subduction trench volcanic |
+3.4 | plates ocean collision | island arc trench subduction |
+3.4 | plates boundary earthquakes | stress fault movement |
+3.4 | seafloor spreading evidence | symmetric magnetic stripes young ridge |
+3.4 | seafloor youngest rock | ridge |
+3.4 | seafloor oldest rock | farther ridge |
+3.4 | ridge new crust | magma solidification |
+3.4 | trench crust fate | subduction recycled mantle |
+3.4 | continental drift evidence | matching fossils rocks coastlines |
+3.4 | continents fit together | pangaea drift |
+3.4 | fossil tropical antarctica | past warmer climate continent movement |
+3.4 | mountain marine fossils | uplift ancient seafloor |
+3.4 | earthquake focus location | underground rupture |
+3.4 | earthquake epicenter location | surface above focus |
+3.4 | earthquake energy release | seismic waves |
+3.4 | earthquake prediction | uncertain risk probability |
+3.4 | earthquake damage reduce | flexible reinforced structures |
+3.4 | seismograph records | ground vibration seismic waves |
+3.4 | seismic p waves | compression solids liquids |
+3.4 | seismic s waves | shear solids | liquids
+3.4 | seismic wave refraction | interior density composition boundaries |
+3.4 | tsunami origin | sudden ocean floor displacement |
+3.4 | tsunami shallow water | slows height increases |
+3.4 | volcano hotspot chain | plate moves mantle plume |
+3.4 | hawaii island sequence | plate motion hotspot |
+3.4 | explosive eruption magma | viscous gas rich silica |
+3.4 | gentle eruption magma | fluid low silica basalt |
+3.4 | shield volcano slope | broad gentle fluid lava |
+3.4 | composite volcano slope | steep alternating lava ash |
+3.4 | volcano fertile soil | mineral weathering nutrients |
+3.4 | magma underground cooling | intrusive coarse crystals |
+3.4 | lava surface cooling | extrusive fine crystals |
+3.4 | rapid cooling crystals | small fine glassy |
+3.4 | slow cooling crystals | large coarse |
+3.4 | obsidian formation | rapid cooling volcanic glass |
+3.4 | pumice floating cause | gas holes low density |
+3.4 | basalt formation | cooling lava extrusive |
+3.4 | granite formation | slow magma cooling intrusive |
+3.4 | sedimentary rock layers | deposition compaction cementation |
+3.4 | metamorphic rock origin | heat pressure existing rock | melting
+3.4 | melted rock cooling | igneous |
+3.4 | buried heated rock | metamorphism |
+3.4 | limestone metamorphism product | marble |
+3.4 | sandstone metamorphism product | quartzite |
+3.4 | shale metamorphism product | slate |
+3.4 | foliated rock structure | aligned minerals pressure |
+3.4 | sedimentary fossils preserved | low heat deposition |
+3.4 | igneous fossils absent | high temperature destruction |
+3.4 | metamorphic fossils distorted | heat pressure |
+3.4 | mineral identity properties | streak hardness cleavage density |
+3.4 | mineral hardness test | scratch resistance |
+3.4 | mineral streak test | powdered color |
+3.4 | mineral cleavage test | flat break planes |
+3.4 | mineral fracture test | irregular break |
+3.4 | mineral luster test | reflected light appearance |
+3.4 | calcite acid reaction | carbon dioxide fizz |
+3.4 | quartz hardness | seven scratches glass |
+3.4 | diamond hardness | ten hardest |
+3.4 | talc hardness | one softest |
+3.4 | halite taste composition | salt sodium chloride |
+3.4 | rock mineral difference | aggregate one minerals |
+# Surface processes and water storage.
+3.4 | weathering cause breakdown | rock smaller pieces |
+3.4 | erosion cause movement | sediment transported |
+3.4 | deposition cause settling | sediment accumulates |
+3.4 | freezing cracks rock | physical weathering expansion |
+3.4 | roots crack rock | physical biological weathering |
+3.4 | acid dissolves rock | chemical weathering |
+3.4 | oxygen oxidizes rock | chemical weathering rust |
+3.4 | repeated heating rock | expansion contraction weathering |
+3.4 | abrasion sand rock | mechanical weathering |
+3.4 | rounded river pebbles | abrasion transport |
+3.4 | angular sediment | short transport little abrasion |
+3.4 | weathering warm wet | fastest chemical |
+3.4 | weathering cold freezing | frost wedging physical |
+3.4 | weathering exposed area | greater faster |
+3.4 | soil formation ingredients | weathered rock organic matter |
+3.4 | soil dark fertile | humus decomposed matter |
+3.4 | soil top horizon | organic matter humus roots |
+3.4 | soil bedrock horizon | parent rock |
+3.4 | soil sandy drainage | rapid large pores |
+3.4 | soil clay drainage | slow small pores |
+3.4 | soil loam advantage | water air nutrients balance |
+3.4 | soil earthworms benefit | aeration mixing nutrients |
+3.4 | soil microorganisms benefit | decomposition recycling nutrients |
+3.4 | removing vegetation slope | erosion runoff increase |
+3.4 | roots preventing erosion | bind hold soil |
+3.4 | contour plowing benefit | slows runoff reduces erosion |
+3.4 | terrace farming benefit | reduces slope erosion |
+3.4 | windbreak farming benefit | reduces wind erosion |
+3.4 | cover crops benefit | soil protection nutrients |
+3.4 | crop rotation benefit | replenish nutrients interrupt pests |
+3.4 | overgrazing consequence | bare soil erosion desertification |
+3.4 | deforestation runoff | increase less infiltration |
+3.4 | urban pavement infiltration | decrease runoff increase |
+3.4 | permeable pavement | infiltration groundwater recharge |
+3.4 | forest canopy rain | intercept slows runoff |
+3.4 | wetlands flood role | store water reduce flooding |
+3.4 | wetlands pollution role | trap sediment filter nutrients |
+3.4 | river speed greater | more erosion larger particles carried |
+3.4 | river speed decreases | deposition larger particles first |
+3.4 | river bend outside | faster erosion |
+3.4 | river bend inside | slower deposition |
+3.4 | river mouth deposition | delta slower current |
+3.4 | alluvial fan formation | stream mountain plain deposition |
+3.4 | canyon formation | river erosion uplift |
+3.4 | meander cut off | oxbow lake |
+3.4 | beach sediment source | waves erosion rivers |
+3.4 | longshore current effect | sand transport coast |
+3.4 | glacier valley shape | u broad |
+3.4 | river valley shape | v narrow |
+3.4 | glacier sediment unsorted | till deposition |
+3.4 | glacier parallel scratches | abrasion striations |
+3.4 | wind dune formation | sand deposition |
+3.4 | cave limestone formation | carbonic acid dissolution |
+3.4 | sinkhole formation | dissolved limestone collapse |
+3.4 | groundwater storage | pores cracks rock |
+3.4 | aquifer requirement | permeability porosity |
+3.4 | impermeable layer groundwater | blocks flow |
+3.4 | water table boundary | saturated unsaturated |
+3.4 | drought water table | falls recharge reduced |
+3.4 | pumping water table | falls drawdown |
+3.4 | rainfall recharge groundwater | infiltration percolation |
+3.4 | overpumping coastal aquifer | saltwater intrusion |
+3.4 | spring water source | groundwater intersects surface |
+3.4 | well water source | aquifer saturated zone |
+3.4 | groundwater contamination | slow recovery pollution |
+3.4 | water cycle driving | sun gravity |
+3.4 | water cycle solar | evaporation energy |
+3.4 | water cycle gravity | precipitation runoff infiltration |
+3.4 | cloud formation cooling | condensation droplets particles |
+3.4 | fog formation ground | condensation saturated air |
+3.4 | dew formation surface | vapor condensation cooling |
+3.4 | frost formation surface | vapor deposition ice |
+3.4 | transpiration water source | roots soil leaves |
+3.4 | evaporation ocean salt | remains ocean freshwater vapor |
+3.4 | water vapor invisible | gas |
+3.4 | visible steam | condensed droplets |
+# Atmosphere, weather, and climate.
+3.4 | atmosphere primary gas | nitrogen |
+3.4 | atmosphere second gas | oxygen |
+3.4 | atmosphere photosynthesis gas | carbon dioxide |
+3.4 | troposphere weather | water vapor convection |
+3.4 | stratosphere ozone | ultraviolet absorption |
+3.4 | greenhouse gases mechanism | absorb infrared outgoing radiation |
+3.4 | greenhouse effect benefit | habitable warmer surface |
+3.4 | greenhouse enhanced consequence | global warming climate change |
+3.4 | ozone depletion consequence | more ultraviolet surface |
+3.4 | ozone greenhouse distinction | ultraviolet infrared |
+3.4 | air pollution particulates | respiratory disease reduced visibility |
+3.4 | acid precipitation cause | sulfur dioxide nitrogen oxides |
+3.4 | acid precipitation effect | lake acidity damaged forest limestone |
+3.4 | wind direction cause | high pressure toward low |
+3.4 | pressure difference greater | stronger wind |
+3.4 | rising air pressure | low cloud rain |
+3.4 | sinking air pressure | high clear dry |
+3.4 | warm air expansion | less dense rises |
+3.4 | cold air contraction | denser sinks |
+3.4 | humidity saturation cooling | condensation precipitation |
+3.4 | relative humidity cooling | increase same vapor |
+3.4 | relative humidity heating | decrease same vapor |
+3.4 | dew point meaning | saturation temperature |
+3.4 | temperature dewpoint equal | saturated condensation |
+3.4 | cold front lifting | dense air forces warm up |
+3.4 | cold front weather | brief heavy rain thunderstorms |
+3.4 | warm front weather | prolonged gentle precipitation |
+3.4 | stationary front weather | persistent clouds precipitation |
+3.4 | thunderstorm updraft | warm moist unstable air |
+3.4 | lightning cause | electrical discharge charge separation |
+3.4 | thunder cause | rapid air expansion heating |
+3.4 | lightning before thunder | light faster sound |
+3.4 | hurricane energy source | warm ocean evaporation condensation |
+3.4 | hurricane weakens land | reduced warm water energy |
+3.4 | tornado safest place | basement interior lowest floor |
+3.4 | hurricane storm surge | wind pushes seawater shore |
+3.4 | barometer falling | low pressure storm approaching |
+3.4 | barometer rising | higher pressure fair weather |
+3.4 | anemometer quantity | wind speed |
+3.4 | wind vane quantity | wind direction |
+3.4 | hygrometer quantity | humidity |
+3.4 | rain gauge quantity | precipitation amount |
+3.4 | weather satellite purpose | clouds storm tracking |
+3.4 | radar weather purpose | precipitation location motion |
+3.4 | weather climate distinction | short term long term averages |
+3.4 | climate latitude effect | sun angle energy |
+3.4 | climate elevation effect | higher cooler |
+3.4 | climate ocean effect | moderate seasonal temperature |
+3.4 | climate ocean current | warm cold heat transport |
+3.4 | mountain windward side | rising cooling wet |
+3.4 | mountain leeward side | sinking warming dry |
+3.4 | rain shadow cause | moisture lost windward mountains |
+3.4 | sea breeze daytime | land heats faster ocean air inland |
+3.4 | land breeze nighttime | land cools faster air offshore |
+3.4 | coastal moderate climate | water high specificheat |
+3.4 | equator warm reason | direct concentrated sunlight |
+3.4 | poles cold reason | low sun angle spread energy |
+3.4 | global warming ice | melting sea level albedo feedback |
+3.4 | sea level thermal | warming water expansion |
+3.4 | land ice melting | sea level increase |
+3.4 | ocean acidification cause | dissolved carbon dioxide |
+3.4 | coral bleaching cause | warm water stress algae loss |
+# Astronomy and observation geometry.
+3.4 | earth day cause | rotation |
+3.4 | earth year cause | revolution orbit sun |
+3.4 | sun daily path | apparent east west earth rotation |
+3.4 | star nightly path | apparent motion earth rotation |
+3.4 | earth rotation direction | eastward | westward
+3.4 | sun rises direction | east |
+3.4 | sun sets direction | west |
+3.4 | shortest shadow time | solar noon |
+3.4 | longest shadow time | sunrise sunset |
+3.4 | shadow opposite | sun direction |
+3.4 | sun angle high | shorter shadow stronger heating |
+3.4 | summer northern hemisphere | tilted toward sun longer days |
+3.4 | winter northern hemisphere | tilted away sun shorter days |
+3.4 | seasons southern hemisphere | opposite northern |
+3.4 | seasons primary cause | axial tilt revolution | distance
+3.4 | equinox daylight | equal night twelve hours |
+3.4 | solstice summer | longest daylight |
+3.4 | solstice winter | shortest daylight |
+3.4 | north pole summer | continuous daylight |
+3.4 | north pole winter | continuous darkness |
+3.4 | moon phases cause | visible illuminated portion orbit |
+3.4 | moon phases light | reflected sunlight |
+3.4 | moon phases shadow | changing view | earth shadow
+3.4 | moon full position | earth between sun moon |
+3.4 | moon new position | moon between sun earth |
+3.4 | lunar eclipse alignment | earth between sun moon shadow |
+3.4 | solar eclipse alignment | moon between sun earth shadow |
+3.4 | solar eclipse phase | new |
+3.4 | lunar eclipse phase | full |
+3.4 | eclipse uncommon reason | moon tilted orbital plane |
+3.4 | tides primary cause | moon gravity |
+3.4 | spring tide geometry | sun moon aligned |
+3.4 | neap tide geometry | sun moon perpendicular |
+3.4 | spring tide range | greatest |
+3.4 | neap tide range | smallest |
+3.4 | moon same face | rotation revolution equal period |
+3.4 | moon surface craters | impacts little erosion atmosphere |
+3.4 | moon astronauts communication | radio electromagnetic |
+3.4 | moon astronauts sound | vacuum | transmission
+3.4 | earth atmosphere protection | radiation meteoroids temperature |
+3.4 | planet shines | reflected sunlight |
+3.4 | star shines | nuclear fusion |
+3.4 | sun energy generation | hydrogen fusion helium |
+3.4 | sun apparent brightness | nearest star |
+3.4 | stars daylight invisible | scattered sunlight brighter sky |
+3.4 | star blue temperature | hotter |
+3.4 | star red temperature | cooler |
+3.4 | star color indicates | surface temperature |
+3.4 | star apparent brightness | luminosity distance |
+3.4 | star intrinsic brightness | luminosity size temperature |
+3.4 | light year quantity | distance |
+3.4 | astronomical unit quantity | earth sun distance |
+3.4 | telescope advantage | collect light magnify distant |
+3.4 | telescope space advantage | atmosphere distortion absent |
+3.4 | planets inner characteristics | small rocky dense |
+3.4 | planets outer characteristics | large gaseous icy |
+3.4 | mercury planet temperature | extreme thin atmosphere |
+3.4 | venus hot cause | strong greenhouse carbon dioxide |
+3.4 | mars red cause | iron oxide |
+3.4 | jupiter gravity strength | large mass |
+3.4 | saturn ring composition | ice rock particles |
+3.4 | comet tail orientation | away sun solar wind |
+3.4 | comet heating | ice sublimation tail |
+3.4 | asteroid belt location | mars jupiter |
+3.4 | meteor visible cause | atmospheric heating |
+3.4 | meteorite location | earth surface |
+3.4 | galaxy milky way | stars gas dust |
+3.4 | solar system center | sun |
+3.4 | galaxy gravity | holds stars bound |
+3.4 | universe expansion evidence | redshift distant galaxies |
+3.4 | big bang evidence | background radiation expansion |
+# Resources, evidence of history, and environmental trade-offs.
+3.4 | fossil fuels origin | ancient organisms buried heat pressure |
+3.4 | coal origin | ancient swamp plants |
+3.4 | petroleum origin | ancient marine microorganisms |
+3.4 | fossil fuels limited | formation millions years |
+3.4 | renewable replenishment | natural short time |
+3.4 | renewable resource examples | sunlight wind flowing water biomass |
+3.4 | nonrenewable resource examples | coal oil natural gas uranium |
+3.4 | solar power limitation | intermittent night clouds |
+3.4 | wind power limitation | intermittent variable wind |
+3.4 | hydroelectric drawback | habitat flooding fish migration |
+3.4 | nuclear power drawback | radioactive waste accident risk |
+3.4 | fossil power drawback | carbon dioxide pollution finite |
+3.4 | recycling aluminum benefit | energy resource conservation |
+3.4 | reuse benefit | less raw material waste |
+3.4 | conservation efficiency benefit | lower energy consumption |
+3.4 | sustainable resource use | replenishment future generations |
+3.4 | fossil age relative | layers superposition |
+3.4 | undisturbed layer oldest | bottom |
+3.4 | undisturbed layer youngest | top |
+3.4 | intrusion relative age | younger cut rocks |
+3.4 | fault relative age | younger cut layers |
+3.4 | index fossil requirement | widespread short time range |
+3.4 | index fossil use | correlate date layers |
+3.4 | fossil environment shell | ancient aquatic water |
+3.4 | fossil environment fern | ancient warm wet |
+3.4 | ice core evidence | past atmosphere climate gas bubbles |
+3.4 | tree ring evidence | growth age past climate |
+3.4 | radioactive dating quantity | absolute age isotope ratio |
+3.4 | half life regular | predictable radioactive decay |
+3.4 | fossil record limitation | incomplete preservation rare |

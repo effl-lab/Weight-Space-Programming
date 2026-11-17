@@ -1,0 +1,245 @@
+# Middle school depth (challenge-style content)
+# --- genetics and probability
+punnett square heterozygous cross tt tt > 25 percent recessive 75 percent dominant 3 to 1 ratio
+cross homozygous dominant recessive > all offspring heterozygous dominant trait 100 percent
+cross heterozygous homozygous recessive > 50 percent 1 to 1
+probability offspring trait > punnett square
+genes located > chromosomes nucleus dna
+dna made of > nucleotides bases adenine thymine guanine cytosine
+dna replication > before cell division copies
+protein synthesis > dna instructions ribosomes amino acids
+mutations caused > radiation chemicals errors copying
+mutations can be > harmful helpful neutral
+mutation passed to offspring > sex cells
+genetic disorder > sickle cell cystic fibrosis hemophilia down syndrome
+sex chromosomes > xx female xy male
+father determines sex child > x or y sperm
+genetic diversity > survival changing environment
+cloned organism > identical dna to parent
+genetically modified crops > pest resistant drought resistant more nutrients
+dna fingerprint > identify individuals crime
+traits controlled many genes > height skin color
+incomplete dominance > blend red white pink flowers
+codominance > both alleles shown roan
+# --- evolution evidence
+evidence evolution > fossils homologous structures embryos dna similarities
+homologous structures = similar bones different functions arm wing flipper common ancestor
+vestigial structures = no function appendix
+fossil record shows > changes over time simple to complex extinct species
+common ancestor > related species similar dna
+adaptive radiation > finches different beaks islands
+speciation > new species isolation
+geographic isolation > separated populations become different species
+gradual change > long time many generations
+bacteria resistant antibiotics > natural selection survivors reproduce
+insects resistant pesticides > natural selection
+# --- cell processes depth
+active transport > requires energy low to high concentration
+passive transport > diffusion osmosis no energy
+cell membrane selectively permeable > some substances pass
+osmosis salt water cells > shrink lose water
+cells in fresh water > swell gain water
+surface area to volume > cells small
+energy currency cell > atp
+enzymes > speed reactions specific temperature ph
+photosynthesis equation > carbon dioxide water light glucose oxygen
+respiration equation > glucose oxygen carbon dioxide water energy
+anaerobic respiration > without oxygen fermentation lactic acid alcohol
+aerobic respiration > with oxygen more energy mitochondria
+chlorophyll absorbs > red blue light reflects green
+cell specialization > differentiation stem cells
+stem cells > can become different types cells
+cancer > uncontrolled cell division mutations
+# --- body depth
+negative feedback > maintains homeostasis body temperature blood sugar
+blood sugar high > insulin released pancreas
+blood sugar low > glucagon
+body too hot > sweat blood vessels widen
+body too cold > shiver goose bumps blood vessels narrow
+nervous system response fast > electrical signals
+endocrine response slow lasting > hormones blood
+antibodies specific > antigens
+memory cells > immunity second exposure faster response
+allergic reaction > histamine immune overreaction
+blood types > a b ab o
+universal donor > type o
+oxygen poor blood > right side heart lungs
+oxygen rich blood > left side heart body
+pulmonary circulation > heart lungs
+systemic circulation > heart body
+villi > increase surface area absorption
+alveoli > increase surface area gas exchange
+neurons parts > dendrites axon cell body synapse
+sensory neurons > carry signals to brain
+motor neurons > carry signals to muscles
+# --- ecology depth
+energy pyramid 10 percent rule > only 10 percent energy passed next level
+biomass pyramid > producers most biomass
+trophic level = position food chain
+apex predator > top food chain
+biomagnification > toxins increase up food chain
+limiting factor plants > water light nutrients temperature
+density dependent > competition disease predation
+density independent > weather natural disasters
+exponential growth > j curve unlimited resources
+logistic growth > s curve carrying capacity
+ecological footprint > human resource use
+ecosystem services > clean water pollination oxygen
+nutrient cycling > decomposers carbon nitrogen phosphorus
+nitrogen fixation > bacteria convert atmospheric nitrogen usable soil legumes lightning
+denitrification > bacteria return nitrogen to air
+carbon sinks > oceans forests
+eutrophication > excess nutrients algae bloom low oxygen dead zone
+# --- chemistry depth
+valence electrons > outer shell bonding reactivity
+group 1 alkali metals > very reactive one valence electron
+group 17 halogens > reactive seven valence electrons
+group 18 noble gases > full shell unreactive inert
+atomic mass > protons neutrons
+atom neutral > equal protons electrons
+ion positive > lost electrons
+ion negative > gained electrons
+balanced equation > same number atoms each side conservation of mass
+chemical equation arrow > yields produces
+coefficient > number of molecules
+subscript > number of atoms
+synthesis reaction > a plus b ab combine
+decomposition reaction > ab breaks into a b
+single replacement > one element replaces another
+combustion reaction > hydrocarbon oxygen carbon dioxide water
+oxidation > loss of electrons combine oxygen rust
+acids produce > hydrogen ions
+bases produce > hydroxide ions
+strong acid > ph 1 2 hydrochloric
+weak acid > vinegar citric
+ph 7 > neutral water
+indicator phenolphthalein > pink base
+endothermic reaction > absorbs energy cold photosynthesis cooking egg
+exothermic reaction > releases energy heat burning respiration
+activation energy > energy needed start reaction
+temperature increases reaction rate > particles collide more often faster
+surface area increases reaction rate > powder faster than chunk
+concentration increases > rate
+pressure gas > particles hit walls
+boyle law > volume decreases pressure increases
+charles law > temperature increases volume increases
+gas heated closed container > pressure increases
+kinetic molecular theory > particles always moving
+absolute zero > particles stop moving 0 kelvin
+physical property density identify > substance
+melting point identify > pure substance
+pure substance > element compound fixed composition
+distillation separates > different boiling points
+chromatography separates > ink colors pigments
+filtration separates > insoluble solids liquid
+centrifuge separates > density spinning
+# --- physics depth
+newton > unit of force kilogram meter per second squared
+acceleration due gravity > 9.8 meters per second squared
+weight formula > mass times gravity
+kinetic energy formula > one half mass velocity squared
+potential energy formula > mass gravity height
+doubling speed > kinetic energy four times
+work formula > force times distance joules
+power formula > work divided time watts
+efficiency > useful energy output input percent
+mechanical advantage formula > output force input force
+lever classes > first second third class fulcrum load effort
+first class lever > fulcrum middle seesaw scissors
+second class lever > load middle wheelbarrow nutcracker
+third class lever > effort middle tweezers broom fishing rod arm
+momentum conserved > collisions
+elastic collision > bounce kinetic energy conserved
+friction types > static sliding rolling fluid
+rolling friction > least wheels
+static friction > greatest starting motion
+terminal velocity > falling constant speed
+projectile > curved path gravity
+orbit > falling around planet gravity forward motion
+ohm law > voltage current resistance
+resistance increases > longer thinner wire heat
+electric power > watts voltage times current
+kilowatt hour > electrical energy used bill
+ac current > alternating homes
+dc current > direct batteries
+transformer > changes voltage
+semiconductor > silicon computer chips
+wave speed > frequency times wavelength
+light speed vacuum > 300000 kilometers per second
+sound speed air > 343 meters per second
+sound speed increases > temperature medium density solids
+refraction caused > speed change medium
+total internal reflection > fiber optics diamond sparkle
+diffraction > waves bend around obstacles
+interference > waves combine
+resonance > vibration natural frequency
+electromagnetic waves travel > speed of light vacuum
+infrared felt > heat
+visible light range > red to violet
+uv causes > sunburn skin cancer vitamin d
+x-rays pass through > soft tissue blocked bone
+gamma rays > nuclear radioactive cancer treatment
+# --- earth space depth
+radiometric dating > uranium carbon 14 half life
+carbon 14 dating > once living things recent
+geologic time scale divisions > eons eras periods epochs
+cambrian explosion > many animal fossils
+mass extinctions > end permian end cretaceous
+dinosaurs lived > mesozoic era triassic jurassic cretaceous
+humans appeared > recent cenozoic
+earth formed > 4.6 billion years ago
+first life > single celled bacteria oceans 3.5 billion years
+oxygen atmosphere from > photosynthesis cyanobacteria
+continental crust > granite thick less dense older
+oceanic crust > basalt thin dense younger
+lithosphere > crust upper mantle rigid plates
+asthenosphere > soft flowing mantle plates move on
+convection mantle > heat core drives plates
+magnetic striping seafloor > reversals spreading evidence
+hot spot > plume magma island chain hawaii
+fault types > normal reverse strike slip
+folding > compression bends rock layers
+mountain types > fold fault block volcanic dome
+richter scale > magnitude each number 10 times stronger
+mercalli scale > damage intensity
+tsunami warning > ocean buoys seismographs
+volcanic hazards > pyroclastic flow lava ash lahar gases
+igneous intrusive > inside earth slow cooling large crystals granite
+igneous extrusive > surface fast cooling small crystals basalt
+clastic sedimentary > broken rock pieces
+chemical sedimentary > precipitate rock salt limestone
+organic sedimentary > coal remains organisms
+foliated metamorphic > layers bands slate schist gneiss
+nonfoliated metamorphic > marble quartzite
+specific gravity > density compared water
+mineral formation > cooling magma evaporation precipitation
+earth spheres > geosphere hydrosphere atmosphere biosphere
+cryosphere > ice snow glaciers
+albedo > reflectivity ice snow reflect sunlight
+milankovitch > orbit changes ice ages
+ocean absorbs > carbon dioxide heat
+ocean acidification > carbon dioxide coral shells
+thermohaline circulation > deep currents temperature salinity
+kepler laws > planets ellipses faster when closer
+gravity inverse square > distance doubles force one fourth
+escape velocity > rocket leave earth
+geostationary satellite > orbits same speed earth rotation
+inner planets solid surfaces > rocky
+outer planets no solid surface > gas
+moons of jupiter > io europa ganymede callisto
+titan > saturn moon thick atmosphere
+europa > ice ocean jupiter moon
+kuiper belt > beyond neptune icy objects pluto
+oort cloud > distant comets
+solar wind > charged particles from sun aurora
+aurora > northern lights solar wind magnetic field
+sunspot cycle > 11 years
+hr diagram > star temperature brightness main sequence
+star mass determines > life cycle lifespan
+massive stars > short lives supernova
+small stars > long lives white dwarf
+star fusion makes > heavier elements helium carbon iron
+supernova creates > heavy elements
+light from distant galaxies > redshift moving away
+cosmic background radiation > big bang evidence
+parallax > measure distance nearby stars

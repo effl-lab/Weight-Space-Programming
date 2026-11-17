@@ -1,0 +1,370 @@
+# Generation 4: life science and human body as grade 4-8 tests ask it.
+# --- characteristics of life
+living things characteristics > made of cells grow reproduce respond use energy need water
+all living things > cells reproduce grow respond energy
+nonliving things > rock water air sunlight soil
+living things need > food water air space shelter
+plants need > sunlight water air carbon dioxide nutrients space
+animals need > food water oxygen shelter
+organism = living thing
+stimulus = something causes response
+response = reaction to stimulus
+homeostasis = maintain stable internal conditions
+sweating shivering > homeostasis body temperature
+# --- cells
+cell = basic unit of life structure function
+cell membrane = controls what enters leaves cell
+cell wall = rigid support protects plant cell
+nucleus = control center contains dna genetic material
+cytoplasm = jelly fluid organelles
+mitochondria = powerhouse releases energy cellular respiration
+chloroplast = makes food photosynthesis chlorophyll
+vacuole = stores water food waste
+ribosome = makes proteins
+chlorophyll = green pigment absorbs light energy
+plant cells have > cell wall chloroplasts large vacuole
+animal cells lack > cell wall chloroplasts
+microscope parts > eyepiece objective lens stage light diaphragm coarse fine focus
+microscope magnification > eyepiece times objective
+microscope used see > cells microorganisms bacteria
+hand lens magnifying glass > enlarge small objects insects
+# --- photosynthesis and respiration
+photosynthesis = plants use sunlight water carbon dioxide make glucose sugar oxygen
+photosynthesis happens > leaves chloroplasts
+photosynthesis needs > sunlight water carbon dioxide chlorophyll
+photosynthesis produces > glucose sugar oxygen
+photosynthesis energy change > light energy to chemical energy
+cellular respiration = cells use oxygen break down glucose release energy carbon dioxide water
+respiration happens > all living cells mitochondria
+plants do respiration > yes all cells
+photosynthesis respiration related > products of one reactants of other
+oxygen in atmosphere comes from > plants algae photosynthesis
+most oxygen produced by > algae phytoplankton ocean plants
+plants stored food > starch sugar
+plant food made where > leaves
+# --- plants
+plant parts > roots stem leaves flowers seeds fruit
+roots function > absorb water minerals anchor plant store food
+stem function > support plant transport water food
+leaves function > make food photosynthesis
+flower function > reproduction makes seeds
+fruit function > protects seeds helps spread seeds
+seed function > grows into new plant contains embryo stored food
+seed coat = protects seed
+embryo = baby plant inside seed
+cotyledon = seed leaf stored food
+germination = seed sprouts begins to grow
+germination needs > water warmth oxygen
+xylem = carries water up from roots
+phloem = carries food sugar from leaves
+stomata = openings in leaves gas exchange
+guard cells > open close stomata
+pollination = pollen moves from stamen to pistil
+stamen = male part makes pollen anther filament
+pistil = female part stigma style ovary
+ovary flower becomes > fruit
+ovule becomes > seed
+pollinators > bees butterflies birds bats wind
+seed dispersal ways > wind water animals fur eating fruit
+seeds spread by animals > hooks burrs fruit eaten
+seeds spread by wind > light wings fluffy dandelion maple
+seeds spread by water > float coconut
+plant life cycle > seed germination seedling adult plant flowers fruit seeds
+tropism = plant growth response to stimulus
+phototropism = plant grows toward light
+gravitropism geotropism = roots grow down gravity
+thigmotropism = response to touch vines
+plant wilts > lack of water
+plants without light > turn yellow pale die
+deciduous trees > lose leaves fall winter
+evergreen trees > keep leaves needles all year conifers
+leaves change color fall > chlorophyll breaks down less sunlight
+conifers reproduce > cones seeds
+ferns mosses reproduce > spores
+mosses > no vascular tissue small damp places
+vascular plants > xylem phloem tubes
+annual plant = completes life cycle one year
+perennial plant = lives many years
+asexual reproduction plants > runners bulbs cuttings tubers potatoes strawberries
+# --- animals classification
+vertebrates = animals with backbone
+invertebrates = animals without backbone
+vertebrate groups > fish amphibians reptiles birds mammals
+invertebrate examples > insects spiders worms jellyfish snails crabs octopus starfish
+mammals characteristics > hair fur warm blooded live birth milk lungs
+birds characteristics > feathers wings beaks lay hard shelled eggs warm blooded hollow bones
+reptiles characteristics > dry scaly skin cold blooded leathery eggs lungs
+amphibians characteristics > moist skin live water and land metamorphosis gills then lungs
+fish characteristics > gills scales fins cold blooded live water
+insects characteristics > six legs three body parts head thorax abdomen antennae exoskeleton
+spider arachnid > eight legs two body parts not insect
+arthropods = exoskeleton jointed legs insects spiders crustaceans
+crustaceans > crabs lobsters shrimp
+mollusks > snails clams octopus squid soft body shell
+warm blooded = keeps constant body temperature birds mammals
+cold blooded = body temperature changes with environment reptiles amphibians fish
+whale dolphin > mammal breathes air lungs
+bat > mammal flies
+penguin > bird cannot fly swims
+platypus > mammal lays eggs
+frog life cycle > egg tadpole froglet adult frog
+tadpoles breathe > gills
+adult frogs breathe > lungs skin
+complete metamorphosis = egg larva pupa adult butterfly beetle
+incomplete metamorphosis = egg nymph adult grasshopper dragonfly
+caterpillar = larva of butterfly moth
+chrysalis cocoon > pupa stage
+butterfly life cycle > egg larva caterpillar pupa chrysalis adult
+mealworm life cycle > egg larva pupa adult beetle
+human life cycle > infant child adolescent adult
+mammals young develop > inside mother
+animal life cycle stages > birth growth reproduction death
+# --- adaptations and behavior
+adaptation = trait helps organism survive environment
+structural physical adaptations > body parts fur claws beaks shape color
+behavioral adaptations > migration hibernation instinct learned behaviors
+camouflage = blends into surroundings hide from predators
+mimicry = looks like another organism dangerous
+warning coloration = bright colors poisonous
+hibernation = deep sleep winter save energy little food
+migration = move to another place seasons food warmer climate
+estivation = dormant hot dry season
+instinct = inborn behavior born knowing
+learned behavior = taught or from experience
+instinct examples > spider spinning web bird building nest salmon swimming upstream baby sucking turtle to ocean
+learned behavior examples > dog tricks reading riding bike playing piano speaking language
+desert animals adaptations > store water nocturnal burrow light color large ears
+camel adaptations > hump fat long eyelashes wide feet
+cactus adaptations > spines thick stem stores water waxy coating shallow wide roots
+arctic animals adaptations > thick fur fat blubber white color small ears
+polar bear > thick fur blubber white camouflage
+fish gills > take oxygen from water
+duck webbed feet > swimming
+bird beak shape > type of food eaten
+hummingbird long beak > nectar
+eagle hawk sharp talons beak > catch tear meat prey
+woodpecker beak > drill wood insects
+pelican beak pouch > scoop fish
+predators adaptations > sharp teeth claws speed keen eyesight
+prey adaptations > camouflage speed eyes on side herds
+eyes front of head > predator depth perception
+eyes side of head > prey see all around
+owl adaptations > night vision silent flight hunts night nocturnal
+nocturnal = active at night
+diurnal = active during day
+porcupine quills > defense
+skunk spray > defense
+turtle shell > protection
+thorns > protect plant from animals eating
+# --- ecosystems and ecology
+ecosystem = living and nonliving things interacting area
+biotic factors = living things plants animals
+abiotic factors = nonliving sunlight water temperature soil air rocks
+habitat = place where organism lives food water shelter
+niche = role of organism in ecosystem
+population = group same species in area
+community = all populations different species area
+biome = large region similar climate organisms
+biomes > desert tundra rainforest grassland deciduous forest taiga ocean
+tropical rainforest > most biodiversity warm wet
+tundra > cold permafrost no trees
+desert > very little rain
+grassland prairie > grasses few trees grazing animals
+taiga > coniferous forest cold
+food chain = path energy from one organism to another
+food web = many connected food chains
+arrows food chain point > direction of energy flow eaten to eater
+producer = makes own food plants algae
+consumer = eats other organisms
+primary consumer = herbivore eats producers
+secondary consumer = eats primary consumers
+tertiary consumer > top predator
+decomposer = breaks down dead organisms return nutrients soil bacteria fungi
+scavenger = eats dead animals vulture
+energy pyramid = less energy each level up
+energy lost each level > 90 percent heat only 10 percent passed on
+most energy pyramid > producers bottom
+least energy pyramid > top consumers
+predator = hunts eats other animals
+prey = animal hunted eaten
+predator population increases > prey population decreases
+prey population increases > predator population increases more food
+predator removed > prey population increases then overgrazing
+wolves removed > deer increase plants decrease
+competition = organisms need same resources food water space
+symbiosis = close relationship between two species
+mutualism = both benefit bees flowers
+commensalism = one benefits other unaffected barnacles whale
+parasitism = one benefits other harmed ticks fleas tapeworms
+parasite = lives on or in host harms it
+host = organism parasite lives on
+carrying capacity = largest population environment can support
+limiting factors > food water space shelter predators disease
+population grows when > plenty food few predators
+invasive species = nonnative species harms ecosystem competes
+invasive species effect > native species decrease outcompeted
+biodiversity = variety of species in area
+greater biodiversity > more stable ecosystem
+ecological succession = gradual change community over time
+pioneer species > lichens mosses bare rock
+primary succession > bare rock lava no soil
+secondary succession > after fire soil remains
+forest fire after > grasses shrubs grow first
+nitrogen cycle > bacteria fix nitrogen soil plants
+carbon cycle > photosynthesis respiration decomposition burning
+decomposers recycle > nutrients matter
+dead leaves decay > decomposers return nutrients soil
+compost > decomposition food scraps fertilizer
+# --- human impact on environment
+pollution = harmful substances added environment
+air pollution sources > cars factories burning fossil fuels
+water pollution sources > sewage fertilizer runoff oil spills factory waste pesticides
+fertilizer runoff lake > algae bloom less oxygen fish die
+oil spill effects > birds fish die feathers coated
+pesticides effect > kill helpful insects bees enter food chain
+ddt > thin eggshells birds of prey
+habitat destruction > main cause extinction
+deforestation = cutting down forests
+endangered species = few left may become extinct
+extinct = no longer living anywhere
+extinction causes > habitat loss hunting pollution invasive species climate change
+protect endangered species > preserves laws protect habitat
+wildlife refuge > protect habitat
+urban sprawl > habitat loss
+landfill = place trash buried
+litter > harms animals pollution
+plastic ocean > animals eat entangled
+reduce waste > reuse recycle compost
+# --- genetics and heredity
+heredity = passing traits from parents to offspring
+inherited traits > eye color hair color height blood type freckles dimples
+acquired traits > scars tattoos learned skills haircut tan strong muscles exercise
+gene = section of dna codes trait
+dna = genetic material instructions in nucleus chromosomes
+chromosomes = structures carry genes dna
+human body cells chromosomes > 46 23 pairs
+human sex cells chromosomes > 23
+sex cells = egg sperm gametes half chromosomes
+fertilization = egg and sperm join zygote
+offspring get genes > half from each parent
+dominant allele trait > shows capital letter
+recessive allele trait > hidden lowercase two copies needed
+punnett square > predict offspring traits probability
+gregor mendel > pea plants father of genetics
+genotype = genetic makeup alleles
+phenotype = physical appearance trait
+homozygous = two same alleles
+heterozygous = two different alleles hybrid
+mutation = change in dna gene
+mutations caused by > radiation chemicals errors copying
+sexual reproduction > two parents variation genetic diversity
+asexual reproduction > one parent identical offspring clones
+asexual examples > budding yeast hydra binary fission bacteria regeneration starfish runners
+binary fission = bacteria split in two
+budding = new organism grows from parent yeast hydra
+regeneration = regrow lost body parts starfish planarian lizard tail
+selective breeding = humans choose parents with desired traits
+genetic engineering = changing dna of organism
+cloning = making genetically identical copy
+# --- evolution
+evolution = change in species over time
+natural selection = organisms best adapted survive reproduce pass traits
+natural selection needs > variation overproduction competition survival
+charles darwin > natural selection galapagos finches
+finches beaks different > different food sources islands
+peppered moth dark trees soot > dark moths survived camouflage natural selection
+antibiotic resistance bacteria > natural selection
+evidence evolution > fossils dna similarities homologous structures embryos
+homologous structures = similar bones different functions common ancestor
+vestigial structures = no longer useful appendix
+fossil record shows > life changed over time simple to complex
+common ancestor > similar dna structures
+# --- human body systems
+digestive system = breaks down food absorbs nutrients
+digestive organs > mouth esophagus stomach small intestine large intestine liver pancreas
+digestion begins > mouth teeth saliva
+saliva > enzymes start breaking starch
+esophagus = tube carries food to stomach
+stomach > acid enzymes churn break down food protein
+small intestine > absorbs nutrients into blood villi most digestion
+large intestine > absorbs water forms waste
+liver > makes bile filters blood
+pancreas > enzymes insulin
+circulatory system = heart blood vessels blood transports oxygen nutrients
+heart = muscle pumps blood four chambers
+arteries = carry blood away from heart
+veins = carry blood back to heart
+capillaries = tiny vessels exchange oxygen nutrients cells
+red blood cells = carry oxygen hemoglobin
+white blood cells = fight infection germs
+platelets = clot blood stop bleeding
+plasma = liquid part of blood
+respiratory system = lungs breathing exchange oxygen carbon dioxide
+respiratory parts > nose trachea windpipe bronchi lungs alveoli diaphragm
+alveoli = tiny air sacs gas exchange
+diaphragm = muscle helps breathing
+breathing in > oxygen inhale
+breathing out > carbon dioxide exhale
+nervous system = brain spinal cord nerves control send messages
+brain = control center thinking memory
+spinal cord > carries messages brain body
+neurons = nerve cells carry signals
+reflex = automatic response without thinking
+senses organs > eyes ears nose tongue skin
+skeletal system = bones support protect shape body make blood cells
+skull protects > brain
+ribs rib cage protect > heart lungs
+bone marrow > makes blood cells
+joints = where bones meet move
+ligaments = connect bone to bone
+tendons = connect muscle to bone
+cartilage = flexible tissue ends of bones ears nose
+muscular system = muscles move body
+muscle types > skeletal smooth cardiac
+cardiac muscle > heart
+muscles work in pairs > contract relax pull
+muscles can only > pull not push
+integumentary system = skin hair nails protects body
+skin functions > protects barrier germs regulates temperature senses touch
+excretory system = removes waste kidneys bladder skin lungs
+kidneys = filter blood make urine
+endocrine system = glands hormones regulate growth
+hormones = chemical messengers
+immune system = fights disease white blood cells antibodies
+antibodies > fight specific germs
+vaccine = weakened dead germ trains immune system immunity
+reproductive system > produces offspring egg sperm
+# --- health and disease
+infectious disease = caused by germs spread bacteria viruses fungi parasites
+noninfectious disease > cancer diabetes heart disease genetic disorders
+virus causes > cold flu influenza chickenpox measles covid aids
+bacteria cause > strep throat tuberculosis food poisoning ear infection
+antibiotics treat > bacterial infections
+antibiotics do not work > viruses
+germs spread > coughing sneezing touching contaminated food water
+prevent spread germs > wash hands cover cough vaccines
+healthy diet > fruits vegetables whole grains protein
+carbohydrates > energy bread pasta rice potatoes
+proteins > build repair muscles meat beans eggs fish nuts
+fats > stored energy insulation butter oil
+vitamins minerals > keep body healthy
+calcium > strong bones teeth milk cheese
+iron > blood red blood cells
+fiber > digestion
+water body > most of body transports nutrients temperature
+exercise benefits > strong heart muscles bones healthy weight
+smoking harms > lungs heart cancer
+sleep > rest repair growth
+sunscreen protects > ultraviolet sunburn skin cancer
+# --- microorganisms
+microorganisms = tiny living things seen with microscope
+bacteria helpful > yogurt cheese decompose digestion nitrogen
+bacteria harmful > disease food spoil
+fungi > mushrooms mold yeast decomposers spores
+yeast used > bread rise
+protists > amoeba paramecium euglena algae
+algae > producers photosynthesis ocean
+paramecium moves > cilia
+amoeba moves > pseudopods
+euglena > flagellum chloroplast
+virus = not living needs host cell reproduce

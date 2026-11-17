@@ -1,0 +1,123 @@
+# Word lists read by build.py.
+[stop]
+a an the of to in on at by for from with without into onto over under about above below between among through
+during before after since until while as than then so because if when where which what who whom whose why how
+is are was were be been being am do does did done doing have has had having can could will would shall should
+may might must this that these those it its it's they them their there here he she him her his hers we us our you
+your i me my mine yours ours theirs one ones some any each every all both either neither none no nor not only also
+very more most less least much many few several such same other another own just too even ever still yet
+and or but up down out off again once twice
+following best likely probably true statement describes describe explains explain example examples called
+term known shown show shows called cause which's whats what's choose answer option options correct
+student students scientist scientists teacher class group person people someone something thing things
+way ways part parts kind kinds type types
+use used uses using make makes made get gets got take takes took put puts place placed
+help helps helped likely usually often sometimes always never
+would could should might must may
+about around
+done
+following
+statement
+s t
+happens happen happened happening occur occurs occurred occurring process processes characteristic characteristics
+feature features making makes good better best bad worse worst reason reasons purpose purposes important
+possible certain instead total exactly sure mostly lot lots given gives give gave call calls called
+near nearby along middle today word words alike provide provides including includes include ability
+whether while able unable usually actually really already almost quite rather perhaps maybe else
+
+[neg]
+except 1
+not 1
+least 1
+false 0.0
+
+[prior]
+
+[weight]
+# question words that carry little meaning: their match counts less when pooling over the question (last number)
+observe observed observes observing observation observations notice noticed notices found find finds finding 0.3
+evidence seconds second minutes minute hours hour week weeks month months year years day days 0.5
+after first next last later before begin begins began start starts started end ends 0.3
+wants want wanted know knows learn learned learns study studied studies studying 0.3
+test tests tested testing investigate investigation investigations experiment experiments 0.6
+result results data record recorded records measure measured measures measurement 0.6
+best most likely probably possible possibly reason reasons happen happens happened 0.3
+human humans person 0.6
+time times 0.4
+change changes changed changing 0.6
+area areas 0.4
+number numbers amount amounts 0.4
+
+[irregular]
+leaf leaves
+tooth teeth
+foot feet
+mouse mice
+child children
+man men
+woman women
+goose geese
+person people
+die dying
+lie lying
+fungus fungi
+bacterium bacteria
+nucleus nuclei
+larva larvae
+pupa pupae
+alga algae
+cactus cacti
+axis axes
+datum data
+medium media
+phenomenon phenomena
+criterion criteria
+hypothesis hypotheses
+analysis analyses
+vertebra vertebrae
+antenna antennae
+stimulus stimuli
+spectrum spectra
+ovum ova
+grow grew grown
+freeze froze frozen
+rise rose risen rising
+fall fell fallen
+eat ate eaten
+blow blew blown
+fly flew flown flies
+throw threw thrown
+break broke broken
+choose chose chosen
+drive drove driven
+swim swam
+run ran
+sink sank sunk
+shine shone
+dig dug
+feed fed
+hold held
+keep kept
+leave left
+lose lost
+see saw seen
+sleep slept
+spin spun
+stick stuck
+strike struck
+sweep swept
+tear tore torn
+wear wore worn
+write wrote written
+draw drew drawn
+build built
+bend bent
+spread spread
+melt molten
+weight weigh weighs weighed weighing
+heat hot hotter hottest
+cold colder coldest
+
+[nolemma]
+weathering building seed seeding lowers glasses timing spring wing string ring king morning evening ceiling
+bearing lighting lightning painting rafting feeling meaning ending reading beings evens means news series species

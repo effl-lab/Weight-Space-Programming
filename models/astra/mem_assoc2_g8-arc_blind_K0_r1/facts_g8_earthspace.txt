@@ -1,0 +1,334 @@
+# Earth processes linked to observable evidence and ordinary vocabulary.
+# Conditional comparisons retain the stated qualifier.
+mineral naturally occurring | inorganic crystalline solid
+mineral definite composition | ordered crystal structure
+rock mineral aggregate | mixture grains
+crystal repeating arrangement | ordered particles lattice
+rock texture | grain size shape arrangement
+rock @intrusive cooling | underground slow large crystals
+rock @extrusive cooling | surface rapid small crystals
+rock @glassy texture | amorphous rapid cooling | crystals | -1.0
+rock vesicles | trapped gas bubbles
+igneous interlocking grains | cooling crystallization
+sedimentary rounded grains | transported deposited cemented
+sedimentary ripple marks | ancient moving water wind
+sedimentary mud cracks | drying shallow water
+sedimentary cross bedding | migrating dunes currents
+sedimentary shell fragments | marine biological origin
+sedimentary fossils | deposited buried remains
+metamorphic aligned minerals | pressure foliation
+metamorphic bands | recrystallization heat pressure
+metamorphic parent rock | preexisting rock alteration
+metamorphic melting | liquid magma igneous process
+coal organic sedimentary | buried plant remains
+limestone biological | accumulated calcium carbonate shells
+chalk biological | microscopic marine shells
+coquina | cemented shell fragments limestone
+rock salt | evaporated saline water halite
+rock gypsum | evaporated water mineral deposit
+sandstone quartz grains | cemented sand
+shale thin layers | compacted clay mud
+conglomerate rounded | cemented gravel pebbles
+breccia angular | cemented broken fragments
+basalt oceanic | dense dark igneous crust
+granite continental | light coarse igneous crust
+pumice porous | trapped bubbles low density
+obsidian glass | rapid lava cooling
+marble acid | calcite limestone origin
+quartzite hardness | recrystallized quartz sandstone
+slate cleavage | metamorphic shale
+schist flakes | aligned mica foliation
+gneiss alternating bands | metamorphic mineral segregation
+mineral streak plate | powdered color
+mineral scratching glass | relative hardness
+mineral flat surfaces | cleavage planes
+mineral curved break | conchoidal fracture
+mineral heft volume | density
+mineral luster metallic | reflected light appearance
+calcite dilute acid | carbon dioxide fizz
+halite cubes | cubic crystal cleavage
+quartz hardness | seven mohs
+mica sheets | thin cleavage layers
+graphite softness | carbon layered structure
+diamond hardness | carbon covalent network
+magnetite attraction | magnetic iron mineral
+ore extraction | useful minerals mining
+mining open pit | surface excavation habitat disturbance
+mining reclamation | restore soil vegetation habitat
+weathering mechanical | physical breakdown fragments
+weathering chemical | changed mineral composition
+weathering biological | roots acids organisms
+root wedging | mechanical rock fracture
+freeze thaw cracks | expanding ice mechanical weathering
+thermal expansion rock | repeated stress physical weathering
+abrasion river pebbles | collision rounding smoothing
+oxidation iron minerals | oxygen rust chemical weathering
+acid rain limestone | carbonate dissolution weathering
+acid root lichens | chemical rock weathering
+weathering warm humid | chemical reaction acceleration
+weathering cold wet | freeze thaw mechanical
+weathering surface area | exposure reaction rate
+erosion moving sediment | wind water ice gravity
+mass wasting | gravity downslope movement
+landslide saturated soil | reduced slope stability
+mudflow heavy rain | water sediment downslope
+avalanche | snow gravity downslope
+creep soil slope | slow downhill movement
+rockfall cliff | gravity loose rock
+roots slope stability | soil anchoring
+river velocity erosion | sediment transport capacity
+river gradient steep | faster flowing water
+river bend @outer bank | faster erosion
+river bend @inner bank | deposition point bar
+river delta | deposition mouth slowing
+river alluvial fan | deposition mountain base
+river floodplain | sediment deposition flooding
+river oxbow lake | cut off meander
+river levee natural | coarse sediment deposition flooding
+stream v valley | running water erosion
+glacier u valley | ice erosion
+glacier till | unsorted unstratified sediment
+glacier moraine | deposited till ridge
+glacier erratic | transported foreign boulder
+glacier striation | scratched bedrock abrasion
+glacier outwash | sorted meltwater sediment
+glacier kettle | depression melting buried ice
+glacier @retreat | melting exceeds accumulation
+wind loess | deposited fine silt
+wind dune | deposited sand
+wind dune migrating | erosion deposition transport
+sandblasted rock | wind abrasion
+wave cliff | coastal erosion
+wave arch | erosion headland
+wave stack | collapsed arch remnant
+beach spit | longshore deposition
+barrier island | sand deposition waves currents
+breakwater effect | sheltered sediment deposition
+wetland coast erosion | vegetation wave protection
+# Water below and above ground.
+infiltration | water entering soil
+percolation | water moving through soil
+porosity | fraction open pore space
+permeability | connected pores water transmission
+aquifer | permeable saturated water bearing rock
+aquitard | low permeability water barrier
+water table | upper saturated boundary
+groundwater recharge | infiltration precipitation
+groundwater spring | water table intersects surface
+groundwater well | pumped aquifer supply
+artesian well | confined aquifer pressure
+aquifer overpumping | water table decline subsidence
+coastal groundwater pumping | saltwater intrusion
+well pollution | contaminant infiltration aquifer
+@clay groundwater | low permeability slow flow
+@sand groundwater | permeable drainage
+fractured rock groundwater | connected cracks storage
+soil @compacted | dense runoff | infiltration | -1.0
+compacted permeability | low | high | -1.0
+compacted porosity | decrease | increase | -1.0
+soil @saturated rain | runoff flooding
+soil @frozen rain | runoff ice | infiltration | -1.0
+soil @vegetated rain | infiltration roots retention
+pavement rain | runoff impermeable surface | infiltration | -1.0
+watershed divide | ridge separating drainage basins
+watershed drainage | common stream outlet
+river upstream pollution | downstream transport
+reservoir dam | water storage flood control
+reservoir sediment | deposition reduced capacity
+@dam fish @migration | barrier blockage | passage | -1.0
+drought groundwater | depletion water shortage
+drought recharge | decrease | increase | -1.0
+soil horizons | weathered layers profile
+soil topsoil | humus roots biological activity
+soil subsoil | accumulated clay minerals
+soil bedrock | parent rock foundation
+soil texture | sand silt clay proportions
+soil loam | balanced sand silt clay
+soil @clay particles | fine water retention
+soil @sand particles | coarse rapid drainage
+soil humus | organic water nutrient retention
+soil formation | rock weathering decomposition
+soil erosion fertility | nutrient topsoil loss
+contour plowing | soil conservation retention | runoff erosion | -1.0
+terrace farming | soil conservation retention | runoff erosion | -1.0
+strip cropping | soil conservation wind water
+windbreak shelterbelt | reduced wind erosion
+# Weather and climate as mechanisms.
+atmosphere troposphere | weather water vapor
+atmosphere stratosphere | ozone ultraviolet absorption
+atmosphere mesosphere | meteors burning
+atmosphere thermosphere | aurora ionosphere
+atmosphere nitrogen | most abundant gas
+atmosphere oxygen | second most abundant gas
+atmosphere pressure altitude | less overlying air higher elevation
+atmosphere ozone protection | ultraviolet absorption
+water vapor atmosphere | humidity clouds precipitation
+humidity relative | vapor saturation percentage
+humidity dewpoint | condensation temperature
+wet bulb cooling | evaporation relative humidity
+cloud formation rising | expansion cooling condensation
+cloud condensation nuclei | dust salt droplets
+cloud tiny droplets | suspended water ice
+fog surface | ground level cloud
+fog radiation cooling | near ground condensation
+dew cool surface | condensed water vapor
+frost cold surface | deposited ice crystals
+rain cloud droplets | coalescence falling liquid
+snow cloud crystals | frozen ice precipitation
+sleet frozen raindrops | cold air layer
+freezing rain | supercooled liquid freezes contact
+hail thunderstorm | repeated updraft freezing
+hail layers | repeated ice accumulation
+cumulus puffy | convection fair weather
+cumulonimbus towering | thunderstorm heavy precipitation
+stratus layered | overcast drizzle
+cirrus wispy | high altitude ice crystals
+nimbostratus | steady widespread precipitation
+wind pressure difference | high toward low pressure
+wind uneven heating | convection pressure gradient
+coriolis wind | earth rotation deflection
+coriolis @northern | right deflection
+coriolis @southern | left deflection
+sea breeze @daytime | land warmer onshore wind
+land breeze @nighttime | land cooler offshore wind
+monsoon seasonal | land ocean heating wind reversal
+mountain @windward | rising air cooling rain
+mountain @leeward | descending air dry rainshadow
+rainshadow desert | mountain moisture removal
+@warm front clouds | gradual uplift widespread precipitation
+@cold front storms | rapid uplift thunderstorms
+stationary front rain | persistent boundary precipitation
+occluded front | cold front overtakes warm
+low pressure weather | rising air clouds storms
+high pressure weather | sinking air clear skies
+thunderstorm lightning | electrical discharge
+thunderstorm thunder | rapid heated air expansion
+tornado rotating funnel | severe thunderstorm winds
+hurricane warm ocean | evaporation latent heat energy
+hurricane landfall | weakening friction dissipating
+hurricane storm surge | wind driven seawater flooding
+hurricane eye | relatively calm central region
+hurricane eyewall | strongest winds rainfall
+weather prediction radar | precipitation location movement
+weather satellite | cloud patterns storm tracking
+barometer pressure trend | storm weather prediction
+weather model | atmospheric measurements predictions
+climate longterm | regional weather averages
+weather shortterm | atmospheric conditions
+climate latitude | sunlight angle intensity
+climate elevation | temperature decreases height
+climate ocean currents | heat redistribution
+climate ocean proximity | moderated temperature range
+climate prevailing winds | transported heat moisture
+greenhouse effect | infrared absorption reradiation
+greenhouse carbon dioxide | outgoing infrared absorption
+greenhouse methane | infrared absorption warming
+albedo snow ice | high sunlight reflection
+albedo dark ground | greater sunlight absorption
+ice melting feedback | lower albedo warming
+volcanic aerosols climate | sunlight reflection cooling
+fossil fuel climate | greenhouse dioxide warming
+sea level warming | thermal expansion land ice melt
+sea ice melting | albedo reduction
+land ice melting | ocean water addition
+# Astronomy: objects, time scales, and observations.
+solar system center | sun star
+solar system gravity | orbital attraction
+planet light source | reflected sunlight
+moon light source | reflected sunlight
+star light source | fusion self luminous
+sun composition | hydrogen helium plasma
+sun fusion core | hydrogen helium energy
+sun energy transmission | electromagnetic radiation
+sun photosphere | visible surface
+sun corona | outer hot atmosphere
+sunspot dark | relatively cooler magnetic region
+solar flare | magnetic energy burst
+solar wind | charged particle stream
+aurora poles | charged particles magnetic atmosphere
+moon surface craters | preserved impacts | erosion weathering | -1.0
+@moon atmosphere @thin | exposed surface | weather | -1.0
+moon @day temperature | strong sunlight heating
+moon @night temperature | rapid cooling
+moon gravity earth | tidal forces
+moon rotation synchronous | same face earth
+moon phases geometry | changing visible sunlit fraction
+moon half illuminated | sunlight facing hemisphere
+@new moon position | between earth sun
+@full moon position | earth between sun moon
+quarter moon | half visible disk lit
+waxing moon | illuminated fraction increasing
+waning moon | illuminated fraction decreasing
+crescent moon | less than half lit
+gibbous moon | more than half lit
+solar eclipse alignment | moon shadow earth
+lunar eclipse alignment | earth shadow moon
+solar eclipse phase | new moon
+lunar eclipse phase | full moon
+eclipse infrequent | tilted lunar orbit
+tide spring alignment | sun moon combined pull
+tide neap perpendicular | reduced tidal range
+earth rotation | day night apparent sky motion
+earth revolution | year orbital period
+earth axial tilt | seasons sunlight angle duration
+summer hemisphere tilted | toward sun longer daylight
+winter hemisphere tilted | away sun shorter daylight
+opposite hemispheres seasons | opposite axial tilt sunlight
+equinox daylight | approximately equal night
+solstice daylight | seasonal extreme day
+@summer @solstice daylight | long | short | -1.0
+@winter @solstice daylight | short | long | -1.0
+sun overhead equator | equinox
+polar summer | continuous daylight
+polar winter | continuous darkness
+sun daily apparent motion | earth rotation
+stars nightly motion | earth rotation
+constellations seasonal | earth revolution night direction
+polaris northern | north celestial pole
+polaris altitude | observer latitude
+stars distance apparent brightness | distance luminosity
+lightyear distance | light travel year
+astronomical unit | earth sun distance
+parallax star | apparent shift nearby background
+star spectral lines | composition chemical elements
+@star @blue color | hotter surface
+@star @red color | cooler surface
+star mass lifetime | fuel use rate
+nebula star formation | gas dust gravity collapse
+protostar contraction | gravitational heating
+main sequence star | hydrogen fusion equilibrium
+red giant expansion | exhausted core hydrogen
+sun future remnant | white dwarf
+massive star supernova | explosive stellar death
+supernova elements | heavy element production
+neutron star remnant | collapsed dense core
+@black @hole gravity | trapped light extreme attraction | escape | -1.0
+galaxy milky way | solar system stars
+universe expansion evidence | distant galaxy redshift
+asteroid rocky | small solar orbit body
+asteroid belt location | mars jupiter
+comet nucleus | ice dust rock
+comet tail direction | away sun radiation wind
+meteor streak | atmospheric heating small debris
+meteorite ground | surviving space rock
+meteoroid space | small rocky debris
+planet mercury | closest sun small rocky
+planet venus | thick carbon dioxide hottest
+planet earth | liquid water life
+planet mars | red iron oxide thin atmosphere
+planet jupiter | largest gas giant
+planet saturn | prominent icy rings
+planet uranus | tilted axis ice giant
+planet neptune | distant ice giant
+@inner planets | rocky dense solid surface
+@outer planets | giant many moons rings
+pluto classification | dwarf planet
+planet orbit elliptical | gravity sun focus
+orbit @farther sun | longer revolution period
+orbit @closer sun | faster orbital speed
+satellite artificial | orbiting technology communication
+geostationary satellite | equatorial orbit earth rotation period
+space telescope | clear images resolution | distortion absorption | -1.0
+radio telescope | collects radio waves
+reflecting telescope | mirror light collection
+refracting telescope | lens light collection

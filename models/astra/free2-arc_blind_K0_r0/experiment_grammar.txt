@@ -1,0 +1,17 @@
+# Literal token sets for a deliberately bounded experimental-role grammar.
+# Three roles: manipulated input, measured response, explicitly fixed factor.
+# These are authored language rules, not examples or estimated frequencies.
+request_input | independent manipulated tested
+request_response | dependent responding measured
+request_fixed | controlled constant
+variable | variable variables factor factors
+input | vary varies varied varying manipulate manipulates manipulated manipulating change changes changed changing
+response | measure measures measured measuring record records recorded recording count counts counted counting
+fixed | keep keeps kept keeping hold holds held holding maintain maintains maintained maintaining
+passive | varied manipulated changed measured recorded counted kept held maintained
+copula | is are was were be been being
+constant | same constant unchanged fixed equal identical
+boundary | and but while whereas then which what who when where why how they he she student students scientist scientists researcher researchers experiment investigation is are was were be been being
+blocked_follow | in with by because due as when after before from to throughout
+ignore | variable variables factor factors experiment experimental investigation student students scientist scientists researcher researchers independent dependent responding manipulated controlled constant same fixed unchanged equal identical only deliberately carefully regularly daily each every
+head | temperature mass weight volume length width height depth area speed velocity acceleration pressure voltage current resistance brightness intensity frequency amplitude pitch loudness growth rate time duration distance concentration color colour number amount quantity type kind size

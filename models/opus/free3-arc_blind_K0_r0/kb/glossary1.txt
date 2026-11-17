@@ -1,0 +1,198 @@
+# glossary: earth and space
+Abrasion is the grinding away of rock by other rock particles carried by water, wind or ice.
+Absolute age is the age of a rock in years, found using radioactive dating.
+An air mass is a huge body of air with the same temperature and moisture.
+Altitude is the height above sea level.
+An aquifer is an underground layer of rock or sediment that holds water.
+An asteroid is a small rocky body that revolves around the Sun.
+Astronomy is the study of the Moon, stars, planets and other objects in space.
+The atmosphere is the envelope of gases surrounding Earth.
+An axis is an imaginary line through the center of Earth from the North Pole to the South Pole around which Earth rotates.
+Bedrock is the solid layer of rock beneath the soil.
+Cementation is the process in which dissolved minerals glue sediment particles together into rock.
+Compaction is the process in which sediments are pressed together under the weight of layers above them.
+Condensation is the process by which a gas changes into a liquid.
+A constellation is a pattern of stars in the sky.
+Continental drift is the hypothesis that the continents slowly move across Earth's surface.
+The core is Earth's center, made mostly of iron and nickel.
+A crater is a round pit on the surface of a moon or planet made by the impact of a meteorite, or the opening at the top of a volcano.
+The crust is the rocky outer layer of Earth.
+A crystal is a solid in which the atoms are arranged in a repeating pattern.
+A delta is a landform made of sediment where a river enters a lake or ocean.
+Deposition is the process in which sediment is laid down in new locations.
+Elevation is the height of land above sea level.
+The epicenter is the point on Earth's surface directly above the focus of an earthquake.
+An equinox is a day when day and night are equal in length, in spring and fall.
+Erosion is the process by which water, ice, wind or gravity moves weathered rock and soil.
+Evaporation is the process by which a liquid changes into a gas.
+A fault is a break in Earth's crust where rocks have moved.
+A floodplain is the flat area along a river that is covered by water during floods.
+A fossil is the preserved remains or traces of a living thing from long ago.
+A front is the boundary where two different air masses meet.
+A galaxy is a huge system of stars, gas and dust held together by gravity.
+A geologist is a scientist who studies Earth, rocks and minerals.
+A glacier is a large mass of moving ice on land.
+Groundwater is water that fills the cracks and spaces in underground soil and rock.
+A gully is a channel cut into the ground by running water.
+Humidity is the amount of water vapor in the air.
+Humus is dark brown organic material in soil.
+An igneous rock forms from the cooling of magma or lava.
+Infiltration is the process of water soaking into the ground.
+Latitude is the distance north or south of the equator measured in degrees.
+Longitude is the distance east or west of the prime meridian measured in degrees.
+Lava is magma that reaches Earth's surface.
+A light year is the distance light travels in one year, used to measure distances to stars.
+Magma is melted rock beneath Earth's surface.
+The mantle is the thick layer of hot rock between Earth's crust and core.
+A meteor is a streak of light produced when a meteoroid burns up in the atmosphere.
+A meteorite is a meteoroid that hits Earth's surface.
+A meteoroid is a chunk of rock or dust in space.
+Meteorology is the study of weather.
+A mineral is a naturally occurring solid with a crystal structure and definite chemical makeup.
+A moraine is a ridge of sediment deposited by a glacier.
+A nebula is a large cloud of gas and dust in space where stars are born.
+An orbit is the path of an object as it revolves around another object in space.
+Ozone is a form of oxygen with three oxygen atoms; the ozone layer absorbs ultraviolet radiation.
+Pangaea was a supercontinent made of all the landmasses about 250 million years ago.
+A phase of the Moon is the shape of the lighted part of the Moon seen from Earth.
+A planet is a large body that orbits a star and does not produce its own light.
+A plate is a large section of Earth's lithosphere that moves.
+Precipitation is any form of water that falls from clouds, such as rain, snow, sleet or hail.
+Relative age is the age of a rock compared with the ages of other rocks.
+Revolution is the movement of one object around another; one revolution of Earth around the Sun is one year.
+The rock cycle is the series of processes that change rocks from one type to another.
+Rotation is the spinning of a planet or moon on its axis; one rotation of Earth is one day.
+Runoff is water that flows over the ground surface rather than soaking in.
+A satellite is an object that orbits a planet; the Moon is Earth's natural satellite.
+Sediment is small solid pieces of material from rocks or organisms.
+A sedimentary rock forms when sediments are compacted and cemented together.
+A seismic wave is a vibration that travels through Earth carrying the energy released by an earthquake.
+The solar system is the Sun and all the planets and other bodies that travel around it.
+A solstice is the day of the year with the longest or shortest period of daylight.
+A star is a ball of hot gas that produces its own light and heat.
+Subduction is the process by which oceanic crust sinks beneath another plate into the mantle.
+A telescope is an instrument that makes distant objects look closer and larger.
+A tide is the daily rise and fall of Earth's ocean waters.
+Topography is the shape of the land, including its elevation and landforms.
+A trench is a deep canyon on the ocean floor.
+A tsunami is a giant wave usually caused by an earthquake beneath the ocean floor.
+The universe is all of space and everything in it.
+A volcano is a weak spot in the crust where magma comes to the surface.
+Water vapor is water in the form of a gas.
+A watershed is the land area that supplies water to a river system.
+Weathering is the breaking down of rock into smaller pieces by water, wind, ice, plants or chemicals.
+Weather is the condition of the atmosphere at a particular time and place.
+# glossary: life science
+An adaptation is a trait that helps an organism survive and reproduce in its environment.
+An allele is one of the different forms of a gene.
+An amphibian is a cold blooded vertebrate that lives in water when young and on land as an adult.
+Anatomy is the study of the structure of living things.
+An antibiotic is a medicine that kills bacteria.
+An antibody is a protein made by white blood cells that fights a specific germ.
+Bacteria are single celled organisms without a nucleus.
+Biodiversity is the number and variety of different species in an area.
+Biology is the study of living things.
+A biome is a large area with a particular climate and community of organisms.
+A botanist is a scientist who studies plants.
+Camouflage is coloring or shape that helps an organism blend into its surroundings.
+A carnivore is an animal that eats only other animals.
+The carrying capacity is the largest population that an area can support.
+A cell is the smallest unit of a living thing that can carry out all life processes.
+Chlorophyll is a green pigment in plants that captures light energy for photosynthesis.
+A chromosome is a threadlike structure in the nucleus made of DNA that carries genes.
+A community is all the different populations living together in an area.
+Competition is the struggle between organisms for the same limited resources.
+A consumer is an organism that obtains energy by eating other organisms.
+A decomposer is an organism that breaks down dead organisms and wastes and returns nutrients to the soil.
+DNA is the genetic material that carries information about an organism and is passed from parent to offspring.
+A dominant trait is a trait that appears when at least one dominant allele is present.
+An ecologist is a scientist who studies how organisms interact with each other and their environment.
+Ecology is the study of how living things interact with each other and with their environment.
+An ecosystem is a community of organisms and their nonliving environment.
+An embryo is an organism in its earliest stage of development.
+Endangered species are species in danger of extinction.
+Evolution is the gradual change in a species over time.
+Extinction is the disappearance of all members of a species from Earth.
+Fertilization is the joining of a sperm cell and an egg cell.
+A food chain is the path of energy as one organism eats another.
+A food web is a network of overlapping food chains in an ecosystem.
+A gene is a segment of DNA that controls a trait.
+Genetics is the scientific study of heredity.
+Germination is the sprouting of a seed.
+A habitat is the place where an organism lives and gets what it needs.
+A herbivore is an animal that eats only plants.
+Heredity is the passing of traits from parents to offspring.
+Hibernation is a state of greatly reduced activity during winter.
+A host is an organism that a parasite lives on or in.
+An instinct is a behavior an animal is born with and does not need to learn.
+An invertebrate is an animal without a backbone.
+A larva is the immature form of an insect that looks very different from the adult.
+A life cycle is the stages of growth and development an organism goes through.
+A mammal is a warm blooded vertebrate with hair that feeds its young milk.
+Metamorphosis is a change in body form during the life cycle of an animal, such as a caterpillar becoming a butterfly.
+A microorganism is a living thing too small to see without a microscope.
+Migration is the regular seasonal movement of animals from one place to another.
+Mimicry is when one organism looks like another, usually more dangerous, organism.
+A mutation is a change in a gene or chromosome.
+Mutualism is a relationship between two species in which both benefit.
+Natural selection is the process by which organisms best adapted to their environment survive and reproduce.
+A niche is the role of an organism in its ecosystem.
+A nutrient is a substance that an organism needs for energy, growth and repair.
+Offspring are the new organisms produced by parents.
+An omnivore is an animal that eats both plants and animals.
+An organ is a group of tissues that work together to do a job.
+An organism is a living thing.
+A parasite is an organism that lives on or in a host and harms it.
+Photosynthesis is the process by which plants use light energy to make food from carbon dioxide and water.
+Pollen is a fine powder made by the male parts of flowers that contains sperm cells.
+Pollination is the transfer of pollen from a stamen to a pistil.
+A population is a group of organisms of the same species living in an area.
+A predator is an animal that hunts other animals for food.
+Prey is an animal that is hunted by a predator.
+A producer is an organism that makes its own food.
+A Punnett square is a chart that shows the possible gene combinations from a cross.
+A recessive trait is a trait that is hidden when a dominant allele is present.
+Reproduction is the process by which organisms produce offspring.
+A reptile is a cold blooded vertebrate with dry scaly skin that lays eggs on land.
+Respiration is the process by which cells break down food to release energy.
+A scavenger is an animal that feeds on the bodies of dead organisms.
+A species is a group of organisms that can mate and produce fertile offspring.
+A spore is a reproductive cell that can grow into a new organism, made by ferns, mosses and fungi.
+A symbiosis is a close relationship between two species that live together.
+A tissue is a group of similar cells that perform the same function.
+A trait is a characteristic of an organism.
+Transpiration is the loss of water through the leaves of a plant.
+A vertebrate is an animal with a backbone.
+A virus is a tiny nonliving particle that invades and reproduces inside a living cell.
+A zoologist is a scientist who studies animals.
+# glossary additions
+Aerobic respiration uses oxygen to release energy from food; anaerobic respiration and fermentation release energy without oxygen.
+Biodegradable materials such as paper, food scraps and wood can be broken down by decomposers; most plastics are not biodegradable.
+Botany is the study of plants.
+Caffeine is a stimulant found in coffee, tea and soda that speeds up the nervous system.
+A hybrid is the offspring of two different varieties or species, such as a mule from a horse and a donkey; mules are sterile.
+Plankton are tiny organisms that drift in water; phytoplankton are plant like producers and zooplankton are tiny animals.
+A zygote is the single cell formed when a sperm fertilizes an egg.
+The aorta is the largest artery, carrying blood from the left ventricle of the heart to the body.
+The atria are the upper chambers of the heart that receive blood; the ventricles are lower chambers that pump blood out.
+A neuron has dendrites that receive messages, a cell body, and an axon that sends messages to the next cell.
+The biosphere is the part of Earth where life exists; the hydrosphere is all of Earth's water; the lithosphere is the rocky outer layer; the atmosphere is the air.
+Bivalves such as clams, oysters, mussels and scallops are mollusks with two shells.
+A bog is a wetland with acidic water and peat moss.
+The cochlea in the inner ear changes sound vibrations into nerve signals.
+The cornea is the clear front covering of the eye that helps focus light.
+Cows chew their cud, partly digested food brought back up from the stomach, and have stomachs with four parts.
+The dermis is the inner layer of skin with blood vessels, nerves and sweat glands; the epidermis is the outer layer.
+Electrolytes are minerals such as sodium and potassium dissolved in body fluids.
+The larynx, or voice box, contains the vocal cords.
+Nephrons are tiny filtering units in the kidneys.
+An oasis is a place in a desert where groundwater reaches the surface.
+A photon is a tiny packet of light energy.
+Porous materials such as sandstone, sponges and soil have many small holes that hold water or air.
+A rhizome is an underground stem that grows sideways and produces new plants.
+A toxin is a poisonous substance produced by a living thing.
+A tributary is a smaller stream or river that flows into a larger river.
+The umbilical cord connects a developing fetus to its mother and carries nutrients and oxygen.
+Incisors are front teeth for cutting, canines are pointed teeth for tearing, and molars are flat teeth for grinding.
+Chitin is the tough material that makes up the exoskeleton of insects and crustaceans.
+Geckos can climb walls because of tiny hairs on their feet.

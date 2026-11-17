@@ -1,0 +1,165 @@
+# near-synonyms (one line each) and opposites (~)
+hot warm heat heated warmth ~ cold cool chilly cooled freezing
+increase increases rise more greater gain grow higher ~ decrease decreases drop fall less fewer lower reduce shrink
+fast quick quickly rapid rapidly speedy ~ slow slowly gradual gradually
+big large huge giant enormous massive ~ small tiny little microscopic miniature
+tall high ~ short low
+bright brightness shiny glowing ~ dark dim dull
+wet moist damp humid soggy ~ dry arid parched
+deep ~ shallow
+thick ~ thin
+rough coarse bumpy ~ smooth slick slippery
+hard rigid stiff firm ~ soft flexible bendable
+strong sturdy ~ weak fragile
+loud noisy ~ quiet soft silent
+heavy ~ lightweight
+near close closer nearby ~ far distant away
+young offspring baby babies juvenile ~ adult mature grown
+start begin beginning ~ end finish
+push ~ pull
+attract attraction ~ repel repulsion
+absorb soak ~ reflect bounce
+float floating ~ sink sinking
+inside interior internal ~ outside exterior external surface
+alive living live ~ dead nonliving
+natural ~ artificial synthetic manmade human-made
+day daytime daylight ~ night nighttime
+summer ~ winter
+north ~ south
+east ~ west
+top upper above ~ bottom lower beneath
+produce make create manufacture generate form
+use utilize consume
+break crack split shatter
+earth world planet globe
+sun sunlight sunshine solar
+moon lunar
+star stellar
+animal creature organism
+plant vegetation greenery
+tree trees forest woods woodland
+river stream creek brook
+lake pond
+ocean sea marine
+mountain mountains peak summit
+rock stone boulder pebble
+soil dirt earth ground
+sand sandy
+mud muddy
+food nutrients nourishment
+liquid fluid
+gas vapor gases
+solid solids
+ice frozen
+snow snowfall snowflakes
+rain rainfall raindrops
+storm storms stormy
+wind winds windy breeze
+cloud clouds cloudy overcast
+temperature degrees
+weight heaviness
+size dimensions
+speed velocity rate
+energy power
+electricity electric current
+heat thermal
+light visible
+sound noise
+vibration vibrating
+movement motion moving move
+change transform alter
+protect protection shield defend
+survive survival
+reproduce breed offspring
+eat feed consume food
+die death dead
+grow growth develop development
+injury injured wound damage damaged harm harmful
+germs pathogens microbes microorganisms
+sick ill illness disease
+medicine drug treatment cure
+doctor physician
+measure measurement measuring
+tool instrument device equipment
+experiment investigation test trial
+result outcome finding
+cause reason
+effect result consequence
+evidence proof data
+prediction forecast
+problem issue
+solution answer
+build construct
+design plan
+invention innovation technology
+machine engine motor
+car automobile vehicle
+pollution pollutants contamination contaminated
+garbage trash waste
+recycle recycling reuse
+save conserve conservation
+fuel fuels
+coal oil gas petroleum gasoline
+power plant powerplant
+battery batteries cell
+wire wires cord
+bulb lamp light bulb
+magnet magnetic
+metal metals metallic
+wood wooden lumber
+plastic plastics
+glass glassy
+paper cardboard
+cloth fabric cotton wool
+water h2o
+salt salty saline
+sugar sugary sweet glucose
+acid acidic sour
+blood bloodstream
+heart heartbeat pulse
+lungs lung breathing
+stomach belly
+brain mind thinking
+bones skeleton
+muscles muscle
+skin skins
+eyes eye vision sight seeing
+ears ear hearing hear
+nose smell odor scent
+tongue taste
+hands fingers touch
+legs feet walking
+wings flying flight
+fur hair
+feathers plumage
+scales scaly
+shell shells
+egg eggs
+seed seeds
+leaf leaves foliage
+root roots
+stem stems stalk trunk
+flower flowers blossom bloom
+fruit fruits
+cell cells
+habitat home environment surroundings
+group population community
+area region place location
+year years annual yearly
+month months monthly
+day days daily
+hour hours
+minute minutes
+second seconds
+long time millions of years ages
+ancient prehistoric past
+future later
+model replica representation
+map maps globe
+graph chart table
+observe watch see look notice
+record write log document
+compare comparison contrast
+classify sort group organize
+predict expect
+conclude conclusion infer inference

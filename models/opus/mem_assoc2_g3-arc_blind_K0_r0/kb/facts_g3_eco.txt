@@ -1,0 +1,160 @@
+# Generation 3: ecology, environment, natural resources, human impact. Question cue words > answer words.
+# --- ecosystems
+ecosystem = living and nonliving things interacting in an area
+biotic factors > plants animals bacteria fungi living organisms
+abiotic factors > sunlight water air temperature soil rocks minerals climate
+habitat = place where organism lives food water shelter
+niche = role of organism in ecosystem
+population = all organisms of one species in an area
+community = all populations different species in an area
+biosphere = all ecosystems on earth
+levels ecology > organism population community ecosystem biosphere
+carrying capacity = largest population environment can support
+limiting factors > food water space shelter predators disease sunlight
+population increases > more food fewer predators
+population decreases > less food more predators disease habitat loss drought
+predator population increases prey > decreases
+prey population increases predator > increases more food
+prey decreases predator > decreases less food
+predator removed prey > increases overpopulation overgrazing
+wolves removed deer > increase eat too many plants
+food chain = path of energy from one organism to another
+food chain starts > producer plant sun
+food web = many connected food chains
+arrows food chain point > direction energy flows to eater
+energy flow ecosystem > sun producers consumers decomposers
+producer = makes own food photosynthesis plants algae
+consumer = eats other organisms
+primary consumer = herbivore eats producers
+secondary consumer = eats primary consumers carnivore
+tertiary consumer > top predator
+decomposer = breaks down dead organisms returns nutrients soil
+decomposers examples > bacteria fungi mushrooms molds earthworms
+scavenger = eats dead animals vulture hyena
+autotroph = makes own food producer
+heterotroph = eats other organisms consumer
+energy pyramid > producers bottom most energy top least
+energy each level > 10 percent passed 90 percent lost heat
+energy lost food chain > heat life processes
+most energy level > producers
+least energy level > top predators
+fewer organisms top > less energy available
+all energy food chain originally > sun
+organisms need sun energy > producers photosynthesis
+remove producers > whole food web collapses
+decomposers removed > dead material builds up nutrients not recycled
+nutrients recycled > decomposers
+carbon cycle > photosynthesis respiration decomposition combustion carbon dioxide
+nitrogen cycle > bacteria fix nitrogen soil plants
+nitrogen fixing bacteria > roots legumes
+oxygen carbon dioxide cycle > plants release oxygen animals release carbon dioxide
+plants and animals depend > oxygen carbon dioxide exchange
+# --- relationships
+symbiosis = close relationship between two species
+mutualism = both benefit
+commensalism = one benefits other not harmed
+parasitism = one benefits other harmed host
+mutualism examples > bees flowers clownfish anemone lichen algae fungus oxpecker
+commensalism examples > barnacles whale remora shark bird nest tree
+parasitism examples > tick dog flea tapeworm mosquito lice mistletoe
+parasite = lives on in host harms
+host = organism parasite lives on
+competition = organisms need same limited resource
+compete for > food water space light mates territory
+plants compete > sunlight water nutrients space
+predation = predator hunts eats prey
+predator prey examples > owl mouse lion zebra hawk rabbit wolf deer snake frog
+cooperation > ants bees wolves work together
+invasive species = nonnative species spreads harms native species no natural predators
+invasive species examples > zebra mussels kudzu cane toads starlings pythons
+invasive species harm > outcompete native species no predators
+introduced species no predators > population grows rapidly
+# --- biomes
+biome = large region similar climate plants animals
+tundra biome > cold treeless permafrost lichens mosses caribou
+taiga boreal forest > coniferous trees cold winters moose
+deciduous forest temperate > trees lose leaves four seasons deer
+tropical rainforest > hot wet most biodiversity canopy
+grassland prairie savanna > grasses few trees bison zebras
+desert biome > dry less than 25 cm rain cactus reptiles
+ocean marine biome > salt water most of earth plankton
+freshwater biome > lakes ponds rivers
+most biodiversity biome > tropical rainforest coral reef
+coral reef > warm shallow clear ocean water biodiversity
+wetlands importance > filter water habitat prevent floods
+# --- succession and change
+succession = gradual change in community over time
+primary succession = starts bare rock no soil lichens pioneer
+secondary succession = after disturbance fire soil remains
+pioneer species > lichens mosses first organisms
+lichens break rock > soil formation pioneer
+after forest fire first > grasses weeds small plants
+climax community > stable final mature forest
+natural disasters change ecosystems > fire flood volcano hurricane drought
+forest fire benefits > clears space nutrients seeds germinate new growth
+# --- natural resources
+natural resource = material from nature used by people
+renewable resource = replaced quickly short time can be used again
+nonrenewable resource = cannot be replaced takes millions years limited
+renewable resources > sun solar wind water hydroelectric trees wood plants animals geothermal biomass
+nonrenewable resources > coal oil petroleum natural gas uranium minerals metals
+fossil fuels > coal oil natural gas nonrenewable formed millions years
+fossil fuels problems > pollution carbon dioxide global warming acid rain limited
+alternative energy sources > solar wind hydroelectric geothermal tidal biomass
+solar energy advantages > renewable no pollution
+solar energy disadvantages > night cloudy expensive
+wind energy disadvantages > not always windy birds noise
+hydroelectric > dams flowing water turbines renewable
+hydroelectric disadvantages > floods land blocks fish migration
+geothermal > heat from inside earth
+biomass > plant animal material burned energy wood ethanol
+nuclear power > uranium fission no carbon dioxide radioactive waste
+nuclear power disadvantage > radioactive waste
+petroleum products > gasoline plastic oil heating fuel
+plastic made from > petroleum oil
+paper made from > trees wood
+glass made from > sand
+steel made from > iron
+cotton clothing > plants
+wool > sheep
+leather > animals cows
+conserve resources > reduce reuse recycle
+reduce = use less
+reuse = use again
+recycle = process materials into new products
+recyclable materials > paper aluminum glass plastic metal
+compost = decomposed organic waste fertilizer
+conserve energy home > turn off lights unplug insulation energy efficient bulbs
+conserve water > fix leaks shorter showers turn off faucet
+conserve fuel > carpool walk bike public transportation
+reduce waste best > reuse buy less reduce packaging
+# --- pollution and human impact
+pollution = harmful substances in environment
+air pollution sources > burning fossil fuels cars factories power plants
+water pollution sources > sewage fertilizer runoff pesticides oil spills factory waste trash
+land pollution > trash landfills litter chemicals
+acid rain causes > sulfur nitrogen oxides burning coal
+acid rain effects > kills fish trees damages statues buildings lakes acidic
+smog > cars exhaust sunlight
+fertilizer runoff lake > algae bloom fish die low oxygen
+algae bloom > excess nutrients fertilizer oxygen depleted
+pesticides > kill insects harm other animals food chain
+ddt > birds thin eggshells food chain
+biomagnification > toxins increase up food chain
+oil spill effects > coats feathers fur birds cannot fly stay warm fish die
+deforestation = cutting down forests
+deforestation effects > habitat loss erosion less oxygen more carbon dioxide climate
+urbanization > habitat loss runoff
+habitat destruction > biggest threat species
+overfishing > fish populations decline
+overhunting > extinction
+littering plastic ocean > animals eat tangled
+light pollution > hard to see stars
+noise pollution
+greenhouse gases human > burning fossil fuels deforestation
+positive human impact environment > recycling planting trees protecting habitats wildlife refuges national parks clean energy laws conservation
+protect environment > reduce pollution recycle plant trees conserve
+reforestation = planting trees
+wildlife refuge > protected habitat animals
+national parks > protect land wildlife
+clean air act clean water act > laws reduce pollution

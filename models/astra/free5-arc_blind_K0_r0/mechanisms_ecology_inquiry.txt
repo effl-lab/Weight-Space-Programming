@@ -1,0 +1,248 @@
+# Ecological mechanisms, evidence, experiments, technology and practical reasoning.
+# Ecology
+organism basic needs | energy; water; suitable environment
+animal basic needs | food water oxygen shelter space
+plant basic needs | light water carbon_dioxide mineral nutrients suitable temperature
+habitat suitable | resources and conditions needed to survive reproduce
+habitat change | alters survival reproduction; changes populations
+population same_species | individuals same species living same area
+community multiple_species | interacting populations in area
+ecosystem living_nonliving | organisms interact with physical environment
+biotic_factor examples | predation; competition; disease; plants; animals
+abiotic_factor examples | temperature; rainfall; sunlight; soil minerals
+resource finite population | competition; carrying_capacity
+population exceeds carrying_capacity | resources scarce; deaths increase; births decrease
+carrying_capacity drought | decreases; fewer available resources
+carrying_capacity habitat restoration | increases; more food shelter space
+population births deaths equal | stable if migration balanced
+population immigration | individuals enter; population increases
+population emigration | individuals leave; population decreases
+population exponential growth | abundant resources; little resistance
+population density disease | close contact; faster pathogen transmission
+competition different species | shared limited resource
+competition same species | similar food space mates needed
+competition reduce different niches | use different resources places times
+birds different beaks same habitat | feed different foods; reduce competition
+tree canopy understory | compete for sunlight
+plant crowded pot | compete water light minerals; reduced growth
+predator prey adaptations | predator capture prey; prey escape avoid detection
+predator removed ecosystem | prey increase; producers may decrease
+herbivore removed ecosystem | plants increase; predator food decreases
+producer removed ecosystem | less energy available consumers
+plant eaten herbivore | chemical_energy transferred
+herbivore eaten carnivore | stored food energy transferred
+food_web organism many foods | alternative food sources; greater stability
+food_web single food source | vulnerable when food declines
+food_web species extinct | affects connected species; disrupts relationships
+energy food_web original source | sunlight for photosynthetic ecosystems
+producer captures sunlight | photosynthesis stores chemical_energy
+producer biomass | supports consumers above
+primary_consumer | eats producers; herbivore
+secondary_consumer | eats primary consumers
+tertiary_consumer | eats secondary consumers
+energy trophic_level transfer | only fraction reaches next level; heat lost metabolism
+energy_pyramid top small | less available energy; fewer organisms supported
+food_chain short efficiency | fewer transfers; more energy available
+energy ecosystem not recycled | dissipates as heat; requires ongoing input
+matter ecosystem recycled | decomposition; biogeochemical cycles
+decomposer dead organisms | breaks organic material; returns nutrients
+decomposer nutrients plants | nutrients reused for growth
+decomposer all trophic_levels | obtains matter from dead organisms and wastes
+scavenger decomposer distinction | scavenger eats remains; decomposer chemically breaks down
+mushroom fallen log | decomposition; organic nutrient recycling
+earthworm litter | detritivore; fragments organic matter
+bacteria soil community | nutrient cycling supports whole ecosystem
+nitrogen atmospheric plants | most cannot directly use nitrogen gas
+nitrogen_fixing bacteria | convert atmospheric nitrogen to usable compounds
+root_nodule legume | mutualistic nitrogen fixing bacteria
+nitrifying bacteria | convert ammonia into nitrates
+nitrogen fertilizer | supports protein synthesis growth
+denitrification | bacteria return nitrogen gas to atmosphere
+carbon plants animals | transferred by feeding
+carbon respiration | carbon_dioxide released atmosphere
+carbon photosynthesis | carbon_dioxide removed atmosphere
+carbon fossil_fuel burning | stored carbon released as carbon_dioxide
+carbon decomposing | carbon returned soil atmosphere
+forest clearing climate | less carbon uptake; stored carbon released
+mutualistic flower bee | bee gets nectar; flower pollinated
+mutualistic cleaner_fish | removes parasites; cleaner gets food
+commensal barnacle whale | barnacle transport feeding access; whale mostly unaffected
+parasitic tick dog | tick gains blood; dog harmed
+parasitic tapeworm intestine | takes host nutrients
+symbiosis | close association between different species
+lichen fungus algae | fungus shelter moisture; algae sugars
+invasive_species new habitat | may lack predators; outcompete natives
+introduced predator island | native prey may lack defenses; populations decline
+biodiversity resilience | diverse ecological roles; greater response options
+habitat_fragmentation | isolates populations; reduces gene flow
+wildlife_corridor | connects habitats; movement and gene flow
+endangered species conservation | protect habitat; reduce hunting pollution
+extinction irreversible | species lost; genetic diversity reduced
+small population extinction risk | low genetic diversity; vulnerable to disturbances
+pollution biomagnification | persistent toxins increase at higher trophic_levels
+top_predator pesticide | high toxin concentration; consumes contaminated prey
+fertilizer_runoff lake | algal_bloom; oxygen depletion; fish deaths
+algal_bloom decomposition | bacteria use oxygen; dissolved_oxygen decreases
+sewage organic matter stream | decomposition uses oxygen
+thermal_pollution | warm water holds less dissolved_oxygen
+oil_spill birds | feathers lose insulation waterproofing
+plastic marine animals | entanglement; ingestion; injury
+acid_rain lake | acidity rises; sensitive organisms die
+pesticide beneficial insects | pollinator loss; ecosystem disruption
+biological_control pests | natural predators parasites; reduces pesticide use
+crop_rotation | interrupts pest cycles; restores soil nutrients
+monoculture disease | low diversity; pathogen spreads among similar hosts
+composting | decomposers recycle organic waste into soil amendment
+recycling aluminum | conserves ore; saves energy; less mining
+recycling paper | reduces demand new trees; less waste
+reuse bottle | avoids manufacturing replacement; less waste
+reduce_consumption | fewer raw materials energy needed
+renewable resource sustainability | use no faster than replacement
+forest renewable | regrowth possible with responsible harvest
+fish stock overharvest | reproduction cannot replace losses
+fossil_fuel nonrenewable | forms over millions years; consumed faster replaced
+solar wind renewable | naturally replenished energy flow
+nuclear uranium nonrenewable | finite mineral fuel
+renewable energy environmental | usually lower operating emissions; still environmental impacts
+solar energy limitation | sunlight intermittent; storage or backup needed
+wind energy limitation | wind variable; suitable location needed
+hydroelectric dam ecosystem | changes river flow; blocks fish migration
+fish_ladder dam | helps fish pass barrier
+geothermal renewable | earth internal heat; location limitations
+biomass renewable condition | new growth replaces harvested biomass
+water conservation | fix leaks; efficient irrigation; reduce waste
+drip_irrigation | delivers water roots; reduces evaporation losses
+rainwater_collection | stores rainfall for later use
+native_plants landscaping | adapted local conditions; less irrigation often needed
+primary_succession lava | no established soil; pioneer species first
+secondary_succession burned forest | soil remains; faster recolonization
+succession lichens | weather rock; add organic matter; soil develops
+succession grass shrub tree | community changes with soil shade conditions
+forest canopy development | shade tolerant species favored
+# Fair testing and scientific argument
+experiment purpose | investigate relationship; test explanation
+scientific question testable | measurable variables; evidence can address it
+scientific question preference | subjective; no single scientific best preference
+hypothesis versus prediction | explanation versus expected observation
+hypothesis test failure | evidence useful; revise or reject explanation
+hypothesis supported | consistent evidence; not final proof
+scientific conclusion | based on recorded evidence
+scientific evidence new | explanations can change
+scientific theory | broad supported explanation; repeatedly tested
+scientific law | describes regular pattern; not automatically explanation
+scientific disagreement | compare evidence methods; independent replication
+scientists conflicting results | repeat investigations; compare procedures instruments
+scientist unexpected result | check procedure; repeat; report data
+scientist results differ prediction | keep observations; revise explanation
+scientist data cherry_pick | biased conclusion; unreliable reporting
+scientist publish negative results | useful evidence; prevents repeated mistakes
+scientist replication details | materials quantities procedure conditions; allow reproduction
+peer_review | independent experts evaluate methods evidence
+scientific consensus | convergence of multiple evidence sources
+experiment only one variable | isolate causal effect; fair comparison
+experiment change two variables | cannot identify cause of result
+independent_variable | deliberately changed factor
+dependent_variable | measured response
+controlled_variable | held constant; prevents alternative explanations
+control_group | comparison without tested treatment
+experimental_group | receives tested treatment
+control untreated | establishes baseline response
+positive_control | known response checks procedure works
+experiment placebo | controls expectations; treatment comparison
+experiment random assignment | reduces systematic group differences
+experiment blind measurement | reduces observer expectation bias
+experiment same species size age | controls biological variation
+experiment unequal group sizes | may reduce comparison precision; unequal sampling
+experiment many subjects | more reliable estimate; reduces individual variation influence
+experiment one trial | insufficient reliability; repeat measurements
+repeat trials variation | estimates random uncertainty
+repeat experiment same conditions | tests reproducibility
+repeat experiment different location | tests generality
+increase sample_size | better population estimate; less sampling variability
+random_sample | reduces selection bias; more representative
+survey only one class | limited generalization to whole population
+experiment unusually large result | verify measurement; investigate cause
+outlier measurement | check recording instrument; do not discard without reason
+measurement calibrated instrument | improves accuracy; compares reference standard
+measurement zero balance | removes container offset; tare
+measurement parallax | read scale eye level
+measurement graduated_cylinder | bottom meniscus at eye level
+measurement repeated biased ruler | repeated wrong offset remains systematic_error
+measurement precision | close agreement repeated readings
+measurement accuracy | closeness accepted value
+measurement more decimal digits | justified only by instrument resolution
+measurement small volume precision | narrow calibrated cylinder pipette
+measurement irregular volume | water displacement
+measurement dissolved mass | weigh before mixing; account container
+measurement drying biomass | removes variable water content
+measurement soil moisture | compare wet dry mass
+measurement plant_growth | change height biomass leaf number over time
+measurement magnetic_strength | count equal paperclips lifted; compare same distance
+measurement reaction_rate | product formed per time; gas volume per time
+measurement dissolving_rate | time for equal solute amount to dissolve
+measurement evaporation_rate | mass or volume lost per time
+measurement speed | distance traveled divided elapsed time
+experiment fertilizer compare | same water light soil species; vary fertilizer
+experiment sunlight compare | same plant type water soil; vary light
+experiment seed temperature compare | same seed type water oxygen; vary temperature
+experiment soil drainage compare | equal soil volumes and water volumes
+experiment absorbency towel compare | equal size towels; same liquid amount; measure absorption
+experiment friction surface compare | same object force load; vary surface
+experiment insulation compare | equal initial temperature volume container; vary insulation
+experiment pendulum compare | vary length; keep mass release angle same
+experiment ball bounce compare | same ball height method; vary surface
+experiment rust water compare | same metal samples temperature; vary water exposure
+experiment magnet distance compare | same magnet object; change distance
+experiment battery bulb compare | same bulbs wires; vary battery number
+experiment heat color compare | same material size light exposure; vary color
+experimental design improve | add control; repeat trials; larger sample; control variables
+line_graph | continuous changes; time trend
+bar_graph | category comparisons
+pie_chart | fractions whole; percentages
+scatter_plot | relationship two numerical variables
+x_axis | independent_variable
+y_axis | dependent_variable
+graph upward slope | positive association
+graph downward slope | negative association
+graph horizontal | measured response constant
+graph extrapolate | outside observed range; uncertain prediction
+correlation not causation | alternative causes; confounding variables
+observational study | records natural conditions; cannot always isolate causes
+inference | explanation based observations
+observation | directly sensed measured evidence
+prediction | expected future outcome
+footprints animal inference | animal passed location
+clouds dark prediction | rain possible
+instrument improves science | new observations; greater precision sensitivity
+model simplified | represents selected features; omits details
+model globe limitations | scale; surface detail; dynamic processes absent
+model solar_system limitations | size distance scales hard represent together
+model atom limitations | not actual appearance; simplified electron representation
+computer_model weather | predicts from measurements assumptions; uncertainty grows time
+model revise | new data expose limitations
+engineering criteria | desired performance; success requirements
+engineering constraints | limits cost time materials size safety
+engineering prototype | testable early version
+engineering test failure | reveals weaknesses; guides redesign
+engineering multiple solutions | compare evidence against criteria constraints
+engineering tradeoff | improving one property may worsen another
+technology society | benefits and unintended costs
+transport food farther | wider food variety; greater availability
+refrigeration shipping food | slows spoilage; longer storage transport
+weather_forecast farmers | plan planting irrigation harvest
+satellite remote_sensing | large area observations; repeat measurements
+medical imaging | observes internal structures without surgery
+lab goggles | eye protection from splashes debris
+lab unknown chemical | consult teacher; do not taste
+lab smell chemical | waft only when instructed
+lab hot container | heat resistant gloves tongs
+lab broken glass | notify teacher; special cleanup container
+lab spill | report immediately; follow safety procedure
+lab food drink | contamination hazard; prohibited
+lab culture microorganisms | keep sealed; proper disposal
+lab washed hands | reduces contamination infection
+lab animal humane | minimize harm; ethical care
+lab heating test_tube | point away people; avoid sealed pressure buildup
+lab long_hair | tie back near flame
+lab dispose chemicals | follow approved instructions; do not mix unknowns
+field severe_weather | seek safe shelter; avoid lightning exposure

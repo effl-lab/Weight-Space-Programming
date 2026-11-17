@@ -1,0 +1,14 @@
+# Literal words for the explicitly collinear force-adder. No inferred directions.
+left | left leftward leftwards
+right | right rightward rightwards
+west | west westward westwards
+east | east eastward eastwards
+south | south southward southwards
+north | north northward northwards
+down | down downward downwards
+up | up upward upwards
+request | net resultant combined total
+force | force forces
+block | angle angles angled degree degrees diagonal diagonally perpendicular slope incline inclined friction torque moment lever acceleration accelerating collide collision collisions separately separate respectively between another
+wrapper | a an the of to toward towards in direction acting acts act on object newton newtons n about approximately force forces net resultant combined total is will be equal equals with
+bridge | a an the of to toward towards in direction acting acts act newton newtons n

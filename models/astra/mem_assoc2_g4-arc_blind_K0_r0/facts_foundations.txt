@@ -1,0 +1,384 @@
+# Additional foundational knowledge for previously unused or weakly connected
+# scientific concepts. All statements are authored definitions and relationships.
+# Disciplines, professions, and scientific communication.
+paleontology | fossils ancient organisms past life
+paleontologist | fossils ancient organisms paleontology
+fossils profession | paleontologist
+paleontology profession | paleontologist
+archaeology | past human cultures artifacts
+archaeologist | archaeology artifacts past human cultures
+artifacts profession | archaeologist
+archaeology profession | archaeologist
+geology | earth rocks minerals history structure
+geologist | geology rocks minerals earth
+geology profession | geologist
+rocks profession | geologist
+meteorology | atmosphere weather forecasting
+meteorologist | meteorology weather forecasting
+meteorology profession | meteorologist
+weather profession | meteorologist
+astronomy | stars planets galaxies universe
+astronomer | astronomy stars planets space
+astronomy profession | astronomer
+stars profession | astronomer
+biology | organisms life cells
+biologist | biology living organisms
+biology profession | biologist
+botany | plants growth reproduction
+botanist | botany plants
+botany profession | botanist
+plants profession | botanist
+zoology | animals behavior classification
+zoologist | zoology animals
+zoology profession | zoologist
+ecology | relationships organisms environment ecosystems
+ecologist | ecology ecosystems relationships organisms environment
+ ecology profession | ecologist
+chemistry profession | chemist
+chemist | elements substances reactions chemistry
+physics | matter energy forces motion
+physicist | physics matter energy forces
+physics profession | physicist
+engineering profession | engineer
+engineer | engineering design build test solve problems
+anatomy | body structures organs
+physiology | body functions processes
+anatomy physiology | structure function organism
+protocol | procedure ordered instructions reproducible experiment
+valid experiment | tests hypothesis controls variables appropriate measurements
+reproducible | repeat method consistent results
+scientific record | observations measurements units methods
+scientific pattern | repeated relationship regularity
+scientific trend | general direction change data
+scientific error | uncertainty measurement limitations
+calibrate | compare instrument known standard
+calibrate balance | known mass zero
+risk experiment | hazard probability harm safety
+extinguish fire | remove fuel oxygen heat
+contagious | infectious spread between organisms
+# Broad classification and familiar organisms.
+phylum | taxonomic rank related classes
+class taxonomy | related orders phylum
+order taxonomy | related families class
+family taxonomy | related genera order
+genus | closely related species classification
+phylum contains | classes
+class contains | orders
+order contains | families
+family contains | genera
+genus contains | species
+kingdom contains | phyla
+domain contains | kingdoms
+classification sequence | domain kingdom phylum class order family genus species
+genus species | scientific binomial name
+cat | mammal carnivore fur milk
+cat diet | meat carnivore
+lion | mammal carnivore predator
+lion diet | meat prey herbivores
+tiger | mammal carnivore predator
+wolf | mammal carnivore predator
+wolf diet | deer rabbit meat
+fox | mammal omnivore
+fox diet | rodents insects fruit
+mouse | mammal omnivore
+mouse diet | grains seeds insects
+rabbit | mammal herbivore prey
+rabbit diet | grass leaves plants
+deer | mammal herbivore prey
+deer diet | leaves grass plants
+cow | mammal herbivore ruminant
+cow diet | grass plants
+sheep | mammal herbivore wool
+sheep diet | grass plants
+horse | mammal herbivore hooves
+horse diet | grass grain plants
+bear diet | omnivore fish berries plants
+polar bear diet | carnivore seals fish
+panda diet | bamboo herbivore
+beetle | insect six legs exoskeleton
+beetle life | egg larva pupa adult
+insect body | head thorax abdomen
+ant body | head thorax abdomen
+spider body | cephalothorax abdomen
+insect antennae | sensory smell touch
+fish fin | swimming steering balance
+snake | reptile scales lungs vertebrate
+lizard | reptile scales lungs vertebrate
+turtle | reptile shell lungs eggs
+crustacean growth | molting exoskeleton
+arthropod growth | shed exoskeleton molt
+pupa | insect stage metamorphosis adult development
+larva adult | metamorphosis development
+invertebrate groups | insects worms mollusks arthropods
+bird egg shell | protects embryo reduces water loss
+mammal mammary | milk offspring nutrition
+animal stimulus | environmental change sensory response
+stimulus | change environment causes response
+stimulus response | nervous system senses coordination
+instinct inherited | behavior genes
+learned practice | behavior experience
+# Seed plants and life cycles.
+tree | woody perennial plant trunk roots leaves
+forest tree | producer photosynthesis habitat
+woody stem | trunk support xylem phloem
+oak seed | acorn
+acorn | oak seed embryo food
+maple seed | wings wind dispersal
+maple leaf | photosynthesis chlorophyll
+wheat | grass monocot grain seed
+wheat reproduction | flowers seeds pollen
+corn | grass monocot cereal grain
+corn reproduction | pollen seeds wind
+corn ethanol | biomass renewable biofuel
+bean | legume seed dicot
+pea | legume seed dicot
+bean root | bacteria nitrogen fixation
+pea root | bacteria nitrogen fixation
+legume example | bean pea clover
+nitrogen legume | root nodules bacteria
+annual | plant life cycle one year
+biennial | plant life cycle two years
+perennial | plant lives multiple years
+annual lifecycle | one year
+biennial lifecycle | two years
+perennial lifecycle | multiple years
+annual example | bean wheat corn
+perennial example | tree shrub
+biennial example | carrot beet
+cotyledon | seed leaf food storage
+embryo seed | young plant root shoot
+embryo | early developing offspring cells
+sprout | germinating seed young shoot
+sprout grow | water oxygen warmth food
+seed stored food | embryo germination energy
+cotyledon monocot | one
+cotyledon dicot | two
+vascular plant | xylem phloem transport
+nonvascular plant | moss small moist diffusion
+nectar | sugary liquid attracts pollinators
+pollen nectar insects | pollination mutualism
+pollen male gamete | sperm fertilization
+ovum | female gamete egg haploid
+haploid | one chromosome set gametes
+ diploid | two chromosome sets body cells
+haploid fertilization | diploid zygote
+purebred | homozygous matching alleles
+hybrid | heterozygous different alleles
+probability genetics | likelihood offspring traits
+ratio inheritance | relative frequencies offspring genotypes
+# Physiology and cellular components.
+adrenal | gland hormone adrenaline stress
+adrenal hormone | adrenaline fight flight
+adrenaline effect | increased heart breathing alertness
+spleen | immune blood filtering lymphatic
+spleen blood | removes aged red cells
+ tonsil | immune lymphatic tissue throat
+bronchi | air passages trachea lungs
+trachea | windpipe air passage cartilage
+trachea function | carry air lungs
+trachea esophagus | air food separate passages
+synapse | junction neurons neurotransmitter messages
+synapse communication | chemical neurotransmitter
+neuron synapse | nervous communication impulses
+involuntary | automatic cardiac smooth muscle reflex
+voluntary | conscious control skeletal muscle
+muscle voluntary | skeletal
+muscle involuntary | smooth cardiac
+contract muscle | shorten pull movement
+relax muscle | lengthen opposing contraction
+oxygenated | blood high oxygen
+ deoxygenated | blood low oxygen carbon dioxide
+pulmonary artery | deoxygenated heart lungs
+pulmonary vein | oxygenated lungs heart
+systemic artery | oxygenated heart body
+systemic vein | deoxygenated body heart
+lung blood oxygen | diffusion alveoli capillaries
+small intestine blood | nutrients absorbed villi capillaries
+blood glucose liver | glycogen storage regulation
+adenosine | nucleoside adenine ribose
+ATP phosphate | energy cellular reactions
+cell ATP supply | respiration mitochondria
+cell active movement | ATP energy
+membrane diffusion | passive concentration gradient
+permeate membrane | pass through barrier
+# Earth systems, landforms, and preservation.
+biosphere | living organisms earth
+hydrosphere | earth water oceans lakes ice groundwater
+geosphere | earth rock soil solid layers
+atmosphere sphere | earth gases air
+living earth sphere | biosphere
+water earth sphere | hydrosphere
+rock earth sphere | geosphere
+rainwater | precipitation freshwater water cycle
+pond | small still water aquatic habitat
+lake | inland standing water basin
+lake pond | standing freshwater aquatic ecosystem
+plain | broad flat low relief land
+plateau | elevated flat land
+plateau plain | flat surface elevation difference
+waterfall | water drops steep rock river erosion
+waterfall erosion | softer rock erodes faster undercutting
+waterfall energy | gravitational potential kinetic
+cave limestone | acid water dissolves calcium carbonate
+cave formation | groundwater chemical weathering dissolution
+stalactite | mineral deposit hangs ceiling cave
+stalagmite | mineral deposit rises floor cave
+stalactite stalagmite | calcite calcium carbonate deposition
+cave column | stalactite stalagmite joined
+sedimentation | sediment particles settle deposition
+sedimentation cause | gravity slower flowing water
+strata | rock layers deposition
+extrusion | lava solidifies surface igneous
+extrusion intrusion | surface underground igneous
+nonfoliated | metamorphic rock unbanded crystals
+nonfoliated example | marble quartzite
+foliated example | slate schist gneiss
+fossilization | remains traces preserved burial sediment
+fossilization rapid burial | preservation | scavenging decomposition
+fossil imprint | impression trace organism
+imprint | impression shape sediment
+preserve fossil | rapid burial hard parts | decomposition
+carbon14 | radioactive isotope carbon dating
+carbon fourteen | radioactive dating once living remains
+albedo | fraction sunlight reflected surface
+reflectivity | reflected light proportion
+albedo white | high reflected sunlight
+albedo black | low absorbed sunlight
+albedo snow | high reflection cooling
+albedo ocean | low
+ocean sunlight | absorption warming
+ice albedo feedback | melting less reflection more warming
+continentality | inland distance ocean temperature extremes
+prevailing wind | most common wind direction
+prevailing wind climate | transport heat moisture
+barometric | atmospheric pressure
+barometric instrument | barometer
+nimbus | precipitation cloud rain
+rainshadow | dry leeward mountain side
+brackish | mixed freshwater saltwater estuary
+# Materials, fuels, chemistry, and elementary nuclear science.
+gold | metal lustrous malleable conductor corrosion resistant
+nickel | magnetic metal
+cobalt | magnetic metal
+magnesium | lightweight metal bright white burning
+zinc | metal galvanizing corrosion protection
+zinc iron | protective coating galvanization
+corrosion | metal chemical oxidation environment
+corrosion oxygen | oxidation metal oxide
+corrosion prevent | coating paint galvanization
+stainless steel | iron chromium alloy durable | corrosion | -1.0
+gasoline | petroleum fuel nonrenewable hydrocarbon
+butane | hydrocarbon fuel carbon hydrogen
+propane | hydrocarbon fuel carbon hydrogen
+fossilfuel | coal oil natural gas nonrenewable
+fossilfuel burning | carbon dioxide heat pollution
+petroleum refining | distillation boiling point separation
+inorganic | mineral water salts
+organic inorganic | carbon compounds mineral substances
+monomer | repeating building block polymer
+polymer monomer | large molecule repeating units
+polymer natural | cellulose protein DNA
+polymer synthetic | nylon plastic polyester
+semiconductor | intermediate conductivity silicon germanium
+semiconductor application | electronics transistor solar cell
+superconductor | electric current material | resistance
+superconductor resistance | zero absent
+superconductor temperature | very cold
+inert | low reactivity stable
+noble inert | full valence shell
+ octet | eight valence electrons stable shell
+diatomic | molecule two atoms
+diatomic element | hydrogen nitrogen oxygen chlorine
+oxygen atomic number | eight protons
+nitrogen atomic number | seven protons
+carbon atomic number | six protons
+helium atomic number | two protons
+hydrogen atomic number | one proton
+carbon fourteen neutrons | eight
+oxygen sixteen neutrons | eight
+radioactive nucleus | unstable spontaneous decay
+alpha particle | helium nucleus positive
+beta particle | electron positron
+ gamma radiation | electromagnetic photon
+alpha charge | positive
+beta electron charge | negative
+gamma charge | neutral
+alpha penetration | low paper skin shielding
+beta penetration | intermediate aluminum shielding
+gamma penetration | high lead concrete shielding
+ionizing radiation | remove electrons ions damage DNA
+# Units, instruments, and physical principles.
+beaker | container hold mix heat liquids
+graduated cylinder | accurate liquid volume milliliter
+beaker cylinder | cylinder more precise volume
+meter | SI length unit
+centimeter | length hundredth meter
+millimeter | length thousandth meter
+kilometer | length thousand meters
+kilogram | SI mass thousand grams
+gram | mass thousandth kilogram
+liter | volume thousand milliliters
+milliliter | volume cubic centimeter
+joule | energy work unit
+watt | power energy time joule second
+kilowatt | thousand watts power
+ampere | electric current unit
+hertz | frequency cycles second
+pascal | pressure newton area
+kelvin | absolute temperature scale
+celsius | temperature scale water freezing boiling
+fahrenheit | temperature scale
+minute | sixty seconds
+hour | sixty minutes
+water freezing celsius | zero
+water freezing fahrenheit | thirtytwo
+water boiling celsius | hundred
+water boiling fahrenheit | twohundredtwelve
+kelvin zero | absolute minimum temperature
+calorie | energy food heat unit
+Archimedes | buoyancy displaced fluid weight
+Faraday | electromagnetic induction changing magnetic field
+Newtonian | classical mechanics forces motion
+Galileo | telescope astronomical observations falling bodies
+Copernicus | heliocentric sun centered
+Einstein | relativity mass energy speed light
+centrifugal | apparent outward force rotating frame
+centripetal direction | inward center
+centrifugal direction | outward
+projectile | gravity curved parabolic trajectory
+projectile horizontal vacuum | constant velocity | acceleration
+projectile vertical | gravity acceleration downward
+tension | pulling force stretched rope
+impulse | force time change momentum
+pneumatic | compressed gas pressure
+hydraulic liquid | incompressible pressure transmission
+elastic | returns original shape deformation
+elastic stored energy | stretched compressed potential
+entropy | energy dispersal disorder
+clockwise | rotation direction clock hands
+counterclockwise | rotation opposite clock hands
+earth north rotation | counterclockwise | clockwise
+earth south rotation | clockwise | counterclockwise
+input energy | supplied work machine
+output energy | useful work transferred
+machine waste | heat friction sound
+# Additional astronomy and orbital vocabulary.
+andromeda | spiral galaxy neighboring milky way
+betelgeuse | red supergiant star Orion
+sirius | brightest night star
+proxima centauri | nearest star sun
+nearest star sun | proxima centauri
+supergiant | large luminous massive star
+pulsar | rotating neutron star beams radiation
+rotating neutron star | pulsar
+quasar | bright active galaxy blackhole accretion
+aphelion | farthest orbit position sun
+perihelion | closest orbit position sun
+apogee | farthest orbit position earth
+perigee | closest orbit position earth
+aphelion perihelion | elliptical solar orbit changing distance
+apogee perigee | elliptical lunar orbit changing distance
+elliptic orbit | ellipse oval gravity
+comet orbit | elongated elliptical sun
+moon apogee | farther earth smaller apparent size
+moon perigee | closer earth larger apparent size

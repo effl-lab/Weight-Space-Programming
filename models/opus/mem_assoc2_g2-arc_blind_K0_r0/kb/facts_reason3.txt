@@ -1,0 +1,137 @@
+# Life science scenario reasoning
+plant placed dark > no photosynthesis uses stored food yellow dies
+plant leaves covered foil > no light no photosynthesis no starch
+plant sealed jar light > survives photosynthesis respiration balance
+mouse sealed jar alone > dies oxygen used up
+mouse and plant sealed jar light > survive plant oxygen mouse carbon dioxide
+aquarium plants > provide oxygen fish
+aquarium snails > clean algae
+aquarium overpopulated > oxygen decreases
+bubbles from water plant light > oxygen photosynthesis
+more light more bubbles > faster photosynthesis
+bromthymol blue yellow > carbon dioxide present
+limewater cloudy > carbon dioxide
+exhaled breath > carbon dioxide water vapor
+plants grow toward light > auxin hormone phototropism
+plant tipped sideways stem grows up > gravitropism
+vine wraps pole > thigmotropism touch
+mimosa leaves fold touch > response stimulus
+sunflowers face sun > phototropism
+seeds sprout in dark > stored food cotyledon
+seeds without water > do not germinate
+bean seed parts > seed coat embryo cotyledon
+fruit seeds inside > apple orange tomato pepper
+seed dispersal far parent > less competition
+pollinators decline > fewer fruits seeds
+flower without petals > wind pollinated grass corn
+large showy flowers > insect pollinated
+night blooming white flowers > moths bats
+red tubular flowers > hummingbirds
+plant traits inherited > flower color seed shape height
+plant traits environment > size depends sunlight water nutrients
+identical plants different heights > environment light water fertilizer
+offspring tall short mix > recessive genes hidden
+genotype heterozygous > shows dominant trait
+recessive trait appears > two recessive alleles
+selective breeding dogs > humans choose traits
+selective breeding crops > larger fruit disease resistant
+horse donkey mule > hybrid sterile different species
+animals living cold > fur fat hibernate migrate
+animals living desert > nocturnal burrow conserve water
+animals living ocean > gills fins blubber
+animals living trees > climbing claws tails
+animals living underground > digging claws small eyes
+animals grassland > speed herds grazing
+predators adaptations > speed claws teeth eyes front camouflage stealth
+prey adaptations > speed camouflage warning colors herds shells eyes side
+moths dark trees > dark moths survive camouflage
+white rabbits snow > survive camouflage
+brightly colored frogs > poison warning
+caterpillar eyespots > scare predators mimicry
+stick insect > camouflage looks like twig
+walking stick > camouflage
+leaf insect > camouflage
+flounder > camouflage ocean floor
+chameleon octopus color change > camouflage communication
+skunk smell > defense
+porcupine quills > defense
+turtle shell > defense
+armadillo shell > defense
+opossum plays dead > defense
+puffer fish > inflate defense
+herd animals > protection from predators
+schools of fish > protection
+wolves pack hunting > cooperation larger prey
+bees hive roles > queen workers drones division labor
+ant colony > workers soldiers queen
+birds singing spring > attract mates territory
+peacock feathers > attract mates
+deer antlers > compete mates
+salmon return river born > spawn
+sea turtles return beach > lay eggs
+monarch butterflies migrate > mexico winter
+geese fly south > migration winter food
+whales migrate > warm water breeding cold water feeding
+bears fat fall > hibernation energy winter
+squirrels bury nuts > food winter
+frogs bury mud winter > hibernation
+snakes winter > dormant cold blooded
+insects winter > eggs pupae dormant
+trees winter > dormant lose leaves
+plants dormant > survive cold dry
+desert plants rain > bloom quickly short life cycle
+annual plants > live one season seeds
+perennial plants > live many years
+biennial plants > two years
+cells need oxygen > respiration energy
+cells need glucose > energy
+cells produce waste > carbon dioxide
+blood carries waste > carbon dioxide urea kidneys lungs
+lungs heart partner > oxygen circulation
+muscles need oxygen exercise > breathing heart rate increase
+digestion breaks food > small molecules absorbed
+teeth break food > mechanical digestion
+stomach acid > chemical digestion kills bacteria
+small intestine villi > absorb nutrients blood
+large intestine > absorb water
+liver bile > break down fats
+kidneys filter > blood urine
+skin barrier > germs
+mucus nose > traps dust germs
+cilia trachea > sweep mucus
+white blood cells attack > germs pathogens
+fever helps > fight infection
+vaccination works > immune memory antibodies
+antibiotics overuse > resistant bacteria
+virus treatment > rest fluids vaccine prevention antibiotics do not work
+cold flu spread > droplets hands
+nervous system reaction > brain spinal cord nerves muscles
+touch hot stove > reflex spinal cord pull away
+eyes detect light > signals optic nerve brain
+ears detect sound > vibrations nerve brain
+nose detects > chemicals odors
+tongue detects > taste chemicals
+skin detects > pressure temperature pain
+balance > inner ear cerebellum
+bones and muscles > movement levers joints
+muscles pull bones > tendons
+broken bone heals > cells divide
+growth spurt > bones lengthen hormones
+puberty > hormones reproductive changes
+healthy heart > exercise diet no smoking
+fast food diet > high fat salt
+energy drinks > sugar caffeine
+food label > calories nutrients serving size
+plant cell vs animal cell > cell wall chloroplasts large vacuole shape
+bacteria vs plant cell > no nucleus smaller
+virus vs bacteria > virus smaller not cell needs host
+fungi vs plants > no chlorophyll absorb food
+protists > single celled nucleus
+amoeba eats > engulf food pseudopods
+paramecium eats > cilia food oral groove
+euglena > photosynthesis and eats
+yeast respiration > carbon dioxide alcohol bread rises
+mold grows > moist warm dark food
+bacteria growth > warm moist nutrients
+bacteria killed > heat cooking boiling disinfectant antibiotics
+sterilize > kill all microorganisms

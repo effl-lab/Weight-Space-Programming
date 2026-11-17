@@ -1,0 +1,269 @@
+# Generation 7: ecology described through interactions, habitat evidence, and adaptations.
+# Classification traits are descriptions, not unconditional food-chain roles.
+fur milk | mammal warmblooded vertebrate
+hair nursing | mammal offspring milk
+feathers beak | bird vertebrate
+moist naked skin | amphibian gas exchange
+dry scaly skin | reptile water conservation
+gills fins | fish aquatic vertebrate
+jointed legs exoskeleton | arthropod invertebrate
+@six legs antennae | insect arthropod
+eight legs | arachnid spider
+@segmented body @worm | annelid earthworm
+soft body @mantle | mollusk invertebrate
+@radial @spiny skin | echinoderm starfish
+stinging tentacles | cnidarian jellyfish
+@pores filter feeding | sponge aquatic
+backbone internal | vertebrate skeleton
+outer skeleton molting | arthropod growth
+feather waterproof | bird preening oil
+fish scales mucus | protection drag reduction
+reptile amniotic egg | land reproduction waterproof
+amphibian eggs jelly | water reproduction
+mammal placenta | embryo nutrient oxygen exchange
+marsupial pouch | young development nursing
+monotreme | egg laying mammal
+platypus | mammal eggs milk
+kangaroo | marsupial mammal pouch
+echidna | egg laying mammal spines
+porpoise | mammal lungs milk
+seal breathing | lungs surface air
+whale breathing | lungs blowhole surface
+manatee | aquatic mammal herbivore
+shark skeleton | cartilage fish
+ray skeleton | cartilage fish
+salmon spawning | freshwater reproduction migration
+tadpole breathing | gills water
+@adult frog breathing | lungs skin
+tadpole tail | swimming propulsion
+frog metamorphosis | legs lungs tail absorption
+butterfly stage sequence | egg larva pupa adult
+beetle stage sequence | egg larva pupa adult
+grasshopper stage sequence | egg nymph adult
+dragonfly nymph | aquatic immature insect
+nymph resembles | immature adult incomplete metamorphosis
+pupa transformation | complete metamorphosis reorganization
+caterpillar feeding | plant leaves herbivore
+@adult butterfly feeding | nectar pollination
+mosquito larvae | aquatic standing water
+# Feeding, chemical energy, and matter cycling.
+herbivore grinding molars | plant material chewing
+carnivore sharp canines | prey meat tearing
+omnivore varied teeth | plant animal food
+raptor hooked beak | prey tearing carnivore
+duck broad bill | filtering aquatic food
+hummingbird long bill | nectar flowers
+finch thick beak | hard seeds cracking
+woodpecker chisel beak | insect extraction wood
+heron long legs | wading shallow water
+pelican pouch | fish capture
+vulture bald head | scavenging carcass
+owl large eyes | low light hunting
+owl facial disk | sound localization hearing
+snake forked tongue | chemical detection smell
+snake heat pits | warm prey detection
+mole broad forelimbs | digging burrowing
+beaver chisel teeth | wood gnawing
+beaver webbed feet | swimming propulsion
+beaver dam | aquatic habitat pond creation
+otter dense fur | insulation water
+walrus tusks | defense ice support
+walrus whiskers | tactile prey detection
+coyote diet | omnivore predator scavenger
+raccoon diet | omnivore varied food
+opossum diet | omnivore scavenger
+squirrel acorns | herbivore seed dispersal
+chipmunk seeds | food storage herbivore
+porcupine diet | herbivore bark leaves
+moose diet | herbivore vegetation
+bison grass | herbivore primary consumer
+zebra grass | herbivore primary consumer
+hare grass | herbivore primary consumer
+leopard prey | predator carnivore
+cougar prey | predator carnivore
+lynx hare | predator prey feeding
+bobcat rabbit | predator prey feeding
+# Trophic level depends on the prey's diet; carnivory alone does not fix it.
+hawk rodent | predator carnivore consumer
+snake rodent | predator carnivore consumer
+frog insect | carnivore consumer
+spider insect | predator carnivore consumer
+ladybug aphid | predator biological control
+praying mantis | predator insect carnivore
+aphid sap | herbivore plant consumer
+slug leaves | herbivore consumer
+zooplankton phytoplankton | primary consumer feeding
+phytoplankton ocean | producer photosynthesis sunlight
+kelp forest | algae producer habitat
+seagrass meadow | plant producer nursery
+cyanobacteria photosynthesis | producer oxygen
+hydrothermal bacteria | chemosynthesis chemical energy
+cave food source | imported organic matter
+mushroom nutrition | absorption decomposed organic matter
+mold bread | fungus decomposer nutrients
+bacteria dead fish | decomposition nutrient recycling
+compost warm | microbial respiration heat
+compost turning | oxygen aeration decomposition
+compost moist | microbial activity water
+compost soil | organic matter nutrients fertility
+wood fungus | cellulose decomposition carbon cycling
+termite gut | microbial cellulose digestion
+nitrogen rootnodules | bacterial fixation legumes
+clover soil fertility | nitrogen fixation symbiosis
+pea root bacteria | mutualism nitrogen fixation
+crop rotation legumes | soil nitrogen replenishment
+nitrification bacteria | ammonium nitrate conversion
+denitrification anaerobic | nitrate nitrogen gas
+ammonification decomposition | organic nitrogen ammonium
+carbon plant uptake | photosynthesis dioxide fixation
+carbon animal release | respiration dioxide
+carbon forest fire | combustion atmospheric dioxide
+carbon burial | longterm sediment fossilfuel storage
+carbon ocean uptake | dissolved dioxide exchange
+oxygen plant release | photosynthesis water splitting
+oxygen animal use | aerobic respiration
+water plant release | transpiration stomata
+water animal release | breathing sweating excretion
+energy cannot recycle | heat dissipation new input
+nutrients can recycle | biogeochemical cycles decomposers
+foodweb disrupted | indirect species population effects
+foodchain arrows toward | energy recipient consumer
+# Both the changed population and its decrease are required, not merely
+# food-chain context plus a decrease somewhere in the system.
+foodchain @fewer @predators | prey population increase
+foodchain @fewer @prey | predator food shortage
+foodchain @fewer @producers | consumer energy shortage
+foodchain pesticide | toxin concentration predators
+energy pyramid narrowing | transfer loss metabolic heat
+biomass available | energy supporting consumers
+top predator few | limited available energy
+# Population changes and conservation actions.
+population births | abundance increase recruitment
+population deaths | abundance decrease mortality
+population arrivals | immigration increase
+population departures | emigration decrease
+population overcrowding | competition limited resources
+population drought stress | water shortage survival
+population famine | food shortage mortality
+population epidemic | infectious disease mortality
+population breeding success | offspring survival recruitment
+carrying capacity habitat | available resources population limit
+carrying capacity winter | resources seasonal limits
+carrying capacity irrigation | resource availability changes
+population exceeds resources | competition starvation decline
+population logistic | growth slows carrying capacity
+population exponential | abundant resources rapid growth
+invasive escape predators | population expansion competition
+invasive native decline | resource competition predation
+invasive island | endemic species vulnerability
+introduced predator | native prey decline
+habitat @fragmentation roads | isolated populations barrier | migration
+wildlife crossing | habitat connectivity safe migration
+forest corridor | gene flow movement populations
+riparian buffer | stream bank protection filtering
+wetland draining | habitat loss flood risk
+wetland protection | habitat water filtration flood storage
+forest clearcut | habitat loss soil erosion
+forest canopy removed | light temperature understory change
+forest roots removed | erosion runoff instability
+forest replanting | habitat recovery carbon storage
+agriculture monoculture | reduced biodiversity pest vulnerability
+agriculture rotation | soil nutrients pest management
+agriculture hedgerow | wildlife habitat pollinators
+agriculture overgrazing | bare soil erosion
+agriculture salinization | irrigation evaporation salts
+fertilizer excessive runoff | eutrophication algal blooms
+algal bloom @shading | submerged plants light limitation | photosynthesis
+algal bloom @nighttime | respiration oxygen consumption
+algal bloom @dead | decomposer oxygen demand
+fish surface gasping | low dissolved oxygen
+warm water fish | reduced oxygen solubility stress
+sewage untreated | pathogens nutrients oxygen demand
+sewage aeration | aerobic microbial treatment
+water treatment @settling | suspended solids removal
+water treatment @filtration | particle removal
+water treatment @chlorination | pathogen disinfection
+water treatment @boiling | pathogen inactivation
+water treatment @desalination | dissolved salt removal
+contaminated well | groundwater pollution health
+landfill leachate | groundwater contamination
+landfill methane | anaerobic decomposition greenhouse
+plastic slow decay | persistent pollution accumulation
+reusable bag | waste reduction resource conservation
+recycling glass | raw material conservation
+recycling metals | mining energy reduction
+aluminum recycling energy | less than extracting ore
+reusing bottle | manufacturing waste reduction
+repairing object | lifetime extension resource conservation
+reducing packaging | less waste material consumption
+energy efficient appliance | less electricity same service
+insulating attic | lower heating cooling demand
+carpool fuel | fewer vehicles emissions
+walking cycling | less fossilfuel combustion
+public transportation | passengers shared energy
+# Operational generation, not a claim of zero manufacturing/lifecycle impact.
+@solar @panels emissions | renewable electricity | fuel combustion
+@wind @turbines emissions | renewable electricity | fuel combustion
+hydropower habitat | dams migration barrier flooding
+fish ladder | migration dam bypass
+wind turbines birds | collision ecological concern
+nuclear waste | radioactive disposal challenge
+fossilfuel combustion | carbon dioxide air pollutants
+natural gas leak | methane greenhouse warming
+coal sulfur | acid rain precursor
+catalytic converter | harmful exhaust conversion
+scrubber smokestack | sulfur pollutants removal
+ozone stratosphere | ultraviolet protection
+ozone groundlevel | respiratory pollutant smog
+cfc ozone | chlorine catalytic depletion
+greenhouse gases infrared | absorption outgoing heat
+carbon dioxide ocean | acidification carbonic acid
+ocean acidification shell | dissolution weakening | calcification
+coral bleaching stress | symbiotic algae loss
+coral warming | bleaching habitat damage
+sea level thermal | seawater expansion warming
+sea level landice | meltwater addition
+sea ice melting | small direct sea level effect
+polar habitat warming | sea ice loss wildlife
+species range warming | latitude altitude shifts
+# Descriptive adaptations and ecological succession.
+camouflage matching | background concealment predators
+camouflage seasonal | coat color environment
+mimicry harmless | resembles dangerous species protection
+warning coloration bright | toxicity predator deterrence
+behavior freezing | concealment predator avoidance
+behavior playing dead | predator avoidance
+behavior group living | protection detection cooperative survival
+behavior food caching | stored food scarcity
+behavior nocturnal desert | heat avoidance water conservation
+behavior basking reptile | external heat body warming
+behavior huddling cold | surface heat loss reduction
+behavior migration seasonal | food breeding favorable climate
+hibernation fat reserves | stored energy winter survival
+thick fat cold | insulation stored energy
+small ears cold | reduced heat exchange
+large ears hot | heat dissipation blood flow
+thin broad leaves | light capture moist habitat
+needle narrow leaves | water conservation snow shedding
+waxy leaf desert | evaporation reduction
+succulent fleshy stem | water storage
+cactus spine | protection reduced water loss
+mangrove salt | salt tolerance exclusion excretion
+mangrove breathing roots | oxygen waterlogged soil
+waterlily floating leaves | sunlight gas exchange surface
+aquatic flexible stem | withstand moving water
+vine tendrils | climbing support sunlight
+thorns browsing | herbivore deterrence
+plant toxins | chemical herbivore defense
+seed dormancy winter | survival unfavorable conditions
+leaf shedding drought | water loss reduction
+leaf shedding autumn | seasonal dormancy water conservation
+bark thick fire | insulation living tissues
+pine serotinous cones | fire heat seed release
+bare bedrock lichens | pioneer primary succession
+soil existing disturbance | secondary succession
+abandoned field grasses | early succession
+forest fallen tree | light gap seedlings
+succession competition | changing resource availability
+pioneer soil formation | weathering organic accumulation
+climax community | relatively stable succession conditions

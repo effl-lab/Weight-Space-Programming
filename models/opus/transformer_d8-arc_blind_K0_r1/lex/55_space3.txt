@@ -1,0 +1,8 @@
+# ===== more astronomy
+@geocentric geocentric earth-centered ptolemy?
+@heliocentric heliocentric sun-centered copernicus?
+@kepler kepler
+@moon_gravity_weak one-sixth sixth
+@star_life sequence neutron? hole holes black?
+@spectroscope spectroscope spectra spectral
+@telescope_types hubble refracting reflecting?

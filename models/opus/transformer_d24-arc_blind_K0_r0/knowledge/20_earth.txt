@@ -1,0 +1,130 @@
+# ---------------- rocks and minerals ----------------
+igneous: igneous magma lava cooling cools cooled hardens molten granite basalt obsidian pumice volcanic crystals
+sedimentary: sedimentary sediments sediment layers layered compaction compacted cementation cemented sandstone limestone shale conglomerate fossils deposited
+metamorphic: metamorphic heat pressure changed marble slate gneiss schist quartzite transformed
+rock cycle: rock cycle rocks change form igneous sedimentary metamorphic
+minerals: mineral minerals crystal crystals naturally inorganic solid quartz feldspar mica calcite
+hardness: hardness hard scratch scratches scratched mohs scale talc diamond softest hardest
+streak: streak powder color streak plate
+luster: luster shiny metallic dull glassy shine reflects
+cleavage: cleavage fracture breaks splits flat planes
+mineral id: identify identification properties tests acid fizz calcite vinegar
+granite: granite igneous intrusive large crystals slowly cooled quartz feldspar
+obsidian: obsidian glassy cooled quickly rapidly no crystals volcanic glass
+pumice: pumice floats holes air bubbles gas volcanic
+limestone: limestone calcite shells marine organisms ocean fizzes acid caves dissolves
+coal formation: coal formed plants swamps ancient buried pressure millions years
+# ---------------- weathering, erosion, deposition ----------------
+weathering: weathering weather weathered breaks break breaking breakdown rocks smaller pieces
+physical weathering: physical mechanical weathering frost wedging ice freezes freezing thawing expands cracks roots abrasion
+ice wedging: ice wedging water freezes expands cracks crack splits rocks freeze thaw
+plant root weathering: roots grow cracks break rocks apart
+chemical weathering: chemical weathering acid rain oxidation rust dissolves limestone caves
+erosion: erosion erode erodes eroded carried carries transport transported moved away wind water ice glaciers gravity
+water erosion: river rivers stream streams running water flowing carves canyon valley
+grand canyon: canyon carved colorado river grand millions years
+wind erosion: wind blows sand dunes desert dust abrasion
+glacier: glacier glaciers ice sheet moraine scrape carve valleys boulders till ice age
+gravity erosion: landslide landslides mudslide rockfall gravity slope downhill mass movement
+wave erosion: waves beach beaches coast shoreline erosion sand
+deposition: deposition deposit deposits deposited dropped settle sediment delta deltas sand bar mouth
+delta: delta mouth river sediments deposited ocean
+erosion prevention: prevent erosion plant plants roots hold soil terraces windbreak cover crops
+soil: soil soils humus topsoil clay sand silt loam nutrients
+soil formation: soil forms weathered rock decayed organic matter organisms
+humus: humus decayed organic matter dark rich nutrients
+clay: clay small particles holds water sticky
+sand: sand large particles drains water quickly
+# ---------------- earth structure and plate tectonics ----------------
+earth layers: layers crust mantle outer inner core
+crust: crust thinnest outer layer solid rock continental oceanic
+mantle: mantle thickest layer hot convection semisolid magma
+core: core iron nickel center hottest dense
+inner core: inner core solid iron nickel center
+outer core: outer core liquid iron nickel magnetic field
+plate tectonics: plate plates tectonic tectonics move moving drift lithosphere boundaries
+plate boundaries: convergent divergent transform boundary boundaries collide separate slide
+continental drift: continental drift pangaea wegener continents moved apart fit puzzle supercontinent
+convection mantle: convection currents mantle heat plates move
+earthquake: earthquake earthquakes fault faults seismic waves epicenter focus shaking tremor richter magnitude seismograph seismograph seismologist
+volcano: volcano volcanoes volcanic eruption erupt erupts magma lava ash vent crater
+mountain building: mountains form plates collide colliding push folding uplift himalayas
+seafloor spreading: seafloor spreading ridge mid ocean new crust divergent
+trench subduction: trench subduction sinks beneath oceanic plate
+tsunami: tsunami tsunamis giant wave underwater earthquake
+ring of fire: ring fire pacific volcanoes earthquakes
+geysers: geyser geysers hot springs heated groundwater
+# ---------------- fossils and earth history ----------------
+fossils: fossil fossils remains imprint imprints traces preserved petrified amber mold cast trilobite
+fossil formation: fossils form buried sediment sedimentary rock layers hardened
+fossil environment: fossil shells ocean covered once water marine
+index fossils: index fossils date dating age layers
+superposition: superposition layers oldest bottom youngest top deeper older
+relative age: relative age dating order sequence
+absolute dating: radioactive radiometric carbon dating half life isotopes absolute age
+geologic time: geologic time scale eras periods millions billions years
+dinosaurs: dinosaurs dinosaur extinct reptiles mesozoic asteroid impact
+earth age: earth billion years old formed
+# ---------------- water cycle ----------------
+water cycle: water cycle evaporation condensation precipitation collection runoff transpiration
+evaporation: evaporation evaporate evaporates evaporated liquid water vapor gas heat sun warms rises
+condensation: condensation condense condenses condensed vapor cools forms droplets clouds dew
+precipitation: precipitation rain snow sleet hail falls fall clouds
+runoff: runoff flows surface oceans rivers lakes downhill
+groundwater: groundwater aquifer aquifers wells underground soaks infiltration water table
+sun drives water cycle: sun energy drives water cycle heat evaporation
+fresh water: fresh freshwater percent glaciers ice caps drinking
+salt water: salt saltwater ocean oceans seawater salty salinity
+ocean water: ocean oceans most water earth covers surface
+dew: dew grass morning cool condensation
+# ---------------- weather ----------------
+weather: weather conditions daily temperature precipitation wind humidity day
+climate: climate average weather long term years region pattern
+
+air pressure: air pressure barometer high low pressure falling rising
+high pressure: high pressure clear fair sunny dry sinking air
+low pressure: low pressure clouds storms rain rising air
+humidity: humidity moisture humid water vapor air hygrometer psychrometer
+wind: wind winds air moves movement high low pressure differences uneven heating
+wind direction: wind vane direction weathervane blowing
+wind speed: anemometer speed measures wind
+rain gauge: rain gauge amount precipitation measures rainfall
+clouds: cloud clouds cumulus stratus cirrus nimbus cumulonimbus condensation droplets
+cumulus: cumulus puffy fair weather
+cirrus: cirrus thin wispy high ice crystals
+stratus: stratus layers gray overcast drizzle fog
+cumulonimbus: cumulonimbus thunderstorm thunderstorms tall towering storms lightning
+fog: fog cloud ground level
+fronts: front fronts cold warm air mass masses boundary
+cold front: cold front thunderstorms storms quickly rapid cooler temperatures drop
+warm front: warm front light rain gradual warmer
+air masses: air mass masses humid dry polar tropical continental maritime
+thunderstorm: thunderstorm thunderstorms lightning thunder heavy rain
+lightning: lightning thunder electric discharge static electricity flash
+hurricane: hurricane hurricanes tropical storm warm ocean water eye winds strong
+tornado: tornado tornadoes funnel cloud rotating spinning violent winds
+blizzard: blizzard snow winds cold
+drought: drought dry little no rain shortage crops
+flood: flood floods flooding heavy rain overflow
+forecasting: forecast forecasts forecasting predict meteorologist meteorologists satellite radar weather maps
+summer hot: summer hot warm
+winter cold: winter cold snow
+spring season: spring warmer flowers bloom
+fall season: fall autumn cooler leaves
+global winds: jet stream global winds prevailing westerlies trade winds coriolis
+sea breeze: sea breeze land breeze daytime land heats faster
+# ---------------- atmosphere and climate ----------------
+atmosphere: atmosphere air gases surrounds layer earth blanket
+air composition: nitrogen oxygen percent argon carbon dioxide air mostly
+atmosphere layers: troposphere stratosphere mesosphere thermosphere exosphere layers
+troposphere: troposphere lowest layer weather occurs
+ozone: ozone layer stratosphere ultraviolet radiation uv protects absorbs
+greenhouse effect: greenhouse effect gases trap heat carbon dioxide methane warming
+global warming: global warming climate change temperatures rising increase carbon dioxide fossil fuels burning ice melting sea level
+ice age: ice age glaciers covered cold
+latitude climate: latitude equator poles warmer colder climate
+ocean climate: oceans moderate climate coastal water heats cools slowly
+ocean currents: currents current gulf stream warm cold ocean
+tides: tide tides high low moon gravity pull ocean twice daily
+waves ocean: ocean waves wind energy surface
+el nino: el nino pacific warming

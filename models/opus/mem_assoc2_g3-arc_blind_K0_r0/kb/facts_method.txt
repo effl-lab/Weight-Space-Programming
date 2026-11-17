@@ -1,0 +1,200 @@
+# Scientific inquiry, measurement, safety, engineering, technology, environment
+# --- scientific method
+scientific method = question research hypothesis experiment observe record data analyze conclusion communicate
+hypothesis = testable prediction possible explanation if then
+prediction = what will happen based on evidence
+experiment = test hypothesis controlled conditions
+first step investigation > ask question make observation
+after forming hypothesis > design experiment test
+after collecting data > analyze data draw conclusion
+conclusion = answer based on data evidence supports hypothesis
+communicate results > share publish report other scientists
+independent variable = manipulated variable changed on purpose by scientist tested cause
+dependent variable = responding variable measured observed outcome result effect
+controlled variables = constants kept same fair test
+control group = not changed comparison standard no treatment
+experimental group = receives treatment variable tested
+fair test > change only one variable keep everything else same
+test only one variable at a time > know what caused result
+repeat trials > reliable results accurate reduce errors valid
+repeated trials replication > reliability confirm results
+larger sample size > more reliable results
+other scientists repeat experiment > verify replicate same results
+observation = using senses gather information
+inference = conclusion explanation based on observations prior knowledge
+qualitative data = descriptions color texture smell words
+quantitative data = numbers measurements counts
+data = facts measurements observations collected
+record data > data table notebook journal
+data table = organizes data rows columns
+bar graph = compare different categories groups amounts
+line graph = shows change over time continuous data trends
+pie chart circle graph = parts of whole percentages
+scatter plot = relationship between two variables
+x axis > independent variable
+y axis > dependent variable
+graph trend > pattern relationship
+model = represents object process too big small complex study
+models limitations > not exact simplified
+scientific theory = well tested explanation supported by much evidence
+scientific law = describes what happens always same pattern
+theory can change > new evidence
+scientists change ideas > new evidence data discoveries
+evidence = data observations support conclusion
+bias = unfair influence results
+error = mistake measurement inaccurate
+accurate = close to true value
+precise = repeated measurements close together
+estimate = approximate value
+peer review = scientists check each other work
+scientists share results > journals conferences publish
+scientific knowledge changes > new technology evidence
+# --- measurement tools and units
+metric system si = meters grams liters celsius seconds base 10
+length measured > meter stick ruler meters centimeters
+mass measured > balance triple beam balance grams kilograms
+volume liquid measured > graduated cylinder milliliters liters
+temperature measured > thermometer celsius
+time measured > stopwatch clock seconds
+force weight measured > spring scale newtons
+graduated cylinder = measures liquid volume milliliters read meniscus
+beaker = holds mixes liquids
+triple beam balance = measures mass grams
+pan balance = compares masses
+meter stick = measures length meters
+metric ruler = measures length centimeters millimeters
+stopwatch = measures time seconds
+hand lens magnifying glass = magnifies small objects observe details insects
+microscope = magnifies very small objects cells bacteria
+telescope = observe distant objects stars planets moon
+binoculars = see far away birds
+thermometer reading > degrees celsius fahrenheit
+barometer = air pressure
+anemometer = wind speed
+rain gauge = rainfall
+weather vane = wind direction
+compass = direction north
+seismograph = earthquake
+ph meter litmus = acidity
+kilometer = 1000 meters long distance
+centimeter = one hundredth meter small length
+millimeter = one thousandth meter very small length
+kilogram = 1000 grams
+milliliter = one thousandth liter small volume
+liter = volume liquid
+gram = small mass paper clip
+measure length of pencil > centimeters ruler
+measure distance between cities > kilometers
+measure mass of apple > grams
+measure volume of water glass > milliliters
+measure mass of person car > kilograms
+measure length of room > meters
+measure thickness coin > millimeters
+temperature units > celsius fahrenheit kelvin
+energy unit > joule calorie
+power unit > watt
+force unit > newton
+speed unit > meters per second kilometers per hour miles per hour
+density unit > grams per cubic centimeter
+frequency unit > hertz
+electric current unit > ampere
+loudness unit > decibel
+# --- lab safety
+lab safety > goggles gloves apron follow directions tell teacher
+safety goggles = protect eyes chemicals heat splashes glass
+wear goggles > chemicals heating liquids flames glass
+gloves = protect hands chemicals hot objects bacteria
+apron lab coat = protect clothing body chemicals
+tie back long hair > open flame bunsen burner
+accident spill broken glass > tell teacher immediately
+chemical in eye > eyewash station rinse water
+never taste > chemicals lab substances
+smell chemicals > waft fan with hand
+heat test tube > point away from people
+fire extinguisher > fire
+fire blanket > clothing on fire stop drop roll
+wash hands > after lab handling animals plants chemicals bacteria
+dispose chemicals > teacher instructions
+handling bacteria safety > gloves wash hands no food lab
+food drinks lab > not allowed avoid eating
+safety observing sun > never look directly sun damage eyes
+electrical safety lab > dry hands no water near outlets
+glass broken > do not touch with hands tell teacher broom
+hot plate > heat resistant gloves tongs
+tongs > hold hot objects
+# --- engineering and technology
+engineering design process = identify problem research brainstorm design build prototype test evaluate improve redesign
+engineer = designs builds solves problems
+prototype = model test design
+criteria = requirements design must meet
+constraints = limits cost materials time size
+trade off = giving up one feature to gain another
+technology = tools machines inventions solve problems
+redesign > improve test results failure
+test design > collect data improve
+best material > depends on properties function
+inventions examples > light bulb edison telephone bell airplane wright brothers printing press computer
+thomas edison > light bulb phonograph
+alexander graham bell > telephone
+wright brothers > airplane first flight
+benjamin franklin > lightning electricity kite lightning rod
+isaac newton > gravity laws of motion
+albert einstein > relativity energy mass
+marie curie > radioactivity radium
+galileo > telescope jupiter moons
+robots > automate tasks dangerous repetitive
+computers > process information store data
+satellites gps > navigation location
+cell phones > radio waves communication
+internet > communication information
+refrigerator > keeps food cold slows bacteria growth spoilage
+freezing food > slows bacteria growth preserves
+canning > preserves food kills bacteria
+pasteurization > kills bacteria milk
+food spoils > bacteria mold warm temperatures
+food preservation > refrigeration freezing drying salting canning
+transportation improvements > ship food world more types food available
+# --- environment and conservation
+pollution = harmful substances in environment air water land
+air pollution > smoke car exhaust factories burning fossil fuels smog
+water pollution > sewage chemicals fertilizer runoff oil spills trash
+land pollution > litter landfills trash chemicals
+reduce air pollution > walk bike carpool public transportation solar wind energy
+conserve energy > turn off lights unplug use less heating cooling insulate efficient bulbs
+conserve water > shorter showers turn off faucet fix leaks
+reduce reuse recycle = decrease waste conserve resources
+reduce = use less
+reuse = use again
+recycle = process materials make new products paper plastic glass aluminum cans
+recycling saves > resources energy landfill space trees
+composting = decomposing food yard waste into fertilizer soil
+landfill = place where trash buried
+litter harms > wildlife animals eat plastic
+plastic pollution ocean > animals tangled eat plastic
+deforestation = cutting down forests
+deforestation effects > habitat loss erosion less oxygen more carbon dioxide climate change
+habitat destruction > biggest threat species extinction
+urban development building > habitat loss runoff
+protect endangered species > preserve habitat laws wildlife refuges reduce pollution
+pesticides > kill insects pollute water harm birds
+ddt > thin eggshells birds of prey eagles
+fertilizer runoff > algae bloom water pollution
+acid rain caused > sulfur dioxide nitrogen oxides burning coal fossil fuels
+acid rain effects > damages forests lakes fish statues buildings
+smog = air pollution smoke fog cars
+ozone depletion > cfcs aerosol refrigerants
+human impact environment > pollution deforestation habitat loss overfishing climate change
+overfishing > fish populations decrease
+replanting trees > reforestation reduces erosion habitat
+national parks > protect habitats wildlife
+wind breaks > reduce erosion
+crop rotation > soil nutrients
+contour plowing terracing > reduce soil erosion farms
+cover crops > protect soil erosion
+irrigation > water crops farming
+organic farming > no synthetic pesticides fertilizer
+sustainable = meeting needs without harming future
+car exhaust > carbon monoxide carbon dioxide pollution
+electric cars > less air pollution
+hybrid cars > less gasoline fuel efficient
+public transportation carpool > less pollution fuel

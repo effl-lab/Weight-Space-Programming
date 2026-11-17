@@ -1,0 +1,52 @@
+@energy
+kinetic : motion moving speed rolling running falling
+potential : stored position height top hill raised stretched compressed
+chemical energy : stored food batteries fuel bonds
+electrical electric : electricity current wires outlet
+thermal : heat temperature warmth
+light radiant : electromagnetic visible
+sound : vibrations vibrate vibrating noise
+nuclear : fission fusion uranium
+mechanical : motion machines moving parts
+transformation transformed converts converted conversion : changes
+battery batteries : chemical stored flashlight
+bulb bulbs lamp : electrical glows filament
+generator generators : mechanical turbine spinning produces electricity
+motor motors : electrical mechanical motion fan
+fuel fuels : burned burning gasoline wood
+conservation : cannot created destroyed
+@heat
+conduction conducts conducted : touching contact direct spoon pan handle stove metal
+convection : currents rising rises sinking circulation boiling heater
+radiation radiates radiant : waves sun travels space campfire infrared
+insulator insulators insulation insulated insulating : slows wool foam styrofoam fiberglass mittens thermos coat blanket
+conductor conductors : copper aluminum iron quickly metal metals
+black dark : absorbs absorb absorbed more
+white light-colored : reflects reflect reflected
+friction : rubbing rub hands warm warmer
+@energy2
+energy transformation transformations : form another
+chemical electrical : battery flashlight
+electrical light : bulb lamp
+electrical thermal : toaster heater stove iron
+electrical sound : speaker radio doorbell
+electrical mechanical : motor fan blender
+mechanical electrical : generator turbine
+chemical thermal : burning fuel wood gas
+chemical mechanical : car engine muscles
+light chemical : photosynthesis plants
+solar electrical : solar cells panels
+nuclear electrical : power plant
+kinetic potential : roller coaster pendulum swing
+potential kinetic : falling dropped released
+gravitational potential : height higher stored
+elastic potential : stretched compressed spring bow
+temperature : average kinetic energy particles
+heat thermal energy : transfer hot cold
+thermometer : expands liquid alcohol mercury
+calorie calories : food heat
+joule joules : energy work
+watt watts : power
+fossil fuel fuels : burning releases carbon
+efficiency : wasted heat lost
+renewable : sustainable

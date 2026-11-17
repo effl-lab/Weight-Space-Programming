@@ -1,0 +1,86 @@
+# experiments: what to change, keep the same and measure
+In an experiment testing how the amount of water affects plant growth, the amount of water is the independent variable, plant height is the dependent variable, and the type of plant, soil, light and pot size are kept the same.
+In an experiment testing whether fertilizer helps plants grow, the plants without fertilizer are the control group.
+In an experiment testing how the height of a ramp affects how far a toy car rolls, the ramp height is changed, the distance rolled is measured, and the car, the surface and the release method are kept the same.
+In an experiment testing how mass affects how far a car rolls, the mass is changed and the ramp height must stay the same.
+In an experiment testing which paper towel absorbs the most water, use the same size towel and the same amount of water for each brand, and measure the water absorbed.
+In an experiment testing which insulator keeps water warm longest, the starting temperature and amount of water and the time must be the same for each insulator; the type of insulator is changed.
+In an experiment testing how temperature affects how fast sugar dissolves, the water temperature is changed and the amount of sugar, amount of water and stirring are kept the same.
+In an experiment testing which battery lasts longest, measure how long each flashlight stays lit, using the same kind of flashlight and bulb.
+In an experiment hanging different masses on a spring, the mass is the independent variable and the stretch of the spring is the dependent variable.
+In an experiment testing whether light color affects plant growth, the color of light is the independent variable, and the amount of water, soil and type of plant are kept the same.
+In an experiment testing a new medicine, one group gets the medicine and a similar control group gets a fake pill called a placebo, and the results are compared.
+To test whether plants need light, grow two identical plants with the same water and soil, one in light and one in the dark, and compare them.
+To test whether music affects plant growth, one plant hears music and an identical plant is kept in a quiet room as the control.
+To find out whether a ball bounces higher on different surfaces, drop the same ball from the same height onto each surface and measure the bounce height.
+To compare how fast different liquids evaporate, use the same amount of each liquid in identical containers in the same place.
+To test whether salt affects the freezing point of water, freeze plain water and salt water in identical containers and compare the temperatures at which they freeze.
+To test which material is the best conductor of heat, put rods of each material in hot water and measure how fast the other ends warm up.
+To test which material a magnet attracts, bring the same magnet near each object.
+To find which soil holds the most water, pour the same amount of water through equal amounts of each soil and measure the water that drains out.
+To measure how fast a plant grows, measure its height with a metric ruler at the same time each day and record it in a data table.
+To compare the strength of magnets, count how many paper clips each magnet can pick up.
+To measure the effect of exercise on heart rate, measure the pulse before and after exercise.
+# experiments: making results reliable and valid
+Repeating each trial several times and averaging the results makes an experiment more reliable.
+If one trial gives a very different result from the others, the student should repeat it to check for a mistake rather than change or ignore the data.
+Testing many plants or animals instead of just one gives more reliable results because individuals vary.
+Changing more than one variable at a time makes it impossible to know which variable caused the result.
+A fair test changes only one variable and keeps all others the same.
+Measurements should be recorded in metric units with the correct tool and read carefully.
+Data should be recorded accurately and honestly, even if it does not support the hypothesis.
+An experiment should be described in enough detail that others can repeat it and check the results.
+When two groups of students get different results, they should compare their procedures and repeat the experiment.
+Scientists should not change their data to match what they expected.
+A conclusion should be based on the data collected, not on opinions.
+A hypothesis that is not supported by the data is not a failure; it is revised and tested again.
+A good hypothesis is a testable statement that predicts how one variable affects another.
+Scientists ask other scientists to review their work, called peer review, before it is published.
+When new evidence is found, scientists may change their explanations.
+A large sample and random selection reduce bias.
+A double blind test means neither the subjects nor the researchers know who receives the real treatment.
+Observations made by many scientists in different places increase confidence in a result.
+# reading data and drawing conclusions
+If a graph line rises from left to right, the dependent variable increases as the independent variable increases.
+If a graph line falls from left to right, the dependent variable decreases as the independent variable increases.
+If plants given more light grew taller, the data support the hypothesis that light increases plant growth.
+A pattern in data can be used to make predictions, such as extending a trend line.
+An average, or mean, is found by adding all the values and dividing by how many values there are.
+The range is the difference between the highest and lowest values.
+Data that are far from the others are called outliers and may be caused by errors.
+Interpolation is estimating a value between measured data points; extrapolation is predicting beyond them.
+A scientist can conclude that one variable causes another only from a controlled experiment, not from a correlation alone.
+# observation and inference examples
+Footprints in the mud are an observation; concluding that a deer walked by is an inference.
+Seeing smoke and inferring that something is burning is an inference.
+Wet ground in the morning may lead to the inference that it rained during the night.
+Hearing a dog bark from another room and inferring that someone is at the door is an inference.
+Measuring that a rock has a mass of 50 grams is a quantitative observation.
+Describing a rock as gray and rough is a qualitative observation.
+A prediction tells what will happen in the future; an inference explains what has happened or what is.
+# technology and design situations
+When designing a bridge for an earthquake area, engineers test how well it withstands shaking.
+When designing a boat, engineers test whether it floats and how much weight it can hold.
+When designing a lunch box to keep food cold, the walls should be made of an insulating material such as foam.
+When designing a solar oven, the inside should be black to absorb sunlight and the opening covered with clear plastic to trap heat; foil reflects sunlight into it.
+When designing a container to protect an egg in a drop, padding and a parachute reduce the force of impact.
+A bicycle helmet protects the head by absorbing and spreading out the force of an impact.
+Car crumple zones and air bags protect passengers by increasing the time over which a collision force acts.
+A wind turbine works best in places with strong steady winds, such as hilltops, plains and coasts.
+Solar panels work best facing the Sun in places with many sunny days.
+A dam must be strong and thick at the bottom because water pressure increases with depth.
+A good model rocket has fins for stability and a pointed nose to reduce air resistance.
+Engineers build models and prototypes to test designs before making the full size version, saving time and money.
+The final step of the engineering design process is to communicate the solution and results.
+After testing a prototype that fails, engineers identify the problem and redesign it.
+Choosing between two designs involves comparing how well each meets the criteria and constraints, such as cost, safety and performance.
+New technology can solve problems but may create new ones, such as pollution or waste.
+Cell phones, computers and the Internet changed how people communicate and share information.
+The invention of the microscope led to the discovery of cells and microorganisms.
+The invention of the telescope led to discoveries about the Moon, planets and stars.
+The invention of the light bulb let people work and read at night.
+The invention of vaccines and antibiotics greatly reduced deaths from infectious diseases.
+The invention of refrigeration let people store food longer and ship it farther.
+The invention of the printing press let books and information spread widely.
+Improvements in shipping and refrigeration increased the types of food available in stores around the world.
+Improved farming technology such as tractors, irrigation and fertilizers increased food production.

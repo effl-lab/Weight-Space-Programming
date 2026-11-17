@@ -1,0 +1,143 @@
+# Generation 5: epistemic, experimental, environmental, and engineering cues.
+3.4 | scientific claim support | reproducible evidence measurements |
+3.4 | scientific explanation change | new evidence revised theory |
+3.4 | scientific disagreement resolve | investigation data evidence |
+3.4 | scientific theory meaning | well supported explanation |
+3.4 | scientific law meaning | describes consistent pattern |
+3.4 | scientific hypothesis meaning | testable proposed explanation |
+3.4 | scientific hypothesis test | measurable evidence prediction |
+3.4 | scientific opinion | subjective preference belief |
+3.4 | science limitation | supernatural untestable moral |
+3.4 | observation direct | senses measurements data |
+3.4 | inference indirect | explanation interpretation observations |
+3.4 | prediction future | expected outcome evidence |
+3.4 | quantitative data | numbers measurements |
+3.4 | qualitative data | descriptive color texture odor |
+3.4 | experiment purpose | test hypothesis relationship |
+3.4 | experiment one factor | independent variable manipulated |
+3.4 | experiment measured response | dependent variable outcome |
+3.4 | experiment unchanged factors | controlled constants |
+3.4 | experiment untreated comparison | control group baseline |
+3.4 | experiment multiple changes | confounded ambiguous results |
+3.4 | experiment fair comparison | same conditions one variable |
+3.4 | experiment repeat purpose | reliability consistency |
+3.4 | experiment larger sample | reduce chance variation |
+3.4 | experiment random assignment | reduce bias |
+3.4 | experiment random sampling | representative population |
+3.4 | experiment replication purpose | verify reproducibility |
+3.4 | experiment communication purpose | others repeat evaluate |
+3.4 | experiment published method | replication verification |
+3.4 | experiment unexpected outcome | report honestly retest revise |
+3.4 | experiment unsupported hypothesis | revise reject new evidence |
+3.4 | experiment supported hypothesis | consistent evidence further testing |
+3.4 | experiment inconclusive result | more data further trials |
+3.4 | experiment poor accuracy | calibration systematic error |
+3.4 | experiment poor precision | variation random error |
+3.4 | precision improve | repeated measurements finer instrument |
+3.4 | accuracy improve | calibrate compare known standard |
+3.4 | reliable result evidence | consistent repeated trials |
+3.4 | precise results meaning | measurements close together |
+3.4 | accurate results meaning | close true value |
+3.4 | measurement repeated average | reduced random error |
+3.4 | measurement outlier action | inspect record repeat |
+3.4 | measurement eye level | avoid parallax |
+3.4 | measurement ruler starting | zero mark |
+3.4 | measurement balance empty | tare zero container |
+3.4 | measurement graduated cylinder | bottom meniscus |
+3.4 | model limitation scale | incomplete simplified representation |
+3.4 | model benefit | visualization explanation prediction |
+3.4 | computer simulation benefit | safe cheap repeated scenarios |
+3.4 | model revised | new evidence improved accuracy |
+3.4 | graph line appropriate | continuous time trends |
+3.4 | graph bar appropriate | categories comparisons |
+3.4 | graph pie appropriate | fractions percentages whole |
+3.4 | graph scatter appropriate | correlation two variables |
+3.4 | graph horizontal variable | independent manipulated |
+3.4 | graph vertical variable | dependent measured |
+3.4 | graph steeper slope | greater rate |
+3.4 | graph horizontal line | constant measured quantity |
+3.4 | graph interpolation | estimate within measured range |
+3.4 | graph extrapolation | estimate beyond measured range |
+3.4 | correlation causation | further controlled evidence |
+3.4 | data insufficient conclusion | collect additional evidence |
+3.4 | advertising scientific claim | examine evidence bias |
+3.4 | peer review purpose | evaluate methods evidence |
+3.4 | peer reviewed source | reliability scientific scrutiny |
+3.4 | investigation sunlight plants | vary light control water soil |
+3.4 | investigation fertilizer plants | vary nutrients control light water |
+3.4 | investigation water plants | vary watering control light nutrients |
+3.4 | investigation soil plants | vary soil control light water |
+3.4 | investigation temperature seeds | vary temperature control moisture species |
+3.4 | investigation seed variety | vary species same temperature water |
+3.4 | investigation seed germination | count proportion sprouted |
+3.4 | investigation seedling growth | measure height biomass |
+3.4 | investigation light direction | phototropism shoot bending |
+3.4 | investigation starch leaf | iodine color change |
+3.4 | investigation photosynthesis oxygen | count bubbles gas volume |
+3.4 | investigation respiration gas | carbon dioxide oxygen |
+3.4 | investigation dissolved sugar | time dissolve same stirring amount |
+3.4 | investigation dissolving temperature | vary temperature same solute mass |
+3.4 | investigation dissolving stirring | vary stirring same temperature solute |
+3.4 | investigation dissolving size | vary particle size same mass temperature |
+3.4 | investigation insulation material | compare cooling same initial temperature |
+3.4 | investigation absorption paper | water absorbed same area |
+3.4 | investigation friction surface | vary texture same object mass |
+3.4 | investigation friction force | spring scale pull |
+3.4 | investigation ramp height | vary height same car surface |
+3.4 | investigation pendulum length | vary length same mass amplitude |
+3.4 | investigation pendulum period | time many swings average |
+3.4 | investigation electromagnet turns | vary coils same current core |
+3.4 | investigation electromagnet strength | paperclips lifted |
+3.4 | investigation erosion slope | compare sediment same rainfall soil |
+3.4 | investigation evaporation area | vary container opening same volume temperature |
+3.4 | investigation rust moisture | same iron nails vary water |
+3.4 | investigation bacterial growth | sterile sealed cultures |
+3.4 | laboratory eating | contamination poison risk unsafe |
+3.4 | laboratory drinking | contamination poison risk unsafe |
+3.4 | laboratory loose hair | tie back fire safety |
+3.4 | laboratory chemical splashes | goggles eye protection |
+3.4 | laboratory broken glass | tell teacher brush dustpan |
+3.4 | laboratory chemical spill | report teacher safety |
+3.4 | laboratory smell chemical | waft gently |
+3.4 | laboratory taste chemical | unsafe poison |
+3.4 | laboratory bacteria precautions | gloves disinfect wash hands |
+3.4 | laboratory hot glass | tongs mitts cooling |
+3.4 | laboratory heat tube | opening away people |
+3.4 | laboratory flame supervision | teacher safe distance |
+3.4 | laboratory electrical safety | dry hands insulated wires |
+3.4 | laboratory microscope sunlight | eye damage avoid |
+3.4 | outdoor science ethics | minimize habitat disturbance |
+3.4 | unknown organism handling | protection teacher guidance |
+3.4 | technology food shipping | greater variety availability trade |
+3.4 | technology food refrigeration | slow bacteria preserve freshness |
+3.4 | technology farming machines | productivity efficiency yield |
+3.4 | technology antibiotics benefit | treat bacterial infections |
+3.4 | technology vaccination benefit | prevent infectious disease |
+3.4 | technology communications benefit | information sharing faster |
+3.4 | technology environmental cost | pollution waste resource consumption |
+3.4 | engineering first step | identify problem needs |
+3.4 | engineering criteria meaning | desired performance success |
+3.4 | engineering constraints meaning | limits cost materials time |
+3.4 | engineering prototype purpose | test design performance |
+3.4 | engineering redesign purpose | improve performance address failure |
+3.4 | engineering tradeoff meaning | competing benefits costs |
+3.4 | engineering best material | properties suitability constraints |
+3.4 | design drinking container | waterproof safe rigid |
+3.4 | design window material | transparent durable |
+3.4 | design saucepan material | thermal conductor metal |
+3.4 | design pan handle | thermal insulator |
+3.4 | design electrical wire | conductor ductile copper |
+3.4 | design electrical covering | insulating flexible rubber plastic |
+3.4 | design winter clothing | insulation trapped air |
+3.4 | design raincoat material | waterproof flexible |
+3.4 | design towel material | absorbency porous |
+3.4 | design bridge material | strength durable support load |
+3.4 | design helmet material | impact absorption lightweight |
+3.4 | design spacecraft material | low mass strength thermal protection |
+3.4 | design flotation material | low average density waterproof |
+3.4 | design water filter | trap particles porous |
+3.4 | design solar heater | dark absorption insulated |
+3.4 | design energy saving | insulation efficiency conservation |
+3.4 | design erosion prevention | vegetation barriers slower runoff |
+3.4 | design flood prevention | wetlands retention permeable surfaces |
+3.4 | design pollution reduction | cleaner energy recycling treatment |

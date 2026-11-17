@@ -1,0 +1,451 @@
+# Mechanics, electricity, energy, waves, and optics.
+motion | change position reference point
+motion measure | distance time speed
+reference point | determine motion position
+speed | distance divided time
+speed unit | meter second
+speed increase | more distance less time
+speed distance | time
+speed time | distance
+velocity | speed direction
+acceleration | change velocity speed direction
+acceleration increase | force increase mass decrease
+acceleration force | direct proportional
+acceleration mass | inverse proportional
+force | push pull newton
+force unit | newton
+net force | sum forces direction
+balanced force | constant velocity rest | acceleration
+unbalanced force | change motion acceleration
+force equal opposite | balanced constant motion | acceleration
+force same direction | add total
+force opposite direction | subtract difference
+Newton first | inertia constant motion rest
+Newton second | force mass acceleration
+Newton third | equal opposite reaction
+inertia | resistance change motion mass
+inertia increase | greater mass
+momentum | mass velocity
+momentum increase | greater mass speed
+collision momentum | conserved total
+seatbelt | inertia safety prevent forward movement
+car sudden stop | inertia forward motion
+rocket | opposite reaction exhaust propulsion
+rocket launch | gases downward force upward
+swimming | push water backward move forward
+walking | push ground backward friction forward
+balloon release | air backward balloon forward
+friction | opposing motion heat contact
+friction increase | rough surfaces force pressure
+friction decrease | smooth lubricant wheels
+rough surface | more friction
+smooth surface | less friction
+lubricant | reduce friction wear heat
+oil machine | reduce friction
+brake | friction kinetic heat stop
+sliding friction | opposite motion
+rolling | less friction wheels
+ice friction | low slippery
+traction | friction tires surface
+air resistance | friction opposing motion drag
+parachute | increase air resistance slow falling
+streamlined | reduce air resistance drag
+terminal velocity | balanced gravity air resistance
+freefall | gravity acceleration
+falling object | gravitational potential kinetic
+freefall vacuum | same acceleration all masses
+falling vacuum mass | same time
+falling air | resistance shape surface area
+gravity | attraction masses downward force
+gravity mass | increase attraction
+gravity distance | decrease attraction
+gravity orbit | centripetal force attraction
+gravity earth | pull toward center
+weight | gravitational force mass gravity
+mass | amount matter inertia
+mass weight | gravity different mass constant
+moon weight | less gravity
+moon mass | same constant
+weightless | freefall orbit
+mass unit | kilogram gram
+weight unit | newton
+balance | measure mass
+spring scale | measure weight force
+pressure | force divided area
+pressure increase | more force less area
+pressure area | inverse proportional
+sharp knife | small area high pressure
+snowshoe | large area low pressure
+liquid pressure | depth density gravity
+water deeper | increase pressure
+buoyancy | upward force displaced fluid
+float | less dense fluid buoyant force
+sink | greater density fluid
+float equilibrium | weight equals buoyant force
+boat float | displace water average density low
+saltwater float | greater density buoyancy
+submarine | change density ballast water
+hot air balloon | hot air less dense rises
+helium balloon | less dense air rises
+hydraulic | pressure transmitted fluid pascal
+bernoulli | faster fluid lower pressure
+airplane lift | pressure difference wings air
+centripetal | inward force circular motion
+circular motion | acceleration changing direction
+orbit satellite | gravity forward motion
+pendulum | gravity back forth potential kinetic
+pendulum length | longer slower period
+pendulum mass | unchanged period
+pendulum highest | potential maximum kinetic minimum
+pendulum lowest | kinetic maximum potential minimum
+spring | elastic potential energy stretch
+spring compressed | potential energy stored
+stretch rubber | elastic potential energy
+work | force distance motion
+work unit | joule
+work require | force displacement direction
+work increase | greater force distance
+power | work divided time
+power unit | watt
+power increase | more work less time
+machine | reduce effort change force direction
+simple machine | lever pulley wedge screw wheel axle inclined plane
+mechanical advantage | output force input force
+machine force | reduce effort increase distance
+machine work | conserved energy friction | decrease
+machine efficiency | output input energy
+machine energy loss | friction heat sound
+lever | fulcrum pivot force
+lever fulcrum | pivot point
+lever effort | longer arm less force
+lever load | closer fulcrum less effort
+seesaw | lever fulcrum
+scissors | lever wedge
+wheelbarrow | lever wheel axle
+bottle opener | lever
+crowbar | lever
+pulley | change direction force lift
+fixed pulley | changes direction one | multiplication
+movable pulley | reduce force increase distance
+pulley number | more supporting ropes less force
+inclined plane | ramp reduce force increase distance
+ramp length | longer less force
+ramp steep | more force less distance
+wedge | inclined planes split cut
+knife | wedge
+axe | wedge
+screw | inclined plane wrapped cylinder
+wheel axle | reduce effort turn
+ doorknob | wheel axle
+gear | transfer rotational motion
+gear teeth | change speed direction force
+energy | ability do work cause change
+energy unit | joule
+energy conservation | constant transformed transferred | created destroyed
+kinetic | motion energy mass speed
+kinetic increase | mass speed increase
+kinetic speed | square velocity
+potential | stored energy position height
+potential gravitational | mass gravity height
+potential increase | greater mass height
+roller coaster top | greatest potential least kinetic
+roller coaster bottom | greatest kinetic least potential
+roller coaster downhill | potential kinetic
+ball thrown upward | kinetic decrease potential increase
+ball falling | potential decrease kinetic increase
+ball highest | maximum potential minimum speed
+chemical energy | bonds fuel food battery
+mechanical energy | kinetic potential motion position
+thermal energy | particle motion heat
+nuclear energy | atomic nucleus fission fusion
+radiant energy | electromagnetic light
+sound energy | vibrations medium
+battery energy | chemical electric
+bulb energy | electric light heat
+motor energy | electric mechanical
+ generator energy | mechanical electric
+solar panel energy | light electric
+solar cell | sunlight electric
+photosynthesis energy | light chemical
+food body energy | chemical mechanical heat
+burn fuel energy | chemical heat light
+hydroelectric energy | gravitational kinetic electric
+wind turbine energy | kinetic mechanical electric
+speaker energy | electric sound
+microphone energy | sound electric
+heater energy | electric thermal
+toaster energy | electric heat
+fan energy | electric mechanical
+flashlight energy | chemical electrical light
+bell energy | mechanical sound
+heat transfer | hotter colder temperature difference
+thermal equilibrium | equal temperature | net transfer
+heat direction | hot cold
+heat | thermal energy transfer
+ temperature | average kinetic energy particles
+temperature increase | particle speed increase
+thermal energy amount | mass temperature material
+heat mass | more energy larger temperature change resistance
+specific heat | energy raise temperature mass
+water specific heat | high slow heat cool
+sand water heat | sand faster water slower
+metal heat | conductor rapid transfer
+conduction | direct contact particle collisions solids
+convection | moving fluid warm rises cold sinks
+radiation | electromagnetic waves vacuum
+sun earth heat | radiation vacuum
+heat space | radiation
+metal spoon hot | conduction
+pan handle hot | conduction
+pot water circulation | convection
+warm air rises | convection lower density
+cool air sinks | convection greater density
+fire warmth | radiation infrared
+oven convection | hot air circulation
+insulator | reduce heat transfer high resistance | conduct
+thermal conductor | metal copper aluminum iron
+thermal insulator | wood plastic rubber air foam wool
+blanket | trap air reduce heat loss
+vacuum flask | insulation | conduction convection | -1.0
+shiny surface heat | reflect radiation
+black surface heat | absorb radiation
+white surface heat | reflect radiation
+thermal expansion | heating particles spread expand
+heat solid | expand particle vibration
+cool solid | contract particles closer
+bridge gaps | thermal expansion
+railroad gaps | thermal expansion
+thermometer liquid | expand heating contract cooling
+thermometer | measure temperature
+bimetal strip | unequal thermal expansion
+melting energy | absorb heat solid liquid
+freezing energy | release heat liquid solid
+boiling energy | absorb heat liquid gas
+condensation energy | release heat gas liquid
+evaporation energy | absorb heat cooling
+sublimation energy | absorb heat solid gas
+phase change temperature | constant latent energy intermolecular potential
+latent heat | phase change constant temperature
+absolute zero | minimum thermal motion kelvin
+heat friction | mechanical thermal energy
+cooling evaporation | fastest molecules escape
+sweat cooling | evaporation heat absorption
+wind wet | faster evaporation cooling
+humidity evaporation | high humidity slower
+fan cool | convection evaporation
+cold metal wood | metal conducts heat faster
+winter coat | insulation traps air heat loss
+animal fat | insulation stored energy
+thermal pollution | warmer water less oxygen
+ electric charge | electron proton
+ electron charge | negative
+ proton charge | positive
+ neutron charge | neutral
+# Relative polarity needs two distinct cues; repetition is not a count in a bag.
+same charges | repel | attract | -1.0
+opposite charges | attract | repel | -1.0
+positive negative | attract | repel | -1.0
+positive identical | repel | attract | -1.0
+negative identical | repel | attract | -1.0
+static electricity | charge buildup electron transfer
+rubbing balloon | electron transfer static attraction
+charged balloon hair | static attraction
+lightning | discharge static electricity
+static discharge | spark electron movement
+neutral atom | equal protons electrons
+positive ion | loses electrons
+negative ion | gains electrons
+ electric current | flow charges electrons
+ current unit | ampere
+voltage | potential difference energy charge
+voltage unit | volt
+resistance | opposes current ohms
+resistance unit | ohm
+current voltage | increase direct proportional
+current resistance | decrease inverse proportional
+ohms law | voltage current resistance
+wire length increase | resistance increase current decrease
+wire thickness increase | resistance decrease current increase
+wire temperature increase | resistance increase
+circuit | closed conducting path current
+closed circuit | current flows bulb lights
+open circuit | bulb off broken path | current
+switch open | stopped absent off | current flow
+switch closed | current flow
+battery circuit | supplies voltage chemical energy
+conductor electric | metal copper aluminum silver
+insulator electric | rubber plastic glass wood
+wire copper | conductor electrons flow
+wire rubber | insulation prevent shock
+water electric | dissolved ions conduct
+pure water | high resistance insulate | conduct
+salt water electric | ions conductor
+series circuit | single path same current
+parallel circuit | multiple paths same voltage
+series bulb removed | all off circuit broken
+parallel bulb removed | others remain lit separate paths
+series add bulb | resistance increase dimmer current decrease
+parallel add bulb | brightness same independent paths
+series batteries | increase voltage brightness
+shortcircuit | low resistance excessive current heat
+fuse | melt break circuit high current safety
+circuit breaker | interrupt current overload
+ electric safety | insulation ground dry hands
+wet electric | shock danger water conductor
+power electric | voltage current
+resistor | limits current energy heat
+filament bulb | resistance heat light
+magnet | attracts iron nickel cobalt steel
+magnet material | iron steel nickel cobalt | copper aluminum wood plastic
+magnet poles | north south
+same poles | repel | attract | -1.0
+opposite poles | attract | repel | -1.0
+north identical | repel | attract | -1.0
+south identical | repel | attract | -1.0
+north south | attract | repel | -1.0
+magnet strongest | poles ends
+magnet cut | two magnets north south
+magnetic field | force region poles
+compass | magnetic north earth field
+compass needle | aligns magnetic field
+Earth magnet | iron core magnetic field
+current wire | magnetic field
+electromagnet | current coil iron core
+ electromagnet stronger | more coils current iron core
+electromagnet off | stopped absent | current magnetic field attraction | -1.0
+solenoid | coil magnetic field current
+induction | changing magnetic field electric current
+ generator | mechanical electric magnetic induction
+motor | electric mechanical magnetic force
+transformer | voltage alternating current coils
+transformer more turns | higher voltage
+alternating current | changes direction
+ direct current | single direction battery
+renewable energy | sunlight wind water geothermal biomass | coal oil natural gas
+nonrenewable energy | coal oil natural gas uranium | solar wind
+renewable source | wind sunlight hydroelectric geothermal
+fossil fuel | coal oil natural gas nonrenewable carbon
+fossil fuel formation | buried organisms heat pressure millions years
+coal formation | ancient swamp plants pressure
+petroleum formation | ancient marine organisms sediment pressure
+fossil fuel burn | carbon dioxide pollution heat
+solar energy | sunlight renewable | combustion
+wind energy | moving air turbine renewable
+hydroelectric | moving water turbine dam renewable
+geothermal | heat inside earth renewable
+biomass | plants wood organic waste fuel
+nuclear fission | split nucleus uranium energy
+nuclear fusion | combine nuclei hydrogen helium stars
+sun energy | nuclear fusion hydrogen helium
+nuclear waste | radioactive long lasting
+energy conservation home | insulation efficient appliances turn lights off
+energy efficiency | less waste same useful work
+sound | vibration wave medium
+sound source | vibrating object
+sound require | medium matter
+sound vacuum | blocked absence particles | travel
+sound space | vacuum silence | propagation
+sound fastest | solid particles close
+sound air water | faster water
+sound solid liquid gas | fastest solid slowest gas
+sound wave | longitudinal compressions rarefactions
+longitudinal wave | particle parallel direction propagation
+transverse wave | particle perpendicular direction propagation
+wave transfer | energy | matter
+wave particle | oscillate around equilibrium | net travel
+wave medium | particles vibration energy
+wave amplitude | energy intensity
+sound amplitude | loudness volume
+sound loud | greater amplitude
+sound soft | smaller amplitude
+sound frequency | pitch
+sound high pitch | high frequency rapid vibration
+sound low pitch | low frequency slow vibration
+string tight | higher pitch frequency
+string long | lower pitch frequency
+string thick | lower pitch frequency
+string short | higher pitch frequency
+wave frequency | cycles second hertz
+wave period | time one cycle inverse frequency
+wave wavelength | distance crest crest
+wave speed | frequency wavelength
+frequency wavelength | inverse relationship
+wave frequency increase | wavelength decrease
+wave wavelength increase | frequency decrease
+wave energy amplitude | greater amplitude more energy
+crest | wave highest point
+trough | wave lowest point
+amplitude | maximum displacement rest
+compression wave | particles close high pressure
+rarefaction | particles spread low pressure
+echo | reflected sound
+sonar | reflected sound underwater distance
+ultrasound | high frequency sound imaging
+sound absorption | soft porous material
+sound reflection | hard surface echo
+doppler | frequency change relative motion
+source approaching | frequency higher pitch
+source receding | frequency lower pitch
+light | electromagnetic wave radiation
+light vacuum | travels electromagnetic radiation
+light sound speed | light faster
+light fastest | vacuum
+light slow | glass water refraction
+light straight | travels straight lines
+light source | sun fire bulb star
+moon light | reflects sunlight
+reflection | light bounces surface
+reflection angle | incidence equals reflection
+mirror | reflect light
+smooth reflection | regular clear image
+rough reflection | diffuse scattered
+refraction | light bends changing speed medium
+straw water bent | refraction
+pool appears shallow | refraction
+prism | refraction dispersion colors
+rainbow | refraction reflection dispersion water droplets
+white light | all visible colors spectrum
+color object | reflected wavelength
+red object | reflects red absorbs other colors
+blue object | reflects blue absorbs other colors
+green leaf | reflects green absorbs red blue
+black object | absorbs all colors heat
+white object | reflects all colors
+transparent | transmits light clear
+translucent | transmits scattered light
+opaque | blocks light shadow
+shadow | opaque object blocks light
+shadow size | distance light source object
+shadow source closer | larger shadow
+shadow noon | shortest sun highest
+shadow morning | long west
+shadow evening | long east
+convex lens | converges light magnifies
+concave lens | diverges light
+convex mirror | wider view smaller upright image
+concave mirror | converges light magnifies
+flat mirror | same size reversed virtual image
+lens | refract focus light
+magnifying glass | convex lens refraction
+camera | lens focus image
+microscope | lenses magnify small objects
+telescope | collect light distant objects
+light intensity distance | decreases spreading
+ electromagnetic spectrum | radio microwave infrared visible ultraviolet xray gamma
+radio wave | longest wavelength lowest frequency
+ gamma ray | shortest wavelength highest energy
+infrared | heat radiation
+ultraviolet | sunburn skin damage ozone absorbed
+xray | high energy penetrate body bone image
+microwave | heat food communication
+visible spectrum | red orange yellow green blue violet
+red wavelength | longest visible
+violet wavelength | shortest visible
+light frequency energy | higher frequency more energy
+light wavelength energy | shorter wavelength more energy
+diffraction | waves bend around obstacles openings
+interference | waves combine superposition
+constructive interference | amplitudes add greater
+destructive interference | amplitudes cancel smaller
+polarization | transverse light orientation
+laser | coherent monochromatic light

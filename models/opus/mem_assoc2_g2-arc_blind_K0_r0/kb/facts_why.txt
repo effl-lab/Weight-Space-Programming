@@ -1,0 +1,198 @@
+# Everyday phenomena, cause -> effect and "why" explanations, phrased the way questions ask them
+breath visible cold day > water vapor condenses
+cold drink glass outside wet > water vapor in air condenses on cold surface
+bathroom mirror foggy after shower > water vapor condenses
+puddle dries faster sunny day > sun heat evaporation faster
+clothes dry faster windy sunny > evaporation
+wet paint dries > evaporation
+lake water level drops summer > evaporation
+salt left after water evaporates > salt dissolved in water
+ice cube melts in hand > heat from hand flows into ice
+ice cream melts sun > heat absorbed
+chocolate melts > heat
+butter melts pan > heat conduction
+snow melts spring > warmer temperatures sun
+icicles form > water melts drips freezes
+water pipes burst winter > water expands when it freezes
+soda can bulges freezer > water expands freezing
+balloon shrinks cold > gas contracts cools particles slow
+balloon expands warm > gas expands heat particles move faster
+tire pressure higher hot day > gas expands heat
+bicycle tire pump warms > compression friction
+hot air balloon rises > hot air less dense rises
+smoke rises > hot air less dense convection
+sidewalk cracks gaps bridges > thermal expansion contraction
+metal lid jar loosen hot water > metal expands heat
+power lines sag summer > metal expands heat
+food cooks faster pressure cooker > higher boiling point pressure
+water boils lower temperature mountains > lower air pressure high altitude
+ice floats > less dense than liquid water
+ship made of steel floats > shape displaces water buoyancy air inside less dense overall
+rock sinks water > denser than water
+wood floats water > less dense than water
+oil floats on water > less dense
+egg floats salt water > salt water denser
+helium balloon rises > helium less dense than air
+person floats easier ocean > salt water denser buoyancy
+why we have day night > earth rotates on its axis
+why sun appears to rise set > earth rotation spinning
+why we have seasons > earth tilted axis revolves around sun
+why summer warmer > sun rays more direct longer days
+why moon changes shape > moon phases orbit earth sunlight reflected
+why moon visible > reflects sunlight
+why stars appear to move across sky > earth rotation
+why we see different constellations seasons > earth revolves around sun
+why sky blue > sunlight scattered by air molecules blue light
+why sunset red orange > light travels through more atmosphere scattered
+why leaves green > chlorophyll reflects green light
+why sea water salty > dissolved minerals salts carried by rivers
+why ocean breeze cooler > water heats slowly specific heat
+why coastal areas mild climate > ocean water heats cools slowly moderates temperature
+why deserts cold at night > dry air clear sky no clouds heat escapes
+why cloudy nights warmer > clouds trap heat
+why mountains top cold snow > higher altitude colder thinner air
+why we hear thunder after lightning > light travels faster than sound
+why astronauts float > freefall orbit microgravity
+why astronauts weigh less moon > moon has less gravity smaller mass
+why objects fall > gravity pulls toward earth
+why ball stops rolling > friction
+why car skids on ice > less friction
+why sand on icy roads > increases friction
+why salt on icy roads > lowers freezing point melts ice
+why oil machine parts > reduce friction wear heat
+why seat belts > inertia stop body moving forward
+why rockets lift off > action reaction thrust gases pushed down
+why feather falls slower than rock > air resistance
+why parachute slows fall > air resistance
+why metal feels colder than wood > metal conducts heat away from hand faster
+why pot handles plastic wood > insulators do not conduct heat
+why wear dark clothes winter > dark colors absorb more heat
+why wear light colors summer > light colors reflect sunlight heat
+why houses insulation > reduce heat transfer save energy
+why double pane windows > trapped air insulation
+why animals fluff fur feathers > trap air insulation warmth
+why we sweat > evaporation cools body
+why dogs pant > evaporation cooling
+why we shiver > muscles produce heat
+why heart beats faster exercise > muscles need more oxygen
+why we breathe faster exercise > more oxygen remove carbon dioxide
+why we eat food > energy growth repair nutrients
+why we need sleep > rest repair body brain
+why wash hands > remove germs prevent disease
+why cover mouth cough sneeze > prevent spread germs
+why get vaccines > immunity prevent disease
+why food refrigerated > slows growth bacteria spoilage
+why bread gets moldy > mold fungus grows warm moist
+why milk spoils > bacteria
+why plants need sunlight > photosynthesis make food
+why plants need water > photosynthesis transport nutrients turgor
+why plants wilt > not enough water
+why plants grow toward window > phototropism light
+why roots grow down > gravity gravitropism
+why leaves fall autumn > conserve water energy winter less sunlight
+why trees have rings > yearly growth seasons
+why some animals hibernate > survive winter little food save energy
+why birds migrate south winter > find food warmer climate
+why salmon swim upstream > spawn lay eggs
+why bears eat more fall > store fat hibernation
+why animals have camouflage > hide from predators sneak up on prey
+why some animals bright colors > warn predators poisonous attract mates
+why bees visit flowers > nectar pollen food
+why flowers colorful scented > attract pollinators
+why fruits sweet > attract animals eat disperse seeds
+why seeds have hooks burrs > stick to animal fur dispersal
+why dandelion seeds fluffy > wind dispersal
+why owls hunt at night > nocturnal large eyes
+why giraffes long necks > reach high leaves food
+why ducks webbed feet > swimming paddle
+why polar bears white fur > camouflage snow
+why whales come to surface > breathe air lungs
+why fish have gills > get oxygen from water
+why snakes shed skin > grow molting
+why insects molt > exoskeleton does not grow
+why frogs live near water > lay eggs in water moist skin
+why spiders spin webs > catch food prey insects
+why ants live in colonies > work together survive
+why wolves hunt in packs > catch larger prey cooperation
+why dinosaurs extinct > asteroid impact climate change
+why fossils found in sedimentary rock > organisms buried in sediment layers
+why rocks rounded river > abrasion tumbling water
+why caves form limestone > acid groundwater dissolves limestone
+why mountains erode over time > weathering erosion wind water ice
+why soil erodes after forest cut > no roots holding soil
+why rivers carry sediment > fast moving water erosion
+why delta forms > river slows deposits sediment
+why sand dunes move > wind
+why volcano islands form > lava cools hardens builds up
+why earthquakes occur > plates move release energy
+why tsunami > underwater earthquake
+why rain falls > water droplets combine heavy gravity
+why clouds form > water vapor cools condenses
+why fog forms > water vapor condenses near ground cool air
+why dew forms morning > water vapor condenses cool grass night
+why frost forms > water vapor freezes deposition below freezing
+why hail forms > updrafts thunderstorm freeze layers
+why wind blows > air pressure differences uneven heating
+why hurricanes weaken over land > no warm water energy source
+why tides change > moon gravity earth rotation
+why ocean currents > wind earth rotation temperature salinity density
+why greenhouse warm > glass traps heat
+why earth warm enough life > atmosphere greenhouse effect distance from sun
+why earth has life > liquid water oxygen atmosphere right temperature distance from sun
+why moon has craters > no atmosphere meteorites hit surface no erosion
+why footprints stay on moon > no wind water erosion no atmosphere
+why mars red > iron oxide rust dust
+why venus hottest > thick carbon dioxide atmosphere greenhouse effect
+why planets stay in orbit > gravity of sun
+why sun looks bigger than other stars > closer
+why we cannot see stars during day > sun too bright
+why comet tail > sun heats ice solar wind
+why meteors glow > friction burning atmosphere
+why space silent > no air medium sound
+why metal wires copper > good conductor electricity
+why wires covered plastic > insulator safety
+why bulb lights > closed complete circuit current flows
+why bulb does not light > open circuit broken wire dead battery
+why balloon sticks to wall > static electricity charges
+why hair stands up after combing > static electricity
+why compass points north > earth magnetic field
+why magnet sticks refrigerator > steel iron magnetic
+why see rainbow > sunlight refracted raindrops
+why pencil looks bent in water > refraction
+why see reflection mirror > light reflects smooth surface
+why shadows form > opaque object blocks light
+why shadows change during day > sun position changes earth rotation
+why we see objects > light reflects off objects into eyes
+why we hear sounds > vibrations travel through air to ears
+why echo > sound reflects off hard surface
+why sound louder > more energy larger amplitude vibrations
+why higher pitch > faster vibrations higher frequency
+why iron rusts > reacts with oxygen water
+why apple turns brown > chemical reaction oxygen
+why bread rises > yeast produces carbon dioxide gas
+why fire needs air > oxygen combustion
+why blanket puts out fire > removes oxygen
+why water puts out fire > cools removes heat
+why cake rises baking > baking soda baking powder gas bubbles
+why sugar dissolves faster hot water > particles move faster
+why stirring dissolves faster > more contact solvent
+why crushed sugar dissolves faster > more surface area
+why recycling important > conserve resources less waste energy
+why save energy > conserve fossil fuels reduce pollution
+why plant trees > reduce erosion produce oxygen habitat absorb carbon dioxide
+why protect wetlands > habitat filter water flood control
+why endangered species > habitat loss hunting pollution
+why invasive species harmful > no predators outcompete native species
+why bacteria important > decomposers recycle nutrients digestion nitrogen fixing
+why decomposers important > break down dead material recycle nutrients soil
+why food chain starts with plants > producers make food from sunlight
+why energy decreases food chain > energy lost as heat used for life processes
+why fewer predators than prey > less energy available higher levels
+why scientists repeat experiments > reliable results reduce errors
+why use control group > comparison
+why test one variable > know cause of result fair test
+why scientists use models > study things too large small far dangerous slow
+why scientists share results > others can check repeat verify
+why use metric system > scientists everywhere same units
+why wear goggles > protect eyes
+why ecosystem changes > natural events human activity

@@ -1,0 +1,341 @@
+# Generation 4. Authored minimal cue pairs for everyday mechanisms and diagnoses.
+# weight | cues (unordered) | supported concepts | opposed concepts
+# Direction of causal changes: each record has explicit conditions, not a
+# sentence with a hidden comparative or negation scope.
+3.2 | balloon puncture | air escape pressure decrease | create
+3.2 | balloon squeeze | gas compression volume decrease shrink |
+3.2 | balloon freezer | cooling contraction smaller volume | disappear
+3.2 | balloon heated | expansion larger volume enlarge |
+3.2 | balloon static | electron transfer attraction | proton
+3.2 | helium escape | diffusion gas particle motion |
+3.2 | tire sunlight | heating pressure increase | create
+3.2 | tire winter | cooling pressure decrease |
+3.2 | syringe capped | compression pressure gas | destroy
+3.2 | straw drinking | atmosphere pressure pushes liquid |
+3.2 | suction cup | pressure difference atmosphere | magnetism
+3.2 | ear altitude | pressure difference |
+3.2 | diving ear | water pressure depth |
+3.2 | dam bottom | greater pressure depth thicker | low
+3.2 | water tower | gravitational potential pressure height |
+3.2 | hydraulic brake | pressure fluid transmitted | compression
+3.2 | hydraulic lift | area pressure force work energy | create
+3.2 | boat cargo | displacement increase deeper draft |
+3.2 | submarine ballast | water mass density buoyancy |
+3.2 | lifejacket float | low average density buoyancy gravity |
+3.2 | clay boat | displaced water shape buoyancy | destroy
+3.2 | steel ship | hollow average density displacement |
+3.2 | iceberg submerged | density slightly lower water |
+3.2 | saltwater floating | greater density buoyancy |
+3.2 | egg brine | density buoyancy float |
+3.2 | oil puddle | low density immiscible floating | homogeneous
+3.2 | ice lake | less dense floating insulation |
+3.2 | pipe freezing | water expansion volume crack |
+3.2 | bottle frozen | expansion ice pressure break | create
+3.2 | pond winter | ice surface liquid underneath | sink
+3.2 | jar lid | expansion metal warm loosen |
+3.2 | overhead wire summer | expansion sag length increase |
+3.2 | overhead wire winter | contraction shorter tighter |
+3.2 | bridge joint | thermal expansion contraction |
+3.2 | rail gap | thermal expansion space | buckling
+3.2 | thermometer bulb | liquid expansion temperature |
+3.2 | dented ball warming | air expansion pressure |
+3.2 | hot water spoon | conduction contact metal |
+3.2 | fireplace room | radiation convection |
+3.2 | sunlight skin | radiation absorption |
+3.2 | oven mitt | insulator reduce conduction | create
+3.2 | potholder material | cotton cloth insulator | copper aluminum
+3.2 | skillet material | metal conductor | rubber
+3.2 | saucepan handle | insulator plastic wood |
+3.2 | camping sleeping bag | insulation trapped air heat conservation | create
+3.2 | winter coat | trapped air insulator reduce heat loss | create
+3.2 | feather insulation | trapped air reduce conduction |
+3.2 | foam cooler | trapped air low conductivity |
+3.2 | insulated cup | slow heat transfer energy | create
+3.2 | thermos shiny | reflection infrared reduce radiation |
+3.2 | thermos vacuum | insulation reduce | conduction convection
+3.2 | double glazing | trapped air thermal insulation |
+3.2 | attic insulation | reduce heat transfer save energy |
+3.2 | metal ice | conduction melting faster |
+3.2 | tile barefoot | heat conduction foot |
+3.2 | carpet barefoot | insulation slower heat transfer |
+3.2 | water sand heating | water greater specificheat slower temperature change |
+3.2 | ocean summer | high specificheat moderates temperature |
+3.2 | coastal winter | stored thermal energy ocean |
+3.2 | hot sand | low specificheat rapid temperature change |
+3.2 | sweating breeze | evaporation convection cooling |
+3.2 | sweating dry | faster evaporation cooling |
+3.2 | sweating humid | slower evaporation reduced cooling |
+3.2 | wet towel | evaporation cooling |
+3.2 | wet clothes sunshine | heat evaporation drying |
+3.2 | wet clothes wind | faster evaporation vapor removal |
+3.2 | clothes drying | evaporation liquid vapor | chemical reaction
+3.2 | puddle disappearing | evaporation water vapor matter | destroy
+3.2 | perfume open | evaporation diffusion gas |
+3.2 | shallow dish | surface area evaporation |
+3.2 | evaporation surface | high energy particles escape cooling |
+3.2 | evaporation humidity | dry air faster | saturated
+3.2 | dew grass | condensation water vapor cooling |
+3.2 | bathroom mirror | condensation droplets |
+3.2 | eyeglasses fogged | condensation vapor cold surface |
+3.2 | bottle outside droplets | atmosphere condensation | leakage
+3.2 | windows frost | deposition water vapor ice |
+3.2 | freezer frost | deposition ice vapor |
+3.2 | icecream salt | lower freezing point melting ice |
+3.2 | ocean freezing | lower temperature salt |
+3.2 | mountain cooking | low pressure lower boiling temperature longer |
+3.2 | boiling lid | vapor pressure steam |
+3.2 | tea kettle | vaporization boiling gas |
+3.2 | boiling pure water | vapor bubbles physical change | hydrogen formation
+3.2 | water distillation | evaporation condensation separate impurities |
+3.2 | water electrolysis | hydrogen oxygen chemical decomposition |
+3.2 | dryice fog | cold condensed water droplets dioxide |
+3.2 | mothball gas | sublimation |
+3.2 | carbonated bottle | dissolved dioxide pressure |
+3.2 | soda warming | gas solubility decrease escape |
+3.2 | soda cap | pressure decrease dioxide bubbles |
+3.2 | fish warm water | low dissolved oxygen stress |
+3.2 | aquarium aerator | oxygen dissolve gas exchange |
+3.2 | sugar cube crushed | surface area dissolution faster |
+3.2 | sugar stirring | dissolution faster collision |
+3.2 | sugar hot water | dissolution faster particle motion |
+3.2 | salt dissolving | ions dispersed physical solution | destroy
+3.2 | sugar dissolving | molecules dispersed physical solution | destroy
+3.2 | salt recovered | evaporation crystallization |
+3.2 | sand recovered | filtration sedimentation |
+3.2 | muddy water | suspension sediment filtration | pure compound
+3.2 | coffee filter | separate insoluble particles | dissolved sugar
+3.2 | tea strainer | solid liquid filtration |
+3.2 | sieve gravel | particle size separation |
+3.2 | magnet recycling | iron steel separation attraction | aluminum
+3.2 | ink separated | chromatography different solubility |
+3.2 | dye paper | chromatography solvent movement |
+3.2 | seawater drinkable | desalination distillation reverse osmosis |
+3.2 | pure water conductivity | poor low |
+3.2 | saltwater conductivity | dissolved ions electric current |
+3.2 | copper cookware | heat conduction malleability |
+3.2 | copper wiring | electric conductivity ductility |
+3.2 | aluminum foil | malleability metal thin sheet |
+3.2 | glass window | transparency light transmission |
+3.2 | rubber coating | electric insulation safety |
+3.2 | porcelain socket | electric insulator heat resistance |
+3.2 | rubber band stretch | elastic potential deformation |
+3.2 | spring compress | elastic potential energy |
+3.2 | clay deform | malleability plastic deformation |
+3.2 | glass shattered | brittleness physical change |
+3.2 | chalk crushed | physical size change |
+3.2 | paper torn | physical size shape |
+3.2 | paper burned | chemical new substances ash gases |
+3.2 | wood burned | chemical oxidation heat light |
+3.2 | wood sawed | physical smaller pieces |
+3.2 | egg cooked | chemical protein denaturation |
+3.2 | egg broken | physical shape |
+3.2 | milk sour | chemical bacteria acid |
+3.2 | apple brown | oxidation chemical |
+3.2 | silver black | tarnish chemical sulfur |
+3.2 | penny green | corrosion chemical |
+3.2 | iron wet | oxidation rust chemical |
+3.2 | iron paint | protective barrier coating prevention | corrosion rust
+3.2 | nail vinegar | chemical reaction acid metal |
+3.2 | limestone vinegar | chemical dioxide bubbles |
+3.2 | baking soda vinegar | chemical dioxide gas |
+3.2 | candle wax melting | physical solid liquid |
+3.2 | candle wax burning | chemical oxidation dioxide water |
+3.2 | candle oxygen depleted | extinguish stop | combustion
+3.2 | candle sealed | oxygen consumed gas products |
+3.2 | candle mass closed | total conserved atoms |
+3.2 | match sandpaper | friction heat ignition |
+3.2 | extinguisher foam | oxygen barrier extinguish | combustion
+3.2 | fire water | absorb heat cooling |
+3.2 | fire oxygen | combustion oxidation |
+3.2 | glowstick bend | chemical reaction light |
+3.2 | instant cold pack | endothermic absorb heat surroundings |
+3.2 | handwarmer reaction | exothermic heat released |
+3.2 | chemical energy food | stored bonds respiration |
+3.2 | fuel oxygen | combustion chemical energy |
+# Contact, force, inertia, impact, and motion.
+3.2 | bicycle braking | friction kinetic thermal |
+3.2 | bicycle coasting | friction air resistance slowing |
+3.2 | skateboard rough | friction slowing thermal |
+3.2 | sled snow | friction gravity |
+3.2 | sled wax | lower friction farther travel |
+3.2 | tire wet | reduced traction friction sliding |
+3.2 | tire tread | friction grip traction |
+3.2 | shoe sole | friction traction walking |
+3.2 | walking ice | low friction slipping |
+3.2 | lubricant bearing | reduce friction heat wear |
+3.2 | roller bearing | rolling friction reduced |
+3.2 | sandpaper friction | rough greater resistance |
+3.2 | airbrake truck | friction stop kinetic thermal |
+3.2 | parachute opened | greater area drag slower fall |
+3.2 | parachute descent | air resistance gravity |
+3.2 | feather vacuum | same acceleration gravity | feather slower
+3.2 | hammer feather vacuum | same acceleration gravity |
+3.2 | crumpled paper | lower air resistance |
+3.2 | streamlined vehicle | reduce drag air resistance |
+3.2 | fish streamlined | reduce water resistance |
+3.2 | swimmer drag | friction water opposing motion |
+3.2 | seatbelt sudden | inertia restrain forward motion |
+3.2 | passenger bus stops | inertia forward |
+3.2 | passenger bus starts | inertia backward relative |
+3.2 | tablecloth pulled | inertia objects remain |
+3.2 | dust rug beaten | inertia particles separate |
+3.2 | heavier inertia | greater mass harder accelerate |
+3.2 | ball kicked | unbalanced force acceleration |
+3.2 | ball turning | velocity direction change acceleration |
+3.2 | circular constant speed | acceleration inward velocity direction change |
+3.2 | orbit acceleration | inward gravity direction change |
+3.2 | rope circular | tension centripetal inward |
+3.2 | rope released | tangent straight inertia continue | circle
+3.2 | book tabletop | normal support balances gravity |
+3.2 | hanging sign | tension balances gravity |
+3.2 | elevator stationary | balanced forces zero constant velocity rest | acceleration
+3.2 | tugofwar stationary | balanced equal opposite force rest | acceleration
+3.2 | opposing unequal forces | acceleration stronger direction |
+3.2 | pushing wall | equal opposite reaction |
+3.2 | rocket thrust | expelled gas opposite momentum |
+3.2 | swimming propulsion | push water backward reaction forward |
+3.2 | rowing propulsion | reaction water backward boat forward |
+3.2 | recoil gun | opposite momentum action reaction |
+3.2 | jumping ground | push down ground upward |
+3.2 | balloon released | escaping air opposite motion |
+3.2 | airbag stopping | longer time smaller force |
+3.2 | helmet impact | absorb energy extend stopping time |
+3.2 | padding impact | lower force longer stopping time |
+3.2 | catching ball hands | move backward longer time lower force |
+3.2 | dropped ball energy | gravitational potential kinetic |
+3.2 | vertical thrown ball top | zero gravity downward acceleration |
+3.2 | bouncing ball lost | thermal sound deformation |
+3.2 | pendulum middle | kinetic speed maximum | potential
+3.2 | pendulum endpoint | potential maximum zero | kinetic
+3.2 | pendulum damping | friction air resistance heat |
+3.2 | rollercoaster climb | kinetic potential |
+3.2 | rollercoaster descent | potential kinetic |
+3.2 | work lifting | force distance potential |
+3.2 | work pushing stationary | zero displacement |
+3.2 | unforced motion | constant velocity inertia | acceleration
+3.2 | magnet paper | field force distance |
+3.2 | gravity distance | noncontact attractive |
+3.2 | electric charged | noncontact force field |
+3.2 | normal contact | support surface perpendicular |
+3.2 | tension rope | pulling force |
+3.2 | pressure snowshoes | larger area lower pressure |
+3.2 | pressure highheel | small area greater pressure |
+3.2 | sharp blade | small area high pressure |
+3.2 | ramp wheelchair | less force greater distance |
+3.2 | ramp steeper | greater force shorter distance |
+3.2 | loading ramp longer | less force same height |
+3.2 | doorknob axle | wheel machine mechanical advantage |
+3.2 | screwdriver machine | wheel axle |
+3.2 | crowbar fulcrum | lever pivot |
+3.2 | bottle opener machine | lever |
+3.2 | nutcracker machine | lever |
+3.2 | shovel machine | lever wedge |
+3.2 | nail machine | wedge |
+3.2 | axe machine | wedge |
+3.2 | drill bit machine | screw |
+3.2 | stairs machine | inclined plane |
+3.2 | flagpole machine | pulley direction force |
+3.2 | screw thread | wrapped inclined plane |
+3.2 | lever effort arm | longer less force |
+3.2 | lever load arm | shorter less effort force |
+# Device and energy source/sink facets keep both conversion directions distinct.
+3.2 | toaster input | electrical |
+3.2 | toaster output | thermal heat |
+3.2 | fan input | electrical |
+3.2 | fan output | kinetic mechanical motion |
+3.2 | motor input | electrical |
+3.2 | motor output | mechanical kinetic |
+3.2 | generator input | mechanical kinetic |
+3.2 | generator output | electrical |
+3.2 | microphone input | sound |
+3.2 | microphone output | electrical |
+3.2 | speaker input | electrical |
+3.2 | speaker output | sound |
+3.2 | solar cell input | sunlight radiant light |
+3.2 | solar cell output | electrical |
+3.2 | battery discharge | chemical electrical |
+3.2 | battery charging | electrical chemical |
+3.2 | engine fuel | chemical thermal kinetic |
+3.2 | hydroelectric turbine | water kinetic mechanical electrical |
+3.2 | windmill energy | wind kinetic mechanical |
+3.2 | geothermal plant | earth thermal electrical |
+3.2 | solar heater energy | sunlight thermal |
+3.2 | solar oven energy | radiation absorption thermal |
+3.2 | photosynthesis input | sunlight radiant |
+3.2 | photosynthesis stored | chemical sugar |
+3.2 | fossil fuel stored | chemical |
+3.2 | raised book | gravitational potential |
+3.2 | bow drawn | elastic potential |
+3.2 | slingshot stretched | elastic potential |
+3.2 | running athlete | kinetic chemical heat |
+3.2 | useful energy ratio | efficiency output input |
+3.2 | engine waste | thermal sound heat |
+# Circuit and magnet diagnostics.
+3.2 | bulb filament | resistance heating light |
+3.2 | bulb unscrewed series | open circuit zero stop dark | current
+3.2 | bulb unscrewed parallel | other branches current continue |
+3.2 | battery reversed | current reversed magnetic poles reversed |
+3.2 | switch open | incomplete circuit zero dark | current
+3.2 | switch closed | complete circuit current |
+3.2 | battery two terminals | potential difference voltage |
+3.2 | bulb brighter | greater power current energy transfer |
+3.2 | wire thicker | lower resistance |
+3.2 | wire longer | higher resistance |
+3.2 | circuit shorted | low resistance high current dangerous |
+3.2 | fuse melted | open circuit safety | current overheating
+3.2 | circuitbreaker overload | interrupt open circuit safety | current
+3.2 | outlet parallel | independent branches same voltage |
+3.2 | electromagnet coil | current magnetic field iron |
+3.2 | electromagnet turns | more stronger field |
+3.2 | electromagnet disconnected | magnetic field decreases |
+3.2 | compass needle | magnetic field north south |
+3.2 | magnet broken | each piece north south |
+3.2 | magnet like poles | repel |
+3.2 | magnet unlike poles | attract |
+3.2 | rubbed balloon | static charge electron transfer |
+3.2 | static discharge | electron flow spark lightning |
+3.2 | grounded object | charge transfer earth |
+# Acoustic and optical mechanisms.
+3.2 | tuning fork struck | vibration sound |
+3.2 | guitar string | vibration sound |
+3.2 | drum membrane | vibration sound |
+3.2 | vocal cord vibration | sound speech |
+3.2 | loudspeaker vibration | pressure wave sound |
+3.2 | sound vacuum | silence | transmission
+3.2 | astronaut communication | radio electromagnetic |
+3.2 | echo canyon | reflection sound |
+3.2 | sonar ocean | reflected sound distance |
+3.2 | echolocation prey | sound reflection navigation |
+3.2 | soft curtains | absorb sound reduce | echo
+3.2 | hard wall sound | reflection echo |
+3.2 | vibration faster | frequency pitch higher |
+3.2 | vibration larger | amplitude louder sound |
+3.2 | string tighter | frequency pitch higher |
+3.2 | string shorter | frequency pitch higher |
+3.2 | string thicker | pitch lower |
+3.2 | ambulance approaching | frequency higher doppler |
+3.2 | ambulance receding | frequency lower doppler |
+3.2 | light mirror | reflection image |
+3.2 | pencil submerged | refraction apparent bend |
+3.2 | straw bent | refraction light speed |
+3.2 | swimming pool apparent | refraction shallower |
+3.2 | lens focus | refraction light |
+3.2 | prism rainbow | dispersion refraction wavelengths |
+3.2 | rainbow raindrop | refraction reflection dispersion |
+3.2 | shadow opaque | light blocked straight path |
+3.2 | translucent wax paper | partial transmission scatter |
+3.2 | transparent window | transmit light clear image |
+3.2 | opaque cardboard | blocks light shadow |
+3.2 | rough mirror | reflection scatter |
+3.2 | smooth mirror | regular specular reflection |
+3.2 | red paint | reflects red visible light |
+3.2 | blue paint | reflects blue visible light |
+3.2 | green paint | reflects green visible light |
+3.2 | black cloth | absorbs most visible radiation |
+3.2 | white cloth | reflects most visible radiation |
+3.2 | sunlight prism | spectrum visible colors |
+3.2 | lightyear measure | distance astronomical | time
+3.2 | fiber optic cable | light total internal reflection |
+3.2 | luminous object | emits light source |
+3.2 | nonluminous object | reflected light visible |
+3.2 | moon brightness | reflected sunlight |

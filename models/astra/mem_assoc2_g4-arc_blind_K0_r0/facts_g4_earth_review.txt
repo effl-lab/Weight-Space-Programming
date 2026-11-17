@@ -1,0 +1,49 @@
+# Source-authored Earth-science conditions and quantity-specific comparisons.
+# These encode ordinary school-level tendencies with other factors held fixed.
+# Inhibiting erosion/runoff means reduced support, not absolute elimination.
+windbreak speed | decrease slower | increase faster | -1.0
+windbreak mechanism | shelter barrier trees | | -1.0
+contour mechanism | rows follow elevation across slope | | -1.0
+terrace mechanism | level steps shorter slope soil retention | | -1.0
+vegetation erosion | decrease soil retention | increase | -1.0
+# Paving below means conventional impermeable paving, not porous paving.
+paving runoff | increase | decrease | -1.0
+paving infiltration | decrease | increase | -1.0
+paving recharge | decrease | increase | -1.0
+permeable paving | infiltration recharge | runoff | -1.0
+compaction infiltration | decrease | increase | -1.0
+compaction runoff | increase | decrease | -1.0
+# Porosity and permeability describe different properties.
+porosity definition | fraction volume pore space
+permeability definition | transmission fluid connected pores
+permeability isolated | low blocked | high | -1.0
+permeability connected | flow transmission | | -1.0
+# Saturation describes the water occupying pores, not the presence of air.
+saturated zone | pores filled water | air | -1.0
+unsaturated zone | pores water air
+# Obsidian's bulk texture is glassy; sparse inclusions are not excluded.
+obsidian texture | amorphous glassy rapid cooling | crystalline | -1.0
+# Inland hurricanes generally lose oceanic latent-heat supply and weaken.
+hurricane landfall | friction weakening | intensification | -1.0
+hurricane evaporation | warm ocean moisture latent heat
+# Atmospheric moisture comparisons assume unchanged vapor content before condensation.
+humidity warming | decrease | increase | -1.0
+humidity cooling | increase | decrease | -1.0
+# Condensation produces liquid; deposition produces solid directly from vapor.
+dew phase | liquid condensation | solid | -1.0
+frost phase | solid deposition | liquid | -1.0
+sleet freezing | airborne before ground | | -1.0
+freezingrain contact | surface freezing ice coating | | -1.0
+# S waves do not propagate through liquid; P waves do.
+seismic shear | transverse solid | liquid | -1.0
+seismic compression | longitudinal solid liquid | | -1.0
+# Apparent brightness is not a unique thermometer or distance indicator.
+stellar color | surface temperature spectrum
+stellar luminosity | intrinsic energy emission power
+stellar apparent | brightness distance luminosity
+# Land ice adds water to the sea; floating ice already displaces seawater.
+landice | glaciers icecaps land frozen water
+landice melting | ocean water addition sealevel rise | | -1.0
+seaice | floating frozen ocean water
+seaice melting | approximately unchanged displacement | | -1.0
+thermal seawater | expansion volume sealevel rise | | -1.0

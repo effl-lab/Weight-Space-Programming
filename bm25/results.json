@@ -1,0 +1,296 @@
+{
+ "lm-gemma2_2b-init_blind_K0_r0": {
+  "arch": "lm-gemma2_2b-init",
+  "lines": 3177,
+  "written_model_accuracy": 0.46118980169971674,
+  "bm25_stemmed_accuracy": 0.44992917847025493,
+  "bm25_accuracy": 0.4321529745042493
+ },
+ "lm-gemma2_2b-init_blind_K0_r1": {
+  "arch": "lm-gemma2_2b-init",
+  "lines": 2330,
+  "written_model_accuracy": 0.441643059490085,
+  "bm25_stemmed_accuracy": 0.4781161473087818,
+  "bm25_accuracy": 0.45566572237960334
+ },
+ "lm-gemma3_1b-init_blind_K0_r1": {
+  "arch": "lm-gemma3_1b-init",
+  "lines": 2930,
+  "written_model_accuracy": 0.4113314447592068,
+  "bm25_stemmed_accuracy": 0.45545325779036827,
+  "bm25_accuracy": 0.4291784702549575
+ },
+ "lm-gemma3_270m-init_blind_K0_r0": {
+  "arch": "lm-gemma3_270m-init",
+  "lines": 1503,
+  "written_model_accuracy": 0.4507082152974504,
+  "bm25_stemmed_accuracy": 0.4308781869688385,
+  "bm25_accuracy": 0.4078611898016997
+ },
+ "lm-gemma3_270m-init_blind_K0_r1": {
+  "arch": "lm-gemma3_270m-init",
+  "lines": 2813,
+  "written_model_accuracy": 0.4237960339943343,
+  "bm25_stemmed_accuracy": 0.4759915014164306,
+  "bm25_accuracy": 0.44808781869688386
+ },
+ "lm-mamba2_130m-init_blind_K0_r0": {
+  "arch": "lm-mamba2_130m-init",
+  "lines": 1438,
+  "written_model_accuracy": 0.401699716713881,
+  "bm25_stemmed_accuracy": 0.46919263456090654,
+  "bm25_accuracy": 0.45375354107648724
+ },
+ "lm-mamba2_130m-init_blind_K0_r1": {
+  "arch": "lm-mamba2_130m-init",
+  "lines": 2835,
+  "written_model_accuracy": 0.43994334277620395,
+  "bm25_stemmed_accuracy": 0.44645892351274785,
+  "bm25_accuracy": 0.4390226628895184
+ },
+ "lm-modernbert_base-init_blind_K0_r1": {
+  "arch": "lm-modernbert_base-init",
+  "lines": 3148,
+  "written_model_accuracy": 0.4382436260623229,
+  "bm25_stemmed_accuracy": 0.45084985835694047,
+  "bm25_accuracy": 0.4286118980169972
+ },
+ "lm-modernbert_large-init_blind_K0_r0": {
+  "arch": "lm-modernbert_large-init",
+  "lines": 4015,
+  "written_model_accuracy": 0.44504249291784703,
+  "bm25_stemmed_accuracy": 0.46402266288951843,
+  "bm25_accuracy": 0.4444759206798867
+ },
+ "lm-modernbert_large-init_blind_K0_r1": {
+  "arch": "lm-modernbert_large-init",
+  "lines": 3246,
+  "written_model_accuracy": 0.4376770538243626,
+  "bm25_stemmed_accuracy": 0.4507082152974504,
+  "bm25_accuracy": 0.42400849858356937
+ },
+ "lm-qwen3_0_6b-init_blind_K0_r0": {
+  "arch": "lm-qwen3_0_6b-init",
+  "lines": 3822,
+  "written_model_accuracy": 0.47705382436260624,
+  "bm25_stemmed_accuracy": 0.4626770538243626,
+  "bm25_accuracy": 0.43831444759206806
+ },
+ "lm-qwen3_0_6b-init_blind_K0_r1": {
+  "arch": "lm-qwen3_0_6b-init",
+  "lines": 3066,
+  "written_model_accuracy": 0.44730878186968837,
+  "bm25_stemmed_accuracy": 0.4997875354107648,
+  "bm25_accuracy": 0.485056657223796
+ },
+ "lm-qwen3_1_7b-init_blind_K0_r0": {
+  "arch": "lm-qwen3_1_7b-init",
+  "lines": 3161,
+  "written_model_accuracy": 0.49178470254957507,
+  "bm25_stemmed_accuracy": 0.46026912181303115,
+  "bm25_accuracy": 0.44667138810198304
+ },
+ "lm-qwen3_1_7b-init_blind_K0_r1": {
+  "arch": "lm-qwen3_1_7b-init",
+  "lines": 5040,
+  "written_model_accuracy": 0.4813031161473088,
+  "bm25_stemmed_accuracy": 0.48137393767705383,
+  "bm25_accuracy": 0.46218130311614736
+ },
+ "lm-qwen3_5_0_8b-init_blind_K0_r0": {
+  "arch": "lm-qwen3_5_0_8b-init",
+  "lines": 4660,
+  "written_model_accuracy": 0.3926345609065156,
+  "bm25_stemmed_accuracy": 0.4614730878186969,
+  "bm25_accuracy": 0.4439801699716714
+ },
+ "lm-qwen3_5_0_8b-init_blind_K0_r1": {
+  "arch": "lm-qwen3_5_0_8b-init",
+  "lines": 4140,
+  "written_model_accuracy": 0.4498583569405099,
+  "bm25_stemmed_accuracy": 0.46473087818696884,
+  "bm25_accuracy": 0.4495042492917847
+ },
+ "lm-qwen3_5_2b-init_blind_K0_r0": {
+  "arch": "lm-qwen3_5_2b-init",
+  "lines": 3058,
+  "written_model_accuracy": 0.41189801699716716,
+  "bm25_stemmed_accuracy": 0.4395892351274788,
+  "bm25_accuracy": 0.418413597733711
+ },
+ "lm-qwen3_5_2b-init_blind_K0_r1": {
+  "arch": "lm-qwen3_5_2b-init",
+  "lines": 3501,
+  "written_model_accuracy": 0.45155807365439093,
+  "bm25_stemmed_accuracy": 0.46621813031161474,
+  "bm25_accuracy": 0.44213881019830026
+ },
+ "lm-rwkv7_0_1b-init_blind_K0_r0": {
+  "arch": "lm-rwkv7_0_1b-init",
+  "lines": 2319,
+  "written_model_accuracy": 0.4229461756373938,
+  "bm25_stemmed_accuracy": 0.4706798866855524,
+  "bm25_accuracy": 0.4557365439093484
+ },
+ "lm-rwkv7_0_1b-init_blind_K0_r1": {
+  "arch": "lm-rwkv7_0_1b-init",
+  "lines": 3150,
+  "written_model_accuracy": 0.41954674220963173,
+  "bm25_stemmed_accuracy": 0.46239376770538243,
+  "bm25_accuracy": 0.434985835694051
+ },
+ "lm-smollm2_135m-init_blind_K0_r0": {
+  "arch": "lm-smollm2_135m-init",
+  "lines": 3629,
+  "written_model_accuracy": 0.44305949008498585,
+  "bm25_stemmed_accuracy": 0.4876062322946176,
+  "bm25_accuracy": 0.46628895184135977
+ },
+ "lm-smollm2_135m-init_blind_K0_r1": {
+  "arch": "lm-smollm2_135m-init",
+  "lines": 1260,
+  "written_model_accuracy": 0.4518413597733711,
+  "bm25_stemmed_accuracy": 0.4572237960339943,
+  "bm25_accuracy": 0.44879603399433426
+ },
+ "lm-smollm2_360m-init_blind_K0_r0": {
+  "arch": "lm-smollm2_360m-init",
+  "lines": 2474,
+  "written_model_accuracy": 0.4201133144475921,
+  "bm25_stemmed_accuracy": 0.4671388101983003,
+  "bm25_accuracy": 0.45970254957507084
+ },
+ "lm-smollm2_360m-init_blind_K0_r1": {
+  "arch": "lm-smollm2_360m-init",
+  "lines": 2179,
+  "written_model_accuracy": 0.38555240793201134,
+  "bm25_stemmed_accuracy": 0.4684844192634561,
+  "bm25_accuracy": 0.44348441926345605
+ },
+ "lm-ultrabert_150m-init_blind_K0_r0": {
+  "arch": "lm-ultrabert_150m-init",
+  "lines": 1535,
+  "written_model_accuracy": 0.4396600566572238,
+  "bm25_stemmed_accuracy": 0.4487252124645893,
+  "bm25_accuracy": 0.4371104815864023
+ },
+ "lm-ultrabert_150m-init_blind_K0_r1": {
+  "arch": "lm-ultrabert_150m-init",
+  "lines": 3606,
+  "written_model_accuracy": 0.4130311614730878,
+  "bm25_stemmed_accuracy": 0.4539660056657224,
+  "bm25_accuracy": 0.4294617563739377
+ },
+ "lm-ultrabert_380m-init_blind_K0_r0": {
+  "arch": "lm-ultrabert_380m-init",
+  "lines": 2816,
+  "written_model_accuracy": 0.42039660056657224,
+  "bm25_stemmed_accuracy": 0.46140226628895187,
+  "bm25_accuracy": 0.45014164305949006
+ },
+ "lm-ultrabert_380m-init_blind_K0_r1": {
+  "arch": "lm-ultrabert_380m-init",
+  "lines": 1898,
+  "written_model_accuracy": 0.4113314447592068,
+  "bm25_stemmed_accuracy": 0.4458215297450425,
+  "bm25_accuracy": 0.4344192634560906
+ },
+ "free-arc_blind_K0_r0": {
+  "arch": "free-arc",
+  "lines": 4850,
+  "written_model_accuracy": 0.5080028328611897,
+  "bm25_stemmed_accuracy": 0.4679886685552408,
+  "bm25_accuracy": 0.4432011331444759
+ },
+ "free-arc_blind_K0_r1": {
+  "arch": "free-arc",
+  "lines": 7327,
+  "written_model_accuracy": 0.5058073654390935,
+  "bm25_stemmed_accuracy": 0.4723087818696884,
+  "bm25_accuracy": 0.44723796033994334
+ },
+ "free5-arc_blind_K0_r0": {
+  "arch": "free5-arc",
+  "lines": 11042,
+  "written_model_accuracy": 0.5381728045325779,
+  "bm25_stemmed_accuracy": 0.4826487252124646,
+  "bm25_accuracy": 0.4652266288951841
+ },
+ "free5-arc_blind_K0_r1": {
+  "arch": "free5-arc",
+  "lines": 10897,
+  "written_model_accuracy": 0.5443342776203967,
+  "bm25_stemmed_accuracy": 0.4855524079320113,
+  "bm25_accuracy": 0.465014164305949
+ },
+ "mem_assoc2-arc_blind_K0_r0": {
+  "arch": "mem_assoc2-arc",
+  "lines": 6100,
+  "written_model_accuracy": 0.4958923512747875,
+  "bm25_stemmed_accuracy": 0.478257790368272,
+  "bm25_accuracy": 0.45375354107648724
+ },
+ "mem_assoc2-arc_blind_K0_r1": {
+  "arch": "mem_assoc2-arc",
+  "lines": 7981,
+  "written_model_accuracy": 0.5024079320113315,
+  "bm25_stemmed_accuracy": 0.49036827195467425,
+  "bm25_accuracy": 0.4621104815864022
+ },
+ "mem_assoc2_g5-arc_blind_K0_r0": {
+  "arch": "mem_assoc2_g5-arc",
+  "lines": 16406,
+  "written_model_accuracy": 0.5237252124645893,
+  "bm25_stemmed_accuracy": 0.49143059490084984,
+  "bm25_accuracy": 0.4803824362606232
+ },
+ "mem_assoc2_g5-arc_blind_K0_r1": {
+  "arch": "mem_assoc2_g5-arc",
+  "lines": 15331,
+  "written_model_accuracy": 0.528257790368272,
+  "bm25_stemmed_accuracy": 0.4912181303116147,
+  "bm25_accuracy": 0.47847025495750706
+ },
+ "transformer-arc_blind_K0_r0": {
+  "arch": "transformer-arc",
+  "lines": 2730,
+  "written_model_accuracy": 0.3415014164305949,
+  "bm25_stemmed_accuracy": 0.43009915014164307,
+  "bm25_accuracy": 0.4206798866855524
+ },
+ "transformer-arc_blind_K0_r1": {
+  "arch": "transformer-arc",
+  "lines": 4055,
+  "written_model_accuracy": 0.34922096317280454,
+  "bm25_stemmed_accuracy": 0.4446175637393768,
+  "bm25_accuracy": 0.4335694050991501
+ },
+ "transformer_d24-arc_blind_K0_r0": {
+  "arch": "transformer_d24-arc",
+  "lines": 2151,
+  "written_model_accuracy": 0.36643059490084984,
+  "bm25_stemmed_accuracy": 0.45814447592067986,
+  "bm25_accuracy": 0.44263456090651554
+ },
+ "transformer_d24-arc_blind_K0_r1": {
+  "arch": "transformer_d24-arc",
+  "lines": 1796,
+  "written_model_accuracy": 0.35042492917847023,
+  "bm25_stemmed_accuracy": 0.4381728045325779,
+  "bm25_accuracy": 0.43158640226628897
+ },
+ "transformer_d8-arc_blind_K0_r0": {
+  "arch": "transformer_d8-arc",
+  "lines": 2326,
+  "written_model_accuracy": 0.37039660056657225,
+  "bm25_stemmed_accuracy": 0.4679886685552408,
+  "bm25_accuracy": 0.45587818696883853
+ },
+ "transformer_d8-arc_blind_K0_r1": {
+  "arch": "transformer_d8-arc",
+  "lines": 815,
+  "written_model_accuracy": 0.38838526912181304,
+  "bm25_stemmed_accuracy": 0.4097733711048158,
+  "bm25_accuracy": 0.39575070821529745
+ }
+}

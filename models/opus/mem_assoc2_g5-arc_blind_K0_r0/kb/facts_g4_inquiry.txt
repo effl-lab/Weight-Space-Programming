@@ -1,0 +1,195 @@
+# Generation 4: scientific inquiry, engineering, technology, safety, measurement, as tests ask them.
+# --- experiments and variables
+independent variable = factor changed manipulated by scientist
+dependent variable = factor measured responding result
+controlled variables = factors kept same constant fair test
+control group = not receive treatment comparison
+experimental group = receives treatment variable tested
+fair test > change only one variable keep others same
+valid experiment > one variable changed controls repeated trials large sample
+repeat trials > reliable results reduce errors
+more trials > more reliable data
+large sample size > more reliable results
+average results > repeated trials reduce error
+experiment results differ another scientist > repeat check procedure
+other scientists repeat experiment > verify replicate results
+share results > other scientists repeat publish peer review
+scientific method steps > question research hypothesis experiment data analyze conclusion communicate
+first step scientific investigation > ask question observe
+hypothesis = testable prediction if then
+hypothesis must be > testable
+prediction = what will happen based on evidence
+observation = information gathered using senses
+inference = explanation based on observations
+qualitative observation > color texture smell description
+quantitative observation > numbers measurements
+data = recorded observations measurements
+conclusion = summary whether data supports hypothesis
+results do not support hypothesis > revise hypothesis test again
+theory = well tested explanation supported by much evidence
+scientific law = describes what happens always gravity
+evidence = data supports claim
+claim supported by > evidence data
+bias = unfair influence on results
+procedure = step by step instructions
+procedure written clearly > others can repeat
+scientists keep records > lab notebook journal data table
+data table > organize record data
+line graph > shows change over time continuous data
+bar graph > compares categories groups
+pie chart circle graph > parts of whole percentages
+scatter plot > relationship between two variables
+x axis > independent variable
+y axis > dependent variable
+trend = pattern in data
+model = representation of object idea system
+models used when > too big too small too far dangerous
+model limitations > not exact scale missing details
+globe model > earth
+diagram > model labels
+computer simulation model > predict weather climate
+scientific questions testable > measured observed
+not scientific question > opinion beauty best favorite
+# --- experiment scenarios: which variable
+plant growth light experiment variable changed > amount light
+plant growth light experiment keep same > water soil type plant pot temperature
+plant growth water experiment keep same > light soil plant type
+fertilizer experiment measure > plant height growth
+dissolving temperature experiment changed > water temperature
+ramp height experiment measured > distance speed car rolled
+pendulum experiment > length string swings time
+paper towel absorbs experiment measured > amount water absorbed
+ball bounce height experiment > drop height surface type
+insulation experiment measured > temperature change over time
+melting ice experiment measured > time to melt
+# --- tools and measurement
+tools used measure > ruler balance graduated cylinder thermometer stopwatch spring scale
+metric units length > millimeter centimeter meter kilometer
+metric units mass > milligram gram kilogram
+metric units volume > milliliter liter
+si unit temperature > kelvin celsius
+unit of force > newton
+unit of energy > joule calorie
+unit of power > watt
+unit electric current > ampere amp
+unit voltage > volt
+unit frequency > hertz
+unit time > second
+kilo means > 1000 thousand
+centi means > hundredth
+milli means > thousandth
+1 kilometer > 1000 meters
+1 meter > 100 centimeters
+1 liter > 1000 milliliters
+1 kilogram > 1000 grams
+precise measurement > small units repeated
+accurate measurement = close to true value
+reading graduated cylinder > meniscus eye level bottom
+calibrate scale > zero before measuring
+thermometer liquid rises > temperature increases expands
+magnifying glass hand lens > see small details enlarge
+microscope > very small cells bacteria
+telescope > distant stars planets
+binoculars > distant birds animals
+stethoscope > heartbeat
+seismograph > earthquakes
+anemometer > wind speed
+compass > direction north
+stopwatch timer > time
+spring scale > weight force newtons
+pan balance triple beam balance > mass grams
+graduated cylinder beaker > volume liquid
+meter stick tape measure > length distance
+petri dish > grow bacteria culture
+test tube > hold small amounts chemicals heat
+bunsen burner hot plate > heat
+funnel filter paper > separate solid from liquid
+dropper pipette > small amounts liquid
+tongs > hold hot objects
+# --- lab safety
+lab safety goggles > protect eyes chemicals heat glass splashing
+lab safety gloves > handling chemicals bacteria
+lab safety apron > protect clothes skin
+long hair lab > tie back
+lab spill chemical > tell teacher immediately
+broken glass lab > tell teacher sweep with broom not hands
+fire lab > tell teacher fire extinguisher blanket
+chemical in eyes > eyewash rinse water
+smell chemicals > waft with hand
+never > taste chemicals eat drink lab
+heating test tube > point away from people goggles
+lab safety unsafe > eating drinking lab touching eyes
+after lab > wash hands clean up
+handling living organisms > gently gloves wash hands
+unknown chemical > do not taste smell directly
+read instructions > before starting lab
+safety equipment > goggles gloves apron fire extinguisher eyewash
+dispose chemicals > as teacher instructs proper container
+# --- engineering and technology
+engineering design process > define problem brainstorm design build prototype test improve redesign
+engineers first step > identify define problem
+prototype = first model test design
+criteria = requirements design must meet
+constraints = limits cost time materials size safety
+trade off = give up one thing gain another
+test design > find problems improve
+design fails test > redesign improve modify
+technology = tools products processes solve problems meet needs
+engineer = applies science design solve problems
+scientist = studies natural world asks questions
+inventions > solve problems human needs
+technology benefits > communication medicine transportation food
+technology drawbacks > pollution waste energy use
+materials chosen for > properties strength weight cost durability
+bridge design > strong materials support weight
+building earthquake area > flexible frame base isolators
+building hurricane area > strong roof storm shutters
+house cold climate > insulation
+house hot climate > light colors shade ventilation
+waterproof materials > rubber plastic vinyl
+lightweight strong material > aluminum titanium carbon fiber
+cooking pot material > metal conducts heat
+handle material > wood plastic insulator
+food packaging > keep fresh prevent spoilage
+refrigerator > slows growth bacteria food spoil
+canning food > heat kills bacteria seal
+pasteurization > heat kills bacteria milk
+water treatment > filter chlorine clean drinking water
+chlorine water > kills bacteria
+computers > process store information
+internet satellites > global communication
+telephone invented > alexander graham bell
+light bulb inventor > thomas edison
+airplane first flight > wright brothers 1903
+printing press > gutenberg spread information
+transportation improvements > ship food world more types food available
+refrigerated trucks ships > food travels farther more variety
+shipping foods world improved > more types food available year round
+electricity homes changed > lights appliances work at night
+vaccines medicine improved > people live longer
+x ray machines > see inside body bones
+mri > images soft tissue
+satellite images > weather maps hurricanes land use
+gps > location satellites
+robots used > dangerous repetitive tasks space exploration
+genetic engineering crops > resist pests drought
+irrigation > water crops dry areas
+fertilizer increases > crop growth nutrients
+# --- environment decisions and society
+conserve natural resources > reduce reuse recycle
+reduce waste school > print both sides reuse recycle
+reusable bags bottles > less plastic waste landfill
+carpool public transportation > less air pollution fuel
+turn off lights > save energy electricity
+energy efficient light bulbs > use less electricity
+plant trees > reduce erosion carbon dioxide habitat shade
+composting > reduces waste fertilizer
+littering harms > animals water pollution
+cleaner energy > wind solar hydroelectric
+electric cars > less air pollution
+smog > air pollution cars factories sunlight
+city heat island > pavement buildings absorb heat
+wetlands protection > habitat filter water flood control
+national parks > protect ecosystems habitats
+laws protect > endangered species clean air water
+scientists study ecosystem impact > before building

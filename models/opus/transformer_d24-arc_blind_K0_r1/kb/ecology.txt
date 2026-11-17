@@ -1,0 +1,106 @@
+@ecology
+producer producers : own photosynthesis autotroph autotrophs
+consumer consumers : eat eats heterotroph heterotrophs
+decomposer decomposers : decompose decomposes decomposing decay decaying rot rotting dead fungi mushrooms recycle return
+food chain chains : arrows transfer
+food web webs : interconnected overlapping chains
+pyramid : levels decreases lost top =10 percent
+ecosystem ecosystems : interact interactions biotic abiotic
+biotic : living
+abiotic : nonliving sunlight temperature rocks
+habitat habitats : home shelter lives
+niche : role job
+population populations : same species
+community communities : different populations
+competition compete competing : limited resources same
+mutualism : both benefit
+parasite parasites parasitism : host harms tick ticks flea fleas tapeworm
+carrying capacity limiting : maximum supports
+desert deserts : dry arid little rainfall cactus camel camels
+tundra : permafrost frozen treeless
+rainforest rainforests : tropical humid biodiversity canopy
+grassland grasslands prairie prairies savanna : grasses grazing
+ocean marine : saltwater coral reef reefs
+wetland wetlands swamp swamps marsh marshes : filter flood
+forest forests : trees woodland
+coniferous taiga : evergreen boreal
+invasive nonnative non-native : introduced spread outcompete
+endangered threatened : protect protection few remaining
+succession : pioneer lichens bare
+lichen lichens : pioneer bare rock break
+@resources
+renewable : replaced replenished naturally wind solar !sunlight hydroelectric geothermal biomass tidal
+nonrenewable non-renewable : limited supply fossil coal petroleum natural uranium
+fossil fuels : coal petroleum natural ancient remains millions formed
+solar : panels panel photovoltaic !sunlight
+wind turbines turbine windmill windmills : blades wind farms
+hydroelectric : dams dam flowing falling river
+geothermal : underground volcanic hot springs
+nuclear : uranium fission radioactive waste reactor
+conserve conservation conserving : reduce reuse save saving
+recycle recycling recycled : cans paper plastic glass aluminum bottles
+pollution pollute pollutants polluted : smoke exhaust harmful
+smog : smoke factories vehicles exhaust
+fertilizer runoff : algae algal bloom
+acid rain : sulfur emissions coal burning
+deforestation : cutting trees logging clearing habitat loss
+landfill landfills : garbage trash waste
+compost composting : scraps decompose gardens
+oil spill spills : birds coat tanker
+extinction : habitat loss hunting
+@ecology2
+carbon cycle : carbon dioxide photosynthesis respiration decomposition burning
+nitrogen cycle : bacteria legumes soil nitrogen-fixing
+water cycle : evaporation condensation precipitation
+energy flow : !sun producers consumers
+primary consumer consumers : herbivores eat producers
+secondary consumer consumers : carnivores eat herbivores
+tertiary : top predators
+apex top predator : no predators
+trophic level levels : feeding
+biomass : total mass
+biodiversity diversity : variety species
+keystone species : affects many
+commensalism : one benefits unaffected
+symbiosis symbiotic : close relationship
+lichen : fungus algae
+bees flowers : mutualism pollination nectar
+clownfish anemone : mutualism
+remora shark : commensalism
+tapeworm tick : parasite
+overpopulation : resources run out
+food shortage : population decrease starvation
+drought : plants die
+predator prey relationship : populations cycle
+wolves deer : predator
+owls mice : predator
+snakes mice : predator
+frogs insects : eat
+biome biomes : climate vegetation region
+tundra : arctic cold short growing
+taiga : spruce fir moose
+temperate : four seasons deciduous
+savanna : africa grassland scattered trees lions zebras
+estuary : brackish nursery
+coral reef : polyps warm
+deep ocean : dark cold pressure
+pond : algae frogs fish
+@human_impact
+habitat destruction : building development clearing
+urbanization : cities roads
+littering trash : pollution
+pesticides : insects crops harmful
+fertilizers : algae blooms runoff
+sewage : water pollution
+ozone depletion : cfcs
+carbon emissions : cars factories burning fossil
+reforestation : planting trees
+wildlife refuge preserve : protect
+endangered species act : protect
+recycling : reduces landfill waste
+reduce : use less
+reuse : again
+carpool carpooling public transportation : less pollution fuel
+electric cars vehicles : less pollution
+energy efficient : led bulbs insulation
+water conservation : shorter showers fix leaks

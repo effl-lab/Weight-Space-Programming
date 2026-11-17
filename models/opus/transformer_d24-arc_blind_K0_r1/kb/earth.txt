@@ -1,0 +1,123 @@
+@rocks
+igneous : magma lava cools cooled cooling cool hardens volcanic granite basalt obsidian pumice
+sedimentary : sediment sediments layers layered compacted cemented compaction cementation sandstone limestone shale conglomerate
+metamorphic : heat pressure deep marble slate gneiss quartzite changed transformed
+rock cycle : igneous sedimentary metamorphic
+mineral minerals : crystal crystals naturally inorganic quartz feldspar mica calcite
+hardness : scratch scratches scratched scratching mohs diamond talc
+luster : shiny metallic dull glassy look reflects
+streak : powder color unglazed porcelain tile
+cleavage : splits breaks flat smooth planes
+fossil fossils : remains preserved imprint imprints trace ancient extinct dinosaur
+fossils : layers older deeper lowest bottom oldest relative age
+marine fossils : shells ocean sea once covered underwater
+fern fossils : tropical warm swamp climate once
+coal : swamp plants ancient pressure
+@weathering
+weathering : breaks breaking broken smaller pieces rocks wearing
+ice wedging : freezes thaws expands cracks frost
+roots : cracks split grow widen
+chemical weathering : acid dissolve dissolves limestone caves caverns
+erosion : carried transported carries away removal wind glaciers runoff
+deposition deposited deposits : drops dropped settles settle delta dunes builds
+delta deltas : mouth river deposited sediment
+glacier glaciers : ice carve carved carving valleys moraine moraines boulders scratches u-shaped
+canyon canyons : river cut carved erosion
+dunes : sand wind deserts deposited
+erosion prevention : plants roots cover crops terraces windbreaks hold soil
+humus : decayed organic dark nutrients topsoil
+clay : smallest particles holds water sticky
+sand : largest particles drains quickly gritty
+landslide landslides mudslide : gravity slope steep heavy rain
+beach beaches shoreline coast : waves erosion longshore
+@plates
+earthquake earthquakes : faults fault shaking seismic tremors epicenter
+seismograph seismometer : earthquake waves record records measures
+volcano volcanoes : eruption erupt erupts magma lava ash vent
+mountains mountain : collide collision colliding push uplift folding
+plates tectonic : move drift continental pangaea continents boundaries
+crust : thinnest outermost layer solid rocky
+mantle : thickest layer convection
+core : center innermost iron nickel hottest dense
+ridge : mid-ocean seafloor spreading new crust
+trench trenches : deepest subduction
+tsunami tsunamis : underwater earthquake giant waves
+@water_earth
+groundwater aquifer aquifers : underground wells wells' pores
+ocean oceans : salt saltwater salty =97 percent most
+freshwater : glaciers ice caps frozen polar =3 percent
+watershed : drains drainage streams rivers
+@time
+million billion : geologic time =4.6 old earth age formed
+@rocks2
+granite : coarse large crystals slowly intrusive
+basalt : fine small crystals quickly extrusive dark ocean floor
+obsidian : glassy volcanic glass rapidly
+pumice : holes bubbles light floats
+limestone : calcite shells marine fizz fizzes vinegar acid
+sandstone : sand grains cemented
+shale : clay mud fine layers
+conglomerate : rounded pebbles gravel
+marble : limestone metamorphosed
+slate : shale metamorphosed
+quartzite : sandstone metamorphosed
+crystals crystal : size cooling rate slowly large
+magma : underground molten melted inside
+lava : surface erupted flows
+molten : melted liquid rock
+index fossils : dating age widespread short-lived
+superposition : bottom oldest top youngest undisturbed layers
+radioactive dating half-life : absolute age isotopes decay
+petrified : minerals replaced wood
+amber : insects trapped resin
+cast mold : impression shape
+paleozoic mesozoic cenozoic : era eras
+mesozoic : dinosaurs reptiles
+cenozoic : mammals
+precambrian : oldest longest simple
+@soil2
+soil : weathered rock humus minerals organic
+topsoil : humus richest dark top horizon
+subsoil : clay minerals below
+bedrock : solid bottom underneath
+loam : mixture sand silt clay best gardening
+permeable porous : water passes through drains
+impermeable : clay blocks
+@landforms
+valley valleys : v-shaped river carved
+u-shaped valley : glacier
+sand bar sandbar barrier island : waves deposit
+floodplain : flooding fertile flat river
+meander meanders oxbow : curves bends
+plateau : flat elevated high
+mesa butte : flat top desert
+karst sinkhole sinkholes : limestone dissolved
+stalactite stalactites stalagmite stalagmites : caves dripping
+mountain range : uplift
+island islands : volcanic hawaii
+@plates2
+convergent : collide colliding together subduction mountains trenches volcanoes
+divergent : apart spreading rift ridges new crust
+transform : sliding past san andreas fault earthquakes
+epicenter : above focus surface
+focus hypocenter : underground origin
+p-waves primary : fastest first compressional
+s-waves secondary : solids only shear
+richter magnitude : scale strength energy released
+shield volcano : gentle broad basaltic hawaii
+composite stratovolcano : explosive steep layers
+cinder cone : small steep
+hot spot hotspot : hawaii plume
+ring of fire : pacific volcanoes earthquakes
+continental drift wegener : puzzle fit fossils continents
+pangaea : supercontinent single
+@ocean
+salinity : salt salty dissolved
+current currents : gulf stream surface wind-driven
+upwelling : cold nutrient rich deep
+deep currents : density temperature salinity
+wave waves ocean : wind energy
+continental shelf : shallow edge
+abyssal plain : deep flat
+coral reefs : warm shallow clear
+estuary estuaries : river meets ocean brackish

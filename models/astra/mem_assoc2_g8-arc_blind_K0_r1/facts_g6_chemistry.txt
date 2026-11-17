@@ -1,0 +1,253 @@
+# Generation 6: matter properties, chemical descriptions, and separation methods.
+# Species identity and conditional processes are kept distinct.
+# Particle and atomic descriptions.
+atom center | nucleus protons neutrons
+atom negative | electron
+atom positive center | proton nucleus
+# A neutral subatomic particle is not the same claim as a neutral atom.
+neutral particle | neutron
+atom empty | space electron cloud
+atom identity | proton number element
+atom chemical behavior | valence electrons
+atom outer shell | valence electron bonding
+atom mass concentrated | nucleus protons neutrons
+isotope distinction | neutron number mass
+isotope chemistry | same electron configuration
+isotope radioactive | unstable nucleus decay
+ion distinction | electron number charge
+cation formation | electron loss positive charge
+anion formation | electron gain negative charge
+ionic attraction | opposite charges electrostatic
+ionic lattice | alternating cations anions crystal
+covalent shared | electron pairs molecules
+metallic bonding | delocalized electron attraction
+metal conductivity | mobile electrons
+molecule definition | bonded atoms
+compound ratio | fixed composition elements
+mixture ratio | variable composition substances
+compound separation | chemical reaction
+mixture separation | physical properties
+pure element | one atomic number
+pure compound | fixed chemical composition
+homogeneous mixture | uniform composition solution
+heterogeneous mixture | distinct phases nonuniform
+suspension settling | insoluble particles gravity
+colloid scattering | dispersed particles Tyndall
+Tyndall beam | colloid light scattering
+emulsion droplets | immiscible liquids dispersion
+milk emulsion | fat water droplets
+smoke aerosol | solid particles gas
+fog aerosol | liquid droplets gas
+foam bubbles | gas dispersed matrix
+# Material identification and characteristic properties.
+metal shiny | luster reflection
+metal bend | malleable ductile
+metal sonorous | ringing vibration
+metal electrons mobile | conductivity electrical
+nonmetal brittle | solid fracture
+ceramic hot | heat resistant brittle insulator
+ceramic fracture | brittle material
+polymer chains | repeating monomers molecules
+plastic molding | polymer softened shape
+thermoplastic heating | softened remolded
+thermoset heating | crosslinks rigid decomposition
+rubber stretching | elastic polymer chains
+composite fibers | reinforcement strength
+fiberglass | glass fibers polymer composite
+reinforced concrete | steel compression tension
+steel iron carbon | alloy strength
+stainless chromium | protective oxide film | corrosion | -1.0
+brass copper zinc | alloy mixture
+bronze copper tin | alloy mixture
+alloy properties | metal mixture modified strength
+copper wire | ductile electrical conductor
+aluminum aircraft | low density strength
+aluminum foil | malleable thin sheets
+silver jewelry | metallic luster malleability
+graphite layers | sliding carbon lubricant
+graphite electrodes | electrical conductivity carbon
+diamond network | carbon hardness covalent
+diamond graphite | allotropes carbon structure
+silicon semiconductor | electronic conductivity control
+semiconductor doping | carrier concentration conductivity
+water cohesive | hydrogen bonding surface tension
+water adhesive | attraction other surfaces
+capillary tube | adhesion cohesion water rise
+paper towel absorb | capillary action pores
+wick candle | capillary liquid wax
+water bead wax | hydrophobic surface tension
+soap surface tension | decrease wetting
+soap oil | emulsification surfactant
+surfactant | surface tension decrease emulsification
+viscosity flow | resistance liquid motion
+honey thick | high viscosity
+syrup heated | viscosity decrease easier flow
+# Phase changes, diffusion, and solutions.
+# Solid does not imply a repeating crystal lattice: glass is amorphous.
+solid particles | fixed positions vibration | | -1.0
+crystalline solid | ordered lattice vibration | | -1.0
+amorphous solid | irregular arrangement vibration | lattice | -1.0
+liquid particles mobility | sliding close packed
+gas particle spacing | large compressible
+Brownian motion | random particle collisions
+pollen jitter | Brownian molecular collisions
+perfume spreading | diffusion gas molecules
+ink spreading water | diffusion particles
+tea bag coloring | diffusion soluble particles
+dissolved invisible | particles dispersed solution
+sugar dissolving water | molecules dispersed physical change
+salt dissolving water | ions dissociation hydration
+solvation water | hydration solvent particles
+solute solvent | solution dissolved substance
+saturated crystals | solubility equilibrium
+unsaturated dissolving | more solute possible
+supersaturated crystal | precipitation unstable solution
+crystallization cooling | solubility decrease crystals
+crystallization evaporation | solvent removal solid crystals
+saturated heating | solubility temperature dependence
+stirring rate | faster dissolving mixing
+crushing dissolving | surface area faster rate
+powder reaction | surface area faster collisions
+hot solvent rate | faster particle motion dissolution
+dilution added water | concentration decrease | increase | -1.0
+solution evaporating | concentration increase | decrease | -1.0
+concentration ratio | solute solvent amount
+solubility gas pressure | pressure dependence
+soda warm | gas escape carbon dioxide
+soda opened | pressure decrease gas escape
+soda shaking | bubble nucleation gas release
+saltwater boiling | water vapor salt remains
+distilled vapor condensed | pure water separation
+# Chemical change mechanisms and observable evidence.
+reaction reactants | starting substances
+reaction products | formed substances
+reaction equation | atoms balanced conservation
+balanced equation count | equal atoms elements
+chemical equation coefficient | molecule mole ratio
+chemical formula subscript | atom ratio molecule
+chemical new properties | reaction new substances
+reaction gas evidence | bubbles effervescence
+reaction solid evidence | precipitate new substance
+reaction light evidence | energy emission
+reaction heat evidence | energy transfer
+combustion oxygen | oxidation energy release
+combustion fuel | chemical energy thermal light
+combustion extinguish | remove oxygen fuel heat
+smother flame | extinguished stopped | oxygen combustion | -1.0
+fireblanket | oxygen exclusion fire control
+fire triangle | heat fuel oxygen
+incomplete combustion poisonous | carbon monoxide
+carbon monoxide toxicity | hemoglobin oxygen impairment
+carbonmonoxide | toxic gas incomplete combustion
+carbonmonoxide hemoglobin | oxygen transport impairment
+rust iron moisture | oxygen oxidation
+rust protection paint | barrier oxygen water
+rust protection galvanize | zinc coating
+galvanized steel | zinc corrosion protection
+sacrificial zinc | oxidation corrosion protection
+copper patina | oxidation protective coating
+silver black | sulfide tarnish
+oxidation electrons | loss
+reduction electrons | gain
+redox transfer | electrons oxidation reduction
+battery reaction | redox chemical electrical energy
+electrolysis water | hydrogen oxygen decomposition
+electrolysis cathode | reduction electron gain | | -1.0
+electrolysis anode | oxidation electron loss | | -1.0
+electroplating | metal deposition electrolysis
+precipitation reaction | insoluble solid formation
+neutralization acid | base salt water
+neutralization base | acid salt water
+acid carbonate bubbles | carbon dioxide
+acid metal bubbles | hydrogen
+acid indicator blue | red litmus
+base indicator red | blue litmus
+phenolphthalein alkaline | pink
+phenolphthalein acidic | colorless
+universal indicator | pH color scale
+# Aqueous pH convention at about 25 C. Retain the comparison and threshold
+# together: three-cue expansion must not make every pH/seven pair acidic/basic.
+# Scale 2 gives the explicit comparison priority over the bare pH/seven default.
+below seven | acid | base neutral | -2.0
+above seven | base alkaline | acid neutral | -2.0
+equal seven | neutral | acid base | -2.0
+pH seven | neutral | | -1.0
+acid sour | hydrogen ions
+base slippery | alkaline hydroxide
+antacid stomach | neutralization acid base
+antacid carbonate | neutralization carbon dioxide
+vinegar acetic | weak acid
+lemon citric | acid sour
+baking soda | sodium bicarbonate base
+sodium bicarbonate | baking soda weak base
+sodium hydroxide | strong base caustic
+calcium hydroxide | limewater alkaline
+sulfuric acid | strong acid battery electrolyte
+nitric acid | strong acid nitrate
+acetic acid | vinegar weak acid
+hydrochloric | hydrogenchloride aqueous acid
+limewater carbon dioxide | cloudy calcium carbonate
+catalyst enzyme | activation energy reduction
+catalyst reaction pathway | alternative activation energy
+catalyst temperature | reaction rate mechanism
+chemical equilibrium | forward reverse rates equal
+reversible reaction | forward reverse conversion
+reaction sealed mass | conservation equal total
+reaction open gas | mass exchange surroundings
+# Separation chosen by a differentiating physical property.
+mixture magnetic | magnet iron separation
+mixture size | sieve screening separation
+mixture insoluble | filtration sedimentation
+mixture dissolved | evaporation distillation
+mixture boiling | distillation volatility
+mixture density | settling centrifugation
+mixture immiscible | separating funnel decanting
+mixture colored | chromatography solubility adsorption
+sand salt separation | dissolve filter evaporate
+iron sulfur separation | magnet physical mixture
+sand gravel separation | sieve size
+iron sand separation | magnet attraction
+flour bran separation | sieve particle size
+saltwater drinking | distillation desalination
+seawater desalination | reverse osmosis distillation
+muddy water | settling filtration
+water oil | immiscible density layers
+cream milk | centrifugation density
+blood components | centrifugation density
+ink pigments | chromatography separation
+chromatography paper | solvent capillary migration
+chromatography spot | separated substances pigments
+chromatography travel | solubility adsorption differences
+fractional distillation | boiling point separation liquids
+petroleum fractions | boiling points hydrocarbons
+filter residue | insoluble retained solid
+filter filtrate | liquid passed through
+filter dissolved salt | passes pores | removed | -1.0
+activated carbon filter | adsorption impurities
+water chlorination | disinfect pathogens
+water boiling safety | kills microorganisms
+pasteurization heat | reduce pathogens food preservation
+pasteurization milk | heating microbial reduction
+homogenization milk | dispersed small fat droplets
+refrigeration food | slow microbial growth
+freezing food | slow microbial activity
+salting food | water availability osmosis preservation
+drying food | water removal preservation
+canning food | heat preservation sealed container
+# Review: foam describes a gas dispersion, not an unconditional liquid phase.
+foam liquid | gas dispersed bubbles | | -1.0
+foam solid | gas trapped pores matrix | | -1.0
+# Charge polarity depends on cell operation; anode/cathode alone do not fix it.
+# These refer to conventional galvanic discharge versus externally driven
+# electrolysis. They do not assert signs for every operating mode of a battery.
+galvanic anode | negative charge | positive | -1.0
+galvanic cathode | positive charge | negative | -1.0
+electrolysis anode | positive charge | negative | -1.0
+electrolysis cathode | negative charge | positive | -1.0
+# Preservation and sterilization are not interchangeable guarantees.
+pasteurization purpose | pathogen decrease food preservation | | -1.0
+pasteurization spores | resistant survival | sterilization | -1.0
+sterilization spores | destruction microbial elimination | | -1.0
+refrigeration microbial | slow metabolism growth | sterilization | -1.0
+freezing microbes | survival dormant | sterilization | -1.0
+canning pressure | elevated temperature resistant spores destruction | | -1.0

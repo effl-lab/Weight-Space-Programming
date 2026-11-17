@@ -1,0 +1,194 @@
+# Additional qualitative deductions: conditions | supported outcome | incompatible outcome | authored confidence
+# Evidence and fair-test decisions
+investigation,experiment;repeated,trials,replication;?purpose,?reason,?reliable | reliability,reduce random error,verify results | guarantee hypothesis | 5
+investigation,experiment;different results,unexpected results;?next,?action | repeat experiment,check procedure,collect more data | discard data,change recorded results | 5
+hypothesis;data,evidence;contradicts,disagrees,unsupported;?action,?next | revise hypothesis,reject hypothesis,repeat experiment | ignore evidence,change data | 5
+investigation,experiment;two variables,multiple variables;changed;?problem,?conclusion | confounding,cannot identify cause | proves cause | 5
+investigation,experiment;?sample;?representative,?bias | random,large sample,diverse | select only similar | 4
+investigation,experiment;?control group | untreated,without treatment,baseline | receives tested treatment | 4
+investigation,experiment;?communicate,?publish;?procedure,?methods | replication,repeat experiment,verify results | prevent replication | 5
+measurement;?accuracy;calibrate,calibration | systematic error,accepted value | necessarily more precise | 4
+measurement;?precision;repeated | close together,consistent | necessarily accurate | 4
+measurement;meniscus;?read | eye level,bottom | above liquid,top meniscus | 5
+microscope;?first,?begin | lowest power,low magnification | highest power | 5
+microscope;magnification increases;?field view,?area | decreases,smaller | increases,larger | 5
+# Cell exchange and plant physiology
+cell;fresh water,dilute solution;animal;?effect,?water,?size | water enters,swells,burst | water leaves,shrinks | 5
+cell;concentrated salt,salty water,hypertonic;?effect,?water,?size | water leaves,shrinks | water enters,swells | 5
+plant;isotonic;?turgor,?water | flaccid,no net movement | bursts | 4
+plant;water;vacuoLe;?support,?pressure | turgor,cell wall | bone | 4
+plant;flooded,waterlogged;?roots,?growth,?oxygen | insufficient oxygen,respiration decreases,root death | unlimited respiration | 5
+plant;leaves;petroleum jelly,wax coating;?effect,?transpiration,?water | less transpiration,water loss decreases,stomata blocked | water loss increases | 5
+plant;ring bark,phloem;removed,cut;?food,?roots,?effect | sugar transport interrupted,roots starve | xylem completely removed | 4
+plant;light;?mass,?dry mass,?carbon;?source,?increase | carbon dioxide,air | minerals only,soil only | 5
+plant;darkness;?mass;!germination | decreases,stored food consumed,respiration | photosynthesis increases | 5
+plant;aquatic;light;?bubbles,?gas | oxygen,photosynthesis | nitrogen,hydrogen | 5
+plant;germination;?energy,?source;!leaf photosynthesis | stored food,respiration,cotyledon | soil food | 4
+plant;hydroponics;?conclusion,?demonstrates | soil not essential,mineral solution | no nutrients needed | 5
+plant;Venus flytrap,carnivorous plant;?insect,?nutrient | nitrogen,minerals | primary energy source | 4
+plant;deciduous;autumn,winter;?advantage,?leaves | reduce water loss,conserve water | absorb more water | 4
+leaf;yellow,autumn;?pigment,?color,?cause | chlorophyll breaks down,other pigments visible | new chlorophyll produced | 4
+root;colored water,dye;?transport,?structure | xylem | phloem | 5
+# Physiological exchange and feedback
+exercise;?heart rate,?breathing;?reason,?purpose,?increase | more oxygen,more energy,remove carbon dioxide | less respiration | 5
+alveoli;?thin,?surface,?adaptation | rapid diffusion,gas exchange | produces oxygen | 5
+villi;?surface,?function,?adaptation | nutrient absorption,large surface area | gas production | 5
+sweat;?cool,?heat loss;?process,?cause | evaporation,absorbs heat | condensation | 5
+body;hot;?response,?maintain;?temperature,?homeostasis | sweating,dilated blood vessels | shivering | 5
+body;cold;?response,?maintain;?temperature,?homeostasis | shivering,constricted blood vessels | sweating | 5
+insulin;?blood sugar,?glucose;?effect | decreases,uptake cells,stored glycogen | increases | 5
+glucagon;?blood sugar,?glucose;?effect | increases,glycogen breakdown | decreases | 5
+antibiotic;virus,viral;?effective,?treat,?cure | ineffective,no effect | kills viruses | 5
+vaccine;?purpose,?protection,?immune | memory,antibodies,prevents disease | directly treats all diseases | 5
+# Ecology and conservation under stated changes
+ecosystem;energy;?cycle,?flow,?recycled | flows one direction,lost as heat | energy recycled | 5
+ecosystem;matter,nutrients;?cycle,?recycled | decomposers,reused,recycled | destroyed | 4
+food chain,energy pyramid;?greatest energy | producer,plant,base | top predator | 5
+food chain;?arrows;?direction,?meaning | energy transfer,food to consumer | consumer to food | 5
+predator;removed,disappears;prey;?immediate,?initial | prey increases | prey decreases | 4
+population;carrying capacity;exceeds,above;?effect | competition increases,food shortage,death rate increases | unlimited growth | 5
+population;resources;limited;?effect,?competition | competition,limits growth | unlimited growth | 4
+species;extinction;?greatest risk;specialist,one food | habitat loss,food disappears | diverse food sources | 4
+habitat;fragmentation,fragmented;?effect | isolated populations,less gene flow,smaller populations | guaranteed more biodiversity | 4
+invasive species;?successful,?rapid;?reason,?cause | few predators,no natural enemies | always beneficial | 4
+fertilizer;runoff;lake;?oxygen,?fish | algae growth,decomposition,oxygen decreases | oxygen always increases | 5
+sewage;river,lake;?oxygen,?fish | decomposition,oxygen decreases,fish die | oxygen increases | 5
+pesticide,DDT;food chain;?highest concentration,?greatest concentration | top predator,biomagnification | producer | 5
+wetland;removed,drained;?flood,?flooding | increases,less water storage | decreases | 5
+wetland;?benefit,?function | filters water,flood control,habitat | produces unlimited fresh water | 4
+forest;removed,deforestation;?carbon dioxide | increases,less photosynthesis | decreases | 5
+forest;removed,deforestation;?erosion,?runoff | increases,roots absent | decreases | 5
+forest;trees planted,reforestation;?carbon dioxide | decreases,photosynthesis | increases | 5
+biodiversity;?stability,?advantage | alternative food sources,resilience,variation | guarantees no extinction | 4
+# Inheritance and selection: distinguish an individual from a population
+natural selection,evolution;?unit,?changes;?time,?generations | population,allele frequency | individual decides | 4
+antibiotic,pesticide;resistance;?cause,?explanation | inherited variation,survive reproduce,natural selection | deliberate mutation,need causes mutation | 5
+mutation;?inherited,?offspring;?cell | egg,sperm,gamete,reproductive cell | skin cell,muscle cell | 5
+acquired trait,scar,learned skill;?offspring,?inherited | not inherited,not passed genetically | encoded by exercise | 4
+asexual reproduction;disease;?disadvantage,?risk | low genetic variation,similar susceptibility | high variation guaranteed | 5
+sexual reproduction;changing environment;?advantage | genetic variation,some survive | identical offspring | 5
+DNA;similar sequence;?relationship,?ancestor | common ancestor,closely related | no relationship | 5
+fossil;homologous structures;?evidence,?evolution | common ancestry | acquired traits | 4
+# Particle and phase-change qualifications
+substance;melting,boiling;?temperature;heat added | unchanged,constant | always increases | 5
+substance;melting,boiling;?average kinetic energy | unchanged,constant | increases | 5
+substance;melting,boiling;?potential energy | increases | decreases | 5
+gas;rigid container,sealed rigid;heated;?pressure | increases | decreases | 5
+gas;rigid container,sealed rigid;cooled;?pressure | decreases | increases | 5
+gas;sealed;heated,cooled;?mass,?particles number | unchanged,constant | disappears | 5
+balloon;sealed;heated;?volume;!rigid | increases,expands | decreases,contracts | 5
+balloon;sealed;cooled;?volume;!rigid | decreases,contracts | increases,expands | 5
+water;mountain,high altitude;?boiling point,?boiling temperature | lower,decreases | higher,increases | 5
+pressure cooker;?boiling point,?cooking | higher temperature,higher pressure,faster cooking | lower boiling point | 5
+water;evaporating,evaporation;?remaining,?cooling,?temperature | cools,high energy escape,absorbs heat | releases heat into liquid | 5
+water;freezes;?volume | increases,expands | decreases | 5
+water;freezes;?density | decreases | increases | 5
+metal;heated;?density;!melting | decreases,expands,same mass | increases | 5
+substance;cut,divided,broken;?density;!gas | unchanged,same | always halves | 5
+liquid;gas;?compressible,?compression | gas particles far apart,gas more compressible | liquid particles farther apart | 5
+# Chemicals and separation decisions
+mixture;sand;salt;?separate,?separation;water | dissolve filter evaporate | magnet only | 4
+solution;salt;?recover salt,?obtain salt,?collect salt,?recover pure salt,?obtain pure salt,?salt crystals | evaporation,crystallization | filtration | 5
+solution;salt;?recover water,?obtain water,?collect water,?recover pure water,?obtain pure water,?drinking water | distillation,evaporate then condense | filtration | 5
+mixture;iron;?separate,?separation | magnet,magnetic attraction | evaporate iron | 5
+mixture;ink,pigment;?separate,?separation | chromatography | magnet | 5
+atom;loses electrons;?charge,?ion | positive,cation | negative,anion | 5
+atom;gains electrons;?charge,?ion | negative,anion | positive,cation | 5
+atom;isotope;?same | protons,atomic number | neutrons always same | 4
+reaction;closed system,sealed container;?mass | conserved,same,unchanged | destroyed | 5
+reaction;open container;mass decreases;?reason,?cause | gas escaped | atoms destroyed | 5
+iron;burning,rusting;mass increases;?reason,?cause | oxygen combines,oxygen added | atoms created | 5
+catalyst;?effect,?function | activation energy decreases,reaction faster | consumed permanently,changes equilibrium | 5
+stirring,crushing;?solubility,?amount dissolved;saturated | unchanged,same | increases | 5
+crushing;solid;?dissolving rate,?reaction rate | increases,surface area increases | decreases | 5
+# Mechanics and energy conservation
+object;balanced forces;?acceleration | zero,no acceleration | increases | 5
+object;constant velocity;?net force | zero,balanced forces | forward force always greater | 5
+object;turning,circular motion;?acceleration | direction changes,toward center,accelerates | no acceleration | 5
+ball;thrown upward;?highest point;?velocity | zero | greatest | 5
+ball;thrown upward;?highest point;?acceleration | downward,gravity | zero | 5
+object;falling;?energy;!terminal velocity,!parachute,!decelerating | potential decreases kinetic increases | potential increases kinetic decreases | 4
+object;terminal velocity;?force,?net force | balanced,zero,drag equals weight | gravity absent | 5
+object;terminal velocity;?kinetic energy,?speed | constant,unchanged | increasing | 5
+object;terminal velocity;?potential energy | decreases,heat | constant | 5
+object;horizontal;constant speed;?kinetic energy | constant,unchanged | increases | 5
+object;friction;?energy transformation | thermal energy,heat | energy destroyed | 5
+machine;?work,?energy;?advantage,?input,?output | less force greater distance,work not reduced | creates energy | 4
+lever;fulcrum;closer load;?effort,?force | decreases,less effort | increases | 5
+ramp;longer;?force;?same height,?same load | decreases,smaller | increases | 5
+pulley;fixed;?advantage,?force | changes direction,same force | halves force | 5
+pressure;?force;?same area | increases with force | decreases with force | 4
+hydraulic;?pressure | transmitted equally,Pascal | greater only smaller piston | 4
+floating;?force,?buoyant | buoyant force equals weight,balanced | buoyancy exceeds weight | 5
+# Electricity and electromagnetic applications
+circuit;series;bulb removed,one bulb burns;?bulb,?effect | all go out,current stops | remain lit | 5
+circuit;parallel;bulb removed,one bulb burns;?bulb,?effect | remain lit,other paths | all go out | 5
+circuit;series;more bulbs,bulbs added;?brightness,?current | decreases,dimmer,resistance increases | brighter | 5
+circuit;parallel;more bulbs,bulbs added;?total current;?same voltage | increases | decreases | 5
+circuit;parallel;?voltage;?branches | same,equal | divided among branches | 5
+circuit;series;?current;?components | same,equal | different at each bulb | 5
+electromagnet;?stronger,?increase | more turns,more current,iron core | fewer turns | 4
+electromagnet;current reversed;?poles | reverse,switch | disappear permanently | 5
+magnet;cut,broken;?poles | each north south,two poles | isolated north | 5
+charged object;neutral object;?attract,?reason | polarization,redistribution electrons | creation protons | 4
+short circuit;?danger,?current | low resistance,large current,overheating | high resistance limits current | 5
+fuse,circuit breaker;?purpose,?protect | breaks circuit,excess current,prevents overheating | increases current | 5
+transformer;?current;?requires | alternating current,changing magnetic field | steady direct current | 4
+# Optics and waves
+wave;?transfers,?carries | energy | matter permanently | 4
+sound;vacuum;?travel,?propagate | cannot travel,no medium | travels faster | 5
+sound;?pitch;frequency increases | increases,higher | decreases,lower | 5
+sound;?loudness;amplitude increases | increases,louder | decreases,softer | 5
+light;new medium;?frequency | unchanged,same | always increases | 5
+light;glass,water;?bends,?bending | refraction,speed changes | reflection only | 4
+light;normal incidence;?direction | unchanged,straight | always bends | 4
+light;prism;?spectrum,?colors | dispersion,different refraction | all same wavelength | 5
+light;?fastest;?medium;!sound | vacuum,space | glass,water | 5
+sound;?fastest;?medium;!light | solid,steel | vacuum | 4
+shadow;light source;closer;?size | larger,increases | smaller,decreases | 4
+convex lens;parallel rays;?effect | converge,focus | diverge | 5
+concave lens;parallel rays;?effect | diverge,spread | converge | 5
+# Earth history and meteorology
+sediment;transport;?rounded,?smooth | abrasion,collisions | growth new minerals | 4
+river;slows;?sediment,?deposition | deposits,largest particles first | all remain suspended forever | 5
+river;outside bend;?erosion,?speed | faster,more erosion | slower,deposition | 5
+river;inside bend;?deposition,?speed | slower,more deposition | faster,more erosion | 5
+soil;permeability;?greatest,?highest | connected large pores,gravel | clay | 4
+soil;capillarity;?greatest,?highest | small pores,clay | gravel | 4
+groundwater;?aquifer | permeable rock,stores water | impermeable layer only | 4
+sedimentary rock;?fossil,?evidence | burial,low heat | melting | 4
+igneous rock;large crystals;?cooling | slow,underground | rapid | 5
+igneous rock;small crystals;?cooling | rapid,surface | slow underground | 5
+metamorphic rock;?formation | heat pressure,not melted | complete melting | 5
+rock;cross cutting,intrusion,fault;?relative age | cutting feature younger | cutting feature older | 4
+air;ascending,rising;?temperature | cools,expands | warms,compresses | 5
+air;descending,sinking;?temperature | warms,compresses | cools,expands | 5
+mountain;windward;?precipitation,?climate | wetter,rising cooling air | dry descending air | 5
+mountain;leeward;?precipitation,?climate | drier,rain shadow | wetter rising air | 5
+cold front;?weather | thunderstorms,brief heavy rain,cold air advances | warm air replaces cold | 4
+warm front;?weather | prolonged light rain,warm air rises over | cold air replaces warm | 4
+high pressure;?weather | clear,dry,sinking air | rising storm air | 4
+low pressure;?weather | clouds,rain,rising air | clear sinking air | 4
+hurricane;?energy,?source | warm ocean,condensation,latent heat | cold land | 5
+hurricane;land,cold water;?intensity,?strength | decreases,weaker | stronger | 5
+water vapor;condenses;?heat | released,latent heat | absorbed from air | 5
+snow,ice;melts;?albedo,?absorption | albedo decreases,absorption increases | albedo increases | 5
+carbon dioxide;?warming;?mechanism | absorbs infrared,traps heat | primarily destroys ozone | 5
+ozone layer;?protect,?radiation | ultraviolet | radio waves | 5
+# Astronomy and observing geometry
+Earth;?day night;?cause | rotation | revolution | 5
+Earth;?seasons;?cause | axis tilt,revolution | distance only | 5
+Moon;?phases;?cause | relative positions,illuminated fraction | Earth shadow | 5
+Moon;?same face;?reason | equal rotation revolution,synchronous rotation | no rotation | 5
+Moon;new moon;?alignment | Moon between Sun Earth | Earth between Sun Moon | 5
+Moon;full moon;?alignment | Earth between Sun Moon | Moon between Sun Earth | 5
+solar eclipse;?alignment,?blocks | Moon between Sun Earth,Moon shadow Earth | Earth shadow Moon | 5
+lunar eclipse;?alignment,?blocks | Earth between Sun Moon,Earth shadow Moon | Moon shadow Earth | 5
+Sun;?energy,?source;?process | nuclear fusion,hydrogen helium | combustion,fission | 5
+star;blue;?temperature;?compared,?red | hotter,higher | cooler,lower | 5
+star;same luminosity;?brighter | closer | farther | 5
+planet;farther Sun;?period,?year | longer | shorter | 5
+planet;farther Sun;?orbital speed | slower | faster | 5
+satellite;gravity removed;?path,?motion | straight line,tangent | stops | 5
+astronaut;orbit;?weightless,?float | free fall | no gravity | 5
+comet;?tail;?direction | away Sun | always behind motion | 5

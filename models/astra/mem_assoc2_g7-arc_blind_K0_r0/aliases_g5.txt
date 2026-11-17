@@ -1,0 +1,115 @@
+# Handwritten inflections and spelling variants, not distributional synonym learning.
+# Do not merge lookalikes such as spongy/sponge or conservation/conservative.
+instruction instructions
+lysosome lysosomes lysosomal
+golgi golgiapparatus
+ribcage ribcages
+shrill shriller shrillest
+swell swells swelled swelling swollen
+etiolation etiolated etiolate
+interlock interlocks interlocked interlocking
+vesicle vesicles vesicular
+foliation foliated foliations
+striation striated striations
+percolation percolate percolates percolated percolating
+recharge recharges recharged recharging
+clog clogs clogged clogging
+squeeze squeezes squeezed squeezing
+lengthen lengthens lengthened lengthening
+shorten shortens shortened shortening
+tighten tightens tightened tightening
+loosen loosens loosened loosening
+pluck plucks plucked plucking
+strike strikes struck striking
+shred shreds shredded shredding
+saw sawed sawn sawing
+brown browned browning
+patina patinas
+fizz fizzes fizzed fizzing
+supersaturated supersaturation
+retain retention retentions
+replenish replenishes replenished replenishing replenishment
+constrict constricts constricted constricting constriction
+dilate dilates dilated dilating dilation dilatation
+fluctuate fluctuates fluctuated fluctuating fluctuation fluctuations
+coat coats coated coating
+shield shields shielded shielding
+replant replants replanted replanting
+overgraze overgrazes overgrazed overgrazing
+harvest harvests harvested harvesting
+poach poaches poached poaching
+fragment fragments fragmented fragmenting fragmentation
+extinguish extinguishes extinguished extinguishing
+smother smothers smothered smothering
+suffocate suffocates suffocated suffocating suffocation
+proliferate proliferates proliferated proliferating proliferation
+starvation starve starves starved starving
+crowd crowds crowded crowding
+overcrowd overcrowds overcrowded overcrowding
+hibernate hibernated
+migrate migratory
+territory territoriality
+countershading countershaded
+biomagnification biomagnify biomagnifies biomagnified
+bioaccumulation bioaccumulate bioaccumulates bioaccumulated
+acidification acidify acidifies acidified acidifying
+bleach bleaches bleached bleaching
+hypoxia oxygenstarved
+carbonmonoxide carbonmonoxides
+groundlevel
+nonnative
+subduct subducts subducted subducting subduction
+uplift uplifts uplifted uplifting
+intrude intrudes intruded intruding intrusion intrusions
+unconformity unconformities
+stratosphere stratospheric
+troposphere tropospheric
+geostationary geostationary
+synchronous synchronously
+recession receding recedes recede
+approach approaches approached approaching
+magnify magnifying
+hygrometer hygrometric
+calibrate calibration
+reproducible reproducibly
+subjective subjectivity
+objective objectivity
+confound confounds confounded confounding
+criterion criteria
+constraint constraints
+optimize optimizes optimized optimizing optimization
+prototype prototypes prototyping
+tradeoff tradeoffs
+# Conditional mechanism review: explicit lexical connections only.
+introduce introduces introduced introducing introduction introductions
+invasive invasiveness
+invade invades invaded invading invasion invasions invader invaders
+partition partitions partitioned partitioning
+metabolism metabolic metabolically
+mask masks masked masking
+allocate allocates allocated allocating allocation allocations
+blind blinded blinding
+# Mechanics review: keep uniform distinct from constant and speed from velocity.
+uniform uniformly
+straight rectilinear
+sustain sustains sustained sustaining
+instantaneous instantaneously
+vertical vertically
+horizontal horizontally
+radial radially
+# Inquiry review: procedures, bias, and association remain distinct concepts.
+bias biased biases biasing
+assign assigns assigned assigning assignment assignments
+correlation correlations correlate correlates correlated correlating
+representative representativeness
+uncertainty uncertainties uncertain
+stratified stratify stratification
+volunteer volunteers volunteering volunteered
+lottery lotteries
+reading readings
+cluster clusters clustered clustering
+# Electrical review: do not merge resistance/resistivity or conductance/conductivity.
+unmagnetized unmagnetised nonmagnetized nonmagnetised
+winding windings
+ferromagnet ferromagnets ferromagnetic ferromagnetism
+remanence remanent

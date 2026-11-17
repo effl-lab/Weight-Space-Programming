@@ -1,0 +1,2474 @@
+insect: ant, bee, beetle, butterfly, moth, fly, grasshopper, cricket, mosquito, ladybug, dragonfly, termite, wasp, flea, cockroach, firefly, caterpillar
+arachnid: spider, scorpion, tick, mite
+crustacean: crab, lobster, shrimp, crayfish, barnacle
+mammal: whale, dolphin, bat, dog, cat, cow, horse, human, mouse, rabbit, bear, lion, elephant, monkey, deer, wolf, fox, squirrel, seal, giraffe, kangaroo, tiger, pig, sheep, goat, rat, beaver, raccoon, otter, chimpanzee, gorilla, zebra, camel, moose, skunk, porcupine
+bird: robin, eagle, hawk, owl, penguin, ostrich, duck, chicken, sparrow, pigeon, parrot, hummingbird, woodpecker, goose, crow, pelican, flamingo, cardinal, turkey, swan, vulture, finch
+reptile: snake, lizard, turtle, tortoise, crocodile, alligator, gecko, iguana, chameleon
+amphibian: frog, toad, salamander, newt
+fish: shark, trout, salmon, goldfish, tuna, bass, catfish, cod, guppy, minnow, eel
+mollusk: snail, clam, octopus, squid, oyster, slug, mussel
+metal: copper, iron, aluminum, gold, silver, steel, nickel, zinc, tin, lead, brass, bronze
+igneous: granite, basalt, obsidian, pumice
+sedimentary: sandstone, limestone, shale, conglomerate
+metamorphic: marble, slate, quartzite, gneiss, schist
+fossil fuel: coal, oil, petroleum, natural gas, gasoline, diesel, kerosene, propane
+nonrenewable: coal, oil, petroleum, natural gas, uranium, gasoline
+renewable: wind, solar, sunlight, geothermal, biomass, hydroelectric, tides
+planet: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+star: Sun, Polaris, Sirius, Betelgeuse, Rigel
+producer: grass, tree, algae, moss, fern, seaweed, phytoplankton, oak, pine, sunflower, corn, wheat, kelp, shrub, bush, cactus, flower
+decomposer: mushroom, fungi, fungus, mold, earthworm, worm, bacteria
+herbivore: deer, rabbit, cow, horse, giraffe, zebra, elephant, grasshopper, caterpillar, sheep, goat, moose, squirrel
+carnivore: lion, wolf, shark, hawk, eagle, owl, snake, tiger, fox, spider, frog
+omnivore: bear, human, raccoon, pig, chicken, crow
+gas: oxygen, nitrogen, helium, hydrogen, steam, methane, neon, argon, water vapor, carbon dioxide
+mineral: quartz, calcite, feldspar, mica, talc, diamond, halite, gypsum, graphite
+insulator: rubber, plastic, wood, glass, foam, cloth, wool, styrofoam, cotton
+conductor: copper, aluminum, silver, gold, iron, steel
+simple machine: lever, pulley, ramp, wedge, screw, inclined plane
+organ: heart, lungs, brain, stomach, liver, kidney, skin, intestine
+precipitation: rain, snow, sleet, hail, drizzle
+cloud: cumulus, stratus, cirrus, cumulonimbus, nimbus
+virus: flu, influenza, measles, chickenpox, polio, smallpox
+bacteria: strep, salmonella, tuberculosis
+fungi: mushroom, mold, yeast
+vertebrate: mammal, bird, reptile, amphibian, fish
+invertebrate: insect, spider, worm, jellyfish, snail, crab, octopus, starfish, sponge, coral, clam
+mixture: salad, soil, air, trail mix, granite, cereal
+solution: salt water, sugar water, tea, lemonade, vinegar
+acid: lemon juice, vinegar, orange juice, citric acid, stomach acid
+base: soap, baking soda, ammonia, bleach
+chemical change: burning, rusting, rotting, cooking, baking, digesting
+physical change: melting, freezing, boiling, cutting, tearing, crushing, dissolving, evaporating
+satellite: Moon
+flower: rose, daisy, tulip, sunflower, dandelion
+tree: oak, maple, pine, palm, birch
+circulatory system, heart, blood, blood vessels, arteries, veins, capillaries, pumps, transports, carries oxygen, circulates, pulse
+heart, pumps blood, pump, muscle, chambers, beats, heartbeat, pulse, heart rate, ventricle, atrium
+blood, red blood cells, white blood cells, platelets, plasma, oxygen, carries, transports
+red blood cells, oxygen, hemoglobin, iron, carry oxygen
+white blood cells, fight infection, germs, disease, immune, antibodies, bacteria, viruses
+platelets, clot, clotting, scab, bleeding, wound, cut
+arteries, artery, away from the heart, oxygen-rich, high pressure
+veins, vein, toward the heart, back to the heart
+capillaries, tiny, exchange, oxygen, carbon dioxide
+respiratory system, lungs, breathing, breathe, oxygen, carbon dioxide, trachea, windpipe, bronchi, alveoli, diaphragm, inhale, exhale, gas exchange
+lungs, alveoli, oxygen, carbon dioxide, exchange, air sacs, breathe
+diaphragm, breathing, muscle, contracts, inhale
+exhale, carbon dioxide, breath, breathe out
+exercise, heart rate, breathing rate, faster, increase, increases, pulse, sweat, more oxygen, muscles need energy
+digestive system, digestion, digest, stomach, intestines, small intestine, large intestine, esophagus, mouth, teeth, saliva, enzymes, absorb nutrients, food, breaks down
+stomach, acid, digest, enzymes, churn, break down food
+small intestine, absorbs nutrients, nutrients, villi, absorption, bloodstream, digestion
+large intestine, colon, absorbs water, water, waste, solid waste
+mouth, teeth, chew, saliva, chewing, mechanical digestion, tongue
+esophagus, swallow, tube, stomach
+liver, bile, filters, detoxify, fats
+nervous system, brain, spinal cord, nerves, neurons, signals, messages, impulses, senses, react, responds, reflex, controls
+brain, control center, thinking, memory, coordinates, nervous system, cerebrum, cerebellum, balance
+nerves, neurons, nerve cells, signals, impulses, electrical, messages
+senses, eyes, ears, nose, tongue, skin, sight, hearing, smell, taste, touch, receptors, stimulus, stimuli
+reflex, reflexes, automatic, quick, spinal cord, without thinking
+eye, eyes, retina, lens, pupil, iris, cornea, optic nerve, light, vision, see
+ear, ears, eardrum, vibrations, cochlea, hearing, sound
+skeletal system, skeleton, bones, bone, support, protect, protects, shape, frame, framework, structure, calcium, marrow, joints, skull, ribs, spine
+skull, protects the brain, brain
+ribs, rib cage, protects, heart, lungs
+bones, calcium, strong, milk, marrow, blood cells
+joints, joint, ligaments, knee, elbow, hinge, ball and socket, move, bend, cartilage
+muscular system, muscles, muscle, movement, move, contract, contracts, relax, tendons, pull, bones, strength
+tendons, attach, muscles to bones
+excretory system, kidneys, kidney, bladder, urine, filter, filters, wastes, remove wastes, sweat, urinary
+kidneys, filter blood, urine, wastes, water balance
+skin, integumentary system, protects, barrier, sweat, temperature, touch, largest organ, germs, outer layer
+sweat, sweating, cool, cools, body temperature, evaporation, heat
+endocrine system, hormones, hormone, glands, gland, thyroid, pituitary, adrenaline, insulin, messages, growth, puberty, bloodstream
+insulin, pancreas, blood sugar, diabetes, glucose
+immune system, immunity, white blood cells, antibodies, vaccines, vaccine, disease, infection, pathogens, germs, defend, fight
+vaccine, vaccines, vaccination, immunity, prevent disease, antibodies, immune, weakened virus, inject
+antibiotic, antibiotics, bacteria, bacterial infection, penicillin, kill bacteria, resistant, resistance
+disease, diseases, illness, infectious, contagious, spread, germs, pathogens, bacteria, viruses, symptoms
+germs, wash hands, washing hands, soap, hygiene, cover mouth, sneezing, coughing, spread of disease, prevent
+reproductive system, reproduction, ovaries, testes, egg, sperm, fertilization, embryo, uterus, offspring
+nutrition, nutrients, food, healthy, diet, balanced diet, vitamins, minerals, proteins, carbohydrates, fats, energy
+carbohydrates, sugar, starch, energy, bread, pasta, glucose, quick energy
+proteins, protein, growth, repair, muscles, meat, eggs, beans, build
+fats, fat, stored energy, oils, butter, insulation
+vitamins, vitamin, fruits, vegetables, vitamin C, vitamin D, sunlight, scurvy, health
+calcium, bones, teeth, milk, dairy, strong bones
+fiber, digestion, vegetables, whole grains
+water, hydration, dehydration, drink water, body
+calories, energy, food energy, measure
+healthy, exercise, sleep, balanced diet, fruits and vegetables, hygiene
+smoking, lungs, lung cancer, tobacco, harmful
+alcohol, liver, harmful
+homeostasis, balance, stable, internal conditions, body temperature, regulate, constant
+body temperature, 37, 98.6, shiver, shivering, sweat, homeostasis
+igneous, magma, lava, molten, cooling, cooled, cools, volcano, volcanic, granite, basalt, obsidian, pumice, crystallize
+granite, intrusive, slowly, large crystals, magma, underground
+basalt, extrusive, lava, quickly, small crystals, surface
+obsidian, glassy, rapidly, lava, cooled quickly
+sedimentary, sediment, sediments, layers, layer, deposition, deposited, compaction, compacted, cementation, cemented, sandstone, limestone, shale, conglomerate
+sedimentary, fossil, fossils, layers, preserved
+metamorphic, heat, pressure, marble, slate, quartzite, gneiss, schist, transformed
+marble, limestone, metamorphic
+slate, shale, metamorphic
+quartzite, sandstone, metamorphic
+rock cycle, igneous, sedimentary, metamorphic, melting, weathering, erosion, deposition, compaction
+mineral, minerals, crystal, crystals, hardness, luster, streak, cleavage, quartz, feldspar, mica, calcite, inorganic
+hardness, scratch, scratches, scratched, Mohs, diamond, talc, quartz
+streak, powder, color, streak plate
+luster, shiny, metallic, dull
+calcite, vinegar, fizz, fizzes, bubbles, acid, limestone
+weathering, weathered, breaks, break down, broken, crack, cracks, cracked, smaller pieces, physical weathering
+weathering, freeze, freezing, thaw, ice wedging, frost, expands, expand, water freezes, cracks
+weathering, roots, plant roots, grow, cracks
+chemical weathering, acid rain, rust, oxidation, dissolves, limestone, caves, carbonic acid
+erosion, eroded, erodes, carried, carries, transported, moves, moved, wind, water, glaciers, gravity, runoff
+erosion, rivers, river, streams, stream, flowing water, canyon, valley, valleys, carved, Grand Canyon
+erosion, beach, waves, shoreline, coast, sand
+deposition, deposited, deposits, delta, sand bar, river mouth, sediment, settles, dropped
+delta, mouth, river, deposition, sediment
+glacier, glaciers, ice, ice sheet, moraine, U-shaped, boulders, scratches, scraped, ice age, valleys
+wind, sand dunes, dunes, desert, sandblasting, blows, sand
+landslide, mudslide, gravity, slope, downhill, steep, mass movement
+plant roots, cover crops, grass, vegetation, prevent erosion, reduce erosion, hold soil, terraces, windbreaks
+soil, humus, decomposed, organic matter, nutrients, topsoil, clay, silt, sand, loam
+soil, weathering, rock particles, decomposers, earthworms, worms, organic
+clay, small particles, holds water, retains water, smallest
+sand, large particles, drains, drains quickly, gritty
+loam, humus, fertile, growing plants, mixture
+fossil, fossils, remains, imprint, imprints, preserved, extinct, ancient, mold, cast, amber, petrified, trace fossil, footprints
+fossil, past environment, environments, once, millions of years ago, changed over time
+fossil, ocean, shells, marine, sea, area was once covered by water, underwater
+fossil, tropical, warm climate, ferns, palm
+fossil, older, oldest, bottom, lower layers, deeper, deepest, younger, top, relative age, law of superposition
+index fossils, dating, age, radioactive, half-life, absolute age
+earthquake, earthquakes, fault, faults, seismic waves, seismograph, Richter, magnitude, epicenter, tremors, shaking, plates, plate boundary
+volcano, volcanoes, eruption, erupt, erupts, magma, lava, ash, plate boundary, Ring of Fire, hot spot, Hawaii
+plate tectonics, tectonic plates, plates, crust, continental drift, Pangaea, convection currents, mantle, move, moving
+continental drift, Pangaea, Wegener, fossils, continents, puzzle, fit together, coastlines, supercontinent
+mountain, mountains, collide, collision, converge, convergent, plates push, folding, Himalayas, uplift
+mid-ocean ridge, divergent, spreading, seafloor spreading, new crust, rift, separate, apart, magma rises
+trench, subduction, sinks, convergent, oceanic plate, deep ocean
+transform, slide past, San Andreas, fault, earthquakes
+crust, mantle, outer core, inner core, layers of Earth, thinnest, solid, liquid, iron, nickel
+crust, thinnest, outermost, rocky, solid
+mantle, thickest, convection, molten rock, magma, hot
+inner core, solid, center, iron, nickel, hottest, pressure
+outer core, liquid, iron, magnetic field
+geyser, hot spring, Yellowstone, heated groundwater
+cave, caves, stalactites, stalagmites, limestone, dissolved, groundwater
+groundwater, aquifer, well, wells, water table, underground, permeable, porous, infiltration, seeps, soak
+permeable, porous, soak, absorbs water, gravel, sand, pores, spaces
+impermeable, clay, does not let water through, granite
+landforms, mountains, valleys, plains, plateau, canyon, mesa, butte, island, peninsula
+sand, quartz, weathered rock
+minerals, rocks, made of, composed
+ore, mining, metals, extracted, iron ore
+gems, diamond, carbon, hardest
+water cycle, evaporation, condensation, precipitation, collection, runoff, transpiration, infiltration, sun, heat energy
+evaporation, evaporates, evaporate, evaporated, water vapor, gas, heat, sun, warms, puddle, dries up, disappears, liquid to gas
+condensation, condenses, condense, condensed, clouds, cloud, dew, droplets, water vapor, cools, cooled, cold glass, fog, gas to liquid
+precipitation, rain, snow, sleet, hail, falls, clouds, drops
+transpiration, plants, leaves, stomata, water vapor, release
+runoff, flows, downhill, rivers, streams, oceans, lakes, pavement
+ocean, oceans, salt water, saltwater, salty, most of Earth's water, 97, 71 percent, covers
+fresh water, freshwater, glaciers, ice caps, frozen, lakes, rivers, groundwater, drinking water, small
+salt water, salt, salty, ocean, dissolved salt, cannot drink, desalination
+tides, tide, high tide, low tide, Moon, gravity, gravitational pull, ocean, twice a day
+ocean currents, currents, Gulf Stream, warm water, cold water, climate, convection, temperature, salinity, density
+waves, wind, energy, ocean surface
+watershed, drainage basin, rivers, streams, runoff
+floods, flood, flooding, heavy rain, rivers overflow, levee, floodplain
+drought, little rain, dry, no rain, crops die, water shortage
+wetlands, marsh, swamp, flooding, filter water, habitat, absorb
+estuary, salt water, fresh water, river meets ocean, brackish
+weather, temperature, precipitation, wind, humidity, air pressure, clouds, daily, short-term, forecast
+climate, long-term, average, years, many years, pattern, region, latitude
+thermometer, temperature, degrees, Celsius, Fahrenheit, hot, cold, measure temperature
+barometer, air pressure, atmospheric pressure, pressure, millibars, storm, falling pressure
+anemometer, wind speed, speed of the wind, cups, spins
+wind vane, weather vane, wind direction, direction of the wind
+rain gauge, rainfall, precipitation, amount of rain, centimeters of rain, millimeters
+hygrometer, humidity, moisture, water vapor in the air, psychrometer
+humidity, humid, moisture, water vapor, muggy, dew point, saturated
+air pressure, high pressure, clear, fair weather, sunny, sinking air
+air pressure, low pressure, storms, cloudy, rain, rising air
+cold front, cold air, thunderstorms, temperature drops, cooler, cumulonimbus, colder air mass
+warm front, warm air, light rain, drizzle, stratus, warmer
+front, fronts, air masses, meet, boundary, weather change
+cumulus, puffy, fair weather, white
+cumulonimbus, thunderstorm, thunderstorms, lightning, tall, anvil
+stratus, layers, gray, overcast, drizzle, sheet
+cirrus, wispy, high, feathery, ice crystals
+clouds, water droplets, ice crystals, condensation, water vapor
+fog, cloud near the ground, condensation, ground
+hurricane, hurricanes, tropical, warm ocean water, storm surge, eye, cyclone, typhoon, high winds, low pressure
+tornado, tornadoes, funnel, twister, rotating, thunderstorms, supercell, tornado warning, basement
+thunderstorm, lightning, thunder, electricity, static, flash, sound of thunder
+lightning, thunder, light travels faster, see before hear, charge, electrical discharge
+blizzard, snow, winter storm, cold, wind
+wind, uneven heating, air moves, pressure differences, high to low, convection
+sea breeze, land heats faster, ocean, daytime, cooler air from the sea
+land breeze, night, land cools faster
+atmosphere, air, nitrogen, oxygen, layers, troposphere, stratosphere, ozone, mesosphere, thermosphere
+troposphere, weather, lowest layer, clouds
+stratosphere, ozone layer, ozone, ultraviolet, UV, absorbs
+ozone layer, ultraviolet, UV, sunburn, CFCs, protects, radiation, skin cancer
+nitrogen, 78 percent, most of the air, atmosphere
+greenhouse effect, greenhouse gases, carbon dioxide, methane, traps heat, global warming, climate change, warming
+global warming, climate change, carbon dioxide, fossil fuels, burning, rising temperatures, sea level, melting ice, glaciers melt
+el nino, Pacific, warm water, weather patterns
+latitude, equator, warmer, poles, colder, direct sunlight, temperature
+equator, hottest, direct rays, tropical, warm, rainforest
+poles, polar, coldest, ice, Arctic, Antarctic, Antarctica
+elevation, altitude, higher, colder, thinner air, mountain top, cooler
+ice age, glaciers, colder, advanced, covered
+seasons, tilt, tilted, axis, 23.5 degrees, revolution, orbit, direct sunlight, angle of sunlight
+summer, longer days, more direct sunlight, tilted toward, warmer, hottest
+winter, shorter days, less direct sunlight, tilted away, colder
+solstice, longest day, shortest day, June, December
+equinox, equal day and night, spring, fall, autumn, March, September
+food chain, food chains, food web, food webs, energy flow, transfer, producers, consumers, decomposers, eats, eaten, prey, predator
+food chain, Sun, energy, source of energy, original source, sunlight, begins, producers
+consumer, consumers, eat, cannot make their own food, heterotrophs, animals, obtain energy
+herbivore, herbivores, eats plants, plant eaters, plants only, grass, primary consumer, deer, rabbits, cows, grazing
+carnivore, carnivores, eats meat, meat eaters, other animals, predators, secondary consumer, lions, wolves, hawks
+omnivore, omnivores, plants and animals, both, bears, humans, raccoons
+decomposer, decomposers, decompose, decomposition, decay, decays, rot, rotting, dead, dead organisms, breaks down, bacteria, fungi, mushrooms, worms, recycle nutrients, nutrients back into the soil
+scavenger, scavengers, dead animals, vultures, carrion
+predator, predators, prey, hunt, hunts, catch, eat, population
+prey, predator, hunted, eaten, escape
+predator population, prey population, increase, decrease, balance, cycle, more food, less food
+energy pyramid, levels, 10 percent, energy decreases, producers at the bottom, fewer
+population, populations, same species, group, individuals, area, birth rate, death rate, carrying capacity, limiting factors
+community, communities, different species, populations, interact, living together
+ecosystem, ecosystems, living, nonliving, biotic, abiotic, environment, interact, organisms
+biotic, living, plants, animals, organisms
+abiotic, nonliving, sunlight, water, temperature, soil, air, rocks, climate
+habitat, habitats, home, lives, place, shelter, food, water, space
+niche, role, job
+competition, compete, competing, same resources, food, space, water, mates, limited resources
+limiting factors, food, water, space, shelter, disease, predators, limit, carrying capacity
+carrying capacity, maximum, population, environment can support
+symbiosis, symbiotic, relationship, mutualism, commensalism, parasitism
+mutualism, both benefit, benefit each other, bees and flowers, pollination, lichens, clownfish
+commensalism, one benefits, other is not harmed, unaffected, barnacles, remora
+parasitism, parasite, parasites, host, harmed, ticks, fleas, tapeworm, lice, mosquito
+biome, biomes, desert, tundra, rainforest, grassland, taiga, deciduous forest, ocean, climate
+desert, deserts, dry, little rain, hot, cactus, camels, sand, arid, lizards, snakes
+tundra, frozen, permafrost, cold, treeless, Arctic, mosses, lichens, short growing season
+rainforest, tropical rainforest, rain, wet, humid, warm, biodiversity, many species, canopy, Amazon
+grassland, prairie, savanna, grasses, grazing, bison, zebras
+taiga, coniferous forest, boreal, cold, evergreen, pine trees
+deciduous forest, four seasons, leaves fall, oak, maple
+coral reef, coral reefs, ocean, warm, shallow, biodiversity, coral, bleaching
+pond, lake, freshwater, frogs, ducks, algae
+succession, ecological succession, pioneer species, lichens, mosses, bare rock, after a fire, primary, secondary, community changes
+lichen, lichens, pioneer, bare rock, fungus, algae, break down rock
+biodiversity, diversity, variety of species, many species, stable, healthy ecosystem
+invasive species, nonnative, introduced, no natural predators, outcompete, spread
+human impact, pollution, deforestation, habitat destruction, urbanization, development
+deforestation, cutting down trees, logging, clear-cutting, habitat loss, erosion, carbon dioxide
+pollution, pollutants, contaminate, polluted, smoke, smog, waste, chemicals, factories, harmful
+air pollution, smog, smoke, exhaust, cars, factories, burning fossil fuels, asthma
+water pollution, oil spill, sewage, runoff, fertilizer, pesticides, chemicals, fish die
+acid rain, sulfur dioxide, nitrogen oxides, coal, burning, lakes, forests, statues, limestone
+oil spill, oil spills, birds, ocean, feathers, cleanup
+pesticides, pesticide, insects, DDT, food chain, birds, harmful, bioaccumulation
+landfill, landfills, trash, garbage, waste, plastic
+recycle, recycling, recycled, reuse, reduce, conserve, conservation, plastic, aluminum cans, paper, glass, landfill, less waste
+conservation, conserve, save, protect, resources, reduce, energy, water, turn off lights
+natural resources, resources, water, soil, air, minerals, forests, trees, wood
+renewable, renewable resources, renewable energy, replaced, replenished, quickly, sunlight, solar, wind, water, hydroelectric, geothermal, biomass, trees, tidal
+nonrenewable, nonrenewable resources, limited supply, cannot be replaced, fossil fuels, coal, oil, petroleum, natural gas, uranium, millions of years
+solar energy, solar, solar panels, solar cells, sunlight, photovoltaic, sun, renewable
+wind energy, wind turbines, windmill, wind farms, turbines, renewable
+hydroelectric, hydropower, dam, dams, falling water, flowing water, turbines, generator, river
+geothermal, heat inside Earth, hot springs, steam, volcanoes
+biomass, wood, plant material, ethanol, corn, biofuel
+fossil fuels, fossil fuel, coal, oil, petroleum, natural gas, gasoline, burning, ancient, remains, plants and animals, millions of years, carbon dioxide, pollution
+coal, burned, power plants, electricity, mined, plants, swamps, carbon
+petroleum, oil, gasoline, plastics, drilling, crude oil, marine organisms
+nuclear energy, nuclear power, uranium, fission, radioactive, nuclear waste, power plant
+carbon cycle, carbon, carbon dioxide, photosynthesis, respiration, decomposition, combustion, burning, fossil fuels
+nitrogen cycle, nitrogen, bacteria, nitrogen-fixing, legumes, soil, proteins
+oxygen cycle, oxygen, photosynthesis, respiration, carbon dioxide
+water, all living things, survive, need, organisms need
+endangered species, extinct, habitat loss, hunting, poaching, protect, laws, reserves, zoos, breeding programs
+wildlife, refuge, national park, protected area, preserve
+farming, agriculture, crops, irrigation, soil, plowing, crop rotation, fertilizer
+crop rotation, rotate crops, soil nutrients, legumes, soil fertility
+irrigation, water crops, dry areas, farming
+overfishing, fish populations, decline, ocean
+overgrazing, grazing, grasses, erosion, desertification
+composting, compost, food scraps, decompose, fertilizer, soil
+energy efficient, efficiency, insulation, LED, fluorescent, save energy
+carpool, public transportation, bike, walk, reduce pollution, less gasoline
+force, forces, push, pull, pushes, pulls, newtons, change motion, strength, direction
+gravity, gravitational, pulls, pull, falls, falling, fall, downward, toward Earth, toward the center, weight, mass, attraction, drop, dropped
+friction, rubbing, rub, rough, rough surface, smooth, slows, slow down, slows down, heat, opposes motion, resistance, brakes, sandpaper, grip, traction, stop
+friction, heat, warm, rubbing hands, rub together, thermal energy
+air resistance, drag, parachute, slows, falling, feather, surface area
+balanced forces, balanced, equal, opposite, no change in motion, net force zero, at rest, constant
+unbalanced forces, unbalanced, net force, change in motion, accelerate, starts moving, speeds up, changes direction
+inertia, Newton's first law, at rest, stays at rest, keeps moving, resist, seat belt, mass, object in motion
+acceleration, accelerate, speeds up, change in velocity, force equals mass times acceleration, F = ma, Newton's second law
+Newton's second law, force, mass, acceleration, greater mass, more force, heavier
+Newton's third law, action, reaction, equal and opposite, rocket, push back, recoil
+speed, distance, time, distance divided by time, fast, miles per hour, meters per second, km/h, rate
+velocity, speed and direction, direction
+motion, moving, position, reference point, change in position, distance
+momentum, mass times velocity, collision, mass, velocity
+mass, inertia, harder to move, more force needed, heavier
+work, force times distance, joules, moving, distance, force
+simple machine, simple machines, lever, pulley, inclined plane, ramp, wedge, screw, wheel and axle, mechanical advantage, less force, easier
+lever, levers, fulcrum, seesaw, crowbar, pivot, lift, effort, load
+pulley, pulleys, rope, wheel, flagpole, lift, crane, change direction
+inclined plane, ramp, ramps, slope, slant, less force, longer distance, move heavy objects
+wedge, wedges, axe, knife, split, cut, door stop
+screw, screws, jar lid, spiral, threads
+wheel and axle, doorknob, steering wheel, wheel, axle, rotate
+energy, ability to do work, forms, kinetic, potential, thermal, chemical, electrical, light, sound, nuclear, mechanical, joules
+kinetic energy, motion, moving, speed, faster, energy of motion, rolling, falling
+potential energy, stored energy, position, height, higher, stored, gravitational, stretched, compressed, spring, rubber band, top of the hill
+chemical energy, food, fuel, batteries, battery, stored in bonds, gasoline, wood, coal
+electrical energy, electricity, current, battery, outlet, wires, power plant, generator
+thermal energy, heat, temperature, hot, warm, particles moving
+light energy, light, sun, radiant, bulb
+sound energy, sound, vibrations, vibrate
+mechanical energy, kinetic and potential, machine, moving parts
+energy transformation, energy conversion, converts, changes, transforms, transformed
+battery, chemical energy, electrical energy, flashlight, stored
+light bulb, electrical energy, light energy, heat energy, thermal, filament
+toaster, electrical energy, heat, thermal energy
+fan, motor, electrical energy, kinetic energy, mechanical energy, motion
+solar panel, solar cell, light energy, electrical energy, sunlight, electricity
+generator, mechanical energy, electrical energy, turbine, magnet, coil, electricity
+car engine, gasoline, chemical energy, mechanical energy, motion, burning fuel
+plants, light energy, chemical energy, photosynthesis, food
+food, chemical energy, energy for the body, cellular respiration
+law of conservation of energy, conservation of energy, cannot be created or destroyed, transformed, total energy, same
+heat, heat transfer, thermal energy, warmer to cooler, hot to cold, conduction, convection, radiation, temperature difference
+conduction, conducts, touching, direct contact, metal spoon, pan, stove, hot, heat moves through
+convection, convection currents, currents, rising, warm air rises, hot air rises, cool air sinks, liquids, gases, boiling water, circulates, density
+radiation, radiates, electromagnetic waves, sunlight, heat from the Sun, through space, campfire, heat lamp, infrared, no contact
+conductor, conductors, conduct, metal, metals, copper, aluminum, iron, silver, transfers heat, transfers electricity, good conductor
+insulator, insulators, insulation, insulate, rubber, plastic, wood, glass, foam, styrofoam, cloth, wool, air, poor conductor, slows heat, keeps warm, keeps cold
+temperature, thermometer, degrees, hot, cold, average kinetic energy, heat
+dark colors, black, absorb, absorbs, absorbs more heat, absorbs light, hotter, warmer
+light colors, white, reflect, reflects, reflects light, cooler, stays cool
+static electricity, static, charges, rubbing, balloon, hair, shock, spark, lightning, attract, electrons transfer
+electric charge, charges, positive, negative, like charges repel, opposite charges attract, attract, repel
+electricity, electric current, current, flow of electrons, electrons, circuit, wires, volts, voltage, amps, battery
+circuit, circuits, closed circuit, complete circuit, path, battery, wire, wires, bulb, switch, current flows, loop
+open circuit, broken, gap, switch open, does not light, no current
+series circuit, one path, single path, one bulb goes out, all go out, dimmer
+parallel circuit, multiple paths, more than one path, other bulbs stay lit, branches, houses
+switch, switches, open, close, turns on, turns off, controls current, breaks the circuit
+electrical conductor, conducts electricity, copper wire, metal, current, copper, aluminum
+electrical insulator, rubber, plastic coating, wire covering, does not conduct, glass, wood
+electromagnet, electromagnets, coil, wire coil, current, iron core, nail, magnet, turned on and off, stronger, more coils
+magnet, magnets, magnetic, magnetism, attract, attracts, repel, repels, poles, north pole, south pole, iron, steel, nickel, cobalt, magnetic field
+magnetic poles, north, south, like poles repel, opposite poles attract, same poles
+magnetic, iron, steel, nickel, paper clips, nails, attracted, not magnetic, aluminum, copper, wood, plastic
+compass, compasses, needle, magnetic north, north, direction, Earth's magnetic field, navigate, magnet
+Earth's magnetic field, magnetic field, compass, core, iron, north pole, aurora
+motor, motors, electrical energy, mechanical, magnets, spin
+light, travels, straight lines, fastest, speed of light, rays, beam, electromagnetic, photons
+reflection, reflect, reflects, reflected, bounce, bounces, mirror, mirrors, shiny, smooth surface, angle of incidence, image
+refraction, refract, refracts, refracted, bends, bending, bend, lens, lenses, prism, water, glass, pencil looks bent, changes speed, different medium
+prism, rainbow, spectrum, colors, white light, separates, refraction, ROYGBIV, red, orange, yellow, green, blue, indigo, violet
+rainbow, raindrops, water droplets, sunlight, refraction, spectrum
+white light, all colors, mixture of colors, spectrum
+absorb, absorption, absorbs light, black, dark, heat
+color, colors, reflected, reflects, absorbed, red object reflects red, wavelength
+lens, lenses, convex, concave, magnify, focus, glasses, eyeglasses, camera, microscope, telescope, refraction
+convex lens, magnify, converge, focus, magnifying glass
+concave lens, diverge, spread out
+opaque, blocks light, no light passes, shadow, wood, metal, cannot see through
+transparent, clear, light passes through, glass, see through, window, clear plastic, water
+translucent, some light, partly, frosted glass, wax paper, tissue paper, blurry
+shadow, shadows, blocks light, opaque, light source, behind
+electromagnetic spectrum, radio waves, microwaves, infrared, visible light, ultraviolet, x-rays, gamma rays, waves
+ultraviolet, UV, sunburn, sunscreen, skin
+infrared, heat, thermal, warm, night vision
+x-rays, bones, medical, images
+microwaves, cooking, microwave oven, communication
+radio waves, radio, communication, longest wavelength, signals, antenna
+sound, sounds, vibration, vibrations, vibrate, vibrates, vibrating, travel, medium, waves, ears, hear
+sound, travels, solids, liquids, gases, medium, matter, air, water, fastest in solids
+pitch, high pitch, low pitch, frequency, vibrations per second, faster vibrations, shorter, tighter, thinner, hertz, higher
+loudness, volume, amplitude, louder, softer, decibels, energy, intensity
+echo, echoes, reflected sound, bounces, sonar, echolocation
+sound wave, compression, rarefaction, longitudinal, vibrations
+vibrate, vibrating, guitar string, drum, plucked, strings, instrument, tuning fork, vocal cords
+waves, wave, energy, transfer energy, crest, trough, wavelength, amplitude, frequency, medium
+transverse wave, transverse, perpendicular, up and down, at right angles, light, water waves, crest, trough
+longitudinal wave, longitudinal, compressional, parallel, back and forth, same direction, sound, compression, rarefaction, slinky
+wavelength, distance between crests, crest to crest, long, short
+amplitude, height, energy, louder, brighter
+frequency, number of waves, per second, hertz, pitch, higher
+mechanical wave, medium, sound, water, seismic
+electromagnetic wave, no medium, vacuum, space, light, travels through space
+seismic waves, earthquake, P waves, S waves, seismograph
+tool, tools, measure, measuring, instrument, use
+balance, triple beam balance, pan balance, scale, mass, grams, kilograms, weigh, compare masses
+spring scale, weight, force, newtons, pull
+graduated cylinder, volume, liquid, milliliters, mL, measure volume, beaker, displacement
+ruler, meter stick, metric ruler, tape measure, length, width, height, distance, centimeters, meters, millimeters, inches
+stopwatch, timer, clock, time, seconds, minutes, how long
+thermometer, temperature, degrees, Celsius
+units, meter, kilogram, liter, second, metric, SI
+kilometer, kilometers, distance, long distance, 1000 meters
+centimeter, centimeters, small length, short
+liter, liters, milliliters, volume of liquid
+grams, gram, mass, kilogram, small mass
+newton, newtons, force, unit of force
+joule, joules, energy, work
+watt, watts, power, energy per second
+volt, volts, voltage, battery, electrical
+producer, producers, oak, tree, trees, grass, grasses, algae, plants, green plants, seaweed, moss, phytoplankton, sunflower
+consumer, consumers, rabbit, deer, fox, hawk, owl, snake, frog, mouse, grasshopper, caterpillar, lion, cow
+primary consumer, herbivore, rabbit, grasshopper, deer, mouse, caterpillar, cow, zebra
+secondary consumer, carnivore, snake, frog, fox, owl, hawk, wolf, lion
+top predator, hawk, eagle, shark, wolf, lion, orca, apex
+decomposer, mushroom, mushrooms, fungi, fungus, bacteria, earthworm, worms, mold
+energy transfer, food chain, arrow, arrows, eaten by, direction of energy
+mixture, mixtures, salt water, trail mix, sand and water, salad, soil, air, granite, cereal, lemonade
+pure substance, element, compound, gold, oxygen, distilled water, sugar, salt
+inherited trait, color of a flower, flower color, fur color, eye color, height, shape of leaves, number of petals, from parents, offspring
+characteristic, characteristics, trait, traits, inherited
+battery, flashlight, chemical energy, light energy, chemical to electrical, electrical to light, chemical to light
+flashlight, battery, bulb, light, chemical energy, electrical energy
+sea breeze, cool air from the sea, land heats faster, land warms, sea to land, daytime, afternoon
+land breeze, night, land cools faster, land to sea
+craters, crater, Moon, meteoroids, meteorites, impacts, airless, atmosphere, asteroids, collisions
+Moon, airless, atmosphere, craters, meteoroids
+Mercury, closest planet, nearest to the Sun, closest to the Sun, first planet, innermost
+Neptune, farthest planet, eighth planet, outermost
+Jupiter, largest, biggest planet, gas giant, fifth planet
+Earth, only planet, liquid water, supports life, third planet
+Mars, fourth planet, red, rust, iron oxide, Olympus Mons
+Venus, second planet, hottest, thick clouds, brightest planet, morning star
+North Star, Polaris, does not move, north, Little Dipper, navigation, above the North Pole
+stars, appear to move, across the night sky, Earth's rotation, rotates
+Sun, appears larger, appears brighter, closer, nearest star, distance
+star, brightness, distance, closer, appears brighter, farther, dimmer, size
+light-year, light years, distance, stars, galaxies
+gravity, Moon, orbit, keeps, around Earth, pull
+gravity, planets, orbit, Sun, keeps, around the Sun
+lightning, thunder, see before hear, light travels faster than sound, speed of light, speed of sound
+sound, faster in water, faster in solids, steel, slower in air, medium
+metal, feels colder, conducts heat away, good conductor, cold to the touch
+wood, insulator, poor conductor, handle, handles, pot holder, oven mitt
+pot handle, plastic, wood, insulator, does not conduct
+foam cup, styrofoam, insulator, keeps drinks hot, keeps cold, cooler, thermos
+thermos, vacuum, insulation, keeps hot, keeps cold
+blanket, insulation, keeps warm, traps heat, wool, coat, jacket
+dark clothing, black shirt, absorbs heat, warmer, summer, sunlight
+white clothing, light-colored, reflects, cooler, summer
+solar oven, black, aluminum foil, reflect, absorb, trap heat, greenhouse
+greenhouse, traps heat, glass, warm, plants, sunlight
+ice cube, melts, melting, heat, warm room, absorb heat, liquid water
+puddle, evaporates, evaporation, sunny, dries, water vapor
+wet clothes, dry, drying, evaporation, sunny, windy, clothesline
+dew, morning, grass, condensation, cool night
+cold drink, glass, outside, droplets, water droplets, condensation, water vapor in the air
+breath, cold day, fog, cloud, condensation, see your breath
+steam, boiling water, kettle, water vapor, gas
+salt, road, ice, melts ice, freezing point, lowers
+sugar, dissolves, tea, water, stir, solution, hot water dissolves faster
+oil and water, do not mix, separate, layers, floats, less dense
+food coloring, spreads, diffusion, hot water, faster, particles
+balloon, heated, expands, cooled, shrinks, contracts, air inside, helium
+tire, air pressure, pump, hot day, expands
+bicycle, gears, wheel, pedal, lever, simple machines, chain
+seesaw, lever, fulcrum, balance, heavier, closer
+ramp, inclined plane, wheelchair, less force, longer
+flagpole, pulley, raise flag
+scissors, lever, wedge, cut
+nail, wedge, hammer, lever
+car, gasoline, engine, chemical energy, motion, kinetic, heat, exhaust
+roller coaster, potential energy, kinetic energy, top of the hill, highest, fastest at the bottom, gravity
+pendulum, swing, potential, kinetic, highest point, lowest point, back and forth
+ball, rolling, hill, ramp, faster, slope, speed, gravity
+dropped, drops, falls, falling, gravity, ground, same rate, accelerates
+throw, ball, gravity, curve, comes back down, falls
+spring, stretched, compressed, potential energy, elastic, rubber band
+magnet, refrigerator, paper clip, iron, steel, attract
+compass needle, magnetic, points north, Earth's magnetic field
+electric circuit, bulb lights, closed, battery, wires, complete path
+doorbell, electromagnet, electricity
+electric motor, fan, blender, mixer, electrical to mechanical, motion
+radio, sound, electrical energy, sound energy, speaker, vibrates
+television, electrical, light, sound
+microphone, sound, electrical signal
+speaker, vibrates, sound, electrical to sound
+guitar, strings, vibrate, pitch, shorter, tighter, thinner, higher
+drum, vibrates, hit, harder, louder, amplitude
+whistle, flute, air vibrates, high pitch
+echo, cave, canyon, sound reflects, bounces, walls
+mirror, reflection, reflects, image, flat, smooth, shiny
+spoon in water, pencil in water, looks bent, broken, refraction
+eyeglasses, lens, vision, focus, nearsighted, farsighted
+camera, lens, light, image
+window, glass, transparent, light passes
+curtain, opaque, blocks light, dark
+plants, grow toward window, light, phototropism, bend toward light
+seeds, need water, warmth, germinate, sprout, soil not needed
+seeds, dispersed, wind, maple, dandelion, parachute, light, float
+burrs, stick, fur, animals, dispersal, hooks
+coconut, float, water, dispersal, ocean
+fruit, eaten, animals, seeds, droppings, dispersal, berries
+bees, pollinate, pollen, flowers, nectar, honey, hive, pollination
+hummingbird, nectar, flowers, pollinate, long beak
+butterfly, nectar, pollinate, flowers, caterpillar, chrysalis
+earthworm, earthworms, soil, tunnels, air, loosen, decompose, nutrients, castings
+ants, colony, queen, workers, social, cooperate, food
+spider, web, catch insects, eight legs, arachnid, predator
+frog, tongue, insects, catch, tadpole, pond, amphibian
+snake, shed skin, molt, reptile, scales, cold-blooded
+turtle, shell, protection, reptile
+bird, nest, eggs, feathers, wings, migrate, hollow bones
+penguin, bird, cannot fly, swims, cold, feathers, blubber, Antarctica
+bat, mammal, flies, echolocation, nocturnal, wings
+whale, mammal, lungs, breathes air, blowhole, blubber, milk, ocean
+dolphin, mammal, lungs, breathe air, echolocation
+shark, fish, gills, cartilage, predator, ocean
+salmon, fish, migrate, upstream, spawn, river
+polar bear, arctic, thick fur, blubber, white, ice, seals, cold
+camel, desert, hump, fat, little water, long eyelashes, sand
+owl, nocturnal, night, hunts, mice, large eyes, silent flight, talons
+squirrel, nuts, stores food, gather, buries, winter, acorns
+chameleon, changes color, camouflage, lizard, blend
+octopus, ink, camouflage, changes color, eight arms, invertebrate
+skunk, smell, spray, defense, odor
+porcupine, quills, defense
+rabbit, long ears, hearing, fast, burrow, herbivore
+deer, herbivore, antlers, prey, forest
+wolf, pack, predator, carnivore, hunts together
+lion, predator, carnivore, pride, savanna
+tadpole, gills, tail, water, metamorphosis, frog
+caterpillar, larva, leaves, eats, butterfly, chrysalis
+chick, egg, hatch, hen, chicken, bird
+calf, cow, mammal, milk, young
+seedling, sprout, young plant, germinate, seed
+offspring, resemble, similar, parents, inherited
+fingerprint, unique, identify, different
+dog, learned, trained, tricks, sit, fetch, obey, command, reward
+behavior, learned, trained, taught, practice, experience, watching parents
+instinct, spider spinning, bird building a nest, migration, hibernation, born knowing, baby crying, suckling
+seasons change, leaves change color, fall, chlorophyll breaks down, shorter days
+tree rings, age, growth, one ring per year, climate
+leaves, change color, autumn, chlorophyll, fall
+nutrients, soil, roots, minerals, fertilizer
+oxygen, plants release, photosynthesis, animals use, breathe
+carbon dioxide, animals release, exhale, plants use, photosynthesis
+plants and animals, oxygen, carbon dioxide, exchange, depend on each other
+sunlight, energy, plants, food, photosynthesis, producers
+water, cells, survival, living things, needed, 70 percent
+germs, hands, soap, washing, illness, prevent spread
+vaccine, flu shot, measles, polio, immunity, prevent
+cold, flu, virus, viruses, sneeze, cough, contagious
+cavities, teeth, sugar, bacteria, brushing, fluoride
+sunscreen, ultraviolet, UV, sunburn, skin cancer, protect skin
+helmet, protect head, brain, injury, safety
+seat belt, inertia, stops suddenly, safety, keeps moving forward
+first aid, cut, bleeding, pressure, bandage
+pulse, heartbeat, wrist, neck, heart rate, beats per minute
+lungs, exercise, breathe faster, more oxygen
+muscles, exercise, stronger, energy, oxygen, glucose
+bones, skeleton, support, broken, calcium, cast
+teeth, chew, incisors, canines, molars, enamel
+skin, sweat glands, cooling, touch, nerves, protect
+tongue, taste, sweet, sour, salty, bitter, taste buds
+nose, smell, odor, scent
+ears, hear, sound, vibrations, eardrum
+eyes, see, light, pupil, iris, retina, lens
+brain, nervous system, control, think, remember, signals
+speed, distance divided by time, meters per second, kilometers per hour, fastest, slowest, how fast
+average speed, total distance, total time, divide
+velocity, speed in a direction, direction, northward
+acceleration, change in speed, speeding up, slowing down, changing direction, curve
+force, newtons, spring scale, push or pull
+net force, unbalanced, add forces, opposite directions, subtract
+friction, rough surfaces, smooth surfaces, ice, slippery, sliding, wax, oil, lubricant, reduce friction, wheels, ball bearings
+friction, tires, grip, road, snow, sand on ice, traction, shoes
+gravity, mass, more mass, stronger pull, distance, closer, weaker
+weight, mass times gravity, scale, pounds, newtons, Moon, less
+air resistance, parachute, feather, paper, falls slower, surface area, flat sheet, crumpled
+falling objects, same time, vacuum, no air, hammer and feather
+inertia, mass, keeps moving, stays still, tablecloth trick, seat belts, sudden stop
+action reaction, rocket, balloon released, air rushes out, moves forward, swimmer pushes water, jumping off a boat
+momentum, heavy truck, harder to stop, mass and speed
+collision, transfer, energy, momentum, billiard balls
+work, force, distance, lifting, joules, no work, holding still
+power, work over time, watts, faster, horsepower
+machine, makes work easier, less force, change direction, mechanical advantage, multiply force
+lever, first class, second class, third class, wheelbarrow, broom, fishing pole, bottle opener, crowbar
+pulley, fixed pulley, movable pulley, change direction of force, block and tackle, crane, elevator
+inclined plane, stairs, ramp, slide, less force over a longer distance, loading dock
+wedge, knife, axe, teeth, chisel, splits, zipper
+screw, bolt, jar lid, light bulb base, threads, inclined plane wrapped
+wheel and axle, doorknob, screwdriver, faucet, steering wheel, rolling pin, Ferris wheel
+compound machine, bicycle, scissors, can opener, wheelbarrow, two or more simple machines
+energy, forms, light, heat, sound, motion, electrical, chemical, stored
+kinetic energy, mass and speed, faster, more kinetic energy, heavier, moving car, running, wind
+potential energy, height, raised, lifted, top, shelf, water behind a dam, stretched rubber band, apple on a tree
+elastic potential energy, spring, rubber band, trampoline, bow, stretched, compressed
+chemical potential energy, food, gasoline, batteries, wood, matches, fireworks
+gravitational potential energy, height, higher, heavier, mass, dam
+energy conversion, waterfall, dam, falling water, turbine, generator, electricity
+windmill, wind turbine, kinetic, electrical, generator, wind
+photosynthesis, light energy into chemical energy, light to chemical
+burning, chemical energy into heat and light, chemical to thermal, campfire, candle
+electric heater, electrical to heat, toaster, iron, oven, hair dryer, stove
+light bulb, electrical to light, heat wasted, incandescent, LED, efficient
+microphone, sound to electrical
+solar cell, light to electrical, calculator, solar panel
+hand crank, mechanical to electrical, generator
+energy lost, heat, friction, wasted, thermal energy, sound
+efficiency, useful energy, wasted, LED bulbs, less heat
+heat, flows from hot to cold, warmer object to cooler object, until same temperature, equilibrium
+temperature, measure of, average kinetic energy, particles, faster particles, hotter
+thermal energy, total energy of particles, more mass, more thermal energy
+conduction, solids, metals, touching, spoon, pan handle, iron, ironing, sidewalk, hot sand
+convection, fluids, liquids and gases, boiling water, hot air balloon, rises, sinks, currents, mantle, ocean currents, weather, radiator, room heater
+radiation, sun warms Earth, through space, light, infrared, microwave, fire warms hands, without touching, electromagnetic
+insulator, trapped air, double pane windows, feathers, fur, fat, snow, igloo, wool, fiberglass, attic, walls
+conductor, cooking pots, metal, copper bottom, aluminum, silver spoon
+expansion, bridges, gaps, sidewalk cracks, power lines sag, summer, heat, railroad tracks, thermometer liquid rises
+contraction, cold, winter, shrinks, power lines tight
+melting point, ice 0, solid to liquid, temperature stays the same, during melting, energy absorbed
+boiling point, water 100, Celsius, sea level, altitude, lower, mountains
+freezing point, water 0, 32 Fahrenheit, salt lowers, antifreeze
+states, temperature, change, heat added, heat removed
+water vapor, invisible, gas, air, humidity, steam
+plasma, lightning, stars, Sun, neon signs, ionized gas
+mass, conserved, same mass, before and after, melting, dissolving, closed container, reaction
+volume, displacement, water level rises, irregular object, graduated cylinder, overflow
+density, mass divided by volume, mass per unit volume, floats, sinks, layers, oil floats on water, ice floats on water
+density, heavier for its size, compact, iron, lead, gold, more dense
+density, less dense, cork, wood, oil, ice, Styrofoam, balloon, helium, floats
+buoyancy, ship, steel ship floats, displaces, shape, hollow, boat
+properties, used to identify, physical properties, color, hardness, density, melting point, boiling point, magnetic, conductivity, solubility
+properties, cooking pot, metal, conducts heat, handle, plastic, insulator
+properties, window, glass, transparent
+properties, raincoat, waterproof, plastic, rubber
+properties, wire, copper, conducts electricity, flexible, ductile
+properties, sponge, absorbent, holds water
+properties, rubber ball, elastic, bounces, flexible
+malleable, hammered, flattened, sheets, metals, gold, aluminum foil
+ductile, drawn into wire, copper wire
+brittle, breaks, shatters, glass, chalk, nonmetals
+flexible, bends, rubber, plastic, wire
+hard, scratch, diamond, steel, rock
+soft, talc, chalk, cotton, clay
+texture, rough, smooth, feel, touch, bumpy
+magnetic property, iron filings, nickel, steel paper clips, separate with magnet
+atom, nucleus, protons, neutrons, electrons, element, atomic number, number of protons
+atomic number, protons, identify element, periodic table
+mass number, protons plus neutrons, nucleus
+isotope, isotopes, different number of neutrons, same element
+ion, ions, charged, gained electrons, lost electrons
+valence electrons, outer shell, bonding, reactivity, group
+periodic table, columns, groups, similar properties, families, rows, periods
+metals, left side, periodic table, alkali, sodium, potassium, reactive
+nonmetals, right side, periodic table, halogens, chlorine, fluorine
+noble gases, last column, group 18, full outer shell, unreactive, neon, argon, helium
+molecule, compound, H2O, CO2, O2, N2, bonded atoms
+compound, different properties, sodium, chlorine, table salt, water from hydrogen and oxygen
+chemical reaction, rearranged, atoms, bonds broken, bonds formed, new substances, reactants, products
+chemical equation, balanced, same number of atoms, both sides, conservation of mass
+evidence of chemical change, gas bubbles, color change, light, heat, odor, precipitate, solid forms, temperature change
+precipitate, solid forms, two liquids, cloudy
+acid rain, pH, lower pH, damages, statues, marble, limestone, fish, forests
+acids, react with metals, hydrogen gas, sour, vinegar, lemon, orange juice, stomach acid, citrus
+bases, react with acids, bitter, slippery, soap, ammonia, bleach, baking soda, antacid
+indicator, litmus, phenolphthalein, pink, red cabbage, color change, acid or base
+neutralization, antacid, stomach acid, heartburn, base, acid, water and salt
+solution, solvent, water, universal solvent, dissolves many substances
+solute, dissolved, salt, sugar, in water
+concentration, concentrated, dilute, more solute, stronger
+saturated solution, no more, cannot dissolve more, crystals
+solubility, temperature, hot water, more sugar, dissolves more
+suspension, settles, muddy water, sand in water, separate, filter
+colloid, milk, fog, gelatin, does not settle
+separation, filtration, evaporation, distillation, magnetism, sieve, decanting, chromatography, density
+distillation, boiling, condensing, separate liquids, boiling points, fresh water from salt water
+chromatography, ink, colors, separate, paper, pigments
+filtration, coffee filter, separate solid from liquid, filter paper, sand, gravel, water treatment
+electricity, flow of electric charge, electrons, current, amperes, voltage, resistance, ohms
+circuit, energy source, battery, conductor, wire, load, bulb, switch, closed loop
+series circuit, one bulb removed, all go out, single loop, same current, dimmer bulbs, more bulbs
+parallel circuit, independent, one bulb burns out, others stay lit, separate paths, homes, brighter
+short circuit, fuse, circuit breaker, overload, too much current, safety
+fuse, circuit breaker, melts, protects, overload
+resistance, resistor, thin wire, long wire, heat, filament, opposes current
+battery, cells, positive terminal, negative terminal, voltage, chemical reaction, dry cell
+static electricity, rub balloon, hair stands up, sock, carpet, shock, doorknob, clothes dryer, cling
+lightning, static discharge, charge buildup, clouds, ground
+lightning rod, protects buildings, ground, conducts
+conductor of electricity, metals, copper, silver, gold, aluminum, salt water, graphite
+insulator of electricity, rubber, glass, plastic, wood, air, dry paper, cloth, ceramic
+electromagnet, current, coil, iron core, stronger, more turns, more current, junkyard crane, turned off
+magnet, permanent magnet, poles, magnetic field lines, iron filings, strongest at poles
+magnetic field, around a magnet, compass, invisible, iron filings pattern
+Earth's magnet, compass points north, geographic north, magnetic poles
+generator, magnet and coil, motion, electricity, electromagnetic induction, turbines, power plant
+motor, electricity into motion, magnet, coil, spins, electric fan, blender
+transformer, voltage, power lines, step up, step down
+light, travels in straight lines, shadows, speed of light, 300000 kilometers per second, fastest, vacuum
+light, reflection, mirror, smooth surface, angle, bounce off
+light, refraction, lenses, bends, water, glass, prism, changes speed, magnifying glass, rainbow
+light, absorption, dark colors, black absorbs all colors, white reflects all colors
+color, red apple, reflects red, absorbs other colors, green leaf reflects green
+lens, convex, converging, magnifying glass, microscope, telescope, camera, eye, farsighted
+lens, concave, diverging, nearsighted
+eye, lens focuses light, retina, image, optic nerve, brain, pupil gets smaller, bright light
+visible light, spectrum, red, orange, yellow, green, blue, violet, wavelengths, colors
+ultraviolet, invisible, sunburn, black light, tanning, vitamin D
+infrared, heat lamp, remote control, warm objects, thermal imaging
+x-rays, see bones, dense materials, medical imaging, lead apron
+microwaves, cook food, water molecules, radar, cell phones
+radio waves, radio, television, longest, communication, antennas, cell phones
+gamma rays, radioactive, nuclear, most energy, shortest wavelength
+wave, energy transfer, not matter, medium, crest, trough, amplitude, wavelength, frequency, speed
+wave, frequency, higher frequency, shorter wavelength, more energy, pitch, color
+wave, amplitude, louder, brighter, more energy, taller waves
+sound, needs a medium, medium, matter, particles
+sound, speed, 340 meters per second, faster in solids, faster in water, slower in air, warm air
+sound, pitch, frequency, high-pitched, low-pitched, short strings, long strings, small, large, tight, loose
+sound, volume, loudness, amplitude, decibels, harder, louder, quieter, softer
+sound, absorbed, soft materials, carpet, curtains, foam, quiet room
+ultrasound, sonar, bats, dolphins, high frequency, echo, depth of ocean, submarines
+hearing, ear, outer ear, eardrum, middle ear, inner ear, cochlea, nerves
+noise pollution, loud, hearing damage, earplugs
+rock, made of minerals, mixture of minerals, granite, quartz, feldspar, mica
+minerals, identified by, hardness, streak, luster, color, cleavage, fracture, crystal shape, density
+mineral, naturally occurring, inorganic, solid, crystal structure, definite composition
+quartz, hard, glass, sand, common mineral, hexagonal crystals
+talc, softest, powder, Mohs 1
+diamond, hardest, Mohs 10, carbon, cuts glass
+salt, halite, cubic crystals, mineral
+gypsum, soft, plaster, drywall
+coal, sedimentary, plants, swamps, pressure, layers, fossil fuel
+limestone, shells, calcium carbonate, ocean, sedimentary, acid, fizzes, caves, marble
+sandstone, sand grains, cemented, sedimentary, layers
+shale, mud, clay, layers, fossils, sedimentary, slate
+conglomerate, rounded pebbles, gravel, cemented, rivers
+pumice, floats, holes, gas bubbles, volcanic, lightweight
+obsidian, volcanic glass, cools quickly, no crystals, sharp edges, black
+granite, large crystals, cools slowly, inside Earth, intrusive, countertops, mountains
+basalt, ocean floor, small crystals, dark, lava flows, Hawaii
+crystals, cooling rate, slow cooling, large crystals, fast cooling, small crystals
+rock layers, strata, oldest at the bottom, youngest at the top, superposition, undisturbed
+rock layers, tilted, folded, faulted, after, disturbed, intrusion, younger than layers it cuts
+unconformity, missing layers, erosion, gap
+fossil record, history of life, extinct species, changes over time, evolution, older layers, simpler organisms
+fossils, form, sedimentary rock, buried, quickly, sediment, hard parts, bones, shells, teeth
+fossils, trilobites, ammonites, dinosaur bones, footprints, leaf imprints, ancient
+fossil, coral, warm shallow sea, tropical, past climate
+fossil, glacier evidence, cold climate, past
+fossil, palm trees, ferns, Antarctica, warmer climate, once
+fossils, same fossils, different continents, joined, Pangaea, continental drift
+age of Earth, 4.6 billion years, billions, radiometric dating
+geologic time scale, eras, periods, Precambrian, Paleozoic, Mesozoic, Cenozoic, dinosaurs
+dinosaurs, Mesozoic, extinct, 65 million years ago, asteroid impact, fossils, reptiles
+weathering, physical, mechanical, frost wedging, ice wedging, abrasion, root wedging, exfoliation, smaller pieces, same minerals
+weathering, chemical, acid rain, oxidation, rust, dissolving, carbonic acid, new substances, limestone caves
+weathering, faster, warm wet climate, rain, temperature changes, freezing and thawing
+erosion, agents, water, wind, ice, gravity, waves, moving water, most erosion
+erosion, rivers, canyons, Grand Canyon, Colorado River, V-shaped valleys, meanders
+erosion, wind, deserts, sand dunes, sandblasted, arches, dust storms, loess
+erosion, glaciers, U-shaped valleys, moraines, erratics, striations, horns, fjords, Great Lakes
+erosion, waves, beaches, cliffs, sea caves, sea stacks, shoreline, coast, jetties, seawalls
+erosion, gravity, landslides, mudflows, rockfalls, creep, slump
+erosion, prevented, plants, trees, roots, grass, mulch, terracing, contour plowing, windbreak, retaining walls
+deposition, sediment dropped, slows down, delta, alluvial fan, sand dunes, beaches, floodplain, moraine
+delta, Mississippi, mouth of a river, fan-shaped, deposited sediment
+floodplain, fertile, flooding, deposits, farming
+soil, layers, horizons, topsoil, subsoil, bedrock, parent rock
+soil, formed by, weathering of rock, decayed organisms, humus, thousands of years
+soil, fertile, nutrients, humus, decomposers, earthworms, farming
+soil, sandy, drains fast, large particles, dries quickly
+soil, clay, holds water, sticky, small particles, poor drainage
+Earth, layers, crust, mantle, outer core, inner core, density, heavier materials, center
+crust, continental, oceanic, thin, granite, basalt, rigid plates
+lithosphere, crust and upper mantle, plates, rigid
+asthenosphere, soft, flows, plastic, mantle, plates move on
+mantle, convection currents, move plates, hot rock rises, cool rock sinks
+core, iron and nickel, hottest, magnetic field, dense
+plates, move, centimeters per year, slowly, convection, mantle
+plate boundary, convergent, divergent, transform, earthquakes, volcanoes, mountains, trenches, ridges
+convergent boundary, collide, mountains, Himalayas, Andes, subduction, trenches, volcanoes
+divergent boundary, spread apart, mid-Atlantic ridge, rift valley, new crust, Iceland
+transform boundary, slide past, San Andreas Fault, California, earthquakes
+earthquake, sudden movement, faults, energy released, seismic waves, epicenter, focus, magnitude, Richter scale, damage
+earthquake, seismograph, seismometer, measure, record, waves, three stations, locate epicenter
+tsunami, earthquake under the ocean, giant wave, coastal flooding
+volcano, magma chamber, vent, crater, lava, ash, pyroclastic, gases, eruption
+volcano, shield, composite, cinder cone, Mount St. Helens, Hawaii, Kilauea
+volcanic ash, blocks sunlight, cools climate, crops
+hot spot, Hawaii, Yellowstone, island chain, plate moves over
+mountains, formed by, plates colliding, folding, faulting, volcanoes, uplift
+mountains, Appalachian, old, eroded, rounded
+mountains, Rocky Mountains, young, tall, jagged
+islands, volcanic, Hawaii, coral reef, barrier islands
+ocean floor, mid-ocean ridge, trench, abyssal plain, continental shelf, seamount
+continental shelf, shallow, near shore, fishing
+ocean, salinity, salt, dissolved minerals, rivers carry, 3.5 percent
+ocean, layers, surface warm, deep cold, dark, pressure increases with depth
+ocean currents, surface currents, wind, deep currents, density, temperature, salinity, Gulf Stream, warms Europe
+ocean, moderates climate, coastal areas, mild, smaller temperature changes, high specific heat
+land, heats faster, cools faster, than water, specific heat
+lake effect snow, Great Lakes, cold air over warm water
+water, specific heat, absorbs heat slowly, releases slowly, moderates temperature
+water cycle, driven by, Sun, energy, gravity, evaporation, condensation, precipitation
+water cycle, evaporation from oceans, condensation into clouds, precipitation, runoff, groundwater
+water supply, freshwater, less than 3 percent, most frozen, ice caps, glaciers, groundwater, conserve
+groundwater, aquifer, wells, permeable rock, sandstone, water table, pollution, infiltration
+infiltration, soaks into the ground, permeable, sandy soil, porous
+runoff, paved surfaces, cities, flooding, impermeable, pollution, storm drains
+reservoir, dam, stores water, lake, drinking water
+water treatment, filtration, chlorine, purify, drinking water, settling
+weather, troposphere, air masses, fronts, pressure systems, Sun heats unevenly
+air mass, large body of air, same temperature, humidity, maritime, continental, tropical, polar
+maritime tropical, warm, humid, ocean, Gulf of Mexico
+continental polar, cold, dry, Canada, winter
+front, boundary, air masses meet, cold front, warm front, stationary front, occluded
+cold front, thunderstorms, heavy rain, cooler temperatures after, quickly, cumulonimbus
+warm front, light steady rain, warmer after, slowly, stratus, nimbostratus
+high pressure system, fair weather, clear skies, clockwise, sinking air, dry
+low pressure system, stormy, clouds, rain, counterclockwise, rising air, hurricanes
+barometer, falling pressure, storm approaching, rising pressure, fair weather
+weather map, isobars, fronts, symbols, H and L, forecasting
+weather forecast, meteorologist, predict, satellites, radar, weather balloons, computer models
+meteorologist, studies weather, forecasts
+humidity, relative humidity, dew point, saturated, 100 percent, fog, muggy, sticky
+dew point, temperature, condensation begins, dew, fog, clouds
+clouds, form, air rises, cools, condenses, water vapor, dust particles, condensation nuclei
+clouds, types, cumulus, stratus, cirrus, nimbus, cumulonimbus, altitude, shape
+precipitation, types, rain, snow, sleet, hail, freezing rain, temperature
+hail, thunderstorms, layers of ice, updrafts, balls of ice
+sleet, freezing rain, ice pellets, winter, cold layer
+snow, below freezing, ice crystals, snowflakes, winter
+thunderstorm, cumulonimbus, lightning, thunder, heavy rain, hail, warm humid air, rising air
+tornado, funnel cloud, rotating column of air, thunderstorm, Tornado Alley, Midwest, spring, most violent winds, basement, interior room
+hurricane, forms over warm ocean water, tropical, eye, wall, storm surge, flooding, high winds, evacuate, loses strength over land
+hurricane, Atlantic, Gulf of Mexico, Florida, late summer, fall, warm water
+blizzard, heavy snow, strong winds, low visibility, cold
+drought, long period, little rain, dry, wildfires, crops fail, water shortages
+flood, heavy rain, snowmelt, rivers overflow, hurricanes, low areas, levees
+wildfire, dry, drought, lightning, forest fire, smoke, burn
+climate, average weather, long period, 30 years, temperature and precipitation, latitude, altitude, ocean currents, mountains
+climate zones, tropical, temperate, polar, arid
+tropical climate, near equator, hot, humid, rain all year
+polar climate, high latitudes, cold, ice, little precipitation
+temperate climate, four seasons, moderate, United States
+mountains, rain shadow, windward side, wet, leeward side, dry, desert
+desert, rain shadow, dry, hot days, cold nights, little vegetation
+climate change, global temperature, rising, greenhouse gases, burning fossil fuels, deforestation, melting glaciers, rising sea levels, extreme weather
+greenhouse gases, carbon dioxide, methane, water vapor, trap heat, infrared, atmosphere
+ice core, past climate, air bubbles, ancient atmosphere, layers, carbon dioxide levels
+tree rings, past climate, wet years, wide rings, dry years, narrow rings
+atmosphere, protects, meteors burn up, ultraviolet blocked, keeps Earth warm, air to breathe
+atmosphere, composition, 78 percent nitrogen, 21 percent oxygen, argon, carbon dioxide, trace
+atmosphere, air pressure, decreases with altitude, thinner, mountains, airplanes
+troposphere, weather, we live, temperature decreases with altitude, clouds
+stratosphere, ozone, jets, temperature increases
+mesosphere, meteors burn up, coldest
+thermosphere, aurora, northern lights, hottest, space station
+ozone, protects from ultraviolet, ozone hole, Antarctica, CFCs, aerosol sprays, refrigerants
+Sun, energy source, Earth's weather, water cycle, wind, plants, food chain, nearly all energy
+Sun, layers, core, photosphere, chromosphere, corona, sunspots, solar flares, solar wind
+sunspots, cooler, darker areas, magnetic, solar cycle
+solar wind, charged particles, aurora, northern lights, magnetic field
+aurora, northern lights, solar wind, magnetic field, poles, colorful
+Earth, shape, sphere, round, ships disappear, curved shadow, eclipse
+Earth, tilt, axis, 23.5 degrees, North Pole points to Polaris, seasons
+Earth, rotation, west to east, counterclockwise, 24 hours, day, night, Sun rises in the east
+Earth, revolution, 365.25 days, year, leap year, elliptical orbit
+leap year, extra day, 366 days, every four years, February 29
+time zones, rotation, 24, longitude, 15 degrees
+hemisphere, northern, southern, opposite seasons, Australia, summer in December
+seasons, Northern Hemisphere, tilted toward the Sun, summer, June, longer days
+seasons, Northern Hemisphere, tilted away from the Sun, winter, December, shorter days
+seasons, not caused by distance, closest in January, axis tilt, angle of sunlight
+daylight hours, longest day, summer solstice, June 21, shortest day, winter solstice, December 21
+equinox, March 21, September 22, 12 hours, equal, spring, fall
+Moon, phases, new, waxing crescent, first quarter, waxing gibbous, full, waning gibbous, third quarter, waning crescent
+Moon phases, cycle, 29.5 days, about a month, four weeks, sunlight, half lit, position, orbit
+Moon, same side, always faces Earth, rotates once, synchronous rotation, far side
+Moon, smaller than Earth, one-fourth, rocky, no liquid water, no life, maria, highlands, dust
+Moon, gravity, one-sixth, jump higher, weigh less, mass stays the same
+Moon, astronauts, Apollo, 1969, Neil Armstrong, footprints remain, no wind, no erosion
+footprints, Moon, remain, no wind, no water, no weathering, no atmosphere
+tides, spring tide, neap tide, Sun and Moon aligned, full and new moon, highest tides, right angles
+tides, two high tides, two low tides, each day, bulge, Moon's gravity, ocean
+eclipse, solar, Moon blocks Sun, daytime, rare, shadow on Earth, never look directly
+eclipse, lunar, Earth's shadow, Moon turns red, night, full moon
+solar system, formed, nebula, gas and dust, gravity, 4.6 billion years
+planets, order, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+planets, orbit, ellipse, elliptical, gravity, Sun, Kepler
+planets, farther from Sun, longer year, slower orbit, colder
+planets, inner, rocky, small, thin atmosphere, few moons, terrestrial
+planets, outer, gas giants, large, thick atmosphere, many moons, rings, hydrogen, helium
+moons, natural satellites, orbit planets, Jupiter has many moons, Io, Europa, Ganymede, Titan
+asteroid belt, between Mars and Jupiter, rocky objects, small
+comets, ice and dust, dirty snowballs, tails point away from Sun, long elliptical orbits, Kuiper Belt, Oort cloud
+meteor, streak of light, shooting star, burns up in atmosphere, meteor shower
+meteorite, reaches the ground, survives, crater
+stars, made of gas, hydrogen, helium, nuclear fusion, energy, light, heat
+stars, color, temperature, blue hottest, red coolest, yellow medium, Sun is yellow
+stars, size, giant, supergiant, dwarf, Sun is medium
+stars, brightness, magnitude, distance, size, temperature, apparent, absolute
+stars, life cycle, nebula, protostar, main sequence, red giant, white dwarf, supernova, neutron star, black hole
+nebula, cloud of gas and dust, stars form, birthplace
+black hole, gravity, light cannot escape, massive star
+constellation, group of stars, pattern, Orion, Big Dipper, Ursa Major, Leo, zodiac, seasons
+constellations, change with seasons, Earth's revolution, night sky different
+galaxy, Milky Way, spiral, billions of stars, solar system, arms, center
+galaxy, types, spiral, elliptical, irregular, Andromeda
+universe, all of space, galaxies, Big Bang, expanding, redshift
+telescope, refracting, lenses, reflecting, mirrors, Hubble, space telescope, above atmosphere, clearer images
+telescope, radio telescope, radio waves, dish, space
+space exploration, rockets, satellites, probes, rovers, astronauts, space station, NASA
+space probe, Voyager, unmanned, distant planets, data
+rover, Mars, Curiosity, explores surface, samples
+International Space Station, orbit, astronauts, experiments, microgravity
+satellite, orbit Earth, weather, communication, GPS, television, Moon is a natural satellite
+gravity, keeps satellites in orbit, Moon in orbit, planets around Sun
+cell theory, all living things are made of cells, cells come from other cells, basic unit of life, Hooke, Schleiden, Schwann
+Robert Hooke, cork, cells, microscope, named cells
+Leeuwenhoek, microscope, bacteria, microorganisms, animalcules
+cell, organelles, functions, nucleus control, mitochondria energy, chloroplast food, membrane, wall
+cell membrane, selectively permeable, semipermeable, lets some materials in, diffusion, osmosis, transport
+diffusion, high concentration to low concentration, spreads, perfume, food coloring, oxygen into cells
+osmosis, water, membrane, high to low, raisins swell, celery, salt water, plant cells shrink
+active transport, energy, against concentration, pumps
+cellular respiration, glucose, oxygen, carbon dioxide, water, energy, ATP, mitochondria, releases energy
+respiration, breathing, oxygen in, carbon dioxide out, all living things, energy from food
+fermentation, yeast, no oxygen, bread, alcohol, lactic acid, muscles, carbon dioxide
+photosynthesis, equation, carbon dioxide plus water, sunlight, glucose plus oxygen, chlorophyll
+photosynthesis and respiration, opposite, reverse, cycle, oxygen, carbon dioxide
+plant cell, cell wall, chloroplast, central vacuole, rigid shape, square
+animal cell, round, flexible membrane, lysosomes, centrioles
+prokaryotic, bacteria, no nucleus, simple, small, DNA in cytoplasm
+eukaryotic, nucleus, organelles, plants, animals, fungi, protists
+chromosome, DNA, genes, nucleus, pairs, 46, 23 pairs, humans
+gene, section of DNA, trait, protein, codes
+DNA, deoxyribonucleic acid, double helix, Watson, Crick, adenine, thymine, guanine, cytosine
+mitosis, body cells, growth, repair, two identical cells, same number of chromosomes
+meiosis, sex cells, four cells, half the chromosomes, variation, egg, sperm
+fertilization, egg and sperm, zygote, half from each parent
+heredity, offspring receive genes, one from each parent, alleles
+dominant trait, shows up, capital letter, masks recessive, brown eyes
+recessive trait, hidden, lowercase, two copies, blue eyes
+Punnett square, probability, offspring, genotype, cross, 25 percent, 50 percent, 75 percent
+genotype, genetic makeup, alleles, BB, Bb, bb
+phenotype, physical appearance, observable trait
+purebred, homozygous, same alleles, true-breeding
+hybrid, heterozygous, different alleles
+mutation, change in DNA, radiation, chemicals, can be harmful, helpful, neutral, new variations
+genetic disorder, sickle cell, cystic fibrosis, hemophilia, Down syndrome, inherited
+environment affects traits, nutrition, height, plants in shade, sunlight, temperature, flower color hydrangea
+adaptation, structural, body part, behavioral, behavior, physiological, survive in environment
+adaptation, desert, cactus, spines, waxy, store water, camel, nocturnal, burrow
+adaptation, arctic, thick fur, blubber, white, small ears, hibernate
+adaptation, ocean, fins, gills, streamlined, blubber, flippers
+adaptation, forest, climbing, camouflage, claws
+adaptation, flight, hollow bones, feathers, wings, lightweight
+adaptation, plants, thorns, spines, protect from animals, poison, bitter taste
+adaptation, plant, wide leaves, rainforest, shade, capture light
+adaptation, plant, deep roots, long roots, reach water, desert, dry
+adaptation, plant, needles, conifers, cold, snow, less water loss
+adaptation, waxy coating, cuticle, reduce water loss
+natural selection, overproduction, variation, competition, survival, reproduction, inherit, adaptation, environment changes
+natural selection, peppered moth, dark moths, pollution, soot, tree bark, light moths
+natural selection, antibiotic resistance, bacteria survive, resistant, reproduce
+natural selection, giraffe neck, longer necks, reach food, survive, offspring
+evolution, evidence, fossils, homologous structures, embryos, DNA, similar bones, common ancestor
+homologous structures, similar bones, arm, wing, flipper, common ancestor
+vestigial structures, appendix, no function, ancestors
+species, extinct, environment changed, cannot adapt, competition, disease, humans, habitat destruction
+classification, kingdoms, animals, plants, fungi, protists, bacteria, archaea, domains
+classification, scientific name, genus and species, binomial nomenclature, Latin, Linnaeus, Homo sapiens
+classification, similarities, structure, characteristics, DNA, evolutionary relationships
+dichotomous key, pairs of statements, identify organism, step by step, choices
+animals, invertebrates, 95 percent, most animals, sponges, cnidarians, worms, mollusks, arthropods, echinoderms
+sponge, simplest animal, pores, filter feeders, ocean
+cnidarians, jellyfish, coral, sea anemone, stinging cells, tentacles
+worms, flatworms, roundworms, segmented worms, earthworms, leeches
+mollusks, snail, clam, octopus, squid, oyster, shell, soft body
+echinoderms, starfish, sea star, sea urchin, sand dollar, spiny skin, tube feet
+arthropods, insects, arachnids, crustaceans, centipedes, millipedes, largest group
+crustaceans, crab, lobster, shrimp, crayfish, barnacles, exoskeleton, gills
+insects, ant, bee, beetle, butterfly, fly, grasshopper, mosquito, ladybug, six legs
+vertebrates, fish, amphibians, reptiles, birds, mammals, endoskeleton, backbone
+fish, bony fish, cartilage, sharks, rays, gills, fins, scales, lay eggs in water
+amphibians, frogs, toads, salamanders, newts, double life, eggs in water, moist skin, breathe through skin
+reptiles, snakes, lizards, turtles, crocodiles, dry scaly skin, eggs with shells, land
+birds, feathers, beak, lay eggs, wings, warm-blooded, hollow bones, ostrich, penguin, eagle
+mammals, hair, milk, live young, warm-blooded, humans, whales, bats, dogs, platypus lays eggs
+marsupials, kangaroo, koala, opossum, pouch
+primates, monkeys, apes, humans, opposable thumbs
+rodents, mice, rats, squirrels, beavers, gnawing teeth
+plants, vascular, xylem, phloem, tall, ferns, trees
+plants, nonvascular, mosses, liverworts, small, moist, no true roots
+plants, seed plants, gymnosperms, angiosperms, flowering, cones
+angiosperms, flowering plants, fruits, seeds enclosed, most plants
+gymnosperms, cones, naked seeds, pine, spruce, fir, evergreen
+monocot, one seed leaf, parallel veins, grass, corn
+dicot, two seed leaves, branching veins, beans
+plant parts, root, stem, leaf, flower, fruit, seed, functions
+leaf, stomata, guard cells, open, close, water loss, gas exchange, underside
+leaf, veins, transport, xylem, phloem
+flower, sepals, petals, stamens, pistil, anther, filament, stigma, style, ovary
+flower, petals, attract pollinators, bright colors, scent
+fruit, develops from ovary, seeds inside, apple, tomato, cucumber
+seed, parts, seed coat, embryo, cotyledon, stored food, endosperm
+plant growth, needs, light, water, carbon dioxide, nutrients, right temperature
+plant responses, tropisms, light, gravity, touch, water
+plant life cycle, seed, germination, seedling, adult plant, flower, pollination, fertilization, fruit, seed dispersal
+animal life cycle, birth, growth, adulthood, reproduction, death
+human life cycle, infant, child, adolescent, adult, elderly, puberty
+reproduction, survival of species, offspring, continue
+asexual reproduction, bacteria divide, binary fission, budding, yeast, hydra, spores, runners, strawberries, potatoes, cuttings, regeneration, starfish
+regeneration, starfish, regrow, lost arm, planaria, lizard tail
+sexual reproduction, genetic variation, two parents, flowers, eggs, sperm
+microorganisms, bacteria, viruses, fungi, protists, microscopic, helpful, harmful
+helpful bacteria, yogurt, cheese, digestion, intestines, nitrogen fixation, decomposition, vitamins
+harmful bacteria, strep throat, food poisoning, infections, disease
+virus, not cells, needs host, cold, flu, chickenpox, measles, HIV, COVID, vaccines, cannot be killed by antibiotics
+pathogen, disease-causing, bacteria, viruses, fungi, parasites
+immune system, white blood cells, antibodies, fever, skin barrier, mucus, memory cells
+vaccine, weakened, dead, pathogen, antibodies, immunity, immune response, prevent
+antibiotic, kills bacteria, penicillin, Fleming, mold, not viruses, resistance, overuse
+disease spread, contact, air, water, food, insects, mosquitoes, malaria, ticks, Lyme disease
+noninfectious disease, heart disease, cancer, diabetes, not contagious, lifestyle, genetic
+cancer, uncontrolled cell division, tumor, mutations, smoking, UV
+diabetes, insulin, blood sugar, pancreas
+allergies, pollen, immune response, sneezing
+nutrients, six types, carbohydrates, proteins, fats, vitamins, minerals, water
+food pyramid, MyPlate, food groups, grains, vegetables, fruits, dairy, protein
+digestion, mechanical, chewing, stomach churning, chemical, enzymes, saliva, acids
+digestion, path, mouth, esophagus, stomach, small intestine, large intestine, rectum
+circulation, heart, arteries, veins, capillaries, oxygen, nutrients, wastes, carbon dioxide, body cells
+heart, four chambers, left side, right side, pumps oxygen-rich blood, lungs
+blood, plasma, liquid, red cells, white cells, platelets, carries oxygen, nutrients, hormones
+respiration, nose, trachea, bronchi, lungs, alveoli, diaphragm, oxygen into blood, carbon dioxide out
+breathing, rate, exercise increases, more oxygen, muscles, carbon dioxide removed
+nervous system, central, brain, spinal cord, peripheral, nerves, neurons, stimulus, response
+neuron, nerve cell, dendrites, axon, signals, electrical impulses
+brain, cerebrum, thinking, memory, cerebellum, balance, coordination, brain stem, heartbeat, breathing
+senses, stimulus, receptors, nerves, brain, sight, hearing, touch, taste, smell, response
+reflex, touching hot stove, pull away, knee jerk, spinal cord, fast
+skeletal system, 206 bones, support, protection, movement, blood cells, store minerals
+muscles, skeletal, voluntary, smooth, involuntary, cardiac, heart, contract, pairs, biceps, triceps
+muscles, work in pairs, contract, relax, bend arm, biceps, triceps
+joints, hinge, knee, elbow, ball and socket, hip, shoulder, pivot, neck, gliding, wrist
+excretory system, kidneys, urine, bladder, skin, sweat, lungs, carbon dioxide, liver, remove wastes
+endocrine system, glands, hormones, pituitary, thyroid, adrenal, pancreas, ovaries, testes, growth, metabolism
+adrenaline, fight or flight, fear, heart races
+reproductive system, male, female, testes, ovaries, sperm, eggs, fertilization, uterus, pregnancy
+integumentary system, skin, hair, nails, sweat glands, protect, regulate temperature, sense
+body systems, work together, interact, circulatory and respiratory, oxygen, digestive and circulatory, nutrients
+homeostasis, sweating, shivering, thirst, body temperature, blood sugar, stable internal
+ecosystem, energy flows, matter cycles, nutrients recycle, decomposers
+food web, interconnected food chains, many feeding relationships, remove one species, affects others
+energy pyramid, producers most energy, top consumers least, 10 percent passed, heat lost
+population, growth, birth rate, death rate, immigration, emigration, limiting factors, exponential
+population, decrease, disease, less food, predators increase, drought, habitat loss
+population, increase, more food, fewer predators, good conditions
+predator prey, lynx and hare, wolves and deer, cycle, population graphs
+competition, same niche, plants compete for light, water, nutrients, space, animals compete for food, mates, territory
+symbiosis, mutualism, clownfish and sea anemone, bees and flowers, lichen, oxpecker, cleaner fish
+commensalism, barnacles on whales, remora on shark, birds nesting in trees, cattle egrets
+parasitism, tick on dog, flea, tapeworm, mistletoe, leech, mosquito, host harmed
+ecological succession, primary, bare rock, lichens and mosses first, secondary, after fire, abandoned field, grasses first, climax community
+biomes, determined by, climate, temperature, precipitation, latitude
+aquatic ecosystems, freshwater, marine, estuary, wetlands, ponds, lakes, rivers, ocean zones
+ocean zones, intertidal, neritic, open ocean, deep ocean, sunlight zone, plankton
+plankton, phytoplankton, zooplankton, base of ocean food chain, oxygen producers
+coral reef, coral polyps, algae, warm, clear, shallow water, many species, bleaching, rising temperatures
+wetlands, filter pollutants, flood control, habitat, birds, nursery
+rainforest, layers, emergent, canopy, understory, forest floor, most biodiversity, medicines, deforestation
+tundra, permafrost, lichens, caribou, arctic fox, short summer, cold, little precipitation
+grassland, prairie, few trees, grasses, grazing animals, bison, fires, fertile soil, farming
+desert, less than 25 centimeters of rain, cactus, lizards, nocturnal animals, extreme temperatures
+deciduous forest, trees lose leaves, four seasons, deer, squirrels, oak, maple, moderate rainfall
+taiga, boreal forest, coniferous, long cold winters, moose, bears, largest biome
+human impact, habitat destruction, pollution, invasive species, overhunting, climate change, deforestation
+human impact, positive, conservation, protected areas, reforestation, recycling, clean energy
+invasive species, zebra mussels, kudzu, cane toads, starlings, no predators, spread rapidly, harm native species
+endangered species, bald eagle, panda, tiger, whale, protect habitat, laws, Endangered Species Act
+biodiversity, important, stable ecosystems, medicines, food, resilient
+freezing, freezes, liquid, solid, cold, ice, loses heat
+melting, melts, solid, liquid, heat, warm
+boiling, boils, liquid, gas, bubbles, steam, 100
+condensation, condenses, gas, liquid, cooling, droplets, cold surface
+evaporation, evaporates, liquid, gas, heating, surface, drying
+sublimation, solid, gas, dry ice, directly
+deposition, gas, solid, frost
+solid, definite shape, fixed shape, rigid, vibrate, closely packed
+liquid, definite volume, container shape, flows, pours
+gas, fills container, expands, spreads, compressible
+particles, solid, vibrate in place, closest
+particles, gas, move freely, farthest apart, fastest
+heating, particles, faster, expand, kinetic
+cooling, particles, slower, contract
+mass, melting, same, unchanged, conserved
+water, expands, freezing, ice, less dense, floats
+ice, floats, less dense, water
+density, oil, floats, water, less dense
+density, rock, sinks, water, more dense
+density, mass, volume, divide
+volume, graduated cylinder, displacement, irregular
+mass, balance, grams
+weight, spring scale, newtons, gravity
+length, ruler, meter stick, centimeters
+temperature, thermometer, Celsius, Fahrenheit
+time, stopwatch, seconds
+volume, liters, milliliters, liquid
+area, length, width, multiply, square
+physical change, shape, size, state, reversible, same substance
+physical change, cutting, tearing, crushing, folding, bending, breaking
+physical change, melting, freezing, boiling, evaporating, dissolving, mixing
+chemical change, new substance, irreversible, reaction
+chemical change, burning, rusting, rotting, cooking, baking, digesting, fermenting, tarnishing
+chemical change, bubbles, gas, fizzing, color change, odor, light, heat, precipitate
+rust, iron, oxygen, water, moisture, orange, corrosion
+tarnish, silver, copper, green, patina, darkens
+rotting, decay, bacteria, fungi, bananas, fruit, brown
+burning, wood, ashes, smoke, oxygen, heat, light
+burning, candle, wax, flame, light, heat, carbon dioxide
+fire, oxygen, fuel, heat, triangle, extinguish, smother
+fire extinguisher, smother, remove oxygen, carbon dioxide, foam
+dissolving, sugar, salt, water, solution, disappears, stir
+dissolving, faster, hot water, stirring, smaller pieces, crushed
+saltwater, evaporation, salt left, crystals
+mixture, separate, physical means, filter, magnet, sieve, evaporation
+mixture, iron filings, sand, magnet
+mixture, sand, water, filter
+mixture, salt, water, evaporate
+mixture, rocks, sand, sieve, screen
+mixture, oil, water, layers, density
+solution, sugar water, salt water, evenly, uniform, transparent
+compound, water, salt, sugar, carbon dioxide, chemically bonded
+element, oxygen, gold, iron, carbon, hydrogen, one type of atom
+atom, smallest, element, protons, neutrons, electrons
+molecule, two or more atoms, bonded, water molecule
+electrons, negative, outside nucleus, energy levels
+protons, positive, nucleus, atomic number
+neutrons, neutral, no charge, nucleus
+nucleus, protons, neutrons, center, atom
+periodic table, elements, arranged, atomic number, properties
+metal, shiny, conducts, malleable, ductile
+nonmetal, dull, brittle, insulator
+metalloid, silicon, semiconductor
+noble gas, neon, argon, helium, unreactive
+oxygen, gas, breathing, burning, colorless, odorless
+nitrogen, most abundant, air, atmosphere, 78
+carbon dioxide, exhaled, plants absorb, greenhouse, dry ice, soda, bubbles
+hydrogen, lightest, flammable, water, stars, fuel
+helium, balloons, float, lighter than air
+water, compound, hydrogen, oxygen, H2O
+salt, sodium, chlorine, NaCl, compound
+acid, lemon, vinegar, sour, pH below 7, litmus red
+base, soap, baking soda, bitter, slippery, pH above 7, litmus blue
+neutral, water, pH 7
+pH, acid, base, scale, litmus
+indicator, color, acid, base
+baking soda, vinegar, carbon dioxide, bubbles, fizz, chemical reaction
+antacid, base, stomach acid, neutralize
+conservation of mass, reaction, mass, same, closed container, atoms rearranged
+reactants, products, chemical reaction, equation
+heat absorbed, endothermic, cold pack, colder
+heat released, exothermic, hot pack, warmer, burning
+gravity, falls, falling, down, Earth, pulls, weight
+gravity, Moon, weaker, less weight, one-sixth
+gravity, orbit, planets, Sun, Moon, Earth
+gravity, mass, larger, stronger, closer
+friction, slows, stops, rubbing, surfaces, heat
+friction, rough, more, sandpaper, carpet, gravel
+friction, smooth, less, ice, wax, oil
+friction, brakes, tires, shoes, grip
+friction, reduce, lubricant, oil, grease, wheels, ball bearings
+friction, increase, sand, rough, treads
+air resistance, parachute, slows, falling, wide
+magnetism, attracts, iron, steel, nickel, poles
+magnetism, repel, same poles, north north, south south
+magnetism, attract, opposite poles, north south
+magnet, compass, north, needle
+magnet, paper clips, iron, attracts
+nonmagnetic, plastic, wood, glass, aluminum, copper, rubber, paper
+push, pull, force, motion, change
+force, speed up, slow down, change direction, start, stop
+balanced forces, no motion, constant speed, tug of war tie, equal
+unbalanced forces, motion changes, accelerates, moves
+inertia, stays at rest, keeps moving, mass, resists change
+inertia, seat belt, stop suddenly, forward
+acceleration, force, mass, Newton
+action, reaction, equal, opposite, rocket, push back
+speed, distance, time, fast, slow
+velocity, speed, direction
+motion, position, reference point, changes
+graph, distance, time, slope, speed, steeper, faster
+work, force, distance, move, joules
+simple machine, lever, pulley, ramp, wedge, screw, wheel and axle
+lever, fulcrum, effort, load, seesaw, crowbar
+pulley, rope, wheel, lift, flag, crane, direction
+ramp, inclined plane, less force, longer distance
+wedge, split, axe, knife, chisel
+screw, spiral, inclined plane, jar lid
+wheel and axle, doorknob, steering wheel
+mechanical advantage, less force, easier, more distance
+energy, kinetic, motion, moving, speed
+energy, potential, stored, position, height, stretched
+energy, chemical, food, fuel, battery, stored in bonds
+energy, electrical, electricity, current, circuit, wires
+energy, thermal, heat, temperature, particles
+energy, light, radiant, sun, bulb, electromagnetic
+energy, sound, vibration, waves, ears
+energy, nuclear, atoms, fission, fusion, uranium, Sun
+energy, mechanical, motion, machines
+kinetic energy, increases, faster, speed, mass, heavier
+potential energy, increases, higher, height, top, raised
+potential energy, kinetic energy, falling, converted, roller coaster, pendulum
+conservation of energy, cannot be created, cannot be destroyed, transformed, changes form
+battery, chemical, electrical
+flashlight, chemical, electrical, light
+toaster, electrical, thermal, heat
+fan, electrical, kinetic, motion
+light bulb, electrical, light, heat
+solar panel, light, electrical
+plants, light, chemical, photosynthesis
+car, chemical, kinetic, gasoline, engine
+generator, kinetic, mechanical, electrical
+microphone, sound, electrical
+speaker, electrical, sound
+stove, electrical, heat, gas, burning
+heat, flows, hot to cold, warmer to cooler
+heat, conduction, touching, solid, metal, pan, spoon
+heat, convection, liquid, gas, rising, circulating, currents, boiling water
+heat, radiation, sun, space, waves, no contact, fire, lamp
+conductor, heat, metal, copper, aluminum, iron, silver
+insulator, heat, wood, plastic, rubber, foam, wool, air, cloth
+conductor, electricity, metal, copper, wire, aluminum
+insulator, electricity, rubber, plastic, glass, wood
+circuit, closed, complete, bulb lights, current flows
+circuit, open, broken, bulb off, no current
+series circuit, one path, all off
+parallel circuit, many paths, others stay on
+switch, open, close, circuit, controls
+battery, voltage, energy source, circuit
+electromagnet, coil, wire, nail, current, iron core, temporary
+electromagnet, stronger, more coils, more current, more batteries
+static electricity, rubbing, balloon, hair, charge, shock, attract
+lightning, static electricity, charge, clouds
+light, travels, straight line, fast, vacuum, space
+light, reflection, mirror, bounces, shiny
+light, refraction, bends, lens, water, prism, glass
+light, absorption, black, dark, absorbs, warm
+light, white, reflects, all colors, cool
+light, transparent, glass, clear, passes through
+light, translucent, wax paper, frosted, some light
+light, opaque, wood, metal, blocks, shadow
+prism, white light, colors, rainbow, spectrum
+rainbow, sunlight, raindrops, refraction, colors
+color, red, longest wavelength, violet, shortest wavelength
+lens, convex, magnify, magnifying glass, focus, enlarge
+shadow, light blocked, opaque, opposite side
+shadow, longer, morning, evening, low sun
+shadow, shorter, noon, midday, overhead sun
+sound, vibration, vibrating, vibrates, source
+sound, medium, air, water, solid, travels
+sound, faster, solids, steel, water, slower, air
+sound, pitch, frequency, high, low, fast vibrations
+sound, loudness, volume, amplitude, louder, energy
+sound, echo, reflects, bounces, wall
+pitch, higher, shorter string, tighter string, thinner string, smaller
+pitch, lower, longer string, looser string, thicker string, larger
+wave, crest, trough, wavelength, amplitude
+wave, frequency, waves per second, hertz
+wave, transverse, perpendicular, up and down, light, rope
+wave, longitudinal, compression, parallel, sound, spring
+wave, energy, transfer, without matter, medium
+day, night, rotation, rotates, spins, axis, 24 hours
+year, revolution, revolves, orbits, Sun, 365 days
+seasons, tilt, axis, revolution, Sun's rays, angle
+summer, tilted toward, direct rays, longer days, warmer
+winter, tilted away, indirect rays, shorter days, colder
+month, Moon, orbit, phases, 29 days
+Moon phases, reflected sunlight, position, Earth, Sun
+full moon, Earth between, fully lit, opposite
+new moon, Moon between, dark, not visible
+lunar eclipse, Earth's shadow, full moon
+solar eclipse, Moon's shadow, new moon, blocks Sun
+tides, Moon, gravity, oceans, rise, fall
+Sun, star, nearest, gas, hydrogen, helium, fusion
+Sun, energy, light, heat, Earth, life
+Sun, rises, east, sets, west, apparent motion, rotation
+stars, distant, far, light-years, small, dim
+stars, appear to move, rotation, Earth spins
+stars, constellations, patterns, seasons, revolution
+North Star, Polaris, north, fixed, navigation
+planets, orbit, Sun, reflect, light
+Mercury, closest, Sun, smallest
+Venus, hottest, thick atmosphere, clouds
+Earth, water, life, atmosphere, third
+Mars, red, iron, dust, rovers
+Jupiter, largest, gas giant, storm
+Saturn, rings, ice, gas giant
+Uranus, Neptune, ice giants, cold, far
+asteroid, rocky, belt, Mars, Jupiter
+comet, ice, dust, tail, orbit
+meteor, burns, atmosphere, shooting star
+meteorite, lands, ground, crater
+crater, impact, meteorite, Moon
+galaxy, stars, Milky Way, billions
+universe, galaxies, everything, space
+telescope, stars, planets, far, distant, magnify
+gravity, keeps, Moon, orbit, Earth
+weather, daily, conditions, temperature, rain, wind, clouds
+climate, long term, average, years, region
+air pressure, barometer, weather, high, low
+wind speed, anemometer
+wind direction, wind vane, weather vane
+humidity, hygrometer, moisture
+rainfall, rain gauge, precipitation
+temperature, thermometer, weather
+clouds, condensation, water vapor, droplets, cool
+rain, precipitation, clouds, water droplets, falls
+snow, precipitation, ice crystals, cold, freezing
+hail, ice balls, thunderstorms, updrafts
+fog, cloud, ground, condensation
+dew, condensation, morning, grass
+frost, freezing, ice crystals, cold night
+thunderstorm, lightning, thunder, cumulonimbus, heavy rain
+tornado, funnel, rotating, winds, thunderstorm
+hurricane, ocean, warm water, winds, storm surge, tropical
+cold front, cold air, thunderstorms, cooler
+warm front, warm air, light rain, warmer
+air mass, temperature, humidity, region
+high pressure, clear, sunny, dry
+low pressure, cloudy, rainy, stormy
+water cycle, evaporation, condensation, precipitation, runoff
+water cycle, Sun, energy, drives
+ocean, salt water, most water, 97 percent
+fresh water, glaciers, ice caps, rivers, lakes, groundwater, small percent
+groundwater, wells, aquifer, underground, soak
+rock, igneous, magma, lava, cooling
+rock, sedimentary, layers, sediment, fossils, pressure
+rock, metamorphic, heat, pressure, changed
+rock cycle, igneous, sedimentary, metamorphic
+weathering, breaking, rocks, smaller, wind, water, ice
+weathering, ice, freezing, cracks, expands
+weathering, plant roots, cracks, grow
+weathering, acid rain, chemical, dissolves
+erosion, moving, carrying, sediment, wind, water, glaciers, gravity
+erosion, river, canyon, valley, carved
+erosion, wind, desert, sand, dunes
+erosion, glacier, valleys, U-shaped, boulders
+erosion, waves, beach, coast, shoreline
+deposition, dropping, sediment, delta, settles
+deposition, river mouth, delta, slows down
+soil, weathered rock, humus, organic, decayed
+soil, erosion, prevent, plants, roots, trees, grass
+fossil, remains, ancient, preserved, rock, imprint
+fossil, environment, past, ocean, marine, shells
+fossil, oldest, bottom layer, deepest
+fossil, youngest, top layer
+earthquake, plates, faults, shaking, seismic waves
+earthquake, seismograph, measure, Richter
+volcano, magma, lava, eruption, plates
+volcano, mountains, islands, ash
+mountains, plates, collide, push up, folding
+plates, tectonic, crust, move, mantle
+continental drift, Pangaea, continents, fossils, fit
+crust, thin, outer, solid, rock
+mantle, thick, hot, convection, magma
+core, iron, nickel, hot, center
+outer core, liquid, molten
+inner core, solid, pressure
+atmosphere, air, gases, layers, protects
+ozone, ultraviolet, stratosphere, protects
+greenhouse effect, carbon dioxide, heat, trapped, warming
+global warming, temperature, rising, carbon dioxide, fossil fuels, ice melting, sea level
+natural resources, air, water, soil, minerals, plants, animals
+renewable, sun, wind, water, trees, replaced, unlimited
+nonrenewable, coal, oil, gas, limited, fossil fuels, uranium
+fossil fuels, coal, oil, natural gas, ancient, plants, animals, pollution
+solar energy, sun, panels, renewable, clean
+wind energy, wind, turbines, renewable, clean
+hydroelectric, dams, water, flowing, renewable
+geothermal, heat, Earth, steam, renewable
+pollution, air, smoke, factories, cars, exhaust
+pollution, water, sewage, chemicals, oil spills, runoff
+conservation, recycle, reuse, reduce, save
+recycling, cans, paper, plastic, glass, landfill
+producers, food, make, own, sunlight, photosynthesis, plants, algae
+consumers, eat, food, other organisms, animals, cannot make
+decomposers, break down, dead, wastes, recycle, nutrients, soil, fungi, bacteria
+herbivores, plants, eat, grass, leaves, seeds
+carnivores, meat, eat, animals, hunt, prey
+omnivores, plants, animals, both, eat
+scavengers, dead, animals, eat, vultures, hyenas
+food chain, energy, Sun, producer, consumer, flows
+food chain, arrow, energy, direction, eaten
+food web, many, food chains, connected
+energy pyramid, less energy, higher levels, lost as heat
+photosynthesis, leaves, chloroplasts, chlorophyll, sunlight, glucose, oxygen, carbon dioxide, water
+photosynthesis, oxygen, released, produced, given off
+photosynthesis, carbon dioxide, absorbed, taken in, used
+respiration, oxygen, glucose, energy, carbon dioxide, released, cells
+respiration, mitochondria, energy, cells
+plants, roots, water, minerals, absorb, soil, anchor
+plants, stems, support, carry, water, food, transport
+plants, leaves, food, photosynthesis, sunlight
+plants, flowers, seeds, reproduction, fruit
+plants, seeds, new plants, grow, germinate
+plants, light, grow, toward, bend
+plants, water, wilt, droop, dry
+plants, need, light, water, air, nutrients, space
+seeds, germinate, water, warmth, oxygen
+seeds, dispersal, wind, water, animals
+pollination, pollen, bees, insects, wind, flowers, transfer
+pollen, stamen, anther, male
+ovary, pistil, seeds, female, fruit
+fruit, ovary, seeds, protects
+flower, attracts, insects, color, scent, nectar
+leaves, stomata, gases, carbon dioxide, oxygen, water vapor
+leaves, chlorophyll, green, light, absorbs
+leaves, change color, fall, chlorophyll, breaks down
+deciduous, leaves, fall, autumn, winter
+evergreen, needles, keeps, leaves, winter
+cactus, desert, water, stores, spines, thick
+cell, basic unit, life, living things, all organisms
+cell, nucleus, DNA, controls, genetic
+cell, membrane, controls, enters, leaves, boundary
+cell, wall, plant, support, rigid
+cell, chloroplast, plant, photosynthesis
+cell, mitochondria, energy, respiration
+cell, vacuole, storage, water
+cell, cytoplasm, fluid, organelles
+cells, tissue, organ, system, organism, levels
+tissue, cells, similar, function, together
+organ, tissues, together, heart, stomach, lungs, brain
+organ system, organs, together, function
+plant cell, animal cell, cell wall, chloroplasts, differ
+microscope, cells, small, magnify, observe, bacteria
+bacteria, single-celled, microscopic, disease, decomposers, helpful
+virus, disease, not alive, host, cells, infection
+fungi, mushrooms, mold, yeast, decomposers, spores
+protists, amoeba, paramecium, single-celled, pond
+DNA, genes, chromosomes, heredity, traits, nucleus
+genes, traits, inherited, parents, offspring
+traits, inherited, eye color, hair color, height, shape, born
+traits, learned, acquired, skills, language, scars, training
+offspring, parents, traits, inherit, similar, resemble
+dominant, recessive, genes, traits, alleles
+variation, differences, individuals, species, population
+adaptation, survive, environment, structure, behavior
+adaptation, camouflage, hide, color, blend, predators
+adaptation, thick fur, cold, warm, insulation
+adaptation, blubber, fat, cold, insulation, warm
+adaptation, migration, travel, food, warmer, winter
+adaptation, hibernation, sleep, winter, energy, fat
+adaptation, sharp teeth, claws, hunt, meat
+adaptation, webbed feet, swim, water
+adaptation, long neck, reach, high leaves
+adaptation, wings, fly, birds, insects
+adaptation, gills, water, breathe, oxygen
+adaptation, spines, thorns, protect, eaten
+behavior, instinct, inherited, born, automatic
+behavior, learned, experience, taught, practice
+natural selection, survive, reproduce, traits, environment, fittest
+evolution, change, species, time, generations, fossils
+extinct, extinction, gone, dinosaurs, no longer, die out
+endangered, few, protect, threatened, habitat loss
+habitat, home, food, water, shelter, space
+habitat loss, destruction, cutting trees, building, cities, endangered
+ecosystem, living, nonliving, interact, environment
+population, same species, area, group, number
+community, populations, different species, area
+competition, compete, food, water, space, limited, resources
+predator, prey, hunt, eat, population, balance
+prey, predator, population, decrease, increase
+symbiosis, mutualism, both benefit, help each other
+parasite, host, harms, feeds on
+invasive species, nonnative, spread, harm, no predators
+mammals, hair, fur, milk, live birth, warm-blooded, lungs
+birds, feathers, wings, beaks, eggs, warm-blooded
+reptiles, scales, dry skin, eggs, cold-blooded, lungs
+amphibians, moist skin, water, land, metamorphosis, cold-blooded, eggs
+fish, gills, fins, scales, water, cold-blooded, eggs
+insects, six legs, three body parts, antennae, exoskeleton, wings
+spiders, eight legs, two body parts, arachnids, web
+vertebrates, backbone, spine, skeleton, mammals, birds, reptiles, amphibians, fish
+invertebrates, no backbone, insects, spiders, worms, jellyfish, snails, crabs
+exoskeleton, outside, hard, insects, crabs, molt
+life cycle, egg, larva, pupa, adult, butterfly, metamorphosis
+life cycle, egg, tadpole, frog, metamorphosis
+life cycle, seed, seedling, plant, flower, fruit
+life cycle, birth, growth, reproduction, death
+metamorphosis, change, form, butterfly, frog, larva, pupa
+larva, caterpillar, eats, grows
+pupa, chrysalis, cocoon, changes
+tadpole, gills, tail, water
+reproduction, offspring, species, continue, survive
+heart, pumps, blood, circulatory, beats
+blood, oxygen, nutrients, carries, cells, vessels
+lungs, oxygen, carbon dioxide, breathing, respiratory
+stomach, digestion, food, acid, breaks down
+intestines, absorb, nutrients, digestion
+brain, controls, nervous, thinking, signals, nerves
+nerves, signals, messages, brain, body
+bones, support, protect, skeleton, calcium
+muscles, movement, contract, bones, pull
+skin, protects, largest organ, sweat, touch
+kidneys, filter, blood, wastes, urine
+digestive system, food, nutrients, stomach, intestines, breaks down
+circulatory system, heart, blood, vessels, transports, oxygen
+respiratory system, lungs, breathing, oxygen, carbon dioxide
+nervous system, brain, nerves, spinal cord, signals, senses
+skeletal system, bones, support, protection, shape
+muscular system, muscles, movement
+excretory system, kidneys, wastes, urine, bladder
+immune system, disease, infection, white blood cells, germs
+endocrine system, hormones, glands, growth
+reproductive system, offspring, eggs, sperm
+senses, eyes, ears, nose, tongue, skin
+eyes, sight, light, see
+ears, hearing, sound, hear
+nose, smell, odor
+tongue, taste, flavor
+skin, touch, feel, temperature, pain
+healthy, exercise, diet, sleep, nutrients, vitamins
+nutrients, proteins, carbohydrates, fats, vitamins, minerals, water
+proteins, muscles, growth, repair, meat, beans
+carbohydrates, energy, bread, rice, pasta, sugar
+fats, energy, stored, butter, oil
+vitamins, health, fruits, vegetables
+disease, germs, bacteria, viruses, spread, infection
+vaccine, prevent, disease, immunity, immune
+antibiotics, bacteria, infections, kill, medicine
+germs, wash, hands, soap, spread
+exercise, heart rate, breathing, increases, muscles, oxygen
+sleep, rest, energy, growth, health
+telescope, planets, moons, stars, galaxies, Jupiter, Saturn, Mars, Venus, comets, craters, nebula, sky, astronomer, space
+microscope, cells, bacteria, microorganisms, onion skin, cheek cells, pond water, amoeba, paramecium, tiny, organelles, slide
+hand lens, magnifying glass, insects, rocks, leaves, details, close look, observe
+thermometer, temperature, hot, cold, degrees, heat, warm, fever
+balance, mass, grams, kilograms, weigh, heavier, lighter, compare
+graduated cylinder, volume, liquid, milliliters, water, measure
+meter stick, ruler, length, height, distance, centimeters, meters, how tall, how long
+stopwatch, time, seconds, how long, timing, speed, race
+spring scale, weight, force, newtons, pull
+barometer, air pressure, storm, weather
+anemometer, wind speed, weather
+rain gauge, rainfall, precipitation, weather
+compass, direction, north, south, east, west, magnetic, navigate
+seismograph, earthquakes, seismic, vibrations, ground shaking
+astronomer, stars, planets, telescope, space
+geologist, rocks, minerals, Earth, fossils, volcanoes, earthquakes
+meteorologist, weather, forecast, clouds, storms
+biologist, living things, organisms, cells, plants, animals
+paleontologist, fossils, dinosaurs, ancient life
+chemist, chemicals, reactions, elements, compounds, substances
+physicist, forces, motion, energy, matter
+ecologist, ecosystems, environment, organisms, interactions
+botanist, plants, flowers, trees
+zoologist, animals, behavior
+oceanographer, oceans, currents, tides, marine life
+seismologist, earthquakes, seismic waves
+volume, space, takes up, amount of space, liters, cubic
+mass, amount of matter, matter, kilograms, grams
+weight, gravity, pull, force, newtons
+density, mass, volume, compact, floats, sinks
+temperature, hot, cold, heat, degrees, particles moving
+hydroelectric, moving water, falling water, flowing water, river, dam, turbine, generator, electricity
+wind turbine, moving air, wind, blades, generator, electricity
+solar panel, sunlight, light, electricity, photovoltaic
+nuclear power plant, uranium, fission, steam, electricity
+coal power plant, coal, burning, steam, turbine, electricity, pollution, carbon dioxide
+power plant, generator, turbine, electricity, steam
+steam turbine, steam, boiling water, spins, generator
+electricity, produced, generator, turbine, power plant, magnets, coils
+moving water, energy, turbine, waterwheel, erosion, river, hydroelectric
+moving air, wind, energy, turbine, windmill, sailboat, kite
+sunlight, solar, energy, photosynthesis, warmth, light, Sun
+volcanic eruption, rapid change, quickly, sudden, lava, ash
+earthquake, rapid change, quickly, sudden, minutes
+landslide, rapid change, quickly, sudden, gravity, slope
+flood, rapid change, quickly, sudden, erosion
+weathering, slow change, slowly, gradual, thousands of years
+erosion, slow change, slowly, gradual, over time
+plate movement, slow change, centimeters per year, millions of years, slowly
+gas, heated, volume increases, expands, balloon gets bigger, particles move faster
+gas, cooled, volume decreases, contracts, balloon shrinks
+air particles, heated, move faster, spread apart, less dense, rises
+balloon, hot, expands, bigger, larger, increases, inflate
+balloon, cold, shrinks, smaller, decreases, freezer
+salt, ice, roads, melts, freezing point, lowers, winter, snow
+sand, icy roads, friction, traction, slipping, safer
+large intestine, absorbs water, water, waste, feces, colon
+small intestine, absorbs nutrients, digestion, villi
+liver, bile, filters blood, digestion, fats
+gallbladder, bile, stores
+pancreas, insulin, enzymes, blood sugar
+appendix, vestigial, small intestine
+bladder, urine, stores
+opaque, no light passes, blocks all light, cannot see through, wood, metal, cardboard, brick
+translucent, some light passes, partly, blurry, frosted, wax paper, tissue paper
+transparent, all light passes, clear, see through, glass, clear plastic, water, air
+mirror, reflects light, reflection, image
+sunflower, turns toward the Sun, light, phototropism
+roots, grow down, gravity, gravitropism, water
+vines, wrap, touch, thigmotropism, climb, support
+new moon, Moon between Earth and Sun, dark side faces Earth, not visible
+full moon, Earth between Moon and Sun, fully lit
+first quarter, half, right side, waxing
+third quarter, last quarter, half, left side, waning
+crescent, thin sliver, waxing, waning
+gibbous, more than half, waxing, waning
+sound, fastest, solids, steel, iron, rock, wood, particles close together
+sound, slowest, gases, air, particles far apart
+light, fastest, vacuum, space, 300,000 km per second
+balanced forces, wall does not move, no movement, equal and opposite, pushing a wall, book on a table, at rest
+unbalanced forces, moves, starts moving, speeds up, slows down, changes direction, kicked ball
+bicycle downhill, potential energy to kinetic energy, gravity, coasting, faster
+top of hill, potential energy, highest, stored
+bottom of hill, kinetic energy, fastest, speed
+osmosis, water moves, membrane, salt water, cell shrinks, cell swells, raisin, celery
+diffusion, spreads, perfume, smell, food coloring, high to low concentration
+gold, element, pure, one kind of atom, metal, Au
+copper, element, metal, wires, conducts, Cu
+iron, element, metal, magnetic, rust, Fe
+oxygen, element, gas, O, breathing
+carbon, element, C, diamond, graphite, coal, living things
+water, compound, two elements, hydrogen and oxygen
+air, mixture, gases, nitrogen, oxygen, carbon dioxide, argon
+saltwater, mixture, solution, salt, water
+blood, mixture, plasma, cells
+steel, alloy, mixture, iron, carbon
+bronze, alloy, copper, tin
+brass, alloy, copper, zinc
+conserve water, fix leaks, leaky faucets, shorter showers, turn off tap, water at night, rain barrels, low-flow
+conserve energy, turn off lights, unplug, insulation, LED, carpool, walk, bike, public transportation
+reduce pollution, public transportation, carpool, bike, walk, electric cars, renewable energy, plant trees
+reduce waste, reuse, recycle, compost, reusable bags, bottles
+deforestation, cutting down trees, logging, habitat destruction, rain forests, erosion, carbon dioxide increases
+urbanization, building, roads, cities, habitat loss, runoff, pavement
+pollinators, bees, butterflies, hummingbirds, bats, pollinate, fruit, crops, flowers
+bees die, fewer flowers pollinated, less fruit, crops fail, pollination
+remove predators, prey population increases, overgrazing, more prey
+remove producers, consumers starve, food chain collapses
+phytoplankton, producer, ocean, photosynthesis, algae, plankton, base of food chain, oxygen
+kelp, seaweed, producer, ocean, algae
+zooplankton, consumer, ocean, tiny animals, eat phytoplankton
+krill, whales, ocean food chain, small
+coral, animal, reef, polyps, algae, symbiosis
+virus, flu, cold, chickenpox, measles, mumps, polio, HIV, rabies, smallpox, COVID
+bacteria, strep throat, food poisoning, salmonella, tuberculosis, cholera, tetanus, Lyme disease, pneumonia
+fungus, athlete's foot, ringworm, yeast infection, mold
+parasite, malaria, mosquito, tapeworm, lice, ticks
+tooth decay, bacteria, sugar, plaque, cavities
+genetic disease, sickle cell anemia, cystic fibrosis, hemophilia, inherited, genes
+scurvy, vitamin C, citrus
+rickets, vitamin D, sunlight, calcium
+anemia, iron, red blood cells
+goiter, iodine, thyroid
+night blindness, vitamin A, carrots
+brain, controls, coordinates, all organs, body systems, nervous system, commands
+heart, circulatory, pumps, blood vessels
+lungs, respiratory, oxygen enters the blood, gas exchange, alveoli
+oxygen enters the blood, lungs, alveoli, capillaries
+nutrients enter the blood, small intestine, villi
+wastes leave the blood, kidneys, urine
+levels of organization, cell, tissue, organ, organ system, organism, smallest to largest
+smallest, cell, atom, building block, unit
+largest, organism, ecosystem, biosphere
+independent variable, changed, manipulated, cause, tested, what the scientist changes
+dependent variable, measured, observed, results, effect, responds
+control variable, kept the same, constant, unchanged, controlled
+reliable results, repeat, repeated trials, many trials, large sample, more data, average
+valid experiment, one variable, control group, fair test
+gives off light, Sun, stars, fire, bulb, candle, luminous, produces light
+reflects light, Moon, planets, mirror, objects we see
+gives off heat, Sun, fire, stove, heater, burning, friction
+takes in, absorbs, plants, carbon dioxide, roots, water
+releases, gives off, oxygen, plants, photosynthesis
+releases, carbon dioxide, animals, breathing, burning, respiration
+stores, food, starch, roots, seeds, fat
+stores, energy, battery, food, fat, potential
+stores, water, cactus, camel, vacuole
+melts, ice cream, butter, chocolate, wax, ice, sun, warm day
+freezes, water, ice tray, freezer, pond, winter, puddle
+boils, kettle, pot, stove, steam, bubbles
+evaporates, puddle, wet clothes, sweat, sun, wind, dries
+condenses, mirror, bathroom, cold glass, window, droplets, fog
+expands, heated, metal, bridges, railroad tracks, balloon, mercury, thermometer
+shrinks, cooled, contracts, colder
+dissolves, sugar, salt, water, tea, coffee, drink mix
+floats, wood, ice, oil, cork, boat, less dense
+sinks, rock, metal, coin, nail, more dense
+attracts, magnet, iron, opposite charges, gravity
+repels, magnet, like poles, same charges
+conducts, metal, copper, electricity, heat
+insulates, wool, plastic, rubber, foam, keeps heat in
+reflects, mirror, shiny, white, smooth
+absorbs, black, dark, rough, sponge, paper towel
+vibrates, string, drum, vocal cords, sound
+bends light, lens, water, prism, glass, refraction
+blocks light, opaque, shadow, wall, book, hand
+lets light through, transparent, glass, window, clear
+rolls, ball, wheel, round, cylinder, ramp
+slides, smooth, ice, friction, slippery
+bounces, rubber ball, elastic, echo, reflects
+stretches, rubber band, spring, elastic, potential energy
+breaks, glass, brittle, shatters
+bends, wire, flexible, plastic, rubber
+hard, diamond, steel, rock, scratch
+soft, cotton, clay, talc, feather
+rough, sandpaper, bark, gravel, friction
+smooth, glass, ice, marble, polished, less friction
+heavy, iron, lead, rock, more mass
+light, feather, foam, paper, less mass
+hot, fire, sun, stove, oven, boiling, summer
+cold, ice, snow, freezer, winter, arctic
+wet, rain, water, moisture, humid
+dry, desert, drought, little water
+loud, thunder, drum, horn, high amplitude
+quiet, whisper, soft, low amplitude
+high pitch, whistle, bird, small, short, fast vibration, violin
+low pitch, drum, tuba, large, long, slow vibration, bass
+bright, Sun, light bulb, stars
+dark, night, shadow, absent light
+fast, cheetah, light, jet, speed
+slow, snail, turtle, sloth, glacier
+big, whale, elephant, Jupiter, Sun
+tiny, bacteria, cells, atoms, microscope
+young, offspring, baby, juvenile, seedling, larva
+old, adult, mature, aged
+day, sunlight, Sun up, light, daytime, rotation
+night, dark, Moon, stars, nighttime, rotation
+morning, sunrise, east, long shadows, dew, cool
+noon, midday, highest Sun, shortest shadow, hottest
+evening, sunset, west, long shadows
+spring, flowers bloom, warmer, rain, seeds sprout, baby animals
+summer, hottest, longest days, vacation, growing season
+fall, autumn, leaves change color, cooler, harvest, migrate
+winter, coldest, snow, shortest days, hibernate, freeze
+north, compass, Arctic, North Pole, cold, Polaris
+south, Antarctica, South Pole, migrate, warm
+east, sunrise, rises, morning
+west, sunset, sets, evening
+up, rises, warm air, hot air, less dense, helium, smoke
+down, sinks, falls, gravity, cold air, more dense, rain
+inside Earth, core, mantle, magma, heat, pressure
+surface, crust, soil, rocks, weathering, erosion
+underground, groundwater, roots, caves, burrows, fossils, minerals
+sky, atmosphere, clouds, air, birds, weather
+ocean, salt water, waves, tides, currents, fish, whales
+river, fresh water, flows, erosion, delta, current
+lake, fresh water, pond, still water
+mountain, high elevation, cold, snow, rocks, peaks
+desert, dry, sand, hot, cactus, little rain
+forest, trees, shade, animals, habitat, wood
+grassland, grass, prairie, plains, grazing
+wetland, marsh, swamp, frogs, birds, filter
+city, buildings, pollution, cars, people, pavement
+farm, crops, animals, soil, fertilizer, irrigation
+garden, plants, soil, seeds, water, sunlight, compost
+zoo, captive, endangered, breeding, protect
+laboratory, experiment, safety, goggles, equipment
+classroom, students, teacher, investigation
+kitchen, cooking, stove, heat, chemical changes, refrigerator
+refrigerator, cold, slows bacteria, preserves food, spoiling
+freezer, freezes, ice, preserves, very cold
+oven, bake, heat, hot, cooking
+microwave oven, heats food, water molecules, waves
+stove, burner, heat, conduction, pan
+pan, metal, conducts heat, cooking, handle
+pot holder, oven mitt, insulator, protects hands
+ice pack, cold, swelling, injury
+thermos bottle, insulated, vacuum, keeps temperature
+lunch box, insulated, keeps cold, keeps warm
+coat, jacket, mittens, insulation, keeps body heat, warm
+sunglasses, block light, ultraviolet, eyes, glare
+umbrella, rain, waterproof, shade
+raincoat, waterproof, plastic, rubber, keeps dry
+boots, rubber, waterproof, insulation, traction
+helmet, protection, head, impact
+goggles, eyes, protect, splash, flying debris
+gloves, hands, protect, chemicals, heat, cold
+mask, nose, mouth, breathing, dust, germs
+light switch, circuit, open, closed, electricity
+outlet, electricity, plug, current, appliances
+wire, copper, conducts, insulated, plastic coating
+battery, stored chemical energy, flashlight, remote, toy
+light bulb, filament, glows, electricity, heat, light
+solar calculator, light, electricity, solar cell
+electric fan, motor, moving air, cool
+blender, motor, electrical energy, motion, mechanical
+hair dryer, heat, electrical, fan
+television, screen, light, sound, electrical
+cell phone, radio waves, battery, signals, communication
+radio, radio waves, sound, antenna
+computer, electricity, data, information
+car, engine, gasoline, burning fuel, motion, exhaust, pollution
+electric car, battery, less pollution, motor
+bicycle, pedals, gears, wheels, human energy, no pollution
+airplane, lift, wings, jet fuel, air resistance, flight
+boat, floats, buoyancy, displaces water
+rocket, thrust, fuel, launch, space, exhaust
+train, tracks, wheels, electric, diesel
+skateboard, wheels, friction, motion, push
+sled, snow, friction, slides, downhill
+swing, pendulum, back and forth, potential, kinetic, gravity
+slide, playground, friction, gravity, downhill, static electricity
+seesaw, lever, fulcrum, balance, playground
+merry-go-round, wheel and axle, rotate, spin
+trampoline, elastic, spring, potential energy, bounce
+kite, wind, lift, string, air
+sailboat, wind, sails, moving air
+windmill, wind, grinding, pumping water, turbine
+water wheel, flowing water, river, mill, energy
+dam, reservoir, hydroelectric, flooding control, river, blocks
+bridge, steel, expansion joints, strong, support, engineers
+building, materials, steel, concrete, wood, brick, insulation
+road, asphalt, pavement, runoff, salt
+sidewalk, cracks, expansion, weathering, roots, freezing
+statue, marble, limestone, acid rain, weathering, damaged
+gravestone, weathering, acid rain, worn, old
+cave, limestone, dissolved, groundwater, stalactites, bats
+canyon, river, erosion, layers, Grand Canyon, millions of years
+beach, sand, waves, erosion, deposition, tides
+sand dune, wind, deposition, desert, beach
+island, volcano, coral, surrounded by water
+peninsula, water on three sides, Florida
+valley, between mountains, river, glacier, erosion
+plain, flat, farming, grassland
+plateau, flat, high, elevated
+delta, river mouth, deposition, sediment, fertile
+glacier, ice, moves, slowly, erosion, valleys, moraines, melting
+iceberg, floats, glacier, fresh water ice, less dense
+volcano island, Hawaii, Iceland, lava, hot spot
+earthquake zone, California, Japan, plate boundaries, faults
+hurricane zone, Florida, Gulf Coast, warm ocean
+tornado alley, Great Plains, Kansas, Oklahoma, thunderstorms
+monsoon, seasonal rain, India, wind shift
+chloroplasts, leaf, leaves, plant, green, stem
+cell wall, plant, leaf, onion, tree, rigid
+large vacuole, plant cell, leaf, water
+no cell wall, animal cell, human, dog, cheek cell, skin cell
+nerve cells, long, branches, signals, brain
+muscle cells, contract, movement, many mitochondria
+red blood cells, no nucleus, hemoglobin, oxygen, disc
+root hair cells, absorb, water, surface area
+guard cells, stomata, open, close, leaf
+sperm, tail, swim, egg, fertilize
+egg cell, large, food supply, fertilized
+lion, sharp teeth, tearing meat, carnivore, claws, predator
+cow, flat teeth, grinding grass, herbivore, chew cud
+hawk, eagle, sharp eyesight, talons, beak, hunting
+woodpecker, strong beak, pecks, trees, insects
+hummingbird, long thin beak, nectar, flowers, hovering
+pelican, pouch, fish, scoop
+duck, webbed feet, swim, waterproof feathers, flat bill
+owl, night vision, silent flight, nocturnal, mice
+bat, echolocation, night, insects, sound waves
+snake, smell with tongue, swallow whole, no legs
+frog, sticky tongue, insects, long legs, jump
+giraffe, long neck, tall trees, leaves
+elephant, trunk, large ears, cool, tusks
+camel, hump, desert, stores fat, survive without water
+polar bear, thick fur, blubber, white, cold, swim, seals
+penguin, blubber, feathers, huddle, cold, swim
+fox, arctic fox, white fur, winter, brown fur, summer, camouflage
+snowshoe hare, white winter, brown summer, camouflage, big feet
+chameleon, color change, camouflage, long tongue
+walking stick, stick insect, looks like twig, camouflage
+monarch butterfly, migration, Mexico, milkweed, poisonous, warning colors
+viceroy butterfly, mimicry, looks like monarch
+skunk, spray, odor, defense
+turtle, shell, protection, slow, reptile
+armadillo, armor, shell, rolls up
+cheetah, fastest, speed, running, hunt
+squirrel, gathers nuts, stores food, winter, bushy tail
+beaver, dams, gnaw, trees, ponds, flat tail
+bear, hibernate, winter, fat stores, omnivore
+geese, migrate, south, winter, V formation
+salmon, swim upstream, spawn, migrate
+whale, migrate, warm waters, give birth, blubber
+earthworm, aerate soil, decompose, tunnels, castings
+ant, colony, work together, carry food, social insects
+bee, pollinate, honey, hive, dance, communicate
+mosquito, spreads disease, malaria, bites, blood
+fly, maggots, decomposer, spreads germs
+spider, web, silk, traps insects
+wolf, pack, hunt together, howl
+cactus, spines, reduce water loss, thick stem, shallow roots, store water
+water lily, floating leaves, pond, air spaces
+mangrove, salt water, roots, coast
+pine tree, needles, cones, evergreen, cold
+maple tree, deciduous, seeds, wings, helicopter, sap
+oak tree, acorns, deciduous, wood
+dandelion, seeds, wind, parachutes, dispersal
+coconut, floats, ocean, seeds, dispersal
+burdock, burrs, hooks, animal fur, dispersal, Velcro
+apple, fruit, seeds, eaten, dispersal, flower
+strawberry, runners, asexual reproduction
+potato, tuber, eyes, asexual, stores starch
+fern, spores, fronds, shade, moist
+moss, spores, moist, shade, no roots, rocks
+mushroom, spores, decomposer, fungus, dead logs
+mold, bread, fungus, spores, decomposer, damp
+yeast, bread rises, fungus, carbon dioxide, fermentation, budding
+lichen, rocks, pioneer, fungus and algae, mutualism
+algae, ponds, oceans, photosynthesis, oxygen, producer
+bacteria, yogurt, cheese, decomposers, disease, nitrogen
+virus, flu, colds, needs host cell, vaccine
+heavy rain, flooding, erosion, runoff, landslides
+drought, crops fail, wildfires, water shortage, plants die
+volcanic eruption, ash, lava flows, gases, new land, cooler climate
+earthquake, ground shakes, buildings collapse, tsunami, landslides, cracks
+hurricane, flooding, storm surge, high winds, damage, coastal
+tornado, destroys buildings, high winds, debris
+forest fire, destroys habitat, ash, new growth, succession, smoke
+glacier melting, sea level rise, flooding, fresh water
+cutting trees, erosion, habitat loss, less oxygen, more carbon dioxide, flooding
+building dams, flooding upstream, fish migration blocked, electricity, reservoir
+pollution, acid rain, smog, health problems, dead fish, algae blooms
+fertilizer runoff, algae bloom, oxygen depletion, fish die, lakes
+oil spill, birds, fish, coated, die, ocean, beaches
+plastic waste, ocean, turtles, birds, entangled, swallowed
+burning fossil fuels, carbon dioxide, global warming, air pollution, acid rain
+global warming, ice caps melt, sea levels rise, coral bleaching, droughts, stronger storms
+overhunting, extinction, endangered, population decline, passenger pigeon, bison
+introducing species, invasive, competition, native species decline
+new predator, prey decreases, prey population falls
+more food, population increases, growth
+less food, population decreases, starvation, competition increases
+disease, population decreases, deaths
+more predators, fewer prey, prey decrease
+fewer predators, more prey, prey increase, overgrazing
+more plants, more herbivores, food increases
+sunlight blocked, plants die, food chain affected, photosynthesis stops
+temperature rises, ice melts, water expands, evaporation increases
+temperature drops, water freezes, ice, frost, snow
+air rises, cools, condenses, clouds form, rain
+air sinks, warms, clear skies, high pressure
+warm air rises, cold air sinks, convection, wind
+uneven heating, land and water, wind, breezes
+heating metal, expands, longer, bigger
+cooling metal, contracts, shorter
+adding heat, temperature increases, particles faster, melting, boiling
+removing heat, temperature decreases, particles slower, freezing, condensing
+adding force, acceleration, faster, speeds up
+more mass, more force needed, harder to move, more inertia
+more friction, slower, more heat, harder to slide
+less friction, faster, easier to slide, smoother
+higher ramp, faster, more potential energy, steeper
+steeper slope, faster, more erosion, runoff
+more coils, stronger electromagnet
+more batteries, brighter bulb, more current
+longer wire, more resistance, dimmer
+louder sound, more energy, larger vibrations, amplitude
+closer light source, larger shadow
+farther light source, smaller shadow
+light source moves, shadow moves, opposite direction
+taller object, longer shadow
+plants without light, turn yellow, die, no photosynthesis, pale
+plants without water, wilt, die
+seeds without water, do not germinate
+too much fertilizer, burns plants, runoff
+smoking, lung disease, cancer, heart disease
+exercise, stronger heart, stronger muscles, healthy weight
+junk food, sugar, fat, tooth decay, obesity
+washing hands, prevents spread of germs, fewer illnesses
+vaccination, immunity, fewer diseases, herd immunity
+sun exposure, sunburn, skin cancer, vitamin D
+loud noises, hearing loss, damage, ears
+lack of sleep, tired, poor concentration, weak immune
+Isaac Newton, Newton, gravity, laws of motion, apple, force, prism, light, colors
+Galileo, telescope, Jupiter's moons, moons of Jupiter, falling objects, pendulum, Sun-centered
+Copernicus, Sun-centered, heliocentric, Sun at the center, planets orbit the Sun
+Ptolemy, Earth-centered, geocentric, Earth at the center
+Kepler, elliptical orbits, planets, ellipse
+Charles Darwin, Darwin, evolution, natural selection, finches, Galapagos, Origin of Species
+Gregor Mendel, Mendel, heredity, genetics, pea plants, dominant, recessive
+Louis Pasteur, Pasteur, germs, pasteurization, vaccines, rabies, bacteria, spoiled milk
+Alexander Fleming, Fleming, penicillin, antibiotic, mold, bacteria
+Edward Jenner, Jenner, vaccine, smallpox, cowpox
+Robert Hooke, Hooke, cells, cork, microscope
+Anton van Leeuwenhoek, Leeuwenhoek, microscope, bacteria, microorganisms
+Thomas Edison, Edison, light bulb, phonograph, invention, electricity
+Benjamin Franklin, Franklin, electricity, lightning, kite, lightning rod
+Marie Curie, Curie, radioactivity, radium, polonium
+Albert Einstein, Einstein, relativity, E=mc2, energy, mass, light
+Alfred Wegener, Wegener, continental drift, Pangaea, continents
+Edwin Hubble, Hubble, galaxies, expanding universe, telescope
+Watson and Crick, DNA, double helix, structure
+Rosalind Franklin, DNA, x-ray, double helix
+Jane Goodall, chimpanzees, primates, behavior, observation
+Rachel Carson, Silent Spring, pesticides, DDT, environment
+George Washington Carver, peanuts, crop rotation, agriculture, soil
+Dmitri Mendeleev, periodic table, elements
+John Dalton, atomic theory, atoms
+Ernest Rutherford, nucleus, atom, gold foil
+Niels Bohr, electron orbits, energy levels, atom
+Archimedes, buoyancy, lever, displacement, water
+Alexander Graham Bell, telephone, sound
+Wright brothers, airplane, flight
+Neil Armstrong, Moon, first person, Apollo 11, walked
+Carl Linnaeus, classification, binomial nomenclature, scientific names
+light-year, distance, stars, far, space
+astronomical unit, distance, Earth to Sun, solar system
+joule, energy, work, heat
+calorie, food energy, heat, energy
+newton, force, weight
+watt, power, electricity, light bulb
+kilowatt-hour, electrical energy, electric bill
+volt, voltage, battery, electrical potential
+ampere, amp, current, electricity
+ohm, resistance, electricity
+hertz, frequency, waves per second, sound
+decibel, loudness, sound intensity, noise
+Celsius, temperature, water freezes at 0, boils at 100
+Fahrenheit, temperature, 32, 212
+Kelvin, temperature, absolute zero
+kilogram, mass, gram, balance
+liter, volume, milliliter, liquid
+cubic centimeter, volume, solid, length times width times height
+meter, length, distance, centimeter, kilometer, millimeter
+second, time, minute, hour
+meters per second, speed, velocity
+knot, wind speed, ships
+pascal, pressure, millibar, barometer
+grams per cubic centimeter, density
+percent, humidity, relative
+degrees, temperature, angle
+Richter scale, earthquake, magnitude
+pH scale, acidity, acid, base
+Mohs scale, hardness, minerals, scratch
+Beaufort scale, wind speed
+Fujita scale, tornado, damage
+Saffir-Simpson, hurricane, category, wind speed
+water, universal solvent, dissolves, many substances
+water, high specific heat, heats slowly, cools slowly, moderates climate, coastal
+water, surface tension, insects walk, drops, beads
+water, density, 1 gram per milliliter, ice floats, expands when frozen
+water, cohesion, adhesion, capillary action, plants, xylem
+water, polar molecule, hydrogen bonds
+water, three states, solid, liquid, gas, ice, steam, vapor, naturally
+water, covers, 70 percent, Earth's surface, oceans
+water, needed, life, cells, organisms, survival
+water, pure, distilled, neutral, no taste
+water, drinking, clean, filtered, treated
+engineer, design, build, solve problems, test, improve
+design, criteria, constraints, cost, materials, safety, time
+prototype, model, test, first version, redesign
+bridge, design, strong, triangles, steel, arches, load
+building, earthquake resistant, flexible, base isolation, steel frames
+insulation, energy efficient, house, attic, walls, heating, cooling
+solar house, passive solar, windows face south, sunlight, heat
+materials, choose, properties, strength, cost, weight, durability
+strong, steel, concrete, titanium, carbon fiber
+lightweight, aluminum, plastic, carbon fiber, foam
+waterproof material, plastic, rubber, wax, vinyl
+fireproof, asbestos, ceramic, brick
+biodegradable, breaks down, paper, food, natural, decompose
+nonbiodegradable, plastic, styrofoam, glass, metal, landfills
+recycle, aluminum, saves energy, less mining
+technology, improves, communication, transportation, medicine, agriculture
+computer, model, simulation, predict, weather, data analysis
+satellite, images, weather forecasting, GPS, communication, mapping
+GPS, satellites, location, navigation
+radar, radio waves, storms, weather, airplanes, speed
+sonar, sound waves, ocean depth, submarines, fish
+x-ray machine, bones, medicine, images
+MRI, magnets, radio waves, images, body
+microscope, electron microscope, viruses, very small
+telescope, Hubble, galaxies, space, light
+robot, automation, factories, exploration, Mars rovers
+vaccine development, technology, medicine, disease prevention
+genetic engineering, crops, resistant, pests, bacteria, insulin
+irrigation, farming, water, crops, dry areas, technology
+refrigeration, food preservation, bacteria, slows spoilage
+canning, food preservation, heat, sealed, bacteria
+pasteurization, milk, heat, kills bacteria
+freezing food, preserves, slows bacteria
+drying food, dehydration, preserves, raisins, jerky
+salting food, preserves, removes water
+soil, natural resource, farming, plants, erosion, conservation
+minerals, natural resource, mining, metals, ores
+iron ore, steel, mining, magnetic
+aluminum, bauxite, cans, lightweight, recycle
+copper, wires, pipes, conducts, mining
+gold, jewelry, valuable, does not rust, malleable
+silver, jewelry, conducts, tarnishes
+sand, glass, quartz, concrete, beaches
+clay, pottery, bricks, ceramics
+limestone, cement, concrete, building
+granite, countertops, buildings, monuments
+marble, statues, buildings
+coal, electricity, power plants, steel
+oil, gasoline, plastics, heating, petroleum, refinery
+natural gas, heating, cooking, methane, pipelines
+uranium, nuclear power, radioactive
+timber, wood, lumber, trees, paper, renewable
+fresh water, drinking, irrigation, limited, conserve
+air, natural resource, oxygen, wind energy
+fish, natural resource, food, overfishing
+erosion, washing away, washed away, wearing away, wore away, carried away, blown away, wash away, wear away, worn away
+weathering, breaking down, broke down, break apart, breaking apart, cracking, crumbling, wearing down, worn down
+deposition, piling up, piled up, building up, built up, settling, settled, dropped off, left behind
+evaporation, drying up, dried up, dries up, disappears, goes into the air
+condensation, fogging up, fogged up, droplets form, water drops form
+melting, melted away, turns to liquid, gets soft
+decomposition, rotting away, breaking down, decays, decaying, breaks down
+digestion, breaking down food, breaks down food, absorbed
+photosynthesis, taking in sunlight, making food, makes food, uses sunlight
+respiration, breathing out, breathing in, gives off, takes in
+releases, gives off, given off, let off, puts out, sends out, emits
+absorbs, takes in, taken in, soaks up, soaked up
+attracts, pulls toward, sticks to, picks up
+repels, pushes away, pushed away
+reflects, bounces off, bounced off, bounce back
+expands, gets bigger, spreads out, swells, increases in size
+contracts, gets smaller, shrinks, decreases in size
+accelerates, speeds up, sped up, gets faster
+decelerates, slows down, slowed down, gets slower
+vibrates, moves back and forth, shakes, quivers
+rotates, spins around, turns around, spinning
+revolves, goes around, travels around, circles
+migrates, moves south, travels south, flies south, moves to warmer places
+hibernates, sleeps through winter, rests all winter, inactive
+camouflage, blends in, blend in, hard to see, hides, matches surroundings
+adaptation, helps it survive, survive in, suited to
+pollution, dirty air, dirty water, smog, litter, trash, smoke
+conserve, saving water, save water, saving energy, turn off, use less
+recycle, reusing, reuse, use again, make new products
+flooding, overflowing, overflow, too much rain, water rises
+drought, no rain, dry spell, lack of rain
+warming, heats up, heated up, gets warmer, temperature rises
+cooling, cools down, cooled down, gets colder, temperature drops
+dissolves, mixes in, disappears in water, dissolved
+filters, strains, separates out, catches
+grows, gets taller, gets bigger, increases in height
+germinates, sprouts, begins to grow, starts to grow
+reproduces, makes offspring, has babies, produces young
+inherits, gets from parents, passed down, passed on
+learns, taught, practice, trained, experience
+cell, cells, basic unit, smallest unit, building blocks, all living things, organisms, microscope, cell theory
+cell membrane, membrane, controls, what enters, leaves the cell, boundary, protects, barrier, passes in and out
+cell wall, plant cells, rigid, support, shape, cellulose, structure, bacteria, fungi
+nucleus, control center, controls, DNA, genetic material, chromosomes, genes, instructions, directs
+mitochondria, mitochondrion, energy, powerhouse, cellular respiration, releases energy, food into energy, ATP
+chloroplast, chloroplasts, chlorophyll, photosynthesis, green, plant cells, light energy, sunlight
+vacuole, vacuoles, storage, stores water, stores, wastes, large vacuole
+ribosome, ribosomes, protein, proteins, make proteins, synthesis
+cytoplasm, jelly-like, fluid, organelles
+organelle, organelles, nucleus, mitochondria, chloroplasts, ribosomes
+plant cell, cell wall, chloroplasts, large vacuole, rectangular
+animal cell, no cell wall, round, small vacuoles
+unicellular, single-celled, one cell, bacteria, amoeba, paramecium, protist, protists, yeast
+multicellular, many cells, specialized cells, tissues, organs
+tissue, tissues, cells, similar cells, organ, organs, organ system, organism, levels of organization
+levels of organization, cell, tissue, organ, organ system, organism
+specialized cells, nerve cells, muscle cells, red blood cells, function, specific job
+cell division, mitosis, divides, growth, repair, new cells, identical, replace
+meiosis, sex cells, gametes, sperm, egg, half, chromosomes
+bacteria, bacterium, single-celled, prokaryote, no nucleus, decomposers, infection, disease, microorganisms, microbes
+virus, viruses, flu, cold, influenza, not living, host cell, infects, reproduce inside cells
+fungi, fungus, mushrooms, mold, yeast, spores, decomposers, cannot make their own food, absorb
+protist, protists, algae, amoeba, paramecium, euglena, pond water
+algae, photosynthesis, producers, pond, ocean, oxygen, phytoplankton
+microscope, microscopes, magnify, magnifies, cells, small, tiny, lens, lenses, bacteria, observe cells
+hand lens, magnifying glass, magnify, enlarge, look closely, observe, details
+photosynthesis, sunlight, light energy, chlorophyll, carbon dioxide, water, glucose, sugar, oxygen, leaves, food, produce food, make food, chloroplasts
+photosynthesis, carbon dioxide, takes in, absorbs, from the air, gas
+photosynthesis, oxygen, releases, gives off, produces, byproduct
+photosynthesis, glucose, sugar, food, stores energy, chemical energy
+producers, producer, plants, make their own food, photosynthesis, autotrophs, sunlight, algae
+plants need, sunlight, light, water, air, carbon dioxide, nutrients, soil, space, minerals
+roots, root, absorb, absorbs, take in water, water, nutrients, minerals, soil, anchor, anchors, hold, underground
+stem, stems, transport, carries water, support, upright, xylem, phloem, trunk
+xylem, water, transport, roots to leaves, up
+phloem, sugar, food, transport, from leaves
+leaves, leaf, photosynthesis, food, make food, sunlight, stomata, chlorophyll, green
+stomata, stoma, openings, pores, gas exchange, carbon dioxide, oxygen, water vapor, transpiration, guard cells
+flower, flowers, reproduction, reproduce, pollen, pollination, seeds, petals, stamen, pistil, ovary, fruit
+pollination, pollen, pollinators, bees, bee, butterflies, hummingbirds, insects, wind, flowers, nectar, transfer
+pollen, stamen, anther, male, pollen grains, fertilize
+pistil, ovary, ovule, stigma, female, seeds develop
+seed, seeds, embryo, germinate, germination, sprout, seed coat, new plant, stored food
+germination, germinate, sprout, sprouts, water, warmth, temperature, oxygen, seed, grow
+fruit, fruits, seeds, ovary, protect seeds, disperse, dispersal, apple, berries
+seed dispersal, disperse, spread, wind, animals, fur, eaten, droppings, float, water, burrs, hooks
+spores, ferns, mosses, mushrooms, fungi, reproduce, no seeds
+moss, mosses, nonvascular, no roots, moist, damp, small
+ferns, spores, vascular, fronds
+conifers, cones, pine, evergreen, needles, gymnosperms, seeds
+deciduous, lose leaves, fall, autumn, winter, broad leaves
+evergreen, keep leaves, needles, year round
+phototropism, tropism, grows toward light, bends, toward the light, window, sunlight
+gravitropism, geotropism, roots grow down, gravity, downward
+thigmotropism, touch, vines, climbing
+cactus, cacti, desert, stores water, thick stem, spines, waxy, little water, dry
+tubers, potato, potatoes, store food, starch, underground
+plants, grow, growth, height, taller, water, fertilizer, sunlight, measured
+fertilizer, nutrients, nitrogen, phosphorus, potassium, growth, crops, runoff, algae bloom
+wilts, wilting, wilted, not enough water, dry, droop
+plants, carbon dioxide, absorb, oxygen, release
+asexual reproduction, one parent, identical, clone, budding, cuttings, runners, bulbs, fission, binary fission
+sexual reproduction, two parents, variation, different, egg, sperm, fertilization, genetic variety
+classification, classify, kingdom, phylum, class, order, family, genus, species, taxonomy, characteristics, Linnaeus
+species, same species, interbreed, reproduce, fertile offspring
+vertebrate, vertebrates, backbone, spine, spinal column, fish, amphibians, reptiles, birds, mammals
+invertebrate, invertebrates, no backbone, insects, worms, jellyfish, spiders, snails, octopus, sponges, crabs, exoskeleton
+mammal, mammals, hair, fur, milk, mammary, live birth, warm-blooded, nurse, young, lungs, whales, bats, dolphins
+bird, birds, feathers, wings, beaks, beak, lay eggs, hard-shelled eggs, warm-blooded, hollow bones, fly
+reptile, reptiles, scales, scaly skin, dry skin, cold-blooded, leathery eggs, lizards, snakes, turtles, crocodiles, alligators
+amphibian, amphibians, frogs, toads, salamanders, moist skin, metamorphosis, water and land, gills, lungs, tadpoles, cold-blooded
+fish, gills, fins, scales, water, cold-blooded, swim, swim bladder
+insect, insects, six legs, three body parts, head, thorax, abdomen, antennae, exoskeleton, wings
+spider, spiders, arachnid, eight legs, two body parts, web, webs
+arthropod, arthropods, exoskeleton, jointed legs, segmented, insects, crustaceans, spiders, crabs, molt
+exoskeleton, molt, molting, protection, support, outer, hard covering, shell
+cold-blooded, ectotherm, body temperature changes, environment, bask, sun
+warm-blooded, endotherm, constant body temperature, maintain, stable
+gills, oxygen, water, breathe, fish, tadpoles
+lungs, breathe, oxygen, air, mammals, reptiles, birds
+adaptation, adaptations, adapted, survive, survival, environment, trait, traits, helps, structure, behavior
+camouflage, blend, blends, blend in, hide, hiding, predators, same color, colors, coloring, white fur, snow, spots, stripes, background
+mimicry, mimic, looks like, imitate, harmless, poisonous, warning colors, bright colors
+warning coloration, bright colors, poisonous, toxic, predators, avoid
+hibernation, hibernate, hibernates, winter, sleep, dormant, inactive, fat, energy, bears, cold, food is scarce, survive winter
+migration, migrate, migrates, birds, south, winter, travel, warmer, food, seasons, geese, whales, monarch, butterflies
+instinct, instincts, inborn, innate, born with, inherited behavior, not learned, spider spinning web, migration
+learned behavior, learn, learned, experience, taught, practice, training, parents, observation, trick
+dormant, dormancy, seeds, winter, inactive, rest
+nocturnal, night, active at night, owls, bats, large eyes, darkness
+diurnal, daytime, active during the day
+thick fur, blubber, fat, insulation, cold, warm, arctic, polar bear, layer of fat, keep warm
+large ears, desert, release heat, cool, fennec fox, jackrabbit
+webbed feet, swimming, ducks, water, paddle
+sharp teeth, canine, tear meat, carnivore, predator
+flat teeth, grind, molars, plants, herbivore
+claws, talons, grasp, catch prey, hawk, eagle, owls
+beak, beaks, food, seeds, crack seeds, short thick, long thin, nectar, insects, finches
+long neck, giraffe, tall trees, reach leaves
+quills, spines, defense, porcupine, protection, shell, armor, turtle, sting
+hump, camel, fat storage, desert
+gills, fins, streamlined, swim, water
+echolocation, bats, dolphins, sound, echo, navigate, find food
+pheromone, scent, smell, ants, communicate
+social, colony, colonies, bees, ants, cooperate, work together, queen, workers, hive
+courtship, mating, display, attract mate, peacock, feathers, song
+territory, defend, territorial
+nests, nest, eggs, protect young, shelter, burrow, dens
+life cycle, stages, birth, growth, reproduction, death, adult, young, offspring
+metamorphosis, complete metamorphosis, egg, larva, pupa, adult, caterpillar, chrysalis, cocoon, butterfly, moth, beetle
+incomplete metamorphosis, egg, nymph, adult, grasshopper, dragonfly, cricket, molt
+frog, tadpole, tadpoles, eggs, metamorphosis, legs, tail, gills, lungs, amphibian
+butterfly, caterpillar, chrysalis, pupa, larva, metamorphosis, eggs
+egg, eggs, hatch, hatches, lay, laid, incubate, embryo, yolk
+offspring, young, parents, inherit, resemble, babies
+heredity, inherited, inherit, inherits, traits, passed down, parents, offspring, genes, DNA, genetic
+gene, genes, DNA, chromosome, chromosomes, alleles, traits, instructions, code, nucleus
+DNA, double helix, genetic code, nucleus, chromosomes, genes, nucleotides, bases, heredity
+dominant, recessive, alleles, Punnett square, genotype, phenotype, homozygous, heterozygous, Mendel, pea plants
+Mendel, pea plants, heredity, genetics, traits, dominant, recessive
+inherited trait, inherited traits, eye color, hair color, blood type, dimples, freckles, height, born with, genes
+acquired trait, acquired traits, learned, environment, scar, scars, injury, language, reading, riding, skill, tan, not inherited, during lifetime
+mutation, mutations, change in DNA, genes, variation, random, new trait
+variation, variations, differences, individuals, diversity, sexual reproduction
+natural selection, survival of the fittest, adapted, survive, reproduce, pass on, traits, Darwin, evolution, favorable, beneficial
+evolution, evolve, evolved, changes over time, generations, species, natural selection, common ancestor, fossils, Darwin
+Darwin, finches, Galapagos, natural selection, evolution, beaks
+extinction, extinct, die out, no longer exist, dinosaurs, dodo, habitat loss, cannot adapt
+selective breeding, artificial selection, breeders, desired traits, dogs, crops, farmers
+cloning, clone, identical, genetic engineering, genetically modified
+endangered, endangered species, protect, habitat loss, few remaining, conservation, threatened
+genetic engineering, genetically modified, insert gene, bacteria, insulin, crops, resistant
+hypothesis, hypotheses, prediction, predict, educated guess, testable, if then, explanation
+experiment, experiments, investigation, test, testing, procedure, steps, trials, repeat, data, results
+variable, variables, independent variable, dependent variable, controlled variables, constant, changed, manipulated, measured, responding
+independent variable, manipulated variable, changed, cause, tested, one variable
+dependent variable, responding variable, measured, observed, effect, outcome, results
+control group, control, comparison, compare, unchanged, constant, no treatment, standard
+controlled variables, kept the same, constant, same, identical conditions, fair test, only one variable
+repeat, repeated trials, repeat the experiment, many trials, more trials, reliable, reliability, valid, accurate, consistent, larger sample size
+data, data table, record, recorded, results, measurements, observations, chart, table, graph, notebook, journal, log
+graph, bar graph, line graph, pie chart, circle graph, data, trends, change over time, plot, axis
+line graph, change over time, continuous, trends, time
+bar graph, compare, categories, amounts
+circle graph, pie chart, percentages, parts of a whole
+observation, observations, observe, observed, senses, see, hear, notice, qualitative, quantitative, measure
+inference, infer, inferences, conclusion, explanation, based on observations, reasoning
+conclusion, conclusions, results, data, analyze, analysis, support, evidence, supported, explain
+evidence, data, observations, supports, support, proof, facts
+theory, scientific theory, well-tested, explanation, evidence, many experiments
+law, scientific law, describes, always, pattern, repeated observations
+model, models, represent, representation, diagram, simulation, globe, map, scale model
+communicate, share results, publish, report, peer review, other scientists, scientists share, replicate
+scientist, scientists, investigate, question, curiosity, evidence, skeptical, honest
+safety, safety goggles, goggles, eye protection, gloves, apron, lab coat, protect, fire extinguisher, eyewash, wash hands, closed-toe shoes, tie back hair
+goggles, eyes, protect eyes, chemicals, splash, safety glasses, heating, glass
+gloves, hands, chemicals, bacteria, samples, handling
+laboratory, lab, safety rules, no food, no eating, no drinking, teacher, follow directions, clean up, dispose properly, report accidents
+fire, flame, Bunsen burner, hot plate, heating, test tube, point away, tongs, oven mitts, heat-resistant
+chemicals, never taste, waft, smell, label, labeled, dispose
+accident, spill, broken glass, tell the teacher, report, injury
+technology, invention, inventions, engineers, engineering, design, problem, solution, improve, prototype, criteria, constraints
+engineering design, design process, define the problem, brainstorm, prototype, test, redesign, improve, constraints, criteria
+prototype, model, test, design
+computer, computers, data, calculate, analyze, spreadsheet, process data
+calculator, calculate, average, mean, arithmetic
+average, mean, sum, divide, total, number of trials
+precision, precise, accuracy, accurate, exact, close together, true value
+metric system, SI, meters, liters, grams, Celsius, standard units, scientists use
+units, consistent, same units, compare
+estimate, estimation, approximate, about
+classification, sort, group, characteristics, properties, similar, dichotomous key, key, identify
+dichotomous key, identify, classify, characteristics, two choices, organisms
+cause, effect, relationship, correlation, trend, increase, decrease
+increase, increases, increased, more, greater, higher, rises, grow
+decrease, decreases, decreased, less, fewer, lower, drops, decline
+matter, mass, volume, takes up space, atoms, anything
+solid, solids, definite shape, definite volume, own shape, fixed shape, rigid, particles vibrate, tightly packed, close together, ice
+liquid, liquids, definite volume, takes the shape of its container, shape of the container, flows, pour, poured, particles slide past
+gas, gases, no definite shape, no definite volume, fills, fills the container, spreads out, expands, far apart, particles move quickly, compress, compressed
+states of matter, solid, liquid, gas, plasma, phase, phases
+melting, melts, melt, melted, solid to liquid, heat, ice melts, melting point, warmer, absorb heat
+freezing, freezes, freeze, frozen, liquid to solid, 0 degrees, zero degrees, 32 degrees, freezing point, cold, ice, loses heat
+boiling, boils, boil, boiled, boiling point, 100 degrees, 212 degrees, bubbles, steam, water vapor, liquid to gas
+evaporation, evaporates, liquid to gas, water vapor, surface, heat, dries
+condensation, condenses, gas to liquid, cools, water droplets, cold surface, outside of a cold glass
+sublimation, sublimes, solid to gas, dry ice, carbon dioxide
+water, expands when it freezes, ice floats, less dense, ice
+particles, molecules, move faster, speed up, kinetic energy, heated, temperature increases, spread apart, expand
+particles, molecules, slow down, cooled, temperature decreases, contract, closer together
+expand, expands, expansion, heated, warmer, thermal expansion, bigger, larger
+contract, contracts, contraction, cooled, colder, smaller, shrink
+physical change, physical changes, change of state, shape, size, cut, cutting, tearing, folding, crushing, melting, freezing, boiling, dissolving, same substance, reversible, no new substance, mixing
+chemical change, chemical changes, chemical reaction, new substance, new substances, burning, rusting, rust, cooking, baking, rotting, digesting, souring, gas produced, bubbles, color change, temperature change, light, precipitate, fizzing, irreversible
+rust, rusting, rusts, iron, oxygen, water, moisture, oxidation, chemical change, nail, steel
+burning, burn, burns, combustion, fire, flame, oxygen, fuel, heat, light, ashes, carbon dioxide, wood, candle, chemical change
+cooking, baking, bake, fried, toasted, egg, cake, bread, chemical change
+mixture, mixtures, mixed, combined, separated, physically, salad, trail mix, sand and water, can be separated, each keeps its properties
+solution, solutions, dissolve, dissolves, dissolved, dissolving, solute, solvent, salt water, sugar water, evenly mixed, homogeneous
+solubility, soluble, dissolves, insoluble, does not dissolve, sugar, salt, sand, temperature, stirring, faster
+dissolve faster, stirring, hot water, heating, crushing, smaller pieces, surface area
+separate, separating, filter, filtration, sand, evaporation, magnet, sieve, screen, decant, distillation
+filter, filters, filter paper, remove, separate solids from liquids, sand from water
+magnet, separate iron, iron filings, attracts iron
+evaporate, separate salt from water, salt remains, left behind
+physical property, physical properties, color, shape, size, texture, mass, volume, density, hardness, odor, smell, boiling point, melting point, magnetism, conductivity, state, observe, measure
+chemical property, chemical properties, flammability, flammable, reactivity, reacts, rusting, burn
+mass, grams, kilograms, balance, amount of matter, does not change, same mass, conservation of mass
+weight, gravity, force of gravity, newtons, spring scale, changes on Moon, pull of gravity
+volume, liters, milliliters, cubic centimeters, graduated cylinder, displacement, space occupied, length times width times height
+density, dense, mass divided by volume, mass per volume, float, floats, sink, sinks, less dense, more dense, g/cm3
+float, floats, floating, less dense than water, buoyancy, buoyant, wood, cork, boat, ice
+sink, sinks, sinking, more dense, denser, rock, metal, iron
+buoyancy, buoyant force, float, upward force, displaced water, Archimedes
+conservation of mass, mass is conserved, same mass, closed system, reactants, products, neither created nor destroyed
+atom, atoms, smallest particle, element, protons, neutrons, electrons, nucleus, building blocks of matter
+proton, protons, positive charge, positive, nucleus, atomic number
+neutron, neutrons, no charge, neutral, nucleus
+electron, electrons, negative charge, negative, orbit, energy levels, shells, cloud, outside the nucleus
+nucleus, protons and neutrons, center of an atom, most of the mass
+element, elements, one kind of atom, periodic table, pure substance, symbol, gold, oxygen, carbon, hydrogen, iron
+periodic table, elements, atomic number, groups, periods, metals, nonmetals, Mendeleev, rows, columns
+compound, compounds, two or more elements, chemically combined, bonded, water, H2O, carbon dioxide, CO2, salt, NaCl, sugar, formula
+molecule, molecules, atoms bonded, joined, two or more atoms
+chemical formula, formula, H2O, CO2, NaCl, O2, subscript
+water, H2O, two hydrogen, one oxygen, hydrogen and oxygen
+carbon dioxide, CO2, one carbon, two oxygen
+table salt, salt, sodium chloride, NaCl, sodium, chlorine
+chemical bond, bonds, covalent, ionic, share electrons, transfer electrons
+covalent bond, covalent bonds, share, sharing, shared electrons, pair of electrons, nonmetals, oxygen gas, molecules
+ionic bond, ionic, transfer, ions, sodium chloride, metal and nonmetal
+metals, metal, shiny, luster, conduct electricity, conductors, conduct heat, malleable, ductile, iron, copper, aluminum, gold, silver
+nonmetals, dull, brittle, insulators, poor conductors, oxygen, carbon, sulfur, nitrogen
+noble gases, helium, neon, argon, unreactive, inert, stable
+hydrogen, lightest, H, most abundant, fuel, water
+helium, balloons, lighter than air, noble gas
+oxygen, O2, breathe, combustion, burning, respiration, 21 percent
+carbon, organic, living things, diamond, graphite, coal
+acid, acids, sour, pH less than 7, low pH, lemon juice, vinegar, citric, hydrochloric, litmus, turns blue litmus red, corrosive
+base, bases, bitter, slippery, pH greater than 7, high pH, soap, baking soda, ammonia, bleach, turns red litmus blue, alkaline
+pH, acidity, scale, 0 to 14, neutral, 7, acid, base, indicator, litmus
+neutral, pH 7, pure water, distilled water
+neutralize, neutralization, acid and base, salt and water
+indicator, litmus paper, color change, pH paper, cabbage juice
+reactants, products, chemical equation, arrow, yields, reaction
+catalyst, speeds up, reaction rate, enzyme
+reaction rate, temperature, concentration, surface area, faster, catalyst
+exothermic, releases heat, gives off heat, warmer, energy released
+endothermic, absorbs heat, colder, cold pack, energy absorbed
+baking soda, vinegar, bubbles, carbon dioxide, gas, fizz, reaction
+alloy, alloys, mixture of metals, bronze, steel, brass
+plastic, plastics, synthetic, petroleum, insulator, lightweight, polymer
+synthetic, man-made, nylon, polyester, plastic, artificial
+natural materials, wood, cotton, wool, silk, leather
+properties of materials, flexible, hard, soft, waterproof, strong, transparent, absorbent, magnetic
+absorbent, absorbs, paper towel, sponge, cotton, soaks up water
+waterproof, raincoat, rubber, plastic, does not absorb water
+rotation, rotates, rotate, spins, spin, spinning, axis, day and night, 24 hours, one day, daily
+day and night, rotation, Earth rotates, Earth spins, axis
+revolution, revolves, revolve, orbits, orbit, around the Sun, one year, 365 days, year, yearly
+year, 365 days, one revolution, orbit, around the Sun
+Moon, revolves around Earth, 27 days, month, monthly, about 28 days, one month
+phases of the Moon, phases, full moon, new moon, crescent, gibbous, quarter, waxing, waning, reflected sunlight, month
+Moon, reflects, reflected light, reflects sunlight, does not make its own light, no light of its own
+Moon, craters, crater, impacts, meteorites, no atmosphere, no air, no water, no wind
+Moon, gravity, one-sixth, less gravity, weigh less, weight
+tides, Moon, gravity, gravitational pull, ocean
+solar eclipse, eclipse, Moon between, blocks the Sun, shadow, new moon
+lunar eclipse, eclipse, Earth between, Earth's shadow, full moon
+Sun, star, closest star, nearest star, medium-sized, yellow star, center of the solar system, gravity
+Sun, nuclear fusion, fusion, hydrogen, helium, energy, light, heat, gas
+Sun, rise, rises, sunrise, east, morning
+Sun, set, sets, sunset, west, evening
+shadow, shadows, noon, shortest, longest, morning, evening, opposite, sun position, blocks light
+shadow, length, changes, position of the Sun, during the day, Earth's rotation
+star, stars, light-years, distance, brightness, luminosity, temperature, color, giant, dwarf, nebula, constellation
+star, color, temperature, blue, hottest, red, coolest, white, yellow
+star, life cycle, nebula, red giant, white dwarf, supernova, black hole, neutron star
+constellation, constellations, patterns, Big Dipper, Orion, seasons, night sky, move across the sky
+stars, appear, move, across the sky, night, Earth rotates
+galaxy, galaxies, Milky Way, spiral, billions of stars, universe
+universe, galaxies, Big Bang, expanding
+solar system, planets, Sun, orbit, asteroids, comets, moons, eight planets
+Mercury, closest to the Sun, smallest planet, hot, craters
+Venus, hottest planet, thick atmosphere, clouds, greenhouse effect, carbon dioxide
+Earth, third planet, liquid water, life, atmosphere, oxygen
+Mars, red planet, red, iron oxide, rust, dust, Olympus Mons, polar ice caps, rover
+Jupiter, largest planet, biggest, gas giant, Great Red Spot, storm, moons
+Saturn, rings, ring, gas giant, ice
+Uranus, tilted, sideways, ice giant
+Neptune, farthest, coldest, blue, ice giant, windy
+outer planets, gas giants, Jupiter, Saturn, Uranus, Neptune, large, gas, rings, many moons
+inner planets, terrestrial, rocky, Mercury, Venus, Earth, Mars, small, solid
+Pluto, dwarf planet, Kuiper belt, small
+asteroid, asteroids, asteroid belt, Mars, Jupiter, rocky
+comet, comets, tail, ice, dust, frozen, orbit, Halley's comet
+meteor, meteors, shooting star, burns up, atmosphere, meteoroid, meteorite, friction
+gravity, keeps, planets in orbit, orbit, pulls, Sun's gravity, mass
+telescope, telescopes, distant, stars, planets, galaxies, observe, magnify, Hubble, space telescope
+satellite, satellites, orbit, communication, GPS, weather satellites, artificial
+space, vacuum, no air, astronauts, spacesuit, oxygen
+astronaut, astronauts, space shuttle, space station, weightless, microgravity, rocket
+rocket, thrust, launch, exhaust, action and reaction, fuel
+light-year, distance light travels, year, distance, far
+planet, orbits a star, reflects light, does not produce light
+light from the Sun, eight minutes, 8 minutes, travels
+seasons, axis, tilt, tilted, revolution

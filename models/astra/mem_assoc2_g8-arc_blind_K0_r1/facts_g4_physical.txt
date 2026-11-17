@@ -1,0 +1,267 @@
+# Handwritten physics coverage. Comparisons assume other relevant quantities fixed.
+# Negative scale means pair-only evidence, not a negative answer weight.
+# Scalar comparisons use distinct adjectives rather than swapping word order.
+kinetic faster | increase greater | decrease | -1.0
+kinetic slower | decrease less | increase | -1.0
+kinetic heavier | increase greater | decrease | -1.0
+momentum faster | increase greater | decrease | -1.0
+momentum slower | decrease less | increase | -1.0
+momentum heavier | increase greater | decrease | -1.0
+inertia heavier | increase greater | decrease | -1.0
+inertia lighter | decrease less | increase | -1.0
+potential higher | height gravitational stored | | -1.0
+potential elevated | gravitational stored height
+potential stretched | elastic spring stored
+potential compressed | elastic spring stored
+speed doubling | distance double equal time
+kinetic squared | speed velocity
+kinetic quadruple | double speed
+mass doubling | inertia momentum proportional
+momentum doubling | mass speed proportional
+acceleration heavier | less decrease | increase | -1.0
+acceleration stronger | greater increase | decrease | -1.0
+force accelerate | mass product newton
+force turning | velocity direction acceleration
+sustained rest | balanced zero resultant | acceleration | -1.0
+coasting friction | slowing deceleration thermal | | -1.0
+frictionless coasting | constant velocity inertia | acceleration | -1.0
+pushing stationary | balanced friction | acceleration | -1.0
+pushing moving | applied force friction
+balanced accelerating | impossible | possible | -1.0
+interaction forces | action reaction equal opposite simultaneous different objects | | -1.0
+reaction force | simultaneous opposite equal interaction different bodies
+collision truck | momentum inertia mass
+collision seatbelt | restrains inertia protects occupant
+bus braking | passenger inertia forward
+bus accelerating | passenger inertia backward
+car turning | inward centripetal force
+car curve | friction centripetal direction
+ball circular | centripetal inward acceleration
+orbit direction | constantly changing velocity acceleration
+orbit speed | gravity distance centripetal
+satellite weightlessness | continuous freefall gravity | absent | -1.0
+astronaut floating | freefall orbit gravity
+moon falling | gravity acceleration lower
+vacuum feather | same acceleration falling hammer
+vacuum paper | same acceleration falling coin
+air crumpled | reduced drag faster falling
+paper flattened | greater drag slower falling
+parachute larger | drag increase slower descent
+parachute holes | reduced drag faster descent
+parachute opening | drag upward deceleration
+raindrop terminal | drag gravity balanced constant
+terminal acceleration | zero balanced | increasing | -1.0
+slope downhill | gravity acceleration potential kinetic
+slope uphill | kinetic gravitational potential
+ball tossed | gravity trajectory parabola
+ball apex | height gravitational potential turning
+projectile horizontal | constant velocity inertia | acceleration | -1.0
+projectile vertical | gravity acceleration downward
+projectile path | parabola curved trajectory
+pendulum shorter | faster oscillation | slower | -1.0
+pendulum longer | slower oscillation | faster | -1.0
+pendulum friction | amplitude decrease heat
+pendulum release | gravitational potential kinetic
+pendulum bottom | maximum speed kinetic
+pendulum turning | maximum height potential
+spring oscillation | elastic potential kinetic
+swing pumping | work energy amplitude
+rollercoaster friction | heat mechanical energy decrease
+rollercoaster loop | centripetal acceleration direction
+bouncing ball | elastic kinetic potential sound heat
+bouncing lower | energy thermal sound deformation
+ball impact | compression deformation elastic
+ball inflation | pressure elasticity bounce
+brakes rubbing | friction thermal kinetic
+shoe tread | grip traction friction
+icy driving | reduced friction braking distance
+sand slippery | increased friction traction
+sandpaper wood | friction abrasion roughness
+wax skis | friction reduced smooth
+bearing wheel | rolling friction reduced
+lubricated axle | smooth motion protection | friction wear heat | -1.0
+sliding roughness | friction heat increased
+static friction | grip traction contact | sliding | -1.0
+kinetic friction | sliding contact motion opposing
+rolling resistance | deformation wheel surface
+airfoil | wing lift pressure airflow
+propeller | pushes fluid backward thrust
+jet exhaust | action reaction thrust forward
+rocket vacuum | reaction exhaust momentum | air required | -1.0
+oar rowing | pushes water backward forward reaction
+paddle boat | action reaction water
+swimmer wall | pushes backward reaction forward
+spring scale stretch | weight force elastic
+balance moon | mass unchanged comparison
+scale moon | weight less gravity
+mass location | unchanged matter
+weight location | gravity changes
+pressure wider | decrease less | increase | -1.0
+pressure narrower | increase greater | decrease | -1.0
+snowshoes sinking | spread weight area pressure decrease
+stiletto floor | small area greater pressure
+tractor tracks | large area less pressure
+needle sharp | small contact area high pressure
+blunt knife | greater force needed pressure
+depth diver | water pressure increases
+dam bottom | thicker greater pressure
+water tower | height pressure gravity
+hydraulic piston | fluid pressure force multiplication
+hydraulic area | larger piston greater force
+straw drinking | pressure difference atmosphere pushes liquid
+suction cup | atmospheric pressure seal
+syringe plunger | pressure volume displacement
+balloon altitude | lower pressure expansion
+sealed syringe | volume pressure inverse
+piston compression | gas pressure increased
+compressed air | stored energy pressure
+sealed rigid heating | gas pressure increase
+sealed flexible heating | gas expansion volume increase
+gas absolutezero | lowest kelvin temperature
+gas cooling | particle speed pressure decrease
+water pressure boiling | higher boiling temperature
+mountain boiling | lower pressure temperature
+pressure cooker | higher pressure boiling temperature
+vacuum boiling | lower pressure temperature
+boat hollow | average density displacement buoyancy
+boat overloaded | weight exceeds buoyancy sinking
+ship steel | hollow air average density
+saltwater egg | greater fluid density buoyancy floating
+freshwater iceberg | low ice density floating
+iceberg submerged | most volume water displacement
+submarine diving | ballast water density increase
+submarine surfacing | ballast air density decrease
+lifejacket | low density flotation buoyancy
+swim bladder | fish buoyancy gas volume
+heated balloon | less dense air buoyancy
+helium hydrogen | less dense air balloon
+buoyant displacement | weight displaced fluid
+floating submerged | displacement balances weight
+# Heat and state changes: energy is distinct from temperature.
+contact temperature | thermal conduction equilibrium
+equal temperature | equilibrium constant | net transfer | -1.0
+hotter object | thermal energy transferred colder
+cooler object | absorbs heat warmer
+metal handle | conduction thermal transfer
+wood handle | insulation protection | conduction | -1.0
+touch cold | heat leaves skin conduction
+touch hot | heat enters skin conduction
+tile carpet | conductivity difference same temperature
+metal carpet | conductivity difference same temperature
+thermal camera | infrared radiation temperature
+infrared thermometer | detects thermal radiation
+thermogram | infrared image temperature
+thermal blanket | infrared reflection insulation
+emergency blanket | reflective infrared reduced heat loss
+black kettle | absorbs radiation efficiently
+white roof | reflects sunlight reduced heating
+shiny kettle | reflects radiation low absorption
+solar cooker | reflectors sunlight thermal energy
+solar oven | absorbed radiation heat trapped
+vacuum insulation | blocked | conduction convection | -1.0
+vacuum radiation | electromagnetic heat transfer
+thermos stopper | insulation sealed | conduction convection | -1.0
+double glazing | trapped air insulation | conduction | -1.0
+loft insulation | trapped air reduced heat loss
+down jacket | trapped air thermal insulation
+wet clothes | evaporation latent heat cooling
+sweating humid | evaporation slower cooling reduced
+sweating windy | evaporation faster cooling
+evaporation molecules | energetic escape surface cooling
+boiling molecules | vapor bubbles throughout liquid
+boiling temperature | constant latent heat vaporization
+melting temperature | constant latent heat fusion
+cooling condensation | latent heat release gas liquid
+freezing latent | heat released constant temperature
+water freezing | expansion ice lower density
+water thawing | ice melting absorbed heat
+water supercooled | liquid below freezing metastable
+sublimation dryice | solid gas carbon dioxide
+frost deposition | gas solid crystals
+evaporation closed | vapor condensation equilibrium
+evaporation uncovered | water amount decreases
+water reservoir | thermal inertia high specific heat
+coastal temperature | moderated high specific heat water
+concrete asphalt | absorbs solar radiation heats
+city warmer | heat island dark pavement
+thermal expansion gaps | accommodate size increase
+overhead wires | sag heating expansion
+winter wires | contract cooling tension
+jar tight | heat lid expansion loosens
+thermostat bimetallic | unequal expansion bends
+# Waves, hearing, and optics.
+sound source | vibrating matter
+sound amplitude | loudness energy intensity
+sound frequency | pitch hertz
+sound louder | greater amplitude | frequency | -1.0
+pitch higher | frequency faster vibration | slower | -1.0
+pitch lower | frequency slower vibration | faster | -1.0
+pitch shorter | vibrating length frequency increase
+pitch tighter | tension frequency increase
+pitch thicker | vibrating mass frequency decrease
+guitar pluck | string vibration sound
+guitar tighten | frequency pitch increase
+guitar shorten | frequency pitch increase
+drum tension | tighter pitch higher
+drum harder | amplitude louder
+flute air | vibrating column sound
+flute shorter | frequency pitch increase
+bottle blowing | vibrating air column
+bottle fuller | air column shorter higher pitch
+bottle tapping | vibrating glass water mass
+echo delay | distance sound travel time
+sonar depth | reflected sound roundtrip time
+ultrasound imaging | reflected high frequency sound
+echolocation | reflected sound locate prey obstacles
+soundproof | absorption insulation silence | transmission
+carpet echo | absorption damping | reflection | -1.0
+curtain echo | absorption damping | reflection | -1.0
+sound soft | absorption damping | echo reflection | -1.0
+hard acoustics | sound reflection echo
+vacuum bell | absent silence | sound | -1.0
+wave transport | energy | bulk matter | -1.0
+wave floating | particle oscillation energy transfer
+ripple cork | up down oscillation
+longitudinal particles | parallel oscillations compressions
+transverse particles | perpendicular oscillations
+compression rarefaction | longitudinal sound wave
+compression spacing | wavelength longitudinal
+crest trough | transverse amplitude wavelength
+wave closer | shorter wavelength higher frequency
+wave spreading | diffraction aperture edge
+wave overlap | interference superposition
+constructive overlap | increased amplitude
+ destructive overlap | decreased amplitude cancellation
+reflected angle | equal incidence normal
+plane mirror | reflection virtual upright reversed
+plane mirror distance | equal object image
+curved spoon | concave convex reflection
+convex mirror | upright smaller wide field
+concave reflector | focuses parallel light
+periscope | mirrors reflection
+kaleidoscope | multiple reflections mirrors
+refraction boundary | speed wavelength transmission
+refraction oblique | bending direction changes | | -1.0
+pencil water | refraction apparent bent
+pool shallow | refraction apparent depth
+prism spectrum | dispersion wavelength refraction
+raindrop rainbow | refraction reflection dispersion
+red wavelength | longer visible
+violet wavelength | shorter visible
+red frequency | lower visible
+violet frequency | higher visible
+white light | mixture visible colors spectrum
+black object | absorbs visible wavelengths
+white object | reflects visible wavelengths
+red object | reflects red
+blue object | reflects blue
+opaque shadow | blocks light straight path
+transparent image | transmits light clear
+translucent image | scattered light blurred
+pinhole image | inverted light straight
+lens convex | converges light focus
+lens concave | diverges light spreads
+magnifying glass sunlight | focus concentrated heat
+optical fiber | total internal reflection
+fiberoptic | light total internal reflection communication
+laser | coherent monochromatic narrow light

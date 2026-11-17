@@ -1,0 +1,70 @@
+# waves, sound and light (second set)
+A wave is a disturbance that carries energy from one place to another without carrying matter.
+Mechanical waves, such as sound waves, water waves and seismic waves, need a medium, a solid, liquid or gas, to travel through.
+Electromagnetic waves, such as light, radio waves and x rays, do not need a medium and can travel through empty space.
+In a transverse wave the medium moves perpendicular, at right angles, to the direction the wave travels, like a wave on a rope or light.
+In a longitudinal or compression wave the medium moves back and forth parallel to the direction the wave travels, like sound.
+The crest is the high point of a transverse wave and the trough is the low point.
+Wavelength is the distance from one crest to the next crest.
+Amplitude is the height of a wave from its rest position; larger amplitude means more energy.
+Frequency is the number of waves that pass a point each second, measured in hertz.
+Higher frequency waves have shorter wavelengths; lower frequency waves have longer wavelengths.
+Waves can be reflected, refracted, diffracted and absorbed.
+Reflection is when a wave bounces off a surface.
+Refraction is when a wave bends as it passes from one medium into another and changes speed.
+Diffraction is when a wave bends around an obstacle or spreads out through an opening.
+Sound is a wave of vibrations that travels through matter.
+All sounds are made by vibrating objects, such as a guitar string, a drum head, vocal cords or a speaker cone.
+Sound travels fastest in solids, slower in liquids and slowest in gases.
+Sound travels about 343 meters per second in air, faster in water, and even faster in steel.
+Sound cannot travel through a vacuum, such as outer space, because there are no particles to vibrate.
+Pitch is how high or low a sound is; it depends on the frequency of the vibrations.
+Faster vibrations make a higher pitch; slower vibrations make a lower pitch.
+Short, thin, tight strings vibrate faster and make higher pitches; long, thick, loose strings make lower pitches.
+A small drum or short air column makes a higher pitch than a large drum or long air column.
+Loudness, or volume, depends on the amplitude of the sound wave; plucking or hitting harder makes a louder sound.
+Loudness is measured in decibels; very loud sounds can damage hearing.
+An echo is a sound reflected off a surface back to the listener.
+Soft materials such as carpet, curtains, foam and cloth absorb sound; hard smooth surfaces such as walls, tile and glass reflect sound.
+Bats and dolphins use echolocation, sending out sounds and listening for echoes to find food and objects.
+Sonar uses reflected sound waves to find objects under water and measure depth.
+Ultrasound is sound with a frequency too high for humans to hear; it is used to make images of the inside of the body.
+Infrasound is sound with a frequency too low for humans to hear; elephants and whales use it to communicate.
+Dogs can hear higher pitched sounds than humans can.
+The Doppler effect is the change in pitch of a sound as its source moves toward or away from you, like a passing siren.
+Light is a form of electromagnetic energy that travels as waves and can travel through empty space.
+Light travels in straight lines until it hits something.
+Light travels at about 300,000 kilometers per second in a vacuum, the fastest speed in the universe.
+Light travels much faster than sound, which is why we see lightning before we hear thunder.
+Shadows form when an opaque object blocks light; a shadow is larger when the object is closer to the light source.
+Luminous objects such as the Sun, stars, fire and light bulbs give off their own light; we see other objects because they reflect light into our eyes.
+We see an object when light reflected from it enters our eyes.
+Light can be reflected, absorbed, transmitted or refracted when it hits an object.
+The law of reflection: the angle at which light hits a mirror equals the angle at which it reflects.
+Smooth shiny surfaces such as mirrors reflect light in one direction and form images; rough surfaces scatter light.
+A plane mirror forms an image that is upright, the same size, and reversed left to right.
+Concave mirrors curve inward and can magnify or focus light, as in flashlights, headlights and telescopes; convex mirrors curve outward and show a wider view, as in car side mirrors and store security mirrors.
+Refraction makes a straw look bent in a glass of water and makes a pool look shallower than it is.
+A lens is a curved piece of clear glass or plastic that refracts light.
+A convex lens is thicker in the middle; it brings light rays together and can magnify objects, as in magnifying glasses, microscopes, cameras and the human eye.
+A concave lens is thinner in the middle; it spreads light rays apart.
+Eyeglasses use lenses to correct vision: nearsighted people use concave lenses and farsighted people use convex lenses.
+White light is a mixture of all the colors of the visible spectrum: red, orange, yellow, green, blue, indigo and violet.
+A prism separates white light into a spectrum of colors because each color bends a different amount.
+A rainbow forms when sunlight is refracted and reflected by raindrops, separating it into colors; you see a rainbow with the Sun behind you.
+Red light has the longest wavelength and lowest frequency of visible light; violet has the shortest wavelength and highest frequency.
+An object looks a certain color because it reflects that color of light and absorbs the others; a red apple reflects red light.
+White objects reflect all colors of light; black objects absorb all colors of light.
+The sky looks blue because molecules in the air scatter blue light more than other colors.
+Sunsets look red and orange because sunlight passes through more air, which scatters away the blue light.
+The electromagnetic spectrum from longest to shortest wavelength is radio waves, microwaves, infrared, visible light, ultraviolet, x rays and gamma rays.
+Radio waves carry radio, television and cell phone signals.
+Microwaves are used in microwave ovens to heat food and in radar and communication.
+Infrared radiation is felt as heat; night vision cameras and remote controls use infrared.
+Ultraviolet light from the Sun causes sunburn and skin cancer and helps the skin make vitamin D; sunscreen blocks it.
+X rays pass through soft tissue but not bone, so they are used to make images of bones.
+Gamma rays have the most energy and are used to kill cancer cells.
+Lasers produce a narrow, intense beam of light of one color.
+Fiber optic cables carry information as pulses of light through thin glass fibers by total internal reflection.
+Cell phones, radios, Wi Fi and GPS send information using electromagnetic radio waves; information can be sent as digital signals of ones and zeros.
+Digital signals are more reliable than analog signals because they are less affected by noise.

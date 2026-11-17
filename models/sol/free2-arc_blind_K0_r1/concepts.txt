@@ -1,0 +1,135 @@
+# Named lexical concepts. Alternatives are separated by semicolons.
+carbon_dioxide | carbon dioxide; co2; carbondioxide
+carbon_monoxide | carbon monoxide; co
+water_molecule | water; h2o
+sodium_chloride | sodium chloride; nacl
+methane | methane; ch4
+ammonia | ammonia; nh3
+sulfur_dioxide | sulfur dioxide; sulphur dioxide; so2
+nitrogen_dioxide | nitrogen dioxide; no2
+atp | ATP; adenosine triphosphate
+dna | DNA; deoxyribonucleic acid
+rna | RNA; ribonucleic acid
+cellular_respiration | cellular respiration; cell respiration
+red_blood_cell | red blood cell; red cell; erythrocyte; erythrocytes
+white_blood_cell | white blood cell; white cell; leukocyte; leukocytes
+blood_vessel | blood vessel; blood vessels
+heart_system | circulatory system; cardiovascular system; blood circulation system
+respiratory_system | respiratory system; breathing system
+skeletal_system | skeletal system; skeleton
+nervous_system | nervous system; neural system
+endocrine_system | endocrine system; hormone system
+urinary_system | urinary system; excretory system
+small_intestine | small intestine; small bowel
+large_intestine | large intestine; colon; large bowel
+spinal_column | vertebral column; spinal column; backbone
+spinal_cord | spinal cord; spinal nerve cord
+cell_membrane | cell membrane; plasma membrane; cytoplasmic membrane
+mitochondria | mitochondria; mitochondrion
+stomata | stomata; stoma; leaf pore; leaf pores
+endoplasmic_reticulum | endoplasmic reticulum; ER
+rough_er | rough endoplasmic reticulum; rough ER
+golgi | Golgi apparatus; Golgi body; Golgi complex
+asexual_reproduction | asexual reproduction; asexually reproduces
+sexual_reproduction | sexual reproduction; sexually reproduces
+binary_fission | binary fission; fission bacteria
+natural_selection | natural selection; survival fittest
+artificial_selection | artificial selection; selective breeding
+photosynthesis | photosynthesis; photosynthetic process
+producer | producer; autotroph; autotrophs; autotrophic
+consumer | consumer; heterotroph; heterotrophs; heterotrophic
+warm_blooded | warm blooded; warmblooded; endotherm; endotherms; endothermic animal
+cold_blooded | cold blooded; coldblooded; ectotherm; ectotherms; ectothermic animal
+fresh_water | fresh water; freshwater
+salt_water | salt water; saltwater; saline water
+sea_level | sea level; ocean level
+carbon_cycle | carbon cycle; carbon cycling
+water_cycle | water cycle; watercycle; hydrologic cycle; hydrological cycle
+nitrogen_cycle | nitrogen cycle; nitrogen cycling
+food_web | food web; feeding web
+food_chain | food chain; feeding chain
+energy_pyramid | energy pyramid; trophic pyramid
+carrying_capacity | carrying capacity; maximum sustainable population
+biodiversity | biodiversity; biological diversity; species diversity
+solar_cell | solar cell; photovoltaic cell; photovoltaic panel; solar panel
+hydroelectric | hydroelectric; hydropower; hydroelectricity; hydroelectric power
+solar_system | solar system; planetary system
+sunrise | sunrise; sun rises
+sunset | sunset; sun sets
+milky_way | Milky Way; Milky Way galaxy
+light_year | light year; lightyear; lightyears
+main_sequence | main sequence; mainsequence
+black_hole | black hole; blackhole
+xray | xray; xrays; x ray; x rays
+gamma_ray | gamma ray; gamma radiation
+radio_wave | radio wave; radio radiation
+infrared | infrared; infra red; IR
+ultraviolet | ultraviolet; ultra violet; UV
+visible_light | visible light; visible radiation
+kinetic_energy | kinetic energy; motion energy
+potential_energy | potential energy; stored energy
+thermal_energy | thermal energy; heat energy
+chemical_energy | chemical energy; energy chemical bonds
+elastic_energy | elastic potential energy; elastic energy; spring potential energy
+gravitational_energy | gravitational potential energy; gravitational energy
+plate_tectonics | plate tectonics; tectonic plate theory
+continental_drift | continental drift; drifting continents
+seafloor_spreading | seafloor spreading; sea floor spreading
+mid_ocean_ridge | mid ocean ridge; midocean ridge; oceanic ridge
+inner_core | inner core; solid core
+outer_core | outer core; liquid core
+ground_water | ground water; groundwater
+greenhouse_effect | greenhouse effect; greenhouse warming
+acid_rain | acid rain; acid precipitation; acidic precipitation
+sea_breeze | sea breeze; sea breezes
+land_breeze | land breeze; land breezes
+relative_humidity | relative humidity; air humidity
+dew_point | dew point; dewpoint
+heat_capacity | specific heat; specific heat capacity; specificheat
+thermal_conduction | thermal conduction; heat conduction
+thermal_convection | thermal convection; heat convection
+thermal_radiation | thermal radiation; heat radiation
+convergent | convergent; converging; converge; converges
+ divergent | divergent; diverging; diverge; diverges
+net_force | net force; resultant force
+mass_number | mass number; atomic mass number
+atomic_number | atomic number; proton number
+atomic_mass | atomic mass; relative atomic mass
+chemical_change | chemical change; chemical reaction
+physical_change | physical change; physical alteration
+mechanical_weathering | mechanical weathering; physical weathering
+chemical_weathering | chemical weathering; rock chemical alteration
+independent_variable | independent variable; manipulated variable
+ dependent_variable | dependent variable; responding variable; response variable
+controlled_variable | controlled variable; constant variable
+control_group | control group; untreated group; comparison group
+experimental_group | experimental group; treatment group; treated group
+random_sample | random sample; random sampling
+sample_size | sample size; number samples
+balanced_force | balanced force; equal opposite forces
+unbalanced_force | unbalanced force; nonzero net force
+parallel_circuit | parallel circuit; branched circuit
+series_circuit | series circuit; single path circuit
+closed_circuit | closed circuit; complete circuit
+open_circuit | open circuit; incomplete circuit
+positive_charge | positive charge; positively charged
+negative_charge | negative charge; negatively charged
+neutral_charge | neutral charge; electrically neutral; zero charge; no charge
+fixed_shape | definite shape; fixed shape; constant shape
+variable_shape | no definite shape; not definite shape; variable shape; changing shape
+fixed_volume | definite volume; fixed volume; constant volume
+variable_volume | no definite volume; not definite volume; variable volume; changing volume
+longitudinal_wave | longitudinal wave; compression wave; compressional wave
+transverse_wave | transverse wave; transverse disturbance
+perpendicular | perpendicular; right angle; right angles
+parallel | parallel; parallel direction
+negative_feedback | negative feedback; feedback inhibition
+high_concentration | high concentration; concentrated solution
+low_concentration | low concentration; dilute solution
+no_new_substance | no new substance; no new substances; not form new substances; same substances remain
+no_energy_required | no energy required; energy not required; not require energy; without energy
+no_backbone | no backbone; lacks backbone; without backbone; no spinal column
+zero_acceleration | no acceleration; zero acceleration; acceleration zero; not accelerating
+zero_net_force | zero net force; net force zero; no net force
+no_current | no current; zero current; current zero; current stops
+no_travel | cannot travel; cannot propagate; not travel

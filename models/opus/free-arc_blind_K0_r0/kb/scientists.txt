@@ -1,0 +1,78 @@
+# scientists and discoveries
+Isaac Newton described the three laws of motion and the law of universal gravitation, and showed that white light is made of colors using a prism.
+Albert Einstein developed the theory of relativity and the equation E equals m c squared, showing that mass can be changed into energy.
+Galileo Galilei improved the telescope, observed moons of Jupiter, and showed that objects of different masses fall at the same rate.
+Nicolaus Copernicus proposed the Sun centered model of the solar system.
+Johannes Kepler described the elliptical orbits of planets.
+Aristotle was an ancient Greek philosopher who classified animals and plants and thought heavier objects fall faster.
+Archimedes discovered the principle of buoyancy and explained how levers work.
+Charles Darwin proposed the theory of evolution by natural selection after his voyage on the HMS Beagle to the Galapagos Islands.
+Gregor Mendel, a monk, experimented with pea plants and discovered the basic laws of heredity, dominant and recessive traits.
+Carl Linnaeus created the system of classifying and naming organisms with genus and species names.
+Robert Hooke observed cork cells with a microscope and named them cells.
+Anton van Leeuwenhoek made simple microscopes and was first to see bacteria and other microorganisms, which he called animalcules.
+Louis Pasteur showed that microorganisms cause disease and spoilage, disproved spontaneous generation, and developed pasteurization and a rabies vaccine.
+Edward Jenner created the first vaccine using cowpox to protect against smallpox.
+Alexander Fleming discovered penicillin, the first antibiotic, from mold.
+Jonas Salk developed the first polio vaccine.
+James Watson and Francis Crick described the double helix structure of DNA, using X ray images made by Rosalind Franklin.
+Marie Curie studied radioactivity and discovered the elements polonium and radium; she won two Nobel Prizes.
+Dmitri Mendeleev arranged the elements into the first periodic table and predicted undiscovered elements.
+John Dalton proposed the atomic theory that all matter is made of atoms.
+Ernest Rutherford discovered the nucleus of the atom with his gold foil experiment.
+Niels Bohr proposed a model of the atom in which electrons travel in energy levels around the nucleus.
+J J Thomson discovered the electron.
+Antoine Lavoisier showed that mass is conserved in chemical reactions and named oxygen and hydrogen.
+Benjamin Franklin experimented with electricity and showed that lightning is electricity; he invented the lightning rod.
+Alessandro Volta invented the first electric battery.
+Michael Faraday discovered that a moving magnet can produce an electric current, which led to the electric generator and motor.
+Thomas Edison invented a practical light bulb, the phonograph and many other devices.
+Nikola Tesla developed alternating current electricity and electric motors.
+Alexander Graham Bell invented the telephone.
+The Wright brothers, Orville and Wilbur, built and flew the first powered airplane in 1903.
+Guglielmo Marconi developed the radio.
+Johannes Gutenberg invented the printing press.
+James Watt improved the steam engine.
+Samuel Morse invented the telegraph and Morse code.
+George Washington Carver developed hundreds of uses for peanuts and promoted crop rotation to improve soil.
+Rachel Carson wrote Silent Spring, warning about the dangers of pesticides like DDT to birds and the environment.
+Jane Goodall studied chimpanzees in the wild and observed them using tools.
+John James Audubon studied and painted birds of North America.
+John Muir worked to protect wilderness and helped create national parks.
+Edwin Hubble discovered that there are other galaxies beyond the Milky Way and that the universe is expanding.
+Alfred Wegener proposed the hypothesis of continental drift.
+Harry Hess proposed sea floor spreading.
+James Hutton is called the father of geology; he proposed that Earth's processes work slowly over long periods of time.
+Charles Richter developed the Richter scale to measure earthquake strength.
+Anders Celsius created the Celsius temperature scale; Daniel Fahrenheit created the Fahrenheit scale and the mercury thermometer.
+Lord Kelvin created the Kelvin temperature scale, which starts at absolute zero.
+Georg Ohm discovered the relationship between voltage, current and resistance.
+Hippocrates is called the father of medicine.
+William Harvey discovered how blood circulates through the body.
+Mae Jemison was the first African American woman in space.
+Sally Ride was the first American woman in space.
+Stephen Hawking studied black holes and the origin of the universe.
+Carl Sagan was an astronomer who explained science to the public.
+Jacques Cousteau explored the oceans and helped invent scuba diving equipment.
+# temperature scales and constants
+Water freezes at 0 degrees Celsius, 32 degrees Fahrenheit and 273 kelvin.
+Water boils at 100 degrees Celsius, 212 degrees Fahrenheit and 373 kelvin at sea level.
+Absolute zero, 0 kelvin, is the coldest possible temperature, when particles have the least motion.
+Normal human body temperature is about 37 degrees Celsius or 98.6 degrees Fahrenheit.
+The speed of light is about 300,000 kilometers per second.
+The speed of sound in air is about 340 meters per second, or about one kilometer every three seconds.
+# inventions and history of technology
+Early humans used stone tools and controlled fire.
+The wheel was invented thousands of years ago and made transportation easier.
+The compass helped sailors navigate the oceans.
+The printing press made books cheaper and spread knowledge.
+The telescope was invented around 1608 and the microscope around the same time.
+The steam engine powered trains, ships and factories during the Industrial Revolution.
+The Industrial Revolution increased the burning of coal and air pollution.
+The telegraph and telephone allowed fast communication over long distances.
+Electric lights allowed people to work and read at night.
+The automobile and airplane changed transportation in the 1900s.
+Radio and television carried news and entertainment into homes.
+Computers, the internet and cell phones are recent inventions that changed communication.
+Vaccines and antibiotics greatly reduced deaths from infectious diseases.
+Refrigerators allowed people to store fresh food longer.

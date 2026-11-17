@@ -1,0 +1,58 @@
+@forces
+force forces : push pull pushes pulls newtons
+gravity gravitational : falls falling fall drops dropped downward toward attraction
+friction : rubbing surfaces slows opposes rough heat brakes
+smooth slippery : less friction ice slide slides
+air resistance drag : parachute slows falling feather
+balanced : equal opposite no change motion constant
+unbalanced : change motion accelerate net
+inertia : first law resist rest stays continues seatbelt seat belts
+second law : mass acceleration f=ma
+third law : action reaction equal opposite
+speed : distance time divided per
+velocity : speed direction
+acceleration accelerate accelerates : speeding slowing changing velocity
+momentum : mass velocity
+mass : harder heavier
+buoyant buoyancy : upward fluid float
+@machines
+simple machine machines : work easier less force
+lever levers : fulcrum seesaw crowbar bar pivot
+pulley pulleys : rope wheel flagpole lift lifting
+inclined plane ramp ramps : slope sloped
+wedge wedges : axe knife split splitting
+screw screws : jar lid spiral threads
+wheel axle : doorknob steering
+work : force distance joules
+@forces2
+newton newton's : laws motion
+isaac newton : gravity laws motion apple
+galileo : falling objects same rate
+free fall : falling gravity acceleration
+=9.8 : gravity acceleration earth
+mass weight : weight changes gravity location
+friction : walking grip shoes tires
+lubricant oil : reduces friction smooth
+magnetic force : attract repel distance
+gravitational force : mass distance
+centripetal : circular motion center
+orbit orbital : gravity inertia
+pressure : force area
+work done : force distance moved joules
+power : work time watts rate
+mechanical advantage : multiplies force easier
+efficiency : useful output
+compound machine machines : two simple bicycle scissors
+scissors : lever wedge
+gear gears : teeth turning bicycle
+pendulum : swing period length
+spring springs : elastic stretch compress
+elastic : stretch return shape rubber band
+tension : rope pull
+collision collisions : momentum transfer
+seat belts seatbelts : inertia safety
+air bags airbags : stop slowly
+terminal velocity : constant falling
+distance-time graph : slope speed
+average speed : total distance total time
+km/h mph : speed

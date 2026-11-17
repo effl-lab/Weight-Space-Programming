@@ -1,0 +1,42 @@
+@electricity
+circuit circuits : complete closed path loop flow
+open broken : off gap break
+series : single one path dimmer
+parallel : multiple branches paths independently
+switch switches : opens closes turn
+battery batteries cell : source voltage
+conductor conductors : copper wire wires metal flows easily
+insulator insulators : rubber plastic glass wood block coating
+static : charge charges rubbing rubbed balloon hair spark shock
+charges : opposite attract like repel
+electromagnet electromagnets : coil coiled wire nail current stronger
+generator : magnet coil motion produce
+magnet magnets magnetic : attract attracts iron nickel steel cobalt paper clip clips nail
+poles pole : north south opposite attract like repel
+compass compasses : needle magnetic north direction navigation
+magnetic field : lines filings around
+@electricity2
+current : flow electrons amperes amps ammeter
+voltage volts : push battery voltmeter
+resistance : ohms resists slows current
+ohm's law : voltage current resistance
+fuse fuses circuit breaker : overload safety melts
+short circuit : danger fire
+ground grounding : safety
+outlet outlets plug : alternating current
+direct current dc : battery one direction
+alternating current ac : outlets reverses
+conductors : electrons move freely
+semiconductor semiconductors : silicon computer chips
+electric motor motors : magnets coil spin
+transformer transformers : voltage
+power plant plants : generator electricity
+electrons : negative flow current
+static discharge : spark shock doorknob
+attract attraction : opposite charges unlike poles
+repel repulsion : same like charges poles
+magnetic poles : north south ends
+earth magnet : magnetic field compass core
+lodestone magnetite : natural magnet
+temporary magnet : iron nail
+permanent magnet : steel

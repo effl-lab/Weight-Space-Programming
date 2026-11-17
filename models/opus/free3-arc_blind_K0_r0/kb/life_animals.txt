@@ -1,0 +1,126 @@
+# Animal classification
+Animals are divided into vertebrates, which have a backbone, and invertebrates, which have no backbone.
+Vertebrates have a backbone, or spine, made of vertebrae; vertebrates include fish, amphibians, reptiles, birds and mammals.
+Invertebrates are animals without a backbone, such as insects, spiders, worms, jellyfish, sponges, snails, clams, octopuses, crabs and sea stars.
+Most animal species on Earth are invertebrates, and insects are the largest group of animals.
+Mammals are warm blooded vertebrates that have hair or fur, breathe air with lungs, give birth to live young, and feed their young milk from mammary glands.
+Mammals include humans, dogs, cats, horses, cows, mice, rabbits, bats, whales, dolphins, elephants, bears, monkeys and seals.
+Whales and dolphins are mammals that live in the ocean; they breathe air with lungs through a blowhole and nurse their young with milk.
+Bats are the only mammals that can truly fly.
+The platypus and the spiny anteater are unusual mammals that lay eggs.
+Kangaroos, koalas and opossums are marsupials, mammals that carry their young in a pouch.
+Birds are warm blooded vertebrates with feathers, wings, beaks, hollow bones and two legs; they lay eggs with hard shells.
+Birds include robins, eagles, hawks, owls, penguins, ostriches, chickens, ducks, parrots and hummingbirds.
+Penguins and ostriches are birds that cannot fly.
+Hollow bones make birds light so they can fly.
+Reptiles are cold blooded vertebrates with dry scaly skin that breathe with lungs and lay leathery shelled eggs on land.
+Reptiles include snakes, lizards, turtles, tortoises, alligators and crocodiles.
+Amphibians are cold blooded vertebrates with moist smooth skin that live part of their life in water and part on land.
+Amphibians include frogs, toads, salamanders and newts.
+Most amphibians hatch from jelly like eggs laid in water, breathe with gills as young, and develop lungs as adults.
+Fish are cold blooded vertebrates that live in water, breathe with gills, have scales and fins, and most lay eggs.
+Fish include sharks, salmon, trout, tuna, goldfish, catfish and seahorses.
+Sharks are fish with skeletons made of cartilage instead of bone.
+Gills take in oxygen dissolved in water.
+Fins help fish swim, steer and balance; a streamlined shape helps fish move through water.
+Cold blooded animals, or ectotherms, have a body temperature that changes with the temperature of their surroundings.
+Reptiles bask in the sun to warm their bodies because they are cold blooded.
+Warm blooded animals, or endotherms, keep a constant body temperature; birds and mammals are warm blooded.
+Arthropods are invertebrates with jointed legs, a segmented body and an exoskeleton; they include insects, spiders, crabs, lobsters, centipedes and millipedes.
+An exoskeleton is a hard outer covering that supports and protects the body; arthropods molt to grow.
+Insects have six legs, three body parts called the head, thorax and abdomen, two antennae and usually wings.
+Insects include ants, bees, butterflies, moths, beetles, flies, grasshoppers, mosquitoes, ladybugs and dragonflies.
+Spiders are arachnids with eight legs and two body parts; they are not insects.
+Arachnids include spiders, scorpions, ticks and mites, which have eight legs.
+Crustaceans such as crabs, lobsters, shrimp and crayfish have hard exoskeletons and live mostly in water.
+Mollusks are soft bodied invertebrates, many with shells, such as snails, slugs, clams, oysters, squid and octopuses.
+Worms such as earthworms are invertebrates with soft long bodies.
+Echinoderms such as sea stars, sea urchins and sand dollars have spiny skin and live in the ocean.
+Cnidarians such as jellyfish, corals and sea anemones have stinging tentacles.
+Sponges are simple invertebrates that live in water and filter food from the water.
+# Body structures and functions of animals
+Animals have body parts that help them get food, move, protect themselves and survive in their environment.
+Beaks of birds are shaped for the food they eat: hooked beaks tear meat, short thick beaks crack seeds, long thin beaks sip nectar.
+A hummingbird has a long thin beak to drink nectar from flowers.
+Eagles and hawks have sharp talons and hooked beaks to catch and tear prey, and sharp eyesight to spot prey.
+Ducks have webbed feet for swimming and flat bills for straining food from water.
+Owls have large eyes to see at night and soft feathers to fly silently when hunting.
+Teeth are adapted to diet: sharp pointed canine teeth tear meat, flat molars grind plants.
+Carnivores like lions, wolves and tigers have sharp teeth and claws for catching and eating meat.
+Herbivores like cows, horses and deer have flat teeth for grinding plants.
+Giraffes have long necks to reach leaves high in trees.
+Elephants use their trunks to grab food and drink water.
+Fish use gills to get oxygen from water; land animals use lungs to get oxygen from air.
+Earthworms breathe through their moist skin.
+Insects breathe through tiny openings called spiracles.
+Snakes smell with their tongues; many snakes swallow prey whole.
+Some snakes use venom to kill prey.
+Webbed feet help animals such as ducks, frogs and beavers swim.
+Thick fur and a layer of fat called blubber help animals like polar bears, seals and whales stay warm in cold climates.
+Polar bears have thick white fur that keeps them warm and helps them blend in with the snow and ice.
+Animals in cold climates often have small ears and thick fur to keep heat in.
+Desert animals such as camels, lizards and kangaroo rats are adapted to survive with little water and high temperatures.
+Camels store fat in their humps and can go a long time without drinking water.
+Fennec foxes and jackrabbits have large ears that release heat to stay cool in the desert.
+Many desert animals are nocturnal, active at night when it is cooler, and stay in burrows during the hot day.
+Nocturnal animals such as owls, bats and raccoons are active at night and sleep during the day.
+Bats use echolocation, sending out sounds and listening for echoes, to find insects and navigate in the dark.
+Dolphins and whales use echolocation to find food underwater.
+A turtle's hard shell protects it from predators.
+Porcupines have sharp quills that protect them from predators.
+Skunks spray a bad smelling liquid to defend themselves.
+Some animals have bright warning colors that show predators they are poisonous, such as poison dart frogs and monarch butterflies.
+# Adaptations
+An adaptation is an inherited trait or behavior that helps an organism survive and reproduce in its environment.
+Structural adaptations are physical body parts or features, such as fur, beaks, claws, shells and body shape.
+Behavioral adaptations are things an animal does to survive, such as migration, hibernation and living in groups.
+Camouflage is an adaptation in which an animal's color or pattern helps it blend in with its surroundings to hide from predators or prey.
+Animals with camouflage blend in with their environment, which helps them hide from predators and sneak up on prey.
+A chameleon and an octopus can change color rapidly to blend in with their surroundings and hide from predators.
+The snowshoe hare and arctic fox change fur color from brown in summer to white in winter to match their surroundings.
+The stripes of a tiger and the spots of a leopard help them hide in grass and shadows while hunting.
+Walking sticks look like twigs and leaf insects look like leaves, so predators cannot see them.
+Mimicry is when a harmless organism looks like a harmful or poisonous one so predators avoid it.
+The viceroy butterfly mimics the bad tasting monarch butterfly so birds avoid eating it.
+Animals living in groups, such as herds, flocks, schools and packs, are better protected from predators and can hunt together.
+Hibernation is a deep sleep like state in which an animal's body temperature, heart rate and breathing slow down to save energy during winter when food is scarce.
+Bears, ground squirrels, bats, woodchucks and some frogs hibernate during winter.
+Animals store fat before hibernation and live off the stored fat during winter.
+Migration is the seasonal movement of animals from one place to another to find food, warmer weather or a place to reproduce.
+Many birds migrate south in the fall to find food and warmer weather, and return north in the spring.
+Monarch butterflies, geese, whales, salmon, caribou and wildebeest migrate.
+Salmon migrate from the ocean up rivers to lay eggs where they were born.
+Some animals store food for winter, such as squirrels that bury nuts and acorns.
+Estivation is a state of inactivity during hot dry periods.
+# Behavior
+Behavior is the way an organism acts or responds to its environment.
+Instinct, or inherited behavior, is behavior an animal is born knowing how to do without being taught.
+Examples of instincts are spiders spinning webs, birds building nests, birds migrating, salmon swimming upstream, a baby crying or sucking, and turtles crawling to the sea.
+Learned behavior is behavior an animal gets from experience, practice or by watching others.
+Examples of learned behaviors are a dog doing tricks or sitting on command, a person reading, riding a bike or speaking a language.
+Animals can learn by conditioning, such as a dog learning that the sound of a can opener means food.
+Imprinting is when young animals like ducklings learn to follow the first moving thing they see, usually their mother.
+Animals communicate with sounds, smells, body movements and colors.
+Honeybees perform a waggle dance to tell other bees where to find food.
+Ants leave chemical trails called pheromones to lead other ants to food.
+Birds sing songs to attract mates and defend their territory.
+Courtship behaviors such as displays and songs help animals attract mates.
+Some animals protect their territory to keep food and space for themselves.
+Parental care such as feeding and protecting young increases the chance that offspring survive.
+Animals that have many offspring, like fish and insects, usually give little care, while animals with few offspring, like mammals, usually care for them.
+# Life cycles
+A life cycle is the series of stages an organism goes through from birth to death: birth, growth, reproduction and death.
+Metamorphosis is a series of major changes in body form during an animal's life cycle.
+Complete metamorphosis has four stages: egg, larva, pupa and adult; butterflies, moths, beetles, flies, ants and bees go through complete metamorphosis.
+The life cycle of a butterfly is egg, larva or caterpillar, pupa or chrysalis, and adult butterfly.
+A caterpillar is the larva of a butterfly or moth; it eats leaves and grows quickly.
+Inside the chrysalis or cocoon, the pupa changes into an adult butterfly or moth.
+Incomplete metamorphosis has three stages: egg, nymph and adult; grasshoppers, crickets, dragonflies and cockroaches go through incomplete metamorphosis.
+A nymph looks like a small adult without wings and molts as it grows.
+The life cycle of a frog is egg, tadpole, froglet and adult frog.
+A tadpole lives in water, breathes with gills and has a tail; as it grows into a frog it develops legs and lungs and loses its tail.
+The life cycle of a chicken is egg, chick and adult hen or rooster.
+Mammals are born alive and grow into adults that look like their parents.
+Animals that hatch from eggs include birds, reptiles, most fish, amphibians and insects.
+The egg yolk provides food for the developing embryo.
+Larvae of mosquitoes live in still water.

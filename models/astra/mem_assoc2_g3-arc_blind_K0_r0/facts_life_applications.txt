@@ -1,0 +1,560 @@
+# Organism structure, environment, ecological changes, and health.
+# Particular adaptations and functions.
+polar fur white | camouflage snow
+polar thick fur | insulation heat conservation
+polar blubber | insulation energy storage
+polar bear paws | broad swimming snow support
+arctic fox white | camouflage snow
+arctic fox winter | thick fur insulation
+snowshoe hare white | camouflage snow predators
+hare summer brown | camouflage ground
+animal seasonal coat | camouflage insulation
+penguin fat | insulation cold water
+penguin huddle | reduce heat loss conserve warmth
+penguin wings | flippers swimming
+penguin feathers | insulation waterproof
+seal blubber | insulation cold water
+whale blubber | insulation stored energy
+walrus fat | insulation cold water
+otter fur | traps air insulation
+mammal thick fur | cold climate insulation
+desert animal ears | large surface heat loss
+arctic animal ears | small surface conserve heat
+jackrabbit ears | release heat cooling
+fennec ears | heat loss cooling
+small ears cold | reduce heat loss
+large ears hot | heat radiation cooling
+elephant ears | release heat cooling
+elephant trunk | grasp food drink smell
+camel hump | fat energy storage | water
+camel eyelashes | protect eyes blowing sand
+camel feet | broad soft sand pressure
+camel nostril | close exclude sand
+camel desert | conserve water tolerate dehydration
+kangaroo rat | conserve water nocturnal desert
+rat desert kidney | concentrated urine conserve water
+desert nocturnal | avoid daytime heat conserve water
+desert burrow | cooler shade conserve water
+snake desert | scales reduce water loss
+reptile scales | waterproof prevent water loss
+lizard sun | absorb heat regulate temperature
+lizard shade | cool regulate temperature
+cold blood sun | external heat body temperature
+ectotherm | environmental heat fish reptiles amphibians
+endotherm | metabolic heat mammals birds
+reptile cold | slower metabolism activity
+fish cold | slower metabolism
+mammal heat production | respiration metabolism shivering
+mammal sweating | evaporation cooling
+dog pant | evaporation cooling
+bird pant | evaporation cooling
+dog tongue hot | evaporation heat loss
+animal shiver | muscle contraction generate heat
+animal goosebumps | hair rises trapped air
+cactus needle | reduce surface water loss protect
+cactus waxy | reduce evaporation
+cactus thick stem | water storage photosynthesis
+cactus shallow roots | rapid rain absorption
+cactus deep roots | reach groundwater
+desert plant small leaves | reduce transpiration water loss
+desert plant wax | prevent water loss
+succulent | thick water storing leaves stems
+aloe | succulent water storage
+agave | water storing succulent desert
+mangrove roots | support oxygen waterlogged soil
+mangrove salt | tolerate salty water
+swamp roots air | oxygen respiration
+water lily broad | float capture sunlight
+water lily stomata | upper surface gas exchange
+water plant flexible | withstand currents
+kelp holdfast | anchor rocks
+vine tendril | climbing support sunlight
+climbing plant | reach sunlight support
+sunflower light | growth toward sunlight
+plant window bend | phototropism light
+seedling sideways | roots gravity stems light
+root growing down | gravity response gravitropism
+shoot growing up | negative gravitropism light
+roots toward water | hydrotropism absorption
+plant shaded leaves | broad surface capture light
+rainforest broad leaves | capture sunlight
+rainforest drip tips | shed water
+pine needles waxy | reduce evaporation water loss
+conifer shape | shed snow
+conifer flexible branches | snow load protection
+deciduous leaf loss | conserve water winter
+leaves autumn color | chlorophyll breakdown other pigments
+leaf yellow | less chlorophyll
+leaf veins | transport water sugars support
+leaf thin | gas diffusion sunlight absorption
+leaf broad | surface area sunlight
+leaf underside pores | stomata gas exchange
+root hair function | absorb water minerals surface area
+root branching | absorption anchoring surface area
+stem tube dye | xylem water transport
+celery colored water | xylem transport water
+cut flower dye | xylem colored water petals
+wilted plant watering | turgor pressure restored
+plant water pressure | vacuole turgor support
+plant overwater | roots suffocate decay aeration decrease
+waterlogged roots | oxygen shortage respiration
+plant too little water | wilt low turgor stomata close
+plant seed dark | stored food germination
+germinating seed oxygen | respiration energy
+germinating seed food | stored starch cotyledon
+seed coat | protection embryo
+seed coat wet | softens germination
+seed water warmth | germination sprout
+seed freezing | dormancy slow metabolism
+seed dispersal benefit | reduce competition space resources
+seed far parent | less competition sunlight water
+dandelion seed | wind parachute dispersal
+maple winged seed | wind dispersal
+burdock hooks | attach fur animal dispersal
+burr fur | animal seed dispersal
+coconut floating | water seed dispersal
+berry seed | animals eat dispersal
+fruit bright | attract animals seed dispersal
+fruit sweet | attract animals seed dispersal
+seed eaten | feces dispersal
+exploding seed pod | mechanical dispersal
+flower scent | attract pollinators
+flower bright petals | attract insects pollination
+flower nectar | attract pollinator food
+bee hairy | carries pollen pollination
+bee visiting flowers | pollen transfer fertilization
+pollen sticky | attach insects
+pollen lightweight | wind dispersal
+wind pollinated | lightweight pollen inconspicuous flowers
+grass pollen | wind pollination
+insect flower relationship | mutualism nectar pollination
+bee population decline | reduced pollination fruit seeds
+pollinator extinction | less fruit fewer seeds
+hummingbird beak | long nectar flowers
+hummingbird tongue | nectar feeding
+woodpecker beak | drill wood find insects
+woodpecker tongue | extract insects
+hawk hooked beak | tear meat
+hawk sharp talons | catch prey
+owl large eyes | night vision hunting
+owl hearing | locate prey night
+owl feathers | silent flight hunting
+eagle talons | grasp prey
+duck webbed feet | swim paddle water
+duck broad beak | filter food water
+pelican pouch | catch fish
+heron long legs | wade water
+heron pointed beak | catch fish
+flamingo beak | filter aquatic food
+finch thick beak | crack hard seeds
+finch thin beak | catch insects
+finch beak variation | different food natural selection
+bird hollow bones | lightweight flight
+bird streamlined | reduce air resistance
+bird feathers waterproof | keep dry insulation
+bird wing shape | lift flight
+fish streamlined | reduce drag water resistance
+fish tail | propulsion swimming
+fish fins | steering balance
+fish gill filaments | surface area gas exchange
+fish lateral line | detect water vibrations
+fish swim bladder | regulate buoyancy depth
+fish countershading | camouflage predators
+shark teeth | capture tear prey
+shark gills | dissolved oxygen water
+salmon migration | reproduce freshwater spawning
+whale surface | breathe air lungs
+whale blowhole | breathe air
+whale tail | swimming propulsion
+dolphin sound | communication echolocation
+bat echolocation function | locate prey obstacles
+bat nocturnal | night hunting insects
+bat wing | modified mammal forelimb
+insect antenna | detect chemical smell touch
+insect compound eye | detect movement
+butterfly proboscis | nectar feeding
+butterfly wing colors | camouflage mimicry mating
+mosquito mouthparts | pierce suck blood
+spider silk | web catches prey
+spider venom | immobilize prey
+spider web vibration | detect trapped insects
+grasshopper legs | jumping escape predators
+grasshopper exoskeleton | support protection reduce water loss
+insect waxy exoskeleton | reduce water loss
+ladybug aphids | predator biological pest control
+aphid plant | herbivore sap feeding
+termite cellulose | symbiotic microorganisms digestion
+termite wood | decomposer consumer
+ant colony | cooperation division labor
+bee colony | social cooperation reproduction
+social insects | ants bees termites
+crab claw | defense feeding
+crab shell | exoskeleton protection
+snail shell | protection water conservation
+clam shell | protection predators
+clam filter | food particles water
+squid ink | confuse predators escape
+octopus color | camouflage predators prey
+starfish regrow | regeneration repair
+starfish tube feet | movement attachment feeding
+sponge water | filter food oxygen
+jellyfish stinging | capture prey protection
+coral algae | mutualism photosynthesis shelter
+coral bleaching | heat stress algae loss
+worm moist skin | gas exchange respiration
+worm burrowing | soil aeration water infiltration
+worm soil fertility | decomposition organic nutrients
+frog moist skin | oxygen diffusion
+frog eggs water | prevent drying
+frog tongue | capture insects
+frog hind legs | jumping swimming
+frog metamorphosis tail | absorbed legs lungs develop
+toad camouflage | predators hide
+salamander | amphibian moist skin
+snake forked tongue | detect chemical odors
+snake heat sensing | locate warm prey
+snake camouflage | hide predators prey
+snake shed skin | growth
+lizard tail loss | escape predator regeneration
+turtle shell | protection predators
+chameleon color | camouflage communication
+rabbit eyes side | wide view detect predators
+predator eyes forward | depth perception distance prey
+prey eyes side | wide field detect predators
+carnivore canine | sharp tearing meat
+herbivore molars | flat grinding plant material
+omnivore teeth | varied cutting grinding
+rabbit incisors | gnaw plant food
+rodent incisors | continuously growing gnawing
+beaver teeth | cut wood
+beaver dam | aquatic habitat protection
+beaver tail | swimming balance warning
+squirrel storing food | winter survival
+squirrel claws | climbing trees
+raccoon paws | grasp manipulate food
+opossum playing dead | defense predators
+skunk odor | repel predators
+porcupine quills | defense predators
+hedgehog spines | protection predators
+armadillo armor | protection predators
+zebra stripes | camouflage predator confusion
+lion claws | grasp prey
+cheetah speed | chase prey
+kangaroo pouch | protect developing young
+marsupial | pouch mammal milk
+platypus reproduction | eggs milk mammal
+bird nest | protect eggs young
+parental care | offspring survival
+animal courtship display | attract mate reproduce
+migration food | seasonal food availability
+migration birds winter | food warmer breeding
+hibernation metabolism | slow conserve stored energy
+hibernation heart | slower rate
+hibernation body | lower temperature metabolism
+hibernation food | stored fat energy
+winter dormancy | conserve energy scarce resources
+estivation | summer dormancy heat drought
+camouflage survival | avoid being detected
+camouflage environment change | predators detect prey
+white moth dark tree | visible predators
+black moth soot | camouflage natural selection
+peppered moth pollution | dark camouflage survival reproduction
+mimicry harmless | resembles harmful warning protection
+monarch viceroy | mimicry warning colors
+bright frog | warning toxic poison
+insect looks twig | camouflage concealment
+stick insect | camouflage twig
+leaf insect | camouflage foliage
+# Food networks and ecosystem change.
+food web energy source | sunlight
+food chain sunlight | producer photosynthesis
+food chain green plants | producers first trophic
+food chain grass | producer
+food chain algae | producer aquatic
+food chain rabbit | primary consumer herbivore
+food chain grasshopper | primary consumer herbivore
+food chain hawk | carnivore predator
+food chain mushroom | decomposer
+food chain bacteria | decomposer nutrients
+# Preserve the changed organism and condition together; no generic food/web pairs.
+# These are simple food-web tendencies with other influences held unchanged.
+decomposer removed | dead organic accumulation | recycling | -1.0
+sunlight blocked | producer consumer decline | photosynthesis | -1.0
+plants removed | herbivore decline food shortage | | -1.0
+insects removed | insectivore decline | | -1.0
+rabbits removed | predator starvation vegetation recovery | | -1.0
+hawks removed | rodents increase | | -1.0
+wolves removed | deer increase overgrazing | | -1.0
+deer increase | vegetation depletion competition | | -1.0
+grass decrease | rabbit starvation | | -1.0
+prey scarce | predator migrate decline | | -1.0
+predator scarce | prey increase | | -1.0
+predator conservation | balance prey population
+predator prey cycle | linked population changes
+producer energy storage | chemical food glucose
+consumer energy source | food other organisms
+consumer plant energy | photosynthesis sunlight
+decomposer energy | dead organic matter
+energy pyramid bottom | producers greatest energy biomass
+energy pyramid top | fewest organisms least energy
+energy trophic loss | heat metabolism respiration
+food chain long | less available energy top
+food chain shorten | more energy humans plants
+energy ecosystem flow | sun producers consumers heat | recycled
+matter ecosystem cycle | nutrients carbon water recycled
+carbon energy distinction | matter cycles energy flows
+nutrient recycling | decomposers bacteria fungi
+nutrient soil dead | decomposition mineral return
+decomposer removed | dead organic accumulation | recycling | -1.0
+fungus rotting log | decomposition nutrients
+mold bread | fungus decomposer
+mushroom dead tree | decomposer saprophyte
+compost warm | decomposer respiration heat
+compost moisture | microbial decomposition
+compost aeration | oxygen aerobic decomposition
+compost ingredients | leaves food scraps organic material
+compost plastic | persistent nonbiodegradable | biodegradable
+biodegradable | decomposers organic breakdown
+plastic biodegradation | slow persistent pollution
+landfill organic | decomposition methane
+scavenger role | consumes dead animals
+vulture bald head | feeding carrion cleanliness
+competition plants | sunlight water nutrients space
+competition animals | food water mates shelter
+same niche | competition resources
+niche difference | reduce competition coexistence
+bird different beaks | use different foods less competition
+tree canopy shade | competition sunlight
+weeds crops | compete water nutrients sunlight
+invasive plant | competes native resources
+introduced species | invasive competition native decline
+invasive predator | native prey decline
+invasive no predators | rapid population growth
+native species threat | habitat loss invasive pollution
+habitat fragmented | isolated populations reduced gene flow
+wildlife corridor | connects habitats migration gene flow
+road habitat | fragmentation animal collisions
+wetland destruction | habitat loss flooding water pollution
+wetland protection | biodiversity filtration flood control
+forest clearcut | habitat loss erosion runoff
+forest replant | habitat carbon uptake erosion reduction
+urbanization habitat | less space more pollution
+biodiversity resilience | more stable ecosystem recovery
+low diversity disease | vulnerable population decline
+crop monoculture | pests disease vulnerability
+crop diversity | resilience reduce pest damage
+endangered low numbers | extinction vulnerability
+extinction habitat | loss resources reproduction
+species extinct | all individuals dead
+extinction effect | food web changes biodiversity loss
+conservation habitat | protect food shelter breeding
+protected reserve | habitat biodiversity survival
+captive breeding | increase endangered population
+hunting limit | protect breeding populations
+fishing limit | replenish fish populations
+overfishing | fish population decline ecosystem imbalance
+bycatch | unintended animals caught nets
+fish net large holes | young fish escape reproduce
+sustainable harvest | rate below reproduction renewal
+forest harvest replant | renewable sustainable trees
+population births | increase
+population immigration | increase
+population deaths | decrease
+population emigration | decrease
+population drought | water food shortage decline
+population plentiful food | increase reproduction
+population disease | decrease deaths
+population overcrowding | competition disease resource shortage
+population carrying capacity | available food water space
+carrying capacity drought | decreases resources
+carrying capacity food increase | larger population less starvation
+limiting food | competition starvation smaller population
+limiting water | drought dehydration decline
+algae fertilizer | nutrient enrichment bloom
+algae bloom fish | decomposition oxygen depletion death
+fertilizer aquatic oxygen | decreases decomposition respiration
+sewage river | microorganisms oxygen depletion
+warm water fish | less dissolved oxygen stress
+thermal pollution fish | oxygen depletion habitat change
+oil spill birds | feather insulation waterproofing damaged
+oil spill ocean | toxins habitat damage
+oil feathers | reduced insulation buoyancy flight
+plastic ocean animals | ingestion entanglement injury
+plastic rings | entangle wildlife
+pesticide food web | toxins accumulate biomagnification
+pesticide birds | thin eggshells reproductive decline
+DDT | biomagnification eggshell thinning
+mercury fish | biomagnification neurotoxin
+biomagnification top predator | highest toxin concentration
+fertilizer excess | runoff water pollution
+pesticide alternatives | natural predators biological control
+ladybugs garden | eat aphids biological control
+crop rotation legumes | nitrogen fertility pest reduction
+legume soil | nitrogen fixation bacteria
+bacteria nitrogen gas | usable nitrogen compounds
+plant nitrogen source | soil nitrates bacteria
+animal nitrogen source | food proteins
+atmospheric nitrogen plants | fixation bacteria required
+nitrogen decomposer | returns ammonium soil nutrients
+denitrification | bacteria nitrogen atmosphere
+nitrification | bacteria ammonium nitrate
+carbon fossil burning | carbon dioxide atmosphere
+carbon forest removal | less photosynthesis more dioxide
+carbon plant growth | dioxide uptake carbon storage
+carbon ocean | dissolved dioxide photosynthesis
+carbon soil | organic matter decomposers
+carbon animal | respiration food organic compounds
+# Cell mechanisms, development, inheritance, and health.
+cell membrane doorway | regulates entry exit
+cell wall fence | support protection
+nucleus control center | DNA instructions
+mitochondria powerhouse | respiration ATP energy
+chloroplast solar | light chemical food
+vacuole tank | storage water
+ribosome factory | protein synthesis
+golgi packaging | proteins secretion transport
+lysosome recycling | digest waste enzymes
+cell large surface | efficient diffusion exchange
+cell small size | high surface volume ratio diffusion
+cell specialization | different functions gene expression
+nerve cell long | transmit electrical messages
+muscle cell mitochondria | energy contraction
+root hair long | absorb water minerals
+red blood shape | oxygen transport surface area
+red blood hemoglobin | oxygen binding transport
+white blood engulf | destroy pathogens immune
+sperm tail | movement fertilization
+ciliated airway | move mucus trapped particles
+cells same organism | same DNA different gene expression
+stem cell | unspecialized differentiate tissue repair
+cell division growth | more cells mitosis
+cell division wound | repair replace cells mitosis
+cell cancer | uncontrolled division mutations
+mitosis daughter | identical genetic information
+meiosis variation | recombination independent assortment
+sexual offspring difference | genes two parents recombination
+asexual clone | genetically identical parent
+cloning plant cutting | asexual shared genotype
+strawberry runner | vegetative asexual reproduction
+potato eye | bud vegetative reproduction
+onion bulb | vegetative reproduction
+bacteria splitting | binary fission asexual
+hydra bud | asexual reproduction
+yeast budding | asexual cell division
+fertilized egg divisions | embryo mitosis differentiation
+embryo growth | mitosis cell specialization
+human chromosome number | fortysix twentythree pairs
+human gamete chromosomes | twentythree haploid
+human body chromosomes | fortysix diploid
+human sex chromosome | x y
+female chromosomes | xx
+male chromosomes | xy
+DNA structure | double helix nucleotides
+DNA base | adenine thymine cytosine guanine
+DNA adenine | thymine pairing
+DNA guanine | cytosine pairing
+RNA adenine | uracil pairing
+RNA | ribose uracil protein synthesis
+DNA RNA difference | thymine uracil deoxyribose ribose
+DNA replication | complementary strands copying
+transcription | DNA RNA messenger
+translation | RNA ribosome protein amino acids
+protein sequence | amino acids genes DNA
+mutation effect | neutral beneficial harmful
+mutation inherited | gametes reproductive cells
+mutation skin | somatic acquired body cell change
+sunlight mutation | ultraviolet DNA damage
+natural selection individual | survives reproduces inherited trait
+natural selection population | favorable traits more common generations
+acquired change | exercise learning experience | | -1.0
+scar inheritance | acquired | genetic
+exercise muscle | acquired training | inherited | -1.0
+language learned | experience environment
+bird song learned | practice experience
+spider web instinct | inherited behavior
+bird nest instinct | inherited behavior
+reflex hand hot | automatic withdrawal spinal cord
+reflex blinking | protection automatic response
+antibiotic resistance | natural selection resistant bacteria survive
+pesticide resistance | variation selection resistant insects reproduce
+resistance evolution | inherited variation selection generations
+selective breeding | humans choose traits parents
+dog breed | artificial selection inherited traits
+crop breeding | desired traits artificial selection
+fossil similarity | common ancestor evolution
+DNA similarity | evolutionary relatedness common ancestor
+homologous limb | common ancestor shared structure
+whale human bones | homologous common ancestor
+bird butterfly wings | analogous similar function independent origins
+embryo similarity | common ancestry evidence
+vestigial pelvis whale | ancestral land mammals
+appendix vestigial | reduced ancestral structure
+species isolation | reproductive isolation speciation
+mutation variation | random genetic changes
+variation survival | adaptation changing environment
+identical population | vulnerable changing conditions
+body oxygen demand exercise | increase respiration circulation
+pulse exercise | increases oxygen delivery
+breathing exercise | increases oxygen intake dioxide removal
+heart rate recovery | returns resting level
+blood oxygen low | faster breathing heart
+muscle glucose | respiration ATP contraction
+lungs smoking | damaged alveoli reduced gas exchange
+smoking cilia | damaged mucus clearance
+smoking cancer | DNA mutations
+alveoli thin | rapid gas diffusion
+alveoli numerous | large surface gas exchange
+capillary thin | exchange oxygen nutrients waste
+villi numerous | large surface nutrient absorption
+small intestine folds | surface area nutrient absorption
+chewing food | surface area enzymes digestion
+saliva starch | amylase sugars digestion
+peristalsis | muscle contraction pushes food
+epiglottis | cartilage flap swallowing airway protection | aspiration choking
+stomach protein | acid pepsin digestion
+pancreas digestive | enzymes small intestine
+liver bile | fat emulsification
+bile function | breaks fat droplets surface area
+large intestine water | absorption feces
+kidney dehydration | conserve water concentrated urine
+kidney blood | filter urea regulate salts water
+urinary system | remove metabolic waste
+skin barrier | protect pathogens water loss
+sweat evaporation | heat loss temperature regulation
+body cold shivering | muscle heat production
+homeostasis blood sugar | insulin glucagon feedback
+insulin glucose | lower blood sugar storage
+negative feedback | restore internal balance
+thyroid hormone | regulate metabolism
+endocrine gland | hormones bloodstream targets
+nervous signal | rapid electrical nerve impulse
+endocrine signal | slower chemical hormones
+immune memory | faster response vaccine antibodies
+vaccine weakened pathogen | stimulate immunity memory cells
+vaccination prevents | infection disease immune memory
+antibiotics viruses | ineffective | cure
+antibiotic misuse | resistant bacteria selection
+handwashing soap | cleaning hygiene | pathogens transmission | -1.0
+cough sneeze | droplets spread infection
+food cooked | heat kills microorganisms
+food refrigerated | slows microbial growth
+food frozen | slows microorganisms metabolism
+food spoiled | bacteria fungi decomposition
+pasteurized milk | heated kill pathogens
+sterilization equipment | clean heat treatment | microorganisms contamination | -1.0
+balanced diet energy | carbohydrate fats
+balanced diet growth | protein amino acids
+vitamin D | calcium absorption bones sunlight
+vitamin C | collagen wound healing prevent scurvy
+vitamin A | vision eye health
+vitamin deficiency | disease poor health
+calcium deficiency | weak bones teeth
+iron deficiency | anemia reduced oxygen transport
+iodine deficiency | thyroid goiter
+fiber diet | bowel movement digestive health
+water diet | hydration transport temperature
+protein muscle repair | amino acids growth
+fat nutrient | energy storage membrane insulation
+exercise bones | strength density
+exercise heart | improved cardiovascular fitness
+sleep health | growth repair nervous recovery

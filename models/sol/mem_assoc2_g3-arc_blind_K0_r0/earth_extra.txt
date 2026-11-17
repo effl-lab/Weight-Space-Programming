@@ -1,0 +1,460 @@
+# Hand-authored geoscience, water, weather, astronomy, and resource relations.
+# Earth structure and the evidence for plate motion.
+2.8 | earth spheres | geosphere hydrosphere atmosphere biosphere | only rock
+2.8 | geosphere | rock soil mineral crust mantle core | living only
+2.8 | hydrosphere | water ocean lake river groundwater ice | atmosphere only
+2.8 | biosphere | living organisms ecosystems | core only
+2.8 | atmosphere composition | nitrogen oxygen | mostly dioxide
+2.8 | earth internal heat source | radioactive decay formation energy | wind
+2.8 | earth layer density | core greatest iron nickel | atmosphere greatest
+2.8 | earth layer thickest | mantle | crust
+2.8 | crust continental composition | granite silica | only iron
+2.8 | crust oceanic composition | basalt dense | granite only
+2.8 | continental crust density | lower thicker | denser oceanic
+2.8 | oceanic crust density | greater thinner |
+2.8 | crust age continental | generally older | always youngest
+2.8 | lithosphere plates | rigid crust upper mantle | only liquid
+2.8 | asthenosphere behavior | solid plastic slow flow | liquid ocean
+2.8 | mantle convection heat | density differences slow flow | daily wind
+2.8 | core liquid evidence | seismic s blocked p refracted | sunlight
+2.8 | earthquake p wave | compressional fastest solid liquid | only solid
+2.8 | earthquake s wave | shear transverse solid | liquid propagation
+2.8 | seismic arrival difference | distance epicenter | humidity
+2.8 | earthquake triangulation | three stations epicenter | one exact depth always
+2.8 | earthquake focus origin | underground rupture | surface always
+2.8 | epicenter focus relation | vertically above surface | below core
+2.8 | earthquake fault energy | elastic strain sudden release | combustion
+2.8 | earthquake magnitude energy | logarithmic greater amplitude | temperature
+2.8 | earthquake damage intensity | local effects distance construction | identical everywhere
+2.8 | plate boundary earthquake | fault stress movement | weather
+2.8 | transform motion | sideways sliding shearing | plate melting
+2.8 | normal fault | tension crust extension | compression
+2.8 | reverse fault | compression crust shortening | tension
+2.8 | strike slip fault | horizontal shear motion | only vertical
+2.8 | anticline | upward fold older center | downward trough
+2.8 | syncline | downward fold younger center | upward arch
+2.8 | rift valley | divergent tension | continental compression
+2.8 | continental collision mountain | folding uplift himalaya | deep ocean trench always
+2.8 | ocean ocean convergence | subduction island arc trench | ridge spreading
+2.8 | ocean continent convergence | oceanic subduction volcanic mountain trench | continental crust always sinks
+2.8 | divergent ocean boundary | ridge basalt new crust | destroy crust
+2.8 | divergent continent boundary | rift valley extension | compression
+2.8 | transform crust balance | conserved slide earthquake | new crust creation
+2.8 | subduction crust balance | old oceanic crust recycled | unlimited crust accumulation
+2.8 | spreading magnetic stripe | symmetric reversals new crust | random distribution
+2.8 | seafloor ridge age | youngest | oldest
+2.8 | seafloor farther ridge | older sediment thicker | younger
+2.8 | ocean sediment ridge | thin youngest | thick oldest
+2.8 | continental drift fossil | matching continents formerly joined | ocean crossings required
+2.8 | continental drift rock | matching mountain formations | daily weather evidence
+2.8 | continental coastline fit | pangaea former connection | climate only
+2.8 | antarctic coal evidence | formerly warmer vegetation | always frozen
+2.8 | glacial scratches tropics | past climate continental movement | always tropical
+2.8 | hotspot chain age | plate movement direction | islands simultaneous
+2.8 | hawaii volcano | hotspot mantle plume | transform boundary required
+2.8 | volcanic island oldest | farther active hotspot | at active volcano always
+2.8 | volcano eruption viscosity | silica gas explosive | only temperature irrelevant
+2.8 | shield volcano | fluid basalt gentle broad | steep explosive only
+2.8 | composite volcano | alternating lava ash steep explosive | only flat
+2.8 | cinder cone | loose volcanic fragments | only granite intrusion
+2.8 | volcanic ash climate | reflect sunlight cooling | always warming only
+2.8 | lava fertile soil | weathered minerals nutrients | permanently sterile
+2.8 | geothermal active region | volcanic tectonic heat | lunar phase
+2.8 | tsunami warning | earthquake ocean retreat high ground | beach observation
+2.8 | tsunami shallow water | wave height increase speed decrease | speed increase always
+2.8 | tsunami open ocean | long wavelength low height | ordinary wind chop only
+# Rocks and minerals with defining and diagnostic properties.
+2.7 | rock cycle melting | magma | sediment directly
+2.7 | rock cycle crystallization | igneous | sedimentary
+2.7 | rock cycle burial heating | metamorphism | weathering only
+2.7 | rock cycle exposure | weathering erosion | fusionnuclear
+2.7 | sediment rock transform | compact cement sedimentary | necessarily melt
+2.7 | metamorphic temperature melting | igneous after cooling | metamorphic stays solid always
+2.7 | contact metamorphism | heat nearby magma | wind erosion
+2.7 | regional metamorphism | large pressure heat mountain building | evaporation
+2.7 | foliation | aligned minerals pressure bands | gas bubbles
+2.7 | nonfoliated marble | recrystallized limestone | cemented sand
+2.7 | slate parent | shale | sandstone
+2.7 | quartzite parent | sandstone | limestone
+2.7 | marble parent | limestone | granite
+2.7 | gneiss band | metamorphic heat pressure | wind deposit
+2.7 | conglomerate texture | rounded pebbles cemented sedimentary | glassy lava
+2.7 | breccia texture | angular fragments cemented | all rounded
+2.7 | shale texture | fine clay layered sedimentary | coarse granite
+2.7 | sandstone grain | sand cemented sedimentary | interlocking molten only
+2.7 | limestone shell | calcium carbonate sedimentary | only cooled lava
+2.7 | chalk origin | microscopic marine shells carbonate | basalt lava
+2.7 | coal origin | compressed ancient plants swamp | dinosaurs required
+2.7 | chemical sedimentary | dissolved minerals precipitate evaporate | magma only
+2.7 | rock salt formation | evaporation seawater halite | mantle lava
+2.7 | rock gypsum formation | evaporite precipitation | organic muscle
+2.7 | granite crystal size | large slow underground cooling | rapid surface cooling
+2.7 | basalt crystal size | small rapid cooling surface | slow cooling deep
+2.7 | obsidian crystal size | glass rapid cooling | visible large crystalline slow
+2.7 | pumice vesicle | gas bubbles low density | metallic iron
+2.7 | porphyritic texture | two cooling rates crystal sizes | only one cooling stage
+2.7 | igneous coarse texture | slow cooling | rapid cooling
+2.7 | igneous fine texture | rapid cooling | slow cooling
+2.7 | mineral crystal lattice | regular repeating atoms | random arrangement always
+2.7 | mineral identification reliable | hardness streak cleavage density | size alone
+2.7 | streak plate | unglazed porcelain powder color | liquid acid only
+2.7 | mineral streak consistency | more reliable surface color | same as all colors
+2.7 | hardness scratch | harder scratches softer | softer scratches harder
+2.7 | mohs ten | diamond | talc
+2.7 | mohs one | talc | diamond
+2.7 | mohs seven | quartz | gypsum
+2.7 | calcite hardness | three 3 | ten
+2.7 | gypsum hardness | two 2 | ten
+2.7 | feldspar hardness | six 6 | one
+2.7 | diamond graphite same | carbon element different structure | different element
+2.7 | diamond graphite difference | atomic arrangement hardness conductivity | different proton
+2.7 | halite cleavage | cubic right angle | sheet mica
+2.7 | mica cleavage | thin sheets | conchoidal glass
+2.7 | quartz fracture | conchoidal curved | cubic cleavage
+2.7 | mineral acid fizz | calcite carbonate dioxide | quartz
+2.7 | mineral magnetic | magnetite iron | quartz
+2.7 | metallic luster | shiny metal appearance | streak necessarily silver
+2.7 | mineral ore | valuable element extract | all rock identical value
+2.7 | hematite ore | iron | aluminum
+2.7 | bauxite ore | aluminum | iron
+2.7 | copper ore | metal electric wire | fuel combustion
+# Weathering, landforms, soil, and water below ground.
+2.8 | weathering surface area | smaller pieces faster chemical reaction | size irrelevant
+2.8 | chemical weathering climate | warm moist faster | cold dry fastest
+2.8 | mechanical weathering climate | freezing thawing temperature cycles | only melting magma
+2.8 | freeze thaw crack | water expands ice pressure | water contracts freezing
+2.8 | exfoliation rock | outer layers peel pressure temperature | fossil melting
+2.8 | salt crystal rock | growing pressure physical weathering | photosynthesis
+2.8 | roots growing crack | mechanical weathering force | sedimentary cementation
+2.8 | lichen acid rock | chemical weathering | nuclear reaction
+2.8 | oxidation iron mineral | rust reddish chemical | only physical
+2.8 | acid dissolving limestone | chemical weathering karst cave | igneous cooling
+2.8 | cave sinkhole | limestone dissolution groundwater | wind deposition only
+2.8 | stalactite location | ceiling cave deposition calcite | floor upward
+2.8 | stalagmite location | floor cave upward calcite | ceiling downward
+2.8 | cave carbonate deposition | dripping water dissolved mineral | lava
+2.8 | landslide cause | gravity slope saturated soil | lunar light
+2.8 | mass wasting agent | gravity | photosynthesis
+2.8 | mudflow danger | water loose sediment gravity | dry stable rock
+2.8 | soil creep | slow downhill gravity | rapid tornado
+2.8 | erosion greatest slope | steep bare wet | flat vegetation
+2.8 | vegetation erosion control | roots hold canopy slows rain | remove all roots
+2.8 | contour farming | across slope slows runoff | downhill channels
+2.8 | terracing slope | level steps reduce runoff | steeper flow
+2.8 | windbreak trees | slow wind soil erosion | increase wind erosion
+2.8 | cover crop | roots protect soil nutrient | leave bare soil
+2.8 | notill farming | soil cover less erosion | bare soil
+2.8 | overgrazing effect | vegetation loss erosion | denser roots
+2.8 | desertification cause | drought vegetation loss poor farming | rainforest growth
+2.8 | stream erosion capacity | greater velocity discharge | always fixed
+2.8 | river flood sediment | large flow transport more |
+2.8 | river mouth slowing | deposition delta | weathering only
+2.8 | sediment sorting | larger settle first finer farther | all identical settling
+2.8 | stream sediment rounded | abrasion collisions transport | crystals growing
+2.8 | river meander outside | fast erosion cut bank | slow deposition
+2.8 | river meander inside | slow deposition point bar | fast erosion
+2.8 | oxbow lake | meander cut off | volcano crater only
+2.8 | floodplain formation | river deposition flood sediment | only lava
+2.8 | levee natural | flood deposited sediment bank | glacier carving
+2.8 | alluvial fan location | mountain stream slope base | ocean ridge
+2.8 | canyon valley agent | river erosion | chemical cement
+2.8 | glacier u valley | ice abrasion plucking | only stream
+2.8 | glacier moraine | deposited till rock debris | sorted river sand only
+2.8 | glacier till | unsorted sediment deposition | all fine sorted
+2.8 | glacier erratic | transported boulder different bedrock | local
+2.8 | glacier striation | scratched bedrock movement direction | chemical dissolve
+2.8 | glacier melting sediment | deposition | fusionnuclear
+2.8 | wind sand dune | deposition | magma
+2.8 | loess deposit | windblown silt fertile | volcanic lava
+2.8 | sand abrasion rock | wind physical weathering | mineral fusion
+2.8 | barrier beach formation | waves currents sand deposition | only plate collision
+2.8 | wave coastal erosion | cliff cave arch | photosynthesis
+2.8 | longshore current | transports sand along coast | directly core
+2.8 | sea arch collapse | sea stack erosion | mountain uplift only
+2.8 | soil horizon a | topsoil humus roots | deepest bedrock
+2.8 | soil horizon b | subsoil clay accumulation | fresh leaf litter only
+2.8 | soil horizon c | weathered parent material | most humus
+2.8 | soil horizon o | organic litter humus | solid core
+2.8 | soil bedrock weathering | mineral particles | all food energy
+2.8 | soil decomposer role | organic nutrient humus | make new elements
+2.8 | loam growing plant | balanced drainage retention humus | pure gravel
+2.8 | sand clay particle | sand larger clay smaller | sand smaller
+2.8 | clay capillary retention | high water small pores | very rapid drainage
+2.8 | gravel infiltration | large connected pores faster | impermeable
+2.8 | porosity vs permeability | pore amount connected flow | always identical
+2.8 | sorted sediment porosity | pore space | grain size alone determines all
+2.8 | unsorted sediment pores | smaller grains fill gaps less porosity | largest pores always
+2.8 | saturated zone | pores filled water | only air
+2.8 | unsaturated zone | air water pores | water only
+2.8 | groundwater water table | upper saturated boundary | solid core
+2.8 | aquifer impermeable base | water accumulates permeable layer | drains infinite downward
+2.8 | artesian well | confined aquifer pressure | evaporation
+2.8 | well drought | lower water table | water table always rises
+2.8 | pumping groundwater excess | water table decline subsidence | unlimited recharge
+2.8 | coastal groundwater overpump | saltwater intrusion | freshwater infinite
+2.8 | groundwater contaminant | slow movement difficult cleanup | instantly pure
+2.8 | septic groundwater | pathogen nitrate contamination | chlorophyll growth only
+2.8 | landfill liner | prevent leaching groundwater | increase seepage
+2.8 | recharge basin | infiltration groundwater replenish | prevent all infiltration
+# Climate, weather instruments, atmosphere, and ocean circulation.
+2.8 | weather energy source | sun uneven heating |
+2.8 | latitude sunlight spread | high latitude lower intensity | poles most direct
+2.8 | altitude air molecules | fewer pressure lower | pressure higher
+2.8 | rising air expansion | cooling condensation | compression warming
+2.8 | sinking air compression | warming drying | expansion cooling
+2.8 | mountain orographic rain | rising cooling condensation windward wet | leeward
+2.8 | rain shadow desert | leeward sinking dry | windward wet
+2.8 | ocean climate moderation | high specific heat water | water fastest cooling
+2.8 | inland climate | larger seasonal temperature range |
+2.8 | land water heating rate | land faster water slower | water faster always
+2.8 | coastal summer | ocean moderates cooler | inland always cooler
+2.8 | coastal winter | ocean moderates warmer |
+2.8 | surface wind pressure | high low gradient | low high spontaneously
+2.8 | pressure gradient steep | stronger wind close isobars | weaker wind
+2.8 | isobars close | strong pressure gradient wind | calm always
+2.8 | sea breeze cause | daytime land warm rising sea cool |
+2.8 | land breeze cause | night land cool sinking ocean warmer |
+2.8 | coriolis northern hemisphere | right deflection rotation | left
+2.8 | coriolis southern hemisphere | left deflection rotation | right
+2.8 | prevailing westerlies | west east middle latitude | east west
+2.8 | trade winds | east west tropical | west east
+2.8 | jet stream | fast high altitude wind weather | deep ocean
+2.8 | equator rising air | low pressure wet | sinking dry
+2.8 | subtropical sinking air | high pressure dry desert | constant rain
+2.8 | air mass maritime | humid ocean | dry continent
+2.8 | air mass continental | dry land | humid ocean
+2.8 | air mass tropical | warm | polar cold
+2.8 | air mass polar | cold | tropical hot
+2.8 | front meeting | air masses different temperature density | ocean plate only
+2.8 | cold front temperature | decreases thunderstorms | always increases
+2.8 | warm front temperature | increases steady rain | always decreases
+2.8 | occluded front | cold overtakes warm | stationary
+2.8 | stationary front rain | prolonged slow moving | always clear
+2.8 | low pressure barometer falling | unsettled cloudy storm | clear high pressure
+2.8 | high pressure barometer rising | clearing fair weather | storm certain
+2.8 | dewpoint temperature equal | saturated humidity condensation | very dry
+2.8 | cooling air constant vapor | relative humidity increases | relative humidity decreases
+2.8 | warming air constant vapor | relative humidity decreases | relative humidity increases
+2.8 | humidity wet bulb | evaporation cooling psychrometer | wind direction
+2.8 | psychrometer difference large | low humidity rapid evaporation | saturated humidity
+2.8 | psychrometer same reading | saturated high humidity | dry
+2.8 | clouds condensation nuclei | dust salt tiny droplets | pure visible vapor
+2.8 | cloud rising parcel | expansion cooling dewpoint | compression heating
+2.8 | fog dew difference | droplets air surface | different element
+2.8 | dew frost temperature | dew above frost below freezing | both gas
+2.8 | freezing rain hazard | liquid freezes surface ice | always soft snow
+2.8 | hail layer growth | strong updraft repeated freezing | clear desert
+2.8 | snowflake sixfold | ice crystal structure | iron mineral
+2.8 | cumulonimbus vertical | strong convection thunderstorm | thin fair sheet
+2.8 | cirrus high | ice crystal wispy | ground fog
+2.8 | stratus low | layered sheet steady cloud | towering thunderhead
+2.8 | cumulus puffy | rising air convection | only fog
+2.8 | hurricane latent heat | condensing vapor energy warm ocean | moonlight
+2.8 | hurricane landfall | moisture energy reduced weakening | always stronger
+2.8 | hurricane eye | relatively calm low pressure | highest wind center
+2.8 | hurricane eyewall | strongest wind rain | calmest
+2.8 | tornado funnel | rotating air thunderstorm | ocean earthquake
+2.8 | lightning air heating | rapid expansion thunder | clouds hitting sound
+2.8 | lightning distance | thunder delay sound slower | light slower
+2.8 | rain gauge unit | millimeter depth precipitation | degree celsius
+2.8 | anemometer cups | wind speed | humidity
+2.8 | wind vane arrow | direction from wind | pressure magnitude
+2.8 | barometer mercury | air pressure column | wind direction
+2.8 | hygrometer reading | humidity moisture air | mass earth
+2.8 | weather radar | precipitation movement electromagnetic | rock age
+2.8 | satellite cloud imagery | weather patterns storm movement | cell organelles
+2.8 | climate record evidence | long term averages patterns | single warm afternoon
+2.8 | ocean surface circulation | wind coriolis continents | only tides
+2.8 | ocean deep circulation | density temperature salinity | only wind
+2.8 | cold salty water | dense sinking | always floating
+2.8 | warm fresh water | less dense surface | always sinking
+2.8 | evaporation ocean salinity | increases remaining salt concentration | decreases
+2.8 | precipitation ocean salinity | decreases dilution | increases
+2.8 | freezing sea ice salinity | remaining water salt concentrated denser | dilute
+2.8 | upwelling fishery | nutrients phytoplankton food abundance | nutrient depletion
+2.8 | el nino | warm pacific altered weather reduced upwelling | earth orbit change
+2.8 | gulf stream europe | warm current moderate climate | glacier current
+2.8 | ocean wave transport | energy oscillation | whole ocean permanently forward
+2.8 | tide timing moon | earth rotation lunar gravity | wind speed only
+2.8 | high tidal range | spring aligned sun moon | neap right angle
+2.8 | low tidal range | neap quarter moon | full aligned
+2.8 | tidal pool adaptation | resist drying wave exposure | only freshwater
+2.8 | ocean depth pressure | increases | decreases
+2.8 | ocean depth light | decreases photic zone surface | increases
+2.8 | ocean photosynthesis depth | light limits shallow surface | deepest trench most
+2.8 | freshwater global fraction | small mostly ice groundwater | majority rivers
+2.8 | water cycle continuous | matter recycled solar gravity | water created sun
+2.8 | transpiration cycle contribution | plant water vapor atmosphere | soil mineral formation only
+# Evidence of Earth's past and geologic time.
+2.8 | fossil hard parts | shell bone teeth preserve | soft tissue always
+2.8 | fossil rapid burial | less decay protection | complete exposure
+2.8 | fossil mold | impression hollow shape | original living tissue
+2.8 | fossil cast | mineral filling mold | empty impression
+2.8 | fossil trace | track burrow footprint activity | body bone only
+2.8 | fossil petrified | mineral replacement tissue | fresh plant
+2.8 | amber fossil | trapped resin insect | molten lava
+2.8 | fossil sedimentary common | low heat burial layers | all organisms preserved
+2.8 | fossil record incomplete | soft decay erosion rare burial | every organism fossilized
+2.8 | index fossil qualities | widespread short time abundant | long duration narrow region
+2.8 | index fossil same layers | similar relative age | identical thickness
+2.8 | marine fossil land | past ocean uplift sea level change | ocean impossible
+2.8 | tropical fossil polar | past warmer climate continental drift | always same climate
+2.8 | superposition undisturbed | older bottom younger top | oldest top
+2.8 | inclusion relative age | fragment older enclosing rock | fragment younger always
+2.8 | crosscutting principle | fault intrusion younger cut layers | oldest intrusion
+2.8 | unconformity missing | erosion nondeposition time gap | uninterrupted record
+2.8 | correlation rock layer | fossils composition relative age | color alone always
+2.8 | radioactive clock | constant decay isotope ratio | current weather
+2.8 | carbon14 dating scope | recent once living organic | billion year granite
+2.8 | uranium lead dating | old igneous rocks | yesterday leaf
+2.8 | half life remaining 50 | one elapsed | two elapsed
+2.8 | half life remaining 25 | two elapsed | one elapsed
+2.8 | half life remaining 12 | three elapsed | one elapsed
+2.8 | geologic time fossil change | evolution extinction | permanently unchanged
+2.8 | mass extinction | many species rapid loss | one death only
+2.8 | dinosaur extinction evidence | impact iridium crater | earth stopped rotating
+2.8 | earth early atmosphere | little oxygen volcanic gas | modern oxygen initially
+2.8 | oxygen atmosphere origin | photosynthetic organisms cyanobacteria | nuclear fusion atmosphere
+# Astronomy: size, motion, illumination, gravity, and observation.
+2.8 | solar system order | mercury venus earth mars jupiter saturn uranus neptune | moon star order
+2.8 | mercury planet | closest sun small rocky cratered | largest gas giant
+2.8 | mercury orbit | shortest year | longest year
+2.8 | venus planet | thick dioxide greenhouse hottest | most moons
+2.8 | earth habitability | liquid water atmosphere suitable temperature | largest planet
+2.8 | mars planet | thin atmosphere red iron oxide | thick oxygen ocean
+2.8 | jupiter planet | largest gas giant many moons | smallest terrestrial
+2.8 | saturn planet | rings gas giant | solid rings continuous
+2.8 | uranus planet | tilted axis ice giant | closest sun
+2.8 | neptune planet | farthest ice giant long orbit | closest sun
+2.8 | pluto classification | dwarf planet | star
+2.8 | asteroid belt location | between mars jupiter | between earth moon
+2.8 | kuiper belt | icy bodies beyond neptune | earth atmosphere
+2.8 | oort cloud | distant comet reservoir | inner earth core
+2.8 | comet composition | ice dust rocky | pure iron star
+2.8 | comet approaching sun | ice sublimation tail | tail points sun
+2.8 | comet tail direction | away solar wind radiation | behind motion always
+2.8 | meteoroid meteor meteorite | space atmosphere ground | identical location
+2.8 | meteor shower origin | comet debris atmosphere | falling stars fusion
+2.8 | meteorite crater | impact kinetic energy | ordinary rainfall
+2.8 | larger crater impact | greater kinetic mass speed | less energy
+2.8 | moon surface erosion | crater preserved vacuum slow | air water rain
+2.8 | moon gravity comparison | less earth | greater earth
+2.8 | moon weight comparison | lower same mass | mass lower
+2.8 | moon dark sky | vacuum black | atmosphere scatter blue
+2.8 | moon day temperature | extreme thin atmosphere | ocean moderation
+2.8 | lunar light origin | reflected sunlight | fusion burning
+2.8 | lunar phases geometry | relative sun earth moon viewing | earth shadow normally
+2.8 | waxing phase | illuminated fraction increasing | decreasing
+2.8 | waning phase | illuminated fraction decreasing | increasing
+2.8 | crescent illuminated | less half | more half
+2.8 | gibbous illuminated | more half | less half
+2.8 | first quarter illumination | half | full
+2.8 | lunar cycle duration | about month 29 days | one year
+2.8 | moon synchronous rotation | same face period equals orbit | motionless
+2.8 | solar eclipse shadow | moon casts earth | earth casts moon
+2.8 | lunar eclipse shadow | earth casts moon | moon casts earth
+2.8 | eclipse uncommon | orbital plane tilt alignment | moon stops orbit
+2.8 | earth axial tilt angle | 23 5 degrees | 90
+2.8 | seasonal energy variation | solar angle daylight duration | distance dominant
+2.8 | summer solstice hemisphere | longest daylight most direct | shortest day
+2.8 | winter solstice hemisphere | shortest daylight low sun | longest day
+2.8 | equinox hemisphere | equal day night march september | all day sunlight
+2.8 | polar summer | continuous daylight tilted toward | permanent darkness
+2.8 | polar winter | continuous darkness tilted away | permanent daylight
+2.8 | earth rotation direction | west east | east west
+2.8 | apparent sun motion | east west earth rotation | sun orbits earth daily
+2.8 | apparent star motion | earth rotation | stars orbit earth daily
+2.8 | northern star polaris | rotation axis north direction | south equator
+2.8 | seasonal sky constellation | earth orbital location | daily moon phase
+2.8 | shadow noon | shortest sun highest | longest
+2.8 | shadow morning afternoon | direction length change rotation | earth mass change
+2.8 | sun overhead equator equinox | direct noon sunlight | north pole overhead
+2.8 | sundial | shadow time earth rotation | mass measurement
+2.8 | heliocentric model | planets orbit sun | earth center everything
+2.8 | geocentric model | earth center historical | sun center
+2.8 | planet orbital path | ellipse gravity inertia | straight unforced
+2.8 | planet closer sun | shorter orbital period faster year | slower
+2.8 | planet farther sun | longer orbital period slower year | faster
+2.8 | kepler orbit period | distance sun | planet color only
+2.8 | perihelion | nearest sun orbital point | farthest sun
+2.8 | aphelion | farthest sun orbital point | nearest sun
+2.8 | satellite orbit | gravity centripetal forward inertia | gravity absent
+2.8 | astronaut weightless | continuous free fall orbit gravity |
+2.8 | artificial satellite use | communication weather navigation | only sound wave
+2.8 | geostationary satellite | same rotation period equator | polar daily changing
+2.8 | space communication medium | radio electromagnetic vacuum | sound air
+2.8 | telescope aperture larger | more light faint objects | less light
+2.8 | space telescope advantage | avoids atmospheric distortion absorption | closer every star
+2.8 | radio telescope | long wavelength electromagnetic | sound astronomy
+2.8 | reflecting telescope | curved mirror light | only convex lens
+2.8 | refracting telescope | lens light | sound wave
+2.8 | star color temperature | blue hot red cool | red hottest
+2.8 | star brightness apparent | luminosity distance | size only
+2.8 | star spectrum element | characteristic absorption lines | distance only
+2.8 | star parallax | apparent shift nearby distance | gas temperature
+2.8 | parallax greater | closer star | farther star
+2.8 | sun spectral energy | nuclear hydrogen fusion helium | coal oxygen
+2.8 | star stable balance | gravity inward pressure outward | magnet only
+2.8 | star birth | nebula gravity gas dust collapse | planet burning
+2.8 | protostar | collapsing gas heating | dead cold core
+2.8 | main sequence | hydrogen fusion stable | chemical combustion
+2.8 | star massive lifetime | shorter burns fuel faster | longer always
+2.8 | sun future | red giant white dwarf | supernova black hole
+2.8 | white dwarf | small dense stellar remnant | newly forming gas cloud
+2.8 | neutron star | supernova dense remnant | ordinary rocky planet
+2.8 | black hole boundary | event horizon |
+2.8 | black hole trap | light photon | escape
+2.8 | pulsar | rotating neutron star beam | young planet
+2.8 | galaxy milky way | stars gas dust gravity spiral | whole universe
+2.8 | galaxy andromeda | separate galaxy | solar planet
+2.8 | solar system galaxy location | milky way | entire universe
+2.8 | light year quantity | distance light travels year | duration
+2.8 | astronomical unit quantity | earth sun average distance | galaxy diameter
+2.8 | distant light time | see past earlier universe | instantaneous information
+2.8 | redshift expanding universe | wavelength stretched receding | all approaching
+2.8 | cosmic background radiation | big bang early universe | only sun reflection
+2.8 | universe expansion evidence | galaxy redshift background radiation | earth seasons
+# Resources, pollution, and environmental engineering.
+2.8 | fossil fuel formation time | millions years heat pressure | replenished yearly
+2.8 | fossil fuel chemical energy | ancient photosynthesis sunlight | gravity only
+2.8 | natural gas fuel | methane fossil nonrenewable | renewable wind
+2.8 | petroleum refining | distillation gasoline fuel | filter dissolved salt
+2.8 | coal combustion pollutant | sulfur dioxide particulates carbon dioxide | only oxygen
+2.8 | acid rain statue damage | carbonate limestone marble dissolution | granite melting
+2.8 | sulfur scrubber | reduce sulfur dioxide acid rain | create ozone hole
+2.8 | catalytic converter | reduce vehicle pollutants | create gasoline
+2.8 | greenhouse gas role | absorb infrared outgoing heat | all sunlight reflected
+2.8 | greenhouse natural importance | warmer habitable temperature | all greenhouse harmful
+2.8 | greenhouse enhanced cause | increased dioxide methane | moon distance
+2.8 | methane source | livestock landfill natural gas | only sunlight
+2.8 | ozone good location | stratosphere ultraviolet protection | ground smog beneficial
+2.8 | ozone ground level | pollutant respiratory harm | always protective
+2.8 | cfc ozone | ozone depletion ultraviolet increase | less ultraviolet
+2.8 | global warming feedback ice | less albedo more absorption | more reflection
+2.8 | albedo white ice | high reflected sunlight | all absorbed
+2.8 | albedo dark ocean | low more absorption | all reflected
+2.8 | global warming sea level | thermal expansion melting land ice | evaporating all oceans
+2.8 | thermal pollution water | low oxygen aquatic stress | higher oxygen always
+2.8 | sewage treatment bacteria | decompose organic waste | remove every salt
+2.8 | water treatment filtration | remove suspended particles | remove all dissolved solutes
+2.8 | water treatment chlorine | disinfect kill pathogens | remove all dissolved salt
+2.8 | desalination reverse osmosis | pressure membrane remove salt | ordinary sieve
+2.8 | distillation desalination | vaporization condensation salt remains | salt vaporizes
+2.8 | renewable energy tradeoff | replenished variable availability |
+2.8 | solar output night | low absent storage needed | steady maximum
+2.8 | wind power calm | low output variable | coal consumed necessarily
+2.8 | hydroelectric dam tradeoff | low emissions habitat flooding migration |
+2.8 | nuclear fuel uranium | fission nonrenewable radioactive waste | fossil combustion
+2.8 | biomass energy | chemical organic replenishable | uranium
+2.8 | efficiency insulation | less wasted energy same service | energy created
+2.8 | led efficient | less heat electricity light | most electricity heat
+2.8 | recycling metal | conserve ore energy less mining | unlimited new ore
+2.8 | reuse container | reduce material waste conserve resources | create
+2.8 | resource conservation hierarchy | reduce reuse recycle | waste burn dump
+2.8 | reclamation mine | restore land vegetation | increase soil exposure
+2.8 | mining habitat | disturbance erosion pollution | pristine
+2.8 | landfill methane | anaerobic decomposition | photosynthesis
+2.8 | waste composting | organic decomposer nutrients soil | metals made new
+2.8 | plastic ocean animal | ingestion entanglement harm | nutrient source always
+2.8 | oil feather effect | waterproof insulation damaged | improves insulation
+2.8 | spill drinking water | contamination purification needed | automatically safe

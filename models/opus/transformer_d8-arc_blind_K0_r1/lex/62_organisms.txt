@@ -1,0 +1,34 @@
+# ===== specific animal adaptations and behaviors
+echolocation bat? dolphin? sonar? navigate? dark? ultrasonic
+webbed feet duck ducks goose paddle
+hummingbird hummingbirds nectar? hover
+woodpecker woodpeckers peck drill?
+beaver beavers dam? gnaw
+colony colonies ant? bees? hive hives queen workers social
+blubber whale? seal seals walrus insulates? fat?
+nocturnal night? owl? bat? darkness? dark?
+hoof hooves grazing?
+claws claw talons sharp grasp
+teeth tooth canine incisors molars grinding chewing? sharp?
+tail tails balance?
+quills porcupine spines?
+venom venomous poison poisonous sting stinger
+shell turtle? snail? protect?
+gills? oxygen? underwater
+lungs? air? breathe?
+fur? thick warm? cold? coat?
+antlers horns
+herd herds pack packs school group?
+territory territorial defend?
+courtship mate mating attract?
+# ===== plant needs and responses
+needs sunlight? water? air? nutrients? space? survive?
+wilt wilting wilted droop
+thorns thorn spines? cactus? protect?
+vine vines climb climbing
+bulb? tulip onion? underground?
+tuber potato potatoes
+algae seaweed phytoplankton
+grass grasses lawn
+weed weeds
+crop? corn wheat soybeans beans?

@@ -1,0 +1,186 @@
+# Physical science and inquiry scenario reasoning
+heavier ball rolls ramp same height > same speed roughly gravity
+ball rolls farther tile than carpet > less friction
+toy car stops sooner sandpaper > more friction
+pushing box across floor easier wheels > less friction rolling
+ice skater glides > little friction
+sled snow > little friction
+brakes > friction stop wheels
+sandpaper wood > friction heat smooth
+matches strike > friction heat
+meteor burns > friction air heat
+spacecraft reentry heat > friction atmosphere
+car tires worn > less friction slipping
+shoes treads > grip friction
+oil spill road > slippery less friction
+swimmer pushes water back > moves forward action reaction
+person jumps boat > boat moves backward reaction
+balloon released air rushes out > moves opposite direction
+gun recoil > reaction
+bat hits ball > ball changes direction force
+heavier object needs > more force accelerate
+same force smaller mass > greater acceleration
+moving object keeps moving space > no friction inertia
+passengers lurch forward car stops > inertia
+tablecloth trick > inertia
+earth gravity pulls > all objects down same acceleration
+heavier lighter objects dropped vacuum > land same time
+paper falls slower than rock > air resistance
+crumpled paper falls faster > less air resistance
+parachute larger > slower fall more air resistance
+object at rest table > balanced forces gravity normal force
+book on table forces > gravity down table pushes up
+floating boat forces > buoyancy equals weight
+tug of war tie > balanced forces
+car constant speed > balanced forces
+car speeding up > unbalanced force
+falling object speeds up > unbalanced gravity
+rolling ball slows > friction unbalanced
+satellite orbit > gravity changes direction
+speed equals > distance divided time
+car 60 kilometers per hour 2 hours > 120 kilometers
+walking speed > about 1 meter per second 5 kilometers per hour
+graph steeper line > faster
+energy ball top hill > potential
+energy ball rolling down > kinetic increases potential decreases
+energy total stays same > conservation
+energy bouncing ball lost > heat sound
+energy food chain lost > heat
+energy efficient bulb > less heat more light
+energy flashlight dim > battery chemical energy used up
+energy stored water tower > potential
+energy stored spring > elastic potential
+energy wind turbine > kinetic to electrical
+energy windmill grinding grain > kinetic to mechanical
+energy campfire > chemical to thermal light
+energy sun plants > light to chemical
+energy animals running > chemical to kinetic
+energy ringing bell > kinetic to sound
+energy guitar > mechanical to sound
+energy microwave > electrical to electromagnetic heat
+energy electric car > chemical battery electrical kinetic
+heat flows ice water glass > from water to ice
+warm hand cold metal > heat flows hand to metal
+hot pan cold water > heat flows pan to water
+heat lost house winter > windows walls roof
+insulation attic > keeps heat in winter out summer
+double walls cooler > air trapped insulates
+ice chest foam > insulator slows heat
+metal pan handle burns > conduction
+metal spoon hot soup > conduction
+ocean current warm > convection
+boiling pot water moving > convection currents
+hot air balloon > convection less dense
+heater near floor > warm air rises convection
+air conditioner near ceiling > cool air sinks
+sun warms earth > radiation through space
+campfire warms face > radiation
+dark clothing sun > absorbs radiation warmer
+shiny surface > reflects radiation
+water bottle black sun > heats faster
+car windshield shade > reflects sunlight cooler
+electric circuit flashlight > battery switch bulb wires
+circuit with switch open > bulb off
+add second battery series > brighter
+remove one bulb series > all go out
+remove bulb parallel > others stay lit
+short circuit > wire touches dangerous heat
+fuse blows > too much current
+wire gets hot > resistance current
+electricity safety outlets > never insert objects
+electric shock water > water conducts
+lightning tall objects > strikes highest point
+static shock doorknob > charges built up carpet
+dryer sheets > reduce static
+comb rubbed hair attracts paper > static electricity
+balloon rubbed wool sticks > static electricity
+magnet compass deflect > magnetic field
+electric current compass deflect > magnetism electricity
+magnet attracts through > paper plastic water glass
+magnet not attract > aluminum can copper coin plastic wood
+steel can magnet > attracted iron
+separate recycling steel aluminum > magnet
+maglev train > magnets levitate
+electric motor > magnets coils current spin
+generator > spin magnets coils current
+light through prism > colors spectrum refraction
+light through water glass > bends refraction
+light hits mirror > reflects angle
+light hits black paper > absorbed heat
+light hits white paper > reflected
+light hits window > transmitted passes through
+light frosted glass > scattered translucent
+shadow longest > light low angle morning evening
+shadow smallest > light directly above
+shadow bigger > closer to light source
+moonlight > reflected sunlight
+seeing color > reflected light eyes
+leaf green > reflects green absorbs red blue
+eye pupil shrinks > bright light
+eye pupil enlarges > dim light
+glasses nearsighted > concave lens
+glasses farsighted > convex lens
+telescope lenses > convex lenses refract
+microscope lenses > convex lenses magnify
+camera lens > focuses image
+sound guitar louder > pluck harder amplitude
+sound guitar higher > shorter string tighter press fret
+sound flute higher > shorter air column
+sound bottle water more > higher pitch tapping lower blowing
+sound echo canyon > reflection
+sound travels faster > warmer air solids water
+sound cannot space > vacuum
+sound through wall > vibrations solid
+sound muffled > absorbed soft materials
+sound hearing loss > loud noise
+sound frequency humans > 20 to 20000 hertz
+sound dogs hear > higher frequencies
+sound bats > ultrasonic echolocation
+sound whales > low frequency long distances
+wave energy ocean > wind
+wave height > amplitude energy
+wave earthquake > energy through rock
+# inquiry
+investigation question testable > measurable variables
+investigation steps order > question hypothesis procedure data analysis conclusion
+student hypothesis > if then because
+procedure > step by step instructions repeatable
+variable changed > independent manipulated
+variable measured > dependent responding
+variables same > controlled constants
+control setup > no change comparison
+sample size small problem > results not reliable
+one trial problem > not reliable repeat
+different results trials > error variation average
+data disagree hypothesis > reject revise hypothesis
+data support hypothesis > accept more testing
+scientists disagree > more evidence repeat experiments
+new evidence > theories change revised
+peer review purpose > check errors validity
+scientific claim > supported evidence
+opinion > not scientific not testable
+observation example > the leaf is green
+inference example > the plant needs water because leaves droop
+prediction example > if i water more it will grow taller
+qualitative observation > color texture smell shape
+quantitative observation > length mass temperature number measurement
+tool length > ruler meter stick tape measure
+tool mass > balance scale
+tool volume > graduated cylinder beaker
+tool temperature > thermometer
+tool time > stopwatch clock
+tool small details > hand lens microscope
+tool distant > telescope binoculars
+tool direction > compass
+tool weight force > spring scale
+units reported > metric si
+safety heating > goggles tongs heat resistant gloves
+safety chemicals > goggles gloves apron ventilation
+safety animals > gloves wash hands gentle
+safety plants unknown > do not eat touch
+safety glassware broken > tell teacher sweep
+safety fire > extinguisher blanket evacuate
+safety electrical > dry hands unplug
+safety sun observing > never look directly
+safety field trip > buddy system
+lab cleanup > wash equipment wipe tables wash hands

@@ -1,0 +1,273 @@
+# Generation 3: experimental decisions, evidence, and practical design.
+# Cue pairs rather than a learned experimental-question template.
+investigation purpose | answer question collect evidence
+investigation planning | identify variables procedures materials
+investigation problem | testable measurable question
+investigation hypothesis | tentative testable explanation
+investigation prediction | expected outcome based knowledge
+investigation evidence | observations measurements recorded data
+investigation conclusion | interpretation supported data
+investigation communication | share methods evidence reproducibility
+investigation unexpected | repeat check procedures record honestly
+investigation failed | revise hypothesis new evidence
+investigation disagreement | compare methods repeat evidence
+investigation objective | unbiased evidence measurements
+investigation opinion | subjective belief insufficient evidence
+investigation falsifiable | possible evidence contradicts claim
+investigation ethical | minimize harm honest reporting
+investigation safety | appropriate equipment follow procedures
+hypothesis contradicted | revise reject explanation
+hypothesis supported | consistent evidence further testing
+hypothesis untestable | unsupported unverifiable | measurable
+hypothesis changed | new evidence revision
+hypothesis accepted | repeated independent supporting evidence
+hypothesis certainty | tentative | proof absolute
+science reproducibility | others repeat procedures similar results
+science transparency | share methods data evidence
+science collaboration | combine expertise verify findings
+science disagreement | further experiments evidence
+science creativity | new questions explanations designs
+science objectivity | evidence minimizes bias
+science technology | knowledge practical applications
+science mathematics | measurement analysis quantitative models
+science limitations | empirical testable natural phenomena
+science revisable | new evidence changes explanations
+theory revise | new evidence improved explanation
+theory evidence | many consistent observations tests
+theory law distinction | explanation pattern description
+theory uncertainty | tested supported revisable
+law description | consistent relationship natural pattern
+law example | conservation gravity motion
+model limitation | simplified representation incomplete details
+model scale | proportions actual represented size
+model revision | new observations improve predictions
+model solar | sizes distances simplified distorted
+model atom | enlarged simplified representation
+model globe | spherical earth continents
+model map | distorted flat projection
+model test | compare prediction observations
+model computer | simulation predict system behavior
+model climate | mathematical equations measurements predictions
+simulation advantage | safe controlled repeatable tests
+simulation limitation | assumptions incomplete reality
+repeated measurements | average reduces random error
+repeated trials | reliability consistency random error
+repeated result | stronger evidence reproducible
+multiple samples | replication variability estimation
+large sample | sampling uncertainty decrease | increase | -1.0
+random sampling | population probability selection representative | | -1.0
+biased sampling | unrepresentative selection error | | -1.0
+sample size | sampling variability uncertainty
+sample contaminated | unreliable invalid results
+outlier measurement | check repeat procedure
+unexpected measurement | verify equipment repeat record
+identical conditions | fair comparison constants
+same procedure | reproducibility fair comparison
+same equipment | controlled comparison consistency
+single factor | independent variable fair test
+multiple factors changed | confounded unreliable cause
+untreated comparison | control group baseline
+placebo comparison | control expectation effect
+control purpose | comparison baseline treatment effect
+controlled experiment | manipulate one variable hold others constant
+independent variable meaning | changed manipulated input
+responding variable meaning | dependent measured output
+dependent variable meaning | measured outcome response
+constant variable meaning | kept same unchanged
+experimental group meaning | receives treatment
+control group meaning | baseline reference comparison
+random assignment | comparable groups confounding decrease | increase | -1.0
+blind experiment | masking allocation expectation bias decrease | increase | -1.0
+double blind | participants researchers unaware treatment
+procedure detailed | replication others repeat
+procedure revised | improve accuracy control variables
+measurement units | quantity meaning communication
+measurement estimate | approximate value uncertainty
+measurement repeat | check consistency reliability
+measurement average | reduce random error
+measurement calibration | compare known standard
+measurement zero | tare baseline instrument
+measurement parallax | eye level correct alignment
+measurement significant | precision instrument limitation
+measurement precise | repeatable closely agreeing values
+measurement accurate | close true accepted value
+measurement inconsistent | random error repeat average
+measurement biased | systematic error calibrate
+instrument sensitivity | detects small changes
+instrument resolution | smallest distinguishable increment
+instrument calibrated | known standard accurate
+instrument damaged | replace repair inaccurate measurements
+balance container | tare subtract empty mass
+balance level | accurate mass measurement
+balance triplebeam | mass grams
+balance electronic | mass grams kilograms
+scale spring | force weight newtons
+scale planet | weight changes gravity
+balance planet | mass unchanged
+thermometer immersion | thermal contact measured substance
+thermometer stabilize | wait equilibrium accurate temperature
+thermometer range | covers expected temperatures
+thermometer graduations | temperature interval precision
+cylinder meniscus | bottom eye level reading
+cylinder narrow | finer volume precision
+beaker markings | approximate volume less precise
+pipette precision | small measured volume
+burette precision | delivered liquid volume titration
+ruler starting | zero align edge
+ruler broken | subtract start end positions
+ruler smallest marks | measurement precision
+meterstick length | meters centimeters distance
+tape measure | long flexible length distance
+stopwatch duration | time seconds
+springbalance | force weight newtons
+triplebeam balance | mass grams
+handlens | magnifies small objects
+hand lens | convex magnification
+microscope bacteria | tiny organisms cells
+microscope higher power | smaller field greater detail
+microscope illumination | light passes thin specimen
+microscope stain | contrast structures visible
+microscope image inverted | lenses refraction
+microscope magnification calculate | multiply eyepiece objective
+microscope finefocus | sharpens high power image
+microscope coarsefocus | initial low power focus
+microscope transport | two hands arm base
+microscope coverglass | flat specimen protection
+slide thin | transmits light details
+slide air bubbles | misleading artifacts avoid
+petri dish | microorganism culture agar
+agar nutrient | supports bacterial growth
+culture sealed | prevent contamination escape
+culture sterile control | check contamination baseline
+culture warm | microbial growth suitable temperature
+culture refrigerator | slow bacterial reproduction
+culture handling | gloves wash hands sealed
+culture avoid | eating drinking contamination | | -1.2
+lab avoid | eating drinking tasting unsafe | | -1.2
+lab unsafe | tasting eating drinking direct sniffing | | -1.2
+lab spill | inform teacher follow cleanup procedure
+lab broken glass | notify teacher brush dustpan
+lab injury | report teacher firstaid
+lab fire | notify teacher extinguish safely
+lab acid | goggles gloves apron
+lab dilution acid | add acid water slowly
+lab heated glass | tongs heat resistant gloves
+lab hot appearance | caution tongs protection
+lab unknown odor | waft gently teacher instructions
+lab electrical water | shock hazard keep dry
+lab loose clothing | secure away flame
+lab long hair | tie back fire protection
+lab goggles | eyes protection splashes
+lab gloves | skin protection contamination
+lab cleanup | wash hands dispose properly
+lab evidence honestly | record all actual observations
+lab falsifying | dishonest unreliable evidence
+field organism collect | minimize harm habitat disturbance
+field unfamiliar plant | avoid touching tasting toxic
+field water sample | clean labeled container representative
+field soil sample | consistent depth representative sites
+field quadrat | estimate plant abundance area
+field transect | systematic sampling habitat gradient
+field mark recapture | estimate animal population
+survey species | biodiversity count variety
+survey repeated | seasonal changes reliability
+plant experiment height | growth dependent variable
+plant experiment fertilizer | independent nutrient treatment
+plant experiment control | identical species light water soil
+plant experiment replication | multiple plants individual variation
+plant growth comparison | same age species starting size
+seed experiment germination | count sprouted percentage
+seed experiment control | same species age number conditions
+seed temperature experiment | control water light species
+seed water experiment | control temperature species light
+light plant experiment | measure growth starch oxygen
+fertilizer plant experiment | control light water species
+friction test ramp | same slope object mass
+friction test outcome | distance stopping force speed
+insulator test outcome | temperature change time
+insulator fairtest | same initial temperature water volume
+absorbency test | water uptake identical area
+absorbency comparison | equal size volume exposure time
+strength test | load before failure
+strength comparison | same dimensions testing conditions
+magnet test | count identical paperclips lifted
+magnet strength test | same clips distance procedure
+solubility test | amount dissolves fixed solvent temperature
+dissolving rate test | time equal solute solvent amounts
+solubility stirring | unchanged equilibrium limit | increase decrease | -1.0
+reaction speed test | measure gas volume time
+reaction temperature test | same reactants concentration amounts
+evaporation rate test | water loss fixed time
+evaporation comparison | same initial volume surface area
+pendulum length test | measure oscillation period
+pendulum fairtest | same release angle gravity
+battery life test | same load bulb conditions
+battery comparison | duration same device power demand
+circuit resistance test | current constant voltage
+ramp height test | distance speed same cart
+shadow distance test | size constant object lamp
+sound pitch test | frequency string length tension
+sound loudness test | amplitude vibration intensity
+bouncing ball test | same drop height surface ball
+bouncing surface test | same ball height release
+parachute size test | same mass drop height material
+water filter test | clarity particles contaminants
+water filter comparison | same contaminated sample volume
+# Interpreting representations without assuming unseen diagram content.
+bargraph | compares categories quantities
+linegraph | change over time continuous trend
+piechart | fractions proportions whole
+scatterplot correlation | relationship two variables
+histogram distribution | frequencies intervals bins
+graph x | horizontal independent variable
+graph y | vertical dependent variable
+graph slope meaning | rate change
+graph flat | constant unchanged
+graph upward | increasing positive trend
+graph downward | decreasing negative trend
+graph steep | greater rate change
+graph extrapolate | predict beyond measured range
+graph interpolate | estimate between measured points
+graph reliable | labeled axes units consistent scale
+graph misleading | distorted scale omitted baseline
+graph legend | identifies symbols groups
+chart organized | compare measurements patterns
+average calculation | sum divided number
+median calculation | middle sorted value
+mode calculation | most frequent value
+range calculation | largest minus smallest
+correlation positive | both variables increase together
+correlation negative | one increases other decreases
+correlation causation | association | proof | -1.0
+causal claim | controlled evidence eliminate confounding
+trend prediction | extrapolate pattern cautiously
+uncertainty prediction | limited evidence range assumptions
+engineering define | problem criteria constraints
+engineering brainstorm | generate possible solutions
+engineering prototype | testable model design
+engineering evaluate | compare performance criteria constraints
+engineering improve | test modify redesign
+engineering tradeoff | compromise competing goals
+engineering constraints | cost time materials safety
+engineering criteria | desired performance requirements
+engineering failure | evidence improve redesign
+bridge triangle | rigid stable distributes load
+bridge arch | compression distributes load
+bridge cable | tension supports load
+bridge beam | bending compression tension
+building insulation | reduce heating cooling energy
+building earthquake | flexible supports damping
+helmet cushioning | longer impact time smaller force
+packaging fragile | cushioning absorbs impact energy
+waterproof design | impermeable coating | leaks | -1.0
+solar design | maximize sunlight absorption exposure
+wind design | blades convert moving air energy
+filter pore | smaller particles trapped
+filter activatedcarbon | adsorption some contaminants
+reuse design | less waste resource consumption
+technology tradeoff | benefits environmental costs
+technology medicine | disease diagnosis treatment
+technology transportation | faster access goods resources
+technology communication | rapid information exchange
+technology irrigation | water crops greater yield
+technology sanitation | clean water | disease | -1.0

@@ -1,0 +1,10 @@
+# method identifier | recognized concepts for short named-method options
+# Procedural sentences are intentionally left to ordinary retrieval.
+distill | distill fractional_distillation simple_distillation
+evaporate | evaporate boil
+filter | filtration filter_paper
+magnet | magnet bar_magnet
+sieve | sieve screening
+chromatography | chromatography paper_chromatography
+decant | decant separating_funnel
+centrifuge | centrifuge

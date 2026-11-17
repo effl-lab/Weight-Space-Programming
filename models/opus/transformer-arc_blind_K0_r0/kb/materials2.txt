@@ -1,0 +1,78 @@
+# materials, properties, everyday physics/chemistry
+wood material trees burns floats insulator
+metal material shiny conducts heat electricity
+plastic material oil made insulator flexible
+glass material sand melted transparent brittle
+rubber material elastic insulator tires
+paper material wood pulp absorbs
+cloth fabric cotton wool
+cotton plant fiber cloth
+wool sheep fiber warm
+silk silkworm fiber
+leather animal skin
+clay pottery bricks heated hard
+brick clay building
+concrete cement sand gravel building
+stone rock building
+steel iron strong building bridges
+aluminum light metal cans foil
+copper metal wires pennies
+gold metal jewelry precious soft
+silver metal jewelry conducts
+iron metal magnetic rusts
+lead metal heavy poisonous
+tin metal cans
+mercury liquid metal thermometer
+diamond hardest mineral
+graphite pencil carbon soft
+charcoal carbon burned wood
+calcite mineral limestone fizzes acid
+quartz mineral hard glass sand
+feldspar mineral granite
+mica mineral sheets shiny
+talc softest mineral powder
+gypsum mineral soft plaster
+halite salt mineral cubes
+hematite iron ore red streak
+magnetite magnetic iron mineral
+flexible bends easily
+rigid stiff
+brittle breaks easily
+hard resists scratching
+soft scratched easily
+elastic stretches returns
+malleable hammered thin sheets
+ductile drawn wires
+waterproof keeps water out
+absorbent soaks up water
+magnetic attracted magnet
+transparent see through
+shiny reflects light
+dull no shine
+rough texture bumpy
+smooth texture flat even
+heavy mass large
+light mass small
+dense heavy for size
+buoyant floats
+fragile breaks
+strong holds weight
+durable lasts long
+temperature hot cold
+odor smell
+texture feel
+boiling point property
+melting point property
+conductivity property
+solubility property
+# compaction etc
+compaction sediment pressed together weight
+cementation minerals glue sediment
+crystallization minerals form cooling
+diffraction waves bend around obstacles
+interference waves combine
+vibration back forth motion
+oscillation repeating motion
+amplitude height wave loudness brightness
+frequency waves per second pitch
+wavelength distance crests

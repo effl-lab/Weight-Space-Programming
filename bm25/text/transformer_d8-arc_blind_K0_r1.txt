@@ -1,0 +1,815 @@
+sun sun solar
+sunlight photosynthesis solar
+solar solar sun
+light light photosynthesis
+heat thermal conduction
+oxygen respiratory photosynthesis
+dioxide photosynthesis greenhouse
+carbon greenhouse
+air atmosphere respiratory
+food producer digestive
+plant producer photosynthesis
+plants producer photosynthesis
+moon moon tides
+wind wind renewable
+ice freeze glacier
+salt dissolve ocean
+soil soil root
+roots root weathering
+rock rocks weathering
+rocks rocks weathering
+gravity gravity tides
+orbit revolution gravity
+weight scale gravity
+mass balance @mass_matter
+speed speed kinetic
+motion kinetic inertia
+sound sound wave
+star star sun
+stars star sun
+planet planet revolution
+planets planet revolution
+cell cell microscope
+cells cell microscope
+blood circulatory immune
+heart circulatory exercise
+temperature thermometer thermal
+electricity electrical conductor
+metal conductor metal
+metals conductor metal
+magnet magnetic poles
+magnets magnetic poles
+fossil fossil nonrenewable
+fossils fossil sedimentary
+fuel nonrenewable flammable
+fuels nonrenewable flammable
+shadow opaque @shadowsun
+season season tilt
+seasons season tilt
+tides tides moon
+eclipse eclipse moon
+weather weather troposphere
+cloud cloud condense
+clouds cloud condense
+disease immune virus
+germs immune bacteria
+trait trait gene
+traits trait gene
+parents trait reproduction
+offspring reproduction trait
+survive adaptation needs
+environment adaptation ecosystem
+habitat habitat deforestation
+predator predator camouflage
+predators predator camouflage
+insects insect pollination
+bees pollination colony
+flower flower pollination
+flowers flower pollination
+seeds seed dispersal
+leaves leaf photosynthesis
+fur mammal insulation
+nutrients nutrition soil
+pressure barometer metamorphic
+own producer
+stored potential battery
+waves wave erosion
+cactus desert @cactus_facts
+day rotation summer
+cold freeze insulation
+trees forest renewable
+erosion erosion
+ocean ocean beach
+force force acceleration
+feathers bird insulation
+nitrogen nitrogen atmosphere
+protect skeletal goggles
+protects skeletal ozone
+support skeletal wall
+supports skeletal wall
+chemical chemical battery
+compare graph controlled
+source solar renewable
+carry erosion stem
+carries erosion stem
+platelets circulatory @clotting
+falls gravity precipitation
+falling gravity precipitation
+liquid liquid condense
+gas gas evaporate
+solid solid melt
+reflects reflection moon
+filter excretory separate
+filters excretory separate
+chloroplast chloroplast photosynthesis
+sediment sedimentary erosion
+sediments sedimentary erosion
+eye eye trait
+eyes eye goggles
+sleep hibernation
+winter winter hibernation
+unit cell atom
+melting melt physical
+freezing freeze physical
+boiling boil physical
+dissolving dissolve physical
+hottest venus core
+changed independent
+measured dependent
+time stopwatch trend
+vaccine vaccine immune
+vaccines vaccine immune
+dead decomposer scavenger
+rain precipitation rainforest
+rainfall precipitation rainforest
+balance mass grams gram kilogram kilograms milligram milligrams triple-beam g! kg! mg! pan
+scale weight weigh weighs weighed weighing newton newtons
+graduated cylinder volume milliliter milliliters liter liters ml! beaker beakers pipette dropper
+thermometer temperature degrees degree celsius fahrenheit kelvin
+ruler length meterstick centimeter centimeters millimeter millimeters inch inches width cm! mm! tape
+odometer distance meter meters kilometer kilometers km! mile miles
+stopwatch timer clock seconds minutes hours elapsed duration timing timed
+microscope magnify magnified magnification microscopic slide slides onion cheek specimen
+lens magnifying hand magnifier enlarge closely close detail details examine examining
+telescope astronomer astronomers observatory distant faraway
+anemometer speed cups
+barometer pressure millibars
+hygrometer humidity psychrometer moisture
+gauge rainfall
+vane weathervane windsock direction directions
+compass navigate navigation needle
+seismograph seismometer seismic richter magnitude
+voltmeter voltage volt volts
+ammeter amp amps ampere amperes
+litmus ph indicator acidity
+camera photograph photographs photo photos pictures images video
+computer computers spreadsheet software database calculator internet
+metric si international units unit standard
+hypothesis hypotheses prediction predictions predict predicts testable guess educated
+independent manipulated purposely deliberately
+dependent responding outcome
+controlled control constant constants unchanged fair
+trials trial repeat repeated repeating reliable reliability replicate consistent valid validity
+sample samples size accurate accuracy precise precision error errors
+data record recorded recording table tables chart charts log notebook journal organize organized
+observation observe observing observed observations notice noticed qualitative quantitative
+inference infer inferred conclusion conclusions conclude concluded interpret analyze analyzing
+evidence support supports supported claim claims argument
+model models represent representation diagram simulation globe
+graph graphs bar categories compare comparing comparison
+trend plotted axis line?
+pie circle percent percentage whole fraction
+communicate share sharing publish published report reports peer review
+procedure procedures steps instructions directions? plan
+goggles safety eyes? splash splashing protect? chemicals?
+gloves glove handling
+apron lab coat spills
+extinguisher fire flame flames burner bunsen
+teacher tell inform notify accident injury
+wash washing soap handwashing
+theory theories widely accepted
+law laws
+engineer engineers engineering design designs prototype build redesign improve improvement
+constraint constraints cost costs budget criteria limitation limitations
+invention inventions inventor technology technologies device devices
+telephone phone phones cell? communicate? communication
+satellite? satellites gps orbit? communication?
+internet computer? information
+refrigerator refrigeration food? spoil? preserve? cold?
+pasteurization pasteurize milk? bacteria?
+printing press books
+engine? steam? train trains locomotive
+airplane airplanes flight wright plane? wings? lift?
+vaccine? pasteur jenner smallpox?
+microscope? hooke leeuwenhoek cells?
+telescope? galileo jupiter? moons?
+newton gravity? apple? laws? motion?
+einstein relativity
+darwin? galapagos finches beaks? evolution?
+mendel peas pea genetics? heredity?
+curie radioactivity
+edison bulb? electricity? invented
+franklin kite lightning?
+copernicus heliocentric sun-centered center? sun?
+ptolemy geocentric earth-centered
+wegener continental? drift? pangaea?
+solid solids definite shape rigid tightly packed fixed? own? keeps?
+liquid liquids flow flows flowing pour poured takes container containers shape? volume?
+gas gases fills fill expand expands everywhere spread? spreads? freely? container? shape?
+plasma ionized
+particles particle spaced spacing arrangement vibrate? move? motion? faster? slower? closer? apart?
+melt melting melts melted thaw thaws thawing liquefy warm? heated? sun? butter? chocolate?
+freeze freezing freezes frozen solidify icy 0! 32! colder? cold? freezer
+evaporate evaporation evaporating evaporates evaporated vaporize vaporization dries drying puddle puddles disappears disappeared vapor sunny? dry? wet?
+boil boiling boils boiled 100! 212! steam bubbling bubbles? kettle stove?
+condense condensation condensing condenses condensed droplets dew foggy fog mist clouds? cools? outside? glass? mirror? cold? surface?
+sublimation sublimes sublimate directly dry?
+dissolve dissolves dissolved dissolving solution solutions solute solvent stir stirring stirred soluble sugar salt? kool-aid tea? coffee? evenly? completely? homogeneous
+mixture mixtures mixed mix mixing combined physically separated trail salad gravel pebbles cereal? sand? iron? filings? heterogeneous
+separate separating separation filter filtering filtration screen sieve funnel strain strainer magnet? evaporating? settle?
+density dense denser float floats floating sink sinks sinking buoyant mass? volume? divided? per? cubic?
+@mass_matter matter amount stuff anything takes? up? space?
+volume space occupies cubic milliliters? displacement
+weight heavier lighter heavy heaviest light? pounds
+magnetic magnetism attract attracts attracted iron nickel cobalt steel clip clips nail nails paper? pins
+conductor conductors conduct conducts conductive conductivity copper aluminum silver wire? wires? electricity? metal?
+insulator insulators insulate insulating insulated rubber plastic wood wooden styrofoam foam wool cloth cork glass? poor?
+texture rough smooth bumpy soft feel feels touch fuzzy
+hardness hard harder hardest scratch scratches scratched scratching mohs diamond talc fingernail resist?
+luster shiny dull metallic glassy shine reflects? surface?
+streak powder tile porcelain rubbed? rubbing?
+cleavage fracture splits planes flat? breaks?
+crystal crystals crystalline geometric shapes? pattern?
+odor smell smells scent
+color colors colored
+taste sour sweet salty bitter
+property properties physical? observed? measured? characteristic?
+element elements pure periodic table symbol symbols kind? one? gold? iron? copper? helium? neon?
+compound compounds formula formulas chemically bonded combined? two? different? h2o! nacl! co2!
+atom atoms smallest building blocks basic particles? unit? matter?
+proton protons positive atomic number positively charge? charged? nucleus?
+electron electrons negative negatively shells cloud valence orbit? outside?
+neutron neutrons neutral uncharged nucleus? mass?
+@nucleus_atom nuclei center? dense?
+molecule molecules joined o2! two? atoms? bonded?
+bond bonds covalent ionic sharing share shared transfer gain lose
+physical cut cutting tear tearing torn crush crushing crushed fold folding folded chop chopped grind ground breaking broken bend bending shape? size? state? same? substance? reversible
+chemical new burning burn burns burned burnt rust rusting rusts rusted rot rotting rots cook cooking cooked bake baking baked fry frying fried spoil spoiled tarnish tarnishing reaction reactions react reacts reacting reactant reactants product products bubbles fizz fizzing precipitate flammability flammable reactivity combustion explode exploding fireworks digest? sour? souring
+conservation conserved total before after closed equal? same? mass?
+acid acids acidic lemon lemons vinegar citrus juice sour? low? ph? 1! 2! 3! 4! 5!
+base bases alkaline soap soaps slippery ammonia baking soda bleach antacid bitter? 8! 9! 10! 11! 12!
+neutral 7! distilled? pure?
+metal metals malleable malleability ductile ductility hammered sheets? shiny? conduct?
+nonmetal nonmetals brittle dull?
+noble inert helium neon argon unreactive
+alloy alloys bronze brass solder steel?
+@salt_compound sodium chloride nacl! table? crystals? salt?
+@water_compound h2o! hydrogen? oxygen? two? one?
+dioxide co2! exhale exhaled
+@oxygen_element o2! breathe? burn? fire?
+hydrogen lightest
+nitrogen n2! 78! most? abundant?
+@carbon_element graphite charcoal pencil diamond? coal?
+flammable flammability ignite combustion combust burns? fire? oxygen? fuel?
+exothermic releases? heat? warmer?
+endothermic absorbs? colder? cold? pack?
+catalyst catalysts enzyme enzymes speed? up?
+diffusion spreads? evenly? high? concentration
+reactivity reactive react? sodium? potassium?
+ion ions charged? gains? loses?
+isotope isotopes neutrons?
+group groups column columns family families vertical?
+period rows row horizontal?
+left metals? right nonmetals?
+indicator? cabbage phenolphthalein turns pink? blue? red?
+neutralize neutralization salt? water? acid? base?
+temperature? particles? faster? kinetic? motion? energy?
+expands? heated? metals? expansion contract? cooled?
+solubility soluble insoluble dissolves? temperature? hot? faster?
+concentration concentrated dilute diluted
+rust? iron? oxygen? water? oxidation?
+tarnish? silver? copper? green? statue? patina
+@spheres geosphere hydrosphere biosphere cryosphere lithosphere spheres
+@saturated saturated saturation unsaturated supersaturated
+@ph_scale 14! scale?
+@oxidation oxidation oxidize oxidized
+@alkali alkali lithium potassium
+@equation equation equations yields
+kinetic motion moving moves faster rolling roll rolls swinging swing bouncing running?
+potential stored storing position height top raised lifted stretched compressed held edge elastic rubber? band? spring?
+battery batteries flashlight flashlights cell? chemical? stored? electrochemical radio? toy?
+electrical electric current currents outlet plug powered power appliances appliance wires? wire? electrons? flow?
+thermal heating heated warm warmer warmth warms hot hotter temperature? cooking? fire? particles?
+light radiant visible brightness bright glow glows shine shines lit rays? travels? straight? lines?
+sound sounds noise noises vibration vibrations vibrate vibrates vibrating hear heard vocal travels? waves?
+nuclear fission fusion uranium reactor reactors radioactive atomic splitting
+mechanical machines? gears gear
+@solar_panel panels panel photovoltaic sunlight? cells? roof? electricity?
+generator generators turbine turbines generate generates generating coil? magnet? spinning? dynamo electricity? electrical?
+motor motors fan fans blender drill mixer
+bulb bulbs lamp lamps filament incandescent fluorescent
+toaster heater stove stoves oven ovens
+conduction touching contact direct directly spoon spoons pan pans pot pots handle handles metal? through? hot? stove? solids?
+convection rising rise rises sinking sinks circulate circulating circulation currents? boiling? heated? warm? cooler? cools? liquids? gases? air?
+radiation radiates radiate rays infrared ultraviolet electromagnetic waves? sun's? space? microwave microwaves campfire fireplace lamp? without? touching?
+insulation thermos blanket blankets coat coats jacket mittens sweater keeps loss lose lid lids cup? foam? styrofoam? cooler wool? keep? warm? cold?
+friction rubbing rub rubs rubbed slows slow slowing opposes resist grip traction rough sandpaper carpet brakes brake tires against? stops? stop stopping stopped
+transformation transformed transform transforms convert converted converts conversion changed? into?
+efficiency efficient wasted lost
+calorie calories joules? energy?
+smooth slippery slide slides sliding lubricant grease wax waxed polished less? friction?
+gravity gravitational pull pulls pulled downward falls fall falling fell drop dropped toward center attraction ground? earth's? keeps? holds?
+speed rate per mph fast faster? slower? distance? time? kilometers? hour? divided? travels?
+velocity direction? speed? change?
+acceleration accelerate accelerates accelerating speeding decelerate changes? speed? greater? force?
+inertia rest resting stays continues seatbelt belts newton's first motion? unless? keeps?
+action reaction equal opposite rocket rockets pairs third recoil thrust push? back?
+force forces push pushes pushed pushing strength net applied newtons? change? motion?
+balanced unbalanced cancel stationary equal? opposite? no? change?
+poles pole north south repel repels repelling like bar horseshoe apart? together? attract?
+field lines filings electromagnet electromagnets coil wrapped current? nail?
+lever levers fulcrum seesaw crowbar pivot opener hammer? claw? bar?
+pulley pulleys rope ropes lift lifting flagpole flag crane hoist raise up? heavy?
+inclined plane ramp ramps slope slant wheelchair loading
+wedge wedges axe ax knife blade split splitting cut? doorstop
+screw screws jar lid? twist threads
+axle wheel wheels doorknob steering
+machines machine simple easier effort advantage less? work?
+work joules distance? force? joule
+watts power? rate?
+drag parachute parachutes feather resistance air? slows? falls? slowly?
+buoyancy upward boat boats ship ships displaced float? water?
+circuit circuits closed complete path loop wire bulb? battery? flow? lights?
+switch switches open broken gap off turn? stops?
+series one? single path? goes? out?
+parallel branches paths multiple stay? lit?
+static charge charged charges shock spark sparks balloon hair rub? rubbed? clothes? cling
+wave waves crest trough wavelength amplitude frequency hertz medium transverse longitudinal compression energy? carry?
+pitch high? low? strings string tighter looser tight guitar violin shorter? frequency? thinner? drum
+loudness loud louder decibels harder? softly volume? amplitude? quieter decibel
+echo echoes bounces bounce sonar echolocation reflected? sound?
+@soundspeed solids? steel? travels? fastest? water? air? slowest? medium?
+reflection reflect reflects reflected mirror mirrors smooth? shiny? bounce? off?
+refraction refract refracts bends bend bending bent lens lenses glasses straw eyeglasses water? passes?
+prism spectrum rainbow rainbows white? colors? separates?
+opaque blocks block shadow? cardboard wood? metal? no? light?
+transparent clear glass window windows through see-through plastic? wrap?
+translucent frosted wax? partly? some?
+absorb absorbs absorbed absorption black dark darker
+vacuum empty space? no? air? cannot?
+radio radios antenna broadcast longest
+microwaves? cooking? heating? food?
+x-ray x-rays bones? medical? doctors? penetrate
+gamma rays? radioactive?
+visible? colors? red? violet? rainbow? spectrum?
+ultraviolet? sunburn? skin? tanning
+infrared? heat? warm? remote? thermal?
+lens? convex concave magnifies? focus focuses focusing
+mirror? concave? convex? image images upside
+@color_light color? reflects? absorbs? green? leaf? red? apple? appears?
+@eye_optics eye? lens? retina? image? light? enters? pupil?
+laser lasers beam
+fiber optic optics
+newton's? second law? mass? acceleration? force? greater? more?
+mass? inertia? harder? stop? heavier?
+momentum? collision collisions crash
+weight? mass? gravity? moon? planet?
+@friction_road heat? tires? road? wet? icy?
+air? resistance? surface? area? falls? slower? parachute?
+streamlined? shape? aerodynamic drag?
+terminal velocity
+spring springs stretch stretches elastic
+pendulum swing? period? length?
+gears gear teeth? speed?
+bicycle pedals chain? gears?
+igneous magma lava cooled cooling cools molten volcanic granite basalt obsidian pumice crystals? slowly? quickly? hardens? hardened?
+sedimentary sediment sediments layers layer layered compacted compaction cemented cementation sandstone limestone shale conglomerate deposited? pressed? together? fossils? sand? mud? clay? strata stratum
+metamorphic marble slate gneiss quartzite schist changed? deep? heat?
+rocks stone stones boulder boulders pebble pebbles cycle? type? types?
+mineral minerals quartz feldspar mica calcite gypsum halite pyrite inorganic naturally ore? crystal?
+weathering weathered breaks broken smaller pieces wedging crack cracks cracked cracking apart? break? down? chemical? mechanical? acid?
+erosion erode erodes eroded eroding carried carry carries carrying transport transported transports away removed moving? moves? waves? wind? glaciers? gravity?
+deposition deposit deposits deposited dropped dropping drops settle settles settled delta deltas sandbar builds? new? land? mouth?
+glacier glaciers glacial sheet sheets valley valleys u-shaped moraine moraines striations till ice? carved? scratched? boulders?
+river rivers stream streams flowing meander meanders floodplain banks bank downstream current? channel channels tributary tributaries
+canyon canyons gorge carved carving grand cut? deep? steep?
+dune dunes sand desert? wind? blown?
+beach beaches shore shoreline coast coastal waves? sand? coastline
+ocean oceans sea seas saltwater marine floor? currents? salty? salt?
+lake lakes pond ponds freshwater fresh
+soil soils humus topsoil loam clay silt organic decayed? nutrients? fertile minerals? particles? farming? bedrock horizon horizons
+landslide landslides mudslide mudslides slope slopes steep downhill? gravity?
+fossil remains imprint imprints preserved ancient trilobite petrified amber footprints bones? shells? buried? sediment? evidence? past? organisms?
+dinosaur dinosaurs extinct millions?
+age older oldest younger youngest bottom superposition deeper deepest layers? relative?
+radioactive dating half-life isotope isotopes absolute age?
+plate plates tectonic tectonics drift drifting continental continents pangaea boundary boundaries puzzle fit? together? joined? moved? shapes?
+earthquake earthquakes fault faults shaking shake epicenter tsunami tsunamis seismic? sudden? movement?
+volcano volcanoes eruption eruptions erupt erupted erupts ash vent crater lava? islands? hot? spot?
+mountain mountains range ranges uplift folding collide collision himalayas formed? form? push? together?
+crust thin thinnest outermost oceanic solid? rock? layer?
+mantle semi thickest convection? molten? flows? hot?
+core inner outer nickel hottest center? iron? dense?
+landform landforms plateau mesa hill hills plain plains island islands peninsula
+cave caves cavern caverns stalactite stalactites limestone? dissolved? acid?
+geologist geologists geology rocks?
+topographic contour elevation maps map lines?
+convergent subduction trench trenches collide? colliding converge
+divergent ridge ridges mid-ocean rift spreading seafloor apart?
+transform sliding past? san andreas
+hotspot hotspots hawaii hawaiian chain
+waves? p-waves s-waves primary secondary seismic? seismograph?
+magnetic? reversals stripes
+oxbow meander? bends? curves?
+estuary estuaries brackish
+watershed drainage basin
+water table? groundwater?
+caves? acid? dissolve? limestone? carbonic
+abrasion sandblasting grinding wears smooth? rounded
+exfoliation peel sheets?
+@chem_weathering chemical? weathering? rust? oxidation acid? dissolves?
+mechanical? weathering? frost wedging? ice? expands? roots?
+terrace terraces terracing contour? plowing strip
+windbreak windbreaks rows? fence? hedge
+cover crops? plant? roots? hold? prevent? erosion?
+levee levees floodwall
+jetty jetties seawall breakwater
+index fossils? widespread short
+era eras period periods epoch geologic precambrian paleozoic mesozoic cenozoic
+relative dating? order? sequence? layers?
+ice age ages glaciation
+asteroid? impact extinction? dinosaurs?
+climate? fossil? palm? coral? warmer? tropical? once?
+precipitation rain raining rains rainy snow snowing snowfall sleet hail drizzle rainfall falls? fall? clouds? droplets? monsoon monsoons
+runoff downhill flows? surface? streams? rivers? paved?
+groundwater infiltration seeps seep soaks soak aquifer aquifers well wells underground ground? stored? between? spaces? pores?
+transpiration stomata leaves? plants? release? vapor?
+cycle continuous repeats repeated circle? stages?
+cloud sky droplets? tiny? vapor? cools? condenses? forms?
+weather today daily short-term conditions forecast forecasts forecasting meteorologist meteorologists predict? tomorrow? week? satellites? radar
+climate climates average averages long-term typical yearly decades region? years? many? pattern?
+front fronts masses mass? boundary? collide? meet? cold? warm? thunderstorms? storms? rain?
+thunderstorm thunderstorms lightning thunder storm storms cumulonimbus severe
+tornado tornadoes funnel rotating twister twisters column spinning? violent
+hurricane hurricanes tropical cyclone cyclones typhoon typhoons ocean? warm? waters? strong? winds?
+blizzard blizzards snowstorm heavy? snow? winds?
+cirrus wispy feathery thin? high?
+stratus gray grey overcast layers? sheets? drizzle?
+cumulus puffy fluffy cotton fair white? heaps
+humidity humid muggy moisture? vapor? dew? point? hygrometer?
+@airpressure barometer? high? low? falling? rising? drops?
+wind winds breeze breezes blowing blow blows blew gust gusts windy uneven heating? differences? anemometer vane windsock direction? speed?
+atmosphere atmospheric air? gases? surrounds layers? blanket? protects? nitrogen? 78?
+troposphere lowest weather? occurs? clouds? layer? mesosphere thermosphere
+ozone stratosphere ultraviolet uv sunburn harmful absorbs? protects? layer?
+greenhouse trap traps trapping trapped methane warmer? heat? gases? atmosphere?
+warming global rising? sea? level? melting? caps? temperatures? increase? climate? change?
+season summer? winter? spring autumn
+drought droughts dry? little? rain? shortage? months?
+flood floods flooding flooded overflow heavy? rain? rivers?
+front? cold? thunderstorms? storms? rain? cooler?
+lake? ocean? coastal? moderate moderates milder mild cooler? warmer?
+troposphere? weather? occurs? clouds? lowest?
+humidity? hygrometer? moisture?
+fresh freshwater glaciers? caps? ice? 3! percent? drinkable drinking
+salt? saltwater ocean? 97! salty
+aquifer? well? pump? groundwater?
+reservoir reservoirs dam? stored? supply
+desalination remove? salt?
+wastewater sewage treatment plant? sanitation
+rotation rotate rotates rotating spin spins spinning axis day days night 24! daytime nighttime once? hours?
+revolution revolve revolves revolving orbits orbiting year years 365! annual around? once? ellipse elliptical
+tilt tilted tilts 23.5! angle axis? seasons?
+summer direct longer warmer june july hottest? daylight?
+winter indirect shorter colder coldest december january daylight?
+@shadowsun noon longest shortest length lengths overhead position? sun's?
+sunrise rise rises east eastern morning dawn
+sunset set sets west western evening dusk
+moon moons lunar satellite craters crater phases phase full new crescent gibbous quarter waxing waning month? 28! 29! reflects? reflected? orbits? same? side?
+tides tide high? low? ocean? gravitational? pull? twice?
+eclipse eclipses blocks? between? shadow? solar? lunar? line?
+sun sun's center? closest nearest star? yellow? medium?
+solar sunlight? energy? radiant panels?
+star stars brightness luminosity giant dwarf supernova nebula twinkle light? hot? gas? glowing? distant?
+galaxy galaxies milky way spiral elliptical andromeda billions? stars? clusters?
+universe space big bang expanding cosmos everything?
+constellation constellations dipper orion zodiac patterns? pattern? group? stars?
+polaris north? star?
+light-year light-years distance? travels? light?
+planet planets planetary eight orbit? sun? solar? system?
+mercury closest? smallest? nearest? hottest?
+venus brightest? thick? hottest? clouds? second?
+mars red rusty rover rovers fourth dust? iron? oxide?
+jupiter largest biggest great spot giant? moons?
+saturn rings ring icy? particles?
+uranus neptune farthest coldest? blue? sideways
+pluto kuiper dwarf?
+giants gaseous outer gas? jupiter? saturn? uranus? neptune?
+terrestrial rocky inner earth-like
+comet comets tail tails icy dust halley ice? frozen? orbit?
+asteroid asteroids belt rocky? between? mars? jupiter?
+meteor meteors shooting meteorite meteorites meteoroid burns? burn? atmosphere? streak? craters?
+astronaut astronauts spacecraft shuttle station nasa probe rocket? orbit?
+weightless weightlessness microgravity float? floating?
+sunspot sunspots flares solar? wind?
+leap 366! quarter? 365? extra
+month 29! 28! 27! cycle? phases?
+hemisphere northern southern equator latitude
+equator hottest? direct? tropical?
+poles? arctic? antarctic? coldest? indirect?
+daylight hours? longer? shorter? daytime?
+solstice equinox
+sunlight? reflects? moon? shines? light?
+aurora auroras northern? lights solar? wind?
+fusion? hydrogen? helium? sun? energy? core?
+lifecycle red? giant? white? dwarf? supernova? black hole holes
+distance? farther brighter? dimmer closer? appears? larger?
+gravity? mass? distance? stronger weaker
+mass? moon? less? weight? weigh? gravity?
+light? reach? 8! minutes? travel?
+orbit? elliptical? path? oval
+rotation? spin? sun? rise? set? apparent? move? across? sky?
+@geocentric geocentric earth-centered ptolemy?
+@heliocentric heliocentric sun-centered copernicus?
+@kepler kepler
+@moon_gravity_weak one-sixth sixth
+@star_life sequence neutron? hole holes black?
+@spectroscope spectroscope spectra spectral
+@telescope_types hubble refracting reflecting?
+cell basic unit units smallest? living? building? organisms? theory?
+@nucleus_cell nucleus control controls center? dna genetic information instructions directs activities chromosomes contains? hereditary? brain?
+membrane boundary enter enters entering leave leaving passes pass surrounds selectively permeable outer? covering? thin? flexible
+wall rigid supports structure cellulose shape? stiff? strength? plant? extra?
+chloroplast chloroplasts chlorophyll green captures capture traps? light? photosynthesis? sugar? plant? pigment pigments organelle organelles
+mitochondria mitochondrion powerhouse releases release respiration converts? breaks? glucose? usable
+vacuole vacuoles storage stores store holds? water? wastes? large?
+ribosome ribosomes proteins? assemble? make?
+cytoplasm jelly gel fluid jellylike
+unicellular single celled one amoeba paramecium euglena protist protists cilia flagella flagellum
+multicellular many-celled specialized
+tissue tissues organ organs organ? groups? similar? together?
+mitosis division divide divides dividing copies identical? growth? repair?
+meiosis sex? gametes half
+photosynthesis glucose sugar sugars chlorophyll? process? makes? food? light? leaves? energy?
+producer producers autotroph autotrophs own makes? algae phytoplankton grass? start? first? base?
+root anchor anchors taproot fibrous absorb absorbs underground hold holds ground? minerals? take? soil?
+stem stems stalk trunk xylem phloem transport transports tubes upright support? carry? carries? moves? bark woody vascular
+leaf blade stomata broad transpiration food? sunlight? green? foliage epidermis
+flower petals petal bloom blooms blossom blossoms colorful bright? attract? reproductive? seeds?
+pollination pollen pollinate pollinated pollinators pollinator stamen anther pistil stigma nectar transfer? carry?
+seed germination germinate germinates germinated sprout sprouts sprouting embryo seedling seedlings coat? planted? warmth? moisture?
+fruit fruits ovary ripen ripe apple apples tomato tomatoes berries contains? protects?
+dispersal disperse dispersed scatter scattered burrs hooks spread? stick? carried? wind? float? new? places?
+spore spores fern ferns moss mosses fronds damp? shady?
+cone cones conifer conifers coniferous pine pines evergreen evergreens needles spruce fir
+deciduous shed sheds maple oak lose? fall? autumn? winter?
+tropism phototropism gravitropism geotropism thigmotropism toward window bend bends bending responds? response? light? gravity?
+grow growth growing grows taller height? size?
+consumer consumers eat eats eating heterotroph heterotrophs obtain? get? energy? other? organisms?
+decomposer decomposers decompose decomposing decomposition mushroom mushrooms mold molds decay decaying dead rotting recycle recycles earthworm earthworms bacteria? fungi? worms? break? nutrients? soil? remains? manure
+herbivore herbivores plant-eating grazing graze grazer deer rabbit rabbits cow cows horse horses giraffe zebra zebras caterpillar? grasshopper? only? plants?
+carnivore carnivores meat meat-eating lion lions wolf wolves tiger tigers shark hawk hawks eagle eagles snake? only? animals? sharp? teeth? cheetah cheetahs coyote coyotes
+omnivore omnivores both bear bears raccoon raccoons pig pigs humans? plants? animals?
+predator prey hunt hunts hunting hunted catch caught owl owls fox foxes mice mouse eaten kill kills chase
+scavenger scavengers vulture vultures hyena hyenas carrion
+chain food? arrow arrows energy? passes? transfer? flows? order? sequence?
+web webs interconnected overlapping many? chains?
+parasite parasites host hosts tick ticks flea fleas tapeworm tapeworms lice leech harms? feeds?
+mutualism mutualistic benefit benefits benefiting symbiosis symbiotic relationship both? help?
+commensalism unaffected barnacle barnacles neither remora
+competition compete competing competes mates resources? same? limited? scarce?
+habitat shelter home homes lives? live? place? where? burrow burrows den dens
+niche role job?
+ecosystem ecosystems biotic abiotic nonliving living? interact? factors? sunlight? temperature? rocks?
+population populations increase? decrease? number? size? same? species? area?
+community communities different? species? together?
+balance? stable? balanced?
+biome biomes taiga savanna grassland grasslands prairie prairies plains? zebras? lions?
+desert deserts arid cactus cacti camel camels lizards? scorpions? little? rainfall? dry? hot?
+tundra arctic polar permafrost penguin penguins frozen? cold? treeless
+rainforest rainforests jungle canopy tropical? rainfall? humid? diverse? warm?
+reef coral corals kelp
+wetland wetlands swamp swamps marsh marshes bog bogs
+forest forests woods trees tree deciduous? oak? maple? shrub shrubs sapling saplings
+pond ponds lake? freshwater? fish? frogs?
+vertebrate vertebrates backbone backbones spine spines spinal? skeleton? internal?
+invertebrate invertebrates jellyfish worm worms snail snails octopus sponge sponges clam clams slug no? backbone?
+mammal mammals hair milk nurse nurses warm-blooded whale whales bat bats dolphin dolphins dog dogs cat cats live? birth? young? fur? rodent rodents primate primates chimpanzee chimpanzees placenta
+bird birds feathers feather wings wing beak beaks hollow nest nests fly flying eggs? warm-blooded? chicken chickens hen
+reptile reptiles scales scaly cold-blooded lizard lizards snake snakes turtle turtles crocodile crocodiles alligator alligators leathery? dry? skin? eggs?
+amphibian amphibians frog frogs toad toads salamander salamanders moist tadpole tadpoles water? land? both? skin?
+fish fishes gills gill fins fin swim swimming salmon trout cold-blooded? water? scales?
+insect insects six legs antennae ant ants beetle beetles grasshopper grasshoppers ladybug ladybugs fly? body? parts? three? dragonfly dragonflies wasp wasps
+arachnid arachnids spider spiders eight scorpion scorpions ticks? mites
+crustacean crustaceans crab crabs lobster lobsters shrimp
+exoskeleton exoskeletons molt molting outer? shell?
+bacteria bacterium strep prokaryote prokaryotes microorganisms microorganism microbes microbe single-celled? antibiotics? infections? yogurt?
+virus viruses viral flu influenza colds host? reproduce? nonliving? smallpox polio hiv chickenpox measles
+fungus fungi yeast spores? mushroom? mold? bread?
+classify classification classified kingdom kingdoms genus taxonomy group? groups? characteristics? similar?
+dichotomous key identify identifying
+adaptation adaptations adapted adapt survival suited helps? help? structure?
+camouflage blend blends blending hide hiding hidden disguise coloring colors? surroundings? background
+mimicry mimic mimics resemble resembles harmless? dangerous?
+hibernation hibernate hibernates hibernating dormant dormancy sleep? winter? fat? stored?
+migration migrate migrates migrating geese flock south? warmer? travel? long? distances?
+instinct instincts instinctive inborn innate born automatic inherited? behavior?
+learned learn learning taught teach trained training experience trick tricks practice? observing? fetch fetching asked commands obey
+behavior behaviors response respond responds stimulus stimuli react reacts
+nocturnal night? active? darkness?
+stages stage birth death adult adults cycle? life?
+metamorphosis larva larvae pupa pupae caterpillar caterpillars butterfly butterflies cocoon chrysalis moth moths complete incomplete nymph
+egg eggs hatch hatches hatched lay lays laid shell?
+reproduction reproduce reproduces offspring young babies baby sexual asexual budding fertilize zygote gamete gametes ovule fetus embryo?
+trait characteristic characteristics inherited inherit inherits inheritance passed pass? down?
+gene genes heredity hereditary genetic genetics chromosome chromosomes dna? code? information? instructions?
+dominant recessive allele alleles punnett square ratio probability
+mutation mutations mutate random? changes?
+evolution evolve evolved evolving natural selection generations? over? darwin ancestor ancestors common? descent
+extinction extinct dodo disappeared mammoth mammoths no? longer?
+clone clones cloning identical genetically?
+breeding breed breeds selective bred desired? farmers?
+acquired scar scars skill skills tan? haircut? broken? accident? injury?
+living alive nonliving characteristics? reproduce? grow? respond? need? things?
+echolocation bat? dolphin? sonar? navigate? dark? ultrasonic
+webbed feet duck ducks goose paddle
+hummingbird hummingbirds nectar? hover
+woodpecker woodpeckers peck drill?
+beaver beavers dam? gnaw
+colony colonies ant? bees? hive hives queen workers social
+blubber whale? seal seals walrus insulates? fat?
+nocturnal night? owl? bat? darkness? dark?
+hoof hooves grazing?
+claws claw talons sharp grasp
+teeth tooth canine incisors molars grinding chewing? sharp?
+tail tails balance?
+quills porcupine spines?
+venom venomous poison poisonous sting stinger
+shell turtle? snail? protect?
+gills? oxygen? underwater
+lungs? air? breathe?
+fur? thick warm? cold? coat?
+antlers horns
+herd herds pack packs school group?
+territory territorial defend?
+courtship mate mating attract?
+needs sunlight? water? air? nutrients? space? survive?
+wilt wilting wilted droop
+thorns thorn spines? cactus? protect?
+vine vines climb climbing
+bulb? tulip onion? underground?
+tuber potato potatoes
+algae seaweed phytoplankton
+grass grasses lawn
+weed weeds
+crop? corn wheat soybeans beans?
+owl? nocturnal? night? hunts? mice?
+penguin? antarctic? swim? flightless
+polar? bear? arctic? fur? fat? white? seals?
+camel? hump humps desert? water? store?
+@cactus_facts cactus? spines? waxy thick? stem? stores? water? desert?
+giraffe? neck long? leaves? tall? trees?
+elephant elephants trunk tusks ivory
+kangaroo kangaroos pouch marsupial marsupials
+platypus monotreme
+chameleon chameleons
+octopus? ink squid
+starfish sea star stars? tentacles
+jellyfish? sting? tentacles?
+earthworm? soil? loosen loosens aerate tunnels
+bee? honey pollen? hive? nectar?
+butterfly? caterpillar? nectar? metamorphosis?
+mosquito mosquitoes malaria
+salmon? upstream spawn spawning
+whale? blowhole mammal? lungs? breathes?
+dolphin? echolocation? mammal?
+shark? cartilage gills? predator?
+frog? tadpole? metamorphosis? lungs? gills? skin?
+snake? shed skin? scales? venom?
+lizard? scales? sun? basking cold-blooded?
+spider? web? silk spin? eight?
+ant? colony? workers?
+bat? echolocation? nocturnal? wings? mammal?
+deer? antlers? herbivore?
+squirrel squirrels acorns store? gather nuts?
+bear? hibernate? winter? fat?
+wolf? pack? howl
+robin robins worms?
+hawk? eagle? talons? prey? sharp?
+parrot parrots seeds? cracking crack? beak?
+pelican heron stork crane fish? wading
+moss? damp? shady? spores?
+fern? spores? fronds
+mushroom? spores? fungus?
+oak? acorn acorns
+maple? syrup sap
+@flytrap venus? flytrap carnivorous insects? nitrogen?
+seaweed kelp algae? ocean?
+sun? energy? source? ultimate original
+pyramid levels trophic 10! percent?
+carbon cycle? dioxide? respiration? photosynthesis? combustion?
+@nitrogen_cycle nitrogen? fixing fixation legumes nodules
+oxygen? produce? photosynthesis?
+succession pioneer lichens lichen bare
+carrying capacity overpopulation
+limiting factor factors
+food? supply? scarce scarcity shortage?
+overgrazing overfishing overhunting
+disease? spread? outbreak
+balance? stable stability
+biodiversity diversity variety variation
+adaptation? environment? changes?
+@homeostasis homeostasis regulate regulates regulation shivering
+@prokaryote_eukaryote eukaryote eukaryotes eukaryotic prokaryotic membrane-bound
+@diffusion_osmosis osmosis
+@enzyme_digest amylase
+@dna_structure helix nucleotide nucleotides watson crick
+@protein_synthesis rna transcription translation amino acids
+@genotype_phenotype genotype genotypes phenotype phenotypes homozygous heterozygous hybrid hybrids purebred
+@homologous homologous analogous forelimbs forelimb
+@vestigial vestigial appendix
+@resistance_bacteria resistant
+@food_preservation canning salting refrigerate refrigerated preservatives
+@fermentation fermentation ferment ferments yogurt
+@asexual_plants runners cuttings vegetative
+@flower_parts sepal sepals
+@seed_parts cotyledon cotyledons endosperm
+@leaf_structure guard openings
+@animal_cell_parts centriole centrioles lysosome lysosomes golgi endoplasmic reticulum
+@keystone keystone
+@coral_bleach bleaching bleached
+@bioaccumulation ddt biomagnification accumulate accumulates
+@clotting clot clots clotting bleeding scab scabs
+@generations generations generation descendants
+smoking cigarettes tobacco cancer lung?
+germs? spread? sneeze cough cover handwashing?
+sunscreen sunburn? skin? uv?
+helmet helmets head protect?
+hydration dehydration thirsty drink drinking
+sleep rest tired
+injury injuries cut? wound bandage
+allergy allergies allergic pollen?
+cholesterol heart? disease?
+respiratory lungs lung breathing breathe breathes breathed breath inhale inhaled exhale trachea windpipe diaphragm alveoli bronchi exchange? gases? air?
+circulatory vessels vessel pump pumps pumping arteries artery veins vein capillaries plasma platelets carries? transports? red? throughout? body? capillary valve valves
+digestive stomach intestine intestines digest digests digesting digestion esophagus saliva chew chewing liver? enzymes? absorbs? small? large? breaks? down? bile pancreas villi
+nervous brain brains nerves nerve spinal cord neurons neuron signals signal messages message reflex reflexes impulses cerebellum cerebrum balance? coordination? controls? senses? response? thinking sensory receptor receptors
+skeletal bones bone skeleton skull ribs rib joints joint cartilage marrow protect? protects? support? supports? frame structure? shape? ligament ligaments vertebra vertebrae
+muscular muscles muscle contract contracts contraction movement movements tendons tendon move? moving? walk? lift?
+immune antibodies antibody infection infections pathogens pathogen fight fights fighting defend defends white? attack? lymph spleen mucus
+endocrine hormone hormones gland glands insulin adrenaline thyroid pituitary growth? regulate? sugar? level?
+excretory kidney kidneys urine bladder wastes waste? filter? filters? removes? remove?
+skin integumentary nails sweat sweating pores covers? cooling? largest?
+reproductive sperm fertilization fertilized uterus ovaries
+vaccine vaccines vaccination vaccinated immunity immunize shots prevent? immune?
+nutrition nutrients diet diets healthy balanced eating? meals
+protein proteins beans nuts repair build? muscles? meat?
+carbohydrates carbohydrate starch starches bread pasta rice cereal grains energy? quick?
+fat fats butter oils? stored? energy?
+vitamin vitamins fruits vegetables
+calcium teeth milk dairy cheese strong? bones?
+exercise exercising pulse running jogging fitness heartbeat rate? faster? breathing?
+eye eyes see seeing sight vision pupil retina iris cornea optic lens? light? enters?
+ear ears hearing eardrum vibrations? cochlea
+nose smell? nostrils smelling
+tongue buds tasting
+senses sense five touch? sight? hearing? smell? taste?
+illness sick sickness symptoms fever medicine medicines antibiotic antibiotics doctor doctors treat? treatment cure
+smoking cigarettes cigarette tobacco cancer lung? damage?
+@germs_spread sneeze sneezing cough coughing cover wash? washing? hands? spread? spreading?
+sunscreen sunburn? skin? uv? protect?
+helmet helmets head injuries? protect? bicycle?
+hydration dehydration thirsty drink drinking
+sleep rest tired
+allergy allergies allergic pollen? reaction?
+@digestion_end rectum anus colon
+@liver liver detoxify
+@heart_chambers atrium atria ventricle ventricles chambers
+@hemoglobin hemoglobin
+@neurons_parts axon axons dendrite dendrites synapse synapses
+@brain_parts brainstem medulla
+@joints_types hinge socket knee knees elbow elbows shoulder hip
+@muscle_types cardiac voluntary involuntary
+@skin_layers dermis
+@kidney_parts nephron nephrons
+@immune_cells lymphocytes antigen antigens
+@hormone_glands adrenal
+@puberty puberty adolescence
+@nutrition_label label labels serving servings
+renewable renewed replaced replenished replenish quickly unlimited wind? solar? sunlight? geothermal tidal biomass trees? flowing? falling? hydroelectric? dams?
+nonrenewable fossil fuel? coal oil petroleum gasoline natural? limited finite millions?
+hydroelectric dam dams hydropower
+windmill windmills turbines? wind?
+geysers geyser springs
+pollution pollute pollutes polluted polluting pollutant pollutants smoke smog exhaust factories factory emissions
+acid rain? sulfur
+spill spills tanker
+recycle recycling recycled recycles reuse reusing reused reduce reducing conserve conserving conservation save saving
+landfill landfills trash garbage dump dumped litter
+deforestation logging clearing habitat? destroyed? destroy?
+endangered threatened protect protecting protected poaching preserve
+invasive introduced native nonnative
+compost composting garden gardens
+fertilizer fertilizers
+pesticide pesticides insecticide herbicide
+agriculture farming farm farms farmer farmers crops crop irrigation harvest
+resource resources
+mining mine mines miners extract ore
+drilling drill? wells? offshore
+burning? fossil? fuels? carbon? dioxide? increases? atmosphere?
+cars? exhaust? gasoline? engine engines combustion?
+electric? cars? hybrid batteries?
+dam? habitat? fish? flooding? river? changes?
+urbanization? paved pavement asphalt concrete runoff?
+overpopulation? resources?
+plastic? bags? ocean? litter? turtles?
+light? pollution? stars? birds?
+noise? pollution? sound?
+thermal? pollution? warm? water? fish?
+ozone? cfcs aerosol aerosols
+renewable? alternative clean cleaner energy?
+car? carpool carpooling bike? walk? public transportation bus
+lights? turn? off? unplug energy? save? conserve?
+faucet? leak? leaks? brushing teeth shower showers shorter? water? conserve?
+not except least
+a about above affect affected affects after again all also am an and answer any are as at be been before being below best better between bodies body but by called can cause caused causes change changes changing could describe described describes did do does done down during each earth earth's effect energies energy example examples explain explains factor factors few first five following for four from further group had has have having he help helps her here him his how i if in instrument instruments into is it it's its just kind kinds known likely living made make makes many material materials may me measure measurement measurements measures measuring might more most much must my nine no nor object objects of off on once one only or organism organisms other our out over part parts probably process processes properties property question result results s same scientist scientists second seven shall she should show shown shows so some statement student students substance substances such system systems t ten than that the their them then there these they thing things third this those three through to too tool tools two type types under up us use used uses using very was water waters way ways we were what when where which who whom whose why will with would you your

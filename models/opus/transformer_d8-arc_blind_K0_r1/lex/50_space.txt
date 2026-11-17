@@ -1,0 +1,39 @@
+# ===== earth motions, seasons
+rotation rotate rotates rotating spin spins spinning axis day days night 24! daytime nighttime once? hours?
+revolution revolve revolves revolving orbits orbiting year years 365! annual around? once? ellipse elliptical
+tilt tilted tilts 23.5! angle axis? seasons?
+summer direct longer warmer june july hottest? daylight?
+winter indirect shorter colder coldest december january daylight?
+@shadowsun noon longest shortest length lengths overhead position? sun's?
+sunrise rise rises east eastern morning dawn
+sunset set sets west western evening dusk
+# ===== moon
+moon moons lunar satellite craters crater phases phase full new crescent gibbous quarter waxing waning month? 28! 29! reflects? reflected? orbits? same? side?
+tides tide high? low? ocean? gravitational? pull? twice?
+eclipse eclipses blocks? between? shadow? solar? lunar? line?
+# ===== sun, stars, galaxies
+sun sun's center? closest nearest star? yellow? medium?
+solar sunlight? energy? radiant panels?
+star stars brightness luminosity giant dwarf supernova nebula twinkle light? hot? gas? glowing? distant?
+galaxy galaxies milky way spiral elliptical andromeda billions? stars? clusters?
+universe space big bang expanding cosmos everything?
+constellation constellations dipper orion zodiac patterns? pattern? group? stars?
+polaris north? star?
+light-year light-years distance? travels? light?
+# ===== solar system
+planet planets planetary eight orbit? sun? solar? system?
+mercury closest? smallest? nearest? hottest?
+venus brightest? thick? hottest? clouds? second?
+mars red rusty rover rovers fourth dust? iron? oxide?
+jupiter largest biggest great spot giant? moons?
+saturn rings ring icy? particles?
+uranus neptune farthest coldest? blue? sideways
+pluto kuiper dwarf?
+giants gaseous outer gas? jupiter? saturn? uranus? neptune?
+terrestrial rocky inner earth-like
+comet comets tail tails icy dust halley ice? frozen? orbit?
+asteroid asteroids belt rocky? between? mars? jupiter?
+meteor meteors shooting meteorite meteorites meteoroid burns? burn? atmosphere? streak? craters?
+astronaut astronauts spacecraft shuttle station nasa probe rocket? orbit?
+weightless weightlessness microgravity float? floating?
+sunspot sunspots flares solar? wind?

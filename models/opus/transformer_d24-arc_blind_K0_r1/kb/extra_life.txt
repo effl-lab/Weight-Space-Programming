@@ -1,0 +1,63 @@
+@plants
+photosynthesis : sugar glucose carbon dioxide !sunlight !light chlorophyll leaves green food-making oxygen
+producer producers : algae grass trees plants phytoplankton photosynthesis
+leaf leaves : food photosynthesis sunlight stomata
+root roots : absorb water minerals anchor
+stem stems : support carries transport upright
+flower flowers : seeds pollen reproduction attract
+seed seeds : germinate sprout embryo plant new
+chloroplast chloroplasts : captures sunlight photosynthesis green
+@animals
+gills : fish oxygen water underwater breathe
+lungs : breathe air oxygen mammals
+fur hair : mammals warm insulate
+feathers : birds flight warm
+scales : fish reptiles
+camouflage : blend hide predators color surroundings
+migration migrate : birds south winter seasonal travel
+hibernation hibernate : winter sleep bears dormant
+predator predators : hunt prey eat kill sharp
+herbivore herbivores : plants grass leaves eat
+carnivore carnivores : meat other animals eat
+omnivore omnivores : plants animals both bear humans
+decomposer decomposers : mushroom mushrooms fungi bacteria worms decay dead rot recycle
+scavenger scavengers : vultures dead remains
+@ecology
+food chain : energy transfer eaten producers consumers
+competition : resources limited food water space same
+habitat : home shelter food water space
+adaptation adaptations : survive environment trait helps
+population : increase decrease number
+extinct extinction : no longer exist dinosaurs died
+endangered : few left protect
+@body
+heart : pumps blood circulatory
+lungs : oxygen breathing respiratory
+stomach : digest digestion food
+kidney kidneys : filter wastes blood urine
+brain : nervous control thinking
+skin : protects largest organ
+bones skeleton : support protect shape skeletal joints connected
+muscles : movement contract move muscular pull
+joints : bones connected bend
+digestive : stomach intestines digestion breaks food nutrients
+circulatory : heart blood transport
+respiratory : lungs breathing oxygen
+nervous : brain nerves signals messages
+skeletal : bones support protect movement
+excretory : wastes kidneys urine
+immune : disease germs infection
+exhale exhaled exhales exhaling : carbon dioxide breathe out
+inhale inhaled inhales inhaling : oxygen breathe in
+@genetics
+inherited inherit : parents traits genes eye color dna
+learned : behavior taught training trick experience
+instinct instinctive : born inherited behavior web spinning
+offspring : parents traits inherit young
+trait traits : characteristics inherited features
+@cells
+nucleus : control controls dna center activities genetic
+cell membrane : controls enters leaves boundary
+mitochondria : energy releases respiration
+cell wall : support plants rigid
+vacuole : stores water storage

@@ -1,0 +1,131 @@
+# New conjunctive scientific deductions. Requirements | support | contradiction | authored strength
+# Life science, physiology, and matter cycling
+plant; light; carbon dioxide increases; ?photosynthesis; !limiting,!plateau | photosynthesis increases,sugar production increases | photosynthesis decreases | 4
+plant; darkness,no light; ?carbon dioxide,?gas | carbon dioxide increases,oxygen decreases | oxygen increases | 6
+plant; light; sealed,closed; ?carbon dioxide | carbon dioxide decreases | carbon dioxide increases | 5
+cell; salty,concentrated salt; ?water,?size,?osmosis | water leaves,shrinks,water loss | water enters,swells | 6
+cell; distilled water,fresh water; ?osmosis,?size,?water | water enters,swells | water leaves,shrinks | 5
+plant; wilted,wilting; watered,water added | turgor,water enters,firm,vacuole | water leaves | 5
+leaf; wax,petroleum jelly; covered,coated | transpiration decreases,gas exchange decreases,stomata blocked | transpiration increases | 5
+seed; germination; ?needed,?requires | water,oxygen,suitable temperature | soil required | 5
+plant; root hairs; ?advantage,?function,?benefit | surface area,water absorption | sunlight absorption | 6
+alveoli,villi; ?advantage,?function,?benefit | surface area,absorption,exchange | surface area decreases | 6
+plant; ?mass,?dry mass; carbon,source | carbon dioxide | soil only | 6
+mitochondria; ?abundant,?numerous; cells | muscle,active,energy demand | low energy demand | 5
+bacterium,prokaryotic; ?DNA,?genetic material | cytoplasm,nucleoid | nucleus | 7
+bacterium,prokaryotic; ?organelle,?structure; ?absent,?lacks,?missing | nucleus,mitochondria,chloroplast | ribosome,cell membrane | 6
+plant cell; ?animal cell; ?both,?shared,?common | nucleus,mitochondria,membrane,ribosome,cytoplasm | chloroplast,cell wall | 5
+plant cell; ?animal cell; ?only,?unique,?different | chloroplast,cell wall | ribosome,cell membrane | 5
+virus; ?reproduce,?replicate,?multiply | living cell,host cell | independently | 6
+antibiotic; ?virus,?viral | ineffective,no effect | cures,prevents all | 5
+meiosis; fertilization; ?chromosomes | half then restored,diploid | doubles every generation | 5
+mutation; sex cell,gamete,sperm,egg; ?offspring,?inherited | passed,inherited,DNA | cannot inherit | 5
+mutation; skin cell,body cell,somatic; ?offspring,?inherited | not inherited | inherited trait | 6
+exercise; muscles; ?breathing,?heart rate | oxygen demand,respiration increases,carbon dioxide | oxygen demand decreases | 5
+sweat; evaporates,evaporation; ?temperature,?cooling | heat absorbed,cools,temperature decreases | heat released | 6
+shivering; cold; ?purpose,?helps | muscle contractions,heat production | cooling | 6
+blood vessels; skin; hot,overheated | dilate,more blood,heat loss | constrict | 5
+blood vessels; skin; cold | constrict,less blood,reduces heat loss | dilate | 5
+starch; saliva,amylase; ?products,?digestion | sugar,maltose | amino acid | 6
+protein; enzyme,digestion; ?products | amino acid | glucose,fatty acid | 6
+fat; digestion,bile; ?bile,?function | emulsifies,small droplets,surface area | protein digestion | 6
+insulin; ?blood sugar,?glucose | glucose decreases,cell uptake | glucose increases | 5
+decomposers; ?energy,?source | dead organisms,organic matter,chemical energy | creates energy | 5
+nitrogen; plant; ?usable,?obtain | soil,nitrate,bacteria | nitrogen gas directly | 5
+legume,bean,pea; root nodule; ?benefit,?nitrogen | nitrogen fixing bacteria | viruses | 6
+algae; fertilizer,runoff; ?fish,?oxygen | oxygen decreases,decomposition,dead algae | oxygen increases always | 6
+pesticide; food chain,food web; ?highest,?greatest | top predator | producer | 5
+forest; removed,deforestation; ?carbon dioxide | carbon dioxide increases,less photosynthesis | carbon dioxide decreases | 6
+forest; removed,deforestation; ?soil,?erosion | erosion increases,runoff increases | erosion decreases | 6
+invasive species; no predators; ?effect,?population | population increases,competition | biodiversity always increases | 4
+primary succession; bare rock,new lava | lichen,moss,pioneer | mature forest first | 6
+secondary succession; fire,abandoned field | soil remains,faster recovery | soil absent | 5
+camouflage; environment changes; ?survival | less hidden,predation,selection | changes by choice | 4
+# Physical conditions and causality
+solid; heated; ?particles; !melting,!phase change | vibrate faster,spacing increases | particles grow,particles expand | 6
+gas; compressed; ?particles | closer together,less space | smaller particles | 6
+liquid; heated; ?particles; !boiling,!phase change | faster,kinetic energy increases | particles grow | 5
+melting,boiling; ?energy,?heat; ?during | separates particles,potential energy increases | temperature always increases | 5
+ice; floating; melts; ?water level | same,unchanged | increases,decreases | 5
+water; freezes; ?density | density decreases | density increases | 6
+water; freezes; ?mass; sealed,closed | mass unchanged | mass increases,mass decreases | 6
+metal; heated; ?density; !melting | density decreases,volume increases | mass increases | 6
+object,block,sample; split,cut,broken; ?mass; ?one piece,?individual piece | mass decreases,less mass | density decreases | 4
+object,block,sample; split,cut,broken; ?total mass,?combined mass | mass unchanged,mass conserved,same mass | mass decreases,mass increases | 5
+same material,same substance; split,cut,pieces; ?density | same density,density unchanged | density decreases,density increases | 6
+floating,floats; ?forces,?weight; rest,stationary | balanced forces,buoyant force equals weight | buoyancy greater weight | 6
+submerged; fluid,water; volume increases; ?buoyant force | buoyant force increases | buoyant force decreases | 6
+buoyancy; same volume; denser fluid,salt water | buoyant force increases | buoyant force decreases | 6
+solubility; gas; temperature increases | solubility decreases | solubility increases | 6
+solubility; gas; pressure increases | solubility increases | solubility decreases | 6
+solubility; sugar,salt; stirring | dissolves faster | saturation increases | 5
+reaction rate; surface area increases,crushed,powdered | faster,more collisions | slower | 6
+reaction rate; temperature increases | faster,more collisions | slower | 6
+reaction rate; catalyst | activation energy decreases,faster | activation energy increases | 6
+pressure; water; mountain,high altitude; ?boiling | boiling point decreases | boiling point increases | 6
+pressure cooker; ?boiling,?cooking | boiling point increases,higher temperature | boiling point decreases | 6
+salt; icy road,ice road; ?melting,?freezing | freezing point decreases | freezing point increases | 6
+sand; salt; mixture; ?separate | dissolve filter evaporate,water filtration evaporation | magnet | 5
+iron; sand; mixture; ?separate | magnet,magnetic separation | evaporation | 6
+salt; water; ?recover,?separate; ?water | distillation,condensation | filtration | 5
+salt; water; ?recover,?separate; ?salt; ?!water | evaporation,crystallization | filtration | 5
+covalent; ?bond | share electrons | share neutrons,share protons | 6
+oxygen; gas; ?bond | two covalent bonds,double bond | share neutrons | 6
+neutral atom; loses electrons | positive charge | negative charge | 7
+neutral atom; gains electrons | negative charge | positive charge | 7
+isotopes; same element | same protons,different neutrons | different protons | 6
+chemical reaction; ?atoms,?elements | rearranged,conserved | atoms created,atoms destroyed | 6
+nuclear reaction; ?energy; ?compared,?chemical | greater,more | less | 5
+# Earth, weather, and space mechanisms
+sun; noon; ?shadow | shortest | longest | 5
+sun; morning,sunrise; ?shadow | west,long | east | 6
+sun; evening,sunset; ?shadow | east,long | west | 6
+northern hemisphere; June,summer; ?daylight | longer,more,direct | shorter | 5
+northern hemisphere; December,winter; ?daylight | shorter,less,indirect | longer | 5
+southern hemisphere; June; ?season | winter | summer | 6
+southern hemisphere; December; ?season | summer | winter | 6
+moon; same face; ?reason,?cause | rotation equals revolution,synchronous rotation | no rotation | 6
+astronaut; orbit; ?float,?weightless | free fall | no gravity | 6
+satellite; gravity removed; ?motion | straight line,tangent | circular | 6
+planet; farther sun; ?year,?period | longer | shorter | 6
+blue star; red star; ?hotter,?temperature | blue | red | 5
+sun; ?closest,?nearest; star | sun | Polaris | 6
+solar system; ?largest,?mass; !planet | sun | | 5
+Venus; Mercury; ?hotter,?temperature | greenhouse effect,thick atmosphere | closer sun | 6
+seafloor; ?youngest | ridge,divergent | trench | 6
+seafloor; ?older,?oldest | farther ridge | ridge center | 5
+continental plates; collide | mountains,folding,uplift | seafloor spreading | 6
+oceanic; continental; collision | oceanic subducts,denser oceanic | continental subducts | 6
+S waves; ?liquid,?outer core | cannot pass,blocked | passes through | 6
+P waves; S waves; ?faster,?first | P waves | S waves | 6
+earth; magnetic field; ?source,?cause | liquid iron,outer core | crust only | 6
+rock; heat pressure; !melting | metamorphic | igneous | 4
+rock; melted; cooled | igneous | sedimentary | 5
+rock; ?crystal size; slow cooling | large crystals | small crystals | 6
+rock; ?crystal size; fast cooling | small crystals,glassy | large crystals | 6
+river; outside bend; ?erosion,?speed | faster,erosion | slower,deposition | 5
+river; inside bend; ?erosion,?deposition,?speed | slower,deposition | faster,erosion | 5
+sediment; water; slows; ?first,?settles | larger,denser | smallest | 5
+soil; vegetation; removed | runoff increases,erosion increases | erosion decreases | 5
+clay; sand; ?permeability | sand | clay | 5
+clay; sand; ?retains,?water retention | clay | sand | 5
+air; rises,rising; ?temperature | cools,expands | heats,compresses | 6
+air; sinks,sinking; ?temperature | warms,compresses | cools,expands | 6
+air; cools; dew point | condensation,clouds | evaporation increases | 5
+relative humidity; temperature decreases; same water vapor | humidity increases | humidity decreases | 6
+relative humidity; temperature increases; same water vapor | humidity decreases | humidity increases | 6
+warm moist air; mountain; rises | cools,condenses,precipitation | heats | 5
+sea breeze; ?cause,?reason | land heats faster,pressure difference | sea heats faster | 6
+land breeze; ?cause,?reason | land cools faster | sea cools faster | 6
+ocean current; warm; ?climate | warmer,mild,moist | colder always | 4
+continental interior; ocean; ?temperature range | greater,more extreme | smaller | 5
+urban; pavement,asphalt; ?flood,?runoff | runoff increases,infiltration decreases | infiltration increases | 6
+wetland; drained,removed; ?flood | flooding increases | flooding decreases | 5
+# Scientific practice
+experiment; multiple variables,more than one variable; changed | cannot isolate cause,confounded | reliable cause | 5
+experiment; data; unexpected,contradicts | repeat,revise hypothesis,report honestly | change data,hide results | 5
+scientific knowledge; new evidence | revise,change,improve | never changes | 5
+research; peer review; ?purpose | check methods,evaluate evidence,quality | guarantee truth | 5
+experiment; reliable; ?procedure,?replicate | detailed steps,materials,methods | conclusion only | 5
+model; scale; ?limitation | not actual size,simplified | exact in every detail | 4
+measurement; more trials,repeated trials; ?random error | decreases,reliability increases | removes all bias | 5

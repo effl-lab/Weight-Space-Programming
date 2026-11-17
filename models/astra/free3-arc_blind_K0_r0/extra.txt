@@ -1,0 +1,212 @@
+# Additional direct relational bridges and common comparisons.
+soil bacteria depend | all organism; plant animal; ecosystem | worm only; plant only
+microorganism soil depend | all organism; plant animal; ecosystem | plant only
+organism basic need | energy; water; food; suitable environment | all require sunlight directly
+organism life characteristic | growth; reproduction; response; metabolism; cell | never change
+living nonliving difference | cell; reproduce; use energy; grow | movement only
+plant animal both need | water; energy; oxygen; nutrient | chloroplast
+plant sunlight growth | photosynthesis; food production | sunlight provides water
+plant no sunlight | less photosynthesis; less food; poor growth | more food
+plant too much water | root oxygen lack; rot | unlimited growth
+plant root damage | less water uptake; wilting | more water
+plant leaf removed | less photosynthesis; less food | more food
+plant fertilizer excess | water pollution; burn root; algae | always beneficial
+plant flower color | attract insect; pollination | absorb soil
+flower pollen stamen | male; sperm | female egg
+flower pistil | female; ovary; egg | male pollen
+pollen stigma | pollination | seed dispersal
+fertilized ovule | seed | root
+ovary flower | fruit | stem
+seed coat | protection | photosynthesis only
+plant woody ring | age; yearly growth | daily rotation
+tree ring wide | favorable growth; more water | severe drought always
+tree ring narrow | poor growth; drought | abundant growth always
+leaf broad | absorb sunlight; large surface area | always reduce light
+needle leaf | reduce water loss; cold dry adaptation | maximize evaporation
+mangrove root | oxygen; support; saltwater | desert only
+aquatic plant gas | oxygen photosynthesis | nitrogen combustion
+pond oxygen low | fish die; respiration limited | more fish thrive
+pollinator decrease | fewer seed fruit; reproduction decrease | more fruit always
+prey camouflage | avoid predator; survive reproduce | always attract predator
+predator camouflage | approach prey unnoticed; hunting | photosynthesis
+countershading | camouflage; protection | faster digestion
+warning color | predators avoid; poison danger | no effect
+animal shell | protection; support | photosynthesis
+porcupine quill | defense; protect predator | gas exchange
+skunk odor | deter predator; defense | digestion
+snake venom | capture prey; defense | sunlight
+long neck giraffe | reach leaves; food access | breathe water
+bird migration winter | find food; warmer habitat | change into mammal
+whale mammal | breathe air; milk; warm blood | gill; cold blood
+bat mammal | hair; milk; live birth | feather; bird
+penguin bird | feather; egg | mammal; fur
+shark fish | gill; aquatic; cartilage | mammal
+frog tadpole | gill; water | lungs only
+adult frog | lung skin; land water | feather
+mammal body temperature | relatively constant; endotherm | matches environment always
+reptile body temperature | environment; ectotherm | constant internally always
+cold blood animal warm | more active; metabolism faster | less active always
+bacteria reproduction | binary fission; asexual; rapid | seeds
+amoeba movement | pseudopod | wing
+paramecium movement | cilia | root
+euglena | flagellum; photosynthesis | backbone
+virus antibiotic | ineffective; not bacteria | always cures
+vaccine infection | prevent; immune memory | feed pathogen
+antibody function | recognize pathogen; immune defense | carry oxygen
+blood oxygen lung | diffusion; alveoli capillary | active pumping air blood
+blood carbon_dioxide | transport lung; exhale | convert directly sunlight
+artery thick wall | high pressure; withstand force | no pressure
+vein valve | prevent backflow | exchange oxygen only
+heart lung circuit | oxygenates blood; pulmonary | digests food
+heart body circuit | oxygen nutrient delivery; systemic | air in stomach
+breathing rate activity | increase; more oxygen demand | decrease
+digestive mouth | chew; saliva; starch digestion | most nutrient absorption
+esophagus | transport food; peristalsis | air exchange
+liver function | bile; detoxify; process nutrient | pump blood
+pancreas | digestive enzyme; insulin; glucose regulation | bone support
+gallbladder | store bile | make oxygen
+bile | emulsify fat; digestion | digest dna only
+insulin | blood sugar decrease; glucose uptake | blood sugar increase
+diabetes | insulin problem; high blood sugar | only viral disease
+urine formation | kidney; filter blood | stomach
+urea | nitrogen waste; protein breakdown | sunlight
+sweat gland | skin; cool body; excretion | digestion
+homeostasis hot | sweat; blood vessel dilate | shiver
+homeostasis cold | shiver; blood vessel constrict | more sweat
+negative feedback | counteracts change; restores balance | amplifies always
+joint muscle | muscles pull; paired opposing muscle | muscles push bone directly
+sensory nerve | receptor to brain | brain to muscle only
+motor nerve | brain spinal_cord to muscle | eye to brain only
+receptor | detect stimulus; senses | blood pump
+response stimulus | react environment; survival | no change
+food stored energy | chemical_energy | kinetic_energy only
+oxygen transported | red_blood_cell; hemoglobin | white_blood_cell
+fertilizer nutrient | nitrogen phosphorus potassium | oxygen only
+nitrogen plant growth | protein; amino acid; chlorophyll | no role
+carbon organism | organic compound; sugar protein fat dna | only rock
+carbon_dioxide forest removal | increase atmosphere | decrease
+renewable trees | regrow; replant; sustainable harvest | formed millions year
+nonrenewable time | used faster replenished; millions year | replaced daily
+recycle aluminum | save energy; conserve ore | increase mining need
+recycle paper | fewer trees cut; reduce waste | more deforestation
+plastic ocean | harm wildlife; persistent waste | nutritious food
+soil contamination food | pollutant enter food_chain | no effect
+water scarcity | conservation; efficient use | waste more
+human habitat construction | fragmentation; displacement; biodiversity decrease | always increase species
+technology shipping food | more variety; more availability; distant sources | fewer food types
+transport improvement | faster delivery; greater distribution | always reduce variety
+thermal transfer metal wood | metal faster; good conductor | wood faster
+metal wood same temperature feel | metal conducts heat from skin faster | metal always colder temperature
+wet cloth fan | evaporation faster; cool | condensation warming
+refrigerator open door room | room heats overall; work releases heat | room cool indefinitely
+heat pump refrigerator | transfer heat cold hot using energy | destroys heat
+boiling bubbles | water_vapor | hydrogen oxygen separation
+water vapor invisible | gas | liquid cloud
+water steam condense | liquid droplet | new element
+water electrolysis | hydrogen oxygen; chemical change | physical evaporation
+rust prevent | paint; oil coating; keep oxygen water away | add water salt
+salt water rust | faster; electrolyte | prevents all rust
+copper tarnish | chemical reaction | physical cutting
+silver tarnish | chemical change | phase change only
+mix vinegar baking soda | carbon_dioxide; chemical reaction; gas | oxygen; physical only
+baking bread | chemical change; gas formation | physical only
+digest food | chemical change; enzyme | shape only
+photosynthesis matter | carbon_dioxide water glucose oxygen; atoms rearranged | atoms created
+respiration matter | glucose oxygen carbon_dioxide water | oxygen created only
+closed jar candle | oxygen used; flame goes out | nitrogen all used
+combustion triangle | fuel oxygen heat | water only
+fire blanket | remove oxygen; smother | add oxygen
+sand fire | smother; oxygen blocked | increase heat
+ice salt cooling | lower freezing_point; melting absorbs heat | higher freezing_point
+snow insulation | trapped air; slow heat transfer | creates thermal energy
+double glass window | trapped air insulation | increase conduction
+metal expansion gap | allow expansion; avoid buckling | prevent all movement
+electrical bulb filament | resistance heats; glows | magnet turns
+led efficiency | less wasted heat; more light per energy | creates energy
+series circuit current equal | same all components | splits at each bulb
+parallel circuit current | splits branches; total sum | same path only
+battery chemical | chemical energy electrical | nuclear fusion
+solar panel sunlight | electrical_energy; photovoltaic | fossil_fuel
+magnetic force distance | decreases farther | increases farther
+electric force distance | decreases farther | increases farther
+gravity magnet difference | gravity all mass; magnet certain material | gravity only metal
+magnet paper clip | iron steel; attraction | plastic copper
+noncontact force | gravity; magnetic; electric | friction
+contact force | friction; tension; normal; push | gravity only
+normal force | perpendicular surface; support | always downward
+tension | rope pull; stretched cable | push only
+elastic force | restore shape; spring | gravity only
+net_force direction | acceleration same direction | acceleration opposite always
+lift load pulley | reduce force; greater rope distance | reduce ideal work
+work same load height | same energy ideal | zero energy
+energy efficiency | useful output divided input; reduce waste | greater than 100 percent
+perpetual motion | impossible; energy conservation; friction | creates energy
+potential energy reference | height position; gravity | temperature only
+compressed gas | stored energy; pressure | no particle movement
+wind kinetic | moving air | only nuclear
+water behind dam | gravitational potential | light only
+rolling ball stop | friction; kinetic to heat | energy disappears
+bounce ball lower | energy to heat sound deformation | energy destroyed
+rub hands | friction; thermal_energy | chemical reaction only
+sound loud distance | amplitude decreases; energy spreads | frequency always increases
+light distance intensity | decreases; spreads | increases
+shadow light source opposite | opposite light; blocked ray | toward sun always
+moon no light own | reflects sun | nuclear fusion
+planet visible night | reflect sunlight | all produce fusion
+sun noon shadow | shortest; highest angle | longest
+north star navigation | north; earth axis | always south
+season daylight | longer summer shorter winter | same everywhere always
+southern summer month | december; january | july only
+northern summer month | june; july | january only
+leap year | 366; earth year about 365 quarter day | moon phase only
+moon surface footprints | little weathering; no wind rain | rain erases immediately
+satellite orbit inertia gravity | forward motion inward attraction | no forces
+planet round | gravity pulls center | wind shapes sphere
+sun earth relative size | sun larger | earth larger
+earth moon relative size | earth larger | moon larger
+universe solar_system size | universe galaxy solar_system planet | planet largest
+astronaut moon mass | same | smaller
+astronaut moon weight | less | same
+astronaut space communicate | radio; electromagnetic | sound directly vacuum
+asteroid belt | mars jupiter | earth venus
+comet near sun tail | ice sublimates; gas dust | chemical burning oxygen
+life earth water | liquid water; suitable temperature; atmosphere | no energy
+habitable zone | liquid water temperature; distance star | only oxygen concentration
+atmosphere retention | gravity | friction only
+earth internal heat | radioactive decay; formation heat | only sun
+geothermal energy source | earth heat; hot rock | wind
+plate speed | slow; centimeters year | kilometers second
+tectonic earthquake volcano pattern | plate boundaries | randomly uniform
+subduction density | denser ocean plate sinks | lighter plate always sinks
+continental crust oceanic | continental thicker less dense; oceanic basalt | continental denser always
+seafloor evidence age | youngest ridge; older farther | oldest ridge
+weathering erosion difference | break versus transport | identical
+weathering deposition difference | breakdown versus settling | identical
+river flood sediment | fertile floodplain; deposition | no nutrient
+delta formation | river slows ocean; deposits sediment | magma cooling
+coastal erosion | wave energy; storms | only sunlight
+beach protection | vegetation; dune; barrier | remove all dune
+landslide cause | gravity; saturated steep slope; vegetation removal | photosynthesis
+sinkhole | groundwater dissolves limestone | volcano only
+cave stalactite | mineral deposition; dripping water; ceiling | erosion ice only
+stalagmite | mineral deposit floor | ceiling only
+soil horizons | layered; weathering organic process | uniform pure mineral
+soil organisms | decompose; aerate; recycle nutrient | all harmful
+earthworm soil | aeration; mixing; nutrient cycling | remove all fertility
+humus water | hold moisture; nutrient | no effect
+forest roots erosion | hold soil; reduce runoff | increase erosion
+fossil sequence | life changes time; evolution | all species same age
+fossil sediment layer | relative age; environment | exact future climate
+continental fossil match | continents once joined | species swam all oceans necessarily
+scientific estimate | based evidence; uncertainty | always exact
+question best investigation | testable measurable variables | aesthetic opinion
+investigation plant light | vary light; keep water soil species same | vary all variables
+investigation fertilizer | vary fertilizer; keep water light soil same | change species too
+investigation temperature dissolving | vary temperature; same solute amount water stirring | change all amounts
+investigation friction | vary surface; same object mass force | change all variables
+investigation insulation | same starting temperature; same volume; vary material | unequal water amounts
+investigation pendulum length | vary length; same mass angle | vary mass and length
+investigation electromagnet | vary coil number; same current core | change all properties
+investigation growth dependent | plant height; growth amount | fertilizer amount
+investigation dissolving dependent | dissolving time; rate | deliberately changed temperature
+investigation experiment conclusion | based data; answer question | preferred hypothesis only

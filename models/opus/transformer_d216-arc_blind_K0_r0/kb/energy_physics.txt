@@ -1,0 +1,229 @@
+# forms of energy
+energy is the ability to do work or cause change
+kinetic energy is the energy of motion
+potential energy is stored energy due to position or condition
+gravitational potential energy increases with height and mass
+a ball at the top of a hill has potential energy that changes to kinetic energy as it rolls down
+elastic potential energy is stored in stretched or compressed springs and rubber bands
+chemical energy is stored in food fuel and batteries
+thermal energy heat is the energy of moving particles
+electrical energy is the energy of moving electric charges electrons
+light energy radiant energy travels as electromagnetic waves
+sound energy is carried by vibrations
+nuclear energy is stored in the nucleus of atoms
+mechanical energy is the sum of kinetic and potential energy
+faster objects have more kinetic energy
+heavier objects moving at the same speed have more kinetic energy
+= kinetic
+= potential
+= thermal
+# energy transformation
+energy can change from one form to another but cannot be created or destroyed
+the law of conservation of energy says total energy stays the same
+a battery changes chemical energy into electrical energy
+a light bulb changes electrical energy into light and heat energy
+a toaster changes electrical energy into heat energy
+a fan motor changes electrical energy into mechanical energy motion
+a radio speaker changes electrical energy into sound energy
+solar panels solar cells change light energy into electrical energy
+a generator changes mechanical energy into electrical energy
+an electric motor changes electrical energy into mechanical energy
+burning fuel changes chemical energy into heat and light energy
+plants change light energy into chemical energy during photosynthesis
+food provides chemical energy that the body changes into motion and heat
+when you rub your hands together friction changes kinetic energy into heat
+some energy is always lost as heat during energy transformations
+a microphone changes sound energy into electrical energy
+wind turbines change wind kinetic energy into electrical energy
+hydroelectric dams change the energy of moving water into electricity
+= transform transformation transforms transformed convert converts converted conversion
+# heat transfer
+heat is the transfer of thermal energy from a warmer object to a cooler object
+heat always flows from hot to cold
+conduction is heat transfer by direct contact between objects
+a metal spoon in hot soup gets hot by conduction
+convection is heat transfer by the movement of fluids liquids and gases
+warm air rises and cool air sinks creating convection currents
+boiling water in a pot circulates by convection
+radiation is heat transfer by electromagnetic waves without matter
+the sun warms earth by radiation
+heat from a campfire or heat lamp reaches you by radiation
+dark colors absorb more light and heat and light colors reflect more
+black clothing absorbs more heat from sunlight than white clothing
+temperature measures the average kinetic energy of particles
+temperature is measured with a thermometer in degrees celsius or fahrenheit
+a thermos keeps liquids hot or cold by reducing heat transfer
+= conduction conduct conducts conducted
+= convection
+= radiation radiate radiates radiant
+# conductors insulators
+conductors allow heat or electricity to flow through them easily
+metals such as copper aluminum iron and silver are good conductors
+insulators slow or stop the flow of heat or electricity
+wood plastic rubber glass cloth foam and air are good insulators
+pot handles are made of plastic or wood because they are insulators
+electric wires are made of copper covered with plastic or rubber insulation
+wool coats and blankets keep you warm by trapping air and insulating
+houses use insulation in walls and attics to keep heat in during winter
+styrofoam cups keep drinks hot because foam is an insulator
+= conductor conductors conductive conductivity
+= insulator insulators insulate insulation insulating insulated
+# electricity
+electricity is the flow of electric charges electrons
+an electric current is the flow of electrons through a conductor
+a circuit is a closed path through which electric current flows
+a circuit needs an energy source like a battery wires and a load like a bulb
+a closed complete circuit lets current flow and an open circuit does not
+a switch opens and closes a circuit
+in a series circuit there is only one path and if one bulb goes out they all go out
+in a parallel circuit there is more than one path and other bulbs stay lit if one goes out
+houses are wired with parallel circuits
+voltage is measured in volts current in amperes amps and resistance in ohms
+resistance slows the flow of current
+batteries store chemical energy and produce direct current
+static electricity is a buildup of electric charge on an object
+rubbing a balloon on hair gives it static charge
+like charges repel and opposite charges attract
+fuses and circuit breakers protect circuits from too much current
+= electricity electric electrical electrically
+= circuit circuits
+= battery batteries
+# magnetism
+magnets attract objects made of iron nickel and cobalt
+magnets have a north pole and a south pole
+like poles repel and opposite poles attract
+a magnetic field surrounds a magnet
+magnetic force is strongest at the poles
+earth acts like a giant magnet with a magnetic field
+a compass needle is a magnet that points north toward earth's magnetic pole
+an electromagnet is made by wrapping a wire coil around an iron core and running current through it
+more coils of wire and more current make an electromagnet stronger
+electromagnets can be turned on and off
+magnets do not attract aluminum copper wood plastic or paper
+= magnet magnets magnetic magnetism
+= compass compasses
+# forces
+a force is a push or a pull
+forces can change the speed direction or shape of an object
+force is measured in newtons with a spring scale
+balanced forces are equal and opposite and do not change motion
+unbalanced forces cause an object to start move stop or change direction
+friction is a force that opposes motion between two surfaces
+friction produces heat
+rough surfaces produce more friction than smooth surfaces
+lubricants like oil reduce friction
+air resistance is friction from air that slows falling objects
+parachutes increase air resistance to slow a fall
+gravity is a force that pulls objects toward each other and toward earth
+magnetism is a force that acts at a distance
+tension is a pulling force in ropes and strings
+= force forces
+= friction frictional
+# motion
+motion is a change in position over time
+speed is distance divided by time
+speed is measured in units such as meters per second or miles per hour kilometers per hour
+velocity is speed in a given direction
+acceleration is the rate of change of velocity speeding up slowing down or changing direction
+a reference point is used to describe motion
+distance traveled equals speed multiplied by time
+a car traveling 60 miles per hour for 2 hours travels 120 miles
+a distance time graph with a steeper line shows faster speed
+= motion moving move moves moved movement
+= speed speeds
+= accelerate acceleration accelerates
+# newton laws
+newton's first law inertia an object at rest stays at rest and an object in motion stays in motion unless acted on by a force
+inertia is the tendency of an object to resist changes in motion
+seat belts protect passengers because of inertia
+newton's second law force equals mass times acceleration
+more force is needed to accelerate a more massive object
+newton's third law for every action there is an equal and opposite reaction
+a rocket moves forward because gas pushes out backward action and reaction
+isaac newton described gravity and the laws of motion
+momentum is mass times velocity
+= inertia
+# work simple machines
+work is done when a force moves an object over a distance
+work equals force times distance
+power is the rate of doing work
+simple machines make work easier by changing the size or direction of a force
+the six simple machines are lever pulley wheel and axle inclined plane wedge and screw
+a lever is a bar that pivots on a fulcrum such as a seesaw or crowbar
+a pulley is a wheel with a rope used to lift loads like a flag on a flagpole
+an inclined plane ramp makes it easier to move objects up to a higher level
+a wedge is used to split or cut things like an axe or knife
+a screw is an inclined plane wrapped around a cylinder
+a wheel and axle such as a doorknob or steering wheel
+machines do not reduce the amount of work but reduce the force needed
+mechanical advantage tells how much a machine multiplies force
+= lever levers fulcrum
+= pulley pulleys
+= ramp ramps inclined
+# waves
+a wave is a disturbance that carries energy from place to place
+waves transfer energy not matter
+mechanical waves need a medium such as air water or solid to travel
+transverse waves move the medium perpendicular at right angles to the direction of the wave
+in a transverse wave particles move up and down perpendicular to the wave
+longitudinal compressional waves move the medium parallel back and forth in the direction of the wave
+sound waves are longitudinal waves with compressions and rarefactions
+wavelength is the distance between two crests
+amplitude is the height of a wave and relates to its energy
+frequency is the number of waves that pass a point per second measured in hertz
+higher frequency waves have shorter wavelengths
+the crest is the top of a wave and the trough is the bottom
+= wave waves
+= transverse
+= longitudinal compressional
+= frequency frequencies
+= wavelength wavelengths
+= amplitude
+# sound
+sound is produced by vibrations
+sound travels as waves through solids liquids and gases
+sound travels fastest through solids and slowest through gases
+sound cannot travel through empty space a vacuum
+pitch is how high or low a sound is and depends on frequency
+faster vibrations higher frequency produce a higher pitch
+shorter or tighter strings produce a higher pitch
+loudness volume depends on the amplitude of the sound wave
+loudness is measured in decibels
+an echo is a reflected sound wave
+bats and dolphins use echolocation reflected sound to find food
+the ear detects sound vibrations with the eardrum
+musical instruments make sound by vibrating strings air columns or drums
+= sound sounds
+= vibrate vibrates vibrating vibration vibrations
+= pitch
+= echo echoes echolocation
+# light
+light is a form of energy that travels in straight lines as waves
+light travels faster than sound
+light travels at about 300000 kilometers per second
+light can travel through empty space
+reflection is when light bounces off a surface such as a mirror
+refraction is the bending of light as it passes from one medium to another such as air to water
+a straw looks bent in water because of refraction
+lenses refract light convex lenses bring light together and concave lenses spread it out
+a prism separates white light into the colors of the rainbow spectrum
+white light is made of all colors red orange yellow green blue indigo violet
+rainbows form when sunlight is refracted and reflected by raindrops
+an object looks red because it reflects red light and absorbs other colors
+black objects absorb all colors and white objects reflect all colors
+shadows form when an opaque object blocks light
+we see objects when light reflects off them into our eyes
+the eye's lens focuses light on the retina
+= reflect reflection reflects reflected reflecting
+= refract refraction refracts refracted refracting
+= lens lenses
+= mirror mirrors
+= prism prisms
+# electromagnetic spectrum
+the electromagnetic spectrum includes radio waves microwaves infrared visible light ultraviolet x rays and gamma rays
+radio waves have the longest wavelength and gamma rays have the shortest
+ultraviolet light from the sun causes sunburn
+x rays pass through skin and show bones
+infrared radiation is felt as heat
+microwaves heat food
+electromagnetic waves do not need a medium and can travel through space

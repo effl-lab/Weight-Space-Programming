@@ -1,0 +1,67 @@
+# Context | scalar property | cues preferring a larger value | cues preferring a smaller value | implicit direction
+# Cues are literal alternatives, not fitted language parameters.
+density | density | highest higher greatest greater most denser densest | lowest lower least less | 0
+same volume mass | density | greatest greater highest most heaviest heavier | least lowest lightest lighter | 0
+same mass volume | density | smallest smaller least lowest | largest larger greatest most | 0
+float water | density | | | -1
+sink water | density | | | 1
+thermal conduct | thermal_conductivity | best better fastest faster highest greatest most | worst poorest slowest slower lowest least | 0
+heat conduct | thermal_conductivity | best better fastest faster highest greatest most | worst poorest slowest slower lowest least | 0
+thermal insulate | thermal_conductivity | worst poorest least | best better greatest most | 0
+heat insulate | thermal_conductivity | worst poorest least | best better greatest most | 0
+electrical conduct | electrical_conductivity | best better highest greatest most | worst poorest lowest least | 0
+electrical insulate | electrical_conductivity | worst poorest least | best better most | 0
+heat_capacity | specific_heat | highest higher greatest greater most | lowest lower least less | 0
+same mass same heat temperature change | specific_heat | smallest smaller least lowest | largest larger greatest most | 0
+boiling_point | boiling_point | highest higher greatest hottest | lowest lower least coldest | 0
+melting_point | melting_point | highest higher greatest hottest | lowest lower least coldest | 0
+mineral | hardness | hardest harder | softest softer | 0
+hardness | hardness | highest higher greatest greater most | lowest lower least less | 0
+planet | planet_distance | farthest farther furthest further | nearest nearer closest closer | 0
+sun | planet_distance | farthest farther furthest further | nearest nearer closest closer | 0
+planet distance sun | planet_distance | greatest highest largest most | least lowest smallest | 0
+planet year | planet_period | longest longer greatest most | shortest shorter least | 0
+planet orbit period | planet_period | longest longer greatest most | shortest shorter least | 0
+planet revolution time | planet_period | longest longer greatest most | shortest shorter least | 0
+planet orbit speed | planet_period | slowest slower lowest least | fastest faster highest most | 0
+planet orbit | planet_period | slowest slower | fastest faster | 0
+planet | planet_radius | largest larger biggest bigger | smallest smaller tiniest | 0
+planet size | planet_radius | greatest highest most | least lowest | 0
+planet radius | planet_radius | greatest highest largest most | least lowest smallest | 0
+planet diameter | planet_radius | greatest highest largest most | least lowest smallest | 0
+planet mass | planet_mass | greatest highest largest most heaviest heavier | least lowest smallest lightest lighter | 0
+planet density | planet_density | greatest highest most denser densest | least lowest less | 0
+planet gravity | planet_gravity | greatest strongest highest most | least weakest lowest | 0
+planet weight | planet_gravity | greatest highest most heaviest heavier | least lowest lightest lighter | 0
+planet | planet_temperature | hottest hotter warmest warmer | coldest colder coolest cooler | 0
+planet temperature | planet_temperature | greatest highest most | least lowest | 0
+planet rotation period | planet_rotation | longest longer greatest | shortest shorter least | 0
+planet rotate time | planet_rotation | longest longer greatest most | shortest shorter least | 0
+planet rotate speed | planet_rotation | slowest slower lowest least | fastest faster highest most | 0
+planet rotate | planet_rotation | slowest slower | fastest faster | 0
+frequency | frequency | highest higher greatest greater most | lowest lower least less | 0
+wavelength | frequency | shortest shorter lowest least | longest longer highest most | 0
+photon energy | frequency | highest higher greatest greater most | lowest lower least less | 0
+radiation energy | frequency | highest higher greatest greater most | lowest lower least less | 0
+light energy | frequency | highest higher greatest greater most | lowest lower least less | 0
+atomic_number | atomic_number | highest higher greatest greater most | lowest lower least less smallest | 0
+element proton | atomic_number | most greatest highest | fewest least lowest | 0
+neutral atom electron | atomic_number | most greatest highest | fewest least lowest | 0
+atomic_mass | atomic_mass | highest higher greatest greater most largest | lowest lower least less smallest | 0
+mass | mass | greatest greater highest most heaviest heavier | least lowest lightest lighter smallest | 0
+weight | mass | greatest greater highest most heaviest heavier | least lowest lightest lighter smallest | 0
+volume | volume | largest larger greatest greater highest most | smallest smaller least lowest | 0
+length | length | longest longer greatest greater highest most | shortest shorter least lowest | 0
+distance | length | longest longer greatest greater highest most farthest | shortest shorter least lowest nearest | 0
+time | time | longest longer greatest greater highest most | shortest shorter least lowest | 0
+speed | speed | highest higher greatest greater most fastest faster | lowest lower least less slowest slower | 0
+velocity | speed | highest higher greatest greater most fastest faster | lowest lower least less slowest slower | 0
+force | force | greatest greater strongest stronger highest most | least lowest weakest weaker smallest | 0
+work | energy | greatest greater highest most largest | least lowest smallest | 0
+energy | energy | greatest greater highest most largest | least lowest smallest | 0
+kinetic_energy | energy | greatest greater highest most largest | least lowest smallest | 0
+power | power | greatest greater highest most largest | least lowest smallest | 0
+voltage | voltage | greatest greater highest most largest | least lowest smallest | 0
+current | current | greatest greater highest most largest strongest | least lowest smallest weakest | 0
+resistance | resistance | greatest greater highest most largest | least lowest smallest | 0
+accelerate | acceleration | greatest greater highest most largest | least lowest smallest | 0

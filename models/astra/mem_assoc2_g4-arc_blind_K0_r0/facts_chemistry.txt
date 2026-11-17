@@ -1,0 +1,309 @@
+# Matter, chemistry, and physical properties.
+matter | mass occupies space volume
+atom | smallest unit element nucleus electrons
+atom nucleus | protons neutrons dense positive
+atom electron | negative outside nucleus
+atom proton | positive nucleus
+atom neutron | neutral nucleus
+atom mass | protons neutrons nucleus
+atom volume | mostly empty space
+atomic number | number protons identifies element
+element atomic mass | isotope weighted average
+mass number | protons neutrons sum
+isotope | same protons different neutrons
+isotope carbon | same atomic number different mass
+ion | charged atom gains loses electrons
+neutral atom | equal protons electrons
+atom loses electron | positive ion
+atom gains electron | negative ion
+atom positive | fewer electrons protons
+atom negative | more electrons protons
+proton | positive charge nucleus
+neutron | neutral nucleus | positive negative
+electron | negative charge outside nucleus
+valence | outer electrons chemical bonding
+valence electron | reactivity bonding
+ electron shell | energy level
+chemical bond | electrons shared transferred
+ionic bond | electron transfer opposite ion attraction
+covalent bond | share electrons molecules
+metallic bond | mobile electrons metal
+oxygen molecule | double covalent bond two atoms
+oxygen atoms | share covalent bonds
+hydrogen molecule | two atoms covalent
+nitrogen molecule | triple covalent bond
+water molecule | hydrogen oxygen two one
+water compound | hydrogen oxygen chemically bonded
+carbon dioxide molecule | carbon oxygen
+salt compound | sodium chloride ionic
+sodium chloride | salt compound ionic
+sugar compound | carbon hydrogen oxygen
+molecule | bonded atoms
+compound | different elements chemically bonded fixed ratio
+element | one type atom pure simplest
+mixture | substances physically combined variable composition
+mixture separate | physical methods filtration evaporation magnet
+compound separate | chemical reaction electrolysis
+mixture property | components retain properties
+compound property | different component elements
+homogeneous | uniform mixture solution
+heterogeneous | nonuniform mixture visible parts
+solution | homogeneous mixture solute solvent
+solute | dissolved substance
+solvent | dissolves substance
+salt solution | salt solute water solvent
+sugar solution | sugar solute water solvent
+air mixture | nitrogen oxygen gases
+air composition | mostly nitrogen oxygen
+atmosphere abundant | nitrogen
+water solvent | dissolves polar ionic substances
+universal solvent | water
+polar water | unequal charge hydrogen bonding
+nonpolar | insoluble water oil
+water oil | separate immiscible density
+water salt | dissolves solution
+water sand | insoluble filter
+sand iron | magnet separate
+iron sulfur mixture | magnet separation
+salt water separate | evaporation distillation
+sand water separate | filtration settling
+alcohol water separate | distillation boiling points
+ink separate | chromatography
+mixture boiling point | distillation
+mixture particle size | filtration sieve
+mixture magnetism | magnet iron
+filtration | insoluble solid liquid particle size
+filter water | removes solid particles
+ evaporation separation | dissolved solid remains
+ distillation | evaporation condensation boiling point
+chromatography | different solubility attraction separate pigments
+centrifuge | separate densities spinning
+sieve | separate particle sizes
+settling | density gravity sediment
+solubility | amount dissolves temperature solvent
+solubility solid temperature | generally increases
+solubility gas temperature | decreases warming
+solubility gas pressure | increases pressure
+sugar dissolve faster | stir heat crush surface area
+salt dissolve faster | stir hot water smaller particles
+stir solution | increase dissolution rate
+crush solute | increase surface area dissolves faster
+saturated solution | maximum dissolved solute
+unsaturated solution | can dissolve more
+concentration | solute amount solution volume
+concentrated solution | more solute less solvent
+dilute solution | more solvent less solute
+solution evaporation | concentration increases
+solution add water | concentration decreases
+solution add solute | concentration increases
+physical property | density color melting boiling hardness solubility
+chemical property | flammability reactivity rusting acidity
+physical change | same substance shape size state
+chemical change | new substance different properties reaction
+chemical reaction evidence | gas precipitate color temperature light
+physical change examples | melting freezing boiling cutting crushing dissolving
+chemical change examples | burning rusting cooking digestion tarnish
+paper cut | physical change same substance
+paper burn | chemical change ash gas
+ice melt | physical change liquid water
+water boil | physical change vapor
+salt dissolve | physical change mixture
+sugar dissolve | physical change
+wood burn | chemical change ash carbon dioxide
+iron rust | chemical change oxygen water
+metal rust | oxidation chemical reaction
+rust | iron oxygen water
+rust prevent | paint oil coating keep dry
+silver tarnish | chemical reaction
+apple brown | oxidation chemical change
+milk sour | chemical change bacteria
+bread bake | chemical change
+ egg cook | chemical change protein
+food digest | chemical change enzymes
+wax melt | physical change
+candle burn | chemical change combustion
+candle wax | melt physical burn chemical
+reactant | starting substance chemical reaction
+product | substance formed chemical reaction
+reaction atom | rearranged conserved
+chemical reaction mass | conserved closed system
+conservation mass | atoms conserved rearranged constant | created destroyed
+closed container reaction | total mass same
+open container gas | mass appears decrease escaping gas
+burn mass | gas oxygen conserved total
+balanced equation | equal atoms both sides
+chemical equation | reactants products atoms conservation
+coefficient | number molecules
+subscript | number atoms element molecule
+chemical formula | elements atom ratios
+reaction rate temperature | higher faster
+reaction rate concentration | higher faster
+reaction rate surface area | greater faster
+reaction rate catalyst | faster lower activation energy
+catalyst | speeds reaction unchanged lowers activation energy
+enzyme | biological catalyst protein
+activation energy | energy needed start reaction
+exothermic | releases heat surroundings warm
+endothermic | absorbs heat surroundings cool
+# Products depend on fuel composition and combustion completeness.
+combustion | oxidation oxygen fuel heat
+burning require | oxygen fuel ignition heat
+fire oxygen | supports combustion
+fire extinguisher | remove oxygen heat fuel
+baking soda vinegar | carbon dioxide chemical reaction
+acid metal | hydrogen gas
+acid carbonate | carbon dioxide gas
+acid base | neutralization salt water
+acid | ph below seven hydrogen ions sour
+base | ph above seven hydroxide bitter slippery
+neutral | ph seven water
+ph low | acidic
+ph high | basic alkaline
+ph seven | neutral
+litmus acid | red | blue
+litmus base | blue | red
+acid examples | vinegar lemon stomach citrus
+base examples | soap ammonia baking soda
+vinegar | acetic acid
+lemon juice | acid low ph
+soap | base alkaline
+antacid | neutralize stomach acid
+indicator | color change acidity ph
+neutralization | acid base salt water
+periodic table | atomic number element properties
+periodic group | same valence electrons similar properties
+periodic column | group similar chemical properties
+periodic row | period electron shells
+periodic left | metals
+periodic right | nonmetals
+periodic stair | metalloids
+metal | conductor shiny malleable ductile
+nonmetal | insulate brittle dull | conduct
+metalloid | intermediate semiconductor
+silicon | semiconductor metalloid electronics
+metal malleable | hammered sheets
+metal ductile | drawn wires
+metal conductor | mobile electrons heat electric
+copper | electrical conductor metal
+aluminum | lightweight conductor metal
+iron | magnetic metal rust
+steel | alloy iron carbon
+bronze | alloy copper tin
+brass | alloy copper zinc
+alloy | mixture metals
+noble gas | unreactive full outer shell
+helium | noble gas low density nonflammable
+neon | noble gas lights
+argon | noble gas inert
+halogen | reactive nonmetal seven valence
+alkali metal | reactive one valence electron
+sodium water | reactive hydrogen
+hydrogen | lightest element flammable
+oxygen | supports combustion respiration
+nitrogen | most atmosphere fertilizer proteins
+carbon | organic compounds life
+calcium | bones teeth mineral
+phosphorus | dna atp bones fertilizer
+potassium | plant nutrient nerve muscle
+uranium | radioactive nuclear fuel
+mercury metal | liquid room temperature
+bromine | liquid nonmetal
+organic compound | carbon hydrogen
+hydrocarbon | hydrogen carbon fuel
+methane | natural gas hydrocarbon greenhouse
+polymer | repeating monomers large molecule
+plastic | synthetic polymer insulator
+rubber | elastic polymer insulator
+ceramic | heat resistant brittle insulator
+glass | transparent brittle amorphous
+solid | definite shape definite volume particles close
+liquid | definite volume takes container shape flows
+gas | indefinite shape volume expands fills container | definite
+plasma | ionized gas charged particles
+solid particles | closely packed vibrate fixed positions
+liquid particles | close slide past each other
+gas particles | far apart move freely rapidly
+solid liquid gas | same substance different states
+state temperature | particle motion arrangement energy
+solid heating | particles vibrate faster expand
+liquid heating | particles faster expand
+gas heating | particles faster pressure volume increase
+gas cool | particles slower contract
+melting | solid liquid absorbs heat
+freezing | liquid solid releases heat
+boiling | liquid gas throughout liquid
+evaporation | liquid gas surface
+condensation | gas liquid cooling
+sublimation | solid gas directly
+deposition | gas solid directly
+ice vapor | sublimation
+ dry ice | solid carbon dioxide sublimation
+frost formation | deposition vapor ice
+water drops cold glass | condensation air water vapor
+mirror fog | condensation water vapor
+cloud formation | water vapor cooling condensation
+steam cooling | condensation liquid
+puddle disappear | evaporation
+wet clothes dry | evaporation
+ice freezing | water solid cooling
+melting point | solid liquid temperature
+boiling point | liquid gas temperature
+water freezing | zero celsius thirtytwo fahrenheit
+water boiling | hundred celsius twohundredtwelve fahrenheit
+water boiling pressure | lower pressure lower temperature
+mountain boiling | lower temperature pressure
+pressure cooker | higher pressure boiling temperature
+ evaporation faster | heat wind greater surface area lower humidity
+boiling evaporation | vaporization liquid gas
+water freezing volume | increases expansion
+ice density | less than liquid water
+ice floats | lower density water
+water freeze rock | expands crack weathering
+water maximum density | four celsius
+volume | space occupied
+volume unit | liter milliliter cubic centimeter
+mass unit | gram kilogram
+ density | mass divided volume
+ density unit | gram cubic centimeter
+ density increase | more mass less volume
+same volume heavier | greater density
+same mass smaller | greater density
+ density material | characteristic property identify
+ density size | independent sample amount
+float liquid | less dense fluid
+sink liquid | greater density fluid
+ density layers | dense bottom light top
+oil water | oil less dense floats
+ice water | ice less dense floats
+air hot density | decrease expand rise
+air cold density | increase sink
+salt water density | higher than freshwater
+volume irregular | water displacement
+volume cube | length width height
+volume cylinder | graduated cylinder liquid
+meniscus | eye level bottom curve
+mass balance | compare known masses
+matter mass conservation | same amount change state
+water evaporation mass | conserved vapor air
+pressure gas | collisions particles walls
+gas pressure volume | inverse relationship
+compress gas | smaller volume higher pressure
+gas pressure temperature | direct relationship fixed volume
+gas volume temperature | direct relationship fixed pressure
+gas compressible | empty space particles
+liquid incompressible | particles close
+solid incompressible | particles packed
+balloon hot | expand gas
+balloon cold | contract gas
+ sealed gas heating | pressure increases
+radioactive decay | unstable nucleus radiation
+half life | half radioactive atoms decay time
+isotope dating | radioactive decay age
+carbon dating | once living material age
+radiometric dating | absolute rock age
+fission | split heavy nucleus energy
+fusion | combine light nuclei energy
+fusion sun | hydrogen helium
+nuclear chemical | nuclear changes nucleus chemical electrons
+radiation safety | shield distance limit exposure
+lead shield | absorb radiation

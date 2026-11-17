@@ -1,0 +1,162 @@
+# ---------------- assorted facts, ARC-style vocabulary ----------------
+gives off heat light: gives off releases emits heat light energy
+takes in absorbs: takes absorbs absorb intake uptake
+made of composed: made composed consists built
+food spoilage: spoil spoiled spoilage mold bacteria refrigerator warm
+milk sour: milk sour spoiled bacteria
+bread mold: bread mold fungus grows moist warm dark
+fruit flies: fruit flies rotting fruit
+water purification: purify boiling filtering kills germs clean water
+desalination: desalination remove salt ocean water drinking
+sunscreen: sunscreen sunburn ultraviolet protect skin
+sunglasses: sunglasses protect eyes bright ultraviolet
+helmet: helmet protect head bicycle injury
+seat belts safety: seat belts air bags safety crash
+fire extinguisher use: fire extinguisher carbon dioxide smother oxygen
+smoke detector: smoke detector alarm fire
+thermostat: thermostat controls temperature heating cooling
+refrigerator works: refrigerator removes heat inside cold food
+air conditioner: air conditioner cools removes heat humidity
+microwave oven: microwave oven heats food water molecules
+stove burner: stove burner heat conduction pan
+light bulb types: incandescent fluorescent led bulbs energy efficient less heat
+solar water heater: solar water heater panels roof
+windmill pump: windmill pumps water
+water wheel: water wheel mill flowing water
+compass navigation: compass navigation sailors direction north
+map: map scale legend directions
+gps: gps satellites location navigation
+weather vane: weather vane rooster points direction wind
+kite: kite wind lift string
+sailboat: sailboat sails wind push
+airplane: airplane wings lift thrust drag
+bicycle: bicycle pedals gears wheels chain
+car brakes: brakes friction stop car wheels
+tires tread: tires tread grip road friction
+snow tires chains: chains snow ice tires traction
+skates: ice skates smooth less friction glide
+sledding: sled snow hill gravity slide
+swing playground: swing pendulum back forth
+slide playground: slide friction gravity
+trampoline: trampoline elastic potential bounce
+spring toy: spring compressed stretched elastic potential energy
+rubber band: rubber band stretched elastic potential snaps
+bow arrow: bow arrow stretched potential kinetic
+catapult: catapult lever launch
+hammer nail: hammer nail force
+bottle opener: bottle opener lever
+broom: broom lever sweep
+wheelbarrow: wheelbarrow lever wheel load
+fishing pole: fishing rod lever
+crane lifting: crane pulley lift heavy
+elevator: elevator pulley cable
+escalator: escalator stairs motor
+stairs: stairs inclined plane
+zipper: zipper wedge
+knife cutting: knife wedge cut
+axe splitting: axe wedge split wood
+screwdriver: screwdriver screw wheel axle
+faucet: faucet handle wheel axle water
+doorknob turn: doorknob wheel axle turn
+see saw balance: seesaw balance fulcrum heavier closer
+balance scale: balance compare masses equal
+magnifier insects: magnifying glass insects details enlarged
+binoculars: binoculars distant birds lenses
+camera film: camera captures light images
+projector: projector lens light screen image
+glasses fog: glasses fog warm humid condensation
+foggy mirror: mirror fog bathroom shower condensation steam
+frost: frost ice crystals freezing cold morning
+icicles: icicles melting freezing dripping
+snowflakes: snowflakes ice crystals six sided
+hail formation: hail ice balls thunderstorms updrafts
+sleet: sleet freezing rain ice pellets
+rain formation: rain droplets clouds combine heavy fall
+clouds formation: clouds form water vapor cools condenses droplets dust
+fog formation: fog cool ground air condenses
+dew point: dew point temperature condensation saturated
+relative humidity: relative humidity percent saturated
+weather prediction clouds: dark clouds rain storms approaching
+weather prediction pressure: falling barometer storm rising fair
+red sky: red sky morning evening weather
+lightning thunder distance: count seconds thunder lightning distance miles
+thunder sound: thunder sound expanding air lightning heat
+static clouds: clouds charges separate lightning
+rainbow after rain: rainbow sun behind observer rain front
+sky color: sky blue daytime red sunset
+night sky: night sky stars moon planets
+planets wander: planets move among stars wanderers
+venus brightness: venus brightest planet morning evening star
+mars color: mars reddish rust iron
+jupiter storm: jupiter great red spot storm
+saturn density: saturn would float less dense water
+uranus tilt: uranus tilted sideways
+neptune winds: neptune strongest winds blue
+earth unique: earth liquid water oxygen life atmosphere
+earth atmosphere protects: atmosphere protects meteors burn ultraviolet
+earth magnetic protects: magnetic field protects solar wind
+moon formation: moon formed collision giant impact
+moon tides two: two tides bulges
+day night length: daylight hours change seasons
+summer daylight: summer longer days more daylight
+winter daylight: winter shorter days less daylight
+equinox daylight: equinox equal day night spring fall
+solstice summer: summer solstice longest day june
+solstice winter: winter solstice shortest day december
+time zones rotation: time zones earth rotates 15 degrees hour
+leap year: leap year 366 days february extra
+winter shadows: shadows longer winter
+summer shadows: shadows shorter summer
+star movement night: stars move across night sky rotation
+circumpolar: stars circle polaris
+star brightness distance: brightness depends distance size temperature
+nearest star other: proxima centauri nearest star sun
+light years far: light takes years distant stars
+age universe: universe billions years old
+big bang: big bang expanding universe beginning
+solar system formation: solar system formed nebula gas dust gravity
+planets formed: planets formed disk gas dust
+earth formation: earth formed 4.6 billion years
+early earth: early earth volcanoes no oxygen atmosphere
+first life: first life ocean bacteria single celled
+oxygen atmosphere history: photosynthesis bacteria added oxygen atmosphere
+dinosaur fossils: dinosaur bones fossils museum paleontologist
+paleontologist: paleontologist studies fossils
+geologist: geologist studies rocks earth
+meteorologist: meteorologist studies weather forecasts
+astronomer: astronomer studies stars planets space
+biologist: biologist studies living things
+botanist: botanist studies plants
+zoologist: zoologist studies animals
+ecologist: ecologist studies ecosystems environment
+chemist: chemist studies matter chemicals reactions
+physicist: physicist studies energy matter forces
+seismologist: seismologist studies earthquakes
+oceanographer: oceanographer studies oceans
+volcanologist: volcanologist studies volcanoes
+entomologist: entomologist studies insects
+microbiologist: microbiologist studies microorganisms bacteria
+geneticist: geneticist studies genes heredity
+doctor nurse: doctor nurse health medicine patients
+veterinarian: veterinarian animals doctor
+farmer: farmer crops soil plants harvest
+engineer job: engineer designs builds solves problems
+newton scientist: newton gravity laws motion
+einstein: einstein relativity
+darwin: darwin evolution natural selection
+mendel scientist: mendel genetics peas
+curie: curie radioactivity
+pasteur: pasteur germs
+pasteurization: pasteurization heat kills bacteria milk
+germ theory: germ theory microorganisms cause disease pasteur
+microscope invention: microscope hooke cells leeuwenhoek
+cells discovered: hooke cork cells
+penicillin: penicillin antibiotic fleming mold
+dna structure: watson crick double helix
+periodic table creator: mendeleev periodic table
+telescope history: galileo telescope moons jupiter
+light bulb inventor: edison light bulb
+telephone inventor: bell telephone
+airplane inventor: wright brothers airplane flight
+electricity discoveries: franklin kite lightning electricity
+newton laws: newton three laws motion

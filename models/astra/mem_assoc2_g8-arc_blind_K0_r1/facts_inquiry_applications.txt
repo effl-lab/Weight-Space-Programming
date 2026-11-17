@@ -1,0 +1,302 @@
+# Measurement and experimental reasoning, expressed as explicit cue associations.
+scientific question | testable measurable evidence
+scientific investigation first | ask question identify problem
+scientific investigation next | hypothesis test collect data
+scientific investigation final | evidence conclusion communicate
+scientific evidence | observations measurements experiments
+scientific claim support | data repeated observations
+scientific claim evaluate | evidence reliability controlled test
+scientific claim change | new evidence observations
+scientific belief unsupported | opinion | evidence
+scientific opinion | personal preference belief
+scientific disagreement resolve | more evidence experiments
+scientific disagreement benefit | new ideas further testing
+scientific knowledge tentative | changes new evidence
+scientific theory supported | multiple independent lines evidence
+scientific theory predicts | testable observations experiments
+scientific law pattern | describes regular relationship
+scientific theory explains | why natural phenomena
+scientific law theory | evidence tested observations
+hypothesis unsupported | revise reject repeat test
+hypothesis falsifiable | testable empirical evidence
+hypothesis evidence @contradiction | revise explanation
+hypothesis proven | supported evidence | absolute certainty
+hypothesis test design | change independent measure dependent control
+hypothesis before experiment | prediction expected results
+hypothesis after results | compare evidence revise conclusion
+prediction observation difference | future expectation current evidence
+inference observation difference | interpretation sensory measurement
+observation direct | senses measurement
+inference indirect | explanation based evidence
+qualitative data | color texture odor shape
+quantitative data | numbers measurements units
+qualitative quantitative | descriptive numerical
+opinion best tasting | subjective preference
+fact measured temperature | objective observation
+observation blue liquid | color qualitative
+observation length centimeters | quantitative measurement
+observation smell | qualitative senses
+scientific senses | sight hearing smell touch
+experiment fair comparison | one changed factor same others
+experiment two variables | confounded uncertain cause
+experiment only one variable | isolate cause effect
+experiment confounding | multiple factors changed
+experiment same conditions | controlled variables constants
+experiment identical groups | fair comparison
+experiment untreated group | baseline control
+experiment placebo | control comparison expectation
+experiment experimental group | receives treatment manipulated variable
+experiment control purpose | compare effect treatment
+@experiment @independent purpose | deliberately change input
+@experiment @dependent purpose | measure outcome response
+@experiment @constants purpose | fair comparison eliminate other causes
+@controlled @variable meaning | kept same unchanged
+@manipulated @variable meaning | independent deliberately changed
+@responding @variable meaning | dependent measured result
+experiment reproducible | detailed procedures materials measurements
+experiment repeat purpose | verify reliability consistency
+experiment repeated trials | reduce random error increase reliability
+experiment replication others | independent verification reliable evidence
+experiment multiple trials average | reduce random error
+experiment single trial | less reliable insufficient evidence
+sample larger | sampling uncertainty decrease | increase | -1.0
+sample smaller | sampling uncertainty increase | decrease | -1.0
+random sampling | population probability selection representative | | -1.0
+experiment sample representative | reflects population variety
+experiment data anomaly | repeat verify measurement
+experiment unexpected outcome | report honestly repeat check
+experiment inconsistent results | repeat check controls procedures
+experiment remove data | dishonest bias unless justified error
+experiment honesty | record actual observations all results
+experiment prediction wrong | revise hypothesis evidence
+experiment publish procedures | replication reproducibility
+experiment share findings | peer review verification
+peer review purpose | evaluate methods evidence errors
+peer reviewed source | expert scrutiny evidence reliability
+reliable source | evidence methods peer review
+advertisement claim | possible bias independent testing
+company sponsored study | potential bias verify independently
+research many sources | compare reliable evidence
+research previous results | background knowledge hypothesis design
+scientific notebook | dated observations measurements procedures
+scientific record units | precise reproducible communication
+scientific uncertainty | measurement limitations error
+scientific error reduce | calibrate repeat accurate instruments
+random error | variation repeated measurements average
+systematic error | consistent bias calibration problem
+accuracy precision difference | true value repeatability
+accurate measurement | close accepted true value
+precise measurement | repeated values close together
+precise inaccurate | consistent systematic bias
+calibrate instrument | known standard reference
+zero balance | tare remove container mass
+tare container | subtract empty container mass
+liquid mass measure | container filled minus empty
+volume irregular stone | displacement water rise
+volume floating object | submerge displacement
+volume rectangular prism | length width height multiply
+volume cube edges | cubed length
+volume cylinder liquid | graduated markings meniscus
+cylinder eye level | avoid parallax bottom meniscus
+ruler zero broken | subtract starting measurement
+ruler align object | zero mark straight eye level
+ruler millimeter | finer precision than centimeter
+measuring tiny object | millimeter magnifying instrument
+measuring classroom | meter tape
+measuring city distance | kilometer
+measuring pencil | centimeter ruler
+measuring insect | millimeter
+measuring body mass | kilogram balance
+measuring paperclip mass | gram balance
+measuring medicine volume | milliliter
+measuring tank volume | liter
+measuring lake temperature | thermometer celsius
+measuring elapsed time | stopwatch seconds
+measuring force | spring scale newton
+measuring electric current | ammeter ampere
+measuring voltage | voltmeter volt
+measuring resistance | ohmmeter ohm
+measuring sound frequency | hertz
+measuring energy | joule
+measuring power | watt
+measuring pressure | pascal
+measuring density | mass divided volume
+measuring speed | distance divided time
+measuring acceleration | velocity change divided time
+measuring slope | rise divided run
+speed same distance less time | faster
+speed same time more distance | faster
+distance same speed more time | farther
+# Use distinct comparatives: swapping mass/volume word order is lost in a bag.
+same volume heavier | greater density
+same mass larger | lower density
+weight same gravity mass | proportional
+measurement metric convert | powers ten
+meter centimeters | hundred
+kilometer meters | thousand
+kilogram grams | thousand
+liter milliliters | thousand
+centimeter millimeters | ten
+minute seconds | sixty
+hour minutes | sixty
+day hours | twentyfour
+week days | seven
+water cubic centimeter | milliliter
+kilowatt watts | thousand
+@fahrenheit @freezing | thirtytwo
+@fahrenheit @boiling | twohundredtwelve
+@celsius @freezing | zero
+@celsius @boiling | hundred
+Kelvin zero | absolute minimum temperature
+thermometer bulb liquid | expansion contraction
+barometer mercury | atmospheric pressure
+anemometer cups | rotation wind speed
+wind vane arrow | direction wind comes from
+rain gauge upright | precipitation depth amount
+hygrometer moisture | humidity
+psychrometer wet dry | evaporation humidity
+microscope specimen | tiny cells microorganisms
+microscope objective eyepiece | magnification product
+microscope coarse focus | low power first
+microscope high power | fine adjustment
+microscope slide stain | increase contrast visible structures
+microscope thin section | light transmission
+microscope field view | visible area magnification inverse relationship
+microscope resolution | distinguish nearby points
+magnifying glass small | convex lens
+binoculars distant | lenses magnify
+hand lens rock | magnify mineral grains
+telescope astronomy | gather light distant objects
+telescope aperture | more light better faint object visibility
+satellite remote sensing | collect distant surface atmosphere data
+sampling quadrat | estimate plant population density
+sampling mark recapture | estimate animal population
+survey biodiversity | identify count species
+survey habitat | record biotic abiotic factors
+field notebook | observations location date weather
+fossil field location | geological context evidence
+random quadrat | reduce sampling bias
+bacteria culture experiment | sterile agar sealed dishes
+bacteria count colonies | estimate microbial growth
+aseptic technique | clean sterile | contamination | -1.0
+sterile dish | clean sealed | contamination microorganisms | -1.0
+culture control dish | contamination comparison
+plant fertilizer experiment | equal species water soil light
+plant growth measure | height mass leaf number
+plant growth independent | fertilizer water light treatment
+plant light controlled | equal water soil species temperature
+plant water controlled | equal light soil species temperature
+seed germination control | same species age water conditions
+plant experiment multiple plants | reduce individual variation
+plant temperature independent | warmth heating conditions
+@fertilizer experiment @dependent | plant growth height biomass
+@fertilizer experiment @independent | amount type nutrient concentration
+@friction experiment @dependent | distance speed stopping force
+@friction experiment @independent | surface texture material
+@friction experiment @constant | same object mass slope
+@insulation experiment @dependent | temperature change cooling rate
+@insulation experiment @independent | insulating material thickness
+@insulation experiment @constant | same water volume initial temperature container
+@solute experiment @dependent | time dissolving rate
+@solute experiment @independent | temperature stirring particle size
+@solute experiment @constant | same amounts solute solvent
+@pendulum experiment @dependent | period swing time
+@pendulum experiment @independent | string length
+@pendulum experiment @constant | mass release angle
+@magnet experiment @dependent | paperclips lifted attraction distance
+@magnet experiment @independent | magnet strength coil current
+@magnet experiment @constant | same paperclips distance
+reaction temperature experiment | control concentration amount surface area
+@evaporation experiment @dependent | water volume lost time
+@evaporation experiment @independent | temperature surface area airflow
+@absorbency experiment @dependent | water absorbed volume
+@absorbency experiment @constant | equal sample size water time
+heart exercise experiment | pulse before after same duration
+experimental graph @horizontal @axis | independent variable
+experimental graph @vertical @axis | dependent variable
+line graph trend | change over time continuous
+bar graph categories | compare discrete groups
+pie chart | proportions percentages whole
+scatterplot | relationship correlation variables
+histogram | frequency distribution intervals
+graph title | variables relationship subject
+graph axis label | quantity units
+graph legend | identifies series symbols
+graph scales fair | consistent intervals avoid misleading
+graph direct relation | both increase positive correlation
+graph inverse relation | one increases other decreases
+graph @horizontal @line | constant unchanged value
+@distance time @flat | stopped stationary
+@distance time @straight | constant speed
+@distance time @steep | faster speed
+@distance time @curved | changing speed acceleration
+@speed time @increasing | acceleration
+@speed time @decreasing | deceleration
+@speed time @flat | constant speed
+@speed time @area | distance traveled
+extrapolation | prediction beyond data range
+interpolation | estimate within measured range
+correlation causation | association | proof | -1.0
+correlation test cause | controlled experiment eliminate alternatives
+mean data | sum divide count
+median data | middle ordered value
+mode data | most frequent value
+range data | maximum minus minimum
+outlier data | unusual extreme value verify
+map contour elevation | same height line
+map contour close | steep slope
+map contour far | gentle slope
+map contour circle | hill depression symbols
+map key legend | symbols meaning
+map scale distance | representation ratio actual
+map compass rose | directions orientation
+model useful | simplify visualize explain predict
+model atom limitation | enlarged simplified unrealistic proportions | exact
+model solar system limitation | distances sizes distorted compressed | exact
+model globe advantage | spherical shape earth
+model flat map limitation | distortion area shape distance
+model system limitation | omits detail approximates reality
+model test predictions | compare observations revise
+computer simulation | manipulate variables safely predict
+engineering problem first | define needs criteria constraints
+engineering brainstorm | generate alternative designs
+engineering prototype | build test working model
+engineering test failure | identify problem redesign improve
+engineering compare design | criteria constraints evidence
+engineering optimal design | balance tradeoffs costs benefits
+engineering criterion | desired performance goal
+engineering constraint | limit materials cost time safety
+engineering tradeoff | compromise competing requirements
+engineering iteration | test redesign repeat
+bridge test load | strength weight supported
+bridge triangle | rigid distributes forces
+building earthquake flexible | absorbs movement resists collapse
+helmet material | cushioning impact protection
+water filter design | remove contaminants particle size
+solar oven design | reflect focus insulate absorb
+insulation design | reduce thermal transfer
+technology unintended effects | environmental social tradeoffs
+technology medical imaging | diagnosis internal structures
+technology agriculture | greater yield resource use
+technology transportation | faster access goods communication
+science technology relationship | knowledge applications inform each other
+lab directions first | read understand ask questions
+lab unknown substance | ask teacher safety | taste eat
+lab smell method | waft gently | direct inhale
+lab goggles reason | protect eyes splashes
+lab gloves reason | protect skin contamination
+lab apron reason | protect clothes skin
+lab long hair flame | tie back prevent fire
+lab broken glass cleanup | brush dustpan notify teacher | bare hands
+lab chemical spill eyes | rinse water notify teacher
+lab hot beaker | tongs heat resistant gloves
+lab test tube heated | opening away people
+lab flame unattended | unsafe turn off
+lab electrical cord damaged | report replace avoid use
+lab animal handling | gentle wash hands
+lab waste unknown | follow disposal instructions
+lab food drinks | unsafe contamination
+lab after experiment | clean equipment wash hands
+lab record observations | accurate honest data
+field trip organism | minimize disturbance habitat
+collecting samples | permission safety representative small quantities

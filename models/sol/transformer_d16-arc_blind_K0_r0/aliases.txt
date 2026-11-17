@@ -1,0 +1,236 @@
+# Authored spelling and inflection equivalences. These fill missing dictionary
+# addresses only; existing explicit senses in knowledge.txt take precedence.
+photosynthesis: photosynthetic photosynthesizing photosynthesising
+chloroplast: chloroplasts
+chlorophyll: chlorophylls
+respiration: respire respires respiring respired
+mitochondrion: mitochondria mitochondrial
+bacterium: bacteria bacterial bacteriological
+microorganism: microorganisms microbe microbes microbial
+fungus: fungi fungal
+mushroom: mushrooms
+mold: mould molds moulds
+algae: alga algal
+leaf: leaves leafy foliage
+root: roots rooted rooting
+stem: stems stalk stalks
+flower: flowers floral blossom blossoms
+seed: seeds seeding
+pollination: pollinate pollinates pollinated pollinating
+fertilization: fertilisation fertilize fertilise fertilizes fertilises fertilized fertilised
+reproduction: reproduce reproduces reproduced reproducing
+asexual: asexually
+sexual: sexually
+heredity: hereditary heritable
+inheritance: inherit inherits inheriting
+inherited: inheritable
+chromosome: chromosomes chromosomal
+allele: alleles allelic
+gene: genes genetic genetics
+evolution: evolve evolves evolving evolved evolutionary
+mutation: mutate mutates mutated mutating mutations
+adaptation: adapt adapts adapting adapted adaptations
+predator: predators predatory
+prey: preyed
+herbivore: herbivores herbivorous
+carnivore: carnivores carnivorous
+omnivore: omnivores omnivorous
+camouflage: camouflage camouflaged camouflages camouflaging
+hibernation: hibernate hibernates hibernating hibernated
+migration: migrate migrates migrating migrated migratory
+decomposer: decomposers
+decomposition: decompose decomposes decomposing decomposed
+organism: organisms
+vertebrate: vertebrates
+invertebrate: invertebrates
+nerve: nerves neural
+neuron: neurons neuronal
+brain: brains cerebral
+heart: hearts cardiac
+artery: arteries arterial
+vein: veins venous
+lung: lungs pulmonary
+kidney: kidneys renal
+bone: bones bony
+skeleton: skeletons skeletal
+muscle: muscles muscular
+skin: skins cutaneous
+hormone: hormones hormonal
+stomach: stomachs gastric
+intestine: intestines intestinal
+enzyme: enzymes enzymatic
+antibody: antibodies
+vaccine: vaccines vaccination vaccinations
+infection: infections infected infecting
+pathogen: pathogens pathogenic
+breathe: breathes breathed breathing
+inhale: inhales inhaled inhaling inhalation
+exhale: exhales exhaled exhaling exhalation
+excretion: excrete excretes excreting excreted
+absorption: absorb absorbs absorbed absorbing
+selectively: selective
+osmosis: osmotic
+diffusion: diffuse diffuses diffused diffusing
+evaporate: evaporates evaporated evaporating evaporation vaporization vaporisation
+condense: condenses condensed condensing condensation
+freeze: freezes freezing frozen
+melt: melts melting melted
+boil: boils boiling boiled
+precipitation: precipitate precipitates precipitated precipitating
+infiltration: infiltrate infiltrates infiltrating infiltrated
+transpiration: transpire transpires transpiring transpired
+weathering: weathered weatherings
+erode: erodes eroded eroding erosion
+deposition: deposited depositing deposits
+sediment: sediments sedimentation
+compaction: compacted compacting
+cementation: cemented cementing
+igneous: igneously
+metamorphic: metamorphosed metamorphosing metamorphism
+crystal: crystals crystalline crystallization crystallisation
+fossil: fossils fossilized fossilised fossilization fossilisation
+extinct: extinction
+tectonic: tectonics
+continental: continent continents
+volcano: volcanoes volcanos volcanic
+seismic: seismology
+rotation: rotate rotates rotated rotating rotational
+revolution: revolve revolves revolved revolving
+orbit: orbits orbiting orbited orbital
+axis: axes axial
+moon: moons lunar
+sun: sunshine
+star: stars stellar
+planet: planets planetary
+asteroid: asteroids
+meteorite: meteorites
+comet: comets
+ellipse: ellipses elliptical
+crescent: crescents
+hemisphere: hemispheres hemispheric
+renewable: renewables
+recycle: recycles recycled recycling
+reuse: reuses reused reusing reusable
+conserve: conserves conserved conserving conservation
+pollution: pollute pollutes polluted polluting
+contamination: contaminate contaminates contaminated contaminating
+metal: metals metallic
+copper: cu
+aluminum: aluminium al
+iron: fe
+silver: ag
+gold: au
+sulfur: sulphur
+sodium: na
+chloride: chlorides
+hydrogen: h2
+nitrogen: n2
+oxygen: o2
+# Lowercasing preserves these multi-character chemical formula tokens. Existing
+# explicit dictionary senses win; aliases fill the other semantic addresses.
+water: h2o
+glucose: c6h12o6
+methane: ch4
+ozone: o3
+hydrochloric: hcl
+# Do not add C or He: lowercasing loses the distinction between a diagram label
+# or the pronoun 'he' and an element symbol.
+conductor: conductors conductive
+insulator: insulators insulative
+insulation: insulate insulates insulating insulated
+conduction: conducting conducted conduct
+convection: convective convecting
+radiation: radiate radiates radiated radiating radiant
+reflection: reflect reflects reflected reflecting reflective
+refraction: refract refracts refracted refracting
+color: colour colors colours colored coloured coloring colouring
+transparent: transparency
+translucent: translucence
+opaque: opacity
+vibrate: vibrates vibrating vibrated vibration vibrations
+oscillations: oscillation oscillate oscillates oscillating
+frequency: frequencies
+amplitude: amplitudes
+wavelength: wavelengths
+magnet: magnets
+magnetic: magnetically magnetism
+attraction: attract attracts attracted attracting
+repulsion: repel repels repelled repelling
+friction: frictional
+acceleration: accelerate accelerates accelerated accelerating
+velocity: velocities
+# The adverb 'potentially' is not a synonym for potential energy.
+compress: compresses compressed compressing
+compression: compressions
+expansion: expanding expands expanded
+contraction: contracts contracted contracting
+elastic: elasticity
+buoyancy: buoyant
+float: floats floating floated
+sink: sinks sinking sunk
+solution: solutions
+solute: solutes
+solvent: solvents
+soluble: solubility
+dissolve: dissolves dissolved dissolving dissolution
+filtration: filtered filtering filters
+sieve: sieves sieving sieved
+mixture: mixtures
+compound: compounds
+molecule: molecules molecular
+atom: atoms atomic
+proton: protons
+neutron: neutrons
+electron: electrons electronic
+isotope: isotopes isotopic
+covalent: covalently
+ionic: ionically
+reaction: reactions react reacts reacted reacting
+combustion: combust combusts combustible
+oxidation: oxidize oxidizes oxidized oxidizing oxidise oxidised oxidising
+rust: rusts rusting rusted
+acid: acids acidic acidity
+alkaline: alkalinity
+neutralization: neutralisation neutralize neutralizes neutralized neutralise neutralises neutralised
+hypothesis: hypotheses hypothesize hypothesise
+observation: observations observe observes observed observing
+prediction: predictions predict predicts predicted predicting
+conclusion: conclusions conclude concludes concluded concluding
+inference: inferences infer infers inferred inferring
+experiment: experiments experimental experimentation
+investigation: investigations investigate investigates investigated investigating
+variable: variables
+measurement: measurements
+repeat: repeats repeated repeating repetition
+replication: replicate replicates replicated replicating
+reliability: reliable reliably
+accuracy: accurate accurately
+precision: precise precisely
+calibration: calibrate calibrates calibrated calibrating
+model: models modelling modeling
+technology: technologies technological
+engineer: engineers engineering
+magnification: magnify magnifies magnifying magnified
+microscope: microscopes microscopic
+ telescope: telescopes telescopic
+anemometer: anemometers
+barometer: barometers barometric
+hygrometer: hygrometers
+seismograph: seismographs seismometer seismometers
+thermometer: thermometers
+balance: balances
+centimeter: centimetre centimeters centimetres cm
+millimeter: millimetre millimeters millimetres mm
+kilometer: kilometre kilometers kilometres km
+meter: metre meters metres
+liter: litre liters litres
+milliliter: millilitre milliliters millilitres ml
+gram: grams gramme grammes gm
+milligram: milligrams milligramme milligrammes mg
+kilogram: kilograms kilogramme kilogrammes kg
+kilowatt: kilowatts kw
+megawatt: megawatts mw
+kilojoule: kilojoules kj
+pascal: pascals pa
+kilopascal: kilopascals kpa
+celsius: centigrade

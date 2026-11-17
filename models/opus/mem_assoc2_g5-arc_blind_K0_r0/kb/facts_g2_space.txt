@@ -1,0 +1,162 @@
+# Generation 2: space science. Question pattern > answer words.
+# --- earth motions
+earth rotation causes > day night sun rises sets stars move across sky
+earth revolution causes > year seasons with tilt different constellations
+earth axis tilt > 23.5 degrees seasons
+earth tilted toward sun > summer longer days direct sunlight
+earth tilted away from sun > winter shorter days indirect sunlight
+seasons opposite hemispheres > northern summer southern winter tilt
+equinox = equal day night spring fall march september
+summer solstice = longest day june northern hemisphere
+winter solstice = shortest day december northern hemisphere
+earth closest sun > january perihelion not cause seasons
+seasons not caused > distance from sun
+equator daylight > about 12 hours all year little seasons
+poles daylight > 24 hours summer 24 hours dark winter midnight sun
+sun rises > east
+sun sets > west
+sun appears to move across sky > earth rotates west to east
+shadows longest > morning evening sun low
+shadows shortest > noon sun highest overhead
+shadow direction morning > west
+shadow direction evening > east
+sundial = shadow tells time
+# --- moon
+moon orbits earth > about 27 days one month
+moon phases cycle > 29.5 days about one month
+moon phases order > new waxing crescent first quarter waxing gibbous full waning gibbous third quarter waning crescent
+waxing = lit part growing larger
+waning = lit part shrinking smaller
+new moon > moon between earth sun dark side faces earth not visible
+full moon > earth between sun moon fully lit visible all night
+same side moon faces earth > rotation equals revolution
+moon light > reflected sunlight
+moon surface > craters maria highlands dust no air no water
+moon craters caused > meteorite impacts asteroids
+moon craters last long > no wind no water no erosion no atmosphere
+moon temperature extreme > no atmosphere
+moon gravity > one sixth earth weigh less
+footprints moon remain > no wind no weathering erosion
+moon no sound > no air vacuum
+moon formed theory > giant impact earth
+solar eclipse = moon passes between sun earth blocks sunlight shadow earth new moon
+lunar eclipse = earth passes between sun moon earth shadow moon full moon
+never look sun eclipse > damage eyes
+tides two high each day > moon gravity bulge both sides
+spring tide = highest high tides new full moon sun moon aligned
+neap tide = smallest tide range quarter moon right angle
+# --- sun
+sun = star medium size yellow middle aged hydrogen helium
+sun energy produced > nuclear fusion hydrogen into helium core
+sun layers = core radiative zone convective zone photosphere chromosphere corona
+sunspots = cooler darker areas sun surface magnetic
+solar flares > bursts energy radiation disrupt communication
+solar wind = charged particles from sun aurora
+aurora northern lights > solar wind charged particles magnetic field poles
+sun provides earth > light heat energy for life weather water cycle
+sun gravity > holds planets in orbit
+sun largest object solar system > most mass 99 percent
+sun appears larger brighter than other stars > closer to earth
+sun distance earth > 150 million kilometers 1 astronomical unit
+sunlight reaches earth > 8 minutes
+# --- planets
+solar system = sun planets moons asteroids comets dwarf planets
+planets order from sun > mercury venus earth mars jupiter saturn uranus neptune
+inner planets = terrestrial rocky mercury venus earth mars small dense
+outer planets = gas giants jupiter saturn uranus neptune large rings many moons
+mercury > closest to sun smallest planet craters no atmosphere extreme temperatures
+venus > hottest planet thick carbon dioxide atmosphere greenhouse effect clouds brightest planet
+venus hottest not mercury > thick atmosphere traps heat greenhouse
+earth > liquid water life oxygen atmosphere third planet
+mars > red planet iron oxide rust olympus mons polar ice caps two moons dust storms
+mars red color > iron oxide rust dust
+jupiter > largest planet great red spot storm gas giant many moons
+saturn > rings ice rock particles least dense would float
+uranus > tilted on side blue green methane
+neptune > farthest planet blue windy coldest
+pluto > dwarf planet kuiper belt
+dwarf planets > pluto ceres eris
+planet orbit time longer > farther from sun
+planets farther from sun > colder longer year slower orbit
+planets closer to sun > hotter shorter year faster orbit
+planet orbit shape > ellipse elliptical
+planets stay in orbit > gravity sun inertia
+planets shine > reflect sunlight
+planets appear to move against stars > orbit sun
+gas giants composed > hydrogen helium
+asteroid = rocky object orbits sun
+asteroid belt = between mars jupiter
+comet = ice dust rock orbits sun tail points away from sun
+comet tail > melts near sun solar wind points away
+meteoroid = small rock in space
+meteor = shooting star burns up atmosphere streak of light
+meteorite = rock from space lands on earth surface
+meteor shower > earth passes comet debris
+moons = natural satellites orbit planets
+satellite = object orbits another object
+artificial satellites used > communication weather gps tv navigation
+# --- stars and universe
+star = huge ball hot gas plasma gives off light energy fusion
+star color temperature > blue hottest white yellow orange red coolest
+red stars > coolest
+blue stars > hottest
+star brightness depends > size temperature distance from earth
+apparent brightness > how bright star appears from earth distance
+star life cycle > nebula protostar main sequence red giant white dwarf
+massive star life cycle > supergiant supernova neutron star black hole
+nebula = cloud gas dust where stars form
+red giant > old star expands cooler
+white dwarf > small hot dense dying star remnant
+supernova = huge explosion massive star
+black hole = gravity so strong light cannot escape
+main sequence > star fusing hydrogen most of life
+our sun will become > red giant white dwarf
+galaxy = huge group billions stars gas dust held gravity
+galaxy types > spiral elliptical irregular
+milky way = our galaxy spiral
+solar system location > milky way galaxy spiral arm
+universe = all space matter energy galaxies
+big bang theory = universe began expanding 13.8 billion years
+evidence big bang > galaxies moving apart red shift background radiation
+red shift > galaxies moving away universe expanding
+light year = distance light travels in one year
+distance stars measured > light years
+closest star to earth > sun
+closest star after sun > proxima centauri
+constellation = pattern of stars
+constellations examples > orion big dipper ursa major cassiopeia
+constellations change seasons > earth revolves around sun
+stars appear to move at night > earth rotation
+north star polaris > does not move points north navigation
+stars twinkle > earth atmosphere moving air
+stars not visible day > sunlight too bright
+# --- space exploration and tools
+telescope = magnifies collects light distant objects
+refracting telescope > lenses
+reflecting telescope > mirrors
+radio telescope > radio waves
+space telescope hubble > above atmosphere clearer images
+telescopes in space advantage > no atmosphere blur light pollution
+spectroscope > star composition elements temperature
+galileo > telescope moons of jupiter phases of venus
+copernicus > sun centered heliocentric model
+ptolemy > earth centered geocentric model
+kepler > planets elliptical orbits
+newton > law of gravity motion
+astronaut needs space > oxygen water food pressure suit temperature protection
+spacesuit protects > no air extreme temperatures radiation pressure
+space vacuum > no air no sound
+rocket moves > action reaction thrust newton third law
+gravity space station > astronauts float free fall orbit
+weight changes planet > gravity mass stays same
+mass same moon earth > weight changes gravity
+apollo 11 > first humans moon 1969 armstrong
+rovers mars > explore surface robots curiosity
+space probe > unmanned spacecraft explores
+international space station > orbits earth astronauts research
+benefits space exploration > satellites technology medicine materials
+gravity depends > mass distance
+more mass > stronger gravity
+greater distance > weaker gravity
+gravity holds moon orbit > earth gravity
+gravity keeps > planets orbit sun moon orbit earth atmosphere

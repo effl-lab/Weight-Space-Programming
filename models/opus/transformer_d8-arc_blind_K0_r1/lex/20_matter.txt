@@ -1,0 +1,62 @@
+# ===== states of matter and changes of state
+solid solids definite shape rigid tightly packed fixed? own? keeps?
+liquid liquids flow flows flowing pour poured takes container containers shape? volume?
+gas gases fills fill expand expands everywhere spread? spreads? freely? container? shape?
+plasma ionized
+particles particle spaced spacing arrangement vibrate? move? motion? faster? slower? closer? apart?
+melt melting melts melted thaw thaws thawing liquefy warm? heated? sun? butter? chocolate?
+freeze freezing freezes frozen solidify icy 0! 32! colder? cold? freezer
+evaporate evaporation evaporating evaporates evaporated vaporize vaporization dries drying puddle puddles disappears disappeared vapor sunny? dry? wet?
+boil boiling boils boiled 100! 212! steam bubbling bubbles? kettle stove?
+condense condensation condensing condenses condensed droplets dew foggy fog mist clouds? cools? outside? glass? mirror? cold? surface?
+sublimation sublimes sublimate directly dry?
+# ===== mixtures and solutions
+dissolve dissolves dissolved dissolving solution solutions solute solvent stir stirring stirred soluble sugar salt? kool-aid tea? coffee? evenly? completely? homogeneous
+mixture mixtures mixed mix mixing combined physically separated trail salad gravel pebbles cereal? sand? iron? filings? heterogeneous
+separate separating separation filter filtering filtration screen sieve funnel strain strainer magnet? evaporating? settle?
+# ===== physical properties
+density dense denser float floats floating sink sinks sinking buoyant mass? volume? divided? per? cubic?
+@mass_matter matter amount stuff anything takes? up? space?
+volume space occupies cubic milliliters? displacement
+weight heavier lighter heavy heaviest light? pounds
+magnetic magnetism attract attracts attracted iron nickel cobalt steel clip clips nail nails paper? pins
+conductor conductors conduct conducts conductive conductivity copper aluminum silver wire? wires? electricity? metal?
+insulator insulators insulate insulating insulated rubber plastic wood wooden styrofoam foam wool cloth cork glass? poor?
+texture rough smooth bumpy soft feel feels touch fuzzy
+hardness hard harder hardest scratch scratches scratched scratching mohs diamond talc fingernail resist?
+luster shiny dull metallic glassy shine reflects? surface?
+streak powder tile porcelain rubbed? rubbing?
+cleavage fracture splits planes flat? breaks?
+crystal crystals crystalline geometric shapes? pattern?
+odor smell smells scent
+color colors colored
+taste sour sweet salty bitter
+property properties physical? observed? measured? characteristic?
+# ===== atoms, elements, compounds
+element elements pure periodic table symbol symbols kind? one? gold? iron? copper? helium? neon?
+compound compounds formula formulas chemically bonded combined? two? different? h2o! nacl! co2!
+atom atoms smallest building blocks basic particles? unit? matter?
+proton protons positive atomic number positively charge? charged? nucleus?
+electron electrons negative negatively shells cloud valence orbit? outside?
+neutron neutrons neutral uncharged nucleus? mass?
+@nucleus_atom nuclei center? dense?
+molecule molecules joined o2! two? atoms? bonded?
+bond bonds covalent ionic sharing share shared transfer gain lose
+# ===== physical and chemical changes
+physical cut cutting tear tearing torn crush crushing crushed fold folding folded chop chopped grind ground breaking broken bend bending shape? size? state? same? substance? reversible
+chemical new burning burn burns burned burnt rust rusting rusts rusted rot rotting rots cook cooking cooked bake baking baked fry frying fried spoil spoiled tarnish tarnishing reaction reactions react reacts reacting reactant reactants product products bubbles fizz fizzing precipitate flammability flammable reactivity combustion explode exploding fireworks digest? sour? souring
+conservation conserved total before after closed equal? same? mass?
+acid acids acidic lemon lemons vinegar citrus juice sour? low? ph? 1! 2! 3! 4! 5!
+base bases alkaline soap soaps slippery ammonia baking soda bleach antacid bitter? 8! 9! 10! 11! 12!
+neutral 7! distilled? pure?
+metal metals malleable malleability ductile ductility hammered sheets? shiny? conduct?
+nonmetal nonmetals brittle dull?
+noble inert helium neon argon unreactive
+alloy alloys bronze brass solder steel?
+@salt_compound sodium chloride nacl! table? crystals? salt?
+@water_compound h2o! hydrogen? oxygen? two? one?
+dioxide co2! exhale exhaled
+@oxygen_element o2! breathe? burn? fire?
+hydrogen lightest
+nitrogen n2! 78! most? abundant?
+@carbon_element graphite charcoal pencil diamond? coal?

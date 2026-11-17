@@ -1,0 +1,160 @@
+# Generation 6: observable sky patterns, spatial relationships, and space tools.
+earth spinning | rotation day night
+earth orbiting | revolution year
+earth tilted | axial tilt seasons
+earth illuminated | half sunlight day
+rotation apparent sky | stars sun east west
+sun apparent daily | earth rotation
+stars apparent daily | earth rotation
+stars seasonal | earth revolution orbit
+constellation seasonal | earth revolution orbit
+constellation pattern | apparent star positions
+constellation distance | stars different distances
+polaris stationary | earth axis north
+polaris altitude | observer latitude
+# Ideal pole-star geometry at ordinary latitudes, ignoring near-equator
+# refraction and Polaris's small angular offset from the celestial pole.
+# Keep north/south in every pair; hemisphere/Polaris alone fixes neither sign.
+southern polaris | below horizon | visible | -1.0
+northern polaris | above horizon visible | | -1.0
+sunrise east | earth rotation
+sunset west | earth rotation
+noon shadow | shortest solar altitude
+morning shadow | west long
+evening shadow | east long
+sun high | short shadow noon
+sun low | long shadow horizon
+sundial shadow | earth rotation time
+seasons opposite hemisphere | axial tilt
+northern summer | axis tilted sun longer daylight
+northern winter | axis tilted away shorter daylight
+summer solar angle | direct rays concentrated energy
+winter solar angle | oblique rays spread energy
+summer daylight | longer heating duration
+equinox daylight | approximately equal night
+solstice summer | longest daylight
+solstice winter | shortest daylight
+polar summer | continuous daylight
+polar winter | continuous darkness
+equator sunlight | direct rays warm climate
+latitude sunlight | incidence angle climate
+orbit ellipse | gravitational path
+perihelion | closest orbital distance
+aphelion | farthest orbital distance
+planet orbit gravity | attraction centripetal
+# Compare circular orbits around the same central mass.
+orbit closer | shorter period | longer | -1.0
+orbit farther | longer period | shorter | -1.0
+planet orbit inertia | forward motion gravity
+satellite revolution | orbit gravity
+satellite artificial | communication weather navigation
+GPS satellites | positioning timing radio
+weather satellite | clouds storm monitoring
+communication satellite | radio signals relay
+geostationary position | equatorial orbit daily period
+space telescope advantage | clear images resolution | distortion absorption
+orbiting telescope | clear images resolution | distortion absorption | -1.0
+radio telescope | long wavelength electromagnetic radiation
+reflecting telescope | concave mirror light collection
+refracting telescope | convex lens light collection
+telescope aperture | light gathering resolution
+telescope spectroscope | composition absorption emission lines
+spectral lines element | characteristic atomic transitions
+star absorption spectrum | chemical composition
+star color temperature | surface thermal radiation
+star blue | hotter surface temperature | cooler | -1.0
+star red | cooler surface temperature | hotter | -1.0
+star apparent brightness | luminosity distance
+star intrinsic brightness | luminosity energy output
+stellar parallax | apparent position distance
+lightyear distance | light travel year
+astronomical unit | earth sun average distance
+astronomical unit distance | solar system scale
+parsec | stellar distance parallax
+sun energy source | hydrogen fusion helium
+sun core | nuclear fusion temperature pressure
+sun photosphere | visible surface light
+sun corona | outer atmosphere hot
+sunspot dark | cooler magnetic region
+solar flare | magnetic energy radiation
+solar wind | charged particles sun
+magnetosphere solarwind | magnetic deflection particles
+aurora particles | magnetic field atmosphere light
+sun medium star | main sequence hydrogen fusion
+nebula collapse | gravity protostar
+protostar heating | gravitational contraction thermal energy
+main sequence balance | gravity pressure equilibrium
+red giant | expanding aging star
+sun future | red giant white dwarf
+white dwarf | dense stellar remnant cooling
+massive star collapse | supernova neutron star blackhole
+supernova elements | heavy nuclei dispersal
+neutron star | dense stellar remnant
+blackhole escape | gravity light trapped
+blackhole horizon | boundary trapped light | escape
+stellar elements heavier | fusion nucleosynthesis
+solar system formation | rotating gas dust accretion
+planetesimal collisions | accretion planet formation
+terrestrial planets | rocky dense inner
+Jovian planets | large gaseous outer
+Mercury atmosphere | thin exosphere cratered
+Venus greenhouse | carbon dioxide hot surface
+Venus clouds | sulfuric acid atmosphere
+Mars red | iron oxide dust
+Mars polar | ice carbon dioxide water
+Jupiter size | largest planet gas giant
+Saturn rings | ice rock particles
+Uranus tilt | sideways rotation
+Neptune wind | distant ice giant
+Pluto classification | dwarf planet Kuiper
+asteroid belt location | Mars Jupiter
+asteroid composition | rock metal
+comet nucleus | ice dust rock
+comet approaching sun | sublimation tail formation
+# Ion and dust tails have different drivers; retain both in the generic cue.
+comet tail direction | away sun solar wind radiation pressure
+meteor streak | atmospheric heating meteoroid
+meteorite surface | surviving space rock
+meteor shower | comet debris earth orbit
+crater impact | meteoroid collision
+moon crater abundance | ancient impacts preservation | erosion atmosphere | -1.0
+moon craters preserved | ancient impacts | erosion
+moon gravity | smaller mass lower weight
+moon airless | vacuum extreme temperature | weather | -1.0
+moon sunlight | reflected light
+moon phases | illuminated portion viewing angle
+moon phase cycle | month revolution
+moon same face | synchronous rotation revolution
+moon orbit tilt | eclipses uncommon
+new moon alignment | moon between earth sun
+full moon alignment | earth between sun moon
+crescent moon | small illuminated fraction
+quarter moon | half visible illuminated
+waxing moon | illuminated fraction increasing
+waning moon | illuminated fraction decreasing
+solar eclipse shadow | moon blocks sun
+lunar eclipse shadow | earth blocks sunlight moon
+solar eclipse new moon | alignment moon earth sun
+lunar eclipse full moon | alignment earth moon sun
+eclipse totality | umbra shadow
+# Partial solar eclipses involve the observer's penumbra location, whereas
+# partial lunar eclipses involve only part of the Moon entering Earth's umbra.
+# A generic partial eclipse must not be assigned one shadow region.
+eclipse partial | incomplete shadow coverage | | -1.0
+penumbral eclipse | lunar faint dimming earth shadow | | -1.0
+annular eclipse | antumbra sunlight ring | | -1.0
+antumbra eclipse | annular sunlight ring | | -1.0
+moon reddish eclipse | atmosphere refracted sunlight
+tides periodic | moon solar gravity earth rotation
+spring tides alignment | new moon full moon large range
+neap tides perpendicular | quarter moon small range
+tide bulges | differential gravity
+universe expansion | redshift distant galaxies
+redshift recession | wavelength stretching
+Hubble law | distance recession expansion
+cosmic background | microwave early universe
+bigbang evidence | expansion microwave background
+Milkyway | spiral galaxy solar system
+Milkyway stars | galaxy billions
+Andromeda | nearby large galaxy
+universe hierarchy | planets stars galaxies

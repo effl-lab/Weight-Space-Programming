@@ -1,0 +1,254 @@
+# Explicit is-a links and conservative class profiles, authored from science knowledge.
+# isa | path attenuation (0,1] | children | one parent
+# trait | strength | classes | supported words | opposed words
+# This file is not inferred from texts or answers. Only these declared links compose.
+# The compiler also recalls known examples from class names, at 0.60 times path
+# strength. These reverse retrieval associations never become is-a graph links.
+
+# CELLS, ORGANISMS, AND NUTRITION
+isa | 0.85 | eukaryote prokaryote autotroph heterotroph | organism
+isa | 0.90 | plant animal fungus protist | eukaryote
+isa | 0.90 | bacterium | prokaryote
+isa | 0.90 | producer | autotroph
+isa | 0.90 | consumer decomposer | heterotroph
+isa | 0.90 | plant | producer
+isa | 0.90 | animal | consumer
+isa | 0.90 | fungus | heterotroph
+isa | 0.90 | alga | eukaryote
+isa | 0.90 | cyanobacterium | bacterium
+isa | 0.90 | amoeba paramecium euglena | protist
+isa | 0.90 | mushroom mold yeast | fungus
+isa | 0.85 | mushroom mold | decomposer
+trait | 0.65 | organism | cell dna energy metabolism growth response reproduction |
+trait | 0.85 | eukaryote | nucleus membrane cytoplasm mitochondria ribosome |
+trait | 0.85 | prokaryote | unicellular membrane cytoplasm dna ribosome | nucleus chloroplast
+trait | 0.80 | autotroph | make food producer |
+trait | 0.80 | heterotroph | food organic nutrient consumer |
+trait | 0.90 | plant | chloroplast chlorophyll photosynthesis cellulose wall | feather fur
+# Sponges are animals but have no true tissues, organs, muscles, or nerves.
+trait | 0.85 | animal | respiration | cellwall chloroplast
+trait | 0.85 | vertebrate arthropod mollusk annelid echinoderm | tissue organ muscle nerve |
+trait | 0.85 | fungus | chitin wall absorb spore | chloroplast photosynthesis
+trait | 0.90 | decomposer | decay dead recycle nutrient organic |
+trait | 0.80 | alga cyanobacterium | photosynthesis chlorophyll light oxygen |
+trait | 0.90 | amoeba | pseudopod movement |
+trait | 0.90 | paramecium | cilia movement |
+trait | 0.90 | euglena | flagellum chloroplast photosynthesis |
+trait | 0.90 | yeast | fermentation dioxide alcohol |
+
+# ANIMAL HIERARCHY: MULTIPLE INHERITANCE IS EXPLICIT, NOT GUESSWORK.
+isa | 0.90 | vertebrate invertebrate endotherm ectotherm | animal
+isa | 0.90 | mammal bird reptile amphibian fish | vertebrate
+isa | 0.90 | mammal bird | endotherm
+isa | 0.90 | reptile amphibian | ectotherm
+isa | 0.90 | arthropod mollusk annelid echinoderm cnidarian sponge | invertebrate
+isa | 0.90 | insect arachnid crustacean | arthropod
+isa | 0.90 | snail clam squid octopus | mollusk
+isa | 0.90 | earthworm leech | annelid
+isa | 0.85 | earthworm | decomposer
+isa | 0.90 | starfish seaurchin | echinoderm
+isa | 0.90 | jellyfish hydra | cnidarian
+isa | 0.90 | butterfly moth bee beetle ant mosquito grasshopper cricket cockroach termite ladybug | insect
+isa | 0.90 | spider scorpion tick | arachnid
+isa | 0.90 | crab lobster shrimp | crustacean
+isa | 0.90 | shark salmon trout tuna bass herring catfish | fish
+isa | 0.85 | shark salmon trout bass herring catfish | ectotherm
+isa | 0.90 | frog toad salamander | amphibian
+isa | 0.90 | snake lizard turtle crocodile alligator | reptile
+isa | 0.90 | penguin duck goose swan chicken owl hawk eagle falcon vulture hummingbird finch sparrow robin ostrich peacock quail | bird
+isa | 0.90 | human whale dolphin porpoise seal walrus bat bear fox wolf coyote rabbit hare mouse rat squirrel chipmunk deer elk moose buffalo bison antelope giraffe zebra lion tiger cheetah elephant hippopotamus rhinoceros camel kangaroo koala platypus primate horse cow pig sheep goat porcupine skunk opossum armadillo | mammal
+isa | 0.90 | chimpanzee gorilla monkey human | primate
+isa | 0.90 | kangaroo koala opossum | marsupial
+isa | 0.90 | marsupial monotreme | mammal
+isa | 0.90 | platypus | monotreme
+trait | 0.90 | vertebrate | backbone spine skeleton bone |
+trait | 0.90 | invertebrate | invertebrate | backbone vertebrae
+trait | 0.90 | endotherm | warmblooded regulate temperature heat |
+trait | 0.90 | ectotherm | coldblooded environment temperature |
+trait | 1.00 | mammal | hair milk lung | feather gill
+trait | 1.00 | bird | feather beak lung egg | fur gill
+trait | 0.90 | reptile | dry scale lung | feather fur
+trait | 0.90 | amphibian | moist skin metamorphosis | feather fur
+trait | 0.90 | fish | gill fin aquatic | feather fur
+trait | 0.90 | arthropod | jointed leg exoskeleton molt |
+trait | 1.00 | insect | six leg three body antenna |
+trait | 1.00 | arachnid | eight leg |
+trait | 0.85 | crustacean | aquatic gill exoskeleton |
+trait | 0.80 | mollusk | soft body mantle |
+trait | 0.85 | annelid | segment worm |
+trait | 0.85 | echinoderm | radial marine spiny |
+trait | 0.85 | cnidarian | tentacle sting aquatic tissue nerve |
+# Cnidarians lack a centralized brain; specialized sensory structures vary.
+trait | 0.85 | cnidarian | nerve network | brain
+trait | 0.85 | sponge | aquatic filter pore | tissue organ muscle nerve brain
+trait | 0.90 | clam snail turtle | shell protection |
+trait | 0.90 | octopus squid | tentacle carnivore |
+trait | 0.90 | whale dolphin porpoise | air blowhole aquatic |
+trait | 0.90 | seal walrus whale | blubber insulation |
+trait | 0.90 | bat | wing flight nocturnal |
+trait | 0.90 | penguin | swim flipper flightless |
+trait | 0.90 | duck goose swan | webbed swim |
+trait | 0.90 | ostrich | flightless run |
+trait | 0.90 | hawk eagle falcon owl | talon predator carnivore |
+trait | 0.90 | owl | nocturnal hearing |
+trait | 0.90 | vulture | scavenger dead |
+trait | 0.90 | hummingbird | nectar pollination |
+trait | 0.90 | bee butterfly | pollination nectar |
+trait | 0.90 | mosquito tick | vector disease |
+trait | 0.90 | marsupial | pouch offspring |
+trait | 0.90 | monotreme | egg milk |
+trait | 0.90 | primate | opposable thumb |
+
+# PLANT GROUPS: WATER/SUGAR TRANSPORT IS INHERITED ONLY BY VASCULAR PLANTS.
+isa | 0.90 | vascularplant nonvascularplant | plant
+isa | 0.90 | seedplant fern | vascularplant
+isa | 0.90 | angiosperm gymnosperm | seedplant
+isa | 0.90 | moss liverwort | nonvascularplant
+isa | 0.90 | pine spruce | gymnosperm
+isa | 0.90 | oak maple grass corn wheat rice bean pea soybean clover cactus sunflower | angiosperm
+trait | 0.90 | vascularplant | xylem phloem transport root stem leaf |
+trait | 0.90 | nonvascularplant | moist spore diffusion | xylem phloem
+trait | 0.90 | seedplant | seed embryo |
+trait | 0.90 | angiosperm | flower fruit |
+trait | 0.90 | gymnosperm | cone exposed seed |
+trait | 0.90 | fern | spore |
+trait | 0.90 | pine spruce | needle evergreen |
+trait | 0.90 | oak maple | deciduous leaf autumn |
+trait | 0.90 | bean pea soybean clover | legume nitrogen fixation root bacteria |
+trait | 0.90 | cactus | desert spine stem water storage wax |
+
+# ELEMENTS, MATERIALS, AND CLASSIFICATION OF SUBSTANCES
+isa | 0.90 | copper iron aluminum silver gold lead mercury zinc nickel cobalt tin platinum lithium sodium potassium calcium magnesium | metal
+isa | 0.90 | copper iron aluminum silver gold lead mercury zinc nickel cobalt tin platinum lithium sodium potassium calcium magnesium carbon hydrogen oxygen nitrogen sulfur phosphorus chlorine fluorine helium neon argon bromine iodine silicon boron arsenic germanium | element
+isa | 0.90 | steel brass bronze | alloy
+isa | 0.90 | alloy | metal
+isa | 0.90 | silicon boron arsenic germanium | metalloid
+isa | 0.90 | helium neon argon krypton xenon | noblegas
+isa | 0.90 | fluorine chlorine bromine iodine | halogen
+isa | 0.90 | lithium sodium potassium rubidium cesium | alkalimetal
+isa | 0.90 | noblegas halogen alkalimetal | element
+isa | 0.90 | alkalimetal | metal
+isa | 0.90 | metal | electricconductor
+isa | 0.90 | electricconductor | conductor
+isa | 0.90 | electricinsulator thermalinsulator | insulator
+isa | 0.90 | rubber plastic wood glass | electricinsulator
+isa | 0.85 | rubber plastic wood wool foam air | thermalinsulator
+isa | 0.90 | water salt glucose dioxide methane ammonia ethanol | compound
+isa | 0.90 | sugar starch glucose sucrose fructose lactose glycogen | carbohydrate
+isa | 0.90 | glucose sucrose fructose lactose | sugar
+isa | 0.90 | glucose sucrose fructose lactose starch glycogen | compound
+trait | 0.80 | element | atom proton periodic pure |
+trait | 0.85 | metal | shiny luster heat conductor |
+trait | 0.90 | electricconductor | electric current conduct |
+trait | 0.90 | electricinsulator | resistance insulator | conductor
+trait | 0.90 | thermalinsulator | insulation heat transfer reduce |
+trait | 0.90 | alloy | mixture metal |
+trait | 0.85 | metalloid | semiconductor brittle |
+trait | 0.90 | noblegas | gas stable inert full outer shell |
+trait | 0.90 | halogen | reactive nonmetal |
+trait | 0.90 | alkalimetal | reactive valence one |
+trait | 0.80 | compound | chemical bond fixed ratio |
+trait | 0.90 | carbohydrate | chemical energy carbon hydrogen oxygen |
+trait | 0.90 | sugar | soluble sweet |
+trait | 0.85 | copper aluminum gold silver | malleable ductile wire |
+trait | 0.85 | iron nickel cobalt | magnetic attract |
+trait | 0.90 | sodium | salt reactive |
+trait | 0.90 | calcium | bone teeth shell |
+trait | 0.90 | iron | hemoglobin oxygen |
+trait | 0.90 | carbon | organic dioxide |
+trait | 0.90 | hydrogen | water sun fusion |
+trait | 0.90 | helium | inert balloon low density |
+trait | 0.90 | salt | ionic sodium chloride soluble |
+
+# ROCK FAMILIES AND MINERAL PROPERTIES
+isa | 0.90 | igneous sedimentary metamorphic | rock
+isa | 0.90 | granite basalt obsidian pumice rhyolite andesite | igneous
+isa | 0.90 | sandstone shale limestone conglomerate breccia chert coal | sedimentary
+isa | 0.90 | marble slate quartzite gneiss schist | metamorphic
+isa | 0.90 | quartz feldspar mica calcite gypsum halite fluorite apatite corundum topaz diamond graphite magnetite hematite | mineral
+trait | 0.80 | rock | mineral geology earth |
+trait | 0.90 | igneous | cool magma lava |
+trait | 0.90 | sedimentary | sediment compact cement layer fossil |
+trait | 0.90 | metamorphic | heat pressure changed rock |
+trait | 0.80 | mineral | natural inorganic crystal solid |
+trait | 0.90 | granite | intrusive slow large crystal |
+trait | 0.90 | basalt | extrusive rapid small crystal |
+trait | 0.90 | obsidian | glass rapid cooling |
+trait | 0.90 | pumice | pore gas bubble float |
+trait | 0.90 | limestone calcite | calcium carbonate acid fizz |
+trait | 0.90 | halite | salt sodium chloride |
+trait | 0.90 | magnetite | magnetic iron |
+trait | 0.90 | hematite | iron red |
+trait | 0.90 | diamond | carbon hardness |
+trait | 0.90 | graphite | carbon conductor |
+
+# ENERGY RESOURCES AND WAVE FAMILIES
+isa | 0.90 | solar wind hydroelectric geothermal biomass | renewable
+isa | 0.90 | fossilfuel uranium | nonrenewable
+isa | 0.90 | coal petroleum gasoline | fossilfuel
+trait | 0.85 | renewable | replenish energy resource | nonrenewable
+trait | 0.85 | nonrenewable | finite limited resource | renewable
+trait | 0.90 | fossilfuel | ancient organic carbon chemical fuel |
+trait | 0.90 | solar | sun light radiation |
+trait | 0.90 | wind | moving air turbine |
+trait | 0.90 | hydroelectric | water turbine generator |
+trait | 0.90 | geothermal | earth internal heat |
+trait | 0.90 | biomass | organic plant waste chemical |
+trait | 0.90 | uranium | nuclear fission radioactive |
+isa | 0.90 | radio microwave infrared light ultraviolet xray gamma | electromagnetic
+isa | 0.90 | sound | mechanicalwave
+isa | 0.90 | ultrasound infrasound | sound
+trait | 0.85 | electromagnetic | wave energy transverse vacuum |
+trait | 0.85 | mechanicalwave | wave energy medium vibration |
+trait | 0.90 | sound | longitudinal compression rarefaction |
+trait | 0.90 | ultrasound | high frequency |
+trait | 0.90 | infrasound | low frequency |
+trait | 0.90 | infrared | thermal heat |
+trait | 0.90 | ultraviolet | sunburn ozone |
+trait | 0.90 | xray | bone image penetration |
+trait | 0.90 | gamma | nuclear high frequency energy |
+
+# ASTRONOMICAL OBJECTS
+isa | 0.90 | mercuryplanet venus earth mars jupiter saturn uranus neptune | planet
+isa | 0.90 | sun | star
+isa | 0.90 | moon | satellite
+trait | 0.85 | planet | orbit gravity star reflected light |
+trait | 0.90 | star | fusion hydrogen helium own light energy |
+trait | 0.90 | satellite | orbit gravity |
+trait | 0.90 | moon | reflected sun phase crater |
+trait | 0.90 | mercuryplanet venus earth mars | rocky solid terrestrial |
+trait | 0.90 | jupiter saturn | giant gas |
+trait | 0.90 | uranus neptune | giant ice |
+trait | 0.90 | jupiter | largest |
+trait | 0.90 | saturn | ring |
+trait | 0.90 | mars | red iron oxide |
+trait | 0.90 | venus | dioxide greenhouse hot |
+trait | 0.90 | earth | liquid water life |
+
+# Further named examples, with only explicit is-a inheritance.
+isa | 0.90 | dog cat hamster gerbil raccoon beaver otter | mammal
+isa | 0.90 | crow parrot pigeon turkey woodpecker pelican | bird
+isa | 0.90 | worm | invertebrate
+isa | 0.90 | strawberry tomato potato carrot lettuce apple peach pear cherry watermelon | angiosperm
+isa | 0.90 | tree | vascularplant
+isa | 0.90 | microorganism | organism
+isa | 0.90 | bacterium amoeba paramecium euglena yeast | microorganism
+trait | 0.80 | microorganism | microscopic cell reproduction |
+trait | 0.90 | cat | carnivore predator |
+trait | 0.80 | dog | omnivore |
+trait | 0.90 | beaver | herbivore dam wood |
+trait | 0.90 | otter | aquatic carnivore |
+trait | 0.90 | raccoon | omnivore nocturnal |
+trait | 0.90 | woodpecker | beak insect wood |
+trait | 0.90 | pelican | beak pouch fish |
+trait | 0.90 | carrot | root food storage |
+trait | 0.90 | potato | tuber starch food storage |
+trait | 0.90 | lettuce | leaf food |
+trait | 0.90 | strawberry | runner fruit |
+
+# Examples are scientific memberships, not interchangeable lexical forms.
+isa | 0.90 | seaweed | alga
+isa | 0.90 | kelp | seaweed
+isa | 0.90 | seedling | plant
+trait | 0.85 | kelp | marine photosynthesis holdfast |
+trait | 0.85 | seedling | young germination growth |

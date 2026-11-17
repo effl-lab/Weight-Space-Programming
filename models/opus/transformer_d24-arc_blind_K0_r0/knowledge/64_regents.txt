@@ -1,0 +1,129 @@
+# ---------------- state-test earth science vocabulary ----------------
+insolation: insolation incoming solar radiation angle intensity
+insolation angle: higher sun angle more insolation warmer
+insolation latitude: insolation decreases higher latitude
+contour lines: contour lines topographic map elevation
+contour spacing: closely spaced contour lines steep slope
+gradient: gradient slope change distance
+topographic map: topographic map elevation landforms hills
+isolines: isolines isotherms isobars equal values
+isobars wind: isobars close together strong winds
+isotherms: isotherms equal temperature
+porosity: porosity pore space percent
+permeability: permeability water passes through sand gravel
+capillarity: capillarity water rises small pores
+infiltration: infiltration water soaks ground permeable
+runoff conditions: runoff increases paved steep saturated frozen ground
+water table: water table zone saturation groundwater
+zone saturation: saturation zone pores filled water
+stream discharge: stream discharge volume water flow
+stream velocity: stream velocity slope discharge faster outside bend
+meander erosion deposition: outside bend erosion inside bend deposition
+sorting sediments: sorted sediments water layers graded bedding
+unsorted glacial: unsorted sediments glacier till
+glacial evidence: glacial evidence scratches striations erratics drumlins kettle lakes
+drumlins: drumlins glacier hills
+erratics: erratics boulders glacier transported
+kettle lakes: kettle lakes ice blocks melted
+finger lakes: finger lakes glaciers new york
+adirondacks: adirondack mountains new york metamorphic
+long island: long island moraine glacier deposits
+psychrometer: sling psychrometer relative humidity dewpoint wet bulb dry bulb
+dewpoint: dewpoint condensation clouds fog temperature air saturated
+cloud base: cloud base altitude dewpoint
+adiabatic cooling: rising air expands cools clouds
+air mass symbols: cp mt cT mp air mass continental maritime polar tropical
+cyclone: cyclone low pressure counterclockwise storms
+anticyclone: anticyclone high pressure clockwise fair
+coriolis: coriolis effect earth rotation deflects winds currents right
+foucault pendulum: foucault pendulum proves earth rotation
+coriolis evidence: coriolis evidence rotation
+polaris latitude: altitude polaris equals latitude
+celestial sphere: celestial sphere stars apparent motion
+sun path: sun path east west sky higher summer
+star trails: star trails circles polaris rotation 15 degrees hour
+eccentricity: eccentricity orbit ellipse oval
+kepler laws: kepler planets faster closer sun
+orbital velocity: orbital speed faster closer
+gravity distance mass: gravitational force mass distance
+seismic travel time: travel time p waves s waves epicenter distance
+epicenter location: epicenter located three seismic stations
+p waves: p waves primary faster travel solids liquids
+s waves: s waves secondary slower solids only not liquid outer core
+earthquake intensity: magnitude energy richter scale
+mid ocean ridge: mid ocean ridge divergent new crust younger
+ocean age: oceanic crust younger near ridge older far
+magnetic reversals: magnetic reversals stripes seafloor
+subduction zone: subduction zone trench volcanoes oceanic denser
+hot spot volcanoes: hot spot chain islands hawaii
+intrusive: intrusive igneous slow cooling coarse large crystals granite
+extrusive: extrusive igneous fast cooling fine small crystals basalt
+vesicular: vesicular gas pockets holes pumice scoria
+foliation: foliated banding metamorphic schist gneiss
+contact metamorphism: contact metamorphism magma heat nearby rock
+regional metamorphism: regional metamorphism pressure mountain building
+clastic: clastic fragments sediments sandstone shale conglomerate
+chemical sedimentary: evaporites rock salt gypsum chemical sedimentary
+organic sedimentary: organic sedimentary coal limestone shells
+original horizontality: layers deposited horizontal
+cross cutting: cross cutting intrusion fault younger rock
+unconformity: unconformity buried erosion surface missing layers
+inclusions: inclusions older rock pieces
+correlation: correlation matching rock layers index fossils volcanic ash
+index fossil traits: index fossil widespread short time
+half life: half life radioactive decay carbon 14 uranium 238
+carbon 14: carbon 14 dating organic remains recent
+uranium dating: uranium 238 dating old rocks
+geologic eras: precambrian paleozoic mesozoic cenozoic eras
+precambrian: precambrian longest era early life
+paleozoic: paleozoic trilobites fish amphibians
+mesozoic: mesozoic dinosaurs reptiles age
+cenozoic: cenozoic mammals age humans
+landscape regions: landscapes plateaus mountains plains bedrock climate
+weathering climate: chemical weathering warm humid physical weathering cold freeze thaw
+soil profile: soil profile horizons
+mass wasting: mass wasting gravity slump creep landslide
+sea level change: sea level changes glaciers
+seasons earth position: perihelion aphelion closer january farther july
+# ---------------- living environment vocabulary ----------------
+feedback: feedback mechanism homeostasis regulate response
+negative feedback: negative feedback maintains balance body temperature
+stimulus response: stimulus response organism reacts environment
+enzyme function: enzymes proteins speed chemical reactions temperature ph
+enzyme shape: enzyme shape specific substrate
+organic compounds: organic compounds carbohydrates lipids proteins nucleic acids carbon
+lipids: lipids fats oils energy storage
+nucleic acids: nucleic acids dna rna
+glucose energy: glucose sugar energy cells
+starch storage: starch plants store glucose
+cellulose: cellulose plant cell walls fiber
+diffusion membrane: molecules move high low concentration membrane
+active transport: active transport energy membrane
+receptor molecules: receptor molecules cell membrane signals hormones
+chemical messengers: hormones nerve chemical messengers signals
+antigens: antigens foreign molecules trigger immune
+antibodies: antibodies proteins attack antigens
+aids hiv: hiv virus attacks immune system aids
+cancer mutation: cancer uncontrolled cell division mutations
+dna replication: dna copies before cell division
+genetic code: genetic code bases sequence proteins
+protein synthesis: dna instructions proteins ribosomes
+gene expression: genes expressed environment
+gene mutations: mutations radiation chemicals change dna
+genetic variation: variation sexual reproduction meiosis mutations
+cloning identical: cloning genetically identical asexual
+biotechnology: biotechnology genetic engineering medicine agriculture
+evolution evidence: evolution evidence fossils anatomy dna embryos
+common ancestry: common ancestor similar dna structures
+antibiotic resistant evolution: bacteria resistance antibiotics natural selection
+pesticide resistance: insects resistance pesticides natural selection
+extinction environment: extinction environment changes species fail adapt
+ecosystem energy flow: energy flows sun producers consumers decomposers
+matter cycles: matter recycled carbon nitrogen water cycles
+autotroph heterotroph: autotrophs make food heterotrophs consume
+ecological succession: succession changes community time climax
+biodiversity importance: biodiversity stability ecosystem medicines resources
+human population impact: population growth resources pollution habitat
+global warming effects: global warming climate change sea level species habitats
+ozone depletion: ozone depletion cfcs ultraviolet skin cancer
+acid rain effects: acid rain lakes forests fish damage

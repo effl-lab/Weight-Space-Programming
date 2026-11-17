@@ -1,0 +1,275 @@
+!gloss
+# Specific terms and everyday objects
+accuracy accurate measurement close true value
+contraction contract muscle shorten
+dormant inactive seeds volcano sleeping
+epidermis outer layer skin leaf
+dermis skin layer
+excretion remove waste excretory
+exoskeleton outside skeleton insects crabs shell
+endoskeleton inside skeleton vertebrates
+ion charged atom
+pathogen germ causes disease
+petal colorful flower part attract
+plankton tiny drifting ocean organisms food whales
+phytoplankton plankton photosynthesis ocean producers
+zooplankton tiny animals plankton
+sensory senses receptors
+solubility dissolves amount
+uterus womb baby develops
+abrasion rocks scraped grinding wind sand
+anatomy body structure
+aorta largest artery heart
+archaeology ancient human artifacts
+autotroph makes own food producer
+heterotroph eats food consumer
+axon nerve cell message
+dendrite nerve cell receives
+biosphere all living things earth
+hydrosphere all water earth
+geosphere rocks earth
+bloodstream blood circulation
+bronchi airways lungs
+burrow underground hole animal shelter rabbit mole
+calorimeter measures heat
+cambium tree growth layer
+cardiac heart muscle
+centrifuge spinning separates
+cochlea inner ear hearing
+concave lens curved inward spreads light
+convex lens curved outward focuses light magnify
+cornea clear front eye
+cotyledon seed leaf food
+cuticle waxy leaf layer
+cyclone rotating storm
+dehydration loss water body
+dilute add water weaker
+concentrated strong solution
+distillation boiling condensing separate liquids
+ecology study ecosystems organisms environment
+efficiency useful energy output
+elasticity stretch return shape rubber
+ellipse oval orbit
+emission release gases exhaust
+fermentation yeast sugar alcohol carbon dioxide bread
+fetus developing baby
+fibrous roots grass many thin
+taproot carrot one main root
+filtration filter separate solids liquids
+foliage leaves
+fracture break bone rock
+geology study rocks earth
+geologist studies rocks earth
+paleontologist studies fossils
+meteorologist studies weather
+astronomer studies stars planets
+biologist studies living things
+botanist studies plants
+zoologist studies animals
+chemist studies matter chemicals
+physicist studies energy matter motion
+ecologist studies ecosystems
+seismologist studies earthquakes
+volcanologist studies volcanoes
+oceanographer studies oceans
+entomologist studies insects
+gravitational pull gravity mass
+half-life radioactive decay
+herbivorous plant eating
+incisor front teeth cutting
+molar back teeth grinding
+canine pointed teeth tearing
+inorganic not living minerals
+organic living carbon compounds
+isotope different neutrons
+leaching water carries minerals down soil
+legume beans peas nitrogen
+longitude latitude location map grid
+lymph immune system fluid
+monocot one seed leaf grass corn
+dicot two seed leaves beans
+oasis water desert
+ovule becomes seed
+peat partially decayed plants bog coal
+umbra dark shadow eclipse
+penumbra partial shadow
+perennial plants live many years
+annual plants one year
+pharynx throat
+pigment color substance
+placenta mammal baby nutrients mother
+pneumonia lung infection
+pores skin openings soil spaces
+primate monkey ape human
+protozoa single celled animal like
+reservoir stored water lake dam
+rodent mice rats squirrels gnawing teeth
+salinity saltiness ocean
+saturated solution no more dissolves
+sterile no germs
+strata rock layers
+synthesis combine make
+taxonomy classification naming organisms
+linnaeus classification binomial naming
+scientific name genus species
+topography land surface shape height
+topographic map contour lines elevation
+trophic level food chain position
+tumor cancer cells growing
+vegetation plants area
+venom poison snake spider
+ventricle heart chamber pumps
+atrium heart chamber receives
+viscosity thick flow slowly honey syrup
+yield crop amount harvest
+# everyday objects & situations
+refrigerator keeps food cold slows spoiling bacteria
+freezer freezes water ice
+stove burner heats pan
+oven bakes heat
+microwave oven heats food waves
+toaster electric heat
+hair dryer electric heat air
+iron clothes heat
+light switch circuit
+flashlight batteries bulb
+lamp bulb electricity
+television electricity light sound
+radio waves sound
+telephone sound electrical signals
+cell phone radio waves battery
+computer electricity information
+solar calculator panel light
+alarm clock sound
+doorbell electromagnet
+fan blades move air cool
+air conditioner cools air
+thermostat controls temperature
+furnace heats house
+fireplace wood burning heat
+chimney smoke
+kite wind lift
+sailboat wind sails
+windmill wind turns blades
+water wheel flowing water turns
+bicycle pedals gears chain wheels
+skateboard wheels friction
+roller skates wheels
+sled snow slides low friction
+skis snow slide
+ice skates blades
+playground slide friction gravity
+swing pendulum
+seesaw lever balance
+trampoline elastic bounce
+basketball bounce
+baseball bat hit
+soccer ball kick force
+bowling ball heavy momentum
+golf ball dimples
+tires rubber grip road
+brakes friction stop wheels
+helmet protects head
+seatbelt protects passengers
+airbag cushions crash
+car engine gasoline
+truck heavy
+train tracks steel
+airplane fuel wings
+boat floats water
+canoe paddle
+submarine underwater
+rocket space
+hot plate lab heat
+test tube lab glass
+funnel pour liquid narrow
+filter paper separates
+eyedropper drops small amounts liquid
+pipette measure liquid
+petri dish bacteria grow
+microscope slide cover slip
+tweezers pick small objects
+forceps
+magnifying glass hand lens enlarge
+measuring tape length
+scale weigh
+spring scale newtons
+pan balance compare masses
+triple beam balance mass
+thermometer celsius
+timer stopwatch
+calculator math
+notebook record observations
+camera record images
+aluminum foil reflects shiny metal
+plastic wrap
+wax paper translucent
+cardboard box
+paper towel absorbs water
+sponge absorbs water holes
+cotton balls absorb
+wool sweater warm
+rubber gloves insulate electricity
+wooden spoon insulator
+metal spoon conductor
+glass jar transparent
+mirror reflects image
+window glass transparent
+curtains block light
+sunglasses block bright light ultraviolet
+umbrella rain shade
+raincoat waterproof
+boots waterproof
+shovel dig soil
+rake leaves
+hose water garden
+garden plants vegetables soil
+compost pile decompose food scraps
+trash can garbage
+recycling bin paper plastic cans glass
+water bottle reusable
+lunch food energy
+breakfast food
+milk calcium bones
+bread carbohydrates
+meat protein
+vegetables vitamins
+fruit vitamins sugar
+candy sugar teeth
+soda sugar
+juice
+ice cream frozen melts
+chocolate melts heat
+butter melts
+popcorn kernels pop heat steam
+egg cooks chemical change
+cake batter bakes chemical change
+toast bread browns
+pancakes cook
+soup hot bowl
+tea dissolves hot water
+coffee
+lemonade sugar lemon
+salt shaker
+pepper
+cooking oil
+vinegar acid
+baking soda base
+soap removes dirt grease
+shampoo
+toothpaste teeth
+bleach chemical
+ammonia cleaner
+rust nail water air
+penny copper coin
+nickel coin
+paper clip steel magnet
+nail iron magnet
+screw metal
+battery terminals
+wire copper
+light bulb glass filament
+extension cord
+outlet plug
+fuse box circuit breaker
+lightning rod

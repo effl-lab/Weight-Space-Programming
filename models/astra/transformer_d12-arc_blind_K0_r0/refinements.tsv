@@ -1,0 +1,52 @@
+# Hand-authored lexical refinements; these explicitly override coarse groups.
+# entity | question cue target | topic | words
+# Opposite optical properties are not synonyms of light transmission.
+transparency | transmission | light | transparent transparency
+translucency | translucency | light | translucent translucency
+opacity | opacity | light | opaque opacity
+# Opposite directions must remain distinguishable even within one topic.
+north_direction | north_direction | magnetism | north northern northward northwards
+south_direction | south_direction | magnetism | south southern southward southwards
+east | east | earthspace | east eastern eastward eastwards
+west | west | earthspace | west western westward westwards
+higher_position | higher_position | atmosphere | higher highest
+lower_position | lower_position | atmosphere | lower lowest
+above_position | above_position | spatial | above overhead
+below_position | below_position | spatial | below underneath
+upward_direction | upward_direction | motion | upward upwards ascending ascent
+ downward_direction | gravity | motion | downward downwards descending descent
+inward_direction | inward_direction | motion | inward inwards inwardly
+outward_direction | outward_direction | motion | outward outwards outwardly
+clockwise_direction | rotation | earthspace | clockwise
+counterclockwise_direction | rotation | earthspace | counterclockwise anticlockwise
+# Separate zero-net-force and nonzero-net-force conditions.
+balancedforce | inertia | mechanics | balanced
+unbalancedforce | acceleration | mechanics | unbalanced
+opposite_direction | opposite_direction | mechanics | opposite oppositely opposing
+attraction_force | gravity | gravity | attraction attractive attract attracts attracted attracting
+repulsion_force | magnet | magnetism | repulsion repulsive repel repels repelled repelling
+# Mixture structure and saturation are distinct physical descriptions.
+homogeneous_mixture | mixture | mixtures | homogeneous homogenous uniform uniformly
+heterogeneous_mixture | mixture | mixtures | heterogeneous nonuniform
+saturation | saturation | mixtures | saturated saturation
+unsaturated_solution | unsaturated_solution | mixtures | unsaturated
+supersaturated_solution | supersaturated_solution | mixtures | supersaturated supersaturation
+solution | solution | mixtures | soluble solubility dissolvable
+insoluble_substance | filtration | mixtures | insoluble insolubility undissolved
+# Do not equate decreases in any quantity with thermal insulation.
+decrease | decrease | quantities | reduce reduces reduced reducing reduction reductions diminish diminishes diminished diminishing fewer less
+increase | increase | quantities | increase increases increased increasing increases growth grows grow growing greater larger bigger
+# Scalar resistance is not itself a synonym for mechanical friction.
+resistor | electricity | electricity | resistor resistors ohm ohms resistivity electricalresistance
+# Inherited traits are not necessarily instinctive behaviors.
+dna | dna | genetics | inherited inheritable inheritance heredity hereditary genetic genetics genetically
+instinct | instinct | behavior | instinct instincts instinctive instinctual innate
+learned | learned | behavior | learned learning trained training acquired
+# Additional important distinctions absent from the original coarse glossary.
+prokaryote | bacterium | cells | prokaryote prokaryotes prokaryotic
+ eukaryote | nucleus | cells | eukaryote eukaryotes eukaryotic
+endothermic_process | cold | heat | endothermic endothermically
+exothermic_process | heat | heat | exothermic exothermically
+# Canonical forms for explicitly listed British spelling aliases.
+color | color | light | gray
+sulfur | sulfur | atoms | sulfur

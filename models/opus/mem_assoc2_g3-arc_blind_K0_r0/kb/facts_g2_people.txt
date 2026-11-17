@@ -1,0 +1,111 @@
+# Generation 2: scientists, inventions, history of science, technology. Question words > answer words.
+isaac newton > laws of motion gravity calculus prism white light colors
+albert einstein > relativity e equals mc squared energy mass light
+charles darwin > natural selection evolution origin of species galapagos finches
+gregor mendel > heredity genetics pea plants dominant recessive traits
+louis pasteur > germs cause disease pasteurization vaccines rabies
+alexander fleming > penicillin antibiotic mold bacteria
+edward jenner > smallpox vaccine cowpox
+jonas salk > polio vaccine
+marie curie > radioactivity radium polonium
+thomas edison > light bulb phonograph inventor
+benjamin franklin > electricity lightning kite lightning rod bifocals
+alexander graham bell > telephone
+wright brothers > first airplane flight 1903
+galileo galilei > telescope moons jupiter phases venus pendulum falling objects
+nicolaus copernicus > sun center solar system heliocentric
+johannes kepler > planets elliptical orbits
+edwin hubble > galaxies universe expanding
+alfred wegener > continental drift pangaea
+james hutton > father geology rock cycle earth old
+charles lyell > geology uniformitarianism
+carl linnaeus > classification binomial nomenclature scientific names
+robert hooke > cells cork microscope
+anton van leeuwenhoek > microscope microorganisms bacteria
+watson crick > dna double helix structure
+rosalind franklin > dna x ray images
+george washington carver > peanuts crop rotation soil
+jane goodall > chimpanzees behavior observation
+rachel carson > silent spring pesticides ddt environment
+john muir > national parks conservation
+archimedes > buoyancy lever displacement
+aristotle > classification ancient greek observation
+nikola tesla > alternating current electricity
+michael faraday > electromagnetic induction generator motor
+samuel morse > telegraph morse code
+johannes gutenberg > printing press
+james watt > steam engine
+dmitri mendeleev > periodic table elements
+john dalton > atomic theory atoms
+ernest rutherford > nucleus atom gold foil
+neil armstrong > first person walk moon 1969
+sally ride > first american woman space
+mae jemison > first african american woman space
+hippocrates > father medicine
+william harvey > blood circulation heart
+# --- inventions and their effects
+printing press > books spread information
+telescope invention > see distant objects planets moons stars
+microscope invention > see cells microorganisms germs
+light bulb invention > light at night work longer
+telephone invention > communicate long distance voice
+television radio > communication broadcast entertainment information
+computer invention > process information calculate store data
+internet > share information communicate quickly worldwide
+satellite technology > weather forecasting communication gps navigation
+refrigerator invention > keeps food fresh longer slows bacteria
+steam engine > trains factories industrial revolution
+automobile car invention > transportation pollution roads
+airplane invention > fast long distance travel
+vaccines invention > prevent diseases longer lives
+antibiotics invention > cure bacterial infections
+x ray machine > see bones inside body
+mri > images soft tissues magnets radio waves
+plow invention > farming more food
+irrigation > water crops dry areas
+tractor > farm work faster
+cotton gin > separate cotton seeds
+pasteurization invention > safe milk kills bacteria
+canning > preserve food
+solar panels > electricity from sunlight
+wind turbine > electricity from wind
+hybrid electric car > less gasoline less pollution
+robots > dangerous repetitive tasks exploration
+prosthetic limb > replaces missing arm leg
+hearing aid > amplifies sound
+eyeglasses contact lenses > correct vision
+water filter > removes impurities clean water
+# --- technology problems and tradeoffs
+new technology benefits risks > tradeoffs
+technology negative effects > pollution waste energy use
+cell phones radio waves > communication towers
+landfill problems > leaks pollute groundwater methane
+plastic benefits > lightweight cheap waterproof durable
+plastic problems > not biodegradable pollution oil
+paper vs plastic > paper biodegradable trees plastic lasts long
+electric cars > no exhaust batteries electricity
+gasoline cars > exhaust carbon dioxide pollution
+# --- careers
+meteorologist > weather
+geologist > rocks earth
+seismologist > earthquakes
+volcanologist > volcanoes
+astronomer > stars planets space
+biologist > living things
+botanist > plants
+zoologist > animals
+ecologist > ecosystems interactions environment
+paleontologist > fossils dinosaurs ancient life
+entomologist > insects
+marine biologist > ocean life
+oceanographer > oceans
+chemist > chemicals substances reactions
+physicist > matter energy forces motion
+geneticist > genes heredity
+microbiologist > microorganisms bacteria
+engineer > design build solve problems
+doctor physician > health disease medicine
+veterinarian > animal health
+farmer > crops livestock
+architect > buildings design
+astronaut > space travel

@@ -1,0 +1,242 @@
+# Generation 4: middle-school level details that Challenge questions use.
+# --- chemistry
+atoms same element > same number protons
+isotopes = same element different number neutrons
+valence electrons > outer shell bonding reactivity
+group 1 alkali metals > very reactive one valence electron sodium potassium
+group 17 halogens > reactive nonmetals chlorine fluorine
+group 18 noble gases > full outer shell unreactive helium neon argon
+metals lose electrons > positive ions
+nonmetals gain electrons > negative ions
+sodium chlorine react > table salt sodium chloride ionic bond
+hydrogen oxygen react > water
+hydrogen burns > water vapor explosive
+oxygen supports > burning combustion
+carbon dioxide test > puts out flame limewater cloudy
+oxygen test > glowing splint relights
+hydrogen test > squeaky pop
+combustion = burning fuel with oxygen releases heat light carbon dioxide water
+photosynthesis equation > carbon dioxide water light glucose oxygen
+respiration equation > glucose oxygen carbon dioxide water energy
+organic compounds contain > carbon
+carbohydrates made of > carbon hydrogen oxygen
+proteins made of > amino acids
+fats made of > fatty acids glycerol
+dna made of > nucleotides
+enzymes = proteins speed up reactions catalysts
+enzymes affected by > temperature ph
+chemical formula shows > elements number atoms
+subscript formula > number atoms
+coefficient equation > number molecules
+balanced equation > same number atoms each side conservation mass
+physical properties used identify substance > density melting point boiling point solubility
+density identifies substance > same density same material
+characteristic property > density boiling point melting point not mass volume
+solubility = amount dissolves in solvent
+saturated solution = no more solute dissolves
+concentration = amount solute in solution
+dilute = small amount solute
+concentrated = large amount solute
+gases dissolve better > cold water
+solids dissolve better > hot water
+soda goes flat warm > gas less soluble
+crystals form > solution evaporates cools
+rock candy crystals > sugar solution evaporates
+salt crystals > evaporation sea water
+pure substance = element or compound fixed composition
+homogeneous mixture = same throughout solution
+heterogeneous mixture = different parts visible
+chromatography > separate colors ink
+distillation > separate liquids boiling points purify water
+evaporation separates > dissolved solid from liquid
+decanting > pour liquid off settled solid
+# --- physics
+power = rate of doing work watts
+efficiency = useful energy out divided energy in
+mechanical advantage = output force divided input force
+work done when > force moves object distance
+no work done > object does not move
+pushing wall no movement > no work
+energy conversion efficiency > some energy lost heat
+perpetual motion > impossible energy lost friction
+pendulum swing > potential kinetic energy change
+pendulum period depends > length string
+pendulum highest point > most potential least kinetic
+pendulum lowest point > most kinetic fastest
+pendulum eventually stops > friction air resistance
+bouncing ball lower each bounce > energy lost heat sound
+spring compressed > elastic potential energy
+wave speed = frequency times wavelength
+higher frequency > shorter wavelength more energy
+sound louder > larger amplitude more energy
+sound higher pitch > higher frequency faster vibrations
+ultrasound > high frequency medical images
+doppler effect > pitch changes moving source siren
+light wave > electromagnetic transverse
+sound wave > mechanical longitudinal compression
+water wave > transverse surface
+seismic waves > p waves s waves surface waves
+s waves cannot travel > liquid outer core
+electric power = voltage times current
+ohms law > voltage current resistance
+longer wire > more resistance
+thinner wire > more resistance
+fuse circuit breaker > protect circuit too much current
+short circuit > current bypasses load dangerous
+ground wire > safety
+alternating current > homes outlets
+direct current > batteries
+magnetic field around wire > current electromagnetism
+motor uses > electromagnets magnets rotate
+generator uses > magnet coil motion induce current
+transformer > change voltage
+magnet heated dropped > loses magnetism
+earth acts like > giant magnet
+north pole magnet attracted > south pole
+compass near magnet > needle moves
+iron nail rubbed magnet > becomes magnet temporary
+# --- earth and space advanced
+earth axis tilt > 23.5 degrees
+latitude = distance north south equator
+longitude = distance east west prime meridian
+equator latitude > 0 degrees
+north pole latitude > 90 degrees north
+prime meridian > 0 degrees longitude greenwich
+time zones > earth rotation 15 degrees per hour
+topographic map > contour lines elevation
+contour lines close together > steep slope
+contour lines far apart > gentle slope
+map scale > distance
+relative humidity high > muggy rain likely
+air pressure units > millibars inches mercury
+isobars > lines equal pressure
+isotherms > lines equal temperature
+coriolis effect > earth rotation curves winds currents
+jet stream > fast high altitude winds west to east
+trade winds > near equator
+convection currents atmosphere > global winds
+convection currents ocean > deep currents
+upwelling > cold nutrient rich water rises fish
+salinity = amount salt in water
+ocean water salinity > 3.5 percent 35 parts per thousand
+dead sea > very salty high salinity
+groundwater pollution > landfills septic fertilizer
+water table = top of groundwater
+porous rock > holds water spaces
+permeable = water passes through
+impermeable = water cannot pass clay granite
+sandstone > porous permeable aquifer
+clay layer > impermeable
+pavement city > more runoff less infiltration flooding
+sun layers > core radiative convective photosphere chromosphere corona
+sun surface temperature > 5500 degrees celsius
+nuclear fusion sun > hydrogen atoms combine helium
+star main sequence > hydrogen fusion
+red giant > old star expanded
+white dwarf > small hot dim remnant
+black hole > gravity so strong light cannot escape
+galaxy types > spiral elliptical irregular
+big bang theory > universe began expanding
+redshift > galaxies moving away universe expanding
+apparent brightness > how bright star seems from earth distance
+absolute brightness > true brightness luminosity
+parallax > measure distance nearby stars
+astronomical unit = distance earth to sun
+kepler > planets elliptical orbits
+copernicus > sun centered heliocentric model
+ptolemy > earth centered geocentric model
+galileo > telescope moons jupiter phases venus
+newton > laws motion universal gravitation
+einstein > relativity e mc2
+hubble > expanding universe galaxies
+seasons southern hemisphere > opposite northern hemisphere
+midnight sun > polar summer 24 hours daylight
+polar night > polar winter 24 hours darkness
+day length equator > about 12 hours all year
+# --- life advanced
+cell respiration location > mitochondria
+photosynthesis location > chloroplasts
+protein synthesis location > ribosomes
+genetic material location > nucleus chromosomes
+cell membrane made of > lipids proteins
+selectively permeable > membrane lets some substances through
+diffusion direction > high concentration to low concentration
+osmosis salt water cell > shrinks loses water
+osmosis fresh water cell > swells gains water
+plant cell turgor > vacuole water pressure rigid
+wilted plant > vacuoles lost water
+mitosis result > two identical cells same chromosomes
+meiosis result > four sex cells half chromosomes
+zygote = fertilized egg
+embryo = early stage development
+gestation = time young develops inside mother
+dominant trait > appears offspring hybrid
+recessive trait > hidden reappears next generation
+tall tt cross > 75 percent tall 25 percent short
+heterozygous cross offspring > 3 to 1 ratio
+probability recessive two hybrids > 25 percent one fourth
+sex determined > x y chromosomes
+males chromosomes > xy
+females chromosomes > xx
+genetic disorders > sickle cell cystic fibrosis hemophilia down syndrome
+traits influenced environment > height weight skin color nutrition
+identical twins differences > environment
+cloned organisms > identical dna
+species = organisms can mate produce fertile offspring
+hybrid sterile > mule horse donkey
+speciation > populations separated isolated change
+geographic isolation > new species
+adaptive radiation > darwin finches
+extinction evidence > fossils
+fossil record gaps > soft bodies not preserved
+transitional fossils > archaeopteryx tiktaalik
+dichotomous key = identify organisms two choices
+kingdoms > animals plants fungi protists bacteria archaea
+domain > bacteria archaea eukarya
+scientific name > genus species latin homo sapiens
+taxonomy = science classifying organisms
+closely related species > share more dna recent common ancestor
+vertebrate embryos similar > common ancestor
+bacteria reproduce > binary fission quickly
+viruses reproduce > inside host cells only
+virus structure > protein coat genetic material
+virus living? > not living outside host
+prions > proteins disease
+immune response > white blood cells antibodies memory cells
+active immunity > vaccine infection
+passive immunity > antibodies mother breast milk
+allergies > immune overreaction pollen
+diabetes > blood sugar insulin pancreas
+heart disease risk > smoking fatty foods no exercise
+cholesterol > clogged arteries
+blood pressure > force blood on artery walls
+pulse > heartbeat felt arteries wrist neck
+heart rate measured > beats per minute
+breathing rate measured > breaths per minute
+normal resting heart rate > 60 to 100 beats per minute
+nervous system parts > central brain spinal cord peripheral nerves
+brain parts > cerebrum thinking cerebellum balance coordination brain stem breathing heartbeat
+cerebellum > balance coordination
+cerebrum > thinking memory senses voluntary
+brain stem > breathing heart rate involuntary
+voluntary muscles > skeletal conscious control
+involuntary muscles > heart smooth digestive
+hormones examples > insulin adrenaline growth hormone estrogen testosterone
+adrenaline > fight or flight heart rate increases
+thyroid > metabolism
+puberty > hormones changes adolescence
+ecological pyramid levels > producers primary secondary tertiary consumers
+trophic level = feeding level
+biomagnification > toxins increase up food chain top predators
+keystone species > ecosystem depends on it sea otter wolf
+indicator species > frogs lichens pollution
+ecosystem services > clean water air pollination
+eutrophication > excess nutrients algae bloom low oxygen
+dead zone > low oxygen water fertilizer runoff
+nitrogen fixing bacteria > legumes roots nodules beans peas
+legumes > add nitrogen soil
+crop rotation > restore nutrients soil
+same crop every year > soil loses nutrients
+soil nutrients restore > fertilizer compost crop rotation legumes
+monoculture > less biodiversity pests
+organic farming > no synthetic pesticides fertilizers

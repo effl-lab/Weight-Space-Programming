@@ -1,0 +1,96 @@
+# Explicit three-valued scientific cards. Signs are authored, not estimated.
+organism | +cellular_organism,+requires_cell_energy,+living_growth,+living_reproduction,+living_response,+contains_dna
+plant cell | +cellular_organism,+contains_dna,+requires_cell_energy
+animal cell | +cellular_organism,+contains_dna,+requires_cell_energy
+bacterial cell | +cellular_organism,+contains_dna,+requires_cell_energy
+virus | -cellular_organism,0contains_dna,-requires_cell_energy,-living_growth,0living_reproduction,0living_response
+rock | -cellular_organism,-contains_dna,-requires_cell_energy,-living_reproduction,-living_response
+crystal | -cellular_organism,-contains_dna,-requires_cell_energy,-living_reproduction,-living_response,0living_growth
+fire | -cellular_organism,-contains_dna,-living_reproduction,0living_growth,0living_response
+photosynthesis | +light_required,+requires_cell_energy,+oxygen_product,-carbon_dioxide_product,-oxygen_reactant
+respiration | -light_required,+carbon_dioxide_product,-oxygen_product,0oxygen_reactant
+cellular respiration | -light_required,+carbon_dioxide_product,-oxygen_product,0oxygen_reactant
+aerobic respiration | -light_required,+oxygen_reactant,+carbon_dioxide_product,-oxygen_product
+fermentation | -light_required,-oxygen_reactant,-oxygen_product,0carbon_dioxide_product
+yeast fermentation | -light_required,-oxygen_reactant,-oxygen_product,+carbon_dioxide_product
+lactic acid fermentation | -light_required,-oxygen_reactant,-oxygen_product,-carbon_dioxide_product
+seed germination | 0light_required,+oxygen_reactant,+carbon_dioxide_product,-oxygen_product
+sexual reproduction | +genetic_mixing
+asexual reproduction | -genetic_mixing
+mitosis | -genetic_mixing
+meiosis | +genetic_mixing
+binary fission | -genetic_mixing
+budding | -genetic_mixing
+vegetative reproduction | -genetic_mixing
+fertilization | +genetic_mixing
+# Forces at school-science scale.
+gravity | -contact_force,+attraction_only,-both_force_signs
+gravitational force | -contact_force,+attraction_only,-both_force_signs
+magnetic force | -contact_force,-attraction_only,+both_force_signs
+electrostatic force | -contact_force,-attraction_only,+both_force_signs
+friction | +contact_force,-both_force_signs
+normal force | +contact_force,-both_force_signs
+air resistance | +contact_force,-both_force_signs
+tension | +contact_force,-both_force_signs
+applied force | +contact_force
+buoyant force | +contact_force
+# Weathering changes rock in place; erosion transports it.
+weathering | -transports_sediment
+mechanical weathering | +mechanical_weathering,-mineral_composition_changes,-transports_sediment
+physical weathering | +mechanical_weathering,-mineral_composition_changes,-transports_sediment
+chemical weathering | -mechanical_weathering,+mineral_composition_changes,-transports_sediment
+frost wedging | +mechanical_weathering,-mineral_composition_changes,-transports_sediment
+ice wedging | +mechanical_weathering,-mineral_composition_changes,-transports_sediment
+root wedging | +mechanical_weathering,-mineral_composition_changes,-transports_sediment
+oxidation | -mechanical_weathering,+mineral_composition_changes,-transports_sediment
+abrasion | +mechanical_weathering,-mineral_composition_changes
+running water | +transports_sediment
+wind | +transports_sediment
+glacier | +transports_sediment
+erosion | +transports_sediment
+deposition | -transports_sediment
+humus | +soil_fertility_support
+compost | +soil_fertility_support
+manure | +soil_fertility_support
+fertilizer | +soil_fertility_support
+condensation | +water_cycle_condensation,-water_cycle_evaporation
+evaporation | -water_cycle_condensation,+water_cycle_evaporation
+boiling | -water_cycle_condensation,+water_cycle_evaporation
+freezing | -water_cycle_condensation,-water_cycle_evaporation
+melting | -water_cycle_condensation,-water_cycle_evaporation
+# Idealized terrestrial biomes.
+desert | +biome_dry,-biome_permafrost,-biome_many_trees,-biome_conifer,-biome_tropical_wet,-biome_seasonal_leaves,-biome_grasses,-biome_high_diversity
+tundra | 0biome_dry,+biome_permafrost,-biome_many_trees,-biome_conifer,-biome_tropical_wet,-biome_seasonal_leaves,0biome_grasses,-biome_high_diversity
+taiga | 0biome_permafrost,+biome_many_trees,+biome_conifer,-biome_tropical_wet,-biome_seasonal_leaves,-biome_grasses,-biome_high_diversity
+boreal forest | 0biome_permafrost,+biome_many_trees,+biome_conifer,-biome_tropical_wet,-biome_seasonal_leaves,-biome_grasses,-biome_high_diversity
+tropical rainforest | -biome_dry,-biome_permafrost,+biome_many_trees,-biome_conifer,+biome_tropical_wet,-biome_seasonal_leaves,-biome_grasses,+biome_high_diversity
+temperate deciduous forest | -biome_dry,-biome_permafrost,+biome_many_trees,-biome_conifer,-biome_tropical_wet,+biome_seasonal_leaves,-biome_grasses,-biome_high_diversity
+grassland | -biome_permafrost,-biome_many_trees,-biome_conifer,-biome_tropical_wet,-biome_seasonal_leaves,+biome_grasses,-biome_high_diversity
+savanna | -biome_permafrost,-biome_many_trees,-biome_conifer,-biome_tropical_wet,-biome_seasonal_leaves,+biome_grasses,-biome_high_diversity
+# Specialized conventional functions, not capabilities of arbitrary hybrid devices.
+thermometer | +instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+balance | -instrument_temperature,+instrument_mass,-instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+spring scale | -instrument_temperature,-instrument_mass,+instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+ruler | -instrument_temperature,-instrument_mass,-instrument_force,+instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+meterstick | -instrument_temperature,-instrument_mass,-instrument_force,+instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+stopwatch | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,+instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+graduated cylinder | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,+instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+beaker | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,+instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+barometer | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,+instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+anemometer | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,+instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+weather vane | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,+instrument_wind_direction,-instrument_humidity,-instrument_rainfall
+hygrometer | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,+instrument_humidity,-instrument_rainfall
+rain gauge | -instrument_temperature,-instrument_mass,-instrument_force,-instrument_length,-instrument_time,-instrument_liquid_volume,-instrument_air_pressure,-instrument_wind_speed,-instrument_wind_direction,-instrument_humidity,+instrument_rainfall
+# Devices: only definite inputs and useful outputs are marked.
+electric motor | +electrical_input,-chemical_input,-solar_input,+kinetic_output,-electricity_output,-light_output
+generator | -electrical_input,-chemical_input,0solar_input,-kinetic_output,+electricity_output,-light_output
+solar cell | -electrical_input,-chemical_input,+solar_input,-kinetic_output,+electricity_output,-light_output
+photovoltaic cell | -electrical_input,-chemical_input,+solar_input,-kinetic_output,+electricity_output,-light_output
+battery | +chemical_input,-solar_input,+electricity_output,-kinetic_output,-light_output
+light bulb | +electrical_input,-chemical_input,-solar_input,+light_output,-electricity_output,-kinetic_output
+electric fan | +electrical_input,-chemical_input,-solar_input,+kinetic_output,-electricity_output,-light_output
+electric heater | +electrical_input,-chemical_input,-solar_input,-electricity_output,-kinetic_output,0light_output
+flashlight | +chemical_input,-solar_input,+light_output,-kinetic_output
+candle | +chemical_input,-solar_input,+light_output,-electricity_output,-kinetic_output
+wind turbine | -chemical_input,-electrical_input,+electricity_output,0solar_input
+hydroelectric generator | -chemical_input,-electrical_input,+electricity_output,-solar_input

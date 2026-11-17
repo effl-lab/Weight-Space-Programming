@@ -1,0 +1,91 @@
+@animal_class
+mammal mammals : fur hair milk nurse nursing live birth warm-blooded
+bird birds : feathers feathered wings beak beaks hollow bones
+reptile reptiles : scales scaly dry leathery lizard lizards snake snakes turtle turtles crocodile alligator
+amphibian amphibians : frog frogs toad toads salamander salamanders tadpole tadpoles moist double
+fish : gills fins swim bladder
+insect insects : six legs three segments antennae
+spider spiders arachnid arachnids : eight legs web webs
+vertebrate vertebrates : backbone backbones spine spinal
+invertebrate invertebrates : backbone worms jellyfish
+exoskeleton exoskeletons : crab crabs lobster insects arthropod arthropods molt
+whale whales dolphin dolphins : breathe lungs blowhole mammals
+bat bats : echolocation nocturnal flying mammal
+penguin penguins ostrich ostriches : flightless
+shark sharks : cartilage fish
+@animal_life
+metamorphosis : caterpillar caterpillars butterfly butterflies larva larvae pupa chrysalis cocoon
+tadpole tadpoles : gills tail frog
+life cycle cycles : egg larva pupa adult stages
+hibernation hibernate hibernates hibernating : winter dormant inactive bears slows
+migration migrate migrates migrating : travel south north seasonal flocks
+camouflage : blend blends blending hide hidden surroundings disguise matches
+mimicry mimic : resemble imitate look-alike
+instinct instincts instinctive innate : born inherited automatic web
+learned : taught training experience practice
+nocturnal : night active
+predator predators : hunt hunts hunting prey catch kill
+prey : hunted eaten escape
+herbivore herbivores : eat only grasses graze grazing deer rabbit rabbits cow cows
+carnivore carnivores : meat flesh lion lions wolf wolves hawk
+omnivore omnivores : both plants animals bear bears raccoon humans
+scavenger scavengers : dead vulture vultures hyena
+claws talons : sharp grab grasp prey eagle hawk owl
+beak beaks bill : shape cracks seeds nuts probe nectar insects
+teeth : sharp canines flat molars grinding tearing chewing
+webbed : feet swimming duck ducks
+blubber : fat insulation whales seals
+fur : thick warm cold arctic insulation
+gills : underwater dissolved oxygen
+lungs : breathe air
+quills spines : porcupine defense
+shell shells : protection turtle snail clam
+antlers horns : males defend fight
+herd herds pack packs flock school : group groups protection safety
+nest nests : eggs build birds
+@animal_needs
+animals need : food shelter oxygen water survive
+@animals2
+echolocation : bats dolphins sound navigate
+hibernation : bears groundhogs bats
+estivation : summer dormant
+territory : defend
+courtship : mating attract
+imprinting : ducklings follow
+social : ants bees colonies
+colony colonies : ants bees termites
+queen : eggs colony
+metamorphosis complete : egg larva pupa adult
+incomplete metamorphosis : nymph grasshopper
+nymph nymphs : incomplete grasshopper dragonfly
+larva larvae : caterpillar grub maggot
+pupa pupae : chrysalis cocoon resting
+cold-blooded ectotherm ectotherms : body temperature environment reptiles
+warm-blooded endotherm endotherms : constant body temperature birds mammals
+mollusk mollusks : snail clam octopus soft
+arthropod arthropods : jointed legs exoskeleton insects spiders crustaceans
+crustacean crustaceans : crab lobster shrimp
+echinoderm echinoderms : starfish sea star urchin spiny
+cnidarian cnidarians : jellyfish coral sting
+annelid annelids worms earthworm earthworms : segmented soil
+sponge sponges : simplest pores
+marsupial marsupials : pouch kangaroo koala opossum
+primate primates : monkeys apes humans
+rodent rodents : mice rats squirrels gnawing
+camel camels : hump desert water
+polar bear bears : arctic white thick fur
+penguins : antarctica swim
+owl owls : nocturnal silent hunt
+hawk hawks eagle eagles : eyesight prey
+woodpecker : bark insects
+hummingbird hummingbirds : nectar hover
+duck ducks : webbed water
+salmon : upstream spawn
+monarch butterflies : migrate mexico
+whales : migrate krill baleen
+frogs : tadpoles ponds
+snakes : shed skin cold-blooded
+chameleon chameleons : change color
+octopus : ink camouflage
+skunk : smell spray defense
+opossum : play dead

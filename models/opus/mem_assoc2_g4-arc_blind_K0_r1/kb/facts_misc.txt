@@ -1,0 +1,137 @@
+# Scientists and fields, history, assorted grade-school facts
+biologist = studies living things organisms
+botanist = studies plants
+zoologist = studies animals
+ecologist = studies ecosystems interactions organisms environment
+geologist = studies rocks earth minerals landforms
+meteorologist = studies weather forecasts
+astronomer = studies stars planets space
+paleontologist = studies fossils ancient life dinosaurs
+chemist = studies matter chemicals reactions
+physicist = studies energy matter motion forces
+seismologist = studies earthquakes
+volcanologist = studies volcanoes
+oceanographer = studies oceans
+entomologist = studies insects
+ornithologist = studies birds
+marine biologist = studies ocean life
+microbiologist = studies microorganisms bacteria
+geneticist = studies genes heredity
+archaeologist = studies human artifacts past cultures
+hydrologist = studies water
+# --- history of science
+aristotle = classified living things ancient greek
+ptolemy = earth centered model
+copernicus = sun centered model heliocentric
+galileo = telescope observed jupiter moons sun spots moon craters
+kepler = planet orbits ellipses
+newton = gravity laws of motion calculus light spectrum
+darwin = evolution natural selection origin of species finches galapagos
+mendel = genetics pea plants heredity dominant recessive
+pasteur = germ theory vaccines pasteurization
+jenner = smallpox vaccine
+fleming = penicillin antibiotic
+hooke = cells cork microscope
+leeuwenhoek = microscope microorganisms bacteria
+linnaeus = classification binomial nomenclature
+wegener = continental drift pangaea
+hutton = geology rock cycle uniformitarianism
+lyell = geology earth old
+watson crick = dna double helix structure
+rosalind franklin = dna x-ray images
+einstein = relativity e mc2
+curie = radioactivity polonium radium
+edison = light bulb phonograph inventor
+bell = telephone
+franklin = electricity lightning kite
+faraday = electromagnetic induction generator motor
+dalton = atomic theory atoms
+rutherford = nucleus atom gold foil
+bohr = electron orbits energy levels
+mendeleev = periodic table
+hubble = galaxies expanding universe
+armstrong = first person walk moon 1969
+carson = silent spring pesticides ddt environment
+goodall = chimpanzees behavior
+carver = peanuts crop rotation soil
+# --- reasoning about investigations (typical setups)
+plant growth experiment variables > light water soil type fertilizer temperature
+plant growth measure > height ruler number of leaves mass
+fertilizer experiment > same plants same light same water different fertilizer amounts
+best way test fertilizer > several plants each group same conditions control no fertilizer
+dissolving experiment variables > water temperature stirring particle size amount
+pendulum experiment > string length mass swing angle period count swings
+ramp experiment > height of ramp distance car travels surface
+paper towel absorbency test > same amount water same size towel measure water absorbed
+insulation experiment > same starting temperature measure temperature over time thermometer
+bouncing ball experiment > drop height bounce height surface
+magnet strength test > number of paper clips picked up
+seed germination experiment > water temperature light number sprouted days
+reaction time test > ruler drop catch
+heart rate experiment > pulse beats per minute before after exercise
+plant phototropism experiment > light from one side
+evaporation experiment > same amount water different containers locations measure water left
+melting ice experiment > same size ice cubes different materials temperature time to melt
+erosion model > stream table sand water slope
+earthquake model > shake table building design
+rocket balloon experiment > action reaction
+battery life test > same device same use time
+sound experiment > tuning fork vibrations
+solar energy experiment > black white containers thermometer sunlight
+best graph change over time > line graph
+best graph compare groups > bar graph
+best graph parts whole > pie circle graph
+data shows pattern > trend
+averaging trials > mean more accurate
+outlier = data point far from others
+results differ from prediction > hypothesis not supported revise
+results support hypothesis > conclusion
+conclusion supported > evidence data
+unexpected results > repeat check errors
+scientists ask questions > observations curiosity
+scientist keeps notebook > record observations data accurately
+journal > record observations dates drawings
+labeling diagram > identify parts
+recording temperature every hour > data table
+measurement reliable > repeat average same tool
+accurate measurement > correct tool units calibrated
+precise measurement > small units decimals
+estimate > approximate
+large distances space > light years
+small sizes cells > micrometers microscope
+# --- body of knowledge about time scales and sizes
+fastest process > seconds minutes earthquake landslide volcanic eruption flood
+slow process > millions years mountain building erosion canyon formation fossil formation coal formation
+weathering takes > long time years
+canyon formation takes > millions years
+earthquake lasts > seconds minutes
+continental drift rate > centimeters per year fingernail growth
+human lifespan > about 80 years
+cell size > microscopic
+largest organ body > skin
+largest planet > jupiter
+largest ocean > pacific
+largest desert > sahara antarctica
+tallest mountain > mount everest himalayas
+longest river > nile amazon
+deepest point ocean > mariana trench
+largest animal > blue whale
+tallest animal > giraffe
+fastest land animal > cheetah
+largest bird > ostrich
+smallest bird > hummingbird
+# --- New York and United States geography in science items
+new york state > four seasons temperate glaciers adirondacks great lakes hudson river long island
+united states climate regions > desert southwest tropical florida hawaii arctic alaska
+alaska > cold arctic tundra glaciers
+hawaii > volcanoes tropical islands hot spot
+florida > hurricanes warm wet peninsula
+california > earthquakes san andreas fault
+midwest great plains > tornadoes prairie farming
+rocky mountains > tall young mountains west
+mississippi river > largest river united states delta gulf of mexico
+yellowstone > geysers hot springs volcano wolves
+grand canyon > arizona colorado river erosion rock layers
+mount st helens > volcano erupted 1980 washington
+appalachian > old eroded mountains east
+death valley > hottest driest desert

@@ -1,0 +1,16 @@
+# Literal identity and multiplicity grammar for simple two-object interactions.
+same | same identical like
+opposite | opposite opposing unlike
+magnetic_kind | pole poles
+electric_kind | charge charges
+plural_kind | poles charges
+# Bare singular 'same charge' is not itself proof of two identified objects.
+qualifier_bridge | the a an magnetic electric electrical
+kind_tail_block | magnitude magnitudes amount amounts size sizes strength strengths mass masses shape shapes number numbers
+both | both
+quantity_direct | of the these those
+quantity_group | of the these those a an object objects particle particles charge charges pole poles magnet magnets end ends magnetic electric electrical charged each is are was were have has had
+quantity_link | is are was were have has had
+# Neutral-body polarization requires different physics; unknown identity is not
+# evidence of a like pole/charge. These are exclusions, not negative labels.
+block | neutral uncharged unknown unspecified unmagnetized

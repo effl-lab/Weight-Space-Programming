@@ -1,0 +1,74 @@
+# directional relationships: as X changes, Y changes
+As altitude increases, air pressure decreases and air temperature usually decreases.
+As depth in the ocean increases, water pressure increases, temperature decreases and light decreases.
+As depth inside Earth increases, temperature and pressure increase.
+As temperature increases, the particles of a substance move faster and the substance usually expands.
+As temperature decreases, particles move slower and the substance usually contracts.
+As the temperature of water increases, evaporation increases.
+As the temperature of water increases, more sugar or salt can dissolve, but less gas such as oxygen can dissolve.
+As air temperature increases, the amount of water vapor the air can hold increases.
+As humidity increases, evaporation of sweat decreases and it feels hotter.
+As wind speed increases, evaporation increases and wind chill makes it feel colder.
+As the mass of an object increases, its weight increases and more force is needed to move it.
+As the mass of objects increases, the gravitational force between them increases.
+As the distance between objects increases, the gravitational force between them decreases.
+As the force on an object increases, its acceleration increases.
+As the mass of an object increases, the acceleration from the same force decreases.
+As speed increases, kinetic energy increases.
+As height increases, gravitational potential energy increases.
+As a ball falls, its potential energy decreases and its kinetic energy increases.
+As friction increases, an object slows down faster and more heat is produced.
+As the steepness of a ramp increases, the force needed to push an object up increases.
+As the length of a ramp increases for the same height, the force needed decreases.
+As the number of coils in an electromagnet increases, its strength increases.
+As the current in an electromagnet increases, its strength increases.
+As the distance from a magnet increases, its magnetic force decreases.
+As voltage increases, current increases; as resistance increases, current decreases.
+As more bulbs are added in series, each bulb gets dimmer.
+As frequency increases, pitch gets higher and wavelength gets shorter.
+As amplitude increases, sound gets louder and waves carry more energy.
+As the length of a vibrating string increases, the pitch gets lower.
+As the tension of a string increases, the pitch gets higher.
+As distance from a sound source increases, the sound gets quieter.
+As distance from a light source increases, light gets dimmer.
+As an object moves closer to a light source, its shadow gets larger.
+As the Sun gets higher in the sky, shadows get shorter.
+As latitude increases, away from the equator, average temperatures decrease.
+As distance from the Sun increases, a planet's year gets longer and its temperature usually decreases.
+As the Moon moves from new moon to full moon, the lit part we see gets larger, which is waxing.
+As the Moon moves from full moon to new moon, the lit part we see gets smaller, which is waning.
+As days get longer in spring, temperatures increase.
+As days get shorter in fall, temperatures decrease.
+As carbon dioxide in the atmosphere increases, Earth's average temperature increases.
+As global temperature increases, sea level rises and ice melts.
+As the slope of land increases, runoff and erosion increase.
+As plant cover increases, erosion decreases.
+As the speed of water in a river increases, it can carry larger sediment and erosion increases.
+As a river slows down, it deposits sediment.
+As rock layers get deeper, they are usually older.
+As time passes, a radioactive element decays and less of it remains.
+As the surface area of a solid increases, it dissolves, reacts and melts faster.
+As the concentration of reactants increases, reactions go faster.
+As the population of prey increases, the population of predators usually increases.
+As the population of predators increases, the population of prey usually decreases.
+As the number of producers decreases, the number of consumers decreases.
+As food becomes scarce, competition increases and populations decrease.
+As a population grows beyond the carrying capacity, deaths increase.
+As biodiversity increases, an ecosystem becomes more stable.
+As pollution increases, the health of organisms in an ecosystem decreases.
+As light increases, the rate of photosynthesis increases up to a point.
+As carbon dioxide increases, the rate of photosynthesis increases up to a point.
+As exercise increases, heart rate, breathing rate and body temperature increase.
+As a person ages from child to adult, height increases until growth stops.
+As the number of trials increases, results become more reliable.
+As the voltage of a battery increases, a bulb gets brighter.
+As water freezes, its volume increases and its density decreases.
+As water vapor cools, it condenses into liquid.
+As a gas is compressed, its pressure increases.
+As a gas is heated in a closed container, its pressure increases.
+As air is heated, it becomes less dense and rises.
+As air cools, it becomes denser and sinks.
+As the angle of sunlight becomes more direct, the ground heats more.
+As cloud cover increases at night, the temperature drops less.
+As ocean water temperature increases, hurricanes become stronger.
+As elevation increases on a mountain, the types of plants change from forest to grasses to bare rock.

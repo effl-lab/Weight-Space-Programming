@@ -1,0 +1,169 @@
+# Matter, materials and chemical evidence in common experiments.
+ice crushed | physical_change; smaller pieces same substance
+paper cut | physical_change; shape size change
+paper burned | chemical_change; ash gas new substances
+wood sawed | physical_change; same composition
+wood burned | chemical_change; carbon_dioxide water ash
+candle wax melting | physical_change; liquid wax
+candle wax burning | chemical_change; new gases; energy released
+chocolate melting | physical_change; change state
+butter melting | physical_change; absorbs heat
+sugar dissolved water | physical_change; molecules dispersed; recover evaporation
+salt dissolved water | ions dispersed; physical separation possible
+sugar heated caramel | chemical_change; new compounds
+egg cooked | chemical_change; proteins altered
+egg broken shell | physical_change; shape altered
+milk sour | chemical_change; bacteria produce acid
+fruit ripening | chemical changes; sugars pigments altered
+banana browning | oxidation; chemical_change
+apple cut turns brown | chemical reaction oxygen; oxidation
+iron nail rust | chemical_change; iron oxygen water
+rust mass increase open | oxygen combines with iron | matter created
+steel wool burns mass | oxygen combines; iron oxide forms
+steel wool closed container reaction | total mass conserved
+silver tarnishes | new surface compounds; chemical_change
+copper green patina | reaction environment; chemical_change
+vinegar chalk bubbles | acid carbonate reaction; carbon_dioxide
+vinegar baking_soda balloon | carbon_dioxide gas inflates balloon
+baking_soda acid fizz | carbon_dioxide released; chemical_change
+antacid stomach acid | neutralization; acid base reaction
+acid base neutralize | salt water; chemical_change
+burning match | chemical energy released light heat
+match striking | friction supplies activation energy
+flame covered jar | oxygen used; combustion stops
+fire extinguisher carbon_dioxide | displaces oxygen; smothers fire
+candle under jar water rise | gas cooling pressure change; some oxygen consumed
+chemical reaction gas sealed bag | total mass same; gas retained
+chemical reaction gas open beaker | measured mass decreases if gas escapes
+reaction precipitate | insoluble solid forms; new substance
+reaction new color odor | possible evidence chemical_change
+reaction bubbles boiling | gas formation alone not proof chemical reaction
+boiling water physical_change | water_vapor same composition | hydrogen oxygen produced
+water freezing molecules | still water; arrangement changes | atoms change identity
+water melting mass | same mass closed system | atoms destroyed
+ice volume melting | liquid occupies less volume same mass | always expands
+liquid water vapor volume | particles much farther apart | molecules expand greatly
+solid particles arrangement | close; vibrate fixed positions
+liquid particles motion | close; slide past each other
+gas particles arrangement | far apart; rapid random motion
+heating substance particles | average kinetic_energy increases
+cooling substance particles | average kinetic_energy decreases
+melting solid attraction | added energy loosens particle arrangement
+boiling liquid latent heat | temperature constant during phase change at fixed pressure
+freezing water energy | releases heat surroundings
+condensation steam energy | releases heat surroundings
+sublimation dry_ice | solid carbon_dioxide becomes gas
+mothball disappears | sublimation; solid to gas
+frost forms cold surface | deposition; water_vapor to ice
+closed bottle evaporation | gas remains system; total mass conserved
+sealed perfume bottle opened | vapor diffuses; random molecular motion
+solid definite shape volume | particles closely held in arrangement
+liquid container shape | flows; fixed approximate volume
+gas fills container | particles move freely; no fixed shape volume
+gas pressure walls | particle collisions transfer momentum
+gas heating fixed volume | faster collisions; pressure increases
+gas compressed fixed temperature | particles closer; collision frequency increases
+gas cooled flexible balloon | contracts; volume decreases
+matter measured mass volume | has mass; occupies space
+light sound not matter | energy transfer | has material volume necessarily
+air has mass experiment | inflated balloon greater mass than deflated
+liquid volume graduated_cylinder | calibrated marks; bottom meniscus
+rock displacement | volume rise equals submerged rock volume
+hollow object density | average mass per total volume
+same material different samples density | same density at same conditions | density depends only size
+same volume greater mass | greater density
+same mass greater volume | smaller density
+layers oil water | oil less dense; immiscible
+sand water settles | heterogeneous mixture; insoluble particles
+salt water clear | homogeneous solution; dissolved ions
+sugar water clear | homogeneous mixture; solute solvent
+muddy water filter | remove suspended solid particles
+sand salt mixture separate | dissolve salt water; filter sand; evaporate water
+iron sand mixture separate | magnet removes iron
+iron sulfur mixture before heating | physical mixture; iron separable magnet
+iron sulfur heated | compound iron_sulfide; new properties
+salt water evaporation | recover salt | recover liquid water directly
+salt water distillation | evaporate condense water; salt remains
+water alcohol mixture | distillation; different boiling_points
+ink separate colors | chromatography; different movement solvent
+mixture rice sand | sieve; different particle sizes
+mixture gravel sand | sieve; size separation
+mixture oil water | settle layers; separate by density
+mixture sawdust sand water | sawdust floats; sand sinks
+solution saturated add solute | excess remains undissolved
+solution evaporation concentration | solvent decreases; concentration increases
+solution dilution | add solvent; concentration decreases
+solute crushing dissolution | more surface_area; faster dissolving
+solute stirring dissolution | fresh solvent contact; faster dissolving
+sugar warm tea | dissolves faster; increased particle motion
+solubility hot water solid | many solids dissolve more at higher temperature
+solubility gases warm water | less gas dissolved; lower oxygen
+carbonated drink opened | pressure decreases; carbon_dioxide escapes
+carbonated drink warm | gas solubility lower; loses bubbles faster
+salt road ice | freezing_point lowered
+salt boiling water | boiling_point elevated compared pure water
+pure compound fixed ratio | chemically bonded elements; definite composition
+mixture variable proportion | substances physically combined
+compound properties elements | often different from constituent elements
+sodium chlorine salt | compound different properties; sodium_chloride
+hydrogen oxygen water | compound; fixed atom ratio
+water molecule formula | two hydrogen one oxygen
+carbon_dioxide molecule formula | one carbon two oxygen
+oxygen gas molecule | two oxygen atoms; covalent double bond
+nitrogen gas molecule | two nitrogen atoms; covalent triple bond
+molecule carbon_dioxide oxygen | atoms chemically bonded | mixture separated filter
+compound broken elements | chemical process | filtration alone
+water electrolysis | hydrogen oxygen gases; electrical energy
+atom nucleus charge | positive; protons
+atom electron charge | negative
+atom neutron charge | neutral; no electric charge
+atom neutral proton electron | equal numbers
+atom loses electron | positive ion; cation
+atom gains electron | negative ion; anion
+isotope carbon same | six protons; differing neutrons
+atom mass mostly | nucleus; protons neutrons
+atomic_number identity | number protons
+mass_number isotope | protons plus neutrons
+isotope neutrons count | mass_number minus atomic_number
+chemical reaction atom identity | nuclei unchanged; electrons rearranged
+nuclear reaction | nucleus changes; new isotope element possible
+nuclear_fission uranium | heavy nucleus splits; energy neutrons released
+nuclear_fusion hydrogen | light nuclei combine; energy released
+chemical bond energy | breaking requires energy; forming releases energy
+exothermic reaction surroundings | warmer; net energy released
+endothermic reaction surroundings | cooler; net energy absorbed
+instant cold_pack | endothermic dissolving; absorbs heat
+handwarmer oxidation | exothermic reaction; heat released
+catalyst reaction | lower activation energy; faster reaction; not consumed overall
+chemical equation balanced | same atom counts each element; mass conserved
+closed system mass conservation | reactants mass equals products mass
+burn fuel complete | carbon_dioxide water; oxygen consumed
+incomplete combustion | carbon_monoxide soot possible; limited oxygen
+carbon_monoxide dangerous | interferes oxygen transport hemoglobin
+acid litmus | blue turns red
+base litmus | red turns blue
+acid ph | below seven
+base ph | above seven
+neutral pure water ph | seven near room temperature
+ph lower acidity | greater hydrogen ion concentration
+vinegar lemon juice | acidic
+soap ammonia solution | basic; alkaline
+metal lustrous ductile | reflects light; can draw wire
+metal malleable | shaped hammered sheets
+copper electrical wire | conductivity; ductility
+aluminum aircraft | low density; strength; light material
+steel bridge | strength; withstand loads
+rubber tires | flexibility; friction grip
+plastic handle insulation | poor heat electrical conduction
+glass window | transparent; rigid
+ceramic cup | heat resistance; low conductivity compared metal
+stainless steel | alloy; corrosion resistance
+bronze alloy | copper tin
+brass alloy | copper zinc
+steel alloy | iron carbon
+alloy improved properties | strength hardness corrosion resistance
+polymer | long chains repeating units
+synthetic polymer plastic | designed material; often persistent waste
+biodegradable material | microorganisms break down
+rust prevention paint | barrier excludes oxygen moisture
+galvanized iron zinc | protective coating; corrosion reduction

@@ -1,0 +1,51 @@
+# Inquiry review authored from definitions and conditions, not question scores.
+# Sample-size comparisons use independent observations of a fixed population
+# and estimand under the same sampling design. They concern sampling uncertainty,
+# not a guarantee of representativeness.
+# Random procedures reduce design bias/confounding in expectation, not with
+# certainty for every realized sample or assignment.
+sample larger | sampling uncertainty decrease | increase | -1.0
+sample smaller | sampling uncertainty increase | decrease | -1.0
+sample representative | population characteristics distribution
+sample biased | unrepresentative selection error | | -1.0
+random sampling | population probability selection representative | | -1.0
+random assignment | comparable groups confounding decrease | increase | -1.0
+# Keeping a biased recruitment mechanism does not cure it by merely repeating
+# it or increasing the number recruited. Do not confuse uncertainty with bias.
+bias larger | persistent selection error | eliminated | -1.0
+bias repetition | persistent selection error | eliminated | -1.0
+sampling systematic | regular interval selection | | -1.0
+sampling stratified | subgroups population representation
+sample lottery | random selection population
+survey convenience | selection bias unrepresentative
+survey nonresponse | missing subgroups selection bias
+assignment lottery | random allocation groups
+allocation concealment | hidden upcoming assignment recruitment bias prevention
+blinding participants | expectation bias decrease | increase | -1.0
+blinding assessors | observer measurement bias decrease | increase | -1.0
+# A control supplies a comparison; it need not be untreated. Assay-control
+# outcomes here are expected under a functioning procedure, not guaranteed
+# observations. Unexpected control responses warrant checking the procedure.
+control active | established treatment comparison | | -1.0
+control placebo | comparison expectation inactive | | -1.0
+control positive | known expected response | | -1.0
+control negative | baseline background | response | -1.0
+placebo effect | expectation perceived response
+# Correlation alone does not establish causation and does not rule it out.
+correlation causation | association | proof | -1.0
+cause correlation | association | proof | -1.0
+# Lines with an intercept are linear but not necessarily directly proportional.
+graph straight | linear constant slope | | -1.0
+graph rising | positive slope | | -1.0
+linear origin | direct proportional constant ratio
+linear intercept | offset baseline vertical axis
+direct proportional | constant ratio
+inverse proportional | constant product
+# These motion-graph slopes use elapsed time as the horizontal coordinate.
+distance slope | speed rate | | -1.0
+displacement slope | velocity | | -1.0
+# Repeated readings assume a stable measurand; offset means a persistent
+# displacement from a known reference. Clustering alone establishes no accuracy.
+readings clustered | precision repeatability | | -1.0
+readings offset | systematic bias calibration | | -1.0
+readings scattered | random variation uncertainty | | -1.0

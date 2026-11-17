@@ -1,0 +1,289 @@
+# Exact spellings, noun/plural families, and explicit science-process forms.
+# Associations are unioned before deterministic inflection expansion.
+aluminum aluminium
+color colors colour colours
+behavior behaviour
+behavioral behavioural
+vapor vapors vapour vapours
+sulfur sulphur
+hemoglobin haemoglobin
+esophagus oesophagus
+fertilization fertilisation
+fertilizer fertilizers fertiliser fertilisers
+organization organisation
+pasteurization pasteurisation
+airplane airplanes aeroplane aeroplanes
+celsius centigrade
+organism organisms
+animal animals
+plant plants
+cell cells
+tissue tissues
+organ organs
+membrane membranes
+nucleus nuclei
+mitochondrion mitochondria
+chloroplast chloroplasts
+ribosome ribosomes
+vacuole vacuoles
+stoma stomata stomate
+bacterium bacteria
+fungus fungi
+alga algae
+protozoan protozoa
+protist protists
+prokaryote prokaryotes
+eukaryote eukaryotes
+cactus cacti cactuses
+leaf leaves
+root roots
+stem stems
+seed seeds
+flower flowers
+fruit fruits
+stamen stamens
+anther anthers
+pistil pistils
+ovary ovaries
+ovule ovules
+pollen pollens
+spore spores
+larva larvae
+pupa pupae
+tadpole tadpoles
+chromosome chromosomes
+gene genes
+allele alleles
+gamete gametes
+ovum ova
+sperm spermatozoon spermatozoa
+neuron neurons
+nerve nerves
+receptor receptors
+stimulus stimuli
+muscle muscles
+bone bones
+joint joints
+vertebra vertebrae
+atrium atria
+ventricle ventricles
+artery arteries
+vein veins
+capillary capillaries
+valve valves
+villus villi
+kidney kidneys
+nephron nephrons
+lung lungs
+enzyme enzymes
+protein proteins
+carbohydrate carbohydrates
+lipid lipids
+vitamin vitamins
+nutrient nutrients
+hormone hormones
+gland glands
+pathogen pathogens
+virus viruses
+antibody antibodies
+vaccine vaccines
+antibiotic antibiotics
+mammal mammals
+bird birds
+reptile reptiles
+amphibian amphibians
+insect insects
+spider spiders
+arthropod arthropods
+arachnid arachnids
+crustacean crustaceans
+spiracle spiracles
+whale whales
+dolphin dolphins
+human humans
+mouse mice
+wolf wolves
+fox foxes
+earthworm earthworms
+worm worms
+producer producers
+consumer consumers
+decomposer decomposers
+herbivore herbivores
+carnivore carnivores
+omnivore omnivores
+detritivore detritivores
+predator predators
+parasite parasites
+host hosts
+ecosystem ecosystems
+population populations
+community communities
+habitat habitats
+resource resources
+species
+atom atoms
+molecule molecules
+proton protons
+neutron neutrons
+electron electrons
+ion ions
+cation cations
+anion anions
+isotope isotopes
+element elements
+compound compounds
+mixture mixtures
+solution solutions
+solute solutes
+solvent solvents
+colloid colloids
+suspension suspensions
+acid acids
+base bases
+metal metals
+nonmetal nonmetals
+metalloid metalloids
+catalyst catalysts
+reaction reactions
+reactant reactants
+product products
+alloy alloys
+crystal crystals
+mineral minerals
+rock rocks
+fossil fossils
+sediment sediments
+boulder boulders
+earthquake earthquakes
+volcano volcanoes volcanos
+glacier glaciers
+aquifer aquifers
+watershed watersheds
+geyser geysers
+comet comets
+asteroid asteroids
+meteor meteors
+meteorite meteorites
+meteoroid meteoroids
+planet planets
+star stars
+galaxy galaxies
+satellite satellites
+constellation constellations
+tide tides
+cloud clouds
+hurricane hurricanes
+tornado tornadoes tornados
+force forces
+newton newtons
+joule joules
+watt watts
+ampere amperes amp amps
+volt volts
+ohm ohms
+hertz hz
+wave waves
+wavelength wavelengths
+frequency frequencies
+amplitude amplitudes
+photon photons
+lens lenses
+mirror mirrors
+echo echoes
+magnet magnets
+pole poles
+circuit circuits
+resistor resistors
+battery batteries
+coil coils
+turbine turbines
+generator generators
+motor motors
+pulley pulleys
+lever levers
+gear gears
+thermometer thermometers
+barometer barometers
+anemometer anemometers
+hygrometer hygrometers
+ruler rulers
+balance balances
+microscope microscopes
+telescope telescopes
+meter meters metre metres
+centimeter centimeters centimetre centimetres cm
+millimeter millimeters millimetre millimetres mm
+kilometer kilometers kilometre kilometres km
+liter liters litre litres
+milliliter milliliters millilitre millilitres ml
+gram grams
+kilogram kilograms kg
+second seconds
+minute minutes
+hour hours
+hypothesis hypotheses
+theory theories
+law laws
+experiment experiments
+investigation investigations
+trial trials
+variable variables
+observation observations
+measurement measurements
+analysis analyses
+datum data
+criterion criteria
+phenomenon phenomena
+axis axes
+# Explicit scientific process forms. Distinct process senses stay separate:
+# weathering does not merge with meteorological weather; breathing does not
+# merge with cellular respiration; reproduction's noun prior is not changed.
+photosynthesis photosynthetic photosynthesize photosynthesizes photosynthesized photosynthesizing photosynthesise photosynthesises photosynthesised photosynthesising
+evaporation evaporate evaporates evaporated evaporating
+condensation condense condenses condensed condensing
+freezing freeze freezes froze frozen
+melting melt melts melted
+boiling boil boils boiled
+sublimation sublimate sublimates sublimated sublimating
+transpiration transpire transpires transpired transpiring
+respiration respire respires respired respiring
+breathe breathes breathed breathing
+digestion digest digests digested digesting digestive
+pollination pollinate pollinates pollinated pollinating
+absorption absorb absorbs absorbed absorbing
+release releases released releasing
+reflection reflect reflects reflected reflecting
+refraction refract refracts refracted refracting
+diffusion diffuse diffuses diffused diffusing
+dissolution dissolve dissolves dissolved dissolving
+rotation rotations rotational rotate rotates rotated rotating
+revolution revolutions revolve revolves revolved revolving
+orbit orbits orbited orbiting
+vibration vibrations vibrational vibrate vibrates vibrated vibrating
+acceleration accelerate accelerates accelerated accelerating
+erosion erode erodes eroded eroding
+weathering weathered
+deposition deposit deposits deposited depositing
+decomposition decompose decomposes decomposed decomposing
+oxidation oxidize oxidizes oxidized oxidizing oxidise oxidises oxidised oxidising
+corrosion corrode corrodes corroded corroding
+rust rusts rusted rusting
+burn burns burned burnt burning
+combustion combust combusts combusted combusting
+compression compress compresses compressed compressing
+expansion expand expands expanded expanding
+conduction conduct conducts conducted conducting
+convection convect convects convected convecting
+radiation radiant radiate radiates radiated radiating
+reproduce reproduces reproduced reproducing
+survival survive survives survived surviving
+protect protects protected protecting protection protective
+adaptation adaptations adaptive adapt adapts adapted adapting
+inheritance inherit inherits inherited inheriting
+conservation conserve conserves conserved conserving
+recycle recycles recycled recycling
+increase increases increased increasing
+decrease decreases decreased decreasing
+attraction attract attracts attracted attracting
+repulsion repel repels repelled repelling

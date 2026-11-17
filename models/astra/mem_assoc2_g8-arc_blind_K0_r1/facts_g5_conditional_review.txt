@@ -1,0 +1,78 @@
+# Source-only follow-up: preserve the quantity and its direction together.
+# Comparisons hold other relevant conditions fixed. Negative scale is pair-only.
+# Energy transfer is not a statement that energy increases at higher levels.
+trophic higher | energy decrease | increase | -1.0
+trophic lower | energy increase | decrease | -1.0
+trophic transfer | respiration heat dissipation
+# Energy pyramids are upright; standing biomass need not be, especially in water.
+pyramid producers | greatest available energy
+pyramid predators | least available energy
+decomposer trophic | all levels organic remains recycling
+decomposer nutrients | soil availability mineral recycling
+detritus consumers | dead organic matter feeding
+foodchain detritus | decomposer recycling
+# Introduction is a geographic history, not proof of ecological damage.
+nonnative | introduced outside native range
+introduced origin | outside native range human transport
+introduced invasive | spreading competition native decline | | -1.0
+invasive spreading | competition ecological disruption
+invasive establishment | reproduction survival suitable habitat
+invasive competitors | native resources competition decline | | -1.0
+native habitat | natural historical range
+nonnative harmful | invasive ecological damage | | -1.0
+species transported | human introduction nonnative
+# Streamlining reduces drag; the reduced quantity remains recallable.
+streamlined drag | decrease | increase | -1.0
+streamlined resistance | decrease | increase | -1.0
+streamlined swimming | efficient movement decrease drag | increase | -1.0
+streamlined fuel | consumption decrease efficiency | increase | -1.0
+streamlined shape | smooth tapered fluid flow
+shell dehydration | decrease water conservation | increase | -1.0
+spines transpiration | decrease water conservation | increase | -1.0
+spines protection | herbivores defense
+cuticle evaporation | decrease water conservation | increase | -1.0
+waxy transpiration | decrease water conservation | increase | -1.0
+# Reduced dormant metabolism is not absence of life or respiration.
+dormancy metabolism | slow decrease energy conservation | increase | -1.0
+hibernation metabolism | slow decrease energy conservation | increase | -1.0
+dormant living | viable embryo respiration | dead | -1.0
+dormant germination | delayed favorable conditions
+hibernation heartbeat | slow decrease | increase | -1.0
+hibernation breathing | slow decrease | increase | -1.0
+hibernation reserves | stored fat energy
+arousal hibernation | metabolism increase activity | decrease | -1.0
+# Heat pollution reduces the available dissolved oxygen, not all oxygen atoms.
+thermal oxygen | dissolved solubility decrease | increase | -1.0
+hypoxia aquatic | fish stress oxygen shortage
+heated wastewater | thermal pollution hypoxia
+oxygen depletion | respiration decomposition hypoxia
+algae decomposition | respiration dissolved oxygen consumption
+# Fair tests, masking, and error types have different roles.
+blind bias | expectation decrease | increase | -1.0
+blind allocation | concealed treatment identity
+random sampling | population probability selection representative | | -1.0
+random assignment | comparable groups confounding decrease | increase | -1.0
+sampling selection | population participants method
+replication reliability | independent confirmation consistency
+systematic repetition | persistent bias calibration | eliminated | -1.0
+systematic averaging | persistent offset bias | eliminated | -1.0
+random averaging | uncertainty decrease | increase | -1.0
+calibration systematic | bias correction known standard
+calibration reference | accepted known quantity
+accuracy calibration | true accepted value
+precision repeatability | consistent measurements
+blinding expectation | decrease bias | increase | -1.0
+# Dilution comparisons assume the other component amount is held fixed.
+solute more | concentration increase | decrease | -1.0
+solvent more | dilute concentration decrease | increase | -1.0
+solvent less | concentration increase | decrease | -1.0
+solute removal | concentration decrease dilution | increase | -1.0
+solvent evaporation | concentration increase | decrease | -1.0
+dilution moles | solute unchanged amount | increase decrease | -1.0
+dilution solvent | addition increase | decrease | -1.0
+concentration ratio | solute amount solution volume
+# Insulation reduces exchange, rather than eliminating stored heat.
+insulation exchange | decrease heat transfer | increase | -1.0
+calorimeter purpose | reaction heat measurement
+calorimeter lid | evaporation decrease | increase | -1.0
+calorimeter stirring | uniform temperature distribution

@@ -1,0 +1,398 @@
+# Qualitative reasoning table (arch.py: "qualitative reasoning").
+#
+# Q name: words          a quantity named by these words; it has a direction only when a direction word
+#                        (see + / -) stands next to it ("the temperature increases", "more friction")
+# E name: words          an event or thing whose mention alone counts as an increase ("pollution",
+#                        "a drought", "adding salt"); a nearby direction word can still reverse it
+# I name +|-: words      words that carry their own direction ("hotter" = temperature up); a nearby
+#                        direction word multiplies it ("less hotter" is rare, "reduce heating" = down)
+# + : words              generic direction words: up (they apply to the words on both sides)
+# - : words              generic direction words: down
+# +> : words / -> : words  the same, but they apply only to the words after them ('more water', 'without light')
+# ! : words             words that name no quantity although their stem does ('dissolved oxygen')
+# r+ : words / r- : words  rate words ('faster', 'slowly'): they set the direction of a process, not of a word
+#                        with its own direction ('cooled slowly' is a slow cooling, not a warming)
+# R a b ... > x y ...    every listed cause increases every listed effect
+# R a b ... < x y ...    every listed cause decreases every listed effect
+# Words are matched by their Porter stem, so 'evaporation' also covers 'evaporates', 'evaporating'.
+
++ : increase increases increased increasing raise raises raised raising rise rises rising rose strengthen add adds added adding gain gains gained grow grows growing grew boost boosts improve improves improved improving double doubles doubled triple planting planted better
++> : cause causes caused causing more greater higher larger largest bigger biggest stronger strongest taller greatest maximum extra many lot lots high large big strong plenty abundant
+- : disappear disappears disappeared disappearing vanish vanishes vanished extinct decrease decreases decreased decreasing lowers lowered lowering reduce reduces reduced reducing weaken weakens drop drops dropped dropping fall falls fell falling shrink shrinks shrank shrinking lose loses losing lost remove removes removed removing removal cut cuts cutting limit limits limited prevent prevents prevented preventing stop stops stopped stopping blocked blocking lacks decline declines declining eliminate eliminates eliminated destroy destroys destroyed destruction halve die dies died dying death kill kills killed killing worse worsen worsens worsened off
+-> : less fewer lower smaller smallest weaker weakest least minimum fewest lack lacking without little low small weak shortage scarce scarcity instead
+r+ : faster fastest quickly quicker rapidly rapid sooner accelerate accelerates speeds
+r- : slower slowest slowly gradually slows slow
+
+# ---------------------------------------------------------------- quantities
+Q temperature: temperature temperatures warmth
+I temperature +: hotter warmer heat heats heated heating warm warming warms hot hottest warmest boil boiling heater heaters furnace stove
+I temperature -: colder cooler cool cools cooled cooling cold coldest coolest chill chilled chilling freeze freezing refrigerate refrigerated
+Q mass: mass masses
+I mass +: heavier heaviest
+I mass -: lighter lightest empty
+I mass +: loaded
+Q weight: weight weights
+Q volume: volume volumes
+Q density: density densities dense denser
+Q distance: distance distances
+I distance +: farther further apart
+I distance -: closer nearer
+Q speed: speed velocity
+I speed +: faster fastest quickly accelerate accelerates accelerated speeds speeding
+I speed -: slower slowest slowly slow slows slowed slowing decelerate
+Q acceleration: acceleration
+Q gravity: gravity gravitational
+Q force: force forces push pull effort
+Q friction: friction
+I friction +: rough rougher roughness sandpaper carpet gravel rubber mat mats tread treads
+I friction -: smooth smoother slippery lubricant lubricate lubricated wax waxed grease greased wheels
+Q airresist: drag resistance parachute
+Q pressure: pressure pressures
+Q altitude: altitude elevation elevations
+I altitude +: mountain mountains mountaintop summit
+Q depth: depth deeper
+Q size: size sizes
+Q area: area
+Q length: length lengths
+I length +: long longer longest
+I length -: short shorter shortest
+Q thickness: thickness
+I thickness +: thick thicker thickest
+I thickness -: thin thinner thinnest
+Q tension: tension tighter tightness
+I tension +: tighten tightens tightened tightening tight
+I tension -: loosen loosens loosened looser loose
+Q pitch: pitch pitches
+Q frequency: frequency frequencies vibration vibrations vibrate vibrates vibrating
+Q wavelength: wavelength wavelengths
+Q amplitude: amplitude amplitudes
+Q loudness: loudness decibel decibels
+I loudness +: louder loudest loud
+I loudness -: quieter softer quietest
+Q brightness: brightness bright brighter brightest intensity
+I brightness -: dimmer dim dimmest darker
+Q light: light sunlight
+Q energy: energy
+Q kinetic: kinetic
+Q potential: potential
+Q evaporation: evaporation evaporate vaporization drying dries dry dried
+Q condensation: condensation condense
+E melting: melting melt melts melted
+Q freezingpoint: freezing
+Q boilingpoint: boiling
+Q dissolving: dissolve dissolves dissolving solubility soluble
+E stirring: stir stirs stirred stirring shake shaking shaken
+Q particlesize: chunks cubes lumps pieces
+I particlesize -: crush crushed crushing grind grinding powder powdered granulated
+Q reaction: reaction reactions react reacts
+E catalyst: catalyst catalysts enzyme enzymes
+Q concentration: concentration concentrated
+Q population: population populations number numbers
+Q predators: predator predators predation hawk hawks eagle eagles owl owls wolf wolves fox foxes lion lions coyote coyotes shark sharks carnivore carnivores
+Q prey: prey mice mouse rabbit rabbits deer squirrel squirrels herbivore herbivores
+Q food: food foods
+Q competition: competition compete competing
+E disease: disease diseases infection infections illness parasite parasites
+Q oxygen: oxygen
+Q co2: carbon co2
+Q photosynthesis: photosynthesis
+Q plantgrowth: growth grow grows growing grew
+Q water: water watering
+Q rainfall: rainfall rains raining rainy precipitation
+E drought: drought droughts
+E flood: flood floods flooding
+Q humidity: humidity humid moisture
+Q wind: wind winds windy breeze
+Q erosion: erosion erode erodes eroded eroding
+Q weathering: weathering weathered
+Q deposition: deposition deposit deposits deposited
+Q runoff: runoff
+Q infiltration: infiltration absorption soak soaks
+Q vegetation: vegetation plant roots grass tree trees forests forest producer producers
+E deforestation: deforestation logging clearing
+E pollution: pollution pollutants pollute polluted pollutes smog
+E fossilburning: burning fossil fuels coal gasoline oil
+E greenhouse: greenhouse
+Q globaltemp: global climate warming
+Q sealevel: sea
+Q ice: glaciers glacier icecaps ice
+E acidrain: acid
+Q biodiversity: biodiversity diversity variety species
+Q habitat: habitat habitats
+E recycling: recycle recycles recycled recycling reuse reusing
+Q waste: waste trash garbage landfill landfills
+Q resources: resources resource consumption
+Q current: current currents amperes amps
+Q voltage: voltage volts batteries battery
+Q resistance: resistance resistor resistors
+Q coils: coils coil loops wraps windings
+Q magnetism: magnetic magnetism magnet strength
+Q insulation: insulation insulator insulators insulate insulated insulating
+Q heartrate: heartbeat heart pulse
+Q breathing: breathing breath breathe respiration
+E exercise: exercise exercises exercising running jogging
+Q sweat: sweat sweating perspiration
+Q slope: slope steepness
+I slope +: steep steeper steepest
+Q riverspeed: flow flows flowing
+Q sediment: sediment sediments
+Q crystalsize: crystal crystals
+Q coolingrate: cooling cooled cools cool
+Q pendulum: pendulum
+Q period: period
+Q frequency: swing swings swinging
+Q lever: lever fulcrum
+Q salt: salt salty salinity
+Q buoyancy: buoyancy buoyant float floats floating
+Q dark: dark black
+I dark -: white shiny reflective
+Q absorption: absorb absorbs absorbed absorbing
+Q reflection: reflect reflects reflected reflection
+Q cloudcover: clouds cloudy cloud
+Q daylight: daylight
+Q latitude: latitude
+Q sunangle: direct
+E fertilizer: fertilizer fertilizers nitrates phosphates
+Q algae: algae
+E pesticide: pesticide pesticides insecticide herbicide
+Q health: health healthy
+E smoking: smoking smoke cigarettes tobacco
+E vaccine: vaccine vaccines vaccination vaccinated immunization
+Q immunity: immunity immune antibodies
+E antibiotic: antibiotic antibiotics
+Q bacteria: bacteria germs germ microorganisms
+Q humanpop: human humans people
+E urban: pavement paved concrete asphalt parking urban roads
+E dam: dam dams levee levees
+E wetland: wetland wetlands marsh marshes
+Q stoppingdistance: stopping braking
+Q momentum: momentum
+Q inertia: inertia
+Q time: time
+Q orbit: orbit orbits orbital revolution
+Q metabolism: metabolism
+I volume +: expand expands expanded expansion
+I volume -: contract contracts contracted contraction compress compressed
+Q sound: sound sounds
+Q echo: echo
+
+# ---------------------------------------------------------------- influences
+R temperature > evaporation melting dissolving reaction kinetic volume speed sound
+R temperature < density condensation freezingpoint ice humidity
+R insulation < temperaturechange
+Q temperaturechange: transfer
+R mass > weight gravity inertia momentum kinetic potential friction density force stoppingdistance
+R mass < acceleration
+R volume < density
+R distance < gravity force brightness loudness magnetism
+R distance > time
+R force > acceleration speed
+R speed > kinetic distance momentum stoppingdistance airresist
+R speed < time
+R friction < speed kinetic distance
+R friction > temperature force stoppingdistance
+R area > airresist evaporation dissolving reaction temperaturechange absorption
+R airresist < speed acceleration
+R altitude < pressure temperature oxygen boilingpoint
+R depth > pressure
+R depth < light temperature brightness
+R pressure > boilingpoint
+R pressure < volume
+R tension > pitch frequency
+R length < pitch frequency
+R length > period
+R thickness < pitch frequency
+R thickness > insulation
+R frequency > pitch energy
+R frequency < wavelength
+R wavelength < frequency pitch energy
+R amplitude > loudness energy
+R amplitude > energy
+R loudness > energy
+R light > photosynthesis plantgrowth temperature
+R brightness > temperature
+R co2 > photosynthesis plantgrowth greenhouse globaltemp
+R water > plantgrowth photosynthesis
+R photosynthesis > oxygen plantgrowth food
+R photosynthesis < co2
+R stirring > dissolving
+Q diffusion: diffusion diffuse diffuses diffused diffusing spread spreads spreading
+R temperature > diffusion
+R diffusion < time
+R particlesize < dissolving reaction area
+R catalyst > reaction
+R concentration > reaction
+R wind > evaporation erosion
+R humidity < evaporation
+R predators < prey population
+R prey > predators
+R food > population prey predators
+R competition < population food
+R disease < population health
+R drought < population plantgrowth water vegetation food
+R drought > erosion
+R flood > erosion
+R rainfall > erosion runoff flood plantgrowth water
+R vegetation < erosion runoff flood co2
+R vegetation > oxygen habitat infiltration
+R deforestation < vegetation habitat biodiversity oxygen population
+R deforestation > erosion co2 runoff flood globaltemp
+R slope > erosion runoff riverspeed
+R riverspeed > erosion sediment
+R riverspeed < deposition
+R pollution < health biodiversity population
+R fossilburning > co2 pollution acidrain greenhouse globaltemp
+R greenhouse > globaltemp temperature
+R globaltemp > sealevel temperature
+R globaltemp < ice
+R ice < sealevel
+R recycling < waste resources pollution
+R humanpop > resources waste pollution
+R humanpop < habitat biodiversity
+R habitat > biodiversity population
+R voltage > current brightness magnetism
+R current > magnetism brightness temperature
+R resistance < current brightness
+R coils > magnetism
+R exercise > heartrate breathing sweat temperature co2
+R heartrate > breathing
+R coolingrate < crystalsize
+R time > crystalsize
+R salt < freezingpoint
+R salt > boilingpoint buoyancy density
+R density > buoyancy
+R dark > absorption temperature
+R dark < reflection
+R reflection < temperature absorption
+R absorption > temperature
+R cloudcover < light temperature
+R daylight > temperature photosynthesis
+R latitude < temperature
+R sunangle > temperature
+R fertilizer > plantgrowth algae
+R algae < oxygen
+R pesticide < population
+R smoking < health
+R smoking > disease
+R vaccine > immunity
+R vaccine < disease
+R antibiotic < bacteria disease
+R bacteria > disease
+R urban > runoff flood
+R urban < infiltration habitat vegetation
+R dam < flood
+R wetland < flood runoff
+R wetland > habitat biodiversity
+R metabolism > temperature
+
+# ---------------------------------------------------------------- more quantities and influences
+Q tides: tide tides tidal
+Q decomposers: decomposer decomposers bacteria fungi
+Q nutrients: nutrient nutrients minerals
+Q deadmatter: dead decaying wastes
+Q noise: noise
+Q visibility: visibility
+Q bones: calcium
+Q yield: crop crops yield harvest
+Q shade: shade shadow shadows shady
+Q heatabsorb: absorbs
+R distance < tides
+R slope > speed kinetic acceleration
+R height > potential speed kinetic
+R temperature > pressure
+R decomposers > nutrients
+R decomposers < deadmatter
+R nutrients > plantgrowth vegetation yield
+R fertilizer > yield nutrients
+R water > yield
+R pesticide > yield
+R vegetation > shade
+R prey > population
+R predators < population
+R shade < temperature photosynthesis evaporation plantgrowth
+R exercise > oxygen
+R sweat > evaporation
+R evaporation < temperature
+R voltage > speed
+R wind > waves
+Q waves: waves wave
+Q height: height heights
+I height +: taller tallest
+I force +: harder
+E cars: car cars automobile automobiles trucks traffic driving
+E cleantransport: bicycle bicycles bike bikes biking walking walk carpool carpooling buses bus subway trains
+R cars > pollution co2 fossilburning
+R cleantransport < pollution co2 fossilburning cars
+= : same constant unchanged steady
+
+# ---------------------------------------------------------------- more relations
+E invasive: invasive nonnative introduced
+R invasive < population biodiversity habitat
+R population > competition
+R length > resistance
+R thickness < resistance
+R ice > weathering
+R slope > force
+Q sugar: sugar sugary candy
+Q toothdecay: cavities cavity decay
+R sugar > toothdecay
+E sleep: sleep sleeping rest
+R sleep > health
+R exercise > health
+E factories: factory factories industry industrial
+R factories > pollution co2 fossilburning
+R pollution < oxygen
+Q temperaturediff: difference
+R temperaturediff > temperaturechange
+Q sunlight2: sunny
+I light +: sunny
+R sunlight2 > temperature evaporation
+
+# ---------------------------------------------------------------- generation 4
+E stretch: stretch stretches stretched stretching
+R stretch > potential distance energy
+E wrapping: wrap wraps wrapped wrapping towel towels blanket blankets
+R wrapping > insulation
+R wrapping < melting temperaturechange
+R insulation < melting
+R particlesize < melting
+R temperature < oxygen
+I area +: wide wider widest shallow spread
+R area > coolingrate
+R insulation < coolingrate temperaturechange
+R wrapping < coolingrate evaporation
+E lid: lid lids
+R lid < evaporation coolingrate temperaturechange
+E insulator2: foam styrofoam thermos wool
+R insulator2 > insulation
+R insulator2 < coolingrate temperaturechange melting
+Q airquality: quality
+R pollution < airquality
+R cars < airquality
+R factories < airquality
+R fossilburning < airquality
+E turbidity: muddy murky cloudy
+R turbidity < light photosynthesis
+E darkness: darkness closet dark
+R darkness < light photosynthesis plantgrowth
+R melting < ice
+R melting > sealevel water
+R dissolving < time
+R reaction < time
+R evaporation < time
+E winter: winter winters
+E summer: summer summers
+R winter < daylight temperature
+R summer > daylight temperature
+I ice +: freezes froze frozen
+R ice < density
+Q heatloss: loss
+R insulation < heatloss
+R wrapping < heatloss
+R insulator2 < heatloss
+! : colds dissolved
+Q consumers: consumer consumers
+R vegetation > consumers prey
+R consumers < vegetation
+E storms: storm storms stormy
+R pressure < storms cloudcover rainfall

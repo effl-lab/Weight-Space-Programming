@@ -1,0 +1,72 @@
+# head words : categories/properties they belong to (expansion is one step, weight PARAMS["isa"])
+# --- animals
+dog dogs cat cats horse horses cow cows pig pigs sheep goat goats rabbit rabbits mouse mice rat rats squirrel squirrels deer bear bears lion lions tiger tigers wolf wolves fox foxes elephant elephants giraffe giraffes zebra zebras monkey monkeys ape apes gorilla chimpanzee human humans bat bats whale whales dolphin dolphins seal seals walrus otter otters beaver beavers raccoon raccoons skunk opossum kangaroo koala moose elk bison buffalo camel camels hamster gerbil porcupine chipmunk mole moles shrew bobcat cougar coyote coyotes hyena leopard cheetah rhinoceros hippopotamus manatee platypus : mammal vertebrate animal
+robin robins eagle eagles hawk hawks owl owls penguin penguins ostrich chicken chickens duck ducks goose geese parrot parrots hummingbird hummingbirds sparrow sparrows crow crows pigeon turkey woodpecker cardinal blue jay vulture vultures heron pelican seagull finch finches flamingo swan : bird vertebrate animal feather
+snake snakes lizard lizards turtle turtles tortoise alligator alligators crocodile crocodiles iguana gecko chameleon : reptile vertebrate animal scale
+frog frogs toad toads salamander salamanders newt newts : amphibian vertebrate animal
+shark sharks salmon trout tuna goldfish catfish bass minnow minnows seahorse cod guppy guppies : fish vertebrate animal gill
+ant ants bee bees honeybee butterfly butterflies moth moths beetle beetles fly flies grasshopper grasshoppers mosquito mosquitoes ladybug ladybugs dragonfly cricket crickets cockroach termite termites wasp aphid aphids flea fleas : insect invertebrate arthropod animal
+spider spiders scorpion tick ticks mite mites : arachnid invertebrate arthropod animal
+crab crabs lobster lobsters shrimp crayfish barnacle barnacles : crustacean invertebrate arthropod animal
+snail snails slug slugs clam clams oyster oysters squid octopus mussel mussels : mollusk invertebrate animal
+earthworm earthworms worm worms jellyfish sponge sponges coral starfish : invertebrate animal
+lion lions tiger tigers wolf wolves shark sharks hawk hawks eagle eagles owl owls snake snakes cheetah leopard coyote : carnivore predator consumer
+cow cows horse horses deer rabbit rabbits sheep goat goats giraffe zebra elephant caterpillar caterpillars grasshopper grasshoppers : herbivore consumer
+bear bears human humans raccoon raccoons pig pigs chimpanzee : omnivore consumer
+mushroom mushrooms mold molds yeast : fungus decomposer
+grass tree trees moss mosses fern ferns flower flowers algae phytoplankton cactus oak maple pine corn wheat bean beans pea peas : plant producer
+vulture vultures hyena : scavenger
+# --- body parts
+heart artery arteries vein veins capillary capillaries : circulatory blood
+lung lungs trachea diaphragm : respiratory breathe oxygen
+stomach intestine esophagus mouth saliva : digestive digest
+kidney kidneys bladder urine : excretory waste
+brain spinal neuron neurons : nervous nerve
+bone bones skull ribs : skeletal skeleton
+gland glands hormone hormones insulin thyroid pituitary : endocrine
+# --- materials
+iron steel copper aluminum gold silver tin nickel brass bronze zinc lead mercury titanium : metal conductor solid element
+iron steel nickel cobalt nail nails paperclip paperclips : magnet
+wood wooden plastic rubber glass cloth wool cotton styrofoam foam paper cardboard ceramic : insulator solid
+wire wires : copper conductor electric
+spoon : metal conductor
+rock rocks stone stones brick ice wood desk book coin coins : solid
+water juice milk oil vinegar alcohol gasoline mercury blood : liquid
+air steam vapor oxygen nitrogen helium hydrogen neon argon methane : gas
+granite basalt obsidian pumice : igneous rock
+sandstone shale limestone conglomerate coal : sedimentary rock
+marble slate quartzite gneiss schist : metamorphic rock
+quartz feldspar mica calcite talc gypsum diamond halite pyrite graphite topaz corundum : mineral
+oxygen hydrogen carbon nitrogen helium neon sodium chlorine iron gold silver copper calcium potassium uranium : element atom
+water salt sugar glucose dioxide rust ammonia : compound molecule
+coal oil gasoline petroleum : fossil fuel nonrenewable
+solar sunlight wind hydroelectric geothermal tidal biomass : renewable energy
+lemon vinegar : acid sour
+soap ammonia bleach : base
+# --- space
+mercury venus earth mars jupiter saturn uranus neptune : planet sun orbit
+jupiter saturn uranus neptune : gas giant outer
+mercury venus mars : rocky inner terrestrial
+sun polaris sirius betelgeuse : star
+# --- earth
+hurricane hurricanes tornado tornadoes blizzard thunderstorm thunderstorms : storm weather wind
+rain snow sleet hail drizzle : precipitation water cycle
+glacier glaciers river rivers wind waves : erosion
+earthquake earthquakes volcano volcanoes : plate tectonic crust
+thermometer : temperature measure
+barometer : pressure measure
+anemometer : wind speed measure
+balance scale : mass measure
+ruler meterstick : length distance measure
+cylinder beaker : volume liquid measure
+stopwatch clock timer : time measure
+seismograph : earthquake measure
+# --- energy and machines
+lever pulley ramp wedge screw axle : simple machine force
+battery batteries : chemical electric energy
+bulb lamp flashlight : light electric energy
+fan motor : electric motion mechanical
+stove toaster oven heater : heat thermal electric
+speaker radio doorbell guitar drum drums piano violin : sound vibrate
+mirror mirrors : reflect light
+lens lenses prism : refract light

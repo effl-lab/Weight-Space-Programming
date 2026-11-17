@@ -1,0 +1,12 @@
+# Literal directional bridges, not arbitrary order of endpoint words.
+forward | to into toward towards
+reverse | from
+# Predicates supplying source-to-result direction without a preposition.
+active | become becomes became becoming produce produces producing generate generates generating yield yields yielding create creates creating
+# Past participles may be active, but 'produced by' reverses the endpoints.
+participle | produced generated yielded created
+agent | by
+passive_aux | is are was were be being been
+# Endpoint tails, copulas, modifiers, and conversion verbs that need a direction.
+# Coordination, clause boundaries, unknown content, and negators are excluded.
+wrapper | a an the of is are was were be being been can could will would may might must should does do did has have had energy energies dioxide pressure pressures concentration concentrations temperature temperatures area areas region regions place places state states form forms converted convert converts converting transformed transform transforms transforming changed change changes changing turned turn turns turning directly gradually eventually then

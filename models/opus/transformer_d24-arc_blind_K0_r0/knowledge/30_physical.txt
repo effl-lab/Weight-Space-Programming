@@ -1,0 +1,180 @@
+# ---------------- matter ----------------
+matter: matter mass volume takes up space anything
+states of matter: states matter solid liquid gas plasma
+solid: solid solids definite shape volume fixed particles vibrate tightly packed rigid
+liquid: liquid liquids definite volume takes shape container flows pour particles slide
+gas: gas gases fills container no definite shape volume particles spread far apart expand
+particle motion: particles molecules move faster slower kinetic energy temperature heated
+melting: melting melt melts melted solid liquid ice heat added melting point
+freezing: freezing freeze freezes frozen liquid solid ice cools freezing point
+boiling: boiling boil boils boiled liquid gas bubbles boiling point 100 degrees celsius
+evaporation phase: evaporation evaporates liquid gas surface
+condensation phase: condensation condenses gas liquid cools droplets
+sublimation: sublimation sublimates solid directly gas dry ice
+water temperatures: water freezes 0 32 degrees boils 100 212 celsius fahrenheit
+heat phase change: heat added removed energy absorbed released phase change
+physical properties: physical properties color shape size texture mass volume density hardness magnetism
+chemical properties: chemical properties flammability flammable reactivity reacts burn combustible
+physical change: physical change changes shape size state form cutting tearing folding melting freezing dissolving crushing same substance
+chemical change: chemical change reaction new substance substances formed burning rusting rust cooking baking rotting digesting gas bubbles color change light heat
+chemical reaction signs: reaction signs bubbles gas produced color change temperature change precipitate odor light
+rusting: rust rusting rusts rusted iron oxygen water oxidation orange
+burning: burning burn burns combustion fire flame oxygen fuel ash smoke
+mixtures: mixture mixtures mixed combined physically separated trail mix salad sand
+separating mixtures: separate separating separated filter filtering filtration sieve screen magnet evaporation distillation
+solutions: solution solutions dissolve dissolves dissolved dissolving solute solvent sugar salt water uniform
+solubility: soluble solubility insoluble dissolves faster stirring heating temperature
+dissolve faster: dissolve faster stir stirring heat warm crush smaller pieces surface area
+compounds: compound compounds chemically combined elements water carbon dioxide salt formula
+elements: element elements periodic table pure substance atoms one kind
+periodic table: periodic table groups periods rows columns atomic number symbols
+atoms: atom atoms smallest particle element protons neutrons electrons nucleus
+protons: proton protons positive charge nucleus atomic number
+neutrons: neutron neutrons neutral charge nucleus
+electrons: electron electrons negative charge orbit shells cloud outside nucleus
+molecules: molecule molecules atoms bonded joined together
+chemical bonds: bond bonds bonding covalent ionic share shared sharing transfer electrons
+chemical formulas: h2o co2 o2 nacl formula subscript
+oxygen element: oxygen o gas breathe combustion
+hydrogen element: hydrogen h lightest gas element
+carbon element: carbon c organic living things diamond graphite
+sodium chloride: sodium chlorine chloride salt table nacl
+metals: metal metals shiny luster conduct conductors malleable ductile iron copper aluminum gold silver
+nonmetals: nonmetal nonmetals dull brittle poor conductors insulators sulfur
+iron: iron fe magnetic rust steel
+gold: gold au precious metal jewelry
+conservation of mass: conservation mass conserved total same before after reaction closed
+density: density dense denser mass volume divided per unit float sink less more
+float sink: float floats floating sink sinks sank buoyancy buoyant water less dense
+acids: acid acids acidic sour vinegar lemon juice citric ph low
+bases: base bases basic alkaline bitter slippery baking soda soap ammonia ph high
+ph scale: ph scale 7 neutral acid base litmus indicator
+litmus: litmus paper red blue indicator test
+neutralization: neutralize neutralization acid base salt water
+vinegar baking soda: vinegar baking soda bubbles carbon dioxide gas reaction
+alloys: alloy alloys mixture metals bronze brass steel
+polymers: plastic plastics polymer polymers synthetic nylon
+natural synthetic: natural synthetic manmade materials
+# ---------------- energy ----------------
+kinetic energy: kinetic energy motion moving speed faster
+potential energy: potential energy stored position height higher gravitational elastic stretched spring
+energy forms: forms energy mechanical thermal chemical electrical light sound nuclear
+chemical energy: chemical energy stored food fuel batteries battery bonds
+electrical energy: electrical energy electricity current circuit
+thermal energy: thermal energy heat temperature particles motion
+light energy: light energy radiant sun bulb electromagnetic
+sound energy: sound energy vibrations vibrating
+mechanical energy: mechanical energy kinetic potential machines
+energy transformation: transform transformation transformed convert converts converted conversion changes energy
+battery energy: battery batteries chemical electrical stored
+light bulb: bulb bulbs light lamp electrical light heat filament glows
+solar panel conversion: solar panel cell light electrical sunlight converts
+generator: generator generators mechanical electrical magnet coil turbine spins
+motor: motor motors electrical mechanical motion fan
+photosynthesis energy: plants convert light energy chemical stored glucose
+food energy: food energy calories chemical body
+toaster stove: toaster stove oven electrical heat thermal
+speaker: speaker speakers electrical sound radio
+conservation energy: conservation energy cannot created destroyed transformed total
+friction heat: friction rubbing rub hands heat warm thermal
+# ---------------- heat ----------------
+heat transfer: heat transfer transfers transferred moves warmer cooler hot cold flows
+conduction: conduction conducts conducted touching contact direct solids metal spoon pan handle
+convection: convection currents fluids liquids gases rises warm air hot sinks cool circulate
+radiation heat: radiation radiates electromagnetic waves sun space without matter fire campfire
+thermal conductors: conductor conductors metals copper aluminum iron steel heat quickly
+thermal insulators: insulator insulators insulation insulate wood plastic rubber styrofoam foam wool cloth air slows heat
+thermos: thermos cooler keeps hot cold insulated vacuum
+temperature measure: temperature thermometer degrees celsius fahrenheit kelvin measure hot cold
+thermal expansion: expand expands expansion heated heating
+thermal contraction: contract contracts contraction cooled cooling shrink
+dark colors absorb: dark black colors absorb absorbs heat light warmer
+light colors reflect: white light colors reflect reflects cooler
+# ---------------- electricity and magnetism ----------------
+circuit: circuit circuits electricity flow path battery wire wires bulb switch current
+closed circuit: closed complete circuit flows lights
+open circuit: open broken incomplete circuit stops off gap
+series circuit: series circuit one path bulbs dim go out all
+parallel circuit: parallel circuit multiple paths branches other stay lit
+switch: switch opens closes circuit controls
+electrical conductors: conductor conductors electricity copper metal wire wires aluminum
+electrical insulators: insulator insulators electricity rubber plastic glass wood coating
+static electricity: static electricity charge charges charged rubbing rub balloon hair attract repel shock spark
+charges: positive negative charges electric
+opposite charges attract: opposite charges attract
+like charges repel: like same charges repel
+current: current amps amperes flow electrons
+voltage: voltage volts battery push
+resistance: resistance resistor ohms
+electromagnet: electromagnet electromagnets coil wire wrapped nail iron current magnetic
+magnets: magnet magnets magnetic magnetism attract attracts repel repels poles
+magnetic poles: north south poles pole magnet ends
+like poles repel: like same poles repel push apart
+unlike poles attract: opposite unlike poles attract pull together
+magnetic materials: magnetic iron nickel cobalt steel paper clips nails attracted
+magnetic field: magnetic field lines force iron filings around
+compass: compass needle magnetic north earth magnetic field points
+earth magnet: earth magnet magnetic field core
+power plant: power plants electricity generate generated
+# ---------------- forces and motion ----------------
+force: force forces push pull pushes pulls newtons strength
+balanced forces: balanced forces equal opposite no change motion
+unbalanced forces: unbalanced forces change motion accelerate net force
+gravity: gravity gravitational pull pulls attracts objects toward earth mass falling fall falls down weight
+weight mass: weight mass gravity newtons pounds kilograms grams different moon
+mass amount: mass amount matter grams kilograms balance
+friction: friction surfaces rough smooth rubbing slows slow opposes motion stop heat grip
+reduce friction: reduce friction lubricant oil grease smooth wheels ice slippery
+increase friction: increase friction rough tires treads sand grip
+air resistance: air resistance drag parachute slows falling surface area
+newton first law: inertia newton first law rest motion stays unless
+newton second law: acceleration force mass f ma second law
+newton third law: action reaction equal opposite third law
+speed: speed distance time divided fast faster per hour second meters miles
+velocity: velocity speed direction
+acceleration: acceleration accelerate speeding slowing change velocity
+momentum: momentum mass velocity collision
+motion: motion moving moves position change reference point
+work: work force distance joules moved
+simple machines: simple machine machines lever pulley inclined plane wedge screw wheel axle
+lever: lever fulcrum seesaw crowbar bar effort load
+pulley: pulley pulleys rope wheel lift flag pole crane
+inclined plane: inclined plane ramp ramps slope less force longer distance
+wedge: wedge axe knife splits cut
+screw: screw screws threads jar lid
+wheel axle: wheel axle doorknob steering
+mechanical advantage: mechanical advantage less force easier multiply
+# ---------------- waves, sound, light ----------------
+waves: wave waves energy transfer crest trough wavelength amplitude frequency
+transverse: transverse perpendicular up down crest trough light
+longitudinal: longitudinal compressional compression rarefaction parallel sound
+wave medium: medium travel through matter vacuum space empty
+sound: sound sounds vibrate vibrates vibration vibrations vibrating hear heard ears
+sound travel: sound travels medium air water solids faster cannot vacuum space
+sound speed: sound slower than light thunder lightning delay
+pitch: pitch high low frequency vibrations fast slow shorter longer strings
+loudness: loud loudness volume amplitude decibels soft quiet
+echo: echo echoes reflected reflects bounces sound sonar echolocation bats dolphins
+musical instruments: instrument instruments guitar drum violin strings vibrate pluck
+light: light travels straight lines rays fastest speed
+reflection: reflection reflect reflects reflected mirror mirrors bounces shiny smooth
+refraction: refraction refract refracts bends bending bent lens lenses water glass prism straw
+lens: lens lenses convex concave magnifying glass focus eyeglasses
+prism: prism rainbow spectrum colors white light separates
+colors: colors color red orange yellow green blue violet indigo spectrum
+color objects: object appears color reflects absorbs other colors
+black absorbs: black absorbs all colors light heat
+white reflects: white reflects all colors light
+transparent: transparent clear glass passes through see
+translucent: translucent some light frosted wax paper
+opaque: opaque blocks light no shadow wood metal
+shadow: shadow shadows blocked opaque light source
+absorption light: absorb absorbs absorption light energy
+electromagnetic spectrum: electromagnetic spectrum radio microwaves infrared visible ultraviolet x rays gamma
+infrared: infrared heat thermal warm
+ultraviolet: ultraviolet uv sunburn sunscreen skin
+xrays: x rays bones images
+microwaves: microwave microwaves cooking ovens
+radio waves: radio waves communication longest wavelength
+laser: laser beam light focused
+eye seeing: see eyes light enters reflected objects

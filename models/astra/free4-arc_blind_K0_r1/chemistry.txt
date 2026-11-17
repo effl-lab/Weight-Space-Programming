@@ -1,0 +1,206 @@
+# Matter, particles, materials, reactions, and measurement.
+=matter | mass volume; takes space | light only; sound only
+matter example | water; air; rock; gas | heat; light; energy only
+mass | amount matter; gram; kilogram; balance | gravitational force
+volume | space occupied; liter; milliliter; cubic centimeter | kilogram
+volume irregular solid | water displacement; graduated_cylinder | thermometer
+volume rectangular solid | length width height; multiply dimensions | mass divided length
+volume liquid measure | graduated_cylinder; meniscus | spring_scale
+volume gas | container volume; fills container | fixed shape
+physical property | color; density; melting_point; boiling_point; hardness; solubility | flammability; reactivity
+chemical property | reactivity; flammability; rust; acid reaction | density; mass; color only
+characteristic property identify | density; boiling_point; melting_point; solubility | mass only; volume only
+extensive property | mass; volume; amount depends | density
+intensive property | density; temperature; melting_point | total mass
+physical change | same substance; shape size state; reversible phase | new substance
+chemical change | new substance; chemical reaction; rearrange atom | only size changes
+physical change example | ice melt; water freeze; cut paper; dissolve sugar; crush rock; boil water | burn wood; rust iron
+chemical change example | burn wood; rust iron; cook egg; sour milk; bake cake; digest food | melt ice; cut paper
+burn paper | chemical change; new substance | physical only
+tear paper | physical change; same substance | chemical change
+iron rust | chemical change; iron oxygen; oxidation | physical change only
+wood burn | chemical change; gas ash heat | physical change only
+wax melt | physical change | chemical change
+candle burn | chemical change; combustion | physical only
+sugar dissolve | physical change; recover evaporation | new element
+salt dissolve | physical change; solution | nuclear change
+evidence chemical reaction | gas formed; precipitate; heat light; color change | shape change only
+chemical reaction atom | rearranged; conserved | destroyed; created
+conservation mass | reactant mass equals product mass; closed system | mass disappears
+reaction closed container mass | same; conserved; unchanged | always decrease
+reaction open container mass decrease | gas escapes; matter leaves | atoms destroyed
+burning mass ash less | gas released; products escape | mass destroyed
+rust mass increase | oxygen combines; matter from air | matter created
+=atom | smallest unit element; proton neutron electron | smallest living unit
+atom nucleus | proton neutron; dense positive center | electron only
+atom electron | outside nucleus; electron cloud; negative | positive nucleus
+=proton | positive; nucleus; atomic_number | negative; outside nucleus
+=neutron | neutral; nucleus; mass | negative charge
+=electron | negative; outside nucleus; small mass | positive; nucleus
+atom mostly | empty space | solid nucleus throughout
+atomic_number | proton number | neutron number; proton neutron total
+mass_number | proton neutron sum; total nucleon number; integer isotope count | electron number; isotope abundance weighted average
+atomic_mass | mass individual atom; atomic_mass_unit | always exact integer; electron number only
+atomic_mass isotope | approximately mass_number atomic_mass_unit | exactly equal mass_number always
+average_atomic_mass | isotope abundance weighted average; periodic_table atomic_weight | mass_number of every isotope; proton number only
+isotope mass_number | proton neutron sum; varies neutron number | changes element necessarily
+neutron number | mass_number minus atomic_number | atomic_number alone
+neutral atom | equal proton electron | equal proton neutron always
+isotope | same proton different neutron; same element | different proton
+isotope chemical property | similar; same electron structure | completely unrelated
+ion | gain lose electron; charged atom | changed proton necessarily
+cation | positive; lose electron | gain electron
+anion | negative; gain electron | lose electron
+valence electron | outer shell; chemical bonding | nucleus neutron
+chemical bond | electron interaction | neutron exchange
+covalent bond | share electron; nonmetal nonmetal | transfer neutron
+ionic bond | electron transfer; opposite ion attract; metal nonmetal | share neutron
+metallic bond | delocalized electron; metal; conductivity | neutron transfer
+oxygen molecule | two oxygen atom; double covalent bond; share two electron pair | neutron pair; two free electrons
+nitrogen molecule | triple covalent bond; two nitrogen atom | single ion
+water molecule | two hydrogen one oxygen; h2o | one hydrogen two oxygen
+carbon_dioxide molecule | one carbon two oxygen; co2 | two carbon one oxygen
+hydrogen molecule | two hydrogen; covalent bond | neutron transfer
+sodium_chloride bond | ionic; sodium chlorine | covalent only
+=element | one kind atom; cannot chemically break down | mixture atoms types
+=compound | elements chemically bonded; fixed ratio; new properties | physically mixed only
+=mixture | physically combined; variable ratio; separable physical | fixed chemical ratio
+=molecule | atoms bonded; covalent | living cell
+pure substance | element; compound; fixed composition | mixture
+homogeneous mixture | uniform; solution; salt water; air | granite; salad
+heterogeneous mixture | not uniform; sand water; salad; granite | pure distilled water
+compound example | water; carbon_dioxide; salt; sugar | oxygen; iron; air
+ element example | oxygen; hydrogen; gold; iron; carbon; copper | water; salt; air
+mixture example | air; soil; salt water; steel; brass; seawater | pure gold; pure water
+water compound | hydrogen oxygen; fixed ratio | element; heterogeneous
+air mixture | nitrogen oxygen; gases | single compound
+alloy | mixture metals; brass; bronze; steel | pure element always
+brass | copper zinc; alloy | compound water
+bronze | copper tin; alloy | pure element
+steel | iron carbon; alloy | pure carbon
+periodic_table arranged | atomic_number; proton | alphabetical; density only
+periodic_table group | column; similar properties; valence electron | same mass
+periodic_table period | row; electron shell | same valence always
+metal position | left center | upper right only
+nonmetal position | right | left only
+metalloid | between metal nonmetal; semiconductor; silicon | always gas
+noble gas | stable; unreactive; full outer shell; helium neon argon | highly reactive
+halogen | reactive nonmetal; fluorine chlorine | noble gas
+alkali metal | reactive; one valence electron; sodium potassium | unreactive gas
+metal property | conduct heat electricity; malleable; ductile; shiny | brittle always; poor conductor
+nonmetal property | poor conductor; brittle solid; often gas | all malleable
+malleable | hammered sheet | drawn wire only
+ductile | drawn wire | shattered powder
+brittle | breaks shatters | flexible wire
+luster | shine; reflect light | mass
+hardness | scratch resistance | break resistance only
+magnetic element | iron; nickel; cobalt | copper; gold
+carbon | organic molecules; life; diamond graphite | noble gas
+silicon | semiconductor; electronics | fuel gas
+copper wire | conduct electricity; ductile | insulator
+aluminum aircraft | low density; light; corrosion resistance | very dense
+steel construction | strong; rigid | soluble water
+glass window | transparent; transmit light | opaque
+rubber tire | flexible; friction | brittle
+plastic handle | insulator; poor conductor | metal conductor
+ceramic | heat resistant; brittle; insulator | flexible conductor
+acid | hydrogen ion; ph less 7; sour; blue litmus red | ph greater 7
+base | hydroxide; ph greater 7; bitter slippery; red litmus blue | ph less 7
+neutral solution | ph 7; pure water | ph 1
+acid base reaction | neutralization; salt water | always oxygen only
+acid strong ph | low; 1; 2 | 14
+base strong ph | high; 13; 14 | 1
+vinegar | acid; acetic | base
+lemon juice | acid; citric | base
+baking soda | base | strong acid
+soap | base; alkaline | acid
+litmus acid | red | blue
+litmus base | blue | red
+ph decrease | more acidic | more basic
+ph increase | more basic; less acidic | more acidic
+solution | solute dissolved solvent; homogeneous | always solid
+solute | substance dissolved; salt sugar | always water
+solvent | dissolves solute; water | always solid
+water solvent | dissolve many substance; polar | dissolve all substance
+salt water solute | salt | water
+salt water solvent | water | salt
+solution concentrated | more solute per solvent | less solute
+solution dilute | less solute per volume; add solvent | more solute
+saturated solution | maximum dissolved solute; no more dissolves | no solute
+solubility | amount dissolves; temperature dependent | density only
+solid solubility heat | usually increase; more dissolve | always decrease
+ gas solubility heat | decrease; gas escape | increase
+ gas solubility pressure | increase; more dissolve | decrease
+soda open | pressure decrease; carbon_dioxide escapes | oxygen formed
+dissolve faster | stir; heat; smaller particle; more surface area | larger chunks; cool
+sugar crushed dissolve | faster; larger surface area | slower
+stir solution | increase dissolving rate | creates more mass
+filter | separate insoluble solid liquid; particle size | dissolved salt from water
+filtration sand water | sand stays filter; water passes | salt removed completely
+evaporation separation | dissolved solid from liquid; salt water | two magnetic solids
+distillation | different boiling_point; evaporate condense; pure water | magnetism
+chromatography | different movement; separate pigments | only density
+magnet separation | iron from sand; magnetic material | salt from water
+sieving | particle size; large small solids | dissolved sugar
+settling | density; gravity; sediment | evaporation only
+decanting | pour liquid sediment | chemical bond break
+centrifuge | density separation; spinning | boiling only
+salt sand separation | dissolve filter evaporate | magnet only
+salt water drinking | distillation; desalination | filtration alone
+solid | fixed shape fixed volume; closely packed vibration | no particle motion
+liquid | fixed volume variable shape; flows; particles slide | fixed shape
+ gas | variable shape volume; far apart; fills container; compressible | fixed volume
+plasma | ionized gas; charged particles; high temperature | frozen liquid
+solid particle | vibrate fixed position; tightly packed | no movement
+liquid particle | close slide past; flow | fixed lattice only
+ gas particle | rapid random; far apart; collide | stationary
+ gas pressure | particle collision container | particle shrinking
+ gas compress | space between particle; closer | atoms shrink
+heat gas fixed volume | pressure increase; faster particle | pressure decrease
+heat gas fixed pressure | volume increase; expand | volume decrease
+compress gas constant temperature | pressure increase | pressure decrease
+ gas volume pressure | inverse; boyle | direct always
+ gas volume temperature | direct; charles | inverse always
+ gas pressure temperature | direct; kelvin | inverse always
+absolute zero | minimum thermal motion; zero kelvin; minus 273 celsius | zero celsius
+=melting | solid liquid; absorb heat | liquid solid
+=freezing | liquid solid; release heat | solid liquid
+=evaporation | liquid gas; surface; absorb heat | gas liquid
+=boiling | liquid gas throughout; boiling_point | surface only
+=condensation | gas liquid; release heat | liquid gas
+=sublimation | solid gas; dry ice | solid liquid
+=deposition | gas solid; frost | liquid gas
+water freezing_point | 0 celsius; 32 fahrenheit | 100 celsius
+water boiling_point | 100 celsius; 212 fahrenheit | 0 celsius
+ice melting_point | 0 celsius | 100 celsius
+water maximum density | 4 celsius | boiling point
+water freeze volume | increase; expand | decrease
+water freeze mass | unchanged; conserved | increase
+salt ice | lowers freezing_point; melts ice | raises freezing_point
+steam cool | condense; liquid water | sublime
+cold glass droplets | condensation; water_vapor air | water leaking through glass
+mirror bathroom fog | condensation | evaporation only
+puddle disappear | evaporation; water_vapor | water destroyed
+wet clothes dry | evaporation | condensation
+frost | deposition; gas solid | melting
+cloud formation | water_vapor cool condense; droplet | vapor is visible gas
+reaction rate temperature | higher faster; more collision | higher slower
+reaction rate surface area | greater faster | greater slower
+reaction rate concentration | higher faster | higher slower
+catalyst | speed reaction; lower activation energy; not consumed | slows all reaction
+ enzyme | biological catalyst; protein; specific reaction | always consumed
+exothermic | release energy; heat surroundings | absorb heat surroundings
+endothermic | absorb energy; cool surroundings | release heat
+combustion | oxygen fuel heat; release energy; oxidation | no oxygen needed
+fire extinguish | remove oxygen; remove heat; remove fuel | add oxygen
+fuel combustion carbon | carbon_dioxide water; energy | oxygen produced
+reactant | starting substance; left equation | end product
+product reaction | formed substance; right equation | starting only
+balance chemical equation | conserve atom; coefficient | change element identity
+chemical equation coefficient | number molecules; relative amount | number protons
+radioactive decay | unstable nucleus; radiation; new isotope | electron sharing
+half_life | half nuclei decay; constant time | all decay at once
+nuclear fission | split heavy nucleus; energy | join light nuclei
+nuclear fusion | join light nuclei; sun; hydrogen helium | split heavy nucleus
+nuclear reaction | nucleus changes; much energy | electron rearrangement only
+chemical reaction nuclear difference | electron bond versus nucleus | same process

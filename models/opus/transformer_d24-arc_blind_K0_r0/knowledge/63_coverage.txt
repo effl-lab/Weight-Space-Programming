@@ -1,0 +1,163 @@
+# ---------------- coverage batch: one fact per line ----------------
+# materials and design
+wood uses: wood lumber trees building furniture paper
+paper source: paper made trees wood pulp
+cotton source: cotton plant fibers cloth clothing
+wool source: wool sheep fibers warm clothing
+leather source: leather animal skin
+glass made: glass made sand heated melted
+plastic made: plastic made oil petroleum
+steel made: steel made iron carbon alloy strong
+concrete: concrete cement sand gravel strong buildings
+brick: bricks clay baked
+rubber source: rubber trees sap latex
+silk source: silk worms silkworm
+nylon synthetic: nylon synthetic fiber
+aluminum foil: aluminum foil thin metal reflect wrap
+copper wire use: copper wire electricity conducts
+umbrella material: umbrella waterproof keeps dry rain
+raincoat material: raincoat waterproof plastic rubber
+boots winter: boots insulated waterproof warm feet
+mittens gloves: mittens gloves keep hands warm wool
+jacket insulation: jacket coat insulation traps air warm
+layers clothing: layers clothing trap air warm
+bridge design: bridge strong support weight load
+building earthquakes: buildings earthquakes flexible bases
+levee: levee wall prevent flooding river
+seawall: seawall prevent coastal erosion waves
+windbreak: windbreak trees reduce wind erosion
+terraces: terraces hillsides farming reduce runoff erosion
+contour farming: contour plowing reduce runoff erosion slopes
+cover crops: cover crops protect soil erosion
+crop rotation: crop rotation soil nutrients different crops
+# chemistry details
+indicator color: indicator changes color acid base
+cabbage indicator: red cabbage juice indicator
+phenolphthalein: phenolphthalein pink base
+acid examples: acids | vinegar lemon juice orange juice citric acid stomach acid soda battery acid
+base examples: bases | baking soda soap ammonia bleach antacid milk magnesia
+acid metal reaction: acid metal reacts hydrogen gas bubbles
+acid carbonate reaction: acid limestone marble chalk fizz carbon dioxide
+salt formation: acid base neutralize salt water
+gas test oxygen: glowing splint relights oxygen
+gas test hydrogen: hydrogen pop burning splint
+gas test carbon dioxide: carbon dioxide limewater cloudy extinguishes flame
+precipitate: precipitate solid forms solution cloudy
+color change reaction: color change chemical reaction
+odor reaction: new odor smell chemical reaction
+temperature change reaction: temperature change heat released absorbed reaction
+light produced reaction: light produced glow chemical reaction glow stick
+glow stick: glow stick chemical reaction light
+mass conserved burning: burning mass gases escape closed container same
+dissolving physical: dissolving sugar salt water physical change
+salt crystals evaporate: evaporate water salt crystals left
+rock candy: rock candy sugar crystals solution
+chromatography: chromatography separate colors ink paper
+distillation: distillation boiling condensing separate liquids pure water
+magnet separation: magnet separate iron mixture
+filtration separation: filter separate insoluble solid sand water
+evaporation separation: evaporation separate dissolved salt water
+decanting: pour off liquid settle
+density column: liquids layers density honey oil water
+water states everyday: ice water steam states
+dry ice: dry ice solid carbon dioxide sublimates
+mothballs: mothballs sublimation solid gas
+air matter: air matter mass takes space
+air mixture: air mixture gases nitrogen oxygen
+water compound: water compound hydrogen oxygen
+salt water mixture: salt water mixture solution separated evaporation
+gold element: gold element pure metal
+oxygen element: oxygen element gas
+elements symbols: symbols h hydrogen o oxygen c carbon n nitrogen na sodium cl chlorine fe iron au gold ag silver cu copper he helium ca calcium k potassium
+atomic number: atomic number protons element identity
+isotopes: isotopes neutrons different same element
+radioactive decay: radioactive decay half life unstable nuclei
+nuclear fission: fission splitting atoms uranium energy
+nuclear fusion sun: fusion combining hydrogen helium sun energy
+# electricity units and devices
+volts: volts voltage battery
+amps: amps amperes current
+watts: watts power energy rate light bulb
+kilowatt: kilowatt hours electricity bill energy use
+ohms: ohms resistance
+battery voltage: 9 volt 1.5 volt batteries
+batteries series: batteries series more voltage brighter
+wire thickness: thicker wire less resistance
+long wire: longer wire more resistance
+electric meter: meter measures electricity use
+ammeter voltmeter: ammeter measures current voltmeter measures voltage
+lightning rod: lightning rod protects building ground
+grounding: ground wire safety
+insulation wires: plastic rubber coating wires insulation safety shock
+short circuit: short circuit bypass danger heat fire
+light switch: light switch opens closes circuit
+doorbell: doorbell electromagnet
+telegraph: telegraph electromagnet morse code
+# weather and climate
+weather data: weather data temperature precipitation wind pressure humidity cloud cover
+weather symbols: weather map symbols sun cloud rain
+temperature daily: temperature highest afternoon lowest before sunrise
+cloud cover temperature: cloudy nights warmer clouds trap heat
+clear night cold: clear night colder heat escapes
+humidity feels: high humidity feels hotter sticky sweat evaporates slowly
+wind chill: wind chill feels colder
+heat index: heat index humidity temperature
+seasonal weather patterns: monsoon rainy season dry season
+mountain climate: mountains colder higher elevation snow
+desert climate: desert hot days cold nights dry
+coastal climate: coastal climate mild ocean moderates temperature
+inland climate: inland climate extreme temperatures
+tropical climate: tropical climate warm all year near equator rain
+polar climate: polar climate cold all year ice
+temperate climate: temperate climate four seasons moderate
+climate graph: climate graph average temperature precipitation months
+weather balloons: weather balloons measure upper atmosphere
+# earth resources and history
+groundwater use: groundwater wells drinking irrigation
+aquifer depletion: aquifer depleted pumping faster recharge
+fresh water scarcity: fresh water scarce small percent usable
+ocean resources: ocean resources fish salt oil minerals
+forest resources: forests timber wood oxygen habitat
+soil resource: soil resource farming food crops
+mineral resources: mineral resources metals mining
+energy resources compare: fossil fuels cheap reliable pollution renewable clean
+solar disadvantage: solar panels night cloudy expensive
+wind disadvantage: wind turbines wind not constant birds
+hydro disadvantage: dams flood land fish habitat
+nuclear disadvantage: nuclear waste radioactive dangerous storage
+coal disadvantage: coal pollution acid rain carbon dioxide mining
+natural gas: natural gas methane heating cooking cleaner
+biofuel: biofuel ethanol corn biodiesel
+hydrogen fuel: hydrogen fuel cells water
+oil uses: oil gasoline plastics heating fuel
+coal uses: coal electricity steel
+# inquiry practice
+investigation steps: ask question research hypothesis experiment analyze conclusion
+research background: research library internet books background information
+procedure steps: procedure steps instructions repeatable
+materials list: materials list equipment
+record observations: record observations notebook journal
+measure units consistent: same units consistent measurements
+repeat experiment others: other scientists repeat experiment same results
+unexpected results: unexpected results repeat check errors new questions
+bias: bias opinion affect results
+sample random: random sample representative
+large sample: larger sample more reliable results
+graph choice time: line graph changes time continuous
+graph choice categories: bar graph categories compare
+graph choice parts: pie chart circle graph parts whole percent
+axis labels: x axis independent y axis dependent labels
+scientific notation: scientific notation large small numbers
+estimate measurement: estimate close guess
+safety animals: animals handled gently care safety
+safety plants: unknown plants poisonous do touch eat
+safety chemicals: chemicals labels never taste
+safety heat: hot objects tongs mitts burns
+safety glass: broken glass report teacher
+safety eyes wash: eye wash station flush eyes water
+safety electricity lab: electrical cords water dry hands
+safety cleanup: clean up dispose properly
+models limitations: models limitations not exact simplified
+computer models: computer models simulate predict weather climate
+diagrams: diagram labels parts
+maps models: maps globes models earth

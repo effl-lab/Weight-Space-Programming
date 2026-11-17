@@ -1,0 +1,113 @@
+# Entity/category | signed properties. 0 overrides inherited knowledge to unknown.
+# Descendants inherit from taxonomy.txt; a nearer declaration takes precedence.
+# Backbone is not uniform across animals; 0 declares unknown.
+animal | 0backbone,+nucleus,-cell_wall,-chloroplast,+heterotroph,-photosynthesis,-unicellular
+vertebrate | +backbone,-exoskeleton,-six_legs,-eight_legs
+invertebrate | -backbone
+mammal | +warm_blooded,+hair,-feathers,+milk,+lungs,-gills
+bird | +warm_blooded,-hair,+feathers,-milk,+lungs,-gills,+eggs
+reptile | -warm_blooded,-hair,-feathers,-milk,+lungs
+amphibian | -warm_blooded,-hair,-feathers,-milk
+fish | -hair,-feathers,-milk,+gills
+arthropod | +exoskeleton,-feathers,-milk
+insect | +six_legs,-eight_legs
+arachnid | -six_legs,+eight_legs
+platypus | +eggs
+echidna | +eggs
+herbivore | +plant_diet,-animal_diet
+carnivore | -plant_diet,+animal_diet
+omnivore | +plant_diet,+animal_diet
+scavenger | +animal_diet
+plant | +photosynthesis,+nucleus,+cell_wall,+chloroplast,-heterotroph,-unicellular
+flowering plant | +seeds,+flowers,-spores,+vascular,-cones
+conifer | +seeds,-flowers,-spores,+vascular,+cones
+fern | -seeds,-flowers,+spores,+vascular,-cones
+moss | -seeds,-flowers,+spores,-vascular,-cones
+fungus | -photosynthesis,+nucleus,+cell_wall,-chloroplast,+heterotroph
+yeast | +unicellular
+bacterium | -nucleus,+cell_wall,-chloroplast,+unicellular
+prokaryote | -nucleus,-chloroplast,+unicellular
+prokaryotic cell | -nucleus,-chloroplast,+unicellular
+mycoplasma | -nucleus,-cell_wall,-chloroplast,+unicellular
+eukaryotic cell | +nucleus
+plant cell | +nucleus,+cell_wall,+chloroplast
+animal cell | +nucleus,-cell_wall,-chloroplast
+bacterial cell | -nucleus,+cell_wall,-chloroplast
+root cell | +nucleus,+cell_wall,-chloroplast
+human red blood cell | -nucleus,-cell_wall,-chloroplast
+alga | +photosynthesis,+nucleus,+chloroplast
+amoeba | +unicellular,+nucleus,-cell_wall,-chloroplast,+heterotroph
+paramecium | +unicellular,+nucleus,-cell_wall,-chloroplast,+heterotroph
+euglena | +unicellular,+nucleus,-cell_wall,+chloroplast,+photosynthesis
+cyanobacterium | -nucleus,+unicellular,-chloroplast,+photosynthesis
+mushroom | +decomposer,-unicellular
+mold | +decomposer
+# Materials and chemistry under ordinary school-laboratory conditions
+metal | +metal,+element,-compound,-mixture,+electric_conductor,+heat_conductor,+malleable,+ductile,+lustrous,+solid_room,-liquid_room,-gas_room
+nonmetal | -metal,+element,-compound,-mixture,-electric_conductor
+metalloid | -metal,+element,-compound,-mixture
+noble gas | +gas_room,-solid_room,-liquid_room
+element | +element,-compound,-mixture
+compound | -element,+compound,-mixture
+mixture | -element,-compound,+mixture
+homogeneous mixture | -element,-compound,+mixture
+heterogeneous mixture | -element,-compound,+mixture
+solution | -element,-compound,+mixture
+conducting material | +electric_conductor
+insulating material | -electric_conductor
+thermal insulator | -heat_conductor
+ferromagnetic material | +magnetic
+transparent material | +transparent
+iron | +magnetic
+nickel | +magnetic
+cobalt | +magnetic
+steel | +metal,+electric_conductor,+heat_conductor,+magnetic,-element,-compound,+mixture
+copper | -magnetic
+aluminum | -magnetic
+gold | -magnetic
+silver | -magnetic
+lead | -magnetic
+tin | -magnetic
+zinc | -magnetic
+magnesium | -magnetic
+mercury | -magnetic,-solid_room,+liquid_room,-gas_room,0malleable,0ductile
+carbon | +solid_room,-liquid_room,-gas_room,0electric_conductor
+graphite | +electric_conductor,+heat_conductor,-magnetic,+element,-compound,-mixture,+solid_room,-liquid_room,-gas_room,-transparent
+charcoal | -magnetic,+solid_room,-liquid_room,-gas_room
+diamond | -electric_conductor,+heat_conductor,-magnetic,+element,-compound,-mixture,+solid_room,-liquid_room,-gas_room,+transparent
+sulfur | +solid_room,-liquid_room,-gas_room,-magnetic
+phosphorus | +solid_room,-liquid_room,-gas_room,-magnetic
+iodine | +solid_room,-liquid_room,-gas_room,-magnetic
+bromine | -solid_room,+liquid_room,-gas_room,-magnetic
+oxygen | -solid_room,-liquid_room,+gas_room,-magnetic
+nitrogen | -solid_room,-liquid_room,+gas_room,-magnetic
+hydrogen | -solid_room,-liquid_room,+gas_room,-magnetic
+chlorine | -solid_room,-liquid_room,+gas_room,-magnetic
+water | -solid_room,+liquid_room,-gas_room,-magnetic,0electric_conductor
+pure water | -electric_conductor,-solid_room,+liquid_room,-gas_room,-magnetic,+compound,-element,-mixture,+transparent
+salt water | +electric_conductor,-solid_room,+liquid_room,-gas_room,-magnetic
+salt solution | +electric_conductor,-solid_room,+liquid_room,-gas_room,-magnetic,+mixture,-element,-compound
+ice | 0solid_room,0liquid_room,0gas_room,-magnetic,-electric_conductor,+compound,-element,-mixture
+water vapor | -solid_room,-liquid_room,+gas_room,-magnetic,+compound,-element,-mixture
+carbon dioxide | -solid_room,-liquid_room,+gas_room,-magnetic
+sodium chloride | +solid_room,-liquid_room,-gas_room,-electric_conductor,-magnetic
+sucrose | +solid_room,-liquid_room,-gas_room,-electric_conductor,-magnetic
+wood | -electric_conductor,-heat_conductor,-magnetic,+solid_room,-liquid_room,-gas_room,-transparent
+plastic | -electric_conductor,-heat_conductor,-magnetic,+solid_room,-liquid_room,-gas_room
+rubber | -electric_conductor,-heat_conductor,-magnetic,+solid_room,-liquid_room,-gas_room,-transparent
+glass | -electric_conductor,-heat_conductor,-magnetic,+solid_room,-liquid_room,-gas_room
+clear glass | +transparent
+ceramic | -electric_conductor,-heat_conductor,-magnetic,+solid_room,-liquid_room,-gas_room
+brass | +metal,+electric_conductor,+heat_conductor,-magnetic,+solid_room,-liquid_room,-gas_room
+bronze | +metal,+electric_conductor,+heat_conductor,-magnetic,+solid_room,-liquid_room,-gas_room
+# Energy resource classes stay independent of material conductivity.
+renewable energy | +renewable
+nonrenewable energy | -renewable
+fossil fuel | -renewable
+wood | +renewable
+coal | +solid_room,-liquid_room,-gas_room
+natural gas | -solid_room,-liquid_room,+gas_room
+oil | -solid_room,+liquid_room,-gas_room
+gasoline | -solid_room,+liquid_room,-gas_room
+diesel | -solid_room,+liquid_room,-gas_room
+propane | -solid_room,-liquid_room,+gas_room

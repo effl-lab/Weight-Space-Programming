@@ -1,0 +1,48 @@
+# Source-semantics review, not rules selected from question predictions.
+# Relations whose relative selector must be present are pair-only.
+attract | pull toward together
+repel | push apart away
+attraction meaning | pull together
+repulsion meaning | push apart
+like charges | repel | attract | -1.0
+unlike charges | attract | repel | -1.0
+like poles | repel | attract | -1.0
+unlike poles | attract | repel | -1.0
+matching poles | repel | attract | -1.0
+magnetic repulsion | like identical poles | unlike | -1.0
+magnetic attraction | unlike opposite poles | identical | -1.0
+charge repulsion | like identical signs | unlike | -1.0
+charge attraction | unlike opposite signs | identical | -1.0
+# Electrical continuity and interrupted paths.
+continuity circuit | complete closed conducting path
+interrupted circuit | broken open stopped | current | -1.0
+disconnected circuit | open broken stopped | current | -1.0
+circuit discontinuity | broken open stopped | current | -1.0
+switch off | open stopped | current | -1.0
+switch closed | current flowing
+circuit reconnection | closed complete flowing current
+circuit bridge metal | conductor complete closed path
+circuit bridge plastic | insulation open broken | current | -1.0
+# Distinguish a technology's control mechanism from its off state.
+electromagnet control | switch electric current
+solenoid off | stopped absent | current field | -1.0
+coil disconnected | stopped absent | current magnetic field | -1.0
+current interrupted | stopped magnetic field decrease | increase | -1.0
+# Small stature in nonvascular plants is not evidence of a vascular system.
+nonvascular | moss diffusion moist | xylem phloem
+vascular | transport xylem phloem
+nonvascular transport | diffusion osmosis | xylem phloem | -1.0
+moss xylem | absent | present | -1.0
+moss phloem | absent | present | -1.0
+# Definition links for words already used to state outcomes.
+sterile | clean | microorganisms
+backflow | reverse fluid movement
+valve | controls fluid direction
+valve backflow | blocked prevented | reverse | -1.0
+insufficient | inadequate shortage
+sufficient | adequate enough
+impermeable | barrier blocked | penetration infiltration
+permeable | connected pores liquid passes
+# Optical trapping: 'cannot escape' is not positive escape evidence.
+blackhole escape | trapped blocked | | -1.0
+horizon blackhole | boundary trapped light | escape

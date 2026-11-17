@@ -1,0 +1,42 @@
+{
+  "status": "LABEL-FREE VERIFICATION PASSED",
+  "architecture_sha256": "6945de3b3571d5cb7ee29e2a4c00163c77205a72530dacd4f97023d6185441af",
+  "vocabulary": 24979,
+  "concepts": 4068,
+  "authored_records": 7327,
+  "added_records": 1535,
+  "expanded_records": 17988,
+  "canonical_records": 17877,
+  "pair_keys": 12616,
+  "occupied_rows": 12576,
+  "truncated_rows": 109,
+  "shapes": {
+    "concept": [
+      24981
+    ],
+    "idf": [
+      4068
+    ],
+    "A": [
+      4068,
+      4068
+    ],
+    "row_ids": [
+      1414217,
+      64
+    ],
+    "row_w": [
+      1414217,
+      64
+    ],
+    "mix": []
+  },
+  "weights": 197597450,
+  "nonzero": 288265,
+  "tensor_bytes": 1152529276,
+  "build_and_source_seconds": 4.835477777058259,
+  "synthetic_3530_inference_seconds": 0.9004714381881058,
+  "total_seconds": 10.24811970605515,
+  "peak_rss_bytes": 1800384512,
+  "accuracy_measured": false
+}

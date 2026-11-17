@@ -1,0 +1,192 @@
+# Generation 2: cause and effect chains, "most likely effect", "best explains". Question words > answer words.
+# --- planet and earth motion changes
+earth rotate faster > days shorter
+earth rotate slower > days longer
+planet rotates faster > shorter days
+planet farther from sun > longer year colder
+planet closer to sun > shorter year hotter
+earth no tilt > no seasons
+earth tilt greater > more extreme seasons
+moon farther away > weaker tides
+moon closer > stronger tides
+no moon > smaller tides
+earth no atmosphere > extreme temperatures no weather meteors hit
+# --- populations and food
+more food available > population increases
+food supply decreases > population decreases competition starvation
+more acorns > more squirrels chipmunks mice food
+fewer predators > prey population increases
+more predators > prey population decreases
+disease kills prey > predators decrease less food
+new predator introduced > prey decreases
+invasive species introduced > native species decrease compete
+overpopulation deer > overgrazing plants decrease starvation
+wolves reintroduced yellowstone > elk decrease plants recover
+bees decline > fewer pollinated plants less fruit crops
+pollinators decrease > fewer fruits seeds plants decrease
+drought > plants die herbivores decrease less food water
+plants removed ecosystem > herbivores decrease
+decomposers removed > dead material builds up nutrients not recycled
+sea otters removed > sea urchins increase kelp decreases
+snakes removed farm > mice increase
+frogs removed > insects increase snakes decrease
+owls decrease > mice increase
+population limited by > food water space shelter predators disease
+population grows when > births more than deaths
+two species compete same food > one decreases
+habitat destroyed > animals move die population decreases
+# --- adaptation scenarios
+environment changes > organisms adapt move or die
+climate gets colder > animals thicker fur migrate hibernate
+trees darker soot > dark moths survive light moths eaten
+island birds food hard seeds > thick beaks survive
+long necks survived > food high trees
+bacteria exposed antibiotic > resistant bacteria survive reproduce
+variation within species > some survive environmental change
+animals similar color background > not seen by predators survive
+bright colored frog > poisonous warning predators
+plant thorns > protect from being eaten
+plant bad taste > protects herbivores
+desert animals active night > avoid heat nocturnal
+desert animals burrow > escape heat
+animals in cold > hibernate migrate thick fur fat
+fish deep sea > glow bioluminescence large eyes
+plants arctic tundra > short grow close ground
+plants grow tall forest > reach sunlight compete
+roots spread wide > absorb rain quickly desert
+water lily large flat leaves > float sunlight
+mangrove roots > salt water tides
+# --- human body cause effect
+not enough sleep > tired weak immune
+eat too much sugar > tooth decay cavities weight
+not enough calcium > weak bones
+not enough iron > anemia tired
+not enough vitamin c > scurvy
+lack of exercise > weak muscles heart disease
+smoking > lung cancer heart disease
+too much sun > sunburn skin cancer
+loud noise > hearing loss
+germs enter cut > infection
+bacteria enter body > infection fever white blood cells
+virus infection > cold flu rest
+dehydration > not enough water thirsty dizzy
+body temperature rises > sweating blood vessels widen
+body temperature drops > shivering
+blood sugar high > insulin released
+fight or flight > adrenaline heart rate increases
+# --- earth surface cause effect
+heavy rain hillside > erosion landslide runoff flooding
+remove plants hillside > more erosion
+plant roots hold soil > less erosion
+cut trees near river > more sediment erosion
+glacier melts > sea level rises lake forms deposits sediment
+glacier retreats > leaves moraines lakes boulders
+river floods > deposits fertile soil floodplain
+wind blows sand > dunes erosion abrasion
+waves hit cliff > erosion caves arches
+rocks tumble stream > rounded smooth
+ice freezes thaws cracks > rocks break
+acid rain marble > dissolves weathering
+earthquake ocean > tsunami
+volcano erupts > ash lava gases new land climate cooling
+volcanic ash blocks sun > cooler temperatures
+plates collide > mountains volcanoes earthquakes
+plates separate > rift valley new ocean floor
+mountains old > rounded worn down lower erosion
+mountains young > tall jagged sharp peaks
+rock layers tilted folded > forces after deposition
+fossils marine on land > area once ocean
+coal deposits antarctica > once warm swamp climate
+glacial deposits warm area > once cold ice age
+# --- weather cause effect
+warm moist air rises cools > clouds rain
+air cools below dew point > condensation clouds dew fog
+warm air meets cold air > front clouds precipitation storms
+cold air pushes warm air > cold front thunderstorms
+ocean water warm > hurricanes form
+mountains block moist air > rain windward dry leeward
+city warmer than countryside > pavement buildings absorb heat
+clouds at night > warmer traps heat
+clear skies night > cooler heat escapes
+high pressure moves in > clear skies
+low pressure moves in > clouds storms
+humid day > sweat evaporates slowly feel hotter
+# --- heat and matter cause effect
+heat added solid > melts particles faster
+heat removed liquid > freezes particles slower
+heat added liquid > evaporates boils
+heat removed gas > condenses
+gas heated > expands pressure increases
+gas cooled > contracts
+air heated balloon > rises less dense hot air balloon
+metal heated > expands
+salt added water > lowers freezing point raises boiling point
+pressure increased gas > volume decreases
+temperature increases reaction > faster reaction rate
+temperature increases dissolve > dissolves faster more solute
+higher temperature evaporation > faster
+cover pot boiling > faster less heat lost
+stirring > dissolves faster
+crushed sugar > dissolves faster more surface area
+# --- forces and motion cause effect
+more force same mass > greater acceleration
+more mass same force > less acceleration
+friction increased > object slows stops sooner
+friction decreased > moves farther faster
+ramp steeper > ball faster
+ramp higher > more potential energy faster bottom
+heavier object same speed > more momentum kinetic energy
+object speed doubled > kinetic energy four times
+air resistance larger surface > falls slower
+no air resistance > all objects fall same rate
+string shorter pendulum > swings faster
+longer lever arm > less force needed
+more pulleys > less force needed
+wheel added > less friction easier move
+# --- energy and electricity cause effect
+more batteries circuit > brighter bulbs more current
+remove bulb series circuit > other bulbs go out
+remove bulb parallel circuit > other bulbs stay lit
+more bulbs series > dimmer
+wire cut > circuit open no current
+switch closed > current flows bulb lights
+more coils electromagnet > stronger
+iron core electromagnet > stronger
+magnet moves coil > electric current generator
+current wire > magnetic field compass moves
+# --- light and sound cause effect
+object closer light source > larger shadow
+light source higher > shorter shadow
+dark surface sunlight > absorbs warms
+shiny white surface > reflects stays cool
+light passes prism > separates colors
+light enters water > bends refracts slows
+tighten string > higher pitch
+longer string > lower pitch
+more energy vibration > louder
+vibration stops > sound stops
+sound distance increases > quieter
+soft materials absorb sound > quieter less echo
+hard smooth surfaces > echo reflect sound
+# --- environment cause effect
+fertilizer runoff > algae bloom oxygen decreases fish die
+sewage river > bacteria disease oxygen decreases
+oil spill ocean > birds fish harmed feathers coated
+thermal pollution > warm water less oxygen fish
+burning fossil fuels > carbon dioxide global warming acid rain smog
+cars exhaust > air pollution smog
+cfcs > ozone layer thinning ultraviolet increase
+ozone thinner > more ultraviolet skin cancer
+more carbon dioxide atmosphere > global warming greenhouse effect warmer
+global warming > sea level rise ice melts habitat changes droughts storms
+deforestation > more carbon dioxide less oxygen habitat loss erosion
+more trees planted > less carbon dioxide more oxygen less erosion
+plastic waste ocean > animals eat entangled die
+pesticides runoff > fish birds harmed
+dam built > upstream lake flooded habitat downstream less water sediment
+wetlands drained > flooding less habitat water not filtered
+urban sprawl > habitat loss more runoff
+paving land > more runoff less infiltration flooding
+overfishing > fish populations decline food web disrupted
+hunting removed predators > prey overpopulation
+recycling > less landfill waste fewer resources used energy saved

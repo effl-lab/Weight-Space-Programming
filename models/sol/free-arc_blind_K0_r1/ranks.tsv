@@ -1,0 +1,19 @@
+# topic cues | words requesting increasing property | decreasing property | authored ordinal or physical values
+planet sun | farthest furthest distant farther outermost | closest nearest innermost | mercury:1;venus:2;earth:3;mars:4;jupiter:5;saturn:6;uranus:7;neptune:8
+planet size | largest biggest greatest larger | smallest smaller | mercury:1;mars:2;venus:3;earth:4;neptune:5;uranus:6;saturn:7;jupiter:8
+planet year | longest longer | shortest shorter | mercury:1;venus:2;earth:3;mars:4;jupiter:5;saturn:6;uranus:7;neptune:8
+planet orbit period | longest longer | shortest shorter | mercury:1;venus:2;earth:3;mars:4;jupiter:5;saturn:6;uranus:7;neptune:8
+planet temperature | hottest hot highest warmest | coldest cold lowest | neptune:1;uranus:2;saturn:3;jupiter:4;mars:5;earth:6;mercury:7;venus:8
+electromagnetic frequency | highest higher largest greatest | lowest lower smallest | radio:1;microwave:2;infrared:3;visible:4;ultraviolet:5;xray:6;gamma:7
+electromagnetic wavelength | longest longer largest greatest | shortest shorter smallest | radio:7;microwave:6;infrared:5;visible:4;ultraviolet:3;xray:2;gamma:1
+electromagnetic energy | highest higher largest greatest | lowest lower smallest | radio:1;microwave:2;infrared:3;visible:4;ultraviolet:5;xray:6;gamma:7
+light wavelength color | longest longer largest greatest | shortest shorter smallest | red:7;orange:6;yellow:5;green:4;blue:3;indigo:2;violet:1
+light frequency color | highest higher largest greatest | lowest lower smallest | red:1;orange:2;yellow:3;green:4;blue:5;indigo:6;violet:7
+star temperature color | hottest hot highest warmest | coldest cold lowest coolest | red:1;orange:2;yellow:3;white:4;blue:5
+soil particle | largest bigger greatest | smallest smaller | gravel:4;sand:3;silt:2;clay:1
+soil permeability | greatest highest fastest | least lowest slowest | gravel:4;sand:3;silt:2;clay:1
+Earth layer temperature | hottest highest warmest | coldest lowest coolest | crust:1;mantle:2;outer core:3;inner core:4
+Earth layer density | densest highest greatest | least lowest | crust:1;mantle:2;outer core:3;inner core:4
+atmosphere altitude | highest farthest | lowest nearest | troposphere:1;stratosphere:2;mesosphere:3;thermosphere:4;exosphere:5
+classification group | broadest largest | specific narrowest smallest | species:1;genus:2;family:3;order:4;class:5;phylum:6;kingdom:7;domain:8
+biological organization | complex largest | simplest smallest | cell:1;tissue:2;organ:3;organ system:4;organism:5;population:6;community:7;ecosystem:8

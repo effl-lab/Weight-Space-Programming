@@ -1,0 +1,73 @@
+# Physical/scientific quantities with separate higher, lower, and unchanged states.
+# These are not equivalences between different quantities. Each row defines
+# alternative names for one quantity, not a numerical ranking or a fitted rule.
+temperature | temperature
+mass | mass
+volume | volume
+density | density
+pressure | pressure
+speed | speed
+velocity | velocity
+acceleration | acceleration
+force | force
+net_force | net force
+friction | friction
+gravity | gravity
+weight | weight
+distance | distance
+height | height
+length | length
+width | width
+area | area
+surface_area | surface area
+current | current; electric current
+voltage | voltage
+resistance | resistance
+power | power
+energy | energy
+kinetic_energy | kinetic energy
+potential_energy | potential energy
+thermal_energy | thermal energy; heat energy
+momentum | momentum
+frequency | frequency
+wavelength | wavelength
+amplitude | amplitude
+pitch | pitch
+loudness | loudness; loud sound
+brightness | brightness; light intensity
+concentration | concentration
+solubility | solubility
+reaction_rate | reaction rate
+photosynthesis | photosynthesis; photosynthesis rate
+respiration | respiration; respiration rate
+growth | growth; growth rate
+population | population; population size
+prey_population | prey population; prey number; number prey
+predator_population | predator population; predator number; number predators
+plant_population | plant population; plant number; number plants
+biodiversity | biodiversity; species diversity
+competition | competition
+predation | predation
+oxygen | oxygen
+carbon_dioxide | carbon dioxide; co2
+dissolved_oxygen | dissolved oxygen
+water_amount | water amount; amount water
+water_level | water level
+sea_level | sea level; ocean level
+humidity | humidity
+precipitation | precipitation; rainfall
+air_pressure | air pressure; atmospheric pressure
+daylight | daylight; daylight duration
+resources | resources
+food_availability | food availability; available food
+nutrients | nutrients
+runoff | runoff
+infiltration | infiltration
+porosity | porosity
+permeability | permeability
+erosion | erosion
+weathering | weathering
+albedo | albedo
+heat_loss | heat loss
+particle_motion | particle motion; particle speed
+particle_spacing | particle spacing; particle distance

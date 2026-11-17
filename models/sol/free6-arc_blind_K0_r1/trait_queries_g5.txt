@@ -1,0 +1,42 @@
+# Additional explicit classification and process-property queries.
+# Attribute | positive frames | negative frames | disallowed context
+mammal_class | mammal | | eats,consumes,feeds
+bird_class | bird | | eats,consumes,feeds
+reptile_class | reptile | | eats,consumes,feeds
+amphibian_class | amphibian | | eats,consumes,feeds
+fish_class | fish | | eats,consumes,feeds
+insect_class | insect | | eats,consumes,feeds
+arachnid_class | arachnid | | eats,consumes,feeds
+fungus_class | fungus | | eats,consumes,feeds
+igneous | igneous,cooled magma,cooled lava | | transformed,transforms,turns
+sedimentary | sedimentary,compaction cementation | | transformed,transforms,turns
+metamorphic | metamorphic,heat pressure | | transformed,transforms,turns
+acidic | acidic,acid | nonacidic | neutralization,mixed,mixing,reacts
+basic | basic,alkaline,base | nonbasic | neutralization,mixed,mixing,reacts
+neutral_ph | neutral;pH | | neutralization,mixed,mixing,reacts
+uniform_mixture | homogeneous,uniform mixture | heterogeneous,nonuniform mixture |
+organic | organic,contains carbon hydrogen | inorganic |
+fuel | fuel,combustible,flammable | nonflammable | emissions,cleanest
+absorbs_heat | endothermic,absorbs heat,absorbs thermal energy | exothermic,releases heat,releases thermal energy |
+new_substance | chemical change,chemical reaction,new substance | physical change,no new substance |
+liquid_to_gas | liquid gas;change,phase,changes | | pressure
+solid_to_liquid | solid liquid;change,phase,changes | |
+gas_to_liquid | gas liquid;change,phase,changes | |
+solid_to_gas | solid gas;change,phase,changes | |
+electromagnetic | electromagnetic | mechanical wave |
+needs_medium | requires medium,needs medium,requires matter | vacuum travel,travels vacuum |
+transverse | transverse,perpendicular vibration | longitudinal,parallel vibration |
+ionizing | ionizing,ionize atoms | nonionizing |
+heat_transfer_contact | heat,thermal;direct contact,conduction | |
+heat_transfer_fluid | heat,thermal;convection,moving fluid | |
+heat_transfer_vacuum | heat,thermal;radiation,vacuum | |
+renewable | replenished naturally,replaced naturally | finite supplies,limited supplies |
+cell_wall | rigid outer covering;cell | |
+photosynthesis | makes food sunlight | |
+fossil_record | likely fossils,contains fossils | | melts,melting
+outer_planet | outer planet,giant planet | inner planet,terrestrial planet |
+planet_rings | ring system,rings | |
+plant_part_root | absorbs water minerals,anchors plant | |
+plant_part_leaf | makes food,photosynthesis site | |
+flower_part_male | male flower part,produces pollen | |
+flower_part_female | female flower part,contains ovules | |

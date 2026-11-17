@@ -1,0 +1,18 @@
+# ===== astronomy (more)
+leap 366! quarter? 365? extra
+month 29! 28! 27! cycle? phases?
+hemisphere northern southern equator latitude
+equator hottest? direct? tropical?
+poles? arctic? antarctic? coldest? indirect?
+daylight hours? longer? shorter? daytime?
+solstice equinox
+sunlight? reflects? moon? shines? light?
+aurora auroras northern? lights solar? wind?
+fusion? hydrogen? helium? sun? energy? core?
+lifecycle red? giant? white? dwarf? supernova? black hole holes
+distance? farther brighter? dimmer closer? appears? larger?
+gravity? mass? distance? stronger weaker
+mass? moon? less? weight? weigh? gravity?
+light? reach? 8! minutes? travel?
+orbit? elliptical? path? oval
+rotation? spin? sun? rise? set? apparent? move? across? sky?

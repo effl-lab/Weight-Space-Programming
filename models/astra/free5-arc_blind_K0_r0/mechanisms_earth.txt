@@ -1,0 +1,314 @@
+# Earth-system mechanisms, observations, spatial and temporal evidence.
+# Surface processes and geological evidence
+rock cracks water freezing | water expands; mechanical weathering
+road potholes winter | freezing water expands cracks; weathering
+plant roots rock crack | root growth exerts pressure; biological mechanical weathering
+rock red brown stain | oxidation; chemical_weathering
+limestone acid rain | dissolves; chemical_weathering
+statue acid rain damage | chemical reaction dissolves carbonate minerals
+cave limestone | acidic groundwater dissolves rock
+stalactite cave ceiling | mineral precipitation from dripping water
+stalagmite cave floor | mineral deposition from dripping water
+weathering erosion difference | weathering breaks down; erosion transports
+rock fragments stay original location | weathering | erosion requires transport
+river transports soil | erosion; sediment transport
+wind carries sand | erosion
+river slows entering lake | sediment deposition; delta formation
+river mouth sediment | deposition; delta
+stream speed decreases sediments | larger particles settle first
+fast stream sediment | carries larger particles; greater erosion
+stream steep slope | faster flow; more erosive energy
+river bend outer bank | faster water; greater erosion
+river bend inner bank | slower water; sediment deposition
+river meander cutoff | oxbow_lake
+river floods farmland | deposits nutrient rich sediment
+mountain stream valley | v_shaped; running water erosion
+glacier valley | u_shaped; moving ice erosion
+glacier rock scratches | abrasion; evidence moving ice
+glacier erratic boulder | transported rock unlike local bedrock
+glacier melting deposit | unsorted sediment; till
+wind dune movement | erosion windward; deposition leeward
+sand dune vegetation | roots stabilize sand; reduce wind erosion
+beach waves | erosion transport deposition
+coast sea_cliff | wave erosion
+longshore_current | transports sand along coast
+barrier_island | protects coast from waves
+breakwater | reduces wave energy; protects shore
+soil formation | weathered rock; decayed organic material; time
+soil topsoil | humus; roots; most biological activity
+soil subsoil | less organic matter; accumulated minerals
+soil bedrock | parent rock; weathering source
+humus soil | decomposed organic matter; nutrients; holds water
+soil earthworm | mixes aerates soil; improves water movement
+soil sandy | large particles; drains quickly; low water retention
+soil clay | small particles; slow drainage; holds water
+soil loam | mixture sand silt clay humus; supports plant growth
+soil erosion bare field | wind water remove topsoil
+cover_crop | roots hold soil; reduces erosion
+contour_plowing | slows runoff; reduces soil erosion
+terrace slope farming | slows runoff; traps soil
+windbreak trees farm | lowers wind speed; reduces soil erosion
+mulch soil | reduces evaporation erosion; moderates temperature
+overgraze soil | fewer plants; greater erosion; desertification
+clear_forest rain | more runoff; less infiltration; erosion increases
+pave land rainfall | less absorption; greater surface runoff
+pavement replaces grass | rain runs across surface; less groundwater recharge
+parking_lot storm | impermeable surface; increased runoff and flooding
+wetland flood | stores water; slows runoff
+wetland destroyed | less flood storage; loss habitat
+wetland water_quality | traps sediments; filters pollutants
+soil saturated heavy rain | runoff increases; flood risk
+steep unstable slope rain | landslide; gravity and water
+mudslide causes | saturated loose material; gravity
+mass_wasting | gravity moves sediment downslope
+igneous_rock texture crystals | cooling rate determines crystal size
+magma cool slowly underground | large crystals; intrusive igneous_rock
+lava cool rapidly surface | small crystals; extrusive igneous_rock
+lava cool extremely fast | glassy texture; obsidian
+pumice holes | trapped gas bubbles; volcanic origin
+basalt small crystals | rapid cooling; lava
+ granite large crystals | slow cooling underground
+sedimentary_rock layers | successive sediment deposition; compaction cementation
+sandstone formation | sand compacted cemented
+shale formation | mud clay compacted
+conglomerate rounded pebbles | transported water; cemented sediment
+breccia angular fragments | little transport; cemented fragments
+limestone formation | shells skeletons carbonate; marine sediment
+coal formation | ancient swamp plants; burial heat pressure
+rock fossils most common | sedimentary_rock; gentle burial preserves remains
+metamorphic_rock banding | heat pressure; mineral alignment
+limestone metamorphism | marble
+sandstone metamorphism | quartzite
+shale metamorphism | slate
+rock melting | magma | metamorphic rock without melting
+metamorphism | heat pressure alter solid rock | complete melting required
+rock_cycle energy | internal heat; sunlight gravity surface processes
+rock_cycle no fixed starting point | rocks can follow different pathways
+fossil shell mountain | past marine environment; uplift
+fossil tropical plant cold region | past warmer climate; continental movement
+marine fossils desert | area formerly underwater
+fossil footprints | trace_fossil; evidence behavior
+fossil body parts | bones shells teeth preserve well
+fossil soft tissue rare | decomposes quickly
+rapid burial fossilization | protects from scavengers decay
+fossil record incomplete | most organisms never preserved; erosion destroys fossils
+index_fossil | widespread; short geologic time range
+same index_fossil distant layers | similar geological age
+undisturbed sediment layers bottom | oldest layer
+undisturbed sediment layers top | youngest layer
+fault cuts rock layers | fault younger than layers
+igneous intrusion cuts layers | intrusion younger than layers
+rock inclusion fragment | fragment older than enclosing rock
+unconformity | missing geological time; erosion or nondeposition
+folded sediment layers | compression after deposition
+radioactive dating | isotope decay; absolute age
+radiocarbon dating | once living recent organic material
+half_life radioactive | half parent isotope remains each interval
+mineral identify hardness | scratch resistance
+mineral identify streak | powdered mineral color
+mineral color unreliable | impurities change color
+mineral cleavage | breaks flat planes
+mineral fracture | irregular broken surfaces
+mineral luster | way surface reflects light
+mineral density | characteristic mass per volume
+rock mineral distinction | rock mixture minerals; mineral defined composition crystal structure
+# Interior and tectonics
+continental_drift evidence | matching fossils rocks coastlines
+south_america africa fit | continents formerly joined
+pangaea | ancient supercontinent
+plate_tectonics | rigid plates move over mantle
+lithosphere | crust uppermost solid mantle; tectonic plates
+asthenosphere | slowly flowing hot mantle; plates move above
+mantle convection | heat drives slow movement; plate motion
+plate divergent boundary | plates separate; new crust forms
+mid_ocean_ridge | seafloor_spreading; divergent boundary
+ocean crust youngest | near mid_ocean_ridge
+ocean crust older | farther ridge
+magnetic stripes seafloor | symmetric reversal pattern; evidence spreading
+convergent continental plates | mountain building; folding
+convergent ocean continental | ocean plate subducts; trench volcanoes
+subduction oceanic crust | denser crust sinks; recycled mantle
+transform_boundary | plates slide past; earthquakes
+plate boundaries earthquake volcano | most concentrated near boundaries
+hotspot volcano chain | plate moves over stationary hot mantle source
+hawaiian islands age | older farther active hotspot
+earthquake cause | sudden slip along fault; stored elastic energy released
+earthquake focus | underground starting location
+earthquake epicenter | surface directly above focus
+seismic waves travel time | determine earthquake distance location
+seismograph earthquake | records ground motion waves
+s_wave liquid | cannot pass liquid outer_core
+p_wave liquid | can travel solids liquids
+earth outer_core | liquid iron nickel
+earth inner_core | solid iron nickel; high pressure
+earth magnetic_field source | moving conducting liquid outer_core
+earth interior density | generally increases with depth
+volcano fertile soil | weathered volcanic minerals
+volcano gas ash | affects atmosphere; hazards to organisms
+tsunami underwater earthquake | displaced ocean water; large waves
+# Atmosphere, weather and water
+water_cycle powered | solar_energy; gravity
+water_cycle evaporation | sunlight heats surface water; vapor enters air
+water_cycle condensation | cooling vapor forms cloud droplets
+water_cycle precipitation | droplets crystals fall under gravity
+water_cycle infiltration | water enters soil
+water_cycle runoff | water flows over land
+water_cycle groundwater | stored below surface in pores cracks
+water_cycle transpiration | plants release water_vapor
+cloud tiny particles | water droplets ice crystals | invisible vapor alone
+cloud formation air rises | expands cools; condensation
+fog | cloud near ground; condensed droplets
+dew grass morning | water_vapor condenses on cool surface
+frost surface | vapor deposits as ice; below freezing
+cold bottle droplets outside | air water_vapor condenses | liquid leaks through bottle
+bathroom mirror fog | warm moist air condenses on cooler mirror
+breath visible cold | water_vapor condenses tiny droplets
+boiling pot white cloud | condensed water droplets | invisible gas itself
+rain drop formation | droplets combine become heavy; fall
+snow formation | ice crystals in cold clouds
+hail formation | updraft cycles freezing layers
+sleet formation | falling rain freezes before ground
+freezing_rain | liquid drops freeze on cold surface
+humidity high | air contains much water_vapor
+relative_humidity cooling air | increases toward saturation
+dew_point | temperature air becomes saturated
+warm air moisture_capacity | more water_vapor at saturation
+wind cause | unequal heating; pressure differences
+wind direction | high_pressure toward low_pressure
+sea_breeze daytime | land heats faster; surface wind sea to land
+land_breeze nighttime | land cools faster; surface wind land to sea
+coastal temperature mild | ocean high heat_capacity moderates temperature
+mountain windward | rising air cools; precipitation
+mountain leeward | descending air warms; dry rain_shadow
+low_pressure weather | rising air; clouds; precipitation
+high_pressure weather | sinking air; clear dry conditions
+cold_front | dense cold air lifts warm air; storms
+warm_front | warm air rises over cooler air; widespread steady precipitation
+weather_front | boundary between different air_masses
+air_mass source region | determines temperature moisture
+continental air_mass | dry
+maritime air_mass | moist
+polar air_mass | cold
+tropical air_mass | warm
+hurricane energy | warm ocean water; evaporation condensation
+hurricane land weakens | loses warm water energy source; friction
+hurricane hazard | storm_surge; high wind; flooding
+tornado | rotating column air; severe thunderstorm
+thunder | rapid air expansion heated lightning
+weather map isobar | equal pressure
+weather map close isobars | strong pressure_gradient; stronger wind
+barometer falling pressure | storm approaching; lower pressure
+anemometer wind | measures speed
+wind_vane | direction wind comes from
+rain_gauge | precipitation amount
+thermometer | temperature
+hygrometer | humidity
+weather climate difference | short_term conditions versus long_term patterns
+climate latitude | sunlight angle; equator warmer
+climate altitude | higher generally colder
+climate ocean_current | transports heat; affects coasts
+gulf_stream | warm ocean_current; moderates western europe climate
+ocean surface_current | wind; coriolis_effect
+ocean deep_current | temperature salinity density differences
+salty cold ocean water | higher density; sinks
+upwelling ocean | nutrient rich deep water rises; supports productivity
+greenhouse_effect | atmosphere absorbs outgoing infrared; warms surface
+greenhouse_gas increase | more heat retained; average temperature rises
+carbon_dioxide methane | greenhouse gases
+water_vapor | greenhouse gas
+nitrogen oxygen atmosphere | major components; not main greenhouse absorbers
+ozone stratosphere | absorbs ultraviolet radiation
+ozone depletion | greater ultraviolet exposure
+ozone ground level | harmful air pollutant
+acid_rain cause | sulfur_dioxide nitrogen oxides react water
+smog | air pollutants; sunlight-driven reactions
+urban_heat_island | dark pavement; less vegetation; stored heat
+snow ice albedo | reflects sunlight; cools surface
+ice melting albedo | less reflection; more absorption; warming feedback
+warming sea_level | thermal expansion; melting land ice
+melting floating sea_ice | little direct sea_level change
+freshwater majority | frozen glaciers ice_sheets
+accessible freshwater | lakes rivers groundwater
+ocean earth water | saltwater; most earth water
+groundwater aquifer | permeable rock sediment; stores transmits water
+water_table | upper surface saturated zone
+well excessive pumping | water_table falls; wells may dry
+saltwater_intrusion | coastal groundwater overpumping; seawater enters aquifer
+watershed | land draining into common body water
+pollution upstream | transported downstream by flowing water
+sewage water treatment | remove wastes pathogens; protect health
+drinking_water treatment | filtration disinfection
+boiling contaminated water | kills many microbes | removes all dissolved chemicals
+desalination | removes dissolved salt; produces freshwater
+# Astronomy and observation
+sun daily apparent motion | earth rotates; east to west across sky
+earth rotation direction | west to east
+sunrise east sunset west | earth rotation
+night day cycle | earth rotates; different regions face sun
+one earth rotation | about 24 hours; day
+one earth revolution | about 365 days; year
+season cause | axial_tilt; changing sunlight angle day length | earth_sun distance primary cause
+summer hemisphere | tilted toward sun; longer days; direct sunlight
+winter hemisphere | tilted away sun; shorter days; indirect sunlight
+northern summer southern | southern winter; opposite seasons
+equator seasons | relatively small daylight variation
+polar summer | continuous daylight; tilted toward sun
+winter sun noon | lower angle; longer shadows
+summer sun noon | higher angle; shorter shadows
+shadow morning evening | long; sun low
+shadow noon | shortest; sun highest
+shadow direction | opposite sunlight direction
+constellations yearly change | earth revolution; nighttime faces different space
+stars nightly circle | apparent motion caused earth rotation
+polaris northern sky | near rotation axis; nearly fixed apparent position
+moon light | reflects sunlight | produces own visible light
+moon phases | changing view sunlit half during orbit
+moon half illuminated | sunlight always lights half except eclipses
+full_moon position | earth between sun and moon; illuminated side faces earth
+new_moon position | moon between earth and sun; dark side faces earth
+lunar_eclipse | earth shadow falls moon; earth between sun moon
+solar_eclipse | moon blocks sun; moon between sun earth
+lunar_eclipse full_moon | earth shadow
+solar_eclipse new_moon | moon shadow
+moon orbit tilted | eclipses do not occur every month
+moon same face earth | rotation period equals orbital period
+moon phases cycle | about one month; 29 days
+moon gravity tide | differential gravitational pull; ocean bulges
+spring_tide aligned | new_moon full_moon; larger tidal range
+neap_tide right_angle | quarter_moon; smaller tidal range
+telescope space advantage | avoids atmospheric distortion absorption
+stars daytime invisible | scattered sunlight bright sky
+star brightness apparent | luminosity and distance
+sun appears brightest star | nearest star to earth
+star color blue | hotter surface than red star
+star color red | cooler surface than blue star
+star energy source | nuclear_fusion hydrogen into helium
+star gravity gas | gravity compresses gas; high temperature fusion
+star nebula birth | gas dust collapse under gravity
+massive_star death | supernova; neutron_star black_hole
+sun future | red_giant then white_dwarf
+light_year measurement | distance light travels one year | unit of time
+nearby star parallax | apparent shift earth orbital position; distance measurement
+galaxy | stars gas dust held gravity
+milky_way | galaxy containing solar_system
+universe expansion | distant galaxies redshift; expanding space
+solar_system gravity | sun dominant mass holds planets orbits
+planet orbit farther sun | longer period; generally lower orbital speed
+inner_planet | rocky; relatively small; dense
+outer_planet | giant; thick atmospheres; many moons
+mercury | closest planet sun; short orbital year
+venus | thick carbon_dioxide atmosphere; strong greenhouse_effect; hottest planet
+mars | iron oxide surface; red; thin atmosphere
+jupiter | largest planet; gas giant
+saturn | prominent icy rings
+uranus | strongly tilted axis
+neptune | farthest major planet sun
+earth liquid water life | suitable temperature; atmosphere; water
+moon no thick atmosphere | extreme temperature changes; many impact craters
+moon craters preserved | little erosion; no rainfall wind
+asteroid | mostly rocky; many between mars jupiter
+comet | icy dust body; tail develops near sun
+comet tail direction | away from sun; solar wind radiation
+meteor | bright streak burning atmosphere
+meteorite | space rock reaches ground
+meteoroid | small rock traveling space

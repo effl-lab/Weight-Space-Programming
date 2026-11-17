@@ -1,0 +1,157 @@
+# Scientific reasoning, laboratory practices and design constraints.
+experiment fertilizer plant height independent_variable | fertilizer
+experiment fertilizer plant height dependent_variable | height
+experiment light plant growth independent_variable | light
+experiment light plant growth dependent_variable | plant_growth
+experiment water seed germination independent_variable | water
+experiment water seed germination dependent_variable | germination
+experiment temperature sugar dissolving independent_variable | temperature
+experiment temperature sugar dissolving dependent_variable | time
+experiment surface ball bounce independent_variable | surface
+experiment surface ball bounce dependent_variable | bounce height
+experiment drop height ball bounce independent_variable | drop height
+experiment drop height ball bounce dependent_variable | bounce height
+experiment ramp height cart speed independent_variable | ramp height
+experiment ramp height cart speed dependent_variable | cart speed
+experiment ramp surface friction independent_variable | surface
+experiment ramp surface friction dependent_variable | force
+experiment magnet strength paperclip dependent_variable | paperclip number
+experiment wire length resistance independent_variable | wire length
+experiment wire length resistance dependent_variable | resistance
+experiment coil turns magnet independent_variable | coil turns
+experiment coil turns magnet dependent_variable | magnetic strength
+experiment insulation heat loss independent_variable | insulation
+experiment insulation heat loss dependent_variable | temperature_change
+experiment exercise heart_rate independent_variable | exercise
+experiment exercise heart_rate dependent_variable | heart_rate
+experiment pendulum length time independent_variable | pendulum length
+experiment pendulum length time dependent_variable | period
+experiment salt water freezing independent_variable | salt concentration
+experiment salt water freezing dependent_variable | freezing_point
+experiment soil type drainage independent_variable | soil type
+experiment soil type drainage dependent_variable | drained water volume
+experiment detergent stain independent_variable | detergent
+experiment detergent stain dependent_variable | stain removal
+experiment yeast temperature gas independent_variable | temperature
+experiment yeast temperature gas dependent_variable | gas production
+experiment plant fertilizer control | plant receives no added fertilizer; otherwise same conditions
+experiment plant light control | compare light conditions; same species water soil temperature
+experiment seed germination compare | same seed species age number; vary tested condition
+experiment water temperature dissolve fair | same solute mass particle size water volume stirring
+experiment erosion plant cover fair | same soil slope rainfall; vary vegetation
+experiment evaporation wind fair | same water volume container temperature; vary airflow
+experiment insulator comparison fair | same initial temperature liquid volume container time
+experiment bounce height fair | same ball release height method; vary tested surface
+experiment ramp friction fair | same object load speed; vary surface material
+experiment photosynthesis light | oxygen bubbles; carbon_dioxide consumption; starch production
+experiment respiration yeast | carbon_dioxide production; oxygen use; temperature
+experiment plant growth measure | height leaf number biomass; repeat same intervals
+experiment soil water retention | equal dry soil volume; equal water added; drainage comparison
+experiment pill dissolution | same liquid volume temperature; time until dissolves
+experiment sunscreen ultraviolet | compare protected unprotected indicators; same exposure
+experiment changed several factors | confounded; cannot attribute result one cause
+experiment different starting temperatures | unfair insulation comparison
+experiment no comparison group | treatment effect difficult isolate
+experiment sample one organism | unreliable generalization; individual variation
+experiment multiple organisms groups | reduce individual variation; more reliable comparison
+experiment repeated same conditions | estimate reproducibility; random variation
+experiment average trials | reduces random error effect; representative measurement
+experiment same wrong calibration | systematic_error persists | averaging guarantees correction
+experiment results unexpected | check method equipment; repeat; report honestly
+experiment hypothesis disproved | revise explanation; evidence valuable
+experiment result supports hypothesis | provisional support; further investigation
+experiment prove forever | scientific conclusions revisable with new evidence
+experiment record all data | accurate reporting; avoids selection bias
+experiment publish procedures | replication; evaluation by others
+experiment other scientist repeats | independent verification; reliability
+experiment larger diverse sample | more representative; stronger generalization
+experiment random assignment | reduce preexisting group differences
+experiment blind observer | reduce expectation bias
+experiment placebo group | comparison for treatment expectations
+survey voluntary sample | possible selection bias
+survey only friends | not representative population
+survey leading question | bias responses
+observation measurable testable | scientific evidence | personal preference only
+observation color mass length | senses instruments; directly recorded
+inference explanation footprints | animal presence inferred from traces
+prediction future event | expected result based evidence
+hypothesis if then | testable relationship; proposed explanation
+hypothesis revise after results | new evidence; better explanation
+scientific opinion favorite color | subjective preference | objectively best for everyone
+scientific question plant light growth | measurable; testable
+scientific model globe | earth shape geographic relationships | actual size
+scientific model solar_system | scale distances sizes often cannot both be accurate
+scientific model atom | simplified structure; not literal appearance scale
+scientific model lung bottle | pressure volume changes; limits anatomical realism
+scientific model computer weather | predicts from data assumptions; uncertainty
+scientific model limitation improve | compare observations; revise representation
+scientific theory repeated evidence | well supported explanatory framework
+scientific law description pattern | summarizes consistent relationship
+scientific theory law difference | explanation versus description | theory matures into law automatically
+new instrument discovery | improves observation precision range; new evidence
+microscope technology cells | reveals tiny structures previously unseen
+telescope technology universe | detects distant faint objects; more evidence
+scientist common units | communicate compare measurements
+scientist metric units | standardized scale; reproducible results
+measurement ruler zero | align object starting mark; avoid offset error
+measurement ruler short object | millimeter divisions; suitable precision
+measurement temperature wait | reach thermal equilibrium; stable reading
+measurement balance zero | tare container; measure sample mass
+measurement liquid eye level | avoids parallax; bottom meniscus
+measurement volume small liquid | graduated_cylinder pipette | large beaker most precise
+measurement mass small solid | balance | ruler alone
+measurement leaf area | grid squares; area estimate
+measurement elapsed time | stopwatch; subtract start time
+measurement stream speed | distance traveled divided time
+measurement population quadrat | sample defined area; estimate abundance
+measurement animal mark recapture | estimate population; representative mixing
+measurement humidity | hygrometer; psychrometer
+measurement acidity | ph indicator meter
+measurement electric current | ammeter; amperes
+measurement potential_difference | voltmeter; volts
+measurement force | spring_scale; newtons
+measurement light | light meter; intensity
+measurement dissolved_oxygen | oxygen probe; water quality
+measurement fair same instrument | reduces differences between measurement methods
+precision significant digits | limited by instrument resolution
+accuracy calibration standard | compare known value
+line_graph time trend | continuous data; change over time
+bar_graph category comparison | separate groups; counts values
+pie_chart percentages | parts whole; sum hundred percent
+scatter_plot correlation | paired quantitative variables
+x_axis independent_variable | manipulated input
+ y_axis dependent_variable | measured output
+experimental table headings | variables units; clear organization
+error_bar data | variation uncertainty
+positive graph slope | responding quantity rises as input rises
+negative graph slope | responding quantity falls as input rises
+flat graph line | response remains constant
+extrapolation beyond tested range | uncertain; relationship may change
+correlation two variables | association | always proves direct causation
+engineering design criteria | required performance; measure success
+engineering design constraints | limits cost time materials safety
+engineering design test prototype | identify weaknesses; refine design
+engineering design tradeoff | improving one feature may sacrifice another
+engineering bridge strength test | maximum load; compare same conditions
+engineering insulation test | temperature_change over fixed time
+engineering filter test | turbidity contaminant reduction; consistent input
+engineering redesign evidence | use measured performance; address failure
+engineering multiple solutions | compare criteria constraints; select justified design
+lab microscope carry | two hands; support base arm
+lab glass cracked heated | break hazard; replace safely
+lab hot glass | may look cold; use heat protection
+lab test tube heating | point opening away everyone
+lab unknown substance | label consult teacher; do not taste
+lab protective eyewear | prevent chemical splash eye injury
+lab long hair flame | tie back; prevent ignition
+lab loose clothing | secure; prevent chemical fire hazards
+lab spills | notify instructor; follow cleanup procedure
+lab acid water | add acid slowly to water; dissipate heat
+lab organism sampling | minimize harm; humane treatment
+lab unknown bacteria culture | keep sealed; proper disposal
+lab wash hands | reduce contamination and infection
+lab eating drinking | contamination exposure; unsafe
+lab chemical disposal | follow instructions; appropriate container
+lab broken thermometer | notify instructor; avoid bare hand cleanup
+field lightning storm | shelter substantial building; avoid exposed high places
+field unknown plant | avoid ingestion; potential toxins

@@ -1,0 +1,304 @@
+# Generation 5: long-tail single facts that state tests ask.
+# --- landforms, maps, oceans
+iceberg = large piece of ice broke off glacier floats in ocean
+ice breaks off glacier ocean > iceberg calving
+iceberg mostly underwater > ice less dense than seawater
+glacier = large mass of moving ice
+avalanche = snow slides down mountain
+landslide = rock soil slides down slope
+sinkhole > limestone dissolved groundwater collapse
+cave forms > groundwater dissolves limestone acid
+stalactites stalagmites > caves dripping water minerals
+plateau = high flat land
+plain = low flat land
+valley = low land between hills mountains
+canyon = deep narrow valley steep sides river
+mesa > flat top steep sides
+peninsula = land surrounded by water on three sides
+island = land surrounded by water
+isthmus = narrow land connects two larger land areas
+strait = narrow water connects two bodies water
+bay = water partly surrounded by land
+gulf = large bay
+lake = inland body of water
+river mouth > where river enters ocean lake
+river source headwaters > where river begins
+tributary = stream flows into larger river
+oxbow lake > meander cut off river
+barrier island > sand parallel coast
+sand dune > wind deposits sand
+alluvial fan > deposit at base of mountain
+continental shelf > shallow ocean near continents
+mid ocean ridge > underwater mountain range
+ocean trench > deepest part of ocean mariana
+ocean zones > sunlight zone twilight zone midnight zone
+deep ocean > dark cold high pressure
+ocean pressure deep > increases
+sunlight ocean > only top layer
+topographic map > elevation contour lines
+contour lines close together > steep slope
+contour lines far apart > gentle slope
+map scale > distance
+map key legend > symbols
+compass rose > directions
+latitude lines > east west parallel to equator
+longitude lines > north south meridians prime meridian
+globe > model of earth
+mountains climate > colder higher
+mountain range wind side > rain wet
+desert near mountains > rain shadow
+# --- regions and places
+florida > warm humid hurricanes peninsula
+alaska > cold glaciers tundra
+hawaii > volcanoes islands hot spot
+california > earthquakes san andreas fault
+arizona > desert grand canyon
+new york > four seasons cold winters
+great lakes > formed by glaciers fresh water
+mississippi river > delta gulf of mexico
+rocky mountains > west young tall
+appalachian mountains > east old eroded rounded
+tornado alley > great plains central united states
+hurricane season > summer fall atlantic gulf
+gulf of mexico > warm water hurricanes
+pacific northwest > rainy
+sahara > desert africa
+amazon > rainforest south america
+antarctica > ice coldest continent
+arctic > north pole ice polar bears
+equator countries > hot tropical
+# --- organisms long tail
+bald eagle > endangered recovered ddt banned
+monarch butterfly > migrates mexico milkweed
+salmon > swim upstream lay eggs fresh water live ocean
+sea turtle > lays eggs on beach
+manatee > endangered boats
+coral > animal polyps algae symbiosis
+jellyfish > tentacles sting invertebrate
+sponge > simplest animal filters water
+starfish sea star > echinoderm regenerate arms
+octopus > mollusk eight arms ink
+clam oyster snail > mollusk shell
+earthworm > segmented worm aerates soil
+crab lobster shrimp > crustacean exoskeleton
+beetle > largest insect group
+ant colony > social insects queen workers
+honeybee > pollinate dance communicate hive
+spider web > catch prey silk
+snake > smell tongue sheds skin
+lizard > sheds tail escape
+frog skin > absorbs water oxygen moist
+salamander > amphibian moist skin
+shark > cartilage skeleton fish
+dolphin > mammal echolocation breathes air blowhole
+whale blubber > insulation cold ocean
+seal walrus > blubber cold
+arctic fox > white fur winter camouflage
+snowshoe hare > white winter brown summer
+chameleon > changes color
+walking stick insect > looks like twig camouflage
+leaf insect > camouflage
+viceroy butterfly > mimics monarch
+skunk > smelly spray defense
+opossum > plays dead marsupial
+kangaroo koala > marsupial pouch
+bat > nocturnal echolocation pollinator insects
+owl pellets > bones undigested food prey
+woodpecker > beak drills wood insects
+pelican > pouch beak fish
+flamingo > pink shrimp algae
+ostrich > largest bird cannot fly runs
+hummingbird > nectar hover fast wings
+beaver > builds dams changes ecosystem
+prairie dog > burrows
+deer > herbivore forest
+wolf pack > hunt together
+lion pride > hunt together
+elephant > largest land animal trunk
+giraffe > tallest neck
+cheetah > fastest land animal
+blue whale > largest animal
+sloth > slow rainforest
+camel > desert hump fat water
+polar bear > white fur blubber arctic
+penguin > antarctica swim cold
+tadpole > gills tail water
+cactus > desert stores water spines
+venus flytrap > insects nitrogen
+pitcher plant > traps insects
+sunflower > follows sun
+moss > damp shady no roots spores
+fern > spores shady moist
+pine tree > cones needles evergreen
+oak tree > acorns deciduous
+maple tree > seeds wings helicopters sap
+dandelion seeds > wind parachute
+coconut > floats water
+cocklebur burdock > hooks stick fur velcro idea
+kelp > ocean algae forest
+mushroom > fungus decomposer spores
+mold > fungus spores grows food
+yeast > single celled fungus bread
+lichen > fungus algae together rocks pioneer
+algae > producer water photosynthesis
+phytoplankton > ocean producers oxygen
+zooplankton > tiny animals eat phytoplankton
+krill > whales food
+# --- scientists and careers
+astronomer > studies stars planets space
+geologist > studies rocks earth
+meteorologist > studies weather
+biologist > studies living things
+botanist > studies plants
+zoologist > studies animals
+ecologist > studies ecosystems
+paleontologist > studies fossils
+seismologist > studies earthquakes
+volcanologist > studies volcanoes
+oceanographer > studies oceans
+chemist > studies matter chemicals reactions
+physicist > studies energy forces matter
+entomologist > studies insects
+marine biologist > studies ocean life
+microbiologist > studies microorganisms bacteria
+geneticist > studies genes heredity
+archaeologist > studies human artifacts past
+engineer > designs builds solves problems
+isaac newton > gravity laws of motion
+albert einstein > relativity energy mass
+marie curie > radioactivity
+thomas edison > light bulb phonograph
+benjamin franklin > electricity lightning kite
+george washington carver > peanuts crop rotation
+rachel carson > silent spring pesticides ddt environment
+jane goodall > chimpanzees
+john muir > national parks conservation
+nikola tesla > alternating current
+copernicus > sun center solar system
+galileo galilei > telescope jupiter moons
+johannes kepler > planet orbits ellipses
+dmitri mendeleev > periodic table
+louis pasteur > germs pasteurization vaccines
+alexander fleming > penicillin
+edward jenner > smallpox vaccine
+james watson francis crick > dna double helix
+rosalind franklin > dna x ray
+wright brothers > airplane flight
+alexander graham bell > telephone
+samuel morse > telegraph code
+neil armstrong > first walk on moon
+sally ride > first american woman space
+alfred wegener > continental drift
+james hutton > geology uniformitarianism
+carl linnaeus > classification naming
+# --- everyday chemistry and materials
+rust prevention > paint oil galvanize keep dry
+iron rusts faster > wet salt water
+silver tarnish > black
+copper statue green > oxidation patina
+baking bread > yeast carbon dioxide rise chemical change
+cake rises > baking powder gas
+fire needs > fuel oxygen heat
+fire triangle > fuel oxygen heat
+put out fire > remove oxygen water cool blanket
+candle burning > wax fuel light heat carbon dioxide water
+fireworks colors > metals chemical reaction
+glow stick > chemical energy light
+hand warmer > chemical reaction heat exothermic
+cold pack > endothermic absorbs heat
+ice cream salt ice > lower freezing point
+salt on roads > lowers freezing point ice melts
+antifreeze > lowers freezing point
+sugar dissolves faster > hot water stirring
+sugar cube vs granulated > smaller pieces dissolve faster
+kool aid powder > dissolves solution
+salt water evaporates > salt left behind
+filter coffee > separates grounds
+sieve > separates large small particles
+distillation > separates liquids boiling points
+chromatography > separates colors ink
+alloy = mixture of metals
+steel > iron carbon alloy strong
+bronze > copper tin
+brass > copper zinc
+aluminum > light metal cans foil
+plastic > made from petroleum
+glass > made from sand melted
+paper > made from trees wood pulp
+cotton > plant fiber
+wool > sheep hair fiber
+silk > silkworm
+leather > animal skin
+rubber > tree sap
+nylon polyester > synthetic petroleum
+concrete > cement sand gravel water
+brick > clay baked
+graphite > pencils carbon soft
+diamond > carbon hardest
+charcoal > carbon burned wood
+gold > does not rust valuable conducts
+mercury > liquid metal thermometers
+helium > balloons float lighter than air
+neon > glowing signs
+hydrogen > lightest element fuel
+oxygen > supports burning breathing
+nitrogen > most of air fertilizer
+carbon > all living things
+chlorine > clean pools disinfect
+fluoride > teeth
+calcium > bones teeth shells
+sodium chloride > table salt
+# --- light, sound, everyday physics long tail
+sound travel distance > 343 meters per second air
+thunder delay > distance lightning
+hearing range > humans 20 to 20000 hertz
+ultrasound > high frequency medical images
+infrasound > low frequency elephants
+bigger instrument > lower pitch
+tighter string > higher pitch
+water glass more water tapped > lower pitch
+whistle > high pitch
+tuba > low pitch
+megaphone > directs sound louder
+ear protection > reduce loudness
+light speed > fastest
+rainbow order > red orange yellow green blue indigo violet
+sky blue > scattered blue light
+sunset red orange > light travels through more atmosphere
+moon looks larger horizon > illusion
+magnifying lens fire > focus sunlight
+camera lens > focuses light image
+eye lens > focuses light on retina
+nearsighted > concave lens
+farsighted > convex lens
+fiber optics > light reflects inside glass
+laser > focused light
+shadow longer > light source lower angle
+shadow larger > object closer to light
+solar oven > reflects focuses sunlight black absorbs
+greenhouse warm > glass traps heat
+car hot inside sun > windows trap heat
+pendulum period > length longer slower
+swing > pendulum
+seesaw balance > heavier closer to fulcrum
+pulley fixed > changes direction of force
+movable pulley > less force
+gear > teeth change speed direction
+bicycle gears > change speed force
+spring > elastic potential energy stretched compressed
+slingshot > elastic potential to kinetic
+bow arrow > elastic potential kinetic
+battery voltage higher > more current brighter
+batteries series > more voltage
+wire thicker > less resistance
+wire longer > more resistance
+heat from friction > rubbing hands brakes
+skates ice > low friction
+parachute > air resistance slows falling
+airplane wing > lift air pressure
+helicopter > lift rotor
+boat floats > buoyancy displaces water
+submarine > ballast tanks density
+hot air balloon > hot air less dense rises
+rocket > thrust action reaction
+jet engine > thrust

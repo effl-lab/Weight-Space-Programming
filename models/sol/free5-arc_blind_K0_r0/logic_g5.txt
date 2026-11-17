@@ -1,0 +1,126 @@
+# Authored general conditional deductions. Whole/focused requirements | supported | contradicted | strength
+# Biological contexts and the purpose of concrete structures
+plant; roots; damaged,removed,cut; ?effect,?water,?growth | water uptake decreases,wilts,growth decreases | water uptake increases | 5
+plant; leaves; removed,cut; ?food,?growth,?photosynthesis | photosynthesis decreases,less food,growth decreases | photosynthesis increases | 5
+plant; root; ?energy,?food; !germination | sugar leaves,photosynthesis leaves | food soil,soil energy | 5
+plant; grown,darkness; ?pale,?yellow,?light | less chlorophyll,insufficient light | more chlorophyll | 5
+seed; germination; ?light; !photosynthesis | stored food,not necessary | sunlight required | 4
+seed; stored food; removed; ?growth | growth decreases,less energy | growth increases | 4
+seed; air,oxygen; absent,missing; ?germination | respiration decreases,less energy,less germination | more germination | 5
+stomata; closed; ?water | transpiration decreases,water loss decreases | water loss increases | 5
+stomata; closed; ?photosynthesis,?carbon dioxide | carbon dioxide uptake decreases,photosynthesis decreases | carbon dioxide uptake increases | 5
+plant; clear bag,plastic bag; droplets; ?source | transpiration,leaf water | bag produces water | 6
+plant; hydroponics; ?needs,?requires | dissolved minerals,water,light | soil required | 5
+flower; pollinator; removed,disappear,decrease; ?seed,?fruit | fewer seeds,fewer fruits,pollination decreases | more seeds | 5
+flower; bright,colorful,scent; ?advantage,?purpose | attracts insects,attracts pollinators | repels all insects | 5
+animal; thick fur,blubber; ?cold,?heat | reduces heat loss,insulation | produces heat directly | 5
+animal; large ears; desert; ?advantage,?purpose | heat loss,cooling | heat retention | 5
+animal; hibernation; ?energy,?metabolism | conserves energy,metabolism decreases,stored fat | metabolism increases | 5
+animal; migration; ?advantage,?reason,?survive | food availability,suitable climate,breeding | changes species | 4
+animal; camouflage; background changes; ?predator,?survive | easier see,predation increases | always hidden | 4
+pollinator; flower; ?relationship | mutualism,both benefit | parasitism | 5
+parasite; host; ?effect | host harmed | both benefit | 5
+beak; thick,strong; ?food,?diet | hard seeds,nuts | nectar only | 5
+beak; long,thin; flower; ?food | nectar | hard nuts | 5
+teeth; flat,broad; ?diet,?food | plants,grinding | tearing meat only | 4
+teeth; sharp,pointed; ?diet,?function | meat,tearing,capture prey | grinding plants only | 4
+earthworm; ?soil,?benefit,?plant | aeration,nutrient recycling,water infiltration | soil compaction | 5
+soil; decomposers; absent,removed; ?effect | dead matter accumulates,nutrients decrease | nutrient recycling increases | 5
+food web; one food source; removed,disappears; ?risk,?survival | population decreases,starvation | all populations increase | 4
+invasive species; native; ?competition | limited resources,food,space | unlimited resources | 4
+single crop; genetically identical; disease; ?risk | susceptible,rapid spread | guaranteed resistance | 4
+blood; ?oxygen; ?transport | red blood cell,hemoglobin,circulatory system | platelet | 5
+blood; ?clotting,?bleeding | platelet | red blood cell | 5
+reflex; ?advantage,?purpose | rapid response,protection | conscious decision required | 5
+exercise; ?respiration,?energy | glucose,oxygen,ATP | photosynthesis | 4
+sweat; humidity high; ?cooling | evaporation decreases,less cooling | evaporation increases | 5
+virus; antibiotics; ?treatment,?effective | ineffective,no effect | kills viruses | 5
+bacteria; antibiotic; resistant; ?population | survive reproduce,natural selection | all die | 5
+# State, conservation, and experimental effects
+balloon; inflated; ?mass; !helium | mass increases,air added | mass unchanged | 5
+balloon; air; ?evidence,?matter | occupies space,has mass | no matter | 4
+solid; ?particles,?molecules; ?motion; !melted | vibrate | motionless,not moving | 5
+liquid; ?shape | container shape,variable shape | fixed shape | 4
+gas; ?shape,?volume | fills container,variable shape,variable volume | fixed volume | 4
+substance; heated; ?particle size,?molecule size | unchanged,same size | larger,expands | 5
+substance; heated; ?particle spacing | increases,farther apart | molecules grow | 5
+gas; compressed; ?mass; sealed,closed | mass unchanged,same mass | mass decreases | 6
+water; boiling; ?bubbles,?gas | water vapor,steam | hydrogen,oxygen | 6
+water; electrolysis; ?products,?gas | hydrogen,oxygen | nitrogen | 5
+cold glass; droplets; ?source,?cause | condensation,air water vapor | glass leaking | 6
+mirror; fog,steam; ?process | condensation | evaporation | 5
+frost; vapor; ?process | deposition | melting | 5
+dry ice; disappears; ?process | sublimation | melting | 5
+candle; ?physical change | melting wax | burning wax | 6
+candle; ?chemical change | burning wax | melting wax | 6
+sugar; dissolves; ?substance,?change | physical change,sugar remains | chemical change,new substance | 5
+salt; water; ?filter,?filtration | passes through,not separated | salt trapped | 4
+sand; water; ?filter,?filtration | sand trapped,water passes | sand dissolves | 5
+salt; water; ?drinking,?fresh water; ?recover,?obtain,?separate | distillation,condense vapor | filtration | 5
+iron; rust; ?mass; !closed | oxygen combines,mass increases | mass decreases | 5
+burning; ?mass; closed,sealed | mass conserved,same mass | mass destroyed | 6
+burning; ash; ?missing,?less | gases escaped,gas products | matter destroyed | 5
+reaction; gas; sealed,closed; ?mass | mass unchanged,conserved | mass decreases | 5
+water; ice; ?floating | lower density,less dense | higher density | 5
+water; freezes; pipe,bottle; ?breaks,?cracks | expands,volume increases | contracts,volume decreases | 5
+salt; dissolved; ?mass; closed,sealed | same total mass,conserved | mass decreases | 5
+saturated solution; ?stirring; ?amount,?solubility | same amount,unchanged | increases solubility | 4
+carbonated drink; opened; ?bubbles | pressure decreases,carbon dioxide escapes | oxygen produced | 5
+# Forces, waves, optics, and daily physical situations
+car; turning; constant speed; ?velocity,?acceleration | direction changes,accelerates | no acceleration,velocity unchanged | 6
+object; at rest; balanced forces; ?motion | remains rest | accelerates | 5
+object; moving; balanced forces; ?motion | constant velocity,same speed | stops immediately | 5
+rocket; vacuum; ?move,?propulsion | expelled gases,action reaction | pushes air | 6
+magnet; cut,broken; ?poles | north south,both poles | isolated pole | 6
+magnet; paper; ?attract,?force | acts through,magnetic field | contact required | 4
+compass; ?direction,?align | Earth magnetic field | Earth's electric field | 5
+balloon; rubbed; ?charge | electrons transferred | protons transferred,neutrons transferred | 6
+lightning; thunder; ?first,?earlier | light faster,sound slower | sound faster | 5
+sound; soft surface,curtain,carpet; ?echo | absorbs sound,reflection decreases | reflection increases | 5
+sound; hard wall; ?echo,?process | reflection | refraction | 5
+string; tighter; ?pitch | higher,frequency increases | lower,frequency decreases | 5
+string; shorter; ?pitch | higher,frequency increases | lower,frequency decreases | 5
+sound; amplitude increases; ?pitch | unchanged,same pitch | pitch increases | 5
+sound; frequency increases; ?loudness; same amplitude | unchanged,same loudness | louder | 5
+light; pencil; water; bent; ?cause,?process | refraction | reflection | 6
+light; smooth mirror; ?process | reflection | refraction | 5
+light; prism; ?colors,?spectrum | dispersion,refraction,different wavelengths | chemical reaction | 5
+red object; blue light; ?appearance,?color | black,dark | red,white | 6
+white object; red light; ?appearance,?color | red | white,blue | 5
+black object; sunlight; ?temperature,?heat | absorbs,warmer | reflects all | 5
+white object; sunlight; ?heat,?reflection | reflects,less absorption | absorbs all | 4
+room; metal; wood; ?temperature; ?same,?equilibrium | same temperature | metal colder | 5
+metal; feels cold; ?reason,?cause | conducts heat away,heat loss | metal lower temperature always | 5
+blanket; ?heat,?warm; ?reason,?function | reduces heat loss,traps air | creates thermal energy | 5
+vacuum; ?heat transfer | radiation | conduction,convection | 5
+refrigerator; ?heat; ?direction,?transfer | inside outside,cold to hot | outside inside | 4
+ice; warm drink; ?heat flow | drink to ice,warm to cold | ice to drink | 5
+hot spoon; soup; ?process | conduction | convection | 5
+hot air; rises; ?density,?reason | expands,lower density | greater density | 5
+bridge,railway; gap,expansion joint; ?purpose | thermal expansion,prevents buckling | magnetic force | 5
+# Earth science and careful inference
+north wind; ?direction,?toward | south | north | 5
+south wind; ?direction,?toward | north | south | 5
+east wind; ?direction,?toward | west | east | 5
+west wind; ?direction,?toward | east | west | 5
+soil; roots; ?erosion; removed,absent | erosion increases | erosion decreases | 5
+soil; grass,tree; planted; ?erosion | erosion decreases | erosion increases | 5
+soil; pavement,asphalt; ?infiltration | decreases,less | increases | 5
+soil; pavement,asphalt; ?runoff | increases,more | decreases | 5
+soil; saturated; rain; ?runoff | increases,more | decreases | 5
+water table; pumping; faster recharge; ?effect | water table decreases,wells dry | water table increases | 5
+fertilizer; lake; algae; ?fish,?oxygen | oxygen decreases,decomposition,suffocation | oxygen increases always | 5
+warm water; fish; ?oxygen | lower dissolved oxygen,less oxygen | more dissolved oxygen | 5
+mountain; shell fossil; ?past,?conclusion | underwater,ocean,uplift | shells grew rock | 5
+rock layer; intrusion; ?younger | intrusion,magma | surrounding rock | 5
+rock layer; fault; ?younger | fault | cut rock | 5
+undisturbed; rock layer; ?oldest | bottom,lowest | top,highest | 5
+contour line; closely spaced; ?slope | steep | gentle | 5
+contour line; widely spaced; ?slope | gentle | steep | 5
+sea breeze; daytime; ?direction | sea to land,ocean to land | land to sea | 5
+land breeze; night; ?direction | land to sea,land to ocean | sea to land | 5
+hurricane; land; ?strength | decreases,weaker | increases,stronger | 5
+moon; phase; ?Earth shadow,?cause | changing illuminated portion,relative positions | Earth shadow | 5
+moon; footprints; ?remain,?last,?preserved | no wind,no rain,little erosion | strong winds | 5
+seasons; ?distance; Earth | tilt,opposite hemisphere seasons | closer causes summer | 4
+space; telescope; ?advantage | no atmospheric distortion,no clouds | closer stars significantly | 5

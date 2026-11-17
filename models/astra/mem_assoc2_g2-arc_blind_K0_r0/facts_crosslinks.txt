@@ -1,0 +1,192 @@
+# Additional precise cross-links and exception categories.
+# Negative cues below are pair-only because the compiler suppresses their
+# unconditional backoff. No word-order-dependent opposite is inferred.
+not renewable | coal oil gasoline uranium nonrenewable | wind solar hydroelectric
+except renewable | coal oil gasoline uranium nonrenewable | wind solar hydroelectric
+not nonrenewable | wind sunlight water renewable | coal oil gasoline
+except nonrenewable | wind sunlight water renewable | coal oil gasoline
+renewable least | coal petroleum gasoline | sunlight wind
+not conductor | rubber plastic wood glass insulator | copper aluminum silver
+except conductor | rubber plastic wood glass insulator | copper aluminum silver
+not insulator | copper aluminum silver metal conductor | rubber plastic wood
+except insulator | copper aluminum silver metal conductor | rubber plastic wood
+not magnetic | copper aluminum plastic wood | iron nickel cobalt
+except magnetic | copper aluminum plastic wood | iron nickel cobalt
+not living | abiotic rock air water light temperature | animal plant bacteria
+except living | abiotic rock air water light temperature | animal plant bacteria
+not biotic | abiotic sunlight temperature rock water | animal plant bacteria
+not abiotic | organism plant animal bacteria fungus | rock light temperature
+not chemical | melting freezing boiling cutting crushing dissolving physical | burning rusting
+except chemical | melting freezing boiling cutting crushing dissolving physical | burning rusting
+not physical | burning rusting digestion chemical | melting freezing cutting
+except physical | burning rusting digestion chemical | melting freezing cutting
+not weathering | sediment transport erosion deposition | cracking breakdown
+except weathering | sediment transport erosion deposition | cracking breakdown
+not erosion | rock cracking weathering in place | transport movement
+except erosion | rock cracking weathering in place | transport movement
+not mammal | reptile bird fish amphibian insect | hair milk
+except mammal | reptile bird fish amphibian insect | hair milk
+not vertebrate | insect worm snail clam spider | backbone
+except vertebrate | insect worm snail clam spider | backbone
+not invertebrate | mammal bird fish reptile amphibian | insect worm snail
+not producer | animal mushroom fungus consumer | green plant algae
+except producer | animal mushroom fungus consumer | green plant algae
+not decomposer | producer green plant herbivore | bacteria fungus
+not inherited | scar learned language practice acquired | genes
+except inherited | scar learned language practice acquired | genes
+not learned | instinct reflex inherited | practice experience
+not safe | tasting eating drinking contamination unsafe
+except safety | tasting eating drinking contamination unsafe
+not accurate | error bias uncalibrated | exact
+not fair | multiple changed variables confounding | controlled
+least friction | smooth wet lubricated rolling | rough
+least resistance | thick short copper silver | thin long rubber
+least density | gas helium hydrogen | solid metal
+least heat transfer | vacuum foam wool insulation | copper metal
+least erosion | vegetation roots level ground | steep bare soil
+least water loss | waxy coating spines small leaves | broad
+least pollution | wind solar bicycle walking | coal gasoline burning
+least energy trophic | top predator highest level | producer
+least sunlight season | winter | summer
+least daylight season | winter | summer
+least evaporation | cold humid covered | hot windy dry
+least weathering chemical | cold dry | warm wet
+least renewable resource | coal oil uranium | wind sunlight
+least reliable experiment | single trial small sample uncontrolled | repeated
+least biodiversity | monoculture few species | variety
+# Definitions for new glossary entries, plus their immediate relationships.
+phytoplankton | microscopic aquatic producer photosynthesis
+zooplankton | small aquatic consumer phytoplankton
+plankton | drifting aquatic organisms food web
+krill | small crustacean zooplankton whale food
+krill whale | predator prey food chain
+kelp forest | algae photosynthesis marine habitat
+raptor | bird predator hawk eagle owl
+insectivore | eats insects consumer
+frugivore | eats fruit consumer seed dispersal
+nectarivore | eats nectar pollinator
+pollinator | animal transports pollen fertilization
+pollinator examples | bee butterfly hummingbird bat
+pollinator flower | pollen transfer fertilization seeds
+diurnal | active daytime
+nocturnal diurnal | night day activity
+locomotion | movement organism
+thermoregulation | maintain body temperature homeostasis
+thermoregulation fur | insulation reduce heat loss
+thermoregulation sweat | evaporation cooling
+thermoregulation shiver | heat muscle contractions
+acacia ant | mutualism shelter defense
+acacia thorns | herbivore defense
+bark tree | protects stem transports phloem
+bark damaged ring | phloem transport blocked
+whisker | touch sensory surroundings
+whisker cat | detect objects width touch
+leech | annelid parasitic blood feeding
+leech anticoagulant | prevents blood clotting
+urchin | echinoderm spines marine grazer
+sea urchin kelp | herbivore grazing
+seahorse | fish gills male brood pouch
+trout | fish freshwater gills
+salmon trout | fish gills eggs
+salmon offspring | eggs freshwater
+trout warm water | less oxygen habitat stress
+tuna | marine fish gills
+newt | amphibian moist skin metamorphosis
+salamander newt | amphibian
+rhino | mammal herbivore horn
+rhinoceros horn | defense competition mates
+sparrow | bird feathers seeds insects
+goose | bird webbed feet feathers migration
+cricket | insect six legs sound chirping
+cricket sound | wings rub vibration
+locust | herbivorous insect grasshopper crop pest
+locust population | crop damage food shortage
+blizzard | strong wind blowing snow low visibility
+rainstorm | precipitation rain clouds
+monsoon rainstorm | seasonal winds moist air
+permanent magnet | retained magnetism iron domains
+temporary magnet | induced field disappears
+magnetize | align magnetic domains
+magnetize iron | domains align stronger field
+permanent electromagnet difference | current control switch
+reflective material | reflects light radiation
+reflective clothing | visible light safety
+reflective foil | reduces radiative heat transfer
+dropper | transfer small liquid volumes
+pipette | measure transfer small liquid volume
+eye dropper | liquid small amounts
+coagulate blood | clot platelets fibrin
+coagulate egg | protein denature heating
+acidify ocean | carbon dioxide lowers ph
+acidification shells | dissolves carbonate harms organisms
+infertile | unable produce offspring
+unfertilized egg | female gamete haploid
+fertilized egg | zygote diploid embryo
+herbivory | animals consuming plants
+carnivory | animals consuming animals
+omnivory | animals consuming plants animals
+international date line | calendar day boundary Pacific
+longitude time | Earth rotation time zones
+Earth time zones | rotation twentyfour hours
+prime meridian | zero longitude Greenwich
+latitude zero | equator
+latitude ninety | poles
+longitude onehundredeighty | international date line
+map hemisphere | half sphere north south east west
+heat thirtytwo fahrenheit | water freezing
+heat zero celsius | water freezing
+fifty percent | half
+quarter percent | twentyfive
+three quarters | seventyfive percent
+water hydrogen ratio | two one oxygen
+human chromosomes pairs | twentythree fortysix
+human chromosome gamete | twentythree
+# Common tokenization variants.
+x ray | electromagnetic radiation bone imaging
+x rays | electromagnetic radiation bone imaging
+ultra violet | ultraviolet skin damage
+infra red | infrared heat radiation
+green house effect | greenhouse infrared heat trapping
+non living | abiotic rock water air
+non renewable | fossil coal petroleum gas uranium
+non metal | brittle dull insulate | conduct
+non vascular | moss diffusion small moist
+sea floor spreading | divergent ridge new crust
+foodweb | interconnected food chains energy
+foodchain | feeding energy transfer
+life cycle | development reproduction stages
+watercycle | evaporation condensation precipitation
+lifespan | lifetime duration survival
+weightlessness | freefall orbit microgravity
+microgravity | freefall orbit apparent weightlessness
+# Descriptive-to-scientific recall in everyday wording.
+water metal cooling drops | condensation vapor
+wet clothes sunlight disappear | evaporation water vapor
+rock pieces transported wind | erosion
+rock pieces accumulate | deposition sediment
+rock cracked freezing | mechanical weathering
+light bends glass | refraction
+light bounces glass | reflection
+sound bounces wall | echo reflection
+particle vibrate parallel | longitudinal
+particle vibrate perpendicular | transverse
+heat particles contact | conduction
+heat fluid circulates | convection
+heat electromagnetic transfer | radiation
+organism blends background | camouflage
+organism resembles toxic | mimicry
+organism remains dormant winter | hibernation
+organism seasonal journey | migration
+organism chemical internal stability | homeostasis
+plants water vapor air | transpiration
+animal chemical messenger | hormone endocrine
+organisms food breakdown oxygen | respiration energy
+plants light sugar manufacturing | photosynthesis
+bacteria atmospheric nitrogen usable | fixation
+organisms decay nutrient return | bacteria fungi recycled soil
+solid heated becomes liquid | melting
+liquid cooled becomes solid | freezing
+liquid heated becomes gas | vaporization boiling
+vapor cooled becomes droplets | condensation
+solid directly vapor | sublimation
+vapor directly ice | deposition

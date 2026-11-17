@@ -1,0 +1,325 @@
+# Generation 6. Handwritten biological structure-function and life-history links.
+# Cues are conjunctions, not ordered language. Negative scale means pair-only.
+# Cell organization, observed cell features, and division.
+cell compartments | organelles specialization
+cell phospholipid | membrane bilayer
+# Cellular-boundary descriptions: retain the physical-property selector in
+# every pair, rather than projecting both structures onto cell/boundary.
+boundary flexible | membrane selective transport | | -1.0
+boundary rigid | wall support protection | | -1.0
+membrane lipid | bilayer selective barrier
+membrane receptor | signal recognition communication
+receptor hormone | specific binding cellular response
+neuron junction | synapse neurotransmitter
+synapse chemical | neurotransmitter signal
+synapse gap | neurotransmitter diffusion
+ribosome attached | endoplasmic reticulum protein
+rough reticulum | ribosomes protein synthesis
+smooth reticulum | lipid synthesis detoxification
+reticulum transport | proteins lipids vesicles
+mitochondria folds | surface area ATP respiration
+chloroplast stacks | thylakoids chlorophyll photosynthesis
+nucleus pores | transport RNA membrane
+nucleolus function | ribosome assembly
+lysosome enzymes | digestion recycling
+peroxisome | peroxide detoxification organelle
+cytoskeleton function | support shape movement
+cytoskeleton spindle | chromosome separation
+cell division growth | mitosis identical cells
+cell division repair | mitosis replacement
+cell division gamete | meiosis haploid
+chromosomes replicated | DNA copies sister chromatids
+chromosomes aligned | metaphase division
+chromatids separating | anaphase division
+cytoplasm divides | cytokinesis
+animal cytokinesis | cleavage furrow
+plant cytokinesis | cell plate wall
+cell cycle preparation | interphase DNA replication
+uncontrolled mitosis | cancer tumor
+cell small advantage | surface volume diffusion
+cell flattening | diffusion surface area
+villi folded | surface area absorption
+alveoli numerous | surface area diffusion
+root hairs numerous | surface area absorption
+red blood flexible | capillaries oxygen transport
+nerve elongated | impulse transmission
+muscle mitochondria | ATP contraction
+sperm mitochondria | energy movement flagellum
+# Erythrocytes here mean mature circulating cells; mammalian and avian differ.
+mammal erythrocyte | hemoglobin oxygen | nucleus | -1.0
+avian erythrocyte | nucleus hemoglobin oxygen | | -1.0
+erythrocyte biconcave | surface diffusion flexibility
+multicellular division | labor specialization cells
+multicellular coordination | nervous endocrine signaling
+unicellular functions | single cell metabolism reproduction
+cell colony | cooperation organisms
+# Transport and signaling are distinguished by their mechanisms.
+membrane freely | passive diffusion
+membrane pump | active transport ATP
+protein pump | active transport gradient
+membrane vesicle | endocytosis exocytosis
+exocytosis secretion | vesicles membrane release
+endocytosis uptake | vesicle membrane engulf
+osmosis direction | water concentration gradient membrane
+osmosis wilt | turgor loss
+osmosis crisp | turgor water uptake
+celery crisp | water turgor osmosis
+salted cucumber | water osmosis shriveling
+raisins soaked | water osmosis swelling
+# Saltwater does not specify concentration relative to living tissue.
+potato saltwater | osmosis water movement | | -1.0
+potato freshwater | water uptake osmosis swell | | -1.0
+potato hypertonic | water loss osmosis shrink | | -1.0
+potato hypotonic | water uptake osmosis swell | | -1.0
+erythrocyte isotonic | balanced water movement stable | | -1.0
+plant plasmolysis | membrane wall separation water loss
+cellular respiration mitochondria | ATP chemical energy
+anaerobic muscle | lactate fermentation
+oxygen debt | recovery respiration
+fermentation purpose | regenerate NAD energy
+ATP phosphate | chemical energy transfer
+ADP | ATP phosphate energy
+ATP ADP | phosphate energy transfer
+# Leaves, growth, and reproductive structures.
+leaf broad | sunlight capture photosynthesis
+leaf veins | water sugar transport support
+leaf wax | cuticle water conservation
+leaf pores | stomata gas exchange
+leaf airspace | diffusion gases
+# Leaf-pore context: closure must remain in the cue. Otherwise the generic
+# leaf/pores pair would inhibit transpiration even when stomata are open.
+# Inhibition describes reduced stomatal loss, not zero cuticular water loss.
+pores closed | water conservation | transpiration | -1.0
+chlorophyll removed | photosynthesis decrease | increase | -1.0
+chlorophyll autumn | pigment breakdown yellow orange
+autumn chlorophyll | breakdown carotenoids pigments
+chlorophyll magnesium | green pigment photosynthesis
+plant chlorosis | yellow leaves chlorophyll deficiency
+variegated white | unpigmented | chlorophyll photosynthesis | -1.0
+leaf starch iodine | photosynthesis blue black
+destarch leaf | darkness respiration starch consumption
+seed reserve | cotyledon endosperm food
+cotyledon embryo | food supply germination
+endosperm | seed food storage
+seed coat | embryo protection
+seed scar | attachment hilum
+seed swollen | water imbibition
+seed first | root radicle germination
+radicle | embryonic root
+plumule | embryonic shoot
+root downward | gravitropism gravity
+shoot upward | gravitropism light
+plant bending | differential growth tropism
+auxin shade | elongation phototropism
+tendril contact | thigmotropism climbing
+venusflytrap contact | movement stimulus prey capture
+mimosa touch | leaf closure response
+plant duration light | photoperiod flowering
+photoperiod | daylight darkness flowering seasonal
+tree rings thick | favorable growth water
+tree rings narrow | drought slow growth
+cambium | stem thickening dividing cells
+wood annual | rings age growth
+bark outer | protection water conservation
+sap sugar | phloem transport
+xylem lignin | support waterproof tubes
+phloem sieve | sugar transport
+root nodule | nitrogen fixation bacteria
+legume nodule | mutualism nitrogen fixation
+bean rhizobium | nitrogen fixation mutualism
+rhizobium | bacteria nitrogen fixation legumes
+fertilizer nitrate | nitrogen proteins growth
+fertilizer phosphate | phosphorus DNA ATP roots
+fertilizer potassium | enzyme function plant growth
+magnesium deficient | chlorophyll yellow leaves
+plant pruning | branching lateral growth
+apical dominance | auxin terminal bud
+flower nectary | nectar pollinator attraction
+nectar reward | pollination mutualism
+stigma receives | pollen pollination
+style tube | pollen fertilization ovule
+pollen tube | sperm ovule fertilization
+ovule fertilized | seed embryo
+ovary fruit | seed protection dispersal
+fruit fleshy | animal dispersal food
+fruit hooked | fur attachment dispersal
+fruit winged | wind dispersal
+fruit explosive | mechanical seed dispersal
+coconut floating | water seed dispersal
+dandelion parachute | wind seed dispersal
+burdock hooks | animal seed dispersal
+maple wings | wind seed dispersal
+self pollination | same plant pollen fertilization
+cross pollination | different plants genetic variation
+cutting root | vegetative asexual reproduction
+strawberry runner | vegetative asexual reproduction
+potato eye | bud vegetative reproduction
+bulb offspring | vegetative asexual reproduction
+banana seedless | vegetative propagation
+seedling parent | inherited traits variation
+# Anatomy and coordinated functions.
+trachea rings | cartilage airway support
+trachea cilia | mucus dust removal
+airway mucus | trap particles pathogens
+epiglottis | airway swallowing protection
+diaphragm flatten | inhalation chest expansion
+diaphragm relax | exhalation chest contraction
+ribcage lung | protection breathing
+alveolus capillary | oxygen carbon dioxide diffusion
+blood oxygenated | lung pulmonary gas exchange
+pulmonary artery | heart lungs deoxygenated blood
+pulmonary vein | lungs heart oxygenated blood
+aorta | artery heart body
+vena cava | vein body heart
+ventricle wall | muscle pumping pressure
+left ventricle | systemic circulation thick muscle
+heart valves | forward blood flow | backflow | -1.0
+vein valves | forward blood flow | backflow | -1.0
+artery thick | pressure elastic muscle
+capillary thin | diffusion exchange
+plasma dissolved | nutrients wastes hormones transport
+platelet wound | clotting fibrin seal | bleeding | -1.0
+fibrin | blood clot mesh
+lymph fluid | tissue drainage immune
+lymph nodes | immune filtering pathogens
+lymphocyte | immune antibody defense
+phagocyte | engulf pathogens immune
+antigen antibody | specific recognition immune
+vaccination memory | lymphocytes rapid immune response
+skin sweating | evaporation cooling
+skin goosebumps | hair muscle contraction
+shivering muscles | contraction heat production
+vessels dilate | heat loss cooling | | -1.0
+vessels constrict | heat conservation | | -1.0
+food mouth | chewing saliva digestion
+saliva amylase | starch digestion sugar
+stomach acid | protein digestion pathogens
+stomach pepsin | protein digestion
+bile emulsify | fat droplets surface area
+bile production | liver
+bile storage | gallbladder
+pancreas enzymes | digestion intestine
+small intestine villi | nutrient absorption blood
+large intestine water | absorption feces
+peristalsis | rhythmic muscle contraction food transport
+esophagus muscle | peristalsis food transport
+kidney nephron | filtration reabsorption urine
+ureter | kidney bladder urine transport
+urethra | urine excretion bladder
+urea formation | liver protein breakdown
+kidney glucose | reabsorption blood
+nephron capillary | filtration blood pressure
+urine water | excretion balance homeostasis
+bone marrow | blood cell production
+bone minerals | calcium phosphate strength
+cartilage joint | cushioning smooth movement
+synovial fluid | lubrication friction decrease
+ligament bone | joint stability
+antagonistic muscles | opposite contraction relaxation
+biceps triceps | antagonistic muscle pair elbow
+sensory neuron | receptor brain spinal impulse
+motor neuron | muscle gland impulse response
+relay neuron | spinal brain connection
+reflex protection | rapid automatic response
+cerebellum | balance movement coordination
+cerebrum | thought memory voluntary movement
+medulla | involuntary breathing heartbeat
+iris pupil | light regulation eye
+retina rods | dim light vision
+retina cones | color vision
+optic nerve | visual impulses brain
+cochlea hairs | sound sensory cells
+semicircular canals | balance inner ear
+eardrum vibrating | sound mechanical transmission
+ossicles | middle ear vibration amplification
+# Classification and reproduction through distinctive combinations.
+hair mammary | mammal vertebrate
+feather beak | bird vertebrate
+gills fins | fish aquatic
+moist skin | amphibian gas exchange
+dry scales | reptile protection
+jointed legs | arthropod exoskeleton
+six legs | insect arthropod
+insect thorax | legs wings
+eight legs | arachnid spider
+segmented worm | annelid
+snail mantle | mollusk shell
+starfish radial | echinoderm symmetry
+jellyfish stinging | cnidarian tentacles
+sponge pores | filter feeding water
+animal endoskeleton | internal support vertebrate
+animal exoskeleton | external support arthropod molting
+amniotic egg | terrestrial reproduction protection
+marsupial pouch | offspring development milk
+placenta fetus | nutrient oxygen exchange maternal
+placental mammal | internal development live birth
+monotreme eggs | mammal milk platypus
+bird hollow | bones lightweight flight
+bird air sacs | oxygen respiration flight
+fish bladder | buoyancy control
+shark cartilage | skeleton fish
+whale blowhole | lungs air mammal
+whale flippers | swimming mammal adaptation
+bat wing | mammal modified forelimb
+bat echo | echolocation hunting
+snake shedding | growth skin replacement
+insect spiracle | air trachea respiration
+earthworm moist | skin gas exchange
+earthworm bristles | grip movement soil
+frog jelly | aquatic eggs reproduction
+frog tadpole | metamorphosis gills tail
+caterpillar butterfly | metamorphosis pupa
+mosquito larva | aquatic development
+cricket nymph | incomplete metamorphosis
+adult insect reproduction | eggs mating
+# Inheritance distinguishes information, expression, and environmental effects.
+DNA sequence | genetic information nucleotide order
+gene instruction | protein synthesis traits
+RNA uracil | nucleotide base
+DNA thymine | nucleotide base
+mutation nucleotide | DNA sequence change
+mutation gamete | heritable offspring variation
+# Somatic mutations can pass through mitotic lineages and some asexual offspring.
+mutation somatic | body cell mitotic lineage | | -1.0
+scar inherited | acquired injury | genetic | -1.0
+muscle exercise inherited | acquired training | genetic | -1.0
+blood type inherited | genes alleles
+height nutrition | environment growth
+identical twins environment | acquired differences
+sibling difference | recombination alleles variation
+meiosis variation | crossing segregation assortment
+fertilization variation | combination parental genes
+chromosome pair | homologous maternal paternal
+sex chromosome | X Y inheritance
+carrier recessive | heterozygous allele
+heterozygous dominant | phenotype expression
+recessive expressed | homozygous alleles
+codominance | both alleles expressed phenotype
+incomplete dominance | intermediate heterozygous phenotype
+polygenic | multiple genes trait
+selective breeding | desired inherited traits artificial selection
+cloning offspring | genetically identical asexual
+clone environment | phenotype differences possible
+natural selection inherited | differential survival reproduction
+natural selection individual | existing variation | intentional | -1.0
+adaptation generation | inherited population evolution
+acclimation individual | physiological adjustment environment
+vestigial structure | ancestry reduced ancestral function
+homologous forelimb | common ancestry structural pattern
+analogous wings | convergent evolution similar function
+embryo similarity | common ancestry evolutionary evidence
+DNA similarity | common ancestry relationship
+fossil transitional | evolutionary change ancestry
+# Review: retain animal group, cell maturity, and osmotic environment.
+reptile erythrocyte | nucleus hemoglobin oxygen | | -1.0
+amphibian erythrocyte | nucleus hemoglobin oxygen | | -1.0
+fish erythrocyte | nucleus hemoglobin oxygen | | -1.0
+erythroblast | immature nucleus red cell precursor
+erythrocyte hypertonic | water loss shrink crenation | | -1.0
+erythrocyte hypotonic | water uptake swell | | -1.0
+tonicity | relative effective solute concentration membrane
+# These describe possible transmission routes, not guaranteed transmission of
+# every somatic mutation into every offspring or tissue.
+somatic transmission | mitotic daughter cells lineage | | -1.0
+germline transmission | gamete offspring inheritance | | -1.0
+vegetative mutation | somatic lineage offspring transmission | | -1.0

@@ -1,0 +1,2 @@
+# option word -> prior added to the option's logit (read from every token, so it is divided by the sequence length)
+only -8

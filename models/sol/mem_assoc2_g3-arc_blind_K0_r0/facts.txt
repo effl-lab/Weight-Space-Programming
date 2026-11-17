@@ -1,0 +1,420 @@
+# Authored facts: strength | question cues | supported answer concepts | opposed concepts
+# MEASUREMENT, MATTER, AND ATOMIC STRUCTURE
+1.6 | matter | mass volume space | energy
+2 | mass | matter gram kilogram balance | liter
+2 | volume | space liter milliliter graduated cylinder | kilogram
+2 | density | mass volume ratio | weight alone
+2.5 | density calculate | divide mass volume | add
+3 | density float | lower less liquid | greater
+3 | density sink | greater higher liquid | lower
+2 | density same | substance characteristic property | size
+2 | equal volume | mass density | shape
+2 | equal mass | volume density | color
+2 | heavy small | density high | low
+2 | float water | lower density buoyancy | higher density
+2 | buoyancy | upward force fluid displaced | downward
+2 | buoyancy displaced | weight fluid | color
+2 | archimedes | buoyancy displaced fluid | friction
+2 | matter state | solid liquid gas plasma | energy
+2 | solid | definite shape volume tightly packed vibrate | container compressible
+2 | liquid | volume flow container | rigid compressible
+2 | gas | fill container compressible spread apart | definite volume shape
+3 | solid particle | close vibrate fixed | freely far
+3 | liquid particle | slide close flow | fixed far
+3 | gas particle | far apart fast random | fixed close
+2 | plasma | ion electron charged high temperature | neutral
+2 | particle heat | faster motion kinetic expand | slower
+2 | particle cold | slower motion contract | faster
+2 | temperature | average kinetic energy thermometer | total mass
+3 | thermal energy | total kinetic particles | average
+2 | temperature measure | thermometer celsius kelvin fahrenheit | balance
+2 | mass measure | balance gram kilogram | thermometer
+2 | volume irregular | displacement water graduated cylinder | ruler
+2 | volume rectangle | length width height multiply | add
+2 | length measure | ruler meter centimeter | balance
+2 | time measure | stopwatch clock second | thermometer
+2 | force measure | spring newton | kilogram
+2 | electric current measure | ammeter ampere | voltmeter
+2 | voltage measure | voltmeter volt | ammeter
+2 | speed calculate | distance time divide | multiply
+2 | density unit | gram centimeter cubed | meter second
+2 | temperature boil water | 100 celsius | zero
+2 | temperature freeze water | zero celsius 32 fahrenheit | 100
+2 | water boil | vapor gas evaporation | solid
+2 | water freeze | ice solid cooling | gas
+2 | freezing | liquid solid release heat | absorb
+2 | melting | solid liquid absorb heat | release
+2 | evaporation | liquid gas surface absorb heat | solid
+2 | boiling | liquid gas bubbles entire vapor | solid
+2 | condensation | gas liquid cooling release heat | heating
+2 | sublimation | solid gas dry ice | liquid
+2 | deposition gas | solid frost | liquid
+3 | dew | condensation cooling liquid | evaporation
+3 | frost | deposition freezing solid | evaporation
+2 | puddle disappear | evaporation water vapor | condensation
+2 | wet dry | evaporation | condensation
+2 | fog mirror | condensation | evaporation
+2 | outside cold glass | condensation vapor air | leak
+2 | ice melt | absorb heat liquid physical | chemical
+2 | boiling temperature | constant phase change | increase
+2 | melting temperature | constant phase change | increase
+2 | evaporation cool | highest energy escape absorb heat | release
+2 | surface area evaporation | increase faster | decrease
+2 | wind evaporation | increase faster | decrease
+2 | humidity evaporation | high slower low faster | constant
+2 | pressure boiling | higher temperature increase | decrease
+2 | altitude boiling | lower pressure temperature | higher
+1.8 | physical property | density color texture hardness melting boiling solubility conductivity | flammable rust
+1.8 | chemical property | flammable reactivity oxidize rust burn | shape density
+2 | physical change | same substance state shape size | new substance
+2 | chemical change | new substance reaction | shape alone
+2 | chemical evidence | gas color precipitate light heat odor | size
+2 | cut paper | physical change | chemical
+2 | dissolve sugar | physical mixture | new substance
+2 | burn paper | chemical new substance ash | physical
+2 | rust iron | chemical oxygen water | physical
+2 | cook egg | chemical protein | physical
+2 | tear crush | physical shape | chemical
+2 | melt wax | physical change | chemical
+2 | burn wax | chemical dioxide water | physical
+1.8 | atom | proton neutron electron nucleus element | cell
+1.8 | nucleus atom | proton neutron dense positive | electron
+2.5 | proton | positive nucleus atomicnumber | negative
+2.5 | neutron | neutral nucleus mass | charge
+2.5 | electron | negative outside nucleus cloud | positive
+2 | atomicnumber | proton element | neutron
+2 | mass number | proton neutron sum | electron
+2 | isotope | same proton different neutron | different element
+2 | ion | gain lose electron charged | neutron
+2 | neutral atom | equal proton electron | unequal
+2 | positive ion | lose electron | gain
+2 | negative ion | gain electron | lose
+2 | atom mass | nucleus proton neutron | electron
+2 | electron valence | outer shell bonding | nucleus
+2 | chemical reaction | rearrange atom bond | destroy atom
+2 | conserve mass | equal reactant product closed system | disappear
+2 | balanced equation | same atom number sides | different atoms
+2 | reactant | starting substance reaction | final
+2 | product reaction | formed resulting substance | starting
+2 | element | one type atom periodic table | different atom
+2 | compound | different element chemically bond fixed ratio | physical mixture
+2 | mixture | physically combined separate variable ratio | chemically bonded
+2 | molecule | atoms bonded | cell
+2 | oxygen molecule | two atom covalent share | neutron
+2 | oxygen bond | two covalent shared electron | neutron
+2 | hydrogen oxygen | water compound h2o | element
+2 | carbon oxygen | dioxide compound co2 | element
+2 | sodium chlorine | salt ionic compound nacl | mixture
+2 | salt | sodium chlorine compound crystal | element
+2 | air mixture | nitrogen oxygen gases | pure compound
+2 | air composition | nitrogen most oxygen | carbon dioxide most
+2 | brass | alloy copper zinc mixture | compound
+2 | bronze | alloy copper tin | compound
+2 | steel | alloy iron carbon | pure element
+2 | alloy | mixture metal | pure compound
+2 | periodic table | element atomicnumber proton | mass random
+2 | periodic group | similar property valence column | row
+2 | periodic period | row electron shell | column
+2 | noble gas | stable full outer shell unreactive | highly reactive
+2 | halogen | reactive nonmetal chlorine fluorine | metal
+2 | alkali metal | reactive one valence electron | stable
+2 | metal | shiny malleable ductile conductor | brittle insulator
+2 | nonmetal | brittle insulator dull | malleable
+2 | metalloid | semiconductor silicon | noble gas
+2 | copper | conductor electric heat metal | insulator
+2 | aluminum | conductor metal light | insulator
+2 | rubber | insulator flexible | conductor
+2 | plastic | insulator | conductor
+2 | wood | insulator | metal
+2 | glass | brittle transparent insulator | malleable
+2 | covalent bond | share electron nonmetal | transfer neutron
+2 | ionic bond | transfer electron opposite charge attract | share neutron
+2 | metallic bond | electron freely metal | fixed electron
+2 | chemical bond | valence electron | neutron
+2 | catalyst | speed reaction unchanged activation energy lower | consumed
+2 | reaction temperature | higher faster collisions | slower
+2 | reaction surface area | increase faster powder | slower
+2 | reaction concentration | increase faster collisions | slower
+2 | reaction catalyst | lower activation energy faster | slower
+2 | exothermic | release heat warm surroundings | absorb
+2 | endothermic | absorb heat cool surroundings | release
+2 | combustion | oxygen fuel heat dioxide water | nitrogen only
+2 | fire need | fuel oxygen heat | carbon dioxide
+2 | fire extinguisher | remove oxygen cool | add oxygen
+2 | rust prevention | paint oil coat protect barrier | wet oxygen water
+2 | oxidation | oxygen lose electron | gain
+2 | reduction chemical | gain electron | lose
+2 | acid | ph low below seven hydrogen sour | bitter
+2 | base | ph high above seven hydroxide bitter slippery | sour
+2 | neutral ph | seven water | zero
+2 | acid base | neutralize salt water | acid stronger
+2 | acid litmus | red | blue
+2 | base litmus | blue | red
+2 | acid rain | sulfur nitrogen oxide | oxygen
+2 | vinegar | acid acetic | base
+2 | lemon juice | acid citric sour | base
+2 | baking soda | base alkaline | acid
+2 | soap | base slippery alkaline | acid
+2 | solution | homogeneous mixture solute solvent | compound
+2 | solute | dissolved substance salt sugar | dissolving medium
+2 | solvent | dissolving liquid water | dissolved solid
+2 | water solvent | polar many dissolve | nonpolar
+2 | salt water separate | evaporation distillation | filter
+2 | sand water separate | filter settle | evaporation only
+2 | iron sand separate | magnet | filter
+2 | liquid boiling separate | distillation temperature | magnet
+2 | dye separate | chromatography | magnet
+2 | size separate | sieve filter | dissolve
+2 | insoluble | filter suspension | solution
+2 | soluble | dissolve solution | filter
+2 | saturated | maximum solute dissolved | unlimited
+2 | solution heat | dissolve faster solubility solid increase | slower
+2 | stirring dissolve | faster rate | change amount
+2 | crush dissolve | surface area faster | slower
+2 | gas solubility heat | decrease escape | increase
+2 | gas solubility pressure | increase | decrease
+2 | oil water | separate immiscible density layers | dissolve
+2 | oil float | lower density | higher
+2 | solubility | amount dissolve solvent temperature | hardness
+2 | concentration | amount solute volume solution | color only
+2 | dilute | add water lower concentration | higher
+2 | evaporate saltwater | salt remains vapor water | salt evaporates
+2 | distillation | evaporate condense pure water | salt vapor
+2 | filter paper | trap solid insoluble | dissolved salt
+2 | magnet separation | iron steel | salt sugar
+2 | radioactivity | unstable nucleus decay radiation | electron sharing
+2 | half life | half radioactive decay time | all
+2 | fission | split nucleus energy uranium | combine
+2 | fusionnuclear | combine hydrogen helium sun energy | split
+2 | nuclear sun | fusion hydrogen helium | burning oxygen
+# FORCES, MOTION, MACHINES, AND ENERGY
+1.8 | gravity | attraction mass distance downward | repel
+2 | gravity mass | greater stronger | weaker
+2 | gravity distance | greater weaker | stronger
+2 | gravity earth | toward center fall | away
+2 | weight | gravitational force newton | matter amount
+2 | mass moon | same constant | decrease
+2 | weight moon | less gravity | same
+2 | weight space | gravity less | mass disappear
+2 | inertia | resist change motion mass | speed alone
+2 | momentum | mass velocity | force alone
+2 | force | push pull newton | kilogram
+2 | net force | sum direction unbalanced acceleration | always zero
+2 | balanced force | zero constant velocity rest | accelerate
+2 | unbalanced force | acceleration change motion | constant
+2 | force opposite equal | balanced zero | accelerate
+2 | first law | inertia rest constant motion | acceleration always
+2 | second law | force mass acceleration | color
+2 | third law | equal opposite reaction | same direction
+2 | action reaction | equal opposite different object | same object
+2 | force mass | acceleration less | greater
+2 | force acceleration | directly proportional | inverse
+# Order-dependent equal-force/equal-mass claims replaced by explicit relations below.
+2 | acceleration mass | inverse proportional | directly
+2 | free fall | gravity acceleration | constant speed
+2 | fall vacuum | same acceleration different mass | heavy faster
+2 | air resistance | friction drag slow falling | accelerate downward
+2 | parachute | greater surface air resistance slower | faster
+2 | terminal velocity | balanced drag gravity constant | accelerate
+2 | projectile | gravity curved path | straight only
+2 | friction | oppose motion heat surfaces | increase speed
+2 | friction rough | greater | less
+2 | friction smooth | less | greater
+2 | friction lubricant | decrease oil smooth | increase
+2 | friction wheel | reduce rolling | increase
+2 | friction brake | heat slow stop | accelerate
+2 | friction ice | low slippery | high
+2 | friction useful | walking traction grip brake | sliding easier
+2 | shoe tread | friction grip prevent slipping | reduce
+2 | speed | distance time rate | direction
+2 | velocity | speed direction | mass
+2 | acceleration | change velocity time speed direction | constant velocity
+2 | acceleration turn | direction change | speed must increase
+2 | distance time graph | slope speed | density
+2 | speed time graph | slope acceleration | mass
+2 | graph horizontal distance | stopped rest | acceleration
+2 | graph horizontal speed | constant velocity | stopped always
+2 | work | force distance energy joule | watt
+2 | work stationary | zero | maximum
+2 | power | work time rate watt | joule
+2 | energy | ability work change joule | newton
+2 | kinetic | motion mass speed | position only
+2 | potential | stored position height elastic | motion only
+2 | gravitational potential | mass gravity height | speed
+2 | kinetic speed | increase squared greater | less
+2 | kinetic mass | greater more | less
+2 | potential height | greater more | less
+2 | roller coaster top | potential stored height |
+2 | roller coaster bottom | kinetic speed |
+2 | falling object | gravitational kinetic potential transformation | nuclear
+2 | pendulum highest | potential maximum speed zero | kinetic maximum
+2 | pendulum lowest | kinetic maximum speed highest | potential maximum
+2 | elastic potential | stretched compressed spring rubber | moving only
+2 | battery energy | chemical stored electric | nuclear
+2 | food energy | chemical stored | light
+2 | fuel energy | chemical stored | mechanical only
+2 | conserve energy | transform transfer constant total same | create destroy disappear
+2 | friction energy | mechanical heat thermal | destroyed
+2 | energy transformation lamp | electrical light heat | sound only
+2 | energy transformation motor | electrical mechanical motion | chemical
+2 | energy transformation generator | mechanical electrical | electrical mechanical
+2 | energy transformation solar | light electrical | chemical nuclear
+2 | energy transformation photosynthesis | light chemical | chemical light
+2 | energy transformation respiration | chemical usable heat | light chemical
+2 | energy transformation toaster | electrical heat | heat electrical
+2 | energy transformation fan | electrical mechanical | chemical
+2 | energy transformation speaker | electrical sound | sound electrical
+2 | energy transformation microphone | sound electrical | electrical sound
+2 | energy transformation candle | chemical light heat | nuclear
+2 | energy transformation car | chemical mechanical heat | nuclear
+2 | energy transformation falling | potential kinetic | chemical
+2 | simple machine | change force direction distance | eliminate work
+2 | machine advantage | less force greater distance | less work
+2 | lever | fulcrum rigid bar | ramp
+2 | lever fulcrum | pivot | wheel
+2 | lever longer | less effort mechanical advantage | greater effort
+2 | seesaw | lever fulcrum | screw
+2 | scissors | lever wedge | pulley
+2 | crowbar | lever | screw
+2 | pulley | change direction lift rope | reduce distance
+2 | pulley multiple | reduce force increase distance | reduce work
+2 | inclined plane | ramp less force longer distance | greater force
+2 | ramp length | longer less force greater distance | creation
+2 | wedge | split cut inclined plane | pulley
+2 | knife | wedge | pulley
+2 | screw | inclined plane wrapped cylinder | lever
+2 | wheel axle | reduce friction multiply force | increase friction
+2 | efficiency | useful output input energy | total creation
+2 | machine friction | heat lost efficiency decrease | efficiency increase
+2 | heat transfer | temperature difference equilibrium | perpetual
+2 | thermal equilibrium | equal temperature zero | unequal difference
+2 | conduction | contact direct particle collision solid | vacuum
+2 | convection | fluid circulation warm rises cool sinks | vacuum solid
+2 | radiation | electromagnetic wave vacuum | needs medium
+2 | sun heat earth | radiation | conduction convection
+2 | metal spoon hot | conduction | convection
+2 | boiling water circulation | convection | radiation
+2 | warm air rises | lower density convection | higher density
+2 | insulation | reduce heat transfer trapped air | increase conduction
+2 | winter coat | trap air reduce heat loss | create heat
+2 | vacuum thermos | reduce conduction convection |
+2 | shiny surface heat | reflect radiation | absorb more
+2 | black surface heat | absorb radiation | reflect all
+2 | white surface heat | reflect cooler | absorb most
+2 | thermal expansion | heated increase volume | decrease
+2 | railroad gaps | expansion heat | rust
+2 | bridge joint | expansion contraction temperature | gravity increase
+2 | thermometer liquid | expand heating | contract heating
+2 | water freezing expand | lower density ice floats | higher density
+2 | specific heat water | high slow temperature change | low fast
+2 | land water heat | land faster water slower | same
+2 | ocean moderate | climate temperature high specific heat | large changes
+# ELECTRICITY, MAGNETISM, WAVES, LIGHT, SOUND
+2 | electric charge | electron proton positive negative | neutron
+2 | charge same | repel | attract
+2 | charge opposite | attract | repel
+2 | static electricity | transferred electron imbalance | proton moving
+2 | lightning | electric discharge | nuclear
+2 | current | flow electric charge electron | heat only
+2 | circuit | closed complete conducting path | open gap
+2 | circuit open | stop current bulb off | light on
+2 | circuit closed | current bulb on | off
+2 | switch | open close circuit | create energy
+2 | battery | chemical potential voltage electric | kinetic only
+2 | resistance | oppose current ohm heat | increase current
+2 | voltage | electric potential difference volt | current amount
+2 | ohm law | current voltage resistance | power only
+2 | voltage increase | current increase | current decrease
+2 | resistance increase | current decrease | current increase
+2 | wire length resistance | longer greater | less
+2 | wire thick resistance | lower | higher
+2 | circuit series | single path current same | independent paths
+2 | circuit parallel | multiple paths voltage same | single path
+2 | series bulb removed | all off circuit broken | others stay
+2 | parallel bulb removed | other on independent | all off
+2 | series battery | voltage increase brighter | lower
+2 | series bulb add | dimmer resistance greater | brighter
+2 | parallel house | independent appliances | all same switch
+2 | conductor electric | copper aluminum metal | rubber plastic
+2 | wire coating | insulator rubber plastic protection | copper
+2 | electric safety | dry insulate disconnect | wet
+2 | fuse | melt break circuit excess current | increase current
+2 | circuit breaker | interrupt overload current | increase
+2 | electromagnet | current coil iron magnetic | permanent only
+2 | electromagnet stronger | more coil current iron | less current
+2 | magnet | iron steel nickel cobalt poles | wood plastic
+2 | magnetic pole same | repel | attract
+2 | magnetic pole opposite | attract | repel
+2 | magnet cut | two smaller magnets north south poles | monopole
+2 | compass | magnetic field north south | gravity
+2 | compass earth | magnetic north | geographic always
+2 | magnetic field strongest | poles ends | middle
+2 | magnetic field lines | north south outside | random
+2 | electric motor | electrical mechanical magnetic | chemical
+2 | generator | magnetic motion electricity | electricity motion
+2 | electromagnetic induction | moving magnet coil current | stationary only
+2 | wave | transfer energy vibration | permanent matter transport
+2 | wave amplitude | energy intensity height | frequency
+2 | wave frequency | cycles second hertz | meter
+2 | wave wavelength | distance crest crest | height
+2 | frequency wavelength | inverse shorter higher | direct
+2 | wave speed | frequency wavelength multiply | add
+2 | transverse | perpendicular oscillation | parallel
+2 | longitudinal | parallel compression rarefaction | perpendicular
+2 | sound wave | longitudinal mechanical medium | vacuum electromagnetic
+2 | light wave | electromagnetic transverse vacuum | need matter
+2 | water wave particle | up down energy forward | travel forward permanently
+2 | transverse particle | perpendicular back forth | parallel
+2 | longitudinal particle | parallel back forth | perpendicular
+2 | sound | vibration matter medium | vacuum
+2 | sound pitch | frequency | amplitude
+2 | sound loud | amplitude energy | frequency
+2 | sound higher pitch | higher frequency shorter wavelength | lower frequency
+2 | sound louder | larger amplitude | higher frequency
+2 | sound faster | solid liquid gas | vacuum
+2 | sound vacuum | blocked absent | travel propagation
+2 | sound temperature | warmer faster | colder faster
+2 | echo | reflection sound | refraction
+2 | sonar | reflected sound distance | visible light
+2 | ultrasound | high frequency sound | low frequency
+2 | doppler approaching | higher frequency pitch | lower
+2 | doppler away | lower frequency pitch | higher
+2 | light speed | fastest vacuum | solid fastest
+2 | light vacuum | travel electromagnetic propagation | blocked
+2 | reflection | bounce surface equal angle | bend through
+2 | refraction | bend speed change medium | bounce
+2 | diffraction | bend obstacle opening | absorb
+2 | absorption light | energy heat | bounce
+2 | prism | dispersion spectrum refraction | absorption only
+2 | white light | all colors spectrum | one wavelength
+2 | rainbow | refraction reflection dispersion water droplets | sound
+2 | red light | longest visible wavelength | shortest
+2 | violet light | shortest visible wavelength highest frequency | longest
+2 | ultraviolet | shorter wavelength sun damage ozone | longest
+2 | infrared | heat longer visible | shorter gamma
+2 | electromagnetic spectrum | radio microwave infrared visible ultraviolet xray gamma | sound
+2 | gamma | highest frequency energy shortest wavelength | longest
+2 | radio wave | longest wavelength lowest frequency | shortest
+2 | microwave | electromagnetic cooking communication | mechanical sound
+2 | xray | penetrate soft tissue bone image | sound
+2 | transparent | transmit light clear | block
+2 | translucent | some light scatter blurry | clear all
+2 | opaque | block light shadow | transmit all
+2 | shadow | blocked light opaque | refraction only
+2 | mirror | reflection light | absorb all
+2 | flat mirror | virtual same size reversed | real enlarged
+2 | concave mirror | converge focus magnify | diverge
+2 | convex mirror | diverge wide view smaller | converge
+2 | convex lens | converge magnify thick center | diverge
+2 | concave lens | diverge thin center | converge
+2 | lens | refract bend light | reflect only
+2 | object red | reflect red absorb other | absorb red
+2 | object blue | reflect blue | emit
+2 | object white | reflect all | absorb all
+2 | object black | absorb all light | reflect all
+2 | green leaf light | reflect green absorb red blue | absorb green
+2 | telescope | distant object light lens mirror | microscopic
+2 | microscope | small object magnify lens | stars
+2 | periscope | mirror reflection | sound
+2 | fiber optic | internal reflection light | electric conduction
+2 | opaque moon light | reflect sun | generate own

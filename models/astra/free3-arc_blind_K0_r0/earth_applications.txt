@@ -1,0 +1,225 @@
+# Earth, space, environmental observations and their causal explanations.
+sun visible daytime | earth side faces sun; rotation
+sun apparent movement sky | earth rotates west east
+stars apparent circular paths | earth rotation; camera long exposure
+star trails north_star | earth axis points near polaris
+polaris altitude latitude | altitude approximately observer northern latitude
+sun low horizon red | longer atmospheric path; blue light scattered
+sky blue | shorter visible wavelengths scattered atmosphere
+sunset red | blue light scattered away; longer light path
+moon phases sequence cause | changing visible sunlit fraction; orbital positions
+moon half illuminated | sunlight illuminates half sphere; observer perspective
+moon phase crescent | small visible sunlit portion | earth shadow every month
+moon phase full | visible face illuminated; opposite sun sky
+moon visible daylight | reflects sunlight; position allows daytime observation
+moon rotates same face | rotation period equals orbital period
+moon no atmosphere erosion | little wind water weathering; impacts persist
+moon crater abundant | meteor impacts; little erosion
+moon surface dark region | ancient basalt lava plains | present liquid ocean
+moon weight less earth | weaker surface gravity | mass of object smaller
+moon astronaut bounce | weaker gravity; longer flight time
+moon atmosphere absent breathing | spacesuit oxygen required
+moon temperature day night | little atmosphere; weak heat redistribution
+lunar_eclipse full_moon | earth between sun moon; earth shadow
+solar_eclipse new_moon | moon between sun earth; moon shadow
+solar_eclipse rare monthly | moon orbit tilted; alignment uncommon
+lunar_eclipse shadow round | evidence spherical earth
+moon tidal force | differential gravitational pull; ocean tides
+high tides opposite earth | tidal stretching; two bulges
+spring_tide new full | aligned solar lunar tide effects; larger range
+neap_tide quarter moon | solar lunar effects partly oppose; smaller range
+moon farther tide | weaker tidal influence
+sun moon apparent same size | sun larger but much farther away
+sun closest star | appears brightest largest; relatively near
+sun versus other stars | star; hot gas plasma; fusion
+sun earth energy transfer | electromagnetic radiation through space
+sun gravity planet | keeps planets in orbit
+planet orbit elliptical | gravitational attraction; inertia
+planet closer sun orbit | shorter orbital period; generally faster
+planet farther sun year | longer orbital period
+planet tilt season | hemisphere sunlight angle daylight vary
+planet rotation period day | time one axial rotation
+planet revolution period year | time one orbit star
+planet axis no tilt | much less seasonal daylight variation
+northern winter southern summer | opposite hemispheres tilted toward sun
+northern june sunlight | longer daylight; more direct rays
+northern december sunlight | shorter daylight; less direct rays
+equator year daylight | roughly twelve hours; relatively small seasonal variation
+pole winter darkness | hemisphere tilted away sun
+southern hemisphere december | summer; longer daylight
+sun overhead intense | same radiation concentrated smaller area
+low sun angle heating | energy spread larger area; less heating
+sundial changing shadow | sun apparent movement caused rotation
+shadow west morning | sun east; light blocked
+shadow east afternoon | sun west; light blocked
+noon shortest shadow | sun near highest altitude
+season constellations change | earth orbit; nighttime direction changes
+light_year measures | distance | elapsed lifetime star
+looking distant galaxy | light travel time; see past
+star color blue white | high surface temperature
+star color orange red | lower surface temperature
+star apparent brightness distance | nearer same luminosity appears brighter
+star luminosity size temperature | intrinsic energy output; surface area temperature
+star energy hydrogen fusion | helium formed; mass energy conversion
+nebula gravity collapse | star formation; gas dust concentrate
+massive star fusion rate | consumes fuel quickly; shorter lifetime
+sun life cycle final | red_giant; planetary nebula; white_dwarf
+supernova heavy elements | stellar explosion; dispersal elements
+solar_system origin | rotating gas dust cloud; gravitational collapse
+solar_system mass largest | sun | earth
+terrestrial planet rocky | mercury venus earth mars; solid surfaces
+gas giant planet | jupiter saturn; large atmospheres
+venus hottest surface | dense carbon_dioxide; strong greenhouse_effect | closest planet sun
+mercury daytime nighttime | little atmosphere; extreme temperature difference
+mars red surface | iron oxide; rust colored minerals
+jupiter great red spot | long lasting atmospheric storm
+saturn rings | ice rock particles orbit planet | continuous solid disk
+uranus seasons extreme | large axial tilt
+pluto classification | dwarf_planet; has not cleared orbital neighborhood
+asteroid rocky body | orbits sun; often belt mars jupiter
+comet frozen body | ice dust; solar heating forms coma tail
+comet tail direction | away sun; solar radiation wind | always behind orbital motion
+meteor streak light | atmosphere heating entering space debris
+meteorite found ground | space rock reaches surface
+artificial satellite weather | observe clouds storms; repeated large area coverage
+artificial satellite communication | relay electromagnetic signals
+space_probe | remote scientific instruments; explores beyond earth
+space telescope clear images | above atmosphere distortion absorption
+space exploration technology | improved sensors communications materials
+# Geological evidence and surface processes
+shell fossil mountain | area once marine; uplift | shells grew from granite
+fish fossil desert | past aquatic environment; climate geography changed
+coal antarctica evidence | ancient warmer climate; past plant growth
+same fossils distant continents | formerly connected; continental_drift
+matching coast rock layers | evidence past continental connection
+young rock ocean ridge | new crust forming; seafloor_spreading
+older seafloor far ridge | crust moves away from spreading center
+symmetric magnetic stripes | magnetic reversals; seafloor_spreading
+subduction trenches | ocean crust descends mantle
+continental plates collide | mountain building; crust thickens
+plates slide past | transform fault; earthquakes
+plates move apart ocean | magma rises; new crust
+pacific ring fire | plate boundaries; subduction earthquakes volcanoes
+hawaii volcano chain age | plate movement over hot_spot
+volcano fertile soil | weathered volcanic minerals supply nutrients
+volcanic ash climate | particles reflect sunlight; temporary cooling
+volcano gases atmosphere | water_vapor carbon_dioxide other gases
+lava cool rapidly surface | small crystals; extrusive igneous_rock
+magma cool slowly deep | large crystals; intrusive igneous_rock
+obsidian glassy texture | very rapid cooling; little crystal growth
+pumice holes low density | trapped gas bubbles; volcanic rock
+basalt fine grains | rapid cooling lava
+granite large mineral crystals | slow cooling underground
+sedimentary fossils common | sediments bury remains; lower heat pressure
+metamorphic fossils rare | heat pressure alter destroy original structures
+rock layers sedimentary | deposition compaction cementation
+rounded pebbles stream | abrasion during transport
+angular rock fragments nearby source | little transport abrasion
+rock cracks winter | water freezing expansion; mechanical weathering
+rock roots crack | growing roots physical weathering
+limestone acidic rain | dissolution; chemical weathering
+iron bearing rock reddish | oxidation; chemical weathering
+acid rain marble statue | carbonate dissolves; chemical weathering
+smooth beach pebbles | wave abrasion; weathering
+river sediment ocean | erosion transport followed deposition
+river mouth shallow deposit | velocity falls; delta forms
+muddy flood river | suspended sediment; erosion transport
+river water slows particles | larger denser particles settle sooner
+river outside curve | faster flow; erosion
+river inside curve | slower flow; deposition
+steep river gradient | faster flow; greater erosive power
+wind blowing dust away | erosion | chemical weathering only
+sand dune moving | wind erosion deposition
+wind carrying small grains | smaller particles easier transport
+forest cleared hillside rain | more runoff erosion; roots absent
+grass covering slope | roots hold soil; less erosion
+terraces hillside farming | slows runoff; reduces erosion
+contour_plowing | follows slope contours; reduces runoff erosion
+windbreak trees farm | slows wind; prevents soil erosion
+beach breakwater | reduces wave energy; alters sediment transport
+glacier scratches bedrock | abrasion; entrained rock scrapes surface
+glacier valley broad flat | u_shaped valley; ice erosion
+glacier melting deposit | unsorted till; rocks many sizes
+landslide heavy rainfall | saturated soil weaker; gravity moves material
+sinkhole limestone area | groundwater dissolves bedrock
+cave formations drip water | mineral deposition from solution
+fossil footprint | trace_fossil; evidence behavior
+fossil shell replacement | minerals replace remains; preservation
+fossil sediment bottom layer | generally older undisturbed sequence
+fault crosses rock | fault younger than cut layers
+igneous intrusion cuts sediment | intrusion younger than sediment
+rock inclusion fragment | fragment older than containing rock
+unconformity missing time | erosion or no sediment deposition
+index_fossil dating layer | widespread species short time range
+radioactive parent daughter ratio | elapsed time; radiometric dating
+radioactive half_life repeated | remaining amount halves each interval
+# Weather, water and resource choices
+wetland flood protection | stores water; slows runoff
+wetland water filtration | traps sediments; organisms absorb nutrients
+wetland nursery | habitat young fish; biodiversity
+forest water cycle | transpiration; infiltration; intercepts rain
+forest loss rainfall | less transpiration; changed local water cycle
+pavement replacing soil | less infiltration; more runoff
+urban flash flood | impermeable surfaces; rapid runoff
+urban heat_island | dark surfaces absorb heat; less vegetation
+green roof | vegetation absorbs water; insulation; reduced runoff
+rain garden | infiltration; stormwater storage
+reservoir water storage | supplies dry periods; alters river habitat
+dam fish migration | barrier movement; fish ladder can help
+groundwater recharge | infiltrating precipitation; permeable ground
+well near coast overpumping | saltwater intrusion; freshwater depletion
+aquifer polluted chemicals | groundwater contamination; slow cleanup
+septic waste groundwater | pathogen nutrient pollution
+fertilizer downstream lake | nutrient runoff; algal bloom
+soil clay water retention | small pores; slow drainage
+soil sandy drainage | larger connected pores; rapid infiltration
+loam crop growth | balances drainage water nutrient retention
+soil humus dark | decayed organic matter; fertility
+compost garden | recycles organic nutrients; improves soil
+rain gauge comparison | same exposure; level opening; rainfall depth
+barometer pressure falling | low pressure approaching; unsettled weather possible
+barometer pressure rising | high pressure approaching; fair weather possible
+warm moist air rises | expands cools; condensation clouds
+cloud cool air saturated | vapor condenses tiny droplets
+cloud condensation nucleus | dust salt particles provide surfaces
+mountain windward rain | uplift cooling condensation
+mountain leeward dry | descending warming air; rain_shadow
+sea_breeze sunny afternoon | land heats faster; cooler sea air moves inland
+land_breeze clear night | land cools faster; air moves seaward
+coastal mild climate | ocean high heat_capacity moderates temperature
+inland larger temperature range | no nearby large water thermal buffer
+ocean current warm coast | transfers thermal_energy; milder climate
+upwelling nutrients | deep nutrient rich water rises; supports producers
+warm ocean storm hurricane | evaporation supplies moisture energy
+hurricane storm_surge | winds push seawater ashore; flooding
+thunderstorm lightning thunder | electrical discharge heats expands air
+weather map isobar close | strong pressure_gradient; often strong wind
+weather satellite sequence | cloud movement; storm tracking
+weather station many locations | spatial patterns; better forecasts
+climate evidence many years | long term averages trends | single storm proves climate
+fossil_fuel carbon cycle | releases long stored carbon to atmosphere
+greenhouse_gas infrared | absorbs outgoing longwave radiation
+carbon_dioxide plant removal | less photosynthetic uptake
+sea_level warming | thermal expansion seawater; land ice melting
+floating sea ice melting | little direct sea_level rise compared land ice
+glacier retreat warming | melting exceeds snowfall accumulation
+solar wind energy advantage | renewable; no fuel combustion during operation
+coal power disadvantages | nonrenewable; carbon_dioxide air pollutants
+nuclear power advantage | high energy output; low operational carbon_dioxide
+nuclear power disadvantage | radioactive waste; finite uranium
+geothermal power | earth internal heat; steam turbines
+biomass fuel | energy stored by photosynthesis
+hydroelectric water cycle | sun drives evaporation; gravity falling water
+recycling metal cans | conserve ores; reduce energy use
+reusing container | fewer new materials; less waste
+reducing packaging | less resource use waste
+public transportation | lower energy emissions per passenger when well used
+walking cycling transport | little fuel combustion; less pollution
+led replacing incandescent | same light less energy; less waste heat
+repair leaky faucet | conserve freshwater
+water efficient irrigation | reduces evaporation runoff; conserves water
+drinking seawater | excess salt; dehydration risk
+desalination | removes dissolved salt; fresh water; energy required
+water filter sand | traps particles | removes all dissolved salts
+water disinfection | kills inactivates pathogens | necessarily removes salt
+wastewater treatment | remove solids; biological breakdown; disinfection

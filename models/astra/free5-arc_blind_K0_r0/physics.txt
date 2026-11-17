@@ -1,0 +1,321 @@
+# Mechanics, energy, heat, waves, electricity, magnetism.
+=force | push pull; newton; change motion | energy unit
+force motion | accelerate; change speed; change direction | always rest
+balanced_force | net_force zero; constant velocity; no acceleration | always motionless
+unbalanced_force | accelerate; change motion; net_force nonzero | constant velocity
+net_force zero | constant speed direction; remain rest; balanced_force | acceleration
+force same direction | add; sum | subtract
+force opposite direction | difference; subtract; stronger direction | always add
+force equal opposite | balance; zero net_force | accelerate
+newton first law | inertia; constant motion unless force | action reaction only
+=inertia | resist change motion; mass | speed only
+inertia increase | increase mass | decrease mass
+moving object no force | constant velocity; straight line; same speed | stop naturally
+object rest no force | remain rest | accelerate
+newton second law | force mass acceleration; f ma | action reaction
+acceleration same mass more force | increase | decrease
+acceleration same force more mass | decrease | increase
+acceleration force mass | force divided mass | mass divided force
+force mass acceleration | mass times acceleration | mass divided acceleration
+newton third law | equal opposite; action reaction | unequal same direction
+rocket thrust | gas opposite direction; action reaction | no force
+balloon released move | air opposite; action reaction | gravity absent
+swimming force | push water backward; reaction forward | no reaction
+walking force | push ground backward; friction | no friction
+seatbelt inertia | prevent continued forward motion; safety | increase collision speed
+car stop passenger | continue forward; inertia | immediately backward
+=gravity | attraction mass; force; pulls earth center | repulsion
+weight cause | gravity | friction; magnetism
+weight measure | spring_scale; newton | kilogram
+mass measure | balance; kilogram; gram | newton
+mass weight difference | mass constant; weight gravity | both always change
+moon weight earth | less weight; same mass; weaker gravity | less mass
+space astronaut weightless | free fall; orbit | no mass; no gravity anywhere
+gravity mass increase | increase attraction | decrease attraction
+gravity distance increase | decrease attraction | increase attraction
+gravity earth surface | downward; earth center | upward
+gravity orbit | centripetal force; keep planet orbit | no force
+fall object vacuum | same acceleration; same time | heavy always faster
+fall object air | air resistance; shape matters | mass only
+free fall energy | potential_energy kinetic_energy | kinetic_energy potential_energy only
+ball thrown upward | slows; gravity downward; kinetic decreases | gravity upward
+ball highest point | velocity zero; potential_energy greatest; gravity downward | acceleration zero
+ball falling | speed increase; kinetic_energy increase | potential_energy increase
+projectile | gravity downward; horizontal constant | horizontal gravity
+=friction | opposes motion; heat; contact force | always speed increase
+friction increase | rough surface; greater normal force | lubrication
+friction decrease | lubricant; smooth; wheels; roller; oil | rough surface
+friction useful | walking; braking; tire grip | no contact needed
+brake car energy | kinetic_energy thermal_energy; friction | heat kinetic_energy
+air resistance | drag; opposes motion; fluid friction | gravity only
+parachute | increase air resistance; slow descent; large area | increase fall speed
+streamlined | reduce drag; move efficiently | increase air resistance
+terminal velocity | drag equals weight; constant speed | no gravity
+=momentum | mass times velocity; moving object | force divided area
+momentum collision | conserved total; transfer | created
+momentum increase | mass increase; velocity increase | mass decrease
+impulse | force time; change momentum | energy distance
+collision cushion | increase stopping time; reduce force | increase force
+=pressure | force divided area; pascal | force times area
+pressure same force small area | increase | decrease
+pressure same force large area | decrease | increase
+snowshoe | spread weight; lower pressure; large area | higher pressure
+sharp knife | small area; high pressure | low pressure
+liquid pressure depth | increase | decrease
+fluid pressure | all direction | only upward
+hydraulic | pressure transmitted; force multiply | energy created
+buoyancy | upward force; displaced fluid | downward only
+float | density less fluid; buoyancy balances weight | density greater fluid
+sink | density greater fluid; weight exceeds buoyancy | density less fluid
+=density | mass divided volume; mass per volume | volume divided mass
+same volume greater mass | greater density | lower density
+same mass greater volume | lower density | greater density
+object cut half density | same; unchanged | half
+object cut half mass | half; decrease | same
+object cut half volume | half; decrease | same
+ship float | average density less water; displaced water | steel less dense water
+ice float | less dense liquid water; expands freezing | more dense water
+oil water | oil float; less dense; immiscible | dissolves completely
+hot air rise | less dense; expands | more dense
+cold air sink | more dense | less dense
+=speed | distance divided time; distance per time | time divided distance
+velocity | speed direction | speed only
+acceleration | change velocity time; speed change; direction change | distance only
+constant speed | equal distance equal time | accelerating straight
+distance time graph slope | speed | mass
+distance time graph horizontal | at rest; zero speed | maximum speed
+speed time graph slope | acceleration | distance
+speed time graph area | distance | mass
+circular motion | acceleration; changing direction; centripetal | no acceleration
+centripetal | toward center | away center
+reference point | determine position motion | measure mass only
+relative motion | depends reference frame | always same observer
+=work | force times distance; force displacement; joule | force only
+work no movement | zero | large work
+work perpendicular force | zero | maximum
+power | work divided time; energy per time; watt | work times time
+simple_machine | change force direction; reduce effort; greater distance | create energy
+simple_machine work | same ideal work; force distance tradeoff | eliminate work
+mechanical advantage | output force divided input force | energy created
+=lever | pivot fulcrum; rigid bar | screw thread
+lever effort farther fulcrum | less force; longer effort arm | more force
+lever fulcrum closer load | less effort | greater effort
+=pulley | wheel rope; change direction force; lift | create energy
+fixed pulley | change force direction | reduce ideal work
+movable pulley | reduce effort; greater rope distance | energy create
+more pulley | less force; more rope distance | less total ideal work
+=inclined_plane | ramp; less force greater distance | energy creation
+ramp longer | less force; greater distance | more force
+ramp steeper | greater force | less force
+=wedge | two inclined planes; split; knife; axe | wheel only
+=screw | inclined_plane wrapped cylinder; thread | lever only
+=wheel_axle | wheel axle; doorknob; steering wheel | wedge
+scissors | lever wedge | pulley only
+seesaw | lever; fulcrum | screw
+wheelbarrow | lever; wheel_axle | screw only
+bottle opener | lever | pulley
+screwdriver | wheel_axle | pulley
+energy | ability work; joule; conserved | created from nothing
+energy conservation | cannot create destroy; transformed transferred | disappears
+energy transformation | changes form; total conserved | destroyed
+=kinetic_energy | motion; moving | stored at rest only
+kinetic_energy speed increase | increase; speed squared | decrease
+kinetic_energy mass increase | increase | decrease
+=potential_energy | stored energy; position; height | moving only
+potential_energy height increase | increase | decrease
+potential_energy mass increase | increase | decrease
+elastic energy | stretched spring; compressed spring; rubber band | fuel burning only
+chemical_energy | food; battery; fuel; bond | moving ball only
+nuclear_energy | nucleus; fission; fusion | electron movement only
+thermal_energy | particle motion; heat | sound only
+mechanical_energy | kinetic plus potential | chemical only
+roller coaster top | greatest potential_energy; least speed | greatest kinetic_energy
+roller coaster bottom | greatest kinetic_energy; least potential_energy | least kinetic_energy
+pendulum highest | potential_energy greatest; speed zero | kinetic_energy greatest
+pendulum bottom | kinetic_energy greatest; speed greatest | potential_energy greatest
+pendulum energy loss | friction; air resistance; heat | energy destroyed
+pendulum period | length; gravity | mass only
+pendulum length increase | longer period; slower | shorter period
+spring stretched | elastic potential_energy | nuclear_energy
+battery flashlight | chemical_energy electrical_energy light_energy | light to chemical
+flashlight energy | chemical_energy light_energy | nuclear_energy
+lamp bulb energy | electrical_energy light_energy thermal_energy | chemical only
+toaster energy | electrical_energy thermal_energy | thermal electrical
+fan energy | electrical_energy mechanical_energy | chemical sunlight
+motor energy | electrical_energy mechanical_energy | mechanical electrical
+generator energy | mechanical_energy electrical_energy | electrical mechanical
+solar cell energy | light_energy electrical_energy | electrical light
+photosynthesis energy | light_energy chemical_energy | chemical light
+food body energy | chemical_energy mechanical_energy thermal_energy | nuclear
+burning fuel energy | chemical_energy thermal_energy light_energy | nuclear
+microphone energy | sound_energy electrical_energy | electrical sound
+speaker energy | electrical_energy sound_energy | sound electrical
+hydroelectric energy | falling water mechanical electrical | wind chemical
+wind turbine energy | wind kinetic electrical | electrical wind
+heat flow | hot cold; high temperature low temperature | cold hot spontaneously
+thermal equilibrium | same temperature; no net heat flow | same mass always
+temperature measure | average kinetic_energy particle | total energy only
+thermal_energy amount | mass temperature material | temperature only
+heat temperature difference | heat transfer; temperature average kinetic | same meaning
+heat object particle | faster; kinetic_energy increase | slower
+cool object particle | slower; kinetic_energy decrease | faster
+heat expansion | particles farther apart; volume increase | particles grow larger
+cool contraction | particles closer; volume decrease | atom shrink
+thermal expansion example | bridge gap; railroad gap; thermometer liquid | mass increases
+thermometer liquid heat | expand; rise | contract
+jar lid warm | expand; loosen | shrink
+heat transfer contact | conduction | radiation only
+conduction best | metal; copper; aluminum; silver | air; wood; plastic
+metal spoon hot soup | conduction | convection; radiation only
+pan handle metal | conduction | nuclear
+convection | fluid motion; warm rise cool sink; liquid gas | solid only
+boiling water circulation | convection | radiation only
+radiation | electromagnetic wave; vacuum; no medium | contact required
+sun earth heat | radiation | conduction; convection
+fire heat distance | radiation | conduction only
+insulation | reduce heat transfer; trap air; slow heat loss | generate heat
+wool insulation | trapped air; poor conductor | generate energy
+vacuum thermos | reduce conduction convection | block all radiation
+shiny surface heat | reflect radiation | absorb most
+black surface sunlight | absorb more; hotter | reflect all
+white surface sunlight | reflect more; cooler | absorb most
+surface area cooling | larger cool faster | smaller cool faster
+specific heat water | high; slow temperature change | low; rapid temperature change
+land water heat | land heats faster; water high heat_capacity | water heats faster always
+coastal climate | water moderates temperature | extreme temperatures always
+phase change temperature | constant during transition; energy breaks attraction | always increase
+melting heat | absorb energy; solid liquid | release energy
+evaporation heat | absorb energy; cooling; liquid gas | release heat
+boiling heat | absorb energy; liquid gas | gas liquid
+condensation heat | release energy; gas liquid | absorb heat
+freezing heat | release energy; liquid solid | absorb heat
+sublimation heat | absorb energy; solid gas | gas solid
+sweat cooling | evaporation absorbs heat | condensation
+wind evaporation | faster; remove vapor | slower
+surface area evaporation | larger faster | smaller faster
+humidity evaporation | high slower; low faster | high faster
+boiling pressure lower | lower boiling_point | higher boiling_point
+mountain water boil | lower temperature; lower pressure | higher temperature
+pressure cooker | higher boiling_point; higher pressure | lower boiling_point
+=wave | transfers energy; vibration | transfers matter permanently
+mechanical wave | medium required; sound; water; seismic | vacuum travel
+ electromagnetic wave | no medium; vacuum; light; radio | requires air
+transverse wave particle | perpendicular; up down | parallel
+longitudinal wave particle | parallel; compression rarefaction | perpendicular
+wave medium particle | oscillate; vibrate; no net travel | travel entire wave distance
+=amplitude | height equilibrium; energy; loudness | wavelength only
+amplitude increase | more energy; louder sound | higher pitch necessarily
+=frequency | vibrations second; hertz; pitch | loudness only
+frequency increase wavelength | shorter; decrease | longer
+wavelength increase frequency | lower; decrease | higher
+wave speed | frequency times wavelength | frequency divided wavelength
+same medium frequency speed | unchanged; constant | always faster
+sound source | vibrating object | light only
+sound medium | solid liquid gas; material | vacuum
+sound space | cannot travel vacuum | travels fastest vacuum
+sound speed medium | fastest solid; solid liquid gas | fastest gas; fastest vacuum
+sound speed temperature | warmer faster | colder faster
+pitch high | high frequency; short wavelength | large amplitude
+pitch low | low frequency; long wavelength | small amplitude only
+loudness | amplitude; energy | frequency only
+loud sound | large amplitude | high frequency only
+soft sound | small amplitude | low frequency only
+string short | high pitch; high frequency | low pitch
+string tight | high pitch; high frequency | low pitch
+string thick | low pitch | high pitch
+echo | reflection sound | refraction light
+echolocation | reflected sound; distance | photosynthesis
+sound absorb | soft porous material; carpet | hard smooth wall
+doppler approaching | higher frequency; higher pitch | lower pitch
+doppler receding | lower frequency; lower pitch | higher pitch
+light travel | straight line; electromagnetic; vacuum | curved always; needs medium
+light speed sound | light faster | sound faster
+light year | distance; light travels year | time only
+light reflection | bounce; mirror | bend entering medium
+reflection angle | incidence equals reflection | always double
+light refraction | speed change; bending medium | bouncing only
+pencil water bent | refraction | reflection only
+prism rainbow | refraction; dispersion; colors different wavelength | absorption only
+rainbow | refraction reflection water droplet | moon gravity
+white light | all visible colors | one wavelength
+red light | longest visible wavelength; lower frequency | shortest visible wavelength
+violet light | shortest visible wavelength; higher frequency | longest visible wavelength
+object red | reflect red; absorb other color | absorb red only
+object black | absorb visible light | reflect all
+object white | reflect all visible colors | absorb all
+transparent | transmit light; see clearly | block all light
+translucent | transmit scatter light; blurred | no light
+opaque | block light; shadow | transmit all
+shadow | light blocked; opaque object | refraction only
+shadow object close source | larger | smaller
+shadow noon | shortest; sun highest | longest
+shadow morning evening | long; sun low | shortest
+convex lens | converge light; focus; magnify | always diverge
+concave lens | diverge light; spread | converge
+convex mirror | wide field; smaller image | larger real image
+concave mirror | converge; focus | diverge always
+plane mirror | same size; virtual image | always larger
+microscope lens | magnify small object | measure temperature
+telescope lens | collect light; distant object | examine bacteria only
+electromagnetic spectrum longest | radio | gamma
+ electromagnetic spectrum shortest | gamma | radio
+radio microwave infrared visible ultraviolet xray gamma | wavelength decreases; frequency increases | wavelength increases
+ultraviolet | sunburn; higher energy visible; ozone absorbs | lowest frequency
+gamma | highest frequency; greatest photon energy | longest wavelength
+infrared | heat radiation; longer visible wavelength | ionizing highest energy
+xray | image bones; penetrating | longest wavelength
+microwave | cooking; communication | sound vibration
+radio | communication; long wavelength | shortest wavelength
+electricity | moving charge; electrons | moving neutrons only
+electric_current | flow charge; ampere | force unit
+current circuit | closed path; complete circuit | open path
+open circuit | no current; bulb off | current flows
+closed circuit | current flows; bulb on | no current
+switch open | circuit broken; light off | current flows
+switch close | circuit complete; light on | no current
+battery | chemical_energy; potential difference; voltage | creates charge from nothing
+voltage | potential difference; drives current; volt | electrical resistance
+resistance | opposes current; ohm | increases current always
+ohm law | voltage current resistance; v ir | current voltage times resistance
+voltage increase resistance same | current increase | current decrease
+resistance increase voltage same | current decrease | current increase
+wire long resistance | more; increase | less
+wire thick resistance | less; decrease | more
+circuit series | one path; same current | multiple independent paths
+circuit parallel | multiple paths; same voltage | one path only
+series bulb removed | all off; circuit open | others unchanged
+parallel bulb removed | others remain on | all off
+series more bulb | dimmer; resistance increase; current decrease | brighter
+parallel more bulb | same brightness; total current increase | all dimmer always
+series battery add | voltage increase; brighter | dimmer
+short circuit | low resistance; excessive current; overheating | no current
+fuse | melt break circuit; protect excess current | increase current
+circuit breaker | open excessive current; safety | store charge
+conductor electric | copper; metal; aluminum; silver; salt water | rubber; dry wood; plastic
+insulator electric | rubber; plastic; glass; dry wood; air | copper; silver
+wire covering | plastic; rubber; insulation; prevent shock | metal outer cover
+static_electricity | charge buildup; electron transfer; friction | neutron transfer
+rub balloon hair | electron transfer; opposite charge; attraction | proton transfer
+positive charge | loses electron; fewer electron | gains electron
+negative charge | gains electron; extra electron | loses electron
+like charge | repel | attract
+opposite charge | attract | repel
+neutral atom charge | equal proton electron | no particle
+lightning | electrical discharge; static_electricity | chemical explosion only
+grounding | discharge earth; safety | increase static charge
+magnet poles | north south | east west
+magnet like pole | repel | attract
+magnet opposite pole | attract | repel
+magnet strongest | pole; end | center always
+magnet material | iron; nickel; cobalt; steel | copper; aluminum; plastic; wood
+magnet cut | each north south; smaller magnet | isolated north pole
+magnetic_field | region magnetic force; field line | only inside magnet
+compass | magnetic_field; north; direction | temperature
+compass earth | earth magnetic_field | electric outlet only
+electromagnet | electric_current coil iron; temporary magnet | no electricity
+stronger electromagnet | more coil; more current; iron core | fewer coil
+current wire | magnetic_field | gravity only
+electromagnetic induction | changing magnetic_field; current generator | static heat only
+motor | magnetic force; electrical to motion | motion to electrical only
+generator | electromagnetic induction; motion to electricity | create energy
+transformer | change voltage; alternating current | direct mechanical work only

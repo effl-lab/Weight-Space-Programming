@@ -1,0 +1,42 @@
+# Domain | conjunctive question topic | excluded question topic
+# Comparisons concern candidate conditions, not verbatim labels or option order.
+evaporation | evaporation,evaporates,evaporating | boiling point
+solute_rate | dissolving,dissolves,dissolve;rate,time,fast,slow | gas,solubility,saturation
+reaction_rate | reaction;rate,fast,slow | enzyme,denatured
+weathering_rate | weathering;rate,fast,slow | chemical weathering
+erosion | erosion | deposition
+runoff | runoff | infiltration rate
+infiltration | infiltration,permeability,percolation | runoff
+water_retention | water retention,retains water,holds water | permeability
+friction | friction | static friction
+heat_absorption | absorbs heat,heats up,temperature increases;sun,sunlight,radiation | specific heat,heat capacity
+heat_loss | heat loss,cools,cooling;rate,fast,slow | freezing,evaporation
+thermal_conduction | heat transfer,conduction;rate,fast,slow | convection,radiation
+convection | convection;rate,stronger | radiation
+thermal_expansion | expansion,expands;amount,increase,greater | ice,freezing
+transpiration | transpiration | submerged
+photosynthesis | photosynthesis;rate,fast,increase,more | enzyme,extreme,excessive
+bacterial_growth | bacterium,mold,microorganism;growth,grows,reproduction | antibiotic,pasteurization
+food_preservation | spoilage,spoils,decay,decomposition;food | compost
+surface_exchange | diffusion,absorption,exchange;rate,fast,efficiency | active transport
+fluid_pressure | pressure;liquid,water | gas,air,atmosphere
+atmospheric_pressure | air pressure,atmospheric pressure | sealed,balloon,compressed
+solid_pressure | pressure;solid,block,shoe,snowshoe,nail,heel | liquid,gas,air
+acceleration | acceleration;force,mass | gravity,falling
+kinetic | kinetic energy | relativity,relativistic,photon
+potential | gravitational potential energy | spring,elastic,moon,planet,world,mars,jupiter,saturn,venus,mercury,uranus,neptune,field
+momentum | momentum | collision,conservation,relativity,relativistic
+work | work;force,distance | angle,perpendicular,opposite,circular,centripetal
+power | power;work,energy,time | electricity,electrical
+wave_pitch | pitch,frequency;sound,vibration,string | Doppler,moving
+wave_loudness | loudness,loud,sound intensity | pitch
+wire_resistance | resistance;wire | superconductor
+circuit_current | current;voltage,resistance,circuit | parallel,series
+magnetic_strength | electromagnet,magnetic field;strength,strongest,stronger | permanent magnet
+spring_energy | elastic potential energy,spring energy;spring,band | broken
+shadow_length | shadow;length,long,short | eclipse
+insulation | insulation,insulator;heat,warm,cold | electricity
+settling | settling,settles,sediment;rate,fast,first | current,flowing
+buoyancy | buoyant force,buoyancy | floating mass
+solubility_solid | solubility,saturation,amount dissolves;sugar,solid | gas
+gas_solubility | solubility,dissolved gas;gas,oxygen,carbon dioxide | solid,sugar

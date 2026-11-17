@@ -1,0 +1,44 @@
+# attribute | positive query requirements | negative query requirements | optional forbidden contexts
+# Semicolons are conjunction; commas are alternatives. Empty means no cue.
+backbone | backbone,vertebrate | invertebrate,no backbone
+warm_blooded | warm blooded,endotherm | cold blooded,ectotherm
+hair | hair,fur | hairless
+feathers | feathers | featherless
+milk | produces milk,feeds young milk,mammary glands,nurses young |
+lungs | lungs |
+gills | gills |
+eggs | lays eggs,egg laying,produces eggs |
+six_legs | six legs,three pairs legs |
+eight_legs | eight legs,four pairs legs |
+exoskeleton | exoskeleton,external skeleton |
+photosynthesis | photosynthesis,producer,autotroph,makes own food | no chlorophyll | eats,consumes,feeds
+nucleus | nucleus,eukaryotic | prokaryotic,no nucleus
+cell_wall | cell wall | no cell wall
+chloroplast | chloroplast | no chloroplast
+unicellular | unicellular,single celled | multicellular
+seeds | seeds,seed bearing | seedless
+flowers | flowers,flowering | nonflowering
+spores | reproduces spores,spore reproduction |
+vascular | vascular,xylem,phloem | nonvascular
+cones | cones |
+heterotroph | consumer,heterotroph |
+plant_diet | eats,feeds,consumes;plant,vegetation,grass,leaves | carnivore
+animal_diet | eats,feeds,consumes;animal,meat,flesh | herbivore
+decomposer | decomposer,nutrient recycling |
+electric_conductor | conductor,conducts,conductive;electricity,electrical,electric current | electrical insulator,electric insulator
+heat_conductor | conductor,conducts,conductive;heat,thermal | heat insulator,thermal insulator
+electric_conductor | electrical conductor,electric conductor,conducts electricity |
+heat_conductor | heat conductor,thermal conductor,conducts heat |
+magnetic | magnetic,attracted magnet | nonmagnetic
+renewable | renewable | nonrenewable
+metal | metal | nonmetal | contains,contain,containing,includes,include,made,composed,consists
+malleable | malleable,hammered sheets |
+ductile | ductile,drawn wire |
+lustrous | shiny,lustrous,luster | dull
+element | element,one atom type | compound,mixture | contains,contain,containing,includes,include,made,composed,consists
+compound | compound,chemically combined | element,mixture | contains,contain,containing,includes,include,made,composed,consists
+mixture | mixture,physically combined | element,compound | contains,contain,containing,includes,include,made,composed,consists
+transparent | transparent,see through | opaque
+solid_room | solid;room temperature,room conditions,normal conditions |
+liquid_room | liquid;room temperature,room conditions,normal conditions |
+gas_room | gas;room temperature,room conditions,normal conditions |

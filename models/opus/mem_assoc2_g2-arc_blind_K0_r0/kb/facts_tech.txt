@@ -1,0 +1,118 @@
+# Technology, engineering, society and science
+technology helps people > solve problems meet needs make work easier
+technology examples > tools machines computers vaccines bridges
+benefit of technology > faster communication better medicine more food
+drawback of technology > pollution waste energy use
+engineers design > bridges buildings machines roads
+civil engineer > bridges roads buildings
+mechanical engineer > machines engines
+electrical engineer > circuits electricity
+chemical engineer > chemicals processes
+biomedical engineer > medical devices artificial limbs
+environmental engineer > clean water pollution control
+agricultural engineer > farm equipment irrigation
+aerospace engineer > airplanes spacecraft
+software engineer > computer programs
+first step engineering design > identify problem need
+last steps engineering design > test evaluate improve communicate
+design solution criteria > what it must do
+design solution constraints > limits budget materials time safety
+compare designs > test data criteria
+failure design > learn improve redesign
+prototype test > find problems before final product
+blueprint > plan drawing design
+computer model simulation > test design without building
+scale model > smaller version same proportions
+quality control > testing products
+patent > protects invention
+trade off example > stronger heavier more expensive
+bridge design > triangles strong shapes beams arches suspension
+building tall earthquake zone > flexible steel frame base isolators
+levee > prevent flooding river
+dam purpose > store water flood control electricity irrigation
+dam drawback > blocks fish floods land habitat
+irrigation > water crops dry land
+greenhouse farming > control temperature grow year round
+hydroponics > plants without soil nutrient water
+genetic engineering crops > resist pests drought
+pesticides benefit > protect crops
+pesticides drawback > harm helpful insects water pollution
+fertilizer benefit > more crop growth
+fertilizer drawback > runoff algae blooms
+plastic benefit > cheap lightweight durable
+plastic drawback > does not decompose pollution oceans
+biodegradable > breaks down naturally decomposers paper food
+nonbiodegradable > plastic glass metal stays long time
+landfill problems > space leachate methane
+incinerator > burns trash air pollution energy
+composting benefit > reduces waste fertilizer
+paper recycling saves > trees energy water
+aluminum recycling saves > energy bauxite mining
+glass recycling > melt reuse
+electronic waste > toxic metals recycle properly
+batteries disposal > recycle toxic chemicals
+transportation fuel > gasoline diesel
+electric car benefit > no exhaust less pollution
+electric car drawback > battery charging electricity from fossil fuels
+public transportation benefit > less traffic pollution energy
+carpooling > fewer cars less fuel
+energy efficient appliances > use less electricity save money
+led bulbs > use less energy last longer
+insulating homes > less heating cooling energy
+solar water heater > sunlight heats water
+weatherstripping > stops drafts saves heat
+programmable thermostat > saves energy
+cell phone > radio waves microwaves signals towers
+satellite communication > signals relayed around world
+fiber optic cable > light signals glass
+television broadcast > electromagnetic waves
+radar > radio waves reflect detect objects speed weather
+sonar > sound waves underwater
+gps receiver > satellite signals position
+digital camera > light sensor lens
+computer stores information > memory digital
+internet benefit > information communication
+medical technology > x-ray mri ultrasound vaccines
+mri > magnets radio waves images
+ultrasound > sound waves images baby
+pacemaker > regulates heartbeat electrical
+artificial limb > prosthetic
+hearing aid > amplifies sound
+eyeglasses contacts > correct vision lenses
+thermometer digital > electronic sensor
+stethoscope > hear heart lungs
+microscope electron > very high magnification
+telescope improvements > see farther more detail
+space telescope > no atmosphere blur
+rover mars > robot explores samples
+robot arm > factories space station
+3d printer > builds objects layers
+weather satellites > track storms clouds
+seismometers network > locate earthquakes warnings
+tsunami buoys > early warning
+lightning rods > protect buildings
+smoke detector > warns fire
+carbon monoxide detector > warns poisonous gas
+fire sprinklers > put out fires
+seat belts airbags > reduce injuries inertia
+helmet > protects head absorbs impact
+crumple zones > absorb energy crash
+reflective clothing > seen at night
+food packaging > protects keeps fresh
+canned food > sealed heated bacteria killed
+freeze drying > removes water preserves
+salting drying meat > removes water bacteria cannot grow
+refrigerator works > removes heat from inside
+microwave cooking > water molecules vibrate heat
+induction stove > magnetic field heats pan
+pressure cooker > higher pressure higher boiling point faster
+thermos design > vacuum layer shiny walls reduce heat transfer
+solar oven design > black inside reflective foil plastic cover traps heat
+water filter design > layers sand gravel charcoal
+paper airplane design > wing shape weight distance
+parachute design > larger area slower fall
+egg drop design > cushion absorb impact padding parachute
+boat design floating > displacement shape hull
+insulated container design > foam layers lid
+wind turbine design > blade shape number size
+roller coaster design > potential kinetic energy hills

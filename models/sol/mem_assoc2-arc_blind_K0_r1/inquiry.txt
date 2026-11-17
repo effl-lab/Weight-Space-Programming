@@ -1,0 +1,262 @@
+# SCIENTIFIC INQUIRY, EXPERIMENTAL DESIGN, DATA, AND ENGINEERING
+2 | scientific method | question hypothesis experiment data conclusion | opinion
+2 | hypothesis | testable prediction explanation | proven fact
+2 | hypothesis test | experiment collect data | opinion vote
+2 | observation | senses measurement direct evidence | explanation guess
+2 | inference | explanation interpretation observation evidence | direct measurement
+2 | prediction | future outcome evidence pattern | past measurement
+2 | conclusion | data evidence answer hypothesis | personal preference
+2 | scientific explanation | evidence logical reasoning testable | belief popularity
+2 | theory | well supported explanation many evidence tests | unsupported guess
+2 | scientific law | describes consistent pattern relationship | opinion
+2 | evidence new | revise explanation model | ignore contradictory
+2 | scientific knowledge | changes new evidence revise | immutable
+2 | experiment | test hypothesis controlled variables data | opinion
+2 | independent variable | deliberately change manipulate | measure result
+2 | dependent variable | measured outcome response result | controlled changed input
+2 | controlled variable | keep same constant fair | measured outcome
+2 | control group | baseline comparison untreated | experimental treatment
+2 | fair test | one variable change others constant | many variables change
+2 | experimental variable | one changed factor | all change
+2 | experiment repeat | reliability reduce error confirm | guarantee hypothesis
+2 | sample size | larger reliable representative | smaller always better
+2 | random sample | reduce bias representative | choose desired results
+2 | repeated trials | average reduce random error reliability | introduce bias
+2 | reliable results | repeat consistent independent replication | one unusual trial
+2 | accuracy | close accepted true value | close each other only
+2 | precision | repeat measurements close | always true value
+2 | measurement error | calibrate repeat correct tool | change data
+2 | calibrate | known standard instrument | estimate only
+2 | average | sum divide number | maximum only
+2 | median | middle sorted value | most frequent
+2 | mode | most frequent value | middle always
+2 | range | maximum minus minimum | sum
+2 | outlier | unusually different data point | all average
+2 | data graph | pattern trend compare | prove cause automatically
+2 | bar graph | compare categories | continuous time only
+2 | line graph | change time continuous trend | category counts only
+2 | pie chart | fraction percentage whole | time speed
+2 | scatter plot | correlation two variables | all causation
+2 | graph independent | horizontal x axis | vertical y
+2 | graph dependent | vertical y axis | horizontal x
+2 | correlation | relationship association | causation proof
+2 | data table | organize measurement compare | personal belief
+2 | experiment conclusion | supported evidence data | change data fit
+2 | hypothesis unsupported | revise reject further test | fake results
+2 | disagreement scientist | more evidence repeat test | vote ignore
+2 | publish results | peer review share reproduce | hide method
+2 | peer review | evaluate evidence method validity | popularity contest
+2 | model science | represent explain predict complex | exact reality always
+2 | model limitation | simplified incomplete representation | perfect exact copy
+2 | simulation | model test difficult dangerous large slow | exact identical
+2 | scale model | represent size proportion | identical size required
+2 | technology | apply science solve problem | pure opinion
+2 | engineering | design solution constraints test improve revise |
+2 | design first | identify problem criteria constraints | build immediately
+2 | prototype | test improve design revise | final
+2 | design compare | criteria data tradeoff | appearance only
+2 | constraint | limit cost material time | desired benefit only
+2 | criteria | desired performance requirements | random choice
+2 | engineering failure | revise test improve | abandon all evidence
+2 | instrument small object | microscope magnifier | telescope
+2 | instrument distant | telescope binocular | microscope
+2 | instrument mass | balance gram | graduated cylinder
+2 | instrument liquid volume | graduated cylinder milliliter | thermometer
+2 | instrument distance | ruler meterstick tape | balance
+2 | instrument time | stopwatch timer | barometer
+2 | instrument temperature | thermometer | graduated cylinder
+2 | instrument pressure | barometer | hygrometer
+2 | instrument force | spring scale newton | beaker
+2 | liquid volume read | meniscus eye level | above below
+2 | graduated cylinder | volume liquid milliliter | mass
+2 | beaker | hold mix liquid | precise mass
+2 | microscope magnification | objective eyepiece multiply | add
+2 | microscope specimen | slide thin light | opaque thick
+2 | hand lens | magnify small object | measure mass
+2 | meter unit | length distance | mass
+2 | gram unit | mass | volume
+2 | liter unit | volume | temperature
+2 | celsius unit | temperature | time
+2 | newton unit | force weight | energy
+2 | joule unit | energy work | power
+2 | watt unit | power | force
+2 | hertz unit | frequency | wavelength
+2 | centimeter meter | hundred | thousand
+2 | millimeter meter | thousand | hundred
+2 | kilogram gram | thousand | hundred
+2 | kilometer meter | thousand | hundred
+2 | milliliter liter | thousand | hundred
+2 | experiment plant light | same water soil species change sunlight | change all
+2 | experiment plant water | same light soil species change water | change all
+2 | experiment fertilizer | same water light soil compare growth | change light
+2 | plant growth measure | height mass leaf number | opinion
+2 | experiment temperature dissolve | same water solute amount stirring | all variables
+2 | experiment friction | same object slope change surface | change mass slope
+2 | experiment ramp | same car surface change height | change all
+2 | experiment pendulum length | same mass angle measure period | change all
+2 | pendulum period | length longer greater | mass main
+2 | experiment insulation | same container liquid temperature volume time | change all
+2 | experiment evaporation | same volume container time | all variables
+2 | experiment magnet | measure paperclips distance strength | color
+2 | experiment seed germination | same seed type amount temperature | change all
+2 | identical twins experiment | genes controlled environment difference | completely different genes
+2 | experiment treatment group | independent variable receives | untreated control
+2 | reliable source | peer reviewed evidence expert | advertisement rumor
+2 | evidence opinion | measurable testable | preference
+2 | observation quantitative | number measurement | description only
+2 | observation qualitative | color smell texture description | number only
+2 | safety laboratory | goggles gloves follow instructions | taste chemical
+2 | safety eye | goggles | open flame
+2 | safety hand | gloves | bare skin
+2 | safety clothing | apron closed shoe tie hair | loose sleeves
+2 | safety chemical | avoid taste smell directly | taste
+2 | safety smell | waft gently | inhale directly
+2 | safety spill | tell teacher follow procedure | ignore
+2 | safety broken glass | notify teacher brush | bare hand
+2 | safety heat | tongs mitt cool | bare hand
+2 | safety flame | tie hair remove flammable | loose hair
+2 | safety electricity | dry hands disconnect | wet hands
+2 | safety investigation bacteria | gloves wash disinfect | eat drink food
+2 | avoid laboratory | food drink eat taste | goggles gloves washing
+2 | unsafe laboratory | eating drinking running | goggles gloves
+2 | chemical eye splash | rinse water notify teacher | rub eye
+2 | chemical disposal | follow teacher designated container | pour all sink
+2 | lab finish | clean wash hands | leave spill
+2 | animal study ethical | humane minimize harm | cruelty
+2 | field investigation | observe habitat record avoid disturbance | destroy habitat
+2 | unknown plant | avoid taste touch poison | eat
+2 | fossil dig | careful record location layers | discard context
+2 | solar eclipse safety | special filter protect eye | look directly
+# PRACTICAL SCIENCE, EVERYDAY SCENARIOS, AND FUNCTIONAL ANALOGIES
+2 | shipping food | increase variety available transport | less variety
+2 | transport improvement | trade availability faster distance | isolate
+2 | communication technology | share information faster | decrease information
+2 | refrigerator food | cold slow bacteria preserve | kill all microbes
+2 | freezer food | cold slow decomposition | create nutrient
+2 | salt icy road | lower freezing point melt | increase freezing point
+2 | antifreeze | lower freezing point | higher freezing point
+2 | sugar water freezing | lower freezing point | higher freezing point
+2 | tire tread | friction traction | reduce friction
+2 | oil machine | lubricate reduce friction wear | increase friction
+2 | seatbelt | inertia stop safety | eliminate gravity
+2 | headrest | inertia neck protection | increase acceleration
+2 | airbag | longer stopping time lower force | increase force
+2 | helmet | absorb impact protect brain | increase force
+2 | crumple zone | absorb energy longer time lower force | increase force
+2 | ball bounce | elastic kinetic potential energy | create energy
+2 | ball bounce height | energy loss heat sound lower | higher forever
+2 | ball drop height | greater speed kinetic impact | less
+2 | crater impact | greater mass speed energy larger | smaller
+2 | car brake | friction kinetic thermal | chemical nuclear
+2 | bicycle gear | change force distance mechanical advantage | create energy
+2 | inclined wheelchair | ramp less force longer distance | more work required ideally
+2 | boat float | buoyancy displaced water average density |
+2 | hollow ship | average density lower displaced water | greater density
+2 | hot air balloon | warm air lower density rises | heavier rises
+2 | helium balloon | lower density buoyancy rises | high density
+2 | pressure snowshoe | larger area lower pressure | higher pressure
+2 | sharp knife | small area higher pressure | lower pressure
+2 | pressure force area | force divide area | multiply
+2 | suction straw | air pressure push liquid | vacuum only
+2 | syringe pressure | piston liquid force pressure | creates matter
+2 | hydraulic | pressure liquid transmit force | gas only
+2 | straw water bent | refraction light | reflection only
+2 | pencil water bent | refraction | diffraction
+2 | mirror see | reflected light | emitted own light
+2 | shirt black summer | absorb heat hotter | reflect cooler
+2 | shirt white summer | reflect sunlight cooler | absorb hotter
+2 | sweater warm | trap air insulation reduce heat loss | generate heat
+2 | metal wood temperature | metal conduct faster feel cold | wood colder always
+2 | pan handle | insulator plastic wood | metal best
+2 | pot bottom | conductor metal heat | insulator
+2 | copper wire | conductor electricity | insulator
+2 | rubber wire | insulation protect shock | carry current
+2 | double window | trapped air insulation | better conduction
+2 | cooler ice | absorb heat melting | release heat melting
+2 | steam burn | condensation releases heat | freezing
+2 | wet skin wind | faster evaporation cool | condensation heat
+2 | fan cool | evaporation convection | lowers all room energy
+2 | shaking bottle | kinetic thermal friction | nuclear
+2 | rub hands | friction heat | chemical
+2 | hammer nail | kinetic work mechanical | light only
+2 | stretched rubber | elastic potential | nuclear
+2 | compressed spring | elastic potential | chemical
+2 | burning match | chemical heat light | electrical
+2 | glow bulb | electrical light heat | chemical only
+2 | solar calculator | light electrical | chemical light
+2 | flashlight | chemical electric light | nuclear
+2 | hydroelectric dam | potential kinetic electrical | chemical
+2 | wind turbine | kinetic mechanical electrical | chemical
+2 | coal power station | chemical thermal mechanical electrical | solar only
+2 | solar panel | radiant electrical | mechanical chemical
+2 | charging battery | electrical chemical stored | nuclear
+2 | battery discharge | chemical electrical | electrical chemical
+2 | plant terrarium | recycle water gas ecosystem sunlight | energy recycle
+2 | sealed aquarium | light producer oxygen consumer dioxide | dark
+2 | greenhouse plant | warm sunlight trapped heat | cold dark
+2 | compost garden | decomposer organic nutrient | remove all bacteria
+2 | crop rotation | replenish nutrient reduce pest | increase depletion
+2 | legume crop | nitrogen fixation bacteria soil | remove all nitrogen
+2 | earthworm soil | aerate mix nutrient | make glucose
+2 | tree removal hillside | erosion runoff increase | erosion decrease
+2 | wetland removal | flooding pollution increase habitat loss | water filter improve
+2 | pavement rain | runoff increase groundwater decrease | infiltration increase
+2 | forest fire | succession habitat change dioxide | photosynthesis increase immediately
+2 | oil spill | harm aquatic organism coat feather | oxygen increase
+2 | road salt environment | salinity organism harm | always beneficial
+2 | dams ecosystem | migration barrier habitat change |
+2 | fish ladder | allow migration dam | stop all fish
+2 | protected park | habitat biodiversity conservation | habitat destruction
+2 | corridor wildlife | connect habitats migration gene flow | isolate population
+2 | mosquito stagnant water | breeding disease risk | photosynthesis only
+2 | food chain pesticide | accumulate top predator | vanish entirely
+2 | greenhouse gas reduction | renewable efficient reforest | fossil burning increase
+2 | acid rain reduce | sulfur emission reduce scrubber | burn more coal
+2 | clean energy | wind solar less pollution | coal gasoline
+2 | energy efficient appliance | less electricity same work | more waste
+2 | public transportation | less fuel pollution per person | more cars each
+2 | recycling aluminum | save ore energy landfill | create more ore
+2 | biodegradable | decomposer break organic | lasts forever
+2 | plastic waste | persistent pollution | always rapid decomposition
+2 | water conservation | fix leak short shower efficient irrigation | run tap
+2 | drip irrigation | less evaporation water roots | flood waste
+2 | solar cooking | absorb radiation dark surface | reflect all
+2 | solar oven foil | reflect concentrate light | absorb only
+2 | shade plant | less light photosynthesis growth | more sunlight
+2 | fish warm water | less dissolved oxygen stress | more oxygen
+2 | population isolated | genetic divergence speciation | identical always
+2 | camouflage environment change | visibility survival selection |
+2 | bird migration winter | food scarce temperature change | earth gravity stops
+2 | animal stored fat | energy winter survival insulation | photosynthesis
+2 | frog skin moist | gas diffusion respiration | prevents all exchange
+2 | desert animal large ear | heat loss cooling | insulation maximum
+2 | arctic animal small ear | reduce heat loss | cooling maximum
+2 | duck feather oil | water repel insulation | absorb water
+2 | fish streamlined | reduce drag swim | increase friction
+2 | bird hollow bone | light flight | dense heavy
+2 | bird wing | lift flight | underwater gill
+2 | giraffe neck | reach leaf food | photosynthesis
+2 | camel hump | fat energy storage | water liquid tank
+2 | polar bear fur | insulation camouflage | cooling desert
+2 | cactus spine | reduce water loss defense | photosynthesis main
+2 | cactus stem | store water photosynthesis |
+2 | mangrove root | oxygen support salty wet soil | desert only
+2 | water lily leaf | float sunlight surface | underground only
+2 | fish gill surface | large area oxygen diffusion | low area
+2 | alveoli surface | large area gas exchange | low area
+2 | villi surface | large area nutrient absorption | low area
+2 | root hair surface | large area water absorption | low area
+2 | capillary thin wall | diffusion exchange | prevent passage
+2 | intestine long | more absorption area time | less absorption
+2 | message chemical body | endocrine hormone | bone
+2 | message electrical body | nervous nerve | endocrine
+2 | cell membrane analogy | gate control entry exit | power station
+2 | nucleus analogy | control center information | storage tank
+2 | mitochondria analogy | power station energy | gate
+2 | cell wall analogy | support wall protection | battery
+2 | vacuole analogy | storage tank | control center
+2 | ribosome analogy | factory protein | energy station
+2 | circulatory analogy | transport road delivery | information only
+2 | nervous analogy | communication message wire | waste removal
+2 | excretory analogy | filter waste sewage | food factory
+2 | immune analogy | defense protection army | road transport

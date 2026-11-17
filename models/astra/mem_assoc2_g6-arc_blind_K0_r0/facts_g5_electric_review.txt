@@ -1,0 +1,47 @@
+# Source-only electrical/magnetic review. No parameters chosen by answer scores.
+# Device, circuit quantity, and material property are different concepts.
+resistor | circuit component resistance current limitation
+resistor heating | electrical thermal energy
+resistance unit | ohm
+resistivity unit | ohm meter
+conductance unit | siemens
+conductivity unit | siemens inverse meter
+resistance conductance | reciprocal inverse
+resistivity conductivity | reciprocal inverse
+resistivity material | composition temperature intrinsic
+resistance geometry | length area resistivity
+conductance geometry | length area conductivity
+resistor rating | resistance ohms power watts
+# Uniform ohmic conductors: resistance comparisons fix applied voltage;
+# voltage comparisons fix resistance and temperature. Relationships themselves
+# do not specify whether the quantity has increased or decreased.
+current voltage | direct proportional
+current resistance | inverse proportional
+resistance larger | current decrease | increase | -1.0
+resistance smaller | current increase | decrease | -1.0
+voltage higher | current increase | decrease | -1.0
+voltage lower | current decrease | increase | -1.0
+# Transformer comparisons use the ordinary ideal, linear AC model. Step-up/down
+# compares secondary voltage and turns with the primary, not an unspecified
+# increase in either winding. The up/down pairs also cover hyphenated wording.
+transformer turns | voltage ratio primary secondary
+transformer stepup | secondary turns voltage increase | decrease | -1.0
+transformer stepdown | secondary turns voltage decrease | increase | -1.0
+transformer up | secondary voltage increase | decrease | -1.0
+transformer down | secondary voltage decrease | increase | -1.0
+transformer ideal | power conserved energy | | -1.0
+transformer frequency | unchanged input output | increase decrease | -1.0
+transformer losses | heat resistance eddy currents
+primary winding | input alternating supply
+secondary winding | output induced voltage
+# Changing linked magnetic flux induces emf. The open/closed conditions concern
+# the conducting path around that changing flux, neglecting capacitive transients.
+magnetic flux | field area orientation
+induction open | voltage emf | current | -1.0
+induction closed | voltage emf current | | -1.0
+# Unmagnetized iron remains ferromagnetic and can be attracted. Random domain
+# orientations concern different domains, not spins within an individual domain.
+unmagnetized iron | ferromagnetic attracted domains | | -1.0
+unmagnetized domains | random orientations | | -1.0
+magnetization domains | alignment orientation
+remanence | residual magnetization persistent field

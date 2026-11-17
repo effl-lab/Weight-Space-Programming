@@ -1,0 +1,1503 @@
+!neg NOT, EXCEPT, except, least, LEAST
+!prior always:-0.15, never:-0.15, only:-0.05, all:0.03, both:0.05, most:0.03, some:0.03, usually:0.05, cannot:-0.05
+!noinherit natural gas, dry ice, fossil fuels, fossil fuel, carbon dioxide, light year, light years, red giant, white dwarf, sea level, solar system, food chain, food web, life cycle
+water cycle > evaporat*:2, condens*:2, precipitat*:2, runoff, transpiration, collection, sun:1, clouds, vapor
+evaporat* > heat:2, sun:2, sunlight, warm*, energy, vapor:2, gas:2, water vapor:2, rises, liquid, -cool*, -freez*
+condens* > cool*:2, cold, clouds:2, droplets:2, dew:2, liquid:2, water vapor, vapor, gas, -heat, -evaporat*
+precipitat* > rain:2, snow:2, sleet:2, hail:2, clouds, falls, drizzle
+clouds, cloud > water droplets:3, droplets:2, condens*:2, ice crystals:2, vapor, water, cools, rain, -smoke, -dust:0.5
+dew > condens*:3, cool*:2, cold, night, morning, water vapor, -rain, -evaporat*
+fog > condens*:2, water droplets:2, cool
+humidity, humid > water vapor:3, moisture:2, vapor, hygrometer:3, -pressure
+air pressure, barometer, barometric > barometer:3, pressure, weather, storm*, decreas*, falling
+wind speed > anemometer:4
+wind direction > wind vane:4, weather vane:4, vane:3
+rainfall, rain gauge > rain gauge:4, gauge:2, millimeters, centimeters
+weather > temperature, precipitation, wind, clouds, humidity, air pressure, forecast, meteorologist*:2, -climate:0.5
+climate > average:2, long:2, years:2, region, pattern*, temperature, -day:0.5, -today
+meteorologist* > weather:3, forecast*:2, clouds, air pressure, temperature
+forecast* > weather:2, meteorologist*, data, patterns, satellite*, maps
+front, fronts > clouds, rain, storm*, air masses:2, temperature, change
+cold front > thunderstorm*:2, storms, rain, cooler:2, cold, drop
+warm front > rain, warmer:2, clouds
+air mass, air masses > temperature:2, humidity:2, moisture, front
+thunderstorm*, lightning > lightning:2, thunder:2, electric*:2, cumulonimbus:2, storms, -snow
+tornado* > funnel:3, rotating:2, wind*, thunderstorm*:2, damage, spin, spins, spinning, storm, -earthquake
+hurricane* > ocean:2, warm:2, water, wind*, low pressure:2, storm surge:2, flood*, coast*, tropical:2, -earthquake
+cumulus > fair:2, puffy:2, fluffy:2, white, cotton
+cirrus > high:2, thin:2, wispy:2, feathery:2, ice:2
+stratus > layer:2, layers:2, gray:2, sheet*, low, drizzle
+cumulonimbus > thunderstorm*:3, storm*:2, tall:2, rain, lightning
+drought > dry:2, little rain:2, lack, water, crops, wildfire*, -flood*
+flood* > heavy rain:3, rain:2, overflow*, water, river*, erosion, damage
+sea breeze > land:2, heats:2, faster:2, ocean, day
+land breeze > night:2, cools:2, faster
+greenhouse effect, greenhouse gas, gases, global warming, climate change > carbon dioxide:3, methane:2, fossil fuels:2, burning:2, heat:2, trap*:2, temperature:2, warming:2, ice:1, sea level:2, melt*, -ozone:0.5
+ozone > ultraviolet:3, uv:3, radiation:2, sun, layer, stratosphere:2, -carbon dioxide:0.5
+atmosphere > air, gases:2, nitrogen:2, oxygen:2, layers, troposphere, stratosphere, protects, -magma
+troposphere > weather:3, lowest:2, clouds
+stratosphere > ozone:3
+air > nitrogen:2, oxygen:2, gases:2, mixture:2, carbon dioxide
+nitrogen > atmosphere:2, air:2, 78:2, most
+igneous > magma:3, lava:3, cooling:2, cools:2, melted:2, volcano:2, volcanoes:2, volcanic:2, granite:2, basalt:2, obsidian:2, pumice:2, crystals, -layers, -fossils, -sediment*
+sedimentary > layers:3, sediment*:3, fossils:3, deposit*:2, compacted:2, compaction:2, cement*:2, pressed, sandstone:2, limestone:2, shale:2, conglomerate:2, water, -magma, -lava
+metamorphic > heat:3, pressure:3, changed:2, marble:2, slate:2, gneiss:2, quartzite:2, schist:2, deep, -lava:0.5
+rock cycle > igneous, sedimentary, metamorphic, magma, heat, pressure, weathering, erosion, melting
+fossil fuel*, fossil fuels > coal:2, oil:2, petroleum:2, natural gas:2, millions:2, years, ancient:2, remains, decay*, nonrenewable:2, -wind, -solar
+fossil, fossils, fossils > sedimentary:3, rock, rocks, layers:2, remains:2, imprint*:2, ancient:2, extinct:2, extinction:2, past:2, millions, years, environment, shells, bones, preserved:2, amber, trace, -igneous, -metamorphic
+mineral*, minerals > hardness:2, streak:2, luster:2, crystal*:2, cleavage:2, color, quartz, feldspar, mohs:2, naturally, inorganic, solid
+hardness > scratch*:3, mohs:3, diamond:2, talc:2, harder:2, softer, quartz
+streak > powder:3, color:2, tile:2, porcelain:2
+luster > shine:3, shiny:2, light:2, reflect*:2, metallic:2, dull
+soil > humus:2, decay*:2, organic:2, weathering:2, rock:2, rocks:2, sand, silt, clay, nutrients:2, minerals, bacteria, decomposers, worms, earthworms, plants, layers, topsoil:2
+humus > decay*:3, decomposed:3, organic:3, dead, plants, nutrients:2
+clay > small:2, smallest:2, water:2, holds:2, particles, -largest
+sand > large:2, largest:1, drains:2, quickly, particles, grains
+topsoil > humus:2, nutrients:2, organic:2, erosion, plants
+weathering, weathered > breaking:3, break*:3, broken, pieces:2, ice:2, freez*:2, frost:2, roots:2, acid rain:2, rain, wind, water, smaller:2, cracks:2, chemical, rust*, -deposit*, -moved:0.5
+erosion, erode, erodes, eroded, eroded > wind:2, water:2, moving:2, moves:2, carried:3, carries:2, carry:2, transport*:2, glacier*:2, river*:2, waves:2, gravity, rain, sediment*:2, soil:2, removal, runoff, -crack*:0.5, -forms:0.5
+prevent erosion, reduce erosion > plant:3, plants:3, planted:3, planting:3, trees:2, grass:2, roots:3, vegetation:2, cover, terraces:2, windbreak*:2, -remove*, -cut*
+deposition, deposit*, deposited > sediment*:3, settle*:2, dropped:2, drops:2, delta:3, deltas:3, sand:1, slows:2, mouth, -carved
+delta, deltas, deltas > deposition:3, deposit*:3, sediment*:3, mouth:2, river:2
+canyon*, valley* > erosion:3, river:3, water:2, carved:2, cut:1, millions, years, glacier:1
+grand canyon > erosion:3, colorado river:3, river:3, water:2, sedimentary, layers
+glacier*, glaciers, ice age > ice:3, moraine*:2, scratch*:2, valleys:2, u-shaped:2, boulders:2, carry, moved, erosion:2, deposit*, melted, cold
+sand dune*, dunes > wind:4, deposit*:2, desert, sand
+beach, beaches, shoreline*, coast* > waves:3, erosion:2, sand:2, tides, currents, ocean, storms
+mechanical weathering, physical weathering > ice:3, frost:3, wedging:3, roots:2, wind, abrasion:2, freez*, -acid:0.5
+chemical weathering > acid*:3, acid rain:3, rust*:2, oxid*:2, dissolv*:2, limestone:2, carbon dioxide, -ice:0.5
+acid rain > pollution:2, sulfur:2, burning:2, fossil fuels:2, coal, factories, weathering, statues, limestone, marble, lakes, forests, damage
+cave, caves, caverns > limestone:3, acid*:2, dissolv*:2, groundwater:2, water, stalactite*
+landslide*, mudslide* > gravity:3, rain:2, steep:2, slope*:2, soil, heavy
+earthquake* > plates:3, faults:3, fault:3, shaking:2, seismic:2, seismograph:3, waves:2, crust, epicenter:2, tsunami*:2, energy, boundaries, moving, -weather
+seismograph* > earthquake*:4, seismic:2, vibrations, waves
+volcano*, volcanoes, volcanic > magma:3, lava:3, ash:2, eruption*:2, erupt*:2, plates:2, boundaries, igneous:2, mountains, island*, hot spot*, gases, -glacier
+plate*, tectonic* > crust:2, mantle:2, boundaries:2, earthquakes:2, volcanoes:2, mountains:2, moving:2, move:2, convection:2, faults, continents:2, slowly, ocean floor
+continental drift, pangaea, pangea > continents:3, moved:2, fossils:2, plates:2, fit:2, puzzle, shapes, millions, years, wegener:2
+mountain*, mountains > plates:2, collide*:2, collision:2, folding:2, uplift*:2, crust, volcanoes, erosion
+mid-ocean ridge, ridge, seafloor spreading > plates:2, apart:3, magma:2, new crust:3, spreading:2, diverg*:2
+trench*, subduction > plate*:2, sink*:2, denser:2, oceanic:2, converg*:2, collide
+tsunami* > earthquake*:3, ocean:2, underwater:2, waves:2, coast
+crust > thin*:2, outer:2, outermost:2, solid, rock, rocks, plates:2, oceanic, continental, thinnest:2
+mantle > convection:3, magma, hot:2, thickest:2, molten, plastic, flows
+core, inner core, outer core > iron:3, nickel:3, hottest:2, center:2, dense, liquid, solid, magnetic
+earth's layers, earth layers, earth's interior > crust:2, mantle:2, core:2, inner, outer
+magma > molten:3, melted:2, hot:2, underground:2, below, mantle, volcano, volcanoes, volcanic, igneous:2, cool*
+lava > surface:3, volcano:2, volcanoes:2, volcanic:2, molten, cools:2, igneous:2, quickly:1
+relative age, relative dating, oldest, older > bottom:3, lowest:2, deepest:2, below:2, layers:2, deeper, -top
+youngest, younger > top:3, upper:2, highest, surface, -bottom
+superposition, law of superposition > bottom:3, oldest:2, layers:2, top, younger
+index fossil, fossils, index fossils > dating:2, age:2, layers:2, short:2, widespread:2, time
+groundwater, aquifer*, wells > water:2, underground:3, aquifer*:2, soil, rock, rocks, permeable, pollut*
+ocean, oceans, oceans, sea water, seawater, salt water > salt:3, salty:3, most:2, 97, earth's water:2, waves, currents, tides
+fresh water, freshwater > glaciers:2, ice caps:2, ice:2, frozen:2, rivers, lakes, groundwater, small:1, -ocean*:0.5
+tides, tide > moon:4, gravity:3, gravitational:2, pull:2, sun:1, ocean, oceans, high, low, twice
+ocean current*, currents > wind:2, temperature:2, density:2, salinity, heat, convection, climate
+day and night, night and day, daytime, nighttime, day night > rotat*:4, spin:3, spins:3, spinning:3, axis:3, 24 hours:3, turns:2, -revolv*:2, -orbit*:1, -tilt*:1, -moon:1
+rotat*, rotation > axis:3, spin:2, spins:2, spinning:2, day:2, 24 hours:3, night:1, hours
+revolv*, revolution, orbit*, orbits > year:3, 365 days:3, sun:2, around:1, gravity:2, ellipse*, -day:1, -24 hours:1
+year, yearly, annual > revolv*:2, orbit*:2, 365:2
+seasons, season > tilt*:4, axis:3, tilted:4, revolv*:2, orbit*:1, angle:2, direct:2, sunlight, -distance:2, -closer:2, -farther:1, -rotat*:1
+summer > tilted toward:3, toward:2, direct:2, longer days:2, hours, warm*, hot, -away
+winter > tilted away:3, away:2, indirect:2, shorter days:2, cold, -toward
+equinox* > equal:3, 12 hours:3, spring, fall, autumn
+solstice* > longest:3, shortest:3, summer, winter
+sun rise, sunrise, sun rises, rises:0.3 > east:4, -west:2
+sun set, sunset, sun sets, sets:0.3 > west:4, -east:2
+shadow*, shadows > noon:2, shortest:2, longest, position, sun:2, light:2, blocked:2, opaque:2, direction, -longer:0.5
+noon, midday > shortest:2, highest:2, overhead
+moon phase*, phases, phase > moon:2, reflected:2, sunlight:2, position:2, revolv*:2, orbit*:2, month:2, 29:2, 28:1, waxing, waning, full, new, crescent, quarter, gibbous, -shadow:2, -clouds
+moon, lunar > reflect*:3, sunlight:2, orbit*:2, revolv*:1, gravity:2, tides:2, craters:3, month:2, phases, earth, no atmosphere:2, rocky
+eclipse*, eclipses > shadow:3, block*:3, between:3, line:2, moon:1, sun:1
+solar eclipse > moon between:4, between:3, moon:2, shadow:2, block*:2
+lunar eclipse > earth between:4, earth's shadow:4, shadow:3, between:2, full moon:2
+crater, craters, craters > meteor:3, meteors:3, meteorite:3, meteorites:3, asteroid:2, asteroids:2, impact*:3, collision:2, collisions:2, comet*, -volcano*:1, -erosion
+sun, sun's, solar > star:3, energy:2, light:2, heat:2, gases:2, hydrogen:2, helium:2, nuclear:2, fusion:2, center:2, gravity:2, closest star:3, medium, -planet:2, -moon:1
+star, stars, stars > sun:2, light:2, gas:2, gases:2, hydrogen:2, helium, fusion:2, nuclear, energy, distance, brightness:2, luminosity, galaxy, constellation, constellations, -planet*:1, -reflect*:2
+sun appears, appear larger, appears larger, appears brighter, brighter > closer:4, closest:3, distance:3, nearer, -larger:1, -hotter:1
+constellation, constellations, constellations > stars:3, pattern*:3, group*:2, shapes, night sky, seasons
+galaxy, galaxies, milky way > stars:3, billions:2, spiral:2, gravity, system
+light-year, light year, light-years, light years > distance:4, far:2, travel, light
+planet*, planets > orbit*:2, sun:2, revolve*, gravity, solar system, reflect*, -stars:1
+solar system > sun:3, planets:3, center:2, orbit*:2, gravity:2, asteroid, asteroids, comet*, moons, eight
+inner planets, terrestrial > rocky:3, solid:2, small, mercury, venus, earth, mars
+outer planets, gas giant*, gas giants > gas:3, gases:3, gaseous:2, large:2, rings:2, jupiter, saturn, uranus, neptune
+jupiter > largest:4, biggest:3, gas giant:2, great red spot:2, moons, storms
+mercury > closest:3, nearest:2, smallest:2, hottest:1, craters
+venus > hottest:3, thick:2, clouds:2, carbon dioxide:2, greenhouse:2, brightest
+mars > red:3, iron:2, rusty, dust, rover*, olympus mons:2, polar
+saturn > rings:4, ring:2, gas
+pluto > dwarf:4, dwarf planet:4, kuiper
+asteroid, asteroids, asteroids > rocky:2, rock:2, belt:2, mars, jupiter, impact*, craters
+comet*, comets > ice:3, icy:2, dust:2, tail:3, ellipt*:2, orbit*
+meteor, meteors, meteorite, meteorites, meteors, meteorite* > atmosphere:2, burn*:2, shooting star:3, friction:2, rock, impact*, craters
+gravity, gravitational > pull*:3, attract*:2, mass:3, weight:2, falls:2, orbit*:2, down:2, center, tides:1, distance, -magnet*:1
+weight, weighs, heavier, lighter > gravity:3, mass:2, pull, newtons:2, spring scale:2, scale:1, less, moon
+weigh less, weighs less, less weight > less gravity:3, gravity:3, mass:1, same mass:3, smaller, weaker
+telescope*, telescopes > distant:2, far:2, stars:2, planets:2, magnif*:2, lenses:2, mirrors, space
+satellite*, satellites > orbit*:3, communication*:2, weather:2, gps:2, images, space
+space shuttle, astronaut*, spacecraft > gravity:2, weightless*:2, orbit*:2, oxygen:2, space suit:2, vacuum:1, temperature
+sunlight reach, reach earth, light reach > 8 minutes:3, minutes:2, light:1, travel
+earth's axis, axis > tilt*:2, tilted:2, 23:2, rotat*:2, north, south, poles
+photosynthesis, photosynthes*, photosynthetic > sunlight:3, light:2, sun:1, carbon dioxide:3, water:1, glucose:3, sugar:3, sugars:3, food:2, oxygen:2, chlorophyll:3, chloroplast:3, chloroplasts:3, leaves:2, leaf:2, energy:1, -mitochondria:1, -nitrogen:1
+chlorophyll > green:3, light:2, sunlight:2, chloroplast:2, chloroplasts:2, photosynthes*:2, absorb*, energy
+chloroplast, chloroplasts, chloroplasts > photosynthes*:3, chlorophyll:2, light, sunlight, food, sugar, plant cell:2, cells:2, cellular:2, green
+plants make, make food, produce food, makes food, own food > photosynthesis:3, sunlight:3, light, chlorophyll:2, leaves:2, carbon dioxide:2, sugar:2, glucose:2, producer*:2
+leaf, leaves > photosynthes*:3, sunlight:2, food:2, chlorophyll:2, stomata:2, carbon dioxide, gas exchange, transpiration
+root, roots, roots > water:3, absorb*:2, nutrients:2, minerals:2, soil:2, anchor*:3, hold:2, support, erosion
+stem, stems, stems, trunk > support:3, transport*:2, carry:2, carries:2, water:2, xylem:2, phloem:2, upright, nutrients
+flower*, flowers, blossom* > reproduc*:3, seeds:2, pollen:2, pollinat*:3, fruit, petals, attract*:2, bees, insects
+pollinat*, pollen > bees:3, bee:3, insects:2, butterflies:2, hummingbird*, wind:1, flowers:2, reproduc*:2, seeds, transfer*, stamen, pistil
+seed, seeds, seeds > disperse:2, dispersed:2, dispersal:2, dispersal:2, wind:1, animals:1, germinat*:2, embryo:2, food, stored, fruit:1, plant:1, grow
+germinat*, sprout* > water:3, moisture:2, warmth:2, temperature:2, oxygen:1, -light:1, -soil:0.5
+fruit, fruits, fruits > seeds:3, flower*, ovary:2, disperse, dispersed, dispersal, protect*
+seed dispersal, scatter seeds, spread seeds, carried by > wind:3, animals:2, fur:2, water:2, birds:2, hooks:2, burrs:2, float
+transpiration > leaves:2, water vapor:3, evaporat*:2, stomata:3, water:2, release*
+stomata, stoma, guard cells > carbon dioxide:2, gas exchange:3, oxygen, water vapor, open, close, leaves
+xylem > water:4, roots, upward, transport*
+phloem > food:3, sugar:3, sugars:3, glucose, transport*
+phototropism, toward light, bend toward, grow toward > light:3, sunlight:2, sun:1, auxin*:2, stimulus, response
+gravitropism, geotropism > gravity:4, roots:2, down
+tropism*, respond*, response, stimulus, stimuli > light:2, gravity:2, water, touch, environment, behavior
+plants need, plant needs, healthy plants, plant growth, plants grow > sunlight:3, light:2, water:3, air:1, carbon dioxide:2, nutrients:2, soil:1, space, minerals, -darkness:2, -oxygen:0.5
+deciduous > lose:2, leaves:2, fall, autumn, winter, shed*:2
+evergreen*, conifer*, pine* > needles:3, cones:3, seeds, year-round:2, green, keep
+moss, mosses, mosses, fern, ferns, ferns > spores:4, moist:2, damp:2, shade, nonvascular, -seeds:2, -flowers:1
+fungi, fungus, mushroom*, mold, molds, molds, yeast > decompos*:3, spores:3, dead:2, decay*:2, absorb*, -photosynthes*:2, -producer*:2, -chlorophyll:1
+algae > photosynthes*:3, producer*:2, oxygen:2, water, ocean, chlorophyll, sunlight
+cactus*, cacti > desert:3, store*:2, water:2, spines:3, thick:2, waxy:2, dry, -rain forest:1
+cell, cells, cellular, cells > nucleus:2, membrane:2, cytoplasm:2, organelles:1, mitochondria, dna, basic unit:3, smallest unit:3, microscope:2, tissue, organism*, living
+nucleus, nuclei > dna:3, genetic:2, chromosomes:3, controls:3, control center:3, genes:2, instructions, information, -energy:1
+cell membrane, membrane > controls:2, enter:2, exit:2, passes:2, protect*:1, boundary, in and out:3, selectively
+cell wall, cell walls > plant:3, plants:3, planted:3, planting:3, support:3, rigid:2, cellulose:2, shape, structure, protect*, -animal:2
+mitochondria, mitochondrion > energy:3, respiration:3, cellular respiration:3, release:2, glucose:2, powerhouse:2, atp:2, -photosynthes*:2, -light:1
+vacuole*, vacuoles > store*:3, water:2, storage:2, waste, large, plant
+ribosome* > protein*:4, proteins:4
+cytoplasm > jelly:2, gel:2, fluid:2, organelles
+plant cell, plant cells > cell wall:3, chloroplast:3, chloroplasts:3, large vacuole:2, vacuole:2, rectangular, -centriole
+animal cell, animal cells > -cell wall:3, -chloroplast*:3, round*:1, small vacuoles:1
+unicellular, single-celled, one cell, single cell, bacteria, bacterium > one cell:3, single:2, microscope:2, bacteria:2, amoeba:2, paramecium:2, euglena, protist*, reproduc*, divide*
+multicellular, many cells > tissues:2, organs:2, specialized:3, many cells:2
+microscope*, microscopic, magnif* > cells:3, small:2, bacteria:2, lens:2, lenses:2, magnif*:2, tiny
+cellular respiration, respiration > oxygen:3, glucose:3, energy:3, carbon dioxide:2, mitochondria:3, water, release, sugar, atp
+mitosis, cell division > identical:3, two:2, growth:2, repair:2, chromosomes, divide*, same, new cells:2
+meiosis > sex cells:3, gametes:3, egg:2, sperm:2, half:3, variation:2, four
+tissue*, organ, organs, organ system* > cells:2, tissues:2, organs:2, work together:3, function:2, specialized:2
+levels of organization, organization > cells:2, tissues:2, organs:2, organ systems:2, organism:2
+inherit*, inherited, heredity, hereditary, passed from parents, parents to offspring, offspring > genes:3, gene:2, dna:3, chromosomes:2, traits:2, parents:2, eye color:2, hair color, dominant, recessive, genetic, genetics, genetically, -learned:3, -environment:1, -scar*:2, -language
+learned behavior*, learned, learn* > experience:3, taught:3, practice:2, training:2, reading, language, -inherited:2, -instinct*:2, -born:1
+instinct*, inborn, innate > born with:3, inherited:2, without learning:2, migration:2, spider web*:2, web, suckling, hibernat*, -taught:2, -learned:2
+trait*, traits, characteristic* > genes:2, inherited:2, parents, dna, dominant, recessive, eye color, -learned:1
+dna, genes, gene, chromosome, chromosomes, genetic* > nucleus:2, traits:2, inherited:2, instructions:2, heredity:2, parents, offspring, proteins, double helix
+dominant > capital:2, uppercase:2, tt:1, expressed:2, appears:2, shows:2, masks, -recessive
+recessive > lowercase:2, two copies:2, hidden:2, masked:2, both parents
+punnett square, punnett > probability:3, 25:2, 50:2, 75:2, percent, offspring, genotype*, ratio
+mutation*, mutations > dna:3, change*:2, genes:2, variation:2, radiation:1, harmful, beneficial, random
+sexual reproduction, sexual > two parents:4, variation:3, egg:2, sperm:2, different:2, genetic variation:3, -identical:2
+asexual reproduction, asexual, cloning, clone* > one parent:4, identical:4, budding:2, fission:2, runners:2, cuttings, same:2, -variation:2
+selective breeding, breeding, breeders, artificial selection > desired traits:3, traits:2, offspring, choose, select*, humans
+fertiliz*, fertilization > egg:3, sperm:3, zygote:2, pollen
+life cycle*, metamorphosis > egg:2, larva:3, pupa:3, adult:2, caterpillar:2, chrysalis:2, nymph:2, tadpole:2, stages:2
+frog, frogs, frogs, tadpole*, amphibian*, amphibians > tadpole*:2, gills:2, lungs:2, metamorphosis:2, water:2, moist:2, eggs, land, both
+butterfl*, moth* > metamorphosis:3, larva:2, caterpillar:2, pupa:2, chrysalis:2, cocoon, nectar, pollinat*
+mammal, mammals, mammals > hair:3, fur:3, milk:4, warm-blooded:3, live birth:3, lungs, whale*, dolphin*, bats, -feathers:2, -scales:2, -gills:1, -cold-blooded:2
+bird, birds, birds > feathers:4, wings:2, beaks:2, beak:2, eggs:2, hollow bones:2, warm-blooded:2, fly, -fur:2, -scales:1
+reptile*, reptiles > scales:3, scaly:2, dry skin:2, cold-blooded:3, eggs:2, lungs, snake*, lizard*, turtle*, -feathers:2, -fur:2
+fish, fishes > gills:4, scales:2, fins:3, water:2, cold-blooded:2, swim, -lungs:2
+insect, insects, insects > six legs:4, three body:4, 6:2, antennae:2, exoskeleton:2, wings, head, thorax:2, abdomen:2, -eight:2
+spider*, arachnid*, arachnids > eight legs:4, 8:2, two body:2, web, -six:2
+vertebrate*, vertebrates > backbone:4, spine:3, skeleton:2, internal, -invertebrate*:2
+invertebrate, invertebrates, invertebrates > no backbone:4, backbone:2, exoskeleton:2, jellyfish, insects, worms, -vertebrate*:1
+exoskeleton > insects:2, shell:2, outside:2, protect*:2, molt:2, molting:2, crab*
+classif*, classification, classify, kingdom*, species, scientific name > characteristics:2, traits:2, similar:2, structures:2, kingdom*, genus:2, species:2, dichotomous key:2
+species > same:2, reproduce:3, offspring:2, fertile:2, mate:2, interbreed:2
+dichotomous key, field guide, identify > characteristics:3, traits:2, features, observable, -taste:1
+cold-blooded, ectotherm* > body temperature:2, environment:3, surroundings:2, sun:1, reptile*, bask, basking
+warm-blooded, endotherm* > constant:3, body temperature:2, mammal, mammals, birds, internal
+producer*, producers > plants:3, plant:2, grass:3, trees:2, algae:3, photosynthes*:3, sunlight:2, own food:3, phytoplankton:2, -consumer*:2, -animal*:1, -fungi:2, -mushroom*:2, -decompos*:1
+consumer*, consumers > eat:3, animal:2, animals:2, herbivore*:2, carnivore*:2, omnivore*:2, food:1, rabbit*, deer, -producer*:1, -plants:1, -grass:1
+herbivore*, herbivores, plant eater*, eats plants, eat plants, plant-eating > plants:3, grass:2, leaves:2, rabbit*:2, deer:2, cow:2, cows:2, grasshopper*:2, flat teeth:3, grind*:2, -meat:2, -sharp:1
+carnivore*, carnivores, meat eater*, eats meat, eat meat, meat-eating > meat:3, other animals:3, sharp teeth:3, sharp:2, claws:2, prey:2, wolf*, lion, lions, hawk, hawks, snake*, -plants:2, -grass:2
+omnivore*, omnivores > plants and animals:4, both:3, bear, bears, raccoon*, human, humans, plants, animals, meat
+decompos*, decomposers > bacteria:3, fungi:3, fungus:2, mushroom*:3, worms:2, earthworms:2, mold:2, break down:3, dead:3, decay*:2, nutrients:2, recycle*:2, soil:2, -producer*:1
+scaveng*, scavengers > dead:3, vulture*:3, hyena*, remains, -hunt*
+predator*, predators > prey:2, hunt*:3, eat:2, kill*, catch, sharp, claws, -plants:1
+prey > hunted:2, eaten:3, camouflage:2, hide:2, run, runs, running, escape:2, -hunt*:1
+food chain*, food web*, food webs > sun:2, sunlight:1, energy:3, producer*:2, consumer*:2, plants:1, decompos*, transfer*:2, flows:2, arrows, -oxygen:1
+energy pyramid, food pyramid, trophic, energy flow > producer*:3, bottom:2, most energy:3, decreases:2, 10:2, lost:2, heat:2, less:1, levels
+energy source, ultimate source, original source, primary source > sun:4, sunlight:3, solar:2, light, -plants:1, -soil:2
+ecosystem*, ecosystems > living:2, nonliving:2, biotic, abiotic, organisms:2, environment:2, community, interact*:2, balance, habitat
+abiotic, nonliving, non-living > sunlight:2, water:2, temperature:2, soil:2, air:2, rocks:2, climate, minerals, -animal*:2, -plant*:2, -bacteria:2, -trees:1
+biotic, living things, living organisms > plants:2, animals:2, bacteria:1, fungi:1, organisms, -rocks:2, -water:1, -sunlight:1, -air:1
+habitat, habitats, habitats > food:2, water:2, shelter:3, space:2, home:2, environment, live, needs
+population*, populations > same species:3, species:2, area:2, birth, death, increase, decrease, carrying capacity:2, limit*
+community, communities > populations:3, different species:3, interact
+niche > role:4, job:2, function
+limiting factor*, carrying capacity > food:3, water:2, space:2, shelter:2, predators:2, disease:1, competition:2
+competition, compete*, competing > food:3, water:2, space:2, sunlight:2, mates:2, resources:3, territory, shelter, limited
+symbiosis, symbiotic, mutualism, mutual*, both benefit > both benefit:4, benefit:2, bees:2, flowers:2, lichen:2, pollinat*, -harm*:1
+parasit*, parasites > harms:3, host:3, tick:2, ticks:2, flea:2, fleas:2, tapeworm*:2, lice, mosquito*, blood, feed*
+commensalism > benefits:3, unaffected:3, neither:2, barnacle*:2
+biome, biomes, tundra > permafrost:3, cold:2, frozen:2, mosses, lichens
+desert, deserts, deserts > dry:3, little rain:3, cactus*:3, cacti:3, hot:2, sand, conserve water:3, store water:2, nocturnal:2, lizard*, camel*, -rain:1
+rain forest*, rainforest*, tropical rain forest*, rain forests, rainforests > rain:2, wet:2, humid:2, warm:2, biodiversity:2, species:2, canopy:2, many, trees, -dry:2
+grassland*, prairie*, savanna* > grass:3, grasses:3, herbivore*, bison, zebra*, fire, few trees:2
+ocean ecosystem, marine, coral reef*, reef*, coral > salt water:3, salt:2, algae:2, fish:2, plankton:2, phytoplankton:2, whales
+wetland*, wetlands, marsh, marshes, swamp* > water:2, flood*:2, filter*:2, birds, habitat, wildlife
+pond*, lake, lakes, freshwater ecosystem > fish, algae:2, frogs, insects, plants
+succession, ecological succession > pioneer:3, lichens:3, mosses:2, gradual:2, soil:2, over time:2, fire, new
+pioneer species > lichen*:4, moss:3, mosses:3, bare rock:2
+adapt*, adaptation, adaptations, survive, survival, help it survive, helps it survive > camouflage:2, hide:1, blend:1, food:1, predators:1, environment:2, climate, protect*:1, find food:2, avoid predators:3, -die:1
+camouflage, blend*, coloration, color change, change color, white fur, brown fur, fur color, colors, coloring, color:0.5 > hide:4, predators:3, blend:2, prey:2, surroundings:2, environment:1, protect*:2, -attract*:1, -digest*:2
+hibernat*, hibernation > winter:3, cold:2, sleep:2, energy:2, conserve*:2, food:2, scarce:2, fat:2, bears:2, slow:1
+migrat*, migration, migrate > food:3, warmer:3, south:2, winter:2, birds:2, seasons:2, travel, move, breed
+nocturnal > night:4, dark:2, owls:2, bats:2, hunt, -day:2
+thick fur, fur, blubber, fat layer > warm:3, cold:3, insulat*:3, body heat:3, heat:2, arctic:2, polar:2, winter
+arctic, polar, cold climate, cold environment, cold region*, cold areas > thick fur:4, fur:3, blubber:3, fat:3, white:2, insulat*:2, warm, small ears:2, -thin:2, -large ears:1
+beak, beaks, beaks > food:4, eat:2, seeds:2, insects:1, crack, shape
+sharp teeth, canine* > meat:3, tear*:3, carnivore*:2, predator*
+flat teeth, molars > grind*:3, plants:3, chew*:2, herbivore*
+extinct, extinction, extinction > habitat loss:3, habitat destruction:3, destroy*:2, change*:1, climate:2, environment:2, hunting:2, adapt:2, disappear*, fossils:2, dinosaur*:2, asteroid, asteroids, endangered
+endangered, threatened > habitat:3, destroy*:2, protect*:2, laws, conservation, hunting, small population:2
+invasive species, invasive, non-native, introduced species > compete*:3, competition:2, no predators:3, native:2, harm, harms, harmful, harmed, outcompete:2, spread
+natural selection, evolution, evolve, evolves, evolved, evolved > adapt*:3, adaptations:2, survive:3, survival:2, variation:3, offspring:2, environment:2, traits:2, reproduce:2, fittest:2, generations:2, fossils:1, darwin:2, over time:2
+biodiversity, diversity, variety of species > many species:3, species:2, variety:2, different:2, ecosystem*, stable:2, healthy
+oxygen, oxygen gas > photosynthes*:2, plants:2, breathe:2, respiration:1, atmosphere, lungs, -carbon dioxide:1
+carbon dioxide > photosynthes*:2, plants:2, exhale:2, exhales:2, exhaled:2, respiration:2, burning:2, greenhouse:1, fossil fuels:1, -oxygen:1
+carbon cycle > photosynthes*:3, respiration:3, carbon dioxide:2, burning:2, decompos*:2, fossil fuels
+nitrogen cycle > bacteria:4, nitrogen:2, soil, legume*, lightning
+solid, solids > definite shape:3, own shape:3, definite volume:2, fixed:2, tightly:2, vibrate:2, closely packed:2, ice, rock, -flow:1, -no definite:3, -its container:2
+liquid, liquids > definite volume:2, its container:3, container:2, flow:2, flows:2, flowing:2, volume, slide:2, water, -definite shape:2
+gas, gases > no definite:4, fills:3, spread out:3, expand*:2, container:2, far apart:3, fast:1, compress*:2, -definite shape:3, -definite volume:2, -fixed:1
+state of matter, states of matter, phase change, change of state, change state > solid:2, liquid:2, gas:2, melting:2, freezing:2, boiling:2, evaporation, condensation, heat:2, energy:2, temperature
+melt*, melting point > heat:3, solid to liquid:3, liquid:2, warm*, energy:2, absorb*, ice, 0:1, -cool*:2, -lose:1
+freez*, freezing point, frozen > cool*:3, cold:2, liquid to solid:3, solid:2, ice:2, 0:2, 32:2, lose:2, -heat:2
+boil*, boiling point > 100:3, 212:1, heat:2, gas:2, bubbles:2, vapor:2, evaporat*, liquid to gas:3, -freez*:2
+sublimat* > solid to gas:4, dry ice:3, gas, directly
+dry ice > carbon dioxide:3, sublimat*:3, solid, gas
+particle*, molecules, molecule, atoms move > motion:2, move:2, faster:2, speed:1, kinetic:2, vibrate:2, heat:1, temperature:2, spread:1, energy
+heated, heating, warmed, increase temperature, temperature increases > faster:3, expand*:3, move faster:3, kinetic energy:2, energy:2, melt*, evaporat*, -slower:2, -contract*:2
+cooled, cooling, temperature decreases > slower:3, contract*:3, slow down:2, condens*:2, freez*:2, -faster:2, -expand*:2
+expand*, expansion > heat:3, heated:2, warm*:2, increase*, faster, apart, -cool*:2
+contract*, contraction > cool*:3, cold:2, decrease*, closer
+density, dense, denser > mass:3, volume:3, float*:2, sink*:2, divided:2, per:2, compact, heavier
+float*, floats, floating, sink*, sinks, buoyan* > density:4, less dense:3, denser:2, buoyan*:2, water:2, displace*:1, mass, volume
+mass > balance:3, grams:3, kilograms:3, matter:2, amount:2, triple beam:2, kg:2, g:1, same:1, -volume:1, -length:1, -temperature:2, -graduated cylinder:2, -thermometer:2, -ruler:2, -meter stick:1
+volume > graduated cylinder:4, cylinder:2, milliliters:3, ml:2, liters:3, space:2, displacement:2, cubic:2, length:1, width:1, height:1, beaker:1, -balance:2, -grams:1, -thermometer:2, -mass:1
+length, distance, how far, how long, width, height, tall > ruler:3, meter stick:3, meters:3, centimeters:3, kilometers:2, measuring tape:2, tape measure:2, millimeters:2, cm:2, km:1, -grams:2, -liters:2, -balance:2, -thermometer:2
+temperature > thermometer:4, degrees:3, celsius:3, fahrenheit:2, °c:2, kelvin:1, heat, -balance:2, -ruler:2, -grams:1, -graduated cylinder:2
+time, how long, speed of, rate > stopwatch:3, seconds:3, clock:2, timer:2, minutes, hours
+physical property, physical properties > color:2, shape:2, size:2, mass:2, texture:2, density:2, hardness:2, magnetism:2, melting point:2, boiling point:2, state, odor, luster, -burn*:2, -flammab*:2, -rust*:2, -react*:2
+chemical property, chemical properties > flammab*:3, burn*:3, rust*:3, react*:3, reactivity:3, combust*:2, tarnish*:2, oxid*:2, -color:1, -melting:1, -shape:1
+physical change, physical changes > melting:3, melt*:2, freez*:3, boil*:2, evaporat*:2, cutting:3, cut:2, folding:2, tearing:2, tear:1, crush*:2, dissolv*:2, mixing:2, breaking:2, shape:2, state:2, size:1, grinding, sawing, chopping, -burn*:3, -rust*:3, -cook*:2, -rot*:2, -new substance:3
+chemical change, chemical changes, chemical reaction*, reaction, reactions, react* > new substance:4, new substances:4, burn*:3, burning:3, rust*:3, rusting:3, cook*:2, baking:2, rot:2, rots:2, rotting:2, rotten:2, rotting, decay*:2, digest*:2, fizz*:2, bubbles:2, gas:1, light:1, color change:2, precipitate:2, temperature change:1, odor:1, spoil*:2, tarnish*:2, oxid*:2, -melt*:3, -freez*:2, -cut:2, -cutting:2, -dissolv*:1, -boil*:2, -shape:1, -evaporat*:2, -tear*:1
+new substance, new substances > chemical:3, chemical change:2, reaction:2, burn*:2, rust*:2
+rust, rusting, rusts, rusted, corrosion, corrode* > oxygen:3, water:3, iron:3, moisture:2, oxid*:2, chemical:2, air, salt, wet
+burn*, burning, combust*, combustion, fire > oxygen:3, fuel:2, heat:2, light:2, carbon dioxide:2, chemical:2, ash, smoke, energy
+law of conservation, total mass, conserved > same:4, equal:3, conserved:2, neither created:2, -increas*:1, -decreas*:1, -lost:1
+mixture*, mixtures > physically:3, separate*:3, separated:3, combined:1, not chemically:3, salad, trail mix, salt water:2, air:1, filter*, magnet:1, evaporat*:1
+solution*, solutions, dissolv*, dissolves, soluble, solubility > dissolv*:3, salt:2, sugar:2, water:2, solvent:2, solute:2, stir*:3, stirring:3, heat:2, warmer:2, temperature:2, crush*:2, smaller pieces:2, evenly:2, mixture, -sand:2, -oil:1
+dissolve faster, dissolve more quickly, faster dissolving > stir*:4, stirring:4, heat*:3, hot:3, warm:2, crush*:3, smaller:2, powder:2, -cold:3, -larger:2, -ice:2
+separate, separating, separation > filter*:3, filtration:2, evaporat*:3, magnet:3, screen:2, sieve:2, distill*:2, decant*, settle, -mixing:1
+compound*, compounds > elements:2, two or more:3, chemically:3, combined:2, bonded:2, water:2, h2o:2, salt:2, carbon dioxide:2, formula:2, new properties:2, -mixture:2
+element, elements, periodic table > atoms:2, one type:3, same type:2, only one:2, pure:2, symbol*:2, periodic table:2, oxygen, hydrogen, carbon, gold, iron, -mixture:2, -compound:1
+atom, atoms, atomic > protons:3, neutrons:3, electrons:3, nucleus:3, smallest:2, element*:2, particles:1, charge, mass
+proton*, protons > positive:4, nucleus:3, atomic number:3, charge
+neutron*, neutrons > neutral:4, no charge:4, nucleus:3
+electron*, electrons > negative:4, outside:2, orbit*:2, shells:2, cloud:2, energy levels:2, bonds:2, share*:2, -nucleus:2
+atomic nucleus > protons:3, neutrons:3, positive:2, center:2, -electrons:2
+covalent* > share:3, shared:3, sharing:3, electrons:2, pairs:2, -transfer*:1
+ionic > transfer*:3, transferred:3, ions:2, gain:2, lose:2, electrons, salt
+metal, metals, metallic > conduct*:3, conductor*:3, shiny:2, luster:2, malleable:2, ductile:2, magnetic:1, electricity:2, heat:2, iron:1, copper:2, aluminum:1, silver
+nonmetal*, nonmetals > insulator*:2, dull:2, brittle:2, poor conductor*:2, gas:1, sulfur, oxygen, carbon
+acid*, acids, acidic, ph > sour:3, lemon:2, vinegar:3, ph:2, litmus:2, red:2, hydrogen
+base, bases, basic, alkaline > bitter:3, slippery:3, soap:2, ammonia:2, baking soda:2, blue:2
+neutral > 7:4, pure water:3, water:2
+energy, forms of energy, form of energy, kinds of energy, types of energy > heat:1, light:1, sound:1, electrical:1, chemical:1, mechanical:1, kinetic:1, potential:1, nuclear:1, thermal:1
+kinetic energy, kinetic > motion:4, moving:3, speed:3, mass:2, velocity:2, fastest:2, faster:2, movement, -stored:2, -position:1, -height:1
+potential energy > stored:4, position:3, height:3, highest:3, top:2, gravitational:2, chemical, spring, stretched:2, compressed:2, -motion:1, -moving:1
+chemical energy > food:3, batteries:3, battery:3, fuel*:3, gasoline:2, stored:3, wood:2, coal:2, bonds:2, -sound:1
+electrical energy, electrical, electricity > battery:2, batteries:2, current:2, generator*:2, wires:2, circuit*:2, electrons:2, power plant*:1, outlet*:1
+mechanical energy > motion:3, moving:2, kinetic:2, potential:2, machines:2
+thermal energy, heat energy, heat > temperature:2, particles:2, molecules:2, kinetic:1, friction:2, transfer*:2, warmer to cooler:3, hot to cold:3, conduction:2, convection:2, radiation:2
+light energy > sun:2, bulb:2, sunlight:2, eyes:1, photosynthes*:2, solar:2
+sound energy, sound, sounds > vibrat*:4, vibration*:4, waves:2, medium:2, air:2, ears:2, pitch:2, volume:1, decibels:2, loud:1, echo:1, -light:1, -vacuum:2, -space:2
+nuclear energy, nuclear > fission:3, fusion:3, uranium:3, atoms:2, nucleus:2, radiation:2, radioactive:2
+energy transformation, energy conversion, converts, convert*, transforms, changes energy, change energy, energy change*, energy changed > chemical:1, electrical:1, light:1, heat:1, mechanical:1, kinetic:1, potential:1, sound:1
+battery, batteries, flashlight* > chemical:4, chemical energy:3, electrical:3, electrical energy:3, light:2, circuit:2, stored
+light bulb, bulb, lamp > electrical:3, electricity:2, light:3, heat:2, energy, filament:2, circuit:1
+toaster, stove, oven, heater, iron, hair dryer > electrical:3, heat:4, thermal:3, -sound:1, -light:1
+fan, motor, motors, blender, mixer, drill > electrical:3, mechanical:3, motion:3, kinetic:2, motor:2
+radio, speaker*, doorbell, bell > electrical:3, sound:4, vibrat*:2
+solar panel*, solar cell*, solar cells, photovoltaic > light:3, sunlight:3, electrical:3, electricity:3, solar:2, sun
+generator*, power plant*, turbine*, dam*, hydroelectric > mechanical:3, electrical:4, electricity:4, motion:2, magnet*:2, coil*:2, turbine*:2, spinning:2, water:1, wind:1
+wind turbine*, windmill* > wind:3, kinetic:2, mechanical:2, electrical:3, electricity:3
+food energy, eat food, eating food, digest* > chemical:4, chemical energy:3, energy:2, nutrients:2, glucose:1
+energy is conserved, law of conservation > cannot be created:4, transformed:3, converted:2, changed:2, same:2, total:2, -destroyed:2, -created:2
+friction > heat:4, thermal:3, rough:3, rubbing:3, rub:2, opposes:2, slows:3, slow:2, surfaces:2, -smooth:2, -ice:1, -lubricat*:1, -increase speed:2
+reduce friction, less friction > smooth:3, oil:3, lubricat*:3, wheels:3, ice:2, wax:2, grease:2, ball bearings:2, -rough:3, -sandpaper:3
+conduct*, conduction > touching:3, direct contact:4, contact:3, solids:2, metal:3, metals:2, spoon:2, pan:2, -air:1, -vacuum:1
+convection > fluid*:2, liquids:2, gases:2, currents:3, rises:3, warm air:2, hot air:2, boiling water:2, circulat*:2, density:1, sinks:1, mantle:1
+radiat*, radiation > electromagnetic:2, waves:2, sun:3, sunlight:2, space:2, vacuum:2, infrared:2, without:2, fire:1, microwave:1
+heat transfer, transfers heat, thermal energy transfer > warmer:3, hotter:3, cooler:3, colder:2, higher temperature:2, conduction:2, convection:2, radiation:2
+insulator*, insulators, insulation, insulate* > wood:3, plastic:3, rubber:3, foam:3, wool:3, styrofoam:3, air:2, glass:1, cloth:2, fiberglass:2, slows:2, poor conductor*:3, -metal:3, -copper:3, -aluminum:2, -iron:2, -silver:2
+conductor*, conductors, conduct electricity, conduct heat > metal:4, metals:3, copper:4, aluminum:3, iron:3, silver:3, steel:2, gold:2, wire:2, -wood:3, -plastic:3, -rubber:3, -glass:2, -cloth:2, -paper:2, -air:1
+thermos, keep warm, keep hot, keep cold, stay warm, keep it cold > insulat*:3, insulator*:3, foam:2, styrofoam:2, wool:2, vacuum:2, -metal:2
+dark colors, black, dark > absorb*:4, absorbs:4, heat:2, warmer:2, hotter:2, -reflect*:2
+white, light colors, light-colored > reflect*:4, reflects:4, cooler:2, -absorb*:2
+circuit*, circuits > closed:3, complete:3, path:3, battery:2, wire*:2, bulb:2, switch:2, loop:2, -open:2, -broken:1
+series circuit > one path:4, single path:3, -than one:3, all go out:3, go out:2, -branch*:1
+parallel circuit > than one:4, branches:3, multiple paths:3, stay lit:3, others:1
+open circuit, switch, switches > open:2, break:2, gap:2, stops:2, off:1, complete:1, closed:1
+static electricity, static > rubbing:3, rub:2, rubs:2, rubbing:2, rubbed:2, balloon:3, charges:3, electrons:3, transfer*:2, attract*:2, spark*:2, hair:2, comb:1, wool
+electric current, current > electrons:3, flow:3, wire*:2, amps:2, conductor*, circuit
+magnet*, magnets, magnetic, magnetism > iron:4, steel:3, nickel:2, cobalt:2, attract*:3, repel*:3, poles:3, north:2, south:2, field:2, compass:2, nails:2, paper clips:2, -aluminum:2, -copper:2, -plastic:2, -wood:2, -glass:2, -paper:1, -rubber:2
+like poles, same poles > repel*:4, push:3, apart:2, -attract*:3
+opposite poles, unlike poles > attract*:4, pull*:2, together:2, -repel*:3
+compass, compasses > magnet*:3, magnetic:3, north:3, earth's magnetic field:3, needle:2, direction:2
+electromagnet*, electromagnets > coil*:3, wire:3, current:3, electricity:3, iron:2, nail:2, turned off:2, switch*:1, battery:2, more coils:2, stronger:1
+force*, forces > push:3, pull:3, newtons:3, motion:2, acceleration:2, change*:1, mass:1, friction, gravity, direction, speed
+balanced forces, balanced > no change:3, equal:3, opposite:2, zero:2, net force:1, rest:1, constant:1, -accelerat*:1
+unbalanced forces, unbalanced, net force > change*:3, accelerat*:3, motion:2, speed up:2, direction:2, moves:2
+newton's first law, inertia > rest:3, motion:3, continues:2, keeps moving:3, unless:3, outside force:3, mass:2, seat belt*:2, resist*
+newton's second law, accelerat*, acceleration > force:3, mass:3, speed up:2, increase*:1, change in velocity:2, net force:2
+newton's third law, action and reaction, reaction force > equal:3, opposite:3, pushes back:3, rocket*:2, reaction:2, pairs
+speed, velocity, fast > distance:3, time:3, divided:2, per hour:2, meters per second:3, rate:2, mph:2, direction:1
+average speed > distance:3, time:3, divided:3, total:2
+momentum > mass:3, velocity:3, speed:2
+work > force:3, distance:3, joules:3, move:2, moves:1, -no movement:2
+simple machine*, machine*, machines > lever*:2, pulley*:2, inclined plane*:2, ramp*:2, wedge*:2, screw*:2, wheel and axle:2, easier:3, less force:3, effort:2, direction:2, mechanical advantage:2
+lever*, seesaw*, crowbar* > fulcrum:4, pivot:2, effort:2, load:2, lift:2
+pulley*, pulleys, flagpole, flag pole > rope:2, wheel:2, lift:2, direction:4, flag
+inclined plane*, ramp*, ramps > slope:2, less force:3, longer distance:3, easier:2, raise
+wedge*, axe, ax, knife > split:3, cut:3, separate:2, force:1
+screw*, screws, jar lid > inclined plane:3, wrapped:2, spiral:2, twist*:2, holds:2
+wheel and axle, doorknob, steering wheel > wheel:3, axle:3, turn:2, rotate:1
+wave*, waves > energy:4, transfer*:2, carry:2, amplitude:2, wavelength:2, frequency:2, crest:2, trough:2, medium:2, vibrat*:2, -matter:2, -mass:1
+transverse > perpendicular:4, right angles:3, up and down:2, light:2, crest*, trough*, -parallel:2, -compression*:2
+longitudinal, compression wave*, compressional > parallel:4, same direction:3, compression*:3, rarefaction*:3, sound:3, back and forth:2, -perpendicular:2
+frequency > pitch:4, high:2, hertz:3, waves per second:3, vibrations per second:3, wavelength:1, -amplitude:1
+amplitude > loudness:4, loud:3, volume:3, energy:2, height:2, brightness:1, -pitch:2
+pitch, high-pitched, low-pitched > frequency:4, vibrat*:3, faster:2, high:1, short:1, length, tight*:1, -amplitude:2, -loud:1
+loud, loudness, louder > amplitude:4, energy:2, decibels:3, vibrat*:2, harder:2, -pitch:1, -frequency:2
+echo*, echoes, echolocation, sonar > reflect*:4, reflected:4, bounce*:3, sound:2, bats:2, dolphins, -absorb*:2
+sound travels, sound travel > solids:3, solid:3, faster:1, medium:3, vibrat*, molecules, -vacuum:3, -space:3
+vacuum, outer space, in space > no air:3, no medium:3, cannot:2, light:2, radiation:2, -sound:3
+light, light waves > travels:2, straight lines:3, reflect*:2, refract*:2, absorb*:1, speed:1, fastest:1, waves:2, photons, electromagnetic:2, transparent, opaque, -medium:1
+reflect*, reflection, mirror, mirrors > bounce*:4, bounces:4, mirror*:3, shiny:2, smooth:2, angle:2, echo:1, -absorb*:2, -bend*:1
+refract*, refraction, prism*, prisms, lens, lenses > bend*:4, bends:4, bending:3, speed:2, medium:2, glass:2, water:2, rainbow*:2, spectrum:2, magnif*:2, -bounce*:2
+rainbow*, rainbows, spectrum, visible light, white light > refract*:3, prism:3, colors:3, wavelengths:2, raindrops:2, red:1, violet:1, droplets:1, seven
+appears red, appears green, appears blue, looks red, we see > reflect*:4, reflects:4, absorbs other:3, absorbs:1, -produces:1
+transparent > all light:3, passes through:4, through:2, clear glass:3, glass:2, window:2, air:1, water:1, -blocks:2
+translucent > some light:4, wax paper:3, frosted glass:3, tissue paper:2, blurry:2
+opaque > no light:4, blocks:3, block:2, wood:2, metal:2, cardboard:2, shadow*:2, -through:2
+electromagnetic spectrum, electromagnetic > radio waves:2, microwaves:2, infrared:2, visible:2, ultraviolet:2, x-rays:2, gamma:2, light, speed
+ultraviolet, uv rays, uv > sunburn*:4, skin cancer:3, sunscreen:3, burn:2, ozone:2, sun
+infrared > heat:4, warm:2, thermal:2
+x-ray*, x-rays > bones:4, medical:2, doctors:2, penetrate:2
+eye, eyes, see objects, seeing > light:3, reflect*:3, reflected:2, retina:2, lens:2, pupil:2, iris, optic nerve
+ear, ears, hear, hearing > vibrat*:3, eardrum:4, sound waves:3, cochlea:2
+measure, measuring, measurement*, measured > ruler, balance, thermometer, graduated cylinder, stopwatch, scale, meter stick, units:1
+tool, tools, instrument*, device > ruler, balance, thermometer, graduated cylinder, microscope, hand lens, magnifying glass, stopwatch, meter stick, telescope, spring scale
+observe, observing, observation*, look closely, closer look, details > hand lens:3, magnifying glass:3, magnif*:2, microscope:2, senses:2, eyes:1, notes:1, record:1
+tiny, very small, small objects, microorganism*, microbe*, germs > microscope:4, magnif*:2, lenses
+distant objects, far away, faraway, stars and planets > telescope:4, binoculars:2
+weight of, how heavy > spring scale:3, scale:3, balance:2, newtons:3, grams, kilograms, pounds
+amount of space > volume:4, graduated cylinder:2
+liquid volume, volume of liquid > graduated cylinder:4, milliliters:3, liters:2, beaker:1
+irregular*, irregularly shaped, odd-shaped, displacement > displacement:3, water:2, graduated cylinder:3, overflow, rise*
+units, unit > meters:1, grams:1, liters:1, seconds:1, celsius:1, newtons:1, kilograms:1, milliliters:1
+metric > meters:2, centimeters:2, grams:2, liters:2, kilograms:2, celsius:2, millimeters:2, -inches:2, -pounds:2, -feet:2, -fahrenheit:2, -gallons:2, -ounces:2
+hypothesis, hypotheses, hypothesize > prediction:3, predict*:2, testable:3, test:2, if:2, explanation:2, educated guess:3, experiment:2, possible explanation:3
+prediction, predict*, predicted > hypothesis:2, data:2, pattern*:3, observations:2, trend:2, results
+experiment*, investigation*, investigate*, test* > variable:2, variables:2, control:2, controlled:2, hypothesis:2, data:2, trials:2, repeat*:2, results:2, procedure:2, measure:1, record:1, observations:1
+reliable, reliability, valid, validity, accurate, accuracy, confidence, confident, trustworthy, more certain, consistent > repeat*:4, repeated:4, trials:4, several:3, multiple:3, many times:3, more trials:4, larger sample:3, sample size:3, average:2, same results:3, other scientists:2, -once:3, -one trial:3, -fewer:2, -change:1
+same results, replicate, reproduce results, repeated, repeating > reliable:3, valid:2, trials:2, same procedure:3, same:2, procedure:2
+fair test, controlled experiment, control variable*, controlled variable*, constant*, controls > same:4, one variable:4, only one:3, constant:3, identical:2, all other:2, equal:2, -different:2, -several variables:2
+independent variable, manipulated variable, variable tested, tested variable > changed:3, change:2, purposely:3, cause:2, manipulat*:2, one:1
+dependent variable, responding variable, measured variable > measured:4, measure:2, result*:2, outcome:2, responds:2, effect
+control group > comparison:4, compare:3, not receive:3, no treatment:3, normal:2, without:2, untreated
+data, results, observations > record*:2, table*:2, graph*:2, chart*:2, notebook:2, journal:2, analyze:2, organize:2, compare:1
+graph*, display data, show data, chart, charts > bar graph:2, line graph:2, pie chart:2, table:2, data:2
+change over time, changes over time, over time, trend > line graph:4, graph:2
+compare amounts, compare quantities, categories, different groups > bar graph:4, bar:2
+percentage, percent, percentages, portion*, fraction > pie chart:4, circle graph:4
+conclusion, conclusions, conclude > data:3, results:3, evidence:3, supported:2, hypothesis:2, analyze:2, -opinion:2
+evidence > data:3, observations:3, measurements:2, results:2, facts:2, -opinion*:3, -belief*:2, -feel*:2
+observation*, observe* > senses:2, see:1, hear:1, smell:1, touch:1, measure:1, describe:1, -inference:1, -opinion:1, -predict*:1
+inference*, infer*, inferred > conclusion:2, explanation:2, based on:2, evidence:2, reason*:2, observations:2
+opinion*, opinions > feel*:2, believe*:2, best:1, prettier:2, better:1, favorite:2, like:1, -data:2, -measured:2
+fact*, facts > measured:2, observed:2, data:2, evidence:2, -opinion:2, -feel*:2, -believe*:2
+scientific theory, theory, theories > evidence:3, explanation:3, tested:3, supported:2, many experiments:2, change:1, new evidence:3, revised:2
+scientific law, law > describes:2, always:1, observed:2, pattern:2, nature
+model*, models > represent*:3, explain*:2, too small:2, too large:2, too big:2, too far:2, simulate*:2, diagram*:2, globe:1
+scientists, scientist > evidence:2, data:2, share:2, communicate:2, publish*:2, peer review:2, repeat*:2, observations
+share results, communicate*, publish*, report > other scientists:3, scientists:2, repeat:2, journals:2, peer review:2, presentation:1
+new evidence, new information, new data, new discoveries, new technology > change*:2, revise*:3, modify:2, theory:2, ideas:2, explanation*:2, -ignore:2
+technolog*, engineer*, engineering, design*, prototype*, invention*, inventor* > design:2, solve:2, problem:3, solution:2, test*:2, improve*:2, needs:2, criteria:2, constraints:2, model:1, prototype:2
+engineering design, design process > problem:3, brainstorm*:2, test*:2, improve*:2, redesign:2, prototype:2
+safety, safe, safely, lab safety, laboratory safety, protect their eyes, protect eyes > goggles:5, safety goggles:5, gloves:3, apron:2, lab coat:2, wash hands:3, teacher:2, follow directions:3, instructions:2, -taste:4, -smell directly:2, -eat:3, -drink:3, -food:3, -running:2, -touch:1
+chemicals, chemical, acid, acids, vinegar, bleach, lab, laboratory > goggles:3, gloves:3, safety goggles:3, apron:2, ventilation:1, wash:1, -taste:3, -eat:2, -food:2, -drink:2
+heating, heat, flame, burner, bunsen burner, hot plate > goggles:2, tongs:3, heat-resistant gloves:3, oven mitts:3, mitts:2, tie back:2, hair:1, -touch:2
+broken glass, glass breaks, cut, injury, spill*, accident* > teacher:4, report:3, notify:2, -ignore:2, -hide:2, -pick up:2
+bacteria, microorganism*, mold, germs, sample*, culture* > gloves:3, wash hands:4, washing hands:3, masks:1, sterile:2, -food:3, -eat:2, -drink:2, -touch:2
+avoid, dangerous, unsafe, hazard* > food:3, drinks:3, eating:3, drinking:3, taste:3, tasting:3, smell directly:3, running:2, horseplay:2, touch:1
+electricity safety, outlet, outlets, electric cord*, wires > dry hands:3, water:2, unplug:2, -wet:2
+digestive system, digestion, digest food, breaks down food, break down food > stomach:3, intestine*:3, small intestine:3, esophagus:2, mouth:2, saliva:2, enzymes:2, nutrients:2, absorb*:1, food:2, -lungs:2, -heart:2
+stomach > acid:2, digest*:3, food:2, break down:2, muscles
+small intestine, intestines, intestine > absorb*:4, nutrients:4, villi:3, digest*:2, bloodstream:2, blood
+large intestine, colon > water:4, absorb*:3, waste:2, solid waste:2
+circulatory system, circulation, blood vessels, bloodstream > heart:4, blood:3, arteries:2, veins:2, capillaries:2, oxygen:2, nutrients:2, transport*:3, carries:3, pumps:2, -lungs:1
+heart > pump*:4, pumps:4, blood:4, circulatory:3, muscle:2, chambers:2, arteries
+blood > oxygen:3, red blood:3, white blood:2, platelets:2, plasma:2, nutrients:2, carbon dioxide:1, heart:2, transport*:2
+red blood > oxygen:4, hemoglobin:3, iron:2, carry
+white blood, immune, immune system, infection*, disease*, germs, pathogen* > fight*:4, white blood:4, antibodies:3, immune:2, vaccine*:2, protect*:2, bacteria:1, virus*:1, skin:1
+respiratory system, breathing, breathe, breathes, lungs, lung > lungs:4, oxygen:3, carbon dioxide:3, diaphragm:3, air:2, trachea:2, alveoli:2, bronchi:2, exhale*:2, inhale*:2, gas exchange:3, nose:1, -stomach:2
+gills > oxygen:4, water:3, fish:3, dissolved oxygen:3
+nervous system, nerves, nerve*, brain, neuron*, neurons, reflex*, signals, messages > brain:4, spinal cord:4, nerves:3, neurons:3, signals:3, messages:3, senses:2, react:2, control*:2, impulses:2
+skeletal system, skeleton, bones, bone > support:4, protect*:3, shape:2, calcium:3, joints:2, marrow:2, blood cells:2, movement:2, muscles:2, structure:2
+muscular system, muscles, muscle > movement:4, move:3, contract*:3, bones:3, tendons:2, energy:1, pairs:1, heart:1
+joints, joint > bend*:2, move:2, hinge:2, ball and socket:3, ligaments:2, knee, elbow, shoulder
+excretory system, kidney*, kidneys, urinary, bladder > kidneys:4, waste:4, urine:3, filter*:3, blood:2, bladder:2, remove*:2, sweat:1
+skin, integumentary system > protect*:4, barrier:3, germs:2, sweat:2, temperature:2, touch:2, largest organ:3, senses
+sweat, sweating, sweats > cool*:4, evaporat*:3, temperature:3, skin:2, body heat:2, -warm*:2
+shiver*, shivering > warm*:4, heat:3, muscles:3, body temperature:2, -cool*:2
+endocrine system, hormone*, hormones, gland*, glands > hormones:4, glands:3, messages:2, chemical messengers:4, bloodstream:2, growth:2, insulin:2, thyroid:2, adrenaline:2
+reproductive system > offspring:3, reproduc*:3, egg:2, sperm:2, babies:2
+homeostasis, stable internal > stable:3, constant:3, temperature:2, sweat*:2, shiver*:2, regulat*:3, maintain:3, balance:2
+senses, sense organs, five senses, touch, taste, smell, hearing, sight, vision > eyes:2, ears:2, nose:2, tongue:2, skin:2, nerves:2, brain:2, receptors:2
+taste, tongue > tongue:3, taste buds:4, sweet:1, salty:1, sour:1, bitter:1
+smell, nose > nose:3, odor*:2, molecules:2
+nutrients, nutrition, healthy diet, balanced diet, healthy food, healthy body, healthy, health > fruits:3, vegetables:3, whole grains:2, protein:2, vitamins:3, minerals:2, water:2, exercise:3, sleep:2, balanced:2, -candy:3, -soda:3, -junk food:3, -sugar:1, -smoking:3, -fat:1
+protein, proteins > muscles:3, growth:3, repair:3, meat:2, beans:2, eggs:2, fish:2, nuts:2, tissue*:2
+carbohydrate*, carbohydrates, starch*, sugars > energy:4, bread:3, pasta:2, rice:2, potatoes:2, grains:2, glucose:2, quick energy:3
+fats, fat, lipids > energy:3, stored:3, butter:2, oil:2, insulat*:2
+vitamin*, vitamins > fruits:3, vegetables:3, health*:2, vitamin c:2, oranges:2, deficiency
+calcium > bones:4, teeth:3, milk:3, cheese:2, dairy:2, strong:2
+iron > blood:3, red blood:2, spinach:2, oxygen:1
+exercise, exercising, physical activity, running, jogging > heart:3, heart rate:4, faster:3, breathing:2, muscles:3, sweat*:2, oxygen:2, energy:2, healthy:2, strong:1
+heart rate, pulse > exercise:3, beats:2, minute:2, faster:2, increase*:2
+vaccine*, vaccines, vaccination, immunization > immune:3, antibodies:3, prevent*:3, disease*:2, virus*:2, protect*:2, -cure:1
+antibiotic*, antibiotics > bacteria:4, bacterial:3, infection*:2, kill*:2, -virus*:3, -viruses:3
+virus*, viruses, flu, cold virus > host:2, cells:2, reproduce:1, spread*:2, vaccine*:3, immune:2, wash hands:2, -antibiotic*:3
+spread of disease, spreading germs, prevent illness, prevent disease, stay healthy, getting sick > wash hands:4, washing hands:4, handwashing:4, soap:3, cover:2, vaccine*:3, clean:2, -share:2
+smoking, tobacco, cigarette* > lungs:3, cancer:3, lung cancer:3, disease*:2, harmful:2, heart disease:2
+sunburn*, skin cancer, sun protection, sun exposure > sunscreen:4, ultraviolet:3, uv:3, hat:2, shade:2, cover:1
+teeth, tooth > chew*:3, calcium:2, enamel:2, brush*:2, cavities:2, sugar:1
+germ*, germs, microbe* > bacteria:3, virus*:3, disease*:2, illness:2, wash hands:3, microscope:1
+renewable, renewable resource*, renewable energy, renewables, replenish*, replaced, sustainable, inexhaustible, unlimited > wind:3, solar:3, sun:2, sunlight:3, solar energy:3, wind energy:3, water:2, hydroelectric:3, geothermal:3, tidal:2, biomass:2, trees:2, wood:1, plants:1, moving water:2, -coal:3, -oil:3, -petroleum:3, -gasoline:3, -natural gas:3, -fossil fuels:3, -fossil:2, -uranium:2, -nuclear:1
+nonrenewable, non-renewable, nonrenewable resource*, limited supply, limited supplies, finite, run out, used up, cannot be replaced > coal:3, oil:3, petroleum:3, natural gas:3, fossil fuels:3, fossil:2, gasoline:3, uranium:2, minerals:1, millions of years:2, -wind:3, -solar:3, -sunlight:3, -water:1, -trees:1, -geothermal:2
+natural resource*, natural resources, resources, resource > water:1, air:1, soil:1, trees:1, minerals:1, wind:1, sunlight:1, oil:1, coal:1
+conserve, conserving, conservation, save energy, saving energy, reduce energy, use less energy, save water, conserve water > turn off:4, turning off:4, off:2, recycle*:2, reuse*:2, reduce:2, walk:2, bike:2, carpool*:2, shorter showers:3, fix leaks:3, insulat*:1, efficient:2, -leave:2, -longer:1, -more:1
+reduce reuse recycle, recycle*, recycling > plastic:2, paper:2, aluminum:2, glass:2, cans:2, bottles:2, new products:2, landfill*:2, waste:2, less trash:3
+reuse*, reusing > containers:2, bags:2, again:3, refill*:2, cloth:1
+landfill*, landfills, garbage, trash > waste:2, recycle*:3, reduce:2, decompos*:1, compost*:2, plastic:1
+compost*, composting > decompos*:3, food scraps:3, nutrients:2, soil:2, fertiliz*:2, worms:2, bacteria:1
+pollution, pollute*, polluted, pollutant*, contamination, contaminate* > factories:2, cars:2, exhaust:2, smoke:2, chemicals:2, oil spill*:2, burning:2, fossil fuels:2, waste:2, sewage:2, fertilizer*:1, pesticide*:2, runoff:2, trash:1, -wind:1, -solar:1
+air pollution, smog > cars:3, burning:3, fossil fuels:3, factories:3, exhaust:3, smoke:3, coal:2, power plants:2, emissions:2, -wind:2, -solar:2
+water pollution, polluted water, water quality > runoff:3, fertilizer*:3, pesticide*:3, sewage:3, oil spill*:3, chemicals:2, waste:2, factories:2, algae:1, fish die:2
+reduce pollution, less pollution, decrease pollution, cleaner air > public transportation:3, carpool*:3, bike*:2, walk*:2, solar:2, wind:2, renewable:2, electric cars:2, recycle*:1, -burn*:2, -drive:1
+deforestation, cutting down trees, cut down trees, clear forests, logging, clear-cut* > habitat loss:4, habitat:3, erosion:3, soil erosion:3, carbon dioxide:2, fewer trees:2, flooding:1, extinction:2, species:1, -oxygen increase*:2
+habitat destruction, habitat loss, development, building, urban*, cities, construction, roads > habitat:3, loss:2, destroy*:2, animals:2, decrease*:2, endangered:2, extinct*:2, erosion:1, runoff:1
+oil spill*, oil spills > birds:2, fish:2, ocean:2, feathers:2, harm*:3, water pollution:2, wildlife:2
+pesticide*, pesticides, insecticide*, herbicide* > insects:2, kill*:2, runoff:2, water pollution:2, food chain:2, birds:2, harm*:2, bees:1
+fertilizer*, fertilizers > nitrogen:2, nutrients:3, plants:2, crops:2, growth:2, runoff:3, algae:3, algal bloom*:3
+humans, human activities, human activity, people > pollution:2, deforestation:2, habitat:1, fossil fuels:1, cars:1, recycle*:1, conserve:1
+environmentally, eco-friendly, environmental, protect wildlife, protect habitats, preserve > conserve*:3, recycle*:3, reduce:2, plant trees:3, parks:2, laws:2, protect*:2, -pollut*:2, -cut down:2
+car, cars, vehicles, automobile*, engine*, gasoline engine > gasoline:3, fuel:2, chemical:2, exhaust:2, pollution:1, mechanical:2, heat:1, burning:1
+electric car*, hybrid* > battery:3, batteries:3, electrical:2, less pollution:3, electricity:2
+refrigerator*, freezer > cold:2, cool*:2, slow*:2, bacteria:2, spoil*:2, preserve*:2
+microwave* > waves:2, electromagnetic:2, heat:2, food:1, water molecules:2
+computer*, computers > electricity:2, data:2, information:2, models:2, calculate:2
+cell phone*, cell phones, smartphone* > waves:2, radio waves:3, signals:2, communication:3, battery:1
+telephone*, communication > signals:3, waves:2, electricity:2, sound:1, information:2
+farm*, farmer*, farmers, crops, agriculture > soil:2, water:2, irrigation:3, fertiliz*:2, crops:2, rotate crops:2, crop rotation:3, pesticide*:1, sunlight:1, nutrients:2
+irrigation > water:4, crops:2, dry:2, canals:2
+food preservation, preserve food, keep food fresh, spoil*, spoiling, spoiled, rotten > refrigerat*:4, refrigerator:4, cold:3, freezing:3, freezer:2, bacteria:3, mold:2, salt:2, drying:2, canning:2, -warm:2, -room temperature:2
+shipping, ship food, ships food, ship foods, worldwide > types:3, variety:3, available:3, increased:2, fresh:2, more food:2, year-round:2, -decreased:1
+= ramp, inclined plane
+= seesaw, lever
+= pulley, flagpole
+= sun, star
+= sun's energy, solar energy
+= stored energy, potential energy
+= energy of motion, kinetic energy
+= heat energy, thermal energy
+= plant eaters, herbivores
+= meat eaters, carnivores
+= hand lens, magnifying glass
+= rain, precipitation
+= water vapor, gas
+= melting, solid to liquid
+= freezing, liquid to solid
+= boiling, liquid to gas
+= ice, frozen water
+= breathing, respiration
+= offspring, young
+= wind, moving air
+= hydroelectric, moving water
+= backbone, vertebrate
+= weather vane, wind vane
+flashlight*, flashlights > chemical:2, to light:3, to electrical:1, battery:1
+light bulb, bulb, lamp, lamps > electrical:2, to light:3, to heat:1, light:1
+toaster, toasters, oven, stove, heater, electric blanket, iron > electrical:2, to heat:3, to thermal:3, heat:1
+electric fan, fan, fans, blender, mixer, electric motor, motor, motors, drill > electrical:2, to mechanical:3, to motion:3, to kinetic:3
+solar panel, solar panels, solar cell, solar cells, solar calculator > light:2, to electrical:3, to electricity:3, solar:1
+battery, batteries > chemical:2, to electrical:3, to electricity:2
+generator, generators, turbine, turbines, power plant, dam, windmill, wind turbine > mechanical:2, motion:1, kinetic:1, to electrical:3, to electricity:3
+radio, radios, speaker, speakers, doorbell, television > electrical:2, to sound:3, to light:1
+photosynthesis, leaves, leaf, plants make > light:2, to chemical:3, chemical:1
+car engine, engine, engines, gasoline, burning fuel, fuel > chemical:2, to mechanical:3, to motion:3, to kinetic:2, to heat:1
+eating, food, muscles, runner, running > chemical:2, to mechanical:2, to motion:2, to kinetic:2
+fire, campfire, burning wood, candle, candles, match > chemical:2, to heat:3, to light:2, to thermal:2
+rubbing hands, rub hands, rubbing, friction > mechanical:2, motion:1, to heat:3, to thermal:3
+falling, falls, dropped, roller coaster, slide down, downhill > potential:2, to kinetic:3, kinetic:1
+stretched, compressed spring, rubber band, wind up, wound up > potential:3, elastic:2, to kinetic:2
+soil washing away, washing away, washed away, soil loss, losing soil, wash away, carried away > plant:3, plants:3, planting:3, grass:3, roots:3, trees:2, cover crops:3, terraces:2, -remove*:2, -dig*:1
+nocturnal, at night, night, dark > large eyes:4, big eyes:4, eyes:2, hearing:2, smell:1, -bright:2, -color*:1
+plants take, plants absorb, plants use, plants need, plants get, leaves take, take in > carbon dioxide:3, sunlight:1, water:1, -oxygen:1
+plants release, plants give, plants produce, plants make, give off, gives off, released > oxygen:3, sugar:1, glucose:1, -carbon dioxide:1
+animals breathe, animals take, animals need, people breathe, humans breathe, inhale > oxygen:3, -carbon dioxide:1
+exhale, breathe out, breathes out, animals release, animals give > carbon dioxide:3, -oxygen:1
+freezer, cold, cooled, cooling, cooler, refrigerator > decrease*:3, decreases:3, shrink*:3, contract*:3, smaller:3, -increase*:2, -expand*:2, -larger:2
+heated, heating, warmed, hot, sun, sunny > increase*:2, increases:2, expand*:3, larger:2, -decrease*:2, -shrink*:2
+learned behavior, learned, learn, taught, training > told:3, command:3, trick*:3, trained:3, taught:3, practice:3, school:2, read*:2, ride:2, bike:2, play:1, -born:2, -instinct*:2, -migrat*:2, -spin*:1
+instinct, instincts, instinctive, inborn, innate, inherited behavior > spin*:2, web:2, migrat*:3, hibernat*:2, born:2, suckle:2, crying:2, build nests:2, -taught:3, -trained:3, -told:2
+inherit*, inherited, passed from parents, passed down, offspring, parents, traits > shape:1, nose:2, eye:1, color:2, coat color:3, fur color:3, freckles:3, dimples:3, height:1, curly:2, blood type:2, -ride:2, -bike:2, -haircut:3, -scar:3, -language:2, -taught:2, -trained:2, -broken:2, -injury:2
+float, floats, floating, ice floats > less dense:4, density:3, -heavier:2, -more mass:2, -mass:1
+pushes harder, push harder, more force, greater force, stronger force, harder > speed up:3, accelerate*:3, faster:3, farther:2, more:1, -slower:2
+handle, handles, pot holder, oven mitt, cooking pot, pan, pans, pot > wood:3, wooden:3, plastic:3, rubber:2, insulator*:2, -metal:2, -copper:3, -iron:2, -aluminum:3, -steel:2, -silver:2
+every minute, each minute, every hour, each hour, every day, each day, every week, each week, every year, each year, every month, each month, per minute > line graph:4, -pie chart:2, -circle graph:2
+moon, moonlight, moon shine, moon shines > reflects:3, reflect*:2, sunlight:3, sun:2, -own light:3, -produces:2
+hydroelectric, dam, dams > moving water:4, water:3, falling water:4, flowing water:3, river:2, -coal:3, -oil:2, -natural gas:2, -uranium:2
+omnivore, omnivores, both plants and animals, plants and animals > omnivore*:3, omnivores:3, both:2
+herbivore, herbivores, only plants, eat plants > herbivore*:3, herbivores:3, -carnivore*:2
+carnivore, carnivores, only meat, other animals, eat meat > carnivore*:3, carnivores:3, -herbivore*:2
+producer, producers, make their own food, own food, makes its own food > producer*:3, producers:3, plants:2, grass:2, algae:2
+decomposers, decomposer, break down dead, dead organisms, dead plants, dead animals, rotting > decomposer*:4, decomposers:4, bacteria:3, fungi:3, mushrooms:3, worms:2
+population, populations > drought:1, disease:1, food supply:1, predators:1, competition:1
+drought, less rain, no rain, dry summer > decrease*:2, fewer:2, less food:2, die:2, wildfire*:2, smaller:1
+more food, food supply increase*, plenty of food, abundant > increase*:2, more:1, grow*:1
+fewer predators, predators removed, no predators, predators decrease > increase*:3, overpopulat*:2, grow*:1
+more predators, predators increase, new predator > decrease*:3, fewer:2
+city, cities, urban, pavement, asphalt, blacktop, parking lot > absorb*:3, absorbs:3, heat:2, dark:2, warmer:1, buildings:1, runoff:1
+astronaut, astronauts, space station, orbiting, weightless* > free fall:3, falling:2, gravity:2, orbit*:2, microgravity:3
+cycle, cycles > repeat*:2, again:1
+testable, scientific question, can be tested, be tested, investigate, investigated, testable question > affect:3, affects:3, effect:3, how does:2, does the:1, amount:2, measure*:2, -prettiest:3, -prettier:3, -better:2, -best:1, -like:2, -favorite:3, -why do people:2, -should:2
+puddle, puddles, dries, dry up, dried up, dries up, wet clothes, clothes dry, sidewalk dries, wet towel, wet sidewalk > evaporat*:4, evaporation:4, evaporated:4, sun:1, heat:1, -condens*:2, -freez*:2, -melt*:2
+brain > skull:4, nervous system:3, nerves:2, neurons:2, spinal cord:2, think*:2, control*:2
+protects the lungs, protect the lungs, protects the heart, lungs and heart, heart and lungs > ribs:4, rib cage:4
+protects the brain, protect the brain > skull:5
+smooth, rounded, round rocks, smooth rocks, smooth and round > weathering:3, moving water:3, water:2, erosion:2, abrasion:2, tumbling:2, river*:1
+sun, sun's > medium-sized:3, medium:2, average:2, -largest:2, -planet:3, -reflects:3, -reflect*:2
+bubbles, boils, boiling water, boiling > water vapor:4, steam:3, gas:2, -air:2, -oxygen:2, -hydrogen:2
+same charge, same charges, like charges, same electric charge, both negative, both positive, two negative, two positive > repel*:5, push apart:3, -attract*:3
+opposite charges, opposite charge, unlike charges, positive and negative > attract*:5, pull together:3, -repel*:3
+living things, all living things, living organisms, alive, characteristic of life, characteristics of living > cells:4, made of cells:4, reproduce:3, grow:2, energy:2, respond:2, -move:2, -bones:2, -own food:2, -legs:2
+increase erosion, more erosion, erosion increase, increase in erosion, cause erosion, causes erosion > remove*:3, removing:3, cutting down:3, clearing:2, -planting:3, -plant:2, -trees:1, -terraces:3, -mulch:3, -grass:1
+sand, gravel, pebbles, soil, rocks > filter*:2, screen:2, sieve:2, settle*:1
+liquid iron, liquid metal, molten iron, liquid layer, liquid nickel > outer core:5, -inner core:3, -crust:2, -mantle:2
+solid iron, solid metal, solid center, solid layer > inner core:5, -outer core:3
+wind, winds, breeze, breezes > uneven heating:5, heating:2, uneven:3, air pressure:2, differences:2, convection:1, -tides:1, -moon:1
+long beak, thin beak, long and thin, long thin, beak is long, narrow beak > nectar:5, flowers:3, probing:2, insects:1, -cracking:2, -nuts:2, -seeds:2, -tearing:2
+thick beak, short beak, strong beak, short and thick, beak is short, heavy beak > cracking:4, seeds:4, nuts:4, crush*:3, -nectar:3
+hooked beak, sharp beak, curved beak, sharp curved > tearing:4, meat:4, tear:3, prey:2
+flat beak, wide beak, scooping beak > water:2, scoop*:3, filter*:2, fish:1
+tool, tools, instrument, instruments, measure, measures, measuring > barometer:1, anemometer:1, rain gauge:1, hygrometer:1, wind vane:1, spring scale:1, stopwatch:1
+heat moves, heat flows, heat travels, heat energy moves, heat transfer > warmer to cooler:4, hot to cold:4, warmer:2, hotter:2, -colder to warmer:2
+closet, no light, without light, no sunlight, without sunlight, darkness, dark closet, dark room, in a dark > yellow:4, pale:3, die:2, wilt*:2, weak:2, -grow faster:3, -more flowers:2
+decreasing, declining, decline, decreased, population decrease*, fewer and fewer, endangered, threatened > loss of habitat:4, habitat loss:4, habitat:3, pollution:2, hunting:2, disease:1, destroyed:2, -increase:2, -more food:3, -fewer predators:3
+living thing, living things, alive, living organism, is living, is alive > mushroom:3, plant:2, tree:2, animal:2, bacteria:2, fungus:2, worm:2, -rock:3, -water:2, -sunlight:3, -air:2, -wind:2
+sunny, warm and sunny, hot and dry, dry weather, no rain, weeks without rain, hot summer > go down:3, lower:2, decrease*:2, evaporat*:3, dry:2, -freeze:2, -overflow:3
+water level, level of water > evaporat*:2, go down:2, lower:1, rise:1
+harder, hit harder, hits harder, hit it harder, strike harder, plucked harder, pluck harder > louder:4, amplitude:3, loud:2, more energy:2, -pitch:2, -higher pitch:2
+drum, drums, guitar, guitars, pluck*, plucked, strum* > vibrat*:3, sound:2, louder:1
+cut deep, carved, cut into, deep valley, cut through, carving > canyon:5, valley:3, erosion:2, -volcano:2, -dune:2
+river, rivers, stream, streams > canyon:2, valley:2, delta:2, erosion:1, -volcano:2, -glacier:1
+gas at room temperature, room temperature, a gas, is a gas > oxygen:3, nitrogen:3, helium:3, carbon dioxide:2, hydrogen:2, air:2, -iron:2, -salt:2, -water:1, -gold:2
+moon, moons > month:2, orbit earth:3, orbits earth:3, -orbit the sun:2, -star:3, -thick atmosphere:3
+reduce fossil, use less, less fossil fuel, less fossil fuels, alternative energy, alternative, alternatives, clean energy, cleaner energy, green energy > solar:4, wind:4, solar panels:4, renewable:3, hydroelectric:2, -coal:4, -gasoline:4, -oil:3, -burn*:2
+reduce, reducing, reduction > solar:1, wind:1, renewable:1, recycle*:1, conserve*:1, -coal:1, -gasoline:1, -burn*:1
+observe*, seen, eyes, just by looking, by looking, only the eyes, observed using, look at, looking at, appearance > color:3, shape:2, luster:2, size:1, texture:1, -mass:2, -hardness:1, -temperature:2, -density:2, -weight:1
+temperature drops, temperature decreases, temperature fell, temperature dropped, gets colder, cools down, cooled down, cooling off > losing:4, loses:4, lose:3, releasing:2, gives off:2, -gaining:3, -gains:3
+temperature increases, temperature rose, temperature rises, gets warmer, warms up, heats up > gaining:4, gains:4, absorbs:3, absorbing:2, -losing:3, -loses:3
+protect, protecting, protection, save, saving, preserve, conserve > preserve:3, wildlife preserve:4, refuge:3, parks:3, protected areas:3, laws:2, -build:2, -roads:2, -hunt:2, -drain:3, -destroy*:3
+endangered species, endangered, protect the habitat, protect habitats, protect habitat > preserve:4, wildlife preserve:4, refuge:4, protected:3, laws:2, -hunt*:3, -roads:2, -drain*:3
+battery, batteries > chemical:3, stores:2, -light energy:3, -sound energy:2
+circuit, circuits, electric circuit, electric circuits > closed circuit:4, electricity flow:3, flow:2, -open circuit:2, -wood:2
+plate, plates, tectonic plates, crustal plates, earth's plates > centimeters:4, slowly:3, each year:3, few centimeters:4, -kilometers:3, -never:3, -storms:2
+leaves change, fall leaves, fall colors, autumn leaves, leaves turn, in the fall, in autumn > chlorophyll:5, breaks down:3, less sunlight:3, shorter days:3, -more sunlight:3, -more water:2
+kinetic, kinetic energy, energy of motion > rolling:4, moving:3, falling:3, running:3, flying:3, spinning:2, -shelf:3, -stretched:3, -battery:2, -drawer:2, -sitting:2
+potential, potential energy, stored energy > shelf:3, top:2, stretched:3, compressed:3, raised:2, held:2, -rolling:3, -moving:2
+great red spot, red spot, giant storm > jupiter:6
+recycl*, recycle, recycling, recycled > old:3, into new:4, reuse:2, reused:2, newspapers:2, -trash:3, -throwing:3, -buying:3, -burning:3, -landfill:2
+balls of ice, ice balls, ice pellets, chunks of ice, pieces of ice, lumps of ice > hail:6, -rain:3, -snow:2, -fog:2
+thunderstorm, thunderstorms > hail:2, lightning:2, thunder:2
+craters, crater, surface of the moon, moon's surface, mountains on the moon, study the moon > telescope:4, binoculars:2, -microscope:3
+moon, planets, stars, galaxies, sky, night sky, space > telescope:2, -microscope:2
+predator-prey, predator and prey, predator prey, prey relationship > owl:3, mouse:3, hawk:3, rabbit:3, fox:3, lion:3, zebra:3, wolf:3, deer:3, snake:2, frog:2, cat:2, -grass:3, -flower:3, -tree:3, -fungus:2, -cow:2, -bee:2
+sound travels, sound travel, speed of sound, sound moves, sound waves travel, sound travels fastest > steel:4, metal:3, iron:3, solid:3, solids:3, rock:2, -air:2, -vacuum:4, -empty space:3
+solar eclipse, eclipse of the sun > moon passes:5, moon moves between:4, moon blocks:4, -earth passes:3, -earth's shadow:3
+lunar eclipse, eclipse of the moon > earth passes:5, earth's shadow:4, earth blocks:4, -moon passes:3, -moon blocks:3
+main source, heat source, energy source, source of, sources of, primary source, provides > sun:3, sunlight:2, -moon:2
+food chain, food chains, food web, food webs, energy flows, energy flow, flow of energy, energy moves > to consumers:4, from producers:4, to herbivores:3, from plants:3, from the sun:3, -to producers:4, -from consumers:4, -to the sun:3, -decomposers are the start:2
+support life, supports life, life on earth, living things on earth, life to exist, allows life > liquid water:6, water:3, atmosphere:2, oxygen:2, -rings:3, -no atmosphere:4, -largest:2
+dispose, disposal, dispose of, get rid of, leftover, leftovers, clean up, cleaning up, throw away, end of the lab, after a lab, after an experiment > teacher:4, instructions:4, follow:3, directions:3, -sink:3, -trash:3, -home:3, -drain:3
+night, nights, nighttime, darkness at night, why we have night, why it is dark > spins:3, rotat*:3, faces away:4, away from the sun:3, turns away:3, -sun moves:3, -moon blocks:3, -clouds:2
+fossil fuels, fossil fuel > -build:1, solar panels:1, solar:1, wind:1
+larger crystals, large crystals, bigger crystals, grow crystals, big crystals, crystal size > slowly:4, cooling slowly:5, cooled slowly:4, -quickly:3, -stirring:2
+without changing, same chemical, not chemically, chemical makeup, chemical composition, physically broken > mechanical:4, physical:4, mechanical weathering:4, -chemical weathering:3, -chemical:2
+release heat, releases heat, gives off heat, give off heat, loses heat, lose heat, releasing heat, released heat > freezing:4, condensation:4, condensing:3, -melting:3, -boiling:3, -evaporat*:3
+absorb heat, absorbs heat, gains heat, gain heat, takes in heat > melting:4, boiling:4, evaporat*:4, -freezing:3, -condens*:3
+rides down, rolls down, goes down, slides down, coasting, hill, hills > to kinetic:4, potential energy to kinetic:3, kinetic:2, -to potential:3
+climbs, goes up, carried up, lifted, raising, uphill > to potential:4, potential:3, -to kinetic:2
+plant cell, plant cells > cell wall:5, chloroplast*:5, chloroplasts:4
+animal cell, animal cells > nucleus:1, cell membrane:1
+no air, no matter, empty space, vacuum, outer space > no matter:4, nothing:2, no particles:3, no medium:4, -cold:2, -gravity:1
+weather > today:4, now:2, windy:3, raining:3, this week:3, tomorrow:2, -each year:2, -usually:2, -all year:2
+climate > usually:3, all year:3, each year:3, every year:2, average:3, long-term:3, -today:3, -tomorrow:2
+cold weather, cold winters, freezing temperatures, adapting to cold, survive the winter, survive winter > hibernat*:4, hibernating:4, migrat*:3, thick fur:3, blubber:2, fat:2, -basking:2
+muscular system, muscles, move the body, movement > skeletal system:4, skeletal:3, bones:3, joints:2, tendons:2
+first step, begin an investigation, beginning an investigation, start an investigation, starting an experiment > question:4, ask a question:5, ask:3, observe:2, -conclusion:4, -analyze:3, -report:3
+harmful, most harmful, harm, damage, damages, pollute, threat > runoff:3, fertilizer:3, pollution:3, chemicals:3, sewage:3, pesticides:3, oil spill:3, trash:2, -planting:2
+moon appears to change, moon's shape, moon changes shape, appear to change shape, phases of the moon, moon phases > sunlit:4, lit:3, sunlit side:5, seen from earth:3, portion:2, -shadow:4, -clouds:3
+wood burns, burning wood, fire, burns, combustion > carbon dioxide:4, ash:2, smoke:2, heat:2, light:1, water vapor:1, -oxygen:1, -helium:2
+power plants, power plant, electricity in the united states, most electricity, generate electricity, make electricity > fossil fuels:4, coal:4, natural gas:4, -tides:2
+good investigation, good experiment, scientific investigation, valid experiment, good scientific > repeated:4, repeat:3, can be repeated:5, others:2, -only one trial:3, -ignores:3, -one trial:3
+independent variable, variable that is changed, manipulated, changed by the scientist > height from which:3, dropped:2, amount of:2, type of:1, -bounces:2, -measured:2
+dependent variable, variable that is measured, measured variable, responding > bounces:2, measured:3, how high:2, how much:2, how many:2, growth:2
+closest together, close together, tightly packed, packed together, closely packed, particles closest > solid:5, solids:4, -gas:4, -plasma:2
+removes waste from, remove waste, removes waste, filters blood, filter blood, filters the blood, cleans the blood, waste from > kidneys:6, kidney:5, -heart:3, -lungs:2
+all cells, new cells, cells come from, cell theory > other cells:5, existing cells:5, cell division:3, -nonliving:3
+pollution, polluted, pollute, water pollution > dumping:4, dump*:3, chemicals:3, waste:3, sewage:3, -recycl*:3, -planting:3, -rain barrel:2
+waves, ocean waves, water waves, wave energy > mechanical:3, mechanical energy:3, energy:2, -electrical:2, -nuclear:2
+takes up space, take up space, has volume, occupies space, has mass > balloon:4, inflate*:3, bigger:3, fills:2, -color:2
+medium, mediums, matter to travel > sound:4, sound waves:4, -light:3, -radio:2, -microwaves:2
+support this conclusion, support the conclusion, support a conclusion, help support, more evidence, strengthen, more confident, more reliable > repeat*:4, repeating:4, many:3, more trials:4, more plants:2, -once:3, -one time:3, -brighter:1
+earthquake, earthquakes, volcano, volcanoes, rocks, minerals, landforms, earth's crust > geologist:4, seismologist:3, volcanologist:3, -astronomer:2, -biologist:2
+stars, planets, galaxies, outer space, the universe, moons, telescope > astronomer:4, -geologist:2, -botanist:2
+weather, storms, climate, forecasts, clouds, hurricanes > meteorologist:5, -geologist:2
+plants, flowers, trees > botanist:4
+animals, animal behavior > zoologist:4
+fossils, dinosaurs, ancient life > paleontologist:5
+insects, bugs > entomologist:5
+oceans, ocean, sea life, marine > oceanographer:4, marine biologist:4
+ecosystems, environment, interactions, food webs > ecologist:4
+chemicals, chemical reactions, elements, compounds > chemist:4
+forces, motion, energy, electricity > physicist:3
+cells, living things, organisms, life > biologist:4
+genes, heredity, dna, inherited traits > geneticist:5
+bacteria, microorganisms, microbes, viruses > microbiologist:5
+cold weather, stay warm, keep warm, warm in, keep a person warm, winter clothing, cold day > wool:4, sweater:3, coat:4, jacket:3, fur:2, insulat*:3, layers:2, -thin:3, -metal:2, -cotton:1, -shorts:2
+both need, plants and animals need, all living things need, organisms need, living things need, both plants and animals need, survive > water:5, -sunlight:2, -soil:2, -carbon dioxide:2, -meat:2
+body organ, largest organ, organ is the largest, biggest organ > skin:5, -heart:2, -brain:2
+move through the water, swim, swimming, steer, steering, helps a fish move > fins:5, tail:4, -gills:3, -scales:2
+arctic, polar, cold climate, cold environment, cold region, cold areas, tundra > thick layer:4, thick:3, layer of fat:3, -short fur:3, -short:2, -thin:3, -large ears:3
+kept, keep, constant > same amount:4, amount:3, size:1, temperature:1, -results:4, -conclusion:4, -data:2
+cities, between cities, two cities, long distance, long distances, far apart, across a country, across a state, road trip > kilometers:5, miles:4, -centimeters:3, -millimeters:4, -grams:3
+small objects, length of a pencil, length of a leaf, width of a book, length of an insect > centimeters:4, millimeters:4, -kilometers:4
+boiling point, water boils, boils at, boiling water > 100:4, 212:1, celsius:1, -0:2, -32:2, -50:2
+freezing point, water freezes, freezes at, melting point of ice > 0:4, 32:3, -100:3, -212:2
+body temperature, normal body temperature > 37:4, 98:3
+atom, atoms > smallest:3, element:3, basic unit:3, -cell:3, -cannot:2, -larger:2
+plant leaves, from leaves, leaves release, from plants, leaves give off, plants release water > transpiration:6, -condensation:3, -precipitation:2
+atmosphere protects, protects living things, protect living things, ozone layer, ozone protects, shields earth > ultraviolet:5, uv:4, harmful rays:4, radiation:3, meteors:2, -oxygen:3, -rain:2
+atmosphere > ultraviolet:2, protects:2, harmful rays:2
+water cycle, water moves, cycle of water > moves:3, land:2, oceans:2, air:2, between:2, continuous:2, -created:4, -stops:4, -only:2
+reddish brown, reddish-brown, red-brown, orange-brown, turned red, turned brown, flaky, flaking > rust*:5, rusted:5, oxidation:3, iron:2, -melted:3, -froze:3
+nail, nails, left outside, bicycle left outside, metal left outside, iron gate, car left > rust*:3, rusted:3, oxygen:1, water:1
+moved closer, closer to the light, nearer to the light, near the light, closer to a lamp, closer to the flashlight > larger:5, bigger:4, -smaller:3
+moved farther, farther from the light, farther from the lamp, away from the light > smaller:5, -larger:3
+vertebrate, vertebrates, has a backbone, have a backbone, with a backbone > snake:3, fish:3, frog:3, bird:3, dog:3, cat:3, horse:3, lizard:3, mammal:2, reptile:2, -jellyfish:4, -earthworm:4, -spider:4, -insect:4, -worm:4, -snail:3, -crab:3, -octopus:3
+invertebrate, invertebrates, no backbone, without a backbone, lacks a backbone > jellyfish:4, earthworm:4, spider:4, insect:4, worm:4, snail:4, crab:3, octopus:4, starfish:3, -snake:4, -fish:3, -dog:3, -frog:3, -bird:3
+energy needed, gives the energy, provides the energy, provides energy, powers, drives, energy for > sun:4, sunlight:3, -ocean:2, -moon:2, -wind:1
+palm trees, palm tree, tropical plants, tropical fossils, coral fossils, fern fossils > warmer climate:5, warmer:4, warm:3, climate:2, tropical:2, -cold:3, -carried:2, -people:2
+hot climates, hot climate, hot weather, hot summer, sunny days > light-colored:4, light colors:4, white:3, reflect*:4, -absorb*:3, -dark:3
+light-colored, light colored, light colors, white clothing, lighter colors > reflect*:5, reflects:5, cooler:3, -absorb*:4
+flood, floods, flooding, protect from floods, prevent flooding, floods often > levees:5, levee:5, dams:3, wetlands:3, plants:2, -cutting:3, -paving:3, -draining:4, -drain:3
+stretch, stretches, stretched, how far it stretches, length of the spring > ruler:5, meter stick:4, centimeters:2, -stopwatch:3, -thermometer:3
+vibration, vibrations, vibrating, vibrates, caused by vibrations > shaking:4, shake:3, shakes:3, back and forth:3, feel:2, touched:2, buzz*:2
+candle, candles, flame, flames, goes out, went out, jar over > oxygen:5, used up:4, burn*:2, -colder:2, -light:2
+hillside, hillsides, lost soil, soil loss, hold soil, holds soil, keep soil > roots:5, grass:3, plants:3, hold:3, -steeper:3, -heavier:2
+space suit, space suits, spacesuit, astronauts on, astronauts need, astronaut needs > no air:5, air to breathe:4, oxygen:4, breathe:3, -gravity:2, -bright:2
+rises and sinks, rise and sink, heated from below, bottom rises, cooler sinks, warmer rises, hot rises, rising and sinking > convection:6, -conduction:3, -radiation:3
+observation, observations, observation rather than, observed, observe > green:3, color:3, measured:3, tall:2, -happy:4, -wants:4, -will:2, -feels:3, -probably:2, -because:2
+inference, inferences, infer, inferred > because:3, probably:3, will:2, must:2, likely:2, -green:2
+living thing, living things, alive, is living, evidence that > grows:4, grow:3, reproduces:4, reproduce:3, needs energy:3, energy:2, responds:2, -tall:2, -brown:2, -wood:2
+layers, rock layers, in layers, layered > sediment:4, sediments:4, deposited:4, deposition:3, over time:2, sedimentary:3, -magma:2, -melted:2
+stethoscope, listens to, heartbeat, chest > circulatory:4, respiratory:4, heart:3, lungs:3, -digestive:2
+population, populations > same species:4, one species:4, all the deer:2, single species:3, one kind:3, -all the living:3, -rocks:3, -nonliving:2
+remains, ancient, ancient plants, ancient animals, ancient life, prehistoric, long ago > paleontologist:5, fossils:3, -meteorologist:2, -astronomer:2
+farthest, farthest from, planet is farthest, most distant, outermost > neptune:5, -mercury:4, -earth:2
+lever, levers, fulcrum, lift a heavy, easier to lift, lift heavy > fulcrum closer:5, closer:3, longer lever:4, longer:2, -shorter:3, -farther:2
+acid, acids, base, bases, neutralization, acid and base, neutralize > salt and water:5, salt:3, neutral:3, water:2, -oxygen and hydrogen:2
+definite volume, fixed volume > liquid:4, liquids:3, solid:1
+no definite, not have a definite, no fixed shape, no shape of its own, takes the shape > liquid:3, gas:3, -solid:5
+controls how much light, amount of light, light enters, how much light enters, size of the pupil > iris:6, pupil:4, -optic nerve:3, -retina:2
+bonds, chemical bonds, stored in the bonds, bonds of molecules, molecules store > chemical energy:5, chemical:4, -kinetic:3
+small hairs, tiny hairs, see small, small details, closer look, look closely, details of > hand lens:5, magnifying glass:5, microscope:3, -telescope:5
+sun and earth, earth and sun, earth and the sun > earth orbits:5, orbits:2, -sun orbits:5, -larger:2, -planet:2
+most energy, more energy, highest energy, greatest energy, most heat energy > water vapor:4, gas:4, steam:3, -ice:3, -snow:2, -solid:2
+recycl*, recycling, recycle > saves:4, natural resources:5, resources:4, conserve*:3, less waste:3, energy:1, -increases trash:4, -more energy:3, -more pollution:4
+gone, disappeared, water is gone, glass of water, left in the sun, water level dropped, dried > evaporat*:4, evaporation:4, -condens*:2, -freez*:2
+cold front, cold fronts, front passes, front will pass > thunderstorms:4, storms:3, cooler temperatures:5, cooler:4, rain:2, -heat wave:4, -no change:3
+classify rocks, three main groups, types of rock, rock types, groups of rocks, kinds of rocks > formed:5, how the rocks formed:4, formation:3, -color:3, -size:3, -where:2
+exercise, exercises, exercising, workout, running, jogging > increases:4, increase:3, faster:3, -decreases:4, -drops:3, -less:3, -slower:2
+messages, signals, impulses, brain to the muscles, from the brain > nervous system:5, nervous:4, nerves:3, -circulatory:2, -digestive:2
+ocean is salty, salty ocean, ocean salty, seawater salty, ocean salt, salt in the ocean, salt water > rivers:4, dissolved minerals:5, minerals:3, dissolved:3, -fish:3, -rain:2, -ice:2
+planting trees, plant trees, more trees, planted trees, trees are planted, tree planting > less carbon dioxide:5, carbon dioxide:2, oxygen:3, shade:3, cooler:2, -more air pollution:4, -warmer:2, -erosion:2
+petal, petals > attract*:4, insects:2, pollinators:3, bees:2, color*:1
+stamen, anther > pollen:4, male:3
+pistil, ovary, stigma > female:3, seeds:2, egg*:1, pollen:1, fruit:2
+cone, cones > seeds:3, pine:2, conifer*:2
+bulb, bulbs, tuber*, potato*, potatoes > food storage:3, store*:3, starch:2, underground:2
+thorn*, thorns, spines, prickles > protect*:4, defense:2, animals:2, eaten:2
+waxy, waxy coating, cuticle > water loss:4, conserve water:3, prevent*:2, dry:1
+seed coat > protect*:4, embryo:2
+plant reproduction, reproduce, reproduction > seeds:2, flowers:2, spores:2, pollen:1, eggs:1, offspring:2, cones:1
+grow*, growth > water:1, sunlight:1, nutrients:1, food:1, cells:1, mitosis:1
+fruit, apple, apples, tomato, tomatoes > seeds:3, flower:2, ovary:2
+feathers > warm:2, insulat*:2, flight:2, fly:2, birds:2, waterproof:1
+wings > fly:3, flight:3, birds:1, insects:1, bats:1
+webbed feet > swim*:4, water:2, paddle:2, ducks:2
+claws, talons > grab*:3, catch*:3, prey:3, dig*:2, climb*:2, hold:2
+long neck, long necks, giraffe*, giraffes > reach:3, leaves:3, tall trees:3, high:2
+long legs > run fast:3, run:2, wading:2
+shell, shells, turtle*, snail* > protect*:4, protection:3, predators:2
+quills, porcupine* > protect*:4, defense:3, predators:2
+spray*, skunk*, skunks > smell:3, odor:3, protect*:2, defense:2, predators:2
+mimicry, mimic* > look like:3, predators:2, harmless:2, dangerous:1, protect*
+gills, fins, streamlined > water:3, swim*:3
+hump, humps, camel, camels > fat:3, store*:3, energy:2, desert:2, water:1
+blubber, seal*, seals, walrus*, whale*, whales, penguin*, penguins, polar bear*, polar bears > fat:3, blubber:3, insulat*:3, warm:3, cold:2, water:1, -thin:2
+tail, tails > balance:3, swim*:2, steer*:2, communicat*:1
+antennae, antenna > smell:3, touch:3, sense*:3, feel:2
+teeth > chew*:3, tear*:2, grind*:2, food:2
+kangaroo*, koala*, opossum*, marsupial*, marsupials > pouch:4, mammal*:2
+bats, bat > echolocation:3, sound:2, nocturnal:2, night:2, mammal*:3, fly:1, wings:1
+whale, whales, dolphin, dolphins > mammal*:3, lungs:3, breathe air:3, blowhole:3, warm-blooded:2, milk:2, -gills:3, -fish:2
+penguin, penguins, ostrich*, emu > bird*:3, feathers:3, eggs:2, -fly:2
+snake, snakes, lizard, lizards, turtle, turtles, alligator*, crocodile* > reptile*:3, scales:3, cold-blooded:3, eggs:2, -fur:2, -feathers:2
+frog, frogs, toad*, salamander* > amphibian*:4, moist skin:3, tadpole*:2, eggs:2, water:2, metamorphosis:2
+shark*, sharks, salmon, trout, tuna > fish:3, gills:3, fins:2, scales:1, cartilage:1
+spider, spiders, scorpion*, tick, ticks, mites > arachnid*:4, eight legs:4, -insect*:3, -six legs:3
+ant, ants, bee, bees, beetle*, beetles, butterfly, grasshopper*, fly, flies, mosquito*, ladybug* > insect*:3, six legs:3, three body:3, antennae:2, exoskeleton:2, -arachnid*:2, -eight legs:2
+worm, worms, earthworm*, earthworms > soil:3, decompos*:2, invertebrate*:2, tunnels:2, air:1, nutrients:2, moist:1
+jellyfish, sponge*, coral, starfish, sea star* > invertebrate*:4, ocean:2, -backbone:2
+crab, crabs, lobster*, shrimp, crayfish > exoskeleton:3, crustacean*:3, invertebrate*:2, shell:2, molt*:2
+complete metamorphosis > egg:2, larva:4, pupa:4, adult:2, butterfly:2, beetle*:2
+incomplete metamorphosis > egg:2, nymph:4, adult:2, grasshopper*:2, -pupa:3
+larva, larvae, caterpillar*, caterpillars > eat*:3, leaves:2, grow*:2, pupa:2
+pupa, chrysalis, cocoon > change*:3, adult:2, metamorphosis:2, butterfly:2
+tadpole*, tadpoles > gills:3, water:3, tail:2, frog:2, lungs:1
+egg, eggs > hatch*:3, embryo:2, shell:1, offspring:1, young:1
+mammals reproduce, give birth, live birth > mammal*:4, milk:2, young:2, -eggs:2
+sunlight, sun, light > producer*:1, plants:1, photosynthes*:1, energy:1
+food web*, food chain*, energy transfer > arrows:2, energy:2, eaten:1, eats:1, flows:1
+arrow, arrows > energy:3, direction:2, eaten by:2, flow:2
+top predator*, top predators, apex > hawk*:2, wolf*:2, lion*:2, eagle*:2, shark*:2, -grass:2, -plants:2
+remove, removed, removal, disappear*, die out, died out, eliminated > increase*:1, decrease*:1, population*:1, food:1
+balance, balanced ecosystem, stable ecosystem, stable > biodiversity:2, many species:2, predators:1, prey:1
+coral reef*, coral reefs > warm:2, shallow:2, algae:2, biodiversity:2, bleaching:2, ocean:2
+lichen*, lichens > fungus:2, algae:3, pioneer:3, rocks:2, mutualism:2
+sun's energy, solar energy, sunlight energy > photosynthes*:2, plants:2, producers:2, food:1
+ecological role, role > producer*:1, consumer*:1, decomposer*:1, predator*:1, prey:1
+fire, wildfire*, forest fire*, fires > burn*:2, ash:1, new growth:2, nutrients:2, habitat*:1, succession:2
+flood, floods, flooding > erosion:2, soil:2, damage:2, habitat*:1, deposit*:1
+volcanic eruption, eruption, eruptions > ash:3, lava:3, gases:2, new land:2, island*:2, climate:1
+bacteria, bacterium, bacterial > single-celled:3, one cell:2, microscope:2, decompos*:2, disease*:2, yogurt:2, cheese:1, antibiotic*:2, no nucleus:2, prokaryot*:2
+yeast > fungus:3, bread:3, rise:2, carbon dioxide:3, sugar:2, fermentation:3
+virus, viruses > host:3, cells:2, disease*:2, reproduce:2, not living:2, vaccine*:2, -antibiotic*:2
+protist*, amoeba, paramecium, euglena > single-celled:3, one cell:3, water:2, microscope:2, cilia:2, flagella:2, pond:1
+organelle*, organelles > nucleus:2, mitochondria:2, chloroplast*:2, vacuole*:2, ribosome*:2, cell:1
+cell energy, releases energy, energy release > mitochondria:4, respiration:3, glucose:2
+control center, genetic material, genetic information > nucleus:4, dna:3, chromosomes:2
+captures sunlight, captures light > chloroplast*:4, chlorophyll:3
+stores water, storage > vacuole*:4, large vacuole:3
+shape and support, rigid, supports the plant cell > cell wall:4
+enter and leave, enters and leaves, what enters > cell membrane:4, membrane:3
+specialized cells, specialized > nerve cells:2, muscle cells:2, red blood:2, tissue:2, function:2, different jobs:2
+diffusion, osmosis > high concentration:3, low concentration:3, membrane:2, water:2, spread*:2
+genotype, genotypes, phenotype, phenotypes, alleles, allele > dominant:2, recessive:2, genes:2, punnett:2, traits:2
+same species, member of the same species > mate:3, offspring:2, fertile:2, reproduce:2
+variation, variations, differences among > survive:2, natural selection:2, genes:2, mutation*:2, sexual reproduction:2
+environment affects, environmental factor*, environment influences > sunlight:2, nutrition:2, food:2, water:2, temperature:2, exercise:1, skin color:1, height:1
+fossil record, fossils show > change*:3, over time:3, extinct*:2, ancestors:2, evolved:2, environments:2, past:2, simple:1, complex:1
+fish fossil, fish fossils, marine fossils, sea shells, seashells, shark tooth, coral fossils > ocean:4, water:3, covered by water:4, sea:3, underwater:3
+fossils of tropical plants, palm tree fossils, fern fossils, tropical plants > warm:4, tropical:3, climate:3, warmer climate:4
+dinosaur, dinosaurs > extinct*:3, fossils:3, reptile*:2, millions of years:2, asteroid:1
+ancestor, ancestors, common ancestor > similar:2, related:2, dna:2, structures:2, evolution:2
+homologous, similar structures, similar bones > common ancestor:4, ancestor:3, related:3, evolution:2
+peppered moth*, moths > dark:2, light:1, camouflage:2, pollution:2, natural selection:2, soot:2
+antibiotic resistance, resistant bacteria, pesticide resistance, resistant > natural selection:3, survive:3, reproduce:2, mutation*:2, variation:2
+gravity pulls, pulls objects, dropped, drop, falling objects > gravity:4, down:2, toward earth:3, earth:1
+mass and weight, weight and mass > gravity:2, weight changes:3, mass stays:3, same mass:3, newtons:1, grams:1
+mass stays the same, mass does not change > same mass:3, location:1
+heavier object, heavy, more mass, greater mass, larger mass > more force:3, harder:2, inertia:2, more gravity:2, slower acceleration:2
+air resistance, parachute*, drag > slows:3, slow:2, surface area:3, friction:2, air:2, falls slower:3
+speed up, accelerate, accelerating, faster > force:2, push:1, increase*:1, downhill:1
+slow down, slows down, stop, stops, stopping, brake*, brakes > friction:4, brakes:2, force:2, opposite direction:2, -gravity:1
+direction of motion, change direction, changes direction, curve, turn > force:3, push:1, pull:1, unbalanced:2
+roll*, rolls, rolling, ramp > height:2, steeper:2, slope:2, friction:1, distance:1, gravity:2
+distance-time graph, distance time graph, steeper line, flat line > speed:4, faster:2, not moving:2, stopped:2
+rocket*, rockets, jet* > action:2, reaction:3, exhaust:2, push:2, thrust:3, equal and opposite:3, newton*:1
+collide, collision, crash, crashes, seat belt, seat belts, air bag*, helmet*, helmets > inertia:3, momentum:2, force:2, protect*:2, safety:2, absorb*:2
+light bulb lights, bulb lights, complete circuit, closed circuit > complete:3, closed:3, path:3, battery:2, wires:2, connected:2
+does not light, bulb does not light, will not light, not light, open circuit > open:3, broken:3, gap:2, loose:2, switch:1, incomplete:3, dead battery:2
+wire, wires, wiring > copper:4, metal:3, conductor*:3, plastic coating:2, rubber:1, insulat*:2
+plastic coating, coating on wires, cover wires, covered with plastic, rubber coating > insulator*:4, insulat*:3, safety:2, shock:2
+electric shock, shock > water:2, wet:2, conductor*:2, current:2
+electrical energy to, uses electricity > light:1, heat:1, sound:1, motion:1
+light travels > straight lines:3, straight line:3, fastest:3, vacuum:2, -sound:1
+lens, lenses, glasses, eyeglasses, contact lenses, magnifying glass > refract*:3, bend*:3, focus*:3, magnif*:2, convex:2, concave:2
+convex > magnif*:2, focus*:2, converge*:2, thicker:2
+concave > spread*:2, diverge*:2
+bent pencil, appears bent, appears broken, looks broken, looks bent > refract*:4, refraction:4, bend*:3, light:2
+color, colors, red, blue, green, yellow > reflect*:2, absorb*:1, wavelength*:2, light:1
+black, black shirt, dark shirt, black car, dark colored, dark-colored > absorb*:4, absorbs:4, heat:2, warm*:2, -reflect*:3
+white shirt, white car, light colored, light-colored, white paint, silver > reflect*:4, reflects:4, cool*:2, -absorb*:3
+string*, strings, guitar*, violin*, drum*, drums, instrument*, flute* > vibrat*:4, vibrate:4, pitch:2, tight*:2, shorter:2, length:1, thickness:1
+thicker string, longer string, loose string, larger drum > lower pitch:4, lower:3, slower:2, low:2, -higher:2
+thinner string, shorter string, tighter string, tighten*, smaller drum > higher pitch:4, higher:3, faster:2, high:2, -lower:2
+thunder, lightning and thunder, see lightning, hear thunder > light travels:4, faster than sound:4, light:2, faster:2
+earthquake waves, seismic waves, p waves, s waves > solid:2, liquid:2, travel:1, earth's interior:2
+periodic table, groups, group, family, families, column*, columns > similar properties:4, properties:2, same number:2, valence electrons:3, reactiv*:2
+rows, row, period, periods > energy levels:3, shells:2, atomic number:2, increas*:1
+atomic number > protons:4, number of protons:4
+mass number, atomic mass > protons:3, neutrons:3, protons and neutrons:4
+noble gas*, noble gases, helium, neon, argon > unreactive:4, stable:3, full:2, inert:3, balloons:1, lights:1
+alkali metal*, sodium, potassium > reactive:3, very reactive:4, water:2, one electron:2
+symbol*, chemical symbol* > letters:2, element*:2, h:1, o:1, na:1, fe:1
+water molecule, h2o > hydrogen:4, oxygen:4, two hydrogen:3, compound:2
+salt, table salt, sodium chloride > sodium:3, chlorine:3, compound:2, ionic:2, dissolv*:2, crystals:2
+carbon dioxide molecule, co2 > carbon:3, oxygen:3, two oxygen:2, compound:2
+oxygen atoms, hydrogen atoms, atoms of > element*:2, same:1, combine*:2, molecule*:2, bond*:2
+mixture, solution, separated > physical:2, filter*:2, evaporat*:2, magnet:2
+filter, filtering, filter paper, strainer, screen, sieve > sand:2, solid:2, larger particles:3, separate*:3, -dissolv*:2, -salt:2
+evaporating, boil away, salt water > salt:3, evaporat*:4, left behind:3, residue:2, crystals:2, -filter*:3
+iron filings, iron and sand, sand and iron, steel and > magnet:5, magnetic:3
+heat water, water is heated, water heated > boil*:2, evaporat*:2, 100:1, faster:1, particles:1, kinetic:1, steam:2
+ice cube*, ice cubes, ice melts, ice melting > heat:3, absorb*:2, melt*:3, liquid:2, energy:2, warm*:2, -cool*:2
+steam, water vapor > gas:3, boil*:2, evaporat*:2, condens*:2, invisible:2
+indicator*, litmus, ph paper > acid*:3, base*:3, ph:3, color change:3, red:2, blue:2
+baking soda and vinegar, baking soda, vinegar and baking soda > gas:3, bubbles:4, carbon dioxide:4, chemical reaction:4, fizz*:3, chemical:3, new substance:3, -physical:2
+earth's surface, surface features, landforms, landform* > erosion:2, weathering:2, deposition:2, plates:1, volcanoes:1, earthquakes:1, glaciers:1, rivers:1, mountains:1, wind:1, water:1
+river, rivers, stream, streams > erosion:2, carry:2, sediment*:2, delta*:2, valley*:2, meander*:2, deposit*:1, fresh water:2, flows:1, water:1
+ocean water, sea level, sea levels > rise:2, melting:2, ice caps:2, glaciers:2, warming:2, salt:2
+polar ice, ice caps, polar ice caps, glaciers melt*, melting glaciers > sea level:3, rise:2, global warming:3, climate change:2, temperature:1
+latitude, equator, tropics > warm:3, hot:2, direct sunlight:3, direct:2, -cold:2, -polar:1
+poles, north pole, south pole, polar regions, antarctica, arctic > cold:3, ice:2, indirect sunlight:3, indirect:2, low angle:2, -warm:2
+elevation, altitude, higher elevation, mountain top, mountains > colder:3, cold:2, thinner air:3, less air pressure:3, lower air pressure:3, snow:2, -warmer:2
+ocean temperature, coastal, coast, near water > mild:3, moderate:3, cooler summers:2, warmer winters:2, -extreme:2
+topographic map*, contour lines, contour line*, elevation map > elevation:4, height:3, steep:2, closer together:3, landforms:2
+map*, maps, map scale, compass rose > distance:2, direction:2, scale:2, north:2, legend:2, key:2
+star brightness, brighter star, brightest star, stars appear brighter, apparent brightness > distance:3, closer:3, size:2, temperature:2, luminosity:2
+star color, star colors, red star, blue star, hottest star, coolest star > temperature:4, blue:2, hottest:2, red:1, coolest:1
+star life, stars form, nebula, supernova, white dwarf, red giant > nebula:3, gas:2, dust:2, gravity:2, red giant:2, white dwarf:2, supernova:2, fusion:2
+big bang, universe, expanding universe > galaxies:2, expanding:3, moving apart:3, red shift:3, billion:1
+hubble, space telescope > atmosphere:3, clearer:3, above:2, distortion:2, images:2
+moon rocks, apollo > no wind:2, no atmosphere:3, footprints:2, remain:2, gravity:1
+day length, length of day, hours of daylight, daylight hours, longer days, shorter days > tilt*:3, season*:3, summer:2, winter:2, axis:2, latitude:1
+time zone*, time zones > rotat*:3, 24:1, earth:1, longitude:2
+leap year > 365:1, quarter:2, extra day:3, orbit:2
+meteor shower*, shooting star*, shooting stars > meteor*:3, atmosphere:2, burn*:2, comet*:2, debris:2
+solar flare*, sunspot*, sunspots > magnetic:3, sun:2, dark:2, cooler:2, radio:1, aurora*:2
+aurora*, northern lights > solar wind:3, charged particles:3, magnetic field:3, poles:2
+unit, units, measured in, recorded in, expressed in > meters:1, grams:1, liters:1, seconds:1, newtons:1, celsius:1
+mass of > grams:4, kilograms:4, milligrams:3, g:2, kg:2, -meters:2, -liters:2, -newtons:1
+length of, how long is, width of, height of, distance of, distance between > meters:4, centimeters:4, kilometers:3, millimeters:3, -grams:2, -liters:2
+volume of > liters:4, milliliters:4, cubic centimeters:3, -grams:2, -meters:1
+temperature of > degrees:3, celsius:4, fahrenheit:3, kelvin:2
+force of, newton, newtons > newtons:5, n:1
+energy in, joule, joules, calories > joules:5, calories:3
+power, watt, watts, wattage > watts:4, energy per second:3, kilowatts:2
+voltage, volt, volts > volts:4, battery:2, electric potential:2
+electric current, amperes, amps > amperes:4, amps:4, ammeter:3
+frequency in, hertz > hertz:4, cycles per second:3, waves per second:3
+speed in > meters per second:4, kilometers per hour:4, miles per hour:3
+density of > grams per cubic centimeter:4, g/ml:3, grams per milliliter:3
+wavelength of, wavelength > meters:2, distance:2, crest to crest:4, crests:3
+smallest unit of life, basic unit of life, basic unit, building blocks of life, basic structural unit, smallest living unit > cell:5, cells:5, -atom:2, -organ:2, -tissue:2
+smallest particle > atom:5, atoms:5, -cell:3, -molecule:1
+smallest part > atom:3, cell:2
+largest organ > skin:5
+from smallest to largest, smallest to largest, order of size, from largest to smallest, largest to smallest > cell:1, tissue:1, organ:1, organ system:1, organism:1, atom:1, molecule:1
+largest planet, biggest planet > jupiter:5
+smallest planet > mercury:5
+hottest planet > venus:5
+red planet > mars:5
+planet with rings, rings > saturn:4
+closest star, nearest star > sun:5
+closest planet > mercury:5
+farthest planet > neptune:5
+brightest object, brightest in the night sky > moon:3, venus:2
+universe, galaxy, solar system > universe:1, galaxy:1, solar system:1, star:1, planet:1
+largest, biggest, greatest > universe:1, galaxy:1, jupiter:1
+best describes, best explains, most likely, main reason, best reason > because:1
+cause, causes, caused by, responsible for, results from > because:0.5
+function, job, role, purpose, responsible > help*:0.5
+similar, alike, same, in common, both have, shared, share > both:2, all:1, same:1
+different, difference, differ, unlike > different:1, only:0.5
+advantage, benefit, benefits, helpful > help*:1, more:0.5, better:0.5, protect*:0.5
+disadvantage, problem, negative effect, harmful effect, drawback > pollution:1, harm*:1, cost:1, damage:1, -benefit:1
+long term, long-term, over many years, over millions of years, over thousands of years > erosion:1, evolution:1, climate:1, changes:1, extinct*:1, fossils:1, weathering:1, adaptations:1
+short term, short-term, quickly, rapidly, sudden, suddenly, within minutes, in a few hours > earthquake*:2, volcanic eruption:2, landslide*:2, flood*:2, tornado*:1, storm*:1, -erosion:1, -weathering:1, -evolution:1
+slow process, slowly, gradually, gradual, over time > erosion:2, weathering:2, deposition:1, evolution:2, mountains:1, plates:1, -earthquake*:1, -volcano:1, -landslide*:1
+earth's moon > craters:2, gravity:1, no atmosphere:2, reflects:2, orbit*:1, rocky:1
+tides, high tide, low tide > moon:4, gravity:3, pull:2, -wind:3, -earthquake*:2, -rotation:1
+lunar month, orbits earth, around earth > 27:1, 28:1, month:3, 29:1, moon:2
+earth orbits > year:4, 365:1, days:1, ellipse:1
+earth rotates, earth spins > day:4, 24 hours:4, hours:2, day and night:3
+four seasons, why seasons > tilt*:4, tilted:4, axis:3, revolution:2, orbit:1, -distance:3
+plants need light, without light > die:2, yellow:2, pale:2, photosynthes*:2, not grow:2, -grow taller:1
+plants without water, no water, without water, not watered > wilt*:4, dry:2, die:2, droop*:3
+seeds need, seed needs, seeds to sprout, seed to sprout, germinate, sprout > water:4, warmth:3, moisture:3, air:1, -light:2, -sunlight:1, -soil:1
+high pressure, high-pressure > clear:3, sunny:3, fair weather:3, dry:2, -storm*:2, -rain:2, -clouds:1
+low pressure, low-pressure > clouds:3, rain:3, storm*:3, cloudy:2, precipitation:2, -clear:2, -sunny:2
+gulf of mexico, tropical air, over the ocean, maritime > warm:3, humid:3, moist:3, wet:2
+canada, polar air, continental, over land > cold:3, dry:3
+jet stream > weather:2, west to east:3, eastward:2, fast:1, high altitude:2
+weather moves, weather systems, storms move > west to east:4, eastward:3, east:2
+fog, mist > condens*:3, cool:2, water droplets:3, near the ground:3, low cloud:3
+frost > freez*:3, below freezing:3, ice crystals:3, cold:2, deposition:1
+hail, hailstones > ice:3, thunderstorm*:3, updrafts:3, frozen:2
+sleet, freezing rain > freez*:3, ice:2, cold:2
+snow, snowflakes > ice crystals:3, freez*:2, cold:2, below freezing:3
+weather instrument*, weather station, weather tools > thermometer:2, barometer:2, anemometer:2, rain gauge:2, wind vane:2, hygrometer:2
+water expands, freezes and expands, ice expands, burst pipes, pipes burst, potholes, frost wedging, ice wedging > expand*:4, freez*:3, ice:3, cracks:2, weathering:2
+universal solvent, dissolves many > water:4, polar:2
+specific heat, heats up slowly, cools slowly > water:3, ocean:2, land heats faster:3, sand:1
+surface tension, water droplets > cohesion:3, attract*:2, molecules:2, bead*:2
+earth's water, most water, most of earth's water > ocean*:4, oceans:4, salt water:4, 97 percent:2, -fresh:2, -rivers:2, -lakes:2
+most fresh water > glaciers:4, ice caps:4, frozen:3, ice:3, -rivers:2, -lakes:2
+mohs, mohs scale, hardest mineral, hardest > diamond:5, 10:1, scratch*:2
+softest mineral, softest > talc:5, 1:1
+calcite, limestone, marble > acid:3, fizz*:3, bubbles:3, vinegar:2, calcium carbonate:3
+magnetite > magnetic:5, magnet:3, iron:2
+quartz > hard:3, glass:2, sand:2, crystals:2, common:1
+granite > igneous:4, large crystals:3, slowly:2, intrusive:2, feldspar:2, quartz:2, mica:2
+obsidian, volcanic glass > igneous:3, cooled quickly:4, quickly:3, glassy:3, no crystals:3, lava:2
+pumice > igneous:3, holes:3, air pockets:3, gas bubbles:3, floats:3, lightweight:2, lava:2
+basalt > igneous:3, lava:2, dark:2, oceanic crust:2, small crystals:2
+large crystals, big crystals > cooled slowly:4, slowly:3, underground:3, intrusive:2, magma:2, -quickly:3
+small crystals, tiny crystals, no crystals > cooled quickly:4, quickly:3, surface:2, lava:2, extrusive:2, -slowly:3
+marble > metamorphic:4, limestone:3, heat:2, pressure:2
+slate > metamorphic:4, shale:3
+quartzite > metamorphic:3, sandstone:3
+sandstone > sedimentary:4, sand:3, cemented:2
+shale > sedimentary:4, clay:3, mud:2, layers:1
+limestone, chalk > sedimentary:4, shells:3, calcite:2, ocean:2, marine:2, fossils:2
+coal > sedimentary:2, plants:3, fossil fuel:3, swamps:2, ancient plants:3, pressure:2, carbon:2, nonrenewable:2
+conglomerate > sedimentary:4, pebbles:3, rounded:2, gravel:2
+petrified, petrified wood > minerals:4, replaced:4, stone:2
+amber > tree sap:4, sap:4, resin:3, insects:3, trapped:2
+mold fossil, cast fossil, molds and casts, imprint, impression > mineral*:2, filled:3, shape:2, mud:2, shell:2
+trace fossil*, footprints, footprint, tracks, burrows > behavior:2, movement:2, trace:3, mud:2
+geologic time, geologic time scale, eras > millions of years:3, precambrian:2, paleozoic:2, mesozoic:2, cenozoic:2, fossils:2
+mesozoic > dinosaurs:4, reptiles:2
+ice age, ice ages > glaciers:4, cold:3, colder:3, mammoths:2, sea level:1
+mass extinction, extinction event > asteroid:3, impact:2, volcanic:2, climate change:3, dinosaurs:2
+sun moves across the sky, path of the sun, sun moves > rotat*:4, earth rotates:4, east to west:4, west:1, -revolv*:2, -sun moves around:3
+stars move across, star trails, stars rise > rotat*:4, earth rotates:4, east to west:2
+north star, polaris > north:4, does not move:3, stays:2, fixed:2, little dipper:2, navigation:2, axis:2
+constellations change, different constellations, different stars > revolv*:4, revolution:3, orbit*:3, seasons:3, -rotat*:2
+same side of the moon, same side, one side of the moon > rotat*:2, same time:3, revolution:2, synchronous:2, 27 days:1
+spring tide*, spring tides > aligned:4, line:3, full moon:2, new moon:2, highest:2, sun and moon:2
+neap tide*, neap tides > right angle:4, quarter:3, lowest:1
+full moon > earth between:3, opposite:3, lunar eclipse:2, fully lit:2, 14 days:1
+new moon > between:3, moon between:3, solar eclipse:2, dark:2, not visible:2
+asteroid belt > mars:4, jupiter:4, between:3, rocky:2
+distance from the sun, distance from earth to the sun > 150 million:2, astronomical unit:3, au:2, 8 minutes:2
+gravity keeps, keeps the planets, keeps planets, holds the planets, stay in orbit, keeps the moon > gravity:5, gravitational:3, -magnet*:3, -friction:2
+mass of the sun > gravity:3, 99:1, most mass:3, center:2
+planets orbit, orbit the star, order of the planets > mercury:1, venus:1, earth:1, mars:1, jupiter:1, saturn:1, uranus:1, neptune:1
+light pollution, city lights > fewer stars:3, see fewer:3, dim:2
+temperature measures, measure of temperature, temperature is a measure > average kinetic energy:5, kinetic energy:3, motion:2, particles:2
+thermal expansion, bridges, bridge, expansion joints, power lines, sidewalk cracks, railroad tracks > expand*:4, heat*:3, summer:2, gaps:3, contract*:2, temperature:2
+signs of a chemical reaction, evidence of a chemical, evidence of chemical, chemical reaction occurred > gas:3, bubbles:3, color change:4, light:2, heat:2, temperature change:3, precipitate:3, odor:2, new substance:3, -melting:2, -shape:2
+reactant*, reactants, product*, products, chemical equation*, equation > atoms:3, same number:3, conserved:3, mass:2, balanced:2, rearranged:3
+physical change, change size, change shape, changes shape > same substance:3, no new:3, reversible:2
+reversible, can be reversed, undone > physical:3, melting:2, freezing:2, dissolving:2, -burning:2, -cooking:2
+irreversible, cannot be reversed, cannot be undone, permanent > chemical:3, burning:2, cooking:2, rusting:2, -melting:2
+gold, silver, copper, aluminum, iron, zinc >! metal:3, element:3, conductor*:2, shiny:2, malleable:1
+hydrogen, oxygen, nitrogen, carbon, helium >! element:3, gas:1, atoms:1, nonmetal:2
+water, salt, sugar, carbon dioxide, baking soda >! compound:3, molecule:1, elements:1
+air, soil, salad, trail mix, sea water, ocean water >! mixture:3, -compound:1, -element:2
+alloy*, bronze, brass, steel > mixture:3, metals:3, solution:2, iron:1, copper:1
+plasma > ionized:3, stars:3, lightning:3, sun:2, high temperature:2
+gravity depends, gravitational force depends, force of gravity depends, gravitational pull depends > mass:4, distance:4, masses:3, closer:2
+on the moon, lunar surface > less gravity:3, weigh less:3, one-sixth:3, weaker gravity:3, no atmosphere:2, same mass:3
+mass on, mass would, mass of the astronaut > same:4, does not change:4, unchanged:3, -less:2, -more:2
+weight on, weigh on, weighs on, weight would, would weigh > less:4, decrease*:3, lower:2, -same:2, -more:2
+lever, levers, crowbar, seesaw, see-saw, bottle opener, scissors, shovel, wheelbarrow > fulcrum:4, lever:3, effort:2, load:2, pivot:2
+pulley, pulleys, flag, crane, elevator, blinds > pulley:4, rope:2, wheel:2, lift:2
+screw, screws, jar, lid, light bulb base, spiral staircase > screw:4, inclined plane:2, twist*:2
+wedge, axe, knife, knives, chisel, nail, nails, teeth, zipper > wedge:4, split:2, cut:2
+wheel and axle, doorknob, door knob, steering wheel, screwdriver, faucet, bicycle wheel, ferris wheel > wheel and axle:5
+inclined plane, ramp, ramps, slide, stairs, hill, wheelchair ramp > inclined plane:4, ramp:2, less force:2
+mechanical advantage, easier, makes work easier, less effort > simple machine:2, lever:1, pulley:1, ramp:1, less force:3, longer distance:2, -less work:1
+five kingdoms, kingdoms, kingdom > animals:2, plants:2, fungi:2, protists:2, bacteria:2, monera:2
+fungi kingdom, fungus, fungi > mushrooms:3, yeast:3, mold:3, decompos*:3, spores:3, absorb*:2, -photosynthes*:3, -chlorophyll:3
+plant kingdom, plants > chlorophyll:2, photosynthes*:2, cell wall*:2, producer*:2, roots:1, leaves:1
+animal kingdom > consumer*:2, move:2, eat:2, -photosynthes*:2, -cell wall:2
+warm-blooded, endotherm*, birds and mammals > mammal*:3, birds:3, constant body temperature:4, -reptile*:2, -fish:2
+cold-blooded, ectotherm*, reptiles, amphibians > environment:3, body temperature changes:3, sun:2, bask*:2
+backbone, spine, vertebra*, vertebrae > vertebrate*:4, fish:1, mammal*:1, bird*:1, reptile*:1, amphibian*:1, -insect*:2, -worm*:2
+hair, fur, milk, mammary > mammal*:5, -bird*:2, -reptile*:2
+feathers, wings and feathers, hollow bones > bird*:5, -mammal*:2
+scales, dry scaly skin, scaly skin, leathery eggs > reptile*:4, fish:2, snake*:2, lizard*:2
+moist skin, slimy skin > amphibian*:5, frog*:3
+gills and fins, breathe with gills, fins and gills > fish:5
+six legs, three body > insect*:5, -arachnid*:3, -spider*:3
+eight legs, two body > spider*:4, arachnid*:5, -insect*:3
+jointed legs, segmented bodies, segmented body > arthropod*:4, insect*:2, spider*:2, crab*:2
+food, eat, eats, feed, feeds, eaten > energy:1, nutrients:1
+breathing rate, breathe faster, heart beats faster, heartbeat > exercise:3, oxygen:3, carbon dioxide:1, energy:2, muscles:2
+muscles need, cells need, body needs > oxygen:3, glucose:2, food:2, nutrients:2, water:1, energy:2
+nerve cells, neurons, nerve cell > signals:4, messages:4, brain:2, impulses:3, long:1, branches:1
+muscle cells, muscle cell > contract*:3, movement:3, mitochondria:3, energy:2
+red blood cell, red blood > oxygen:5, hemoglobin:3, disk:1, no nucleus:2
+sperm, egg cell, sex cells, gametes, reproductive cells > half:3, chromosomes:2, meiosis:3, fertiliz*:2, offspring:1
+offspring, young, baby, babies > parents:2, traits:2, genes:2, inherit*:2
+identical twins > same genes:4, same dna:4, identical:3, one egg:3
+fraternal twins > two eggs:4, different genes:3
+model, models, scale model, computer model, computer models, simulation*, simulate > test:2, cheaper:3, less expensive:3, safer:3, quickly:2, many designs:3, too large:2, too small:2, too dangerous:3, predict*:2, -exact:2, -real:1
+benefit of using models, advantage of a model, use a model, uses a model, why use models > cheaper:3, safer:3, quickly:2, test:2, observe:2, too large:3, too small:3, too slow:2
+limitation of a model, disadvantage of a model, model is not, models are not > not exact:4, not identical:3, simplified:3, different:2, scale:2, missing:2, -exact:3
+assistive device, assistive devices, assistive technology, prosthetic*, artificial limb > contact lens:4, hearing aid:4, wheelchair:4, glasses:3, crutches:3, prosthetic:3, cane:2
+engineer, engineers > design:3, build:2, test:2, solve:2, problem:2, solution:2, model:2, materials:2
+cost, expensive, budget, cheap, cheaper > materials:2, cost:2, money:2
+invention, inventions, invented, new technology > improve*:2, solve:2, problem:2, easier:2, needs:2
+dam, dams, building a dam, reservoir > electricity:3, hydroelectric:3, flooding:2, flood control:3, habitat:2, fish:2, migration:2, sediment*:1, lake:2, -erosion:1
+negative effect of a dam, effect of building a dam, dam is built > habitat:3, flood*:3, fish:3, migrat*:2, sediment:2, -electricity:1
+bridge, bridges, building, buildings, skyscraper*, tower* > strong:2, steel:2, materials:2, design:2, earthquake*:1, wind:1, weight:2, load:2, expand*:1
+earthquake-resistant, withstand earthquakes, survive earthquakes, during an earthquake > flexible:4, bend:2, sway:3, base:2, foundation:2, steel:2, -rigid:2, -brick:2
+satellite images, satellites, satellite > weather:2, forecast*:2, maps:2, communication:2, gps:2, images:2, orbit*:2
+gps, global positioning > satellites:4, location:3, navigation:3
+x-ray, x-rays, mri > bones:3, doctors:2, inside the body:3, images:2
+microscope, microscopes, electron microscope > cells:3, bacteria:3, tiny:2, magnif*:2
+fever, high temperature, sick, illness, infection > bacteria:3, virus:3, germs:3, infection:2, immune:2, white blood:2, -exercise:1
+cold, flu, common cold, influenza > virus:4, viruses:3, germs:2, spread:2, sneez*:2, cough*:2, -bacteria:1, -antibiotic*:2
+sneeze, sneezing, cough, coughing, cover your mouth > germs:4, spread:3, virus:2, tissue:2, elbow:2
+rubbing hands, rub hands, rubs hands, rubbing your hands, warm hands, warm their hands > friction:5, heat:3, dry:3, rough:2, faster:2, -wet:2, -soap:2, -lotion:2
+breathing mask, dust mask, mask, masks > spores:3, dust:3, mold:2, lungs:2, respiratory:3, breathe:2
+goggles, safety goggles > eyes:5, protect*:3, splash*:2, chemicals:2
+gloves, rubber gloves, latex gloves > hands:4, skin:3, chemicals:2, bacteria:2, hot:1
+apron, lab apron, lab coat > clothing:4, clothes:3, spill*:2, chemicals:2
+skeletal and muscular, bones and muscles, muscles and bones > movement:4, move:3, support:2, tendons:2
+tendon*, tendons > connect muscles:4, connects muscles:4, muscles:3, bones:2
+ligament*, ligaments > connect bones:4, connects bones:4, joints:3, bones:2
+cartilage > joints:3, cushion*:3, nose:2, ears:2, flexible:2
+saliva > digest*:3, mouth:3, starch:2, enzymes:2, chew*:1
+esophagus > stomach:3, swallow*:3, food:2, tube:2, mouth:1
+liver > bile:3, filter*:2, blood:2, digest*:1, fat:1
+pancreas > insulin:4, sugar:2, enzymes:2, blood sugar:3
+insulin, diabetes > pancreas:4, blood sugar:4, sugar:3, glucose:2
+thyroid > hormone*:3, metabolism:3, growth:2
+adrenaline, fight or flight, scared, frightened > heart rate:3, faster:2, energy:2, adrenal:3, hormone*:2
+eye, eyes, pupil, iris, retina > light:3, lens:2, see:2, optic nerve:2, brain:1, -sound:2
+pupil gets smaller, bright light, dim light, pupil gets larger > light:3, iris:3, less light:2, more light:2
+eardrum, ear canal, cochlea > vibrat*:4, sound:3, hearing:3
+spinal cord > nerves:3, brain:3, messages:3, nervous system:3, reflex*:2
+reflex, reflexes, touches a hot, hot stove, jerks > spinal cord:4, nerves:3, quickly:2, without thinking:3, automatic:2, protect*:2
+voluntary > muscles:2, skeletal:3, control:2, choose:2, walking:2
+involuntary > heart:3, breathing:2, digestion:2, smooth:2, automatic:3, reflex*:2
+sleep, rest > energy:2, growth:2, repair:2, brain:1, health*:1
+puberty, adolescence, teenager*, growth spurt > hormones:4, growth:3, changes:2
+aging, older, elderly, old age > bones:1, weaker:2, slower:2
+baby, babies, infant*, newborn* > milk:2, grow*:2, parents:2, care:2, cry*:1
+green algae, algae supply, algae provide > food:4, sugar:3, photosynthes*:3, oxygen:2
+fungi supply, fungi provide, fungus provides > water:3, minerals:3, protection:2, shelter:2
+nectar > flowers:3, bees:3, hummingbird*:3, butterflies:2, sugar:2, pollinat*:2
+honey, beehive, hive > bees:4, nectar:3, flowers:2, pollen:1
+nest*, nests, nesting > birds:3, eggs:3, young:2, shelter:2, protect*:2
+burrow*, burrows, tunnels, underground > shelter:3, protect*:2, predators:2, temperature:2, hide:2, rabbits:1, moles:1, worms:1
+shed, sheds, molting, molt > grow*:3, exoskeleton:2, skin:2, fur:2, feathers:2, larger:2
+hibernate, hibernating, dormant, dormancy > winter:3, cold:2, food:2, scarce:2, energy:3, slow:2, sleep:1, seeds:1
+store food, stores food, gather food, collect food, squirrels, squirrel > winter:4, nuts:3, acorns:3, seeds:2, survive:2
+flock*, herd*, pack, packs, groups > protect*:3, predators:3, safety:3, hunt*:2, together:2
+territory, territorial > defend*:3, food:2, mates:2, space:2
+courtship, mating, attract a mate, attract mates > colors:2, bright:2, songs:2, dance:2, display:2, feathers:2
+bright colors, bright feathers, colorful > attract*:4, mates:3, warning:2, poison*:2, pollinators:2
+warning coloration, poisonous, poison dart, venom*, venomous > warn*:4, predators:3, bright:3, protect*:2
+plants in the desert, desert plants > thick stems:3, store water:4, waxy:3, spines:3, deep roots:3, shallow roots:2, small leaves:3
+plants in the rain forest, rain forest plants > large leaves:3, broad leaves:3, climb*:2, vines:2, light:2
+aquatic plants > air spaces:3, float*:3, flexible:2, water lilies:2
+roots grow down, roots grow downward > gravity:5, -light:2
+stems grow up, shoots grow upward > light:4, gravity:1
+vines, climbing plants > climb*:3, light:3, support:2, tendrils:2
+carnivorous plant*, venus flytrap, pitcher plant > insects:4, nitrogen:3, nutrients:3, poor soil:3, trap*:2
+seeds with hooks, burr, burrs, sticky seeds > fur:4, animals:4, carried:3, disperse*:3
+seeds with wings, winged seeds, fluffy seeds, dandelion*, maple seeds > wind:5, carried:3, float*:2, disperse*:3
+coconut*, coconuts, floating seeds > water:5, ocean:3, float*:3, disperse*:2
+berries, fruits eaten, eaten by birds > birds:3, animals:3, droppings:3, disperse*:3, seeds:2
+hot air and cold air, warm air meets cold air, cold air meets warm air, air masses meet, fronts meet, warm and cold air > thunderstorm*:4, storms:3, clouds:3, rain:3, front:3, precipitation:2, -clear:2
+warm air rises, hot air rises, rising air > less dense:4, convection:3, lower density:3, clouds:2, cools:2, -denser:3
+cold air sinks, cool air sinks, sinking air > denser:4, more dense:4, convection:2, high pressure:2
+planet rotates faster, rotates faster, spins faster, rotate faster > shorter days:5, days shorter:4, shorter:3, -longer days:3, -longer years:2
+planet rotates slower, rotates slower, spins slower, rotate more slowly > longer days:5, days longer:4, longer:3
+farther from the sun, further from the sun, planets farther, outer planets > colder:4, longer year:4, longer orbit:3, slower:2, -hotter:3
+closer to the sun, nearer the sun, inner planets > hotter:4, shorter year:4, faster:2, -colder:3
+more mass, larger mass, greater mass, bigger planet, more massive > more gravity:4, stronger gravity:4, greater gravity:3, -less gravity:3
+less mass, smaller mass, smaller planet, less massive > less gravity:4, weaker gravity:4, -more gravity:3
+mountains formed, mountain formation, mountain range, mountain ranges, himalayas, rocky mountains, appalachian* > plates:4, collid*:4, collision:3, folding:3, crust:2, millions of years:2, uplift:2, -erosion:1
+island*, hawaii, hawaiian islands, volcanic islands > volcano*:4, volcanoes:4, hot spot:4, magma:3, lava:3
+ring of fire, pacific ocean > earthquakes:3, volcanoes:4, plates:3, boundaries:3
+fault, faults, san andreas > earthquake*:4, plates:3, crack:2, move:2, slide:2
+wind erosion > sand:3, dunes:3, desert:3, dry:2, abrasion:2
+water erosion > rivers:3, rain:3, runoff:3, canyons:2, valleys:2, waves:2
+ice erosion > glacier*:5, glaciers:5, u-shaped:2, scratch*:2
+gravity erosion, mass movement, mass wasting > landslide*:4, mudflow*:3, rockfall*:3, steep slope*:3, gravity:3
+soil formation, soil forms, forms soil, how soil forms > weathering:4, rocks:3, broken down:3, organic matter:3, decay*:2, humus:2, -compaction:2, -melting:2
+organic matter > decay*:4, dead:3, plants:2, animals:2, humus:3, nutrients:2
+soil layers, soil horizons, subsoil, bedrock > topsoil:3, humus:2, subsoil:2, bedrock:2, rock:1
+permeable, permeability, porous > water:3, passes through:3, gravel:2, sand:2, -clay:2
+impermeable, nonporous > clay:3, rock:2, -sand:2
+contour plowing, terracing, terraces, crop rotation, cover crops, windbreaks, no-till > erosion:4, soil:3, reduce:2, prevent*:2, conserve:2
+natural gas, oil, petroleum, coal, gasoline > fossil fuel*:4, nonrenewable:4, burning:2, pollution:2, carbon dioxide:2, millions of years:2, -renewable:3
+wind energy, wind power, wind farm*, windmill > renewable:4, turbines:3, clean:2, no pollution:3, -fossil:2
+solar energy, solar power, sunlight energy > renewable:4, solar panels:3, clean:2, no pollution:2, sun:2
+geothermal, geothermal energy > heat:3, earth's interior:3, underground:3, renewable:3, hot springs:2, volcanoes:1
+biomass, biofuel*, ethanol > plants:3, wood:2, crops:2, renewable:2, corn:2
+nuclear power, nuclear energy, nuclear plant, nuclear power plant > uranium:4, fission:3, radioactive waste:3, waste:2, no carbon dioxide:2
+tidal energy, tidal power, wave energy > moon:2, tides:3, ocean:3, renewable:3
+mass before and after, mass after, total mass, mass of the products, mass of the reactants, sealed container, closed container > same:5, equal:4, conserved:3, unchanged:3, -more:2, -less:2, -increase*:2, -decrease*:2
+melting ice, mass of the ice, mass of the water > same:4, same mass:4, does not change:3, -increase*:2, -decrease*:2
+dissolved, dissolving > solution:3, mixture:2, still there:2, same mass:2, evaporat*:1, -disappear*:2, -destroyed:2
+salt dissolves, sugar dissolves > solution:3, mixture:2, dissolve*:2, evaporat*:2, salt:1
+oil floats > less dense:4, does not mix:3, float*:3, density:3, separate:2, layers:2
+layers of liquids, density column, liquids form layers > density:5, densest:3, bottom:2, less dense:2, top:2
+air is matter, air has mass, matter > mass:3, takes up space:4, space:2, volume:2, atoms:2
+properties of metals, metals are > shiny:3, conduct*:3, malleable:3, ductile:2, magnetic:1
+malleable, malleability > hammered:4, flattened:3, sheets:3, metal:3, shape:2
+ductile, ductility > wires:4, drawn:3, stretched:2, metal:3
+brittle > breaks:3, shatters:3, nonmetal:2, glass:2
+flammable, flammability > burn*:5, burns:4, fire:3, chemical property:3, gasoline:2, wood:2, paper:2
+odor, smell, scent > molecules:2, gas:2, diffusion:2, spread*:2, nose:2
+diffusion, spreads out, spread out, perfume > particles:3, molecules:3, higher concentration:3, move:2, random:2
+temperature scale, celsius, fahrenheit > 100:1, 0:1, water:2, boiling:2, freezing:2
+water boils > 100:2, celsius:3, 212:2, fahrenheit:2, sea level:1
+water freezes > 0:2, celsius:3, 32:2, fahrenheit:2
+acid rain damage, statues, monuments > acid rain:4, chemical weathering:3, pollution:2, limestone:2, marble:2
+neutralize*, neutralization > acid:3, base:3, water:2, salt:2, ph 7:2, antacid*:2
+antacid*, heartburn > base:3, neutralize*:3, stomach acid:3
+sunlight warms, sun warms, sun heats, heats the earth, warms the earth > radiation:5, radiant:3, -conduction:2, -convection:1
+boiling water, heating water, water in a pot > convection:3, currents:2, conduction:1, rises:1
+touching, touch, direct contact, holding, hands on, sitting on > conduction:4, -radiation:2, -convection:1
+warm up faster, heats up faster, gets hotter faster, absorbs more heat > dark:3, black:3, metal:2, land:2, sand:2, -white:2, -water:2
+cools faster, cool down faster, loses heat faster > metal:2, small:2, thin:2, -insulat*:2
+wasted energy, energy is wasted, energy lost, energy loss, lost as heat > heat:5, thermal:3, friction:3, sound:1
+efficient, efficiency, energy efficient, more efficient > less heat:3, less waste:3, led:3, fluorescent:2, insulation:2, less energy:3
+light bulb gets hot, bulb gets hot, incandescent > heat:4, wasted:3, inefficient:3, thermal:2
+energy cannot be created, energy is never lost, energy transforms > conserved:3, transformed:3, converted:3, changes form:4, -destroyed:3, -created:3
+light passes through, passes through, lets light through, see through > transparent:4, glass:3, clear:2, -opaque:3
+blocks light, block light, does not let light > opaque:4, shadow:3, wood:2, metal:2, -transparent:3
+shadow, shadows, shadow forms > blocks light:4, opaque:3, blocked:3, light source:2, straight lines:2, -reflect*:1
+longer shadow, longest shadow, shadow is longest > morning:3, evening:3, low:3, sunrise:2, sunset:2, -noon:3
+shortest shadow, shadow is shortest > noon:5, midday:4, overhead:3, high:2, -morning:2, -evening:2
+mirror image, reflection in a mirror, plane mirror > reflect*:4, reversed:3, same size:2
+magnifying lens, magnifying glass, hand lens > convex:3, larger:3, bigger:2, refract*:2, bend*:2
+spectrum of colors, white light > red:2, orange:1, yellow:1, green:1, blue:1, violet:2, prism:3, rainbow:3
+red light, blue light, green light > wavelength:2, color:2, frequency:1
+wavelength, longer wavelength, shorter wavelength > frequency:3, energy:2, distance:2, crest*:2
+sound cannot travel, no sound in space, space is silent, astronauts talk, astronauts use radios > vacuum:4, no air:4, no medium:4, radio:3, -light:1
+lightning before thunder > light travels:4, faster:3, light:2
+vibrating, vibrates, vibration > sound:4, energy:2, waves:2, pitch:1
+magnetic force, magnetic forces > attract*:3, repel*:3, poles:2, iron:2, distance:2, without touching:3
+non-contact force*, without touching, at a distance, act at a distance > gravity:4, magnetism:4, magnetic:3, static:2, -friction:3
+contact force*, contact forces > friction:3, push:2, pull:2, touching:2
+surface, surfaces, rough surface, smooth surface, carpet, grass, sandpaper, gravel road, ice rink > friction:3, rough:2, smooth:2, slows:2
+rougher surface, rough, rougher, carpet, sandpaper > more friction:4, slower:3, slows:3, -faster:2, -less friction:3
+smoother surface, smooth, smoother, ice, waxed, polished > less friction:4, faster:3, farther:3, -more friction:3
+ball rolls, rolling ball, toy car, toy cars, marble rolls > friction:2, slope:1, distance:2, surface:2, speed:1
+throw, thrown, throws, kicked, kick > force:3, motion:2, gravity:2, push:2, energy:1
+heavier, heavier object, more massive object > more force:3, harder:2, more inertia:3, harder to stop:3
+lighter object, lighter, less mass > less force:3, easier:2, accelerates more:2
+push, pull, pushes, pulls, pushing, pulling > force:4, motion:2, move:2, newtons:1
+magnets attract, magnet attracts, magnets repel > north:2, south:2, poles:3, iron:2, steel:2
+magnet broken, broken magnet, cut a magnet, cut in half > two magnets:4, poles:3, north and south:3, each piece:3
+energy pyramid, food pyramid, pyramid > producers:3, bottom:3, most energy:3, top:2, least energy:2, 10 percent:2
+most energy > producers:5, plants:3, grass:3, bottom:2, -hawk*:2, -top:2
+largest population, most organisms, greatest number > producers:4, plants:3, grass:3, -predator*:2
+cells divide, cell division, growth and repair, new cells, wound heals, heal* > mitosis:4, cells divide:3, divide:2, new cells:3
+tissue, tissues > similar cells:4, cells:3, organ:2, same function:2
+organ, organs > tissues:4, work together:3, function:2, heart:1, lungs:1, stomach:1
+organism, organisms > living:2, cells:2, organ systems:2, survive:1
+classify animals, classifying animals, group animals, sort animals, grouped > characteristics:3, traits:2, structures:2, backbone:2, -color:1, -size:1
+dichotomous key > characteristics:3, two choices:4, pairs:2, identify:3, observable:2
+scientific name, genus and species, binomial nomenclature > genus:4, species:4, latin:3, two names:3
+virus is not living, viruses are not living, nonliving > cells:3, reproduce on their own:3, host:2
+yeast, bread rises, dough rises > carbon dioxide:4, gas:3, fermentation:3, yeast:3, sugar:2
+mold grows, moldy bread, bread mold, food spoils > fungus:4, fungi:3, spores:3, moist:3, warm:2, dark:1, bacteria:1
+milk sours, sour milk, cheese, yogurt > bacteria:5, fermentation:2
+penicillin, antibiotic, antibiotics > bacteria:5, mold:2, fungus:1, infection*:3, -virus:3
+vaccine, vaccines, vaccination > immune:4, antibodies:4, virus:2, prevent*:3, disease:2
+mined, mining, ore, ores > minerals:3, rocks:3, earth's crust:3, nonrenewable:2, mines:2
+plastic, plastics > oil:3, petroleum:3, nonrenewable:2, recycle*:2, landfill*:2, decompose slowly:3
+paper, paper products, newspaper* > trees:4, wood:3, recycle*:3, renewable:2
+cotton, wool, silk, leather, wood, rubber > plants:2, animals:2, natural:3, renewable:2
+synthetic, man-made, nylon, polyester > chemicals:2, petroleum:3, oil:2, factories:2
+clean water, drinking water, water treatment, purify water > filter*:3, chlorine:2, treatment plant:3, boil*:2, sand:1
+water conservation, saving water, conserve water, use less water, wasting water > shorter showers:4, fix leaks:4, turn off:4, faucet:2, rain barrel:3, -longer showers:3, -water the lawn:2
+energy conservation, conserve energy, saving electricity, save electricity, use less electricity > turn off lights:5, turn off:4, unplug:3, led:3, insulation:3, energy-efficient:3, walk:2, bike:2, -leave:3
+landfill, landfills, garbage dump > waste:3, trash:3, decompose:2, recycle*:3, reduce:2, methane:1, groundwater:1
+littering, litter, trash in the ocean, plastic in the ocean > animals:3, harm*:3, wildlife:3, pollution:3, entangle*:2
+overfishing, overhunting, overharvesting > fewer:3, decrease*:3, extinct*:2, population:2
+pollinators decline, bees decline, fewer bees > fewer fruits:4, fewer flowers:3, pollinat*:4, crops:2
+making glass, glassmaking > sand:5, quartz:3, heat:2
+record data, recording data, keep records, record observations, data table, record results > table:3, notebook:3, journal:3, chart:2, organized:2, accurately:2, date:1
+analyze data, analyzing data, interpret data, interpreting > graph:3, patterns:3, trends:3, compare:2, conclusion:2
+error*, mistake*, errors, inaccurate, inaccuracy > repeat:3, trials:3, measure again:3, careful:2, precise:2, calibrat*:2
+precise, precision, more precise, most precise, more accurate, most accurate > smaller units:3, millimeters:3, digital:2, repeat:2, average:2, -estimate:2
+estimate, estimation, about how > round*:2, approximate:3, close to:2
+average, mean > add:3, divide:3, total:2, trials:2, sum:2
+prediction based on, predict what, would most likely be > pattern:3, trend:3, data:2, graph:2
+peer review, other scientists, scientists share, communicate results, publish > repeat:3, check:3, verify:3, review:3, journal:2, evidence:2
+bias, biased, fair, unfair > random:3, same conditions:3, large sample:3, -small sample:3
+sample, samples, sample size, survey > large:3, larger:3, many:2, random:2, representative:3, -small:2, -one:2
+qualitative > descriptive:3, color:3, texture:2, smell:2, words:2, -number*:2, -measure*:2
+quantitative > numbers:4, measurement*:3, measured:3, data:2, -color:2, -describe*:1
+safety rule*, safety rules, lab rules > goggles:2, teacher:3, instructions:3, never taste:3, no food:3, tie back hair:2, report accidents:3
+owl, owls > nocturnal:3, night:2, hunt*:2, mice:3, predator:3, large eyes:2, silent:2, feathers:1
+hawk, hawks, eagle, eagles > predator:3, sharp talons:3, talons:3, eyesight:3, prey:2, mice:2, rabbits:2, snakes:1
+fox, foxes, wolf, wolves, coyote* > predator:3, carnivore:2, rabbits:2, mice:2, pack:2, hunt*:2
+rabbit, rabbits, deer, squirrel, mouse, mice, grasshopper, cow, cows, horse, horses, sheep, goat*, zebra, zebras >! herbivore:3, plants:2, grass:2, prey:2, consumer:2, -carnivore:2
+bear, bears, raccoon, raccoons, pig, pigs, crow, crows, chimpanzee*, human, humans >! omnivore:4, plants and animals:3, both:2
+earthworm, earthworms > soil:4, tunnels:3, aerate:3, air:2, decompos*:3, nutrients:2, moist:2
+bee, bees, honeybee*, butterfly, butterflies, hummingbird, hummingbirds > pollinat*:4, pollen:3, nectar:3, flowers:3
+plankton, phytoplankton, zooplankton, krill > ocean:3, food chain:2, producer*:2, algae:2, whales:2, small:2
+coral, corals > reef:4, warm:2, shallow:2, algae:2, animals:2, ocean:2
+mushroom, mushrooms, fungus, fungi, mold >! decomposer:5, decompose:3, dead:2, spores:3, -producer:4, -photosynthes*:3
+grass, trees, tree, algae, plants, plant, oak, flowers, moss, fern >! producer:4, photosynthes*:3, sunlight:2, -consumer:2, -decomposer:2
+tree rings, growth rings, rings in a tree, tree ring > age:5, years:3, growth:2, climate:2, wet:1, dry:1
+annual, perennial, biennial > life cycle:2, years:2, season:2
+germination, germinate, sprouting > seed:3, water:3, warmth:2, embryo:2, root:2
+pollination, pollinate, pollinated > pollen:4, flower:3, stigma:2, bees:2, wind:1, seeds:2, fruit:2
+fertilization, fertilized egg, zygote > sperm:4, egg:4, embryo:2
+chlorophyll, green pigment, green color > sunlight:3, light energy:3, absorb*:3, photosynthes*:3, chloroplast*:2
+plants respond, plant responds, plants react > light:3, gravity:2, water:2, touch:1, tropism*:3
+response to stimulus, stimulus, stimuli, reacts to, react to > response:3, behavior:2, senses:2, nerves:1, environment:2
+behavior, behaviors > instinct*:2, learned:2, inherited:1, environment:1
+trial and error, conditioning, imprinting, imitation > learned:4, learn*:3, experience:2
+camouflage, mimicry, warning coloration > survive:3, predators:3, protect*:2
+competition between, compete for > food:3, water:3, space:3, sunlight:3, mates:2, territory:2
+food chain order, start of a food chain, beginning of a food chain, first link > producer:5, plants:3, sun:3, grass:2, -consumer:3
+end of a food chain, top of a food chain, last link > predator*:3, top predator:4, carnivore:3, hawk:2, -producer:3
+energy lost, energy is lost, lost at each level > heat:5, 90 percent:2, used:2, life processes:3
+when an organism dies, dead organisms, after death, organisms die > decomposers:4, decompos*:3, nutrients:3, soil:2, bacteria:2, fungi:2
+mountains erode, mountains wear down, old mountains, rounded mountains > erosion:4, weathering:4, millions of years:2, older:2, rounded:2, lower:2
+young mountains, tall jagged, jagged peaks, steep peaks > younger:3, less erosion:3, sharp:2, newer:3
+valleys, v-shaped valley, river valley > river:4, erosion:3, water:3, v-shaped:3
+u-shaped valley, u-shaped > glacier*:5, ice:3
+beach erosion, coastline erosion, sand on beaches > waves:4, currents:2, storms:3, tides:1
+sinkhole*, sinkholes, caves, underground caves > limestone:4, dissolve*:3, groundwater:3, acid:2, chemical weathering:3
+moraine*, glacial deposits, till > glacier*:5, deposit*:3, rocks:2
+oxbow lake*, meander*, meanders > river:4, erosion:2, deposition:2, curve*:2
+alluvial fan*, floodplain*, flood plain > deposition:3, sediment:3, river:3, fertile:3
+richest soil, fertile soil, best soil for, good soil, fertile > humus:4, nutrients:3, organic matter:3, decayed:2, -sand:2, -rock:2
+loam > sand:2, silt:2, clay:2, humus:3, best:2, fertile:3
+water holding, holds water, retains water, holds the most water > clay:4, humus:2, -sand:3, -gravel:3
+drains quickly, drains fastest, water passes, passes quickly > sand:4, gravel:4, large particles:3, -clay:3
+weather balloon > upper atmosphere:3, temperature:2, humidity:2, pressure:2
+air quality, smog, ozone alert > pollution:3, cars:2, factories:2
+tsunami warning, tsunami, tsunamis > earthquake:5, underwater earthquake:4, ocean floor:3, waves:2
+volcano erupts, eruption, volcanoes erupt > magma:3, lava:3, ash:3, gases:2, pressure:2
+lava flow*, lava flows, cooled lava > igneous:4, basalt:2, new land:3, rock:2
+crust and mantle, lithosphere > plates:4, crust:2, upper mantle:3, rigid:2
+asthenosphere > plastic:3, flows:2, mantle:2, plates move:3
+convection currents, convection current > mantle:4, plates:3, heat:2, rising:2, sinking:2, density:2
+continents move, continents moved, continents drift > plates:4, plate tectonics:4, continental drift:3, mantle:2, slowly:2
+same fossils on different continents, matching fossils, fossils on different continents > continental drift:5, joined:3, pangaea:4, connected:3
+thermometer works, liquid in a thermometer, thermometer rises, alcohol thermometer > expand*:5, expands:4, heat:2, liquid:2
+hot air balloon*, balloon rises > less dense:4, heated air:3, rises:2, density:2, warm air:2
+ice skating, ice skates, slippery > friction:4, less friction:4, smooth:2, -rough:2
+brakes, bicycle brakes, car brakes, stopping a bike > friction:5, heat:2, slows:2
+tires, tire treads, treads, shoes with treads, grip > friction:5, more friction:3, rough:2, grip:2
+oil, grease, lubricant, wd-40 > reduce friction:4, less friction:4, smooth:2, slippery:2
+parachute, parachutes, feather falls > air resistance:5, drag:3, slower:3, surface area:3
+feather and a rock, feather and a hammer, dropped together, in a vacuum > same time:4, same rate:4, gravity:3, no air resistance:4, together:2
+magnet picks up, magnets pick up, picks up paper clips > iron:3, steel:3, magnetic:3, nickel:2
+stronger electromagnet, make an electromagnet stronger, increase the strength > more coils:5, more turns:4, more current:3, more batteries:3, iron core:3, -fewer coils:3
+brighter bulb, bulbs brighter, make the bulb brighter > more batteries:4, more voltage:3, series:1, -fewer batteries:3
+switch is open, open switch, switch off > no current:4, does not light:3, stops:3, circuit open:2
+switch is closed, closed switch, switch on > current flows:4, lights:3, complete:3
+lightning rod*, ground wire, grounding > electricity:3, safely:3, ground:4, conductor:3, metal:2
+static shock, shock from a doorknob, carpet shock > static electricity:5, electrons:3, charges:3, dry:2, rubbing:2
+hearing aid, megaphone, ear trumpet > sound:4, louder:3, amplify:3
+echo, echoes, bounce sound > reflect*:4, reflected:4, hard surfaces:3, walls:2
+soundproof, quiet room, absorb sound, absorbs sound > soft:4, foam:3, carpet:3, curtains:3, absorb*:3, -hard:2
+dog whistle, ultrasound, ultrasonic > high frequency:4, high pitch:4, cannot hear:3, -low:2
+mirror reflects, flashlight beam, laser > straight line:4, reflect*:3, light:2
+eclipse glasses, look at the sun, viewing the sun > never look directly:4, damage eyes:4, eyes:3, special filter:3, pinhole:3
+rainbow forms, rainbows form, rainbow appears > sunlight:3, raindrops:4, water droplets:4, refract*:4, sun behind:3
+prism splits, prism separates, white light passes > colors:4, spectrum:4, rainbow:3, refract*:4
+sunset colors, red sky, sky is blue, blue sky > scatter*:4, atmosphere:3, sunlight:2, molecules:1
+moon has no atmosphere, no atmosphere on the moon > no weather:4, no wind:4, craters:3, footprints last:3, extreme temperatures:3, no sound:3
+astronaut footprints, footprints on the moon > no wind:5, no erosion:4, no weather:4, no atmosphere:3, -rain:3
+day on the moon, moon's day, moon rotates > month:3, 27 days:2, same side:3, slowly:2
+mars rover, rovers, mars exploration > water:3, life:2, rocks:2, soil:2, past:2, ice:2
+venus is hotter, why is venus hot, venus hottest > greenhouse:4, carbon dioxide:4, thick atmosphere:4, clouds:2
+mercury has, why mercury > no atmosphere:3, craters:3, extreme temperatures:3, closest:2
+outer planets have, gas giants have > rings:3, many moons:4, gases:3, hydrogen:2, helium:2, large:2, cold:2
+pluto is, pluto was > dwarf planet:5, small:3, kuiper belt:3, icy:2
+star appears to twinkle, stars twinkle, twinkle > atmosphere:4, air:3, moving air:3, turbulence:2
+sun is a star, our star > medium-sized:4, average:3, yellow:3, closest:2, gas:2, fusion:2
+light-years away, distant star, distant stars, light from stars > long ago:4, past:3, travel:2, years:2, light-year:3
+galaxy we live in, our galaxy > milky way:5, spiral:3
+moon's gravity, gravity of the moon causes > tides:5, ocean:2, bulge*:2
+earth's gravity, gravity on earth, gravity of earth > pulls:3, weight:3, falls:2, orbit:2, moon:1
+raincoat, umbrella, waterproof, keep dry, keeps water out, rain boots, tent > waterproof:5, plastic:4, rubber:4, vinyl:3, nylon:2, -cotton:3, -paper:3, -wool:2
+window, windows, see through, eyeglasses, greenhouse walls > glass:4, transparent:4, clear plastic:3, -wood:3, -metal:2
+bridge, bridges, skyscraper, building frame, support beams, beams > steel:5, strong:4, strength:3, -glass:2, -paper:3, -rubber:2
+electrical wire, electric wire, wires in a house, power cord > copper:5, conduct*:3, metal:3, -rubber:2, -plastic:2, -wood:3
+cooking pot, frying pan, pan, pots and pans, cookware > metal:3, aluminum:3, iron:3, steel:2, copper:2, conducts heat:4, -plastic:3, -paper:3
+pot handle, handle of a pan, oven mitt, pot holder, potholder > wood:4, plastic:4, cloth:3, rubber:3, insulator*:4, -metal:4, -aluminum:3, -copper:3
+airplane, airplanes, aircraft, bicycle frame, soda can, soda cans > aluminum:5, lightweight:4, light:2, strong:2
+boat, boats, raft, life jacket, floating > floats:4, float*:3, less dense:3, wood:3, foam:3, plastic:2, -iron:2, -rock:2
+building a house, house, houses, home > wood:2, brick:2, concrete:2, insulation:2, roof:1
+insulation, insulate a house, keep a house warm, attic > fiberglass:4, foam:4, insulat*:3, wool:2
+mirror, mirrors > glass:2, reflect*:4, shiny:3, smooth:2, silver:2
+sandpaper, rough material > friction:4, rough:4, smooth surfaces:2
+lightweight, light weight, lighter material > aluminum:4, plastic:3, foam:3, balsa:2
+flexible, bendable, bend without breaking > rubber:4, plastic:3, flexible:3, -glass:3, -brick:2
+durable, long-lasting, lasts longer > metal:2, plastic:2, stone:2, strong:2
+absorbent, absorbs water, soaks up water, absorbs the most water > paper towel*:4, sponge*:4, cotton:3, cloth:2, -plastic:3, -metal:3, -wax:2
+carrot, carrots, radish*, beet*, sweet potato*, turnip* >! root:5, roots:4
+celery, asparagus, sugar cane, sugarcane >! stem:5, stems:4
+lettuce, spinach, cabbage, kale >! leaf:5, leaves:5
+broccoli, cauliflower, artichoke* >! flower:5, flowers:4
+apple, apples, tomato, tomatoes, orange, oranges, peach, cucumber*, pumpkin* >! fruit:5, fruits:4, seeds:2
+peanut, peanuts, beans, peas, corn, rice, wheat, sunflower seeds, nuts >! seed:5, seeds:5
+potato, potatoes, onion, onions >! stem:4, underground:3, tuber:3, bulb:2, food storage:2
+photosynthesis and respiration, respiration and photosynthesis > opposite:4, reverse:3, carbon dioxide:2, oxygen:2, glucose:2
+plants at night, at night plants, in the dark plants, without light plants > respiration:4, carbon dioxide:3, release carbon dioxide:3, -photosynthes*:3
+both plants and animals, plants and animals both, all organisms > respiration:3, cells:3, energy:2, water:2, -photosynthes*:2, -chlorophyll:2
+sugar from photosynthesis, glucose, food made by plants, sugar made > energy:4, respiration:3, growth:3, stored:2, starch:2
+seed plants, flowering plants, angiosperms > flowers:4, seeds:4, fruit:3, pollen:2
+conifers, gymnosperms, pine trees > cones:5, needles:3, seeds:3, -flowers:3
+complete metamorphosis, butterfly, butterflies, moth, moths, beetle, beetles, fly, flies, bee, bees, ant, ants > pupa:4, larva:4, caterpillar:2, chrysalis:2, cocoon:2
+incomplete metamorphosis, grasshopper, grasshoppers, cricket, crickets, dragonfly, dragonflies, cockroach* > nymph:5, -pupa:3, -larva:2
+frog, frogs, froglet > egg:3, tadpole:5, froglet:3, adult frog:3, gills:2, lungs:2
+seedling, seedlings, plant grows, new plant > seed:4, seedling:4, sprout:3, adult plant:3, flower:2, fruit:2
+infant, adolescence, adolescent, childhood > infant:3, child:3, adolescent:3, adult:3, embryo:2
+light year, light-year > distance:5, -time:3, -speed:1
+astronomical unit > distance:4, earth to sun:3, sun:2
+gravity on earth, falling objects accelerate, free fall > 9.8:2, accelerate*:3, faster:2, same rate:3
+same rate, fall at the same rate, dropped at the same time, same time > gravity:3, no air:3, mass does not matter:3, air resistance:2
+hot spring*, geyser*, geysers > magma:3, heat:3, underground:3, groundwater:3, geothermal:4
+compass needle, compass points > north:4, magnetic north:3, earth's magnetic field:4, magnet:3
+earth is magnetic, earth's magnetic field, magnetic field > core:4, iron:3, compass:3, north pole:2, auroras:2
+ocean floor, sea floor, seafloor > ridges:3, trenches:3, plates:3, sediment:2, mid-ocean ridge:3, spreading:2
+deepest part of the ocean, trench, mariana trench > trench:4, subduction:3, plates:2
+continental shelf > shallow:4, coast:3, edge:2
+salinity, salty, saltwater, salt content > salt:4, ocean:3, dissolved:3, minerals:2, density:2
+evaporation of seawater, salt is left > salt:4, evaporat*:3, left behind:3, crystals:2
+mineral identification, identify minerals, identify a mineral > streak:3, hardness:4, luster:3, cleavage:3, color:1, scratch test:3, acid test:2
+crystal shape, crystals form, crystal structure > atoms:2, pattern:3, repeating:3, mineral:2, cooling:2
+earth's oldest rocks, age of earth, earth formed > billion:4, radioactive dating:3
+radioactive dating, carbon dating, absolute age > radioactive:4, half-life:4, isotopes:3, decay:3, exact age:3
+half-life > radioactive:4, decay:4, half:3, dating:3
+sunspots, solar wind, solar storm*, solar storms > magnetic:3, charged particles:3, satellites:2, radio:2, auroras:2
+liquid to gas, changes from liquid to gas, turns into a gas, becomes a gas, water vapor forms >! evaporation:5, evaporat*:4, boiling:3, -condensation:3, -freezing:3
+gas to liquid, changes from gas to liquid, turns into a liquid, water vapor turns, droplets form >! condensation:5, condens*:4, -evaporation:3, -melting:2
+solid to liquid, changes from solid to liquid, turns into a liquid, ice turns into water >! melting:5, melt*:4, -freezing:3, -condensation:2
+liquid to solid, changes from liquid to solid, turns into a solid, water turns into ice >! freezing:5, freez*:4, -melting:3, -evaporation:2
+soaks into the ground, soaks into, seeps into, sinks into the ground, absorbed by the ground >! infiltration:5, groundwater:4, -runoff:3, -evaporation:2
+flows over the land, flows over land, runs off, flows downhill, flows into rivers >! runoff:5, -infiltration:3
+lose water through, gives off water vapor, water leaves the plant >! transpiration:6
+rock is broken down, rocks are broken down, breaking down of rocks, breaks rocks into >! weathering:5, -deposition:3, -erosion:1
+moving of rock, carrying away, carried away, moves sediment, transport of soil >! erosion:5, -deposition:2, -weathering:1
+dropping of sediment, sediment is dropped, sediments settle, laid down >! deposition:6, -erosion:2
+fight disease, fights disease, fight off, protects against disease, defends the body >! immune system:5, white blood:4, antibodies:3, -skeletal:3, -digestive:3
+role in the ecosystem, job in an ecosystem, way of life > niche:5, -habitat:2
+place where an organism lives, where an animal lives, natural home, home of an organism > habitat:6, -niche:3
+all the populations, different populations, several populations > community:6, -population:2
+living and nonliving, living and nonliving things, biotic and abiotic > ecosystem:6, -population:2, -community:2
+change in dna, change in a gene, change in genes, dna changes > mutation:6
+sleeps through the winter, sleep through the winter, inactive during winter, sleeps all winter > hibernation:6, hibernat*:5, -migration:3
+moves to a warmer place, travels to a warmer, flies south, travel long distances, seasonal movement > migration:6, migrat*:5, -hibernation:3
+blends in, blend in, hard to see, matches its surroundings, looks like its surroundings > camouflage:6, -mimicry:2
+looks like a harmful, looks like a poisonous, harmless animal looks like, copies the appearance > mimicry:6, -camouflage:2
+push or pull, push or a pull, a push > force:6, -energy:2
+resists change, resistance to change, tendency to stay > inertia:6
+opposes motion, force that opposes, slows things down, rubbing between > friction:6, -gravity:2
+pulls objects toward, pulls things down, objects fall, keeps us on the ground > gravity:6, -friction:2, -magnetism:2
+energy of a moving, moving object has, energy due to motion > kinetic:6, -potential:3
+energy due to position, energy stored, stored energy > potential:6, -kinetic:3
+bending of light, light bends, bends light > refraction:6, refract*:5, -reflection:3
+bouncing of light, light bounces, bounces off > reflection:6, reflect*:5, -refraction:3, -absorption:2
+highness or lowness, how high or low a sound, how high or low > pitch:6, frequency:3, -volume:2
+how loud, loudness of a sound, softness or loudness > volume:5, amplitude:5, decibels:3, -pitch:3
+melted rock below, molten rock underground, molten rock beneath, melted rock inside > magma:6, -lava:3
+melted rock on the surface, molten rock at the surface, molten rock that reaches > lava:6, -magma:3
+path of a planet, path around the sun, path an object takes > orbit:6, -axis:3, -rotation:2
+spinning of earth, earth spinning, spins on its axis, turning on its axis > rotation:6, rotat*:5, -revolution:4, -orbit:2
+one trip around, trip around the sun, complete orbit, one orbit > revolution:6, revolv*:5, year:3, -rotation:4
+group of stars, pattern of stars, stars that form a pattern > constellation:6, -galaxy:2
+system of stars, billions of stars, millions of stars, huge group of stars > galaxy:6, -constellation:3
+small rocky objects, rocky objects that orbit, between mars and jupiter > asteroids:6, asteroid:6, -comet*:2
+ice and dust, made of ice and dust, has a tail, glowing tail > comet:6, comets:5, -asteroid:2
+mass per unit volume, mass divided by volume, how tightly packed, compactness > density:6, -weight:2
+average weather, weather over many years, weather patterns over time, long-term weather > climate:6, -weather:3
+amount of water vapor in the air, moisture in the air, water in the air > humidity:6, -air pressure:2
+weight of the air, air pushing down, force of air > air pressure:6, barometer:3, -humidity:2
+boundary between two air masses, where two air masses meet, air masses meet > front:6, fronts:5
+group of similar cells, similar cells working together > tissue:6, -organ:2
+organs working together, organs that work together > organ system:6, system:3
+passing of traits, traits are passed, passing traits > heredity:6, inherit*:4, genes:3
+observable characteristic, physical characteristic > trait:5, traits:5
+factor that is changed, factor that is tested, what is changed > independent variable:6, independent:4, -dependent:3
+factor that is measured, what is measured, outcome measured > dependent variable:6, dependent:4, -independent:3
+factor kept the same, factors kept the same, kept constant > controlled variable:6, controlled:4, constant:4
+substance made of only one kind of atom, only one kind of atom, one type of atom > element:6, -compound:3, -mixture:3
+two or more elements chemically, elements chemically combined, chemically combined > compound:6, -mixture:3, -element:2
+substances mixed together, physically combined, not chemically combined > mixture:6, -compound:3
+evenly mixed, mixed evenly, one substance dissolved in another > solution:6, -suspension:2
+splitting of atoms, atoms split, split atoms > fission:6, nuclear:3, -fusion:3
+atoms combine, joining of atoms, fusing atoms > fusion:6, nuclear:3, -fission:3
+an animal that hunts, hunts other animals, animal that is hunted > predator:4, prey:4
+organism that makes its own food, make their own food, produces its own food > producer:6, producers:5, -consumer:3
+organism that eats other organisms, eats other organisms, must eat > consumer:6, consumers:5, -producer:3
+breaks down dead, breaks down wastes, recycles nutrients > decomposer:6, decomposers:5, -producer:3
+animal without a backbone, animals without backbones > invertebrate:6, invertebrates:5
+animal with a backbone, animals with backbones > vertebrate:6, vertebrates:5
+change in form, changes in body form, changes form as it grows > metamorphosis:6
+the study of living things > biology:6, biologist:4
+the study of earth, study of rocks > geology:6, geologist:4
+the study of weather > meteorology:6, meteorologist:4
+the study of space, study of stars > astronomy:6, astronomer:4
+platelet*, platelets, blood clot*, clotting, scab > platelets:5, clot*:4, stop bleeding:4, -oxygen:2
+bone marrow, marrow > blood cells:5, red blood:3, white blood:3
+sun is made of, sun made of, gases in the sun, sun's gases > hydrogen:5, helium:5, -oxygen:3, -carbon dioxide:2
+ball bounces, bouncing ball, ball bounce, each bounce, bounces lower > heat:3, sound:3, friction:2, energy is lost:3, converted:2, -created:2
+cfc*, chlorofluorocarbon*, ozone hole, ozone depletion > ozone layer:4, ultraviolet:3, aerosol*:2, refrigerants:2
+fossil fuels formed, fossil fuels form, formed from, made from the remains, coal forms, oil forms > ancient plants:4, remains:4, organisms:3, millions of years:3, buried:3, pressure:2, heat:2
+color of light, determines the color, what color light > wavelength:5, frequency:4, -amplitude:3
+sun's energy reaches, energy from the sun reaches, energy reaches earth, sun's energy travels, sunlight travels > radiation:5, light:3, electromagnetic waves:4, -conduction:3, -convection:3
+compost, composting, compost pile > nutrients:4, soil:3, decompos*:3, fertilizer:2, less waste:2
+results differ, different results, unexpected results, results are different > repeat:4, check:3, review procedure:3, -ignore:4, -change data:4
+star color and temperature, hottest stars, coolest stars > blue:3, red:3, white:2
+ice floats, floats on water, ice is less dense > less dense:5, density:3, expands:2
+mammals and birds, birds and mammals > warm-blooded:5, constant body temperature:3
+reptiles and amphibians, amphibians and reptiles > cold-blooded:5, eggs:2
+cell membrane, membrane > enter and leave:3, passes:2, controls:3
+chromosome, chromosomes > genes:4, dna:4, nucleus:3, pairs:2, 46:2
+gene, genes, dna > traits:4, instructions:3, proteins:2, inherited:3, chromosomes:3
+dominant trait, dominant traits > appears:3, shows:3, expressed:3, -hidden:3
+recessive trait, recessive traits > hidden:4, two copies:4, both parents:3, -always shows:3
+carbon, carbon atoms > organic:3, living things:2, diamonds:2, graphite:2, coal:2, carbon dioxide:1
+diamond, diamonds > carbon:4, hardest:4, hardness:2
+glacier, glaciers > fresh water:3, ice:3, erosion:2, moraines:2, valleys:2, sea level:1
+wind turbines, wind farm > kinetic energy:3, electrical energy:3, renewable:3, to electrical:3
+electric motor, motor > electrical energy to mechanical:4, to mechanical:4, magnets:3, coil:2
+generator > mechanical energy to electrical:4, to electrical:4, magnets:3, coil:3, spinning:2
+solar cell, solar panel, solar panels > light energy to electrical:4, to electrical:4, renewable:2
+human ear, inner ear, outer ear > sound:3, hearing:3, balance:3, vibrations:3, eardrum:3
+human eye, lens of the eye > light:3, focus*:3, retina:3, image:2, pupil:2
+turning into, changes into, turns into a butterfly, caterpillar turning, becomes a butterfly, becomes a frog > metamorphosis:6, -migration:3, -pollination:2
+plants need sunlight, need sunlight, need light, plants need light, why plants need > photosynthesis:5, make food:5, food:3, -warm:3, -attract:2
+light > vacuum:2, through a vacuum:3, -needs air:3, -slower than sound:3
+enough water, lack of water, too little water, not enough water, thirsty, dry soil > wilt*:5, wilting:5, droop*:4, -green:2, -new flowers:2
+heat inside earth, heat from inside, earth's internal heat, inside earth, heat inside, heat below > geothermal:6, -solar:3, -wind:2, -tidal:2
+electrical energy into sound, electrical to sound, into sound, to sound energy, produces sound, makes sound > speaker:5, speakers:4, radio:3, doorbell:3, -battery:4, -solar panel:3
+cause of erosion, causes erosion, soil erosion on farms, increase erosion, cause soil erosion > bare:5, leaving fields bare:4, bare soil:4, overgrazing:3, plowing:2, -cover crops:4, -terraces:4, -windbreaks:4

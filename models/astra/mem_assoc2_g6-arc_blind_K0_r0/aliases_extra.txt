@@ -1,0 +1,227 @@
+# Generation 4. Explicit lexical equivalences, never inferred from questions.
+# Existing roots are preserved unless a line explicitly joins their inflections.
+decrease lowers lowered diminishing diminishes diminished diminish dwindles dwindling
+increase raises raised raising gains gained gaining
+hot warms warmed
+cold chilling chilled chills chill
+flow flows flowed flowing
+movable moveable
+stop stops stopped stopping
+continue continues continued continuing continuation continuously continuous
+remain remains remained remaining
+start starts started starting
+finish finishes finished finishing
+repeat repeatable repeatability repeatedly
+verify verifies verified verifying verification
+consistent consistently consistency
+reproducible reproducibility
+accurate accurately
+precise precisely
+calibrate calibrated calibrating calibration
+measure measurable
+observe observable
+record recorded
+predict predictable predictability
+estimate estimates estimated estimating estimation
+approximate approximately approximation
+simplify simplifies simplified simplifying
+represent represents represented representing representation representations
+interpret interprets interpreted interpreting interpretation
+calculate calculates calculated calculating calculation calculations
+multiply multiplies multiplied multiplying multiplication
+subtract subtracts subtracted subtracting subtraction
+add adds added adding addition
+sum sums summed summing
+divide divides divided dividing division
+equal equals equaling equalling
+unequal unequally
+stable stability stably
+unstable instability
+mobile mobility
+vary varies varied varying
+arrange arranges arranged arranging arrangement
+rearrange rearranges rearranged rearranging rearrangement
+order ordered ordering
+random randomly randomness
+spread spreads spreading
+scatter scatters scattered scattering
+disperse disperses dispersed dispersing dispersion
+distribute distributes distributed distributing distribution
+compress compresses compressed compressing compression compressions
+stretch stretches stretched stretching
+bend bends bent bending
+twist twists twisted twisting
+squeeze squeezes squeezed squeezing
+rub rubs rubbed rubbing
+slide slides slid sliding
+roll rolls rolled rolling
+vibrate vibrates vibrated vibrating vibration vibrations
+oscillate oscillates oscillated oscillating oscillation oscillations
+bounce bounces bounced bouncing
+swing swings swung swinging
+collide collides collided colliding collision collisions
+accelerate acceleration
+friction frictional
+resist resists resisted resisting
+oppose opposes opposed opposing
+conduct conducted
+expand expansion
+contract contracts contraction contractions
+reflect reflection reflective
+refract refraction refractive
+radiation radiative
+emit emissions
+illuminate illuminates illuminated illuminating illumination
+obscure obscures obscured obscuring
+block blocks blocked blocking
+interrupt interrupts interrupted interrupting interruption
+connect connects connected connecting connection connections
+attach attaches attached attaching attachment
+anchor anchors anchored anchoring anchorage
+support supportive
+protect protective
+defend defends defended defending defense defenses defence defences
+conceal conceals concealed concealing concealment
+hide hides hidden hiding hid
+camouflage camouflage
+detect detects detected detecting detection
+sense sensing sensed
+respond response responsive
+stimulate stimulates stimulated stimulating stimulation
+activate activates activated activating activation
+inhibit inhibits inhibited inhibiting inhibition
+regulate regulates regulated regulating regulation
+coordinate coordinates coordinated coordinating coordination
+maintain maintains maintained maintaining maintenance
+restore restores restored restoring restoration
+repair repairs repaired repairing
+heal heals healed healing
+grow growth growing
+mature matures matured maturing maturity
+immature immaturity
+age ages aged aging ageing
+inherit inherited inheritable
+express expresses expressed expressing expression
+copy copies copied copying
+bind binds bound binding
+pair pairs paired pairing
+match matches matched matching
+interbreed interbreeds interbred interbreeding
+mate mates mated mating
+spawn spawns spawned spawning
+hatch hatches hatched hatching
+germinate germinates germinated germinating germination
+sprout sprouts sprouted sprouting
+vegetative vegetatively
+absorb absorbent
+secrete secretes secreted secreting secretion
+excrete excretion
+filter filters filtered filtering filtration
+diffuse diffuses diffused diffusing diffusion
+penetrate penetrates penetrated penetrating penetration
+enter enters entered entering entry
+exit exits exited exiting
+leave leaving
+pass passes passed passing passage
+pour pours poured pouring
+drain drains drained draining drainage
+leak leaks leaked leaking
+fill fills filled filling
+empty empties emptied emptying
+submerge submerges submerged submerging
+immerse immerses immersed immersing immersion
+float floats floated floating
+sink sinks sank sunk sinking
+dissolve dissolvable
+soluble solubilities
+crystallize crystallizes crystallized crystallizing crystallization crystallise crystallises crystallised crystallising crystallisation
+sublime sublimes sublimed sublimating sublimates sublimation
+saturate saturates saturating
+mix mixes
+contaminate contaminates contaminated contaminating contamination
+pollute pollutes polluted polluting pollution
+clean cleanliness
+sterilize sterilizes sterilized sterilizing sterilization sterilise sterilises sterilised sterilising sterilisation
+sanitize sanitizes sanitized sanitizing sanitation sanitise sanitises sanitised sanitising
+preserve preserves preserved preserving preservation
+refrigerate refrigerates refrigerated refrigerating refrigeration
+coolant coolants
+fertilize fertilisation fertilise fertilises fertilised fertilising
+pollinate pollination
+erode erodes eroded eroding erosion
+# Weather (atmospheric conditions) and weathering (rock breakdown) stay distinct.
+weathering weathered
+# Review: mechanism terms remain distinct from their ordinary homographs.
+acoustics acoustic acoustical
+damping damped
+durable durability
+deactivate deactivates deactivated deactivating deactivation
+energize energizes energized energizing energization energise energises energised energising
+unpowered
+frictionless
+resultant resultants
+propulsion propulsive
+coasting
+oblique obliquely
+incidence incident
+# Ambiguous one-letter symbols are independent, not unconditional synonyms.
+c
+f
+k
+n
+m
+# Vitamin names and unambiguous alphanumeric abbreviations.
+thiamine thiamin b1
+riboflavin b2
+niacin b3
+pyridoxine b6
+folate folates b9
+folic
+cobalamin b12
+cyanocobalamin
+ascorbic
+ascorbate
+retinol
+retinoid retinoids
+calciferol
+cholecalciferol
+tocopherol tocopherols
+phylloquinone
+# Physiological states and mechanisms retain their distinctions.
+hypertonic hypertonicity
+hypotonic hypotonicity
+isotonic isotonicity
+hypoxia hypoxic
+waterlogging waterlogged waterlog waterlogs
+girdling girdle girdles girdled
+anoxia anoxic
+# A formula denotes its compound, not just one word of its multiword name.
+carbondioxide co2
+sulfurdioxide sulphurdioxide so2
+ammonia nh3
+methane ch4
+ozone o3
+nitrousoxide n2o
+hydrogenperoxide h2o2
+sodiumchloride nacl
+silica sio2 silicondioxide
+calciumcarbonate caco3
+hydrogenchloride hcl
+ammonium nh4
+nitrate no3
+cholecalciferol d3
+ergocalciferol d2
+phylloquinone k1
+menaquinone k2
+# Earth-process inflections; pavement (the surface) remains a separate concept.
+pave paves paved paving
+intensify intensifies intensified intensifying intensification
+dissipate dissipates dissipated dissipating dissipation
+# Chemistry spellings and inflections; do not merge ionization with dissolution.
+ionization ionisation ionize ionizes ionized ionizing ionise ionises ionised ionising
+solvate solvates solvated solvating solvation
+electrolyte electrolytes
+nonelectrolyte nonelectrolytes
+selectivity selectivities
+carbonaceous
+sucrose

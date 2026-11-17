@@ -1,0 +1,37 @@
+# Whole-question requirements | forward request alternatives (* default) | reverse alternatives | circular | ordered nodes (comma alternatives per node)
+# Ordered biological levels and information flow
+organization,hierarchy,levels,complexity,structural,biological;cell,organism,tissue,organ | *,smallest to largest,increasing complexity,least complex to most complex | largest to smallest,decreasing complexity,most complex to least complex | 0 | atom;molecule;organelle;cell;tissue;organ;organ system;organism
+organization,hierarchy,levels,ecological;population,community,ecosystem,biosphere | *,smallest to largest,least inclusive to most inclusive | largest to smallest,most inclusive to least inclusive | 0 | organism;population;community;ecosystem;biome;biosphere
+protein synthesis,genetic information,information flow | * | reverse order | 0 | DNA;RNA;protein
+# Paths through the human body
+food,digestion,digestive system;path,passes,sequence,order,travel | * | reverse order | 0 | mouth;pharynx;esophagus;stomach;small intestine;large intestine;rectum;anus
+urine,urinary system,excretory system;path,passes,sequence,order,travel | * | reverse order | 0 | kidney;ureter;bladder;urethra
+respiratory system,air,oxygen;path,passes,sequence,order,travel;lung,breathing,inhalation,inhale | * | exhalation,exhale,breathing out,reverse order | 0 | nose,nasal cavity;pharynx;larynx;trachea;bronchus,bronchi;bronchiole;alveolus,alveoli
+blood,circulation,circulatory system;path,sequence,order,flow | * | reverse order | 1 | right atrium;right ventricle;pulmonary artery;lung;pulmonary vein;left atrium;left ventricle;aorta;body;vena cava
+stimulus,reflex,response;path,sequence,order,travel | * | reverse order | 0 | receptor;sensory neuron;spinal cord;motor neuron;muscle,effector
+light,vision,eye;path,sequence,order,passes | * | reverse order | 0 | cornea;pupil;lens;retina;optic nerve;brain
+sound,hearing,ear;path,sequence,order,passes | * | reverse order | 0 | outer ear;ear canal;eardrum;ossicle;cochlea;auditory nerve;brain
+# Life histories: chronological orders, not a claim that all taxa share a cycle
+butterfly,moth,complete metamorphosis;stage,sequence,order,development,life cycle | * | reverse order | 1 | egg;larva,caterpillar;pupa,chrysalis;adult,butterfly,moth,adult butterfly,adult moth
+incomplete metamorphosis,grasshopper,cockroach;stage,sequence,order,development,life cycle | * | reverse order | 1 | egg;nymph;adult
+frog,toad;stage,sequence,order,development,life cycle | * | reverse order | 1 | egg;tadpole;froglet;adult,frog,toad,adult frog,adult toad
+flowering plant;stage,sequence,order,development,reproduction | * | reverse order | 0 | pollination;fertilization;seed formation;seed dispersal;germination;seedling;mature plant
+seed,plant;stage,sequence,order,germination,growth | * | reverse order | 0 | seed;root;shoot;leaf;flower;fruit
+primary succession;stage,sequence,order,community | * | reverse order | 0 | bare rock;lichen;moss;grass;shrub;tree;forest
+secondary succession;stage,sequence,order,community | * | reverse order | 0 | grass;shrub;tree;forest
+# Natural cycles allow rotation but never reversal
+water cycle;sequence,order,path | * | reverse order | 1 | evaporation;condensation;precipitation;runoff,collection
+# Earth and space orders
+planet,solar system;order,sequence,distance,closest,farthest,near,far | *,closest to farthest,nearest to farthest,increasing distance | farthest to closest,farthest to nearest,decreasing distance,toward the sun | 0 | Mercury;Venus;Earth;Mars;Jupiter;Saturn;Uranus;Neptune
+Earth;layer,interior;order,sequence,outermost,innermost,surface,center | *,outside to inside,surface to center | inside to outside,center to surface,innermost to outermost | 0 | crust;mantle;outer core;inner core
+atmosphere;layer;order,sequence,altitude,elevation,surface | *,lowest to highest,increasing altitude,surface upward | highest to lowest,decreasing altitude,downward toward surface | 0 | troposphere;stratosphere;mesosphere;thermosphere;exosphere
+universe,space;order,sequence,size,largest,smallest | *,smallest to largest,increasing size | largest to smallest,decreasing size | 0 | solar system;galaxy;universe
+geologic time,geological time,era,eon;order,sequence,oldest,youngest | *,oldest to youngest,earliest to latest | youngest to oldest,latest to earliest | 0 | Precambrian;Paleozoic;Mesozoic;Cenozoic
+geologic period,geological period;order,sequence,oldest,youngest | *,oldest to youngest | youngest to oldest | 0 | Cambrian;Ordovician;Silurian;Devonian;Carboniferous;Permian;Triassic;Jurassic;Cretaceous;Paleogene;Neogene;Quaternary
+# Physical orders require an explicit quantity direction
+spectrum,electromagnetic;order,sequence,frequency,energy,wavelength | increasing frequency,lowest frequency to highest,low frequency to high,increasing energy,decreasing wavelength,longest wavelength to shortest | decreasing frequency,highest frequency to lowest,high frequency to low,decreasing energy,increasing wavelength,shortest wavelength to longest | 0 | radio wave;microwave;infrared;visible light;ultraviolet;x ray;gamma ray
+visible light,color,rainbow,spectrum;order,sequence,frequency,energy,wavelength | increasing frequency,increasing energy,decreasing wavelength,longest wavelength to shortest | decreasing frequency,decreasing energy,increasing wavelength,shortest wavelength to longest | 0 | red;orange;yellow;green;blue;indigo;violet
+# A phase name alone does not establish temperature or average kinetic energy.
+substance,matter;heating,heated,warming,cooling,cooled;order,sequence | heating,heated,warming,increasing temperature | cooling,cooled,decreasing temperature | 0 | solid;liquid;gas
+# Size hierarchy is an order of representative objects, not an assertion about every possible size
+classification,taxonomy,taxonomic;order,sequence,inclusive,general,specific | *,broadest to narrowest,most general to most specific,most inclusive to least inclusive | narrowest to broadest,most specific to most general,least inclusive to most inclusive | 0 | domain;kingdom;phylum;class;order;family;genus;species

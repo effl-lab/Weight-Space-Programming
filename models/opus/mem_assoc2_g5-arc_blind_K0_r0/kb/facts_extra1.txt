@@ -1,0 +1,139 @@
+# Extra coverage from probing typical question forms
+model solar system reason > too large far to observe directly
+model cell reason > too small to see
+model earth reason > too large
+models used when > objects too big small far slow fast dangerous
+model limitation > not exact scale details
+globe model > earth shape
+candle jar goes out > oxygen used up
+candle burns longer larger jar > more oxygen air
+fire needs oxygen > candle covered goes out
+bird hollow bones > lighter flight
+bird feathers > flight warmth insulation
+bird wings shape > lift flight
+car hot inside sunny day > sunlight enters windows heat trapped greenhouse effect
+greenhouse traps > heat sunlight glass
+fresh water available drinking > groundwater lakes rivers reservoirs
+ocean water undrinkable > salt
+nitrogen cycle bacteria > change nitrogen air into form plants can use fix nitrogen soil
+nitrogen plants use > nitrates soil
+plane mirror image > same size upright reversed left right
+curved mirror image > larger smaller distorted
+magnifying glass image > larger
+vinegar rock fizzes > calcite limestone marble carbonate
+fizzing acid test > calcite
+evaporation faster > warm windy dry sunny
+evaporation slower > cold calm humid cloudy
+red blood cells function > carry oxygen hemoglobin
+hydroelectric plant uses > moving water falling water dam
+geothermal plant uses > heat from inside earth
+nuclear plant uses > uranium fission
+coal plant uses > burning coal steam
+wind farm uses > wind turbines
+solar plant uses > sunlight
+farthest planet sun > neptune
+closest planet sun > mercury
+meteorologist studies > weather air pressure clouds storms
+geologist studies > rocks layers earthquakes
+paleontologist studies > fossils
+biologist studies > living things cells
+extinct species means > no members living anymore
+endangered species means > few left could become extinct
+threatened species > likely become endangered
+plant roots function > absorb water minerals anchor
+transpiration returns > water vapor atmosphere plants leaves
+radioactive half life > absolute age rocks fossils dating
+waxy coating leaves > reduce water loss dry
+red litmus base > turns blue
+blue litmus acid > turns red
+copper pans > conduct heat
+# common outcome questions
+plant moved dark closet > stops photosynthesis yellow
+plant given too little water > wilts
+plant given fertilizer > grows bigger more nutrients
+seeds planted too deep > may not reach light
+seeds in refrigerator > slower germination cold
+ice cube in sun > melts faster
+ice cube in shade > melts slower
+water left in sun > evaporates warms
+metal in sun > gets hot
+dark soil vs light soil sun > dark soil warms faster absorbs
+sand vs water sun > sand heats faster
+balloon in freezer > shrinks
+balloon in hot car > expands may pop
+bread left out > molds stale
+apple slice air > browns oxidation
+milk left out warm > spoils bacteria
+iron nail water > rusts
+copper statue green > patina oxidation
+silver spoon dark > tarnish
+dropping a glass > breaks physical change
+tearing paper > physical change
+burning paper > chemical change ash smoke
+boiling water > physical change
+cooking egg > chemical change
+melting crayons > physical change
+mixing salt water > physical change solution
+leaves change color > chemical change
+digestion of food > chemical change
+fireworks exploding > chemical change
+# typical "which is an example of" items
+example of producer > grass tree algae plant
+example of consumer > rabbit deer lion human
+example of decomposer > mushroom bacteria fungi earthworm
+example of herbivore > rabbit deer cow
+example of carnivore > lion wolf hawk shark
+example of omnivore > bear human raccoon
+example of predator > lion hawk owl wolf
+example of mammal > dog whale bat human
+example of reptile > snake lizard turtle
+example of amphibian > frog salamander toad
+example of insect > ant bee beetle butterfly
+example of invertebrate > worm insect jellyfish spider snail
+example of vertebrate > fish bird mammal frog snake
+example of renewable resource > wind sunlight trees water
+example of nonrenewable resource > coal oil natural gas
+example of fossil fuel > coal oil natural gas
+example of conductor > copper metal iron
+example of insulator > plastic rubber wood
+example of solution > salt water sugar water
+example of mixture > salad trail mix sand water
+example of compound > water salt carbon dioxide
+example of element > oxygen gold iron carbon
+example of physical change > melting cutting freezing dissolving
+example of chemical change > burning rusting cooking rotting
+example of kinetic energy > moving car running rolling ball
+example of potential energy > rock on cliff stretched rubber band
+example of simple machine > lever pulley ramp wedge screw
+example of erosion > river carrying sand wind blowing soil glacier moving rocks
+example of weathering > ice cracking rock acid rain dissolving roots breaking rocks
+example of deposition > delta sand dune sediment settling
+example of condensation > dew clouds water on cold glass
+example of evaporation > puddle drying clothes drying
+example of precipitation > rain snow hail sleet
+example of inherited trait > eye color hair color height
+example of learned behavior > reading riding bike tricks
+example of instinct > spider web bird nest migration
+example of adaptation > camouflage thick fur long neck
+example of camouflage > white fur snow green insect leaves
+example of mimicry > viceroy butterfly looks like monarch harmless snake looks like coral snake
+example of symbiosis > bees flowers clownfish anemone
+example of parasitism > tick dog tapeworm
+example of mutualism > bee flower
+example of commensalism > barnacle whale
+example of competition > two plants sunlight lions hyenas food
+example of weather > rainy today windy afternoon
+example of climate > cold winters every year dry region
+example of physical property > color mass shape density
+example of chemical property > flammability reactivity
+neutron charge > no charge neutral zero
+proton charge > positive
+electron charge > negative
+strong acid ph > 1 2 low
+strong base ph > 13 14 high
+neutral ph > 7
+dissolved salt separate water > evaporation distillation boiling
+dissolved substances separate >! filter filtration screen magnet
+gas cooled particles > move slower closer together condense
+liquid heated particles > move faster spread apart
+mixture compound difference > mixture parts keep properties physically combined compound chemically combined new properties

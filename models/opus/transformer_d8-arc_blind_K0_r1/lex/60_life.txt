@@ -1,0 +1,102 @@
+# ===== cells
+cell basic unit units smallest? living? building? organisms? theory?
+@nucleus_cell nucleus control controls center? dna genetic information instructions directs activities chromosomes contains? hereditary? brain?
+membrane boundary enter enters entering leave leaving passes pass surrounds selectively permeable outer? covering? thin? flexible
+wall rigid supports structure cellulose shape? stiff? strength? plant? extra?
+chloroplast chloroplasts chlorophyll green captures capture traps? light? photosynthesis? sugar? plant? pigment pigments organelle organelles
+mitochondria mitochondrion powerhouse releases release respiration converts? breaks? glucose? usable
+vacuole vacuoles storage stores store holds? water? wastes? large?
+ribosome ribosomes proteins? assemble? make?
+cytoplasm jelly gel fluid jellylike
+unicellular single celled one amoeba paramecium euglena protist protists cilia flagella flagellum
+multicellular many-celled specialized
+tissue tissues organ organs organ? groups? similar? together?
+mitosis division divide divides dividing copies identical? growth? repair?
+meiosis sex? gametes half
+# ===== plants
+photosynthesis glucose sugar sugars chlorophyll? process? makes? food? light? leaves? energy?
+producer producers autotroph autotrophs own makes? algae phytoplankton grass? start? first? base?
+root anchor anchors taproot fibrous absorb absorbs underground hold holds ground? minerals? take? soil?
+stem stems stalk trunk xylem phloem transport transports tubes upright support? carry? carries? moves? bark woody vascular
+leaf blade stomata broad transpiration food? sunlight? green? foliage epidermis
+flower petals petal bloom blooms blossom blossoms colorful bright? attract? reproductive? seeds?
+pollination pollen pollinate pollinated pollinators pollinator stamen anther pistil stigma nectar transfer? carry?
+seed germination germinate germinates germinated sprout sprouts sprouting embryo seedling seedlings coat? planted? warmth? moisture?
+fruit fruits ovary ripen ripe apple apples tomato tomatoes berries contains? protects?
+dispersal disperse dispersed scatter scattered burrs hooks spread? stick? carried? wind? float? new? places?
+spore spores fern ferns moss mosses fronds damp? shady?
+cone cones conifer conifers coniferous pine pines evergreen evergreens needles spruce fir
+deciduous shed sheds maple oak lose? fall? autumn? winter?
+tropism phototropism gravitropism geotropism thigmotropism toward window bend bends bending responds? response? light? gravity?
+grow growth growing grows taller height? size?
+# ===== consumers, decomposers, food chains
+consumer consumers eat eats eating heterotroph heterotrophs obtain? get? energy? other? organisms?
+decomposer decomposers decompose decomposing decomposition mushroom mushrooms mold molds decay decaying dead rotting recycle recycles earthworm earthworms bacteria? fungi? worms? break? nutrients? soil? remains? manure
+herbivore herbivores plant-eating grazing graze grazer deer rabbit rabbits cow cows horse horses giraffe zebra zebras caterpillar? grasshopper? only? plants?
+carnivore carnivores meat meat-eating lion lions wolf wolves tiger tigers shark hawk hawks eagle eagles snake? only? animals? sharp? teeth? cheetah cheetahs coyote coyotes
+omnivore omnivores both bear bears raccoon raccoons pig pigs humans? plants? animals?
+predator prey hunt hunts hunting hunted catch caught owl owls fox foxes mice mouse eaten kill kills chase
+scavenger scavengers vulture vultures hyena hyenas carrion
+chain food? arrow arrows energy? passes? transfer? flows? order? sequence?
+web webs interconnected overlapping many? chains?
+parasite parasites host hosts tick ticks flea fleas tapeworm tapeworms lice leech harms? feeds?
+mutualism mutualistic benefit benefits benefiting symbiosis symbiotic relationship both? help?
+commensalism unaffected barnacle barnacles neither remora
+competition compete competing competes mates resources? same? limited? scarce?
+habitat shelter home homes lives? live? place? where? burrow burrows den dens
+niche role job?
+ecosystem ecosystems biotic abiotic nonliving living? interact? factors? sunlight? temperature? rocks?
+population populations increase? decrease? number? size? same? species? area?
+community communities different? species? together?
+balance? stable? balanced?
+# ===== biomes
+biome biomes taiga savanna grassland grasslands prairie prairies plains? zebras? lions?
+desert deserts arid cactus cacti camel camels lizards? scorpions? little? rainfall? dry? hot?
+tundra arctic polar permafrost penguin penguins frozen? cold? treeless
+rainforest rainforests jungle canopy tropical? rainfall? humid? diverse? warm?
+reef coral corals kelp
+wetland wetlands swamp swamps marsh marshes bog bogs
+forest forests woods trees tree deciduous? oak? maple? shrub shrubs sapling saplings
+pond ponds lake? freshwater? fish? frogs?
+# ===== animal groups
+vertebrate vertebrates backbone backbones spine spines spinal? skeleton? internal?
+invertebrate invertebrates jellyfish worm worms snail snails octopus sponge sponges clam clams slug no? backbone?
+mammal mammals hair milk nurse nurses warm-blooded whale whales bat bats dolphin dolphins dog dogs cat cats live? birth? young? fur? rodent rodents primate primates chimpanzee chimpanzees placenta
+bird birds feathers feather wings wing beak beaks hollow nest nests fly flying eggs? warm-blooded? chicken chickens hen
+reptile reptiles scales scaly cold-blooded lizard lizards snake snakes turtle turtles crocodile crocodiles alligator alligators leathery? dry? skin? eggs?
+amphibian amphibians frog frogs toad toads salamander salamanders moist tadpole tadpoles water? land? both? skin?
+fish fishes gills gill fins fin swim swimming salmon trout cold-blooded? water? scales?
+insect insects six legs antennae ant ants beetle beetles grasshopper grasshoppers ladybug ladybugs fly? body? parts? three? dragonfly dragonflies wasp wasps
+arachnid arachnids spider spiders eight scorpion scorpions ticks? mites
+crustacean crustaceans crab crabs lobster lobsters shrimp
+exoskeleton exoskeletons molt molting outer? shell?
+bacteria bacterium strep prokaryote prokaryotes microorganisms microorganism microbes microbe single-celled? antibiotics? infections? yogurt?
+virus viruses viral flu influenza colds host? reproduce? nonliving? smallpox polio hiv chickenpox measles
+fungus fungi yeast spores? mushroom? mold? bread?
+classify classification classified kingdom kingdoms genus taxonomy group? groups? characteristics? similar?
+dichotomous key identify identifying
+# ===== adaptations and behavior
+adaptation adaptations adapted adapt survival suited helps? help? structure?
+camouflage blend blends blending hide hiding hidden disguise coloring colors? surroundings? background
+mimicry mimic mimics resemble resembles harmless? dangerous?
+hibernation hibernate hibernates hibernating dormant dormancy sleep? winter? fat? stored?
+migration migrate migrates migrating geese flock south? warmer? travel? long? distances?
+instinct instincts instinctive inborn innate born automatic inherited? behavior?
+learned learn learning taught teach trained training experience trick tricks practice? observing? fetch fetching asked commands obey
+behavior behaviors response respond responds stimulus stimuli react reacts
+nocturnal night? active? darkness?
+# ===== life cycles, reproduction, heredity, evolution
+stages stage birth death adult adults cycle? life?
+metamorphosis larva larvae pupa pupae caterpillar caterpillars butterfly butterflies cocoon chrysalis moth moths complete incomplete nymph
+egg eggs hatch hatches hatched lay lays laid shell?
+reproduction reproduce reproduces offspring young babies baby sexual asexual budding fertilize zygote gamete gametes ovule fetus embryo?
+trait characteristic characteristics inherited inherit inherits inheritance passed pass? down?
+gene genes heredity hereditary genetic genetics chromosome chromosomes dna? code? information? instructions?
+dominant recessive allele alleles punnett square ratio probability
+mutation mutations mutate random? changes?
+evolution evolve evolved evolving natural selection generations? over? darwin ancestor ancestors common? descent
+extinction extinct dodo disappeared mammoth mammoths no? longer?
+clone clones cloning identical genetically?
+breeding breed breeds selective bred desired? farmers?
+acquired scar scars skill skills tan? haircut? broken? accident? injury?
+living alive nonliving characteristics? reproduce? grow? respond? need? things?

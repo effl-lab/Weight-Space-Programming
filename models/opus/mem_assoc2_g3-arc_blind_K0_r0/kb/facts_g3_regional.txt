@@ -1,0 +1,59 @@
+# Generation 3: regional facts state tests ask (New York and the United States), and everyday estimates.
+new york sun rise > east
+new york sun set > west
+new york noon sun > south sky
+new york seasons > four seasons temperate
+new york winter > cold snow
+new york glaciers > ice age shaped land finger lakes long island
+finger lakes formed > glaciers carved valleys
+long island formed > glacial moraine deposits
+great lakes formed > glaciers carved basins
+niagara falls > erosion waterfall moves upstream
+adirondack mountains > old metamorphic rock
+hudson river > estuary tides
+northern hemisphere longest day > june
+northern hemisphere shortest day > december
+united states weather moves > west to east
+hurricanes united states > atlantic gulf coast late summer fall
+tornadoes united states > central plains spring
+earthquakes united states > california west coast
+volcanoes united states > hawaii alaska washington oregon
+deserts united states > southwest arizona nevada
+rain forest united states > pacific northwest washington
+hawaii > volcanic islands hot spot
+alaska > glaciers permafrost tundra
+florida > hurricanes warm wetlands everglades
+everglades > wetland florida
+yellowstone > geysers hot springs volcanic
+grand canyon > arizona colorado river erosion
+mississippi river > delta gulf of mexico largest river
+rocky mountains > west young tall
+appalachian mountains > east old eroded
+# --- everyday estimates
+mass paper clip > 1 gram
+mass apple > 100 200 grams
+mass textbook > 1 kilogram
+mass bicycle > 10 15 kilograms
+mass person > 50 70 kilograms
+mass car > 1000 1500 kilograms
+length pencil > 15 20 centimeters
+length paper clip > 3 centimeters
+width fingernail > 1 centimeter
+height door > 2 meters
+height adult > 1.5 2 meters
+length football field > 100 meters
+volume teaspoon > 5 milliliters
+volume juice box > 250 milliliters
+volume milk jug > 4 liters
+temperature hot summer day > 30 35 degrees celsius 90 fahrenheit
+temperature cold winter day > 0 degrees celsius below freezing
+temperature classroom > 20 22 degrees celsius
+temperature boiling water > 100 degrees celsius
+temperature freezing water > 0 degrees celsius
+temperature human body > 37 degrees celsius
+walking speed > 5 kilometers per hour
+car highway speed > 100 kilometers per hour
+time earth rotate > 24 hours
+time light sun earth > 8 minutes
+heartbeat rate > 70 beats per minute
+breathing rate > 12 20 breaths per minute

@@ -1,0 +1,181 @@
+# Generation 5: scientific inquiry, tools, safety, engineering and technology, everyday science.
+# --- method
+scientific method steps > question research hypothesis experiment data analyze conclusion
+first step investigation > ask question observe
+hypothesis = testable prediction if then
+observation = using senses to gather information
+inference = explanation based on observations
+prediction = what will happen
+conclusion = summary whether data support hypothesis
+experiment > test hypothesis
+independent variable = factor changed manipulated by scientist
+dependent variable = factor measured responds
+controlled variables = factors kept same constant
+control group = not receive treatment comparison
+fair test > change only one variable keep others same
+more trials > more reliable results
+repeat experiment > reliable valid results
+large sample size > more reliable
+results differ > repeat experiment check errors
+other scientists repeat > verify results replicate
+share results > publish peer review communicate
+data table > organize data record
+bar graph > compare categories amounts
+line graph > change over time continuous data
+pie chart circle graph > parts of whole percentages
+scatter plot > relationship between two variables
+model = represents object process too big small
+models used > study things too large small far dangerous
+scientific theory > well tested explanation many observations
+scientific law > describes what happens always
+qualitative data > descriptions color smell
+quantitative data > numbers measurements
+accurate measurement > close to true value
+precise measurement > repeated measurements close together
+bias > affects results unfair
+evidence > data observations support conclusion
+scientists keep records > journal notebook data
+# --- tools and units
+tools measure > ruler meter stick balance thermometer graduated cylinder stopwatch spring scale
+ruler meter stick > length centimeters meters
+balance scale > mass grams
+spring scale > force weight newtons
+stopwatch > time seconds
+graduated cylinder > liquid volume milliliters
+beaker > hold mix liquids
+test tube > small amounts chemicals
+microscope > tiny objects cells
+hand lens magnifying glass > enlarge small objects
+binoculars > distant objects birds
+telescope tool > stars planets
+petri dish > grow bacteria
+metric units > meter liter gram celsius
+length units > millimeter centimeter meter kilometer
+mass units > milligram gram kilogram
+volume units > milliliter liter cubic centimeters
+temperature units > celsius fahrenheit kelvin
+force units > newtons
+energy units > joules calories
+power units > watts
+time units > seconds minutes hours
+kilo > 1000
+centi > hundredth
+milli > thousandth
+# --- safety
+lab safety > goggles apron gloves
+safety goggles > protect eyes chemicals splashes glass
+gloves > protect hands chemicals hot
+apron > protect clothes skin
+lab safety rules > follow teacher instructions no eating no drinking tie back hair
+avoid lab > eating drinking food tasting touching face
+avoid investigation bacteria > eating drinking food touching face
+lab accident > tell teacher immediately
+chemical spill > tell teacher
+chemical on skin eyes > rinse water eyewash
+broken glass > tell teacher do not touch sweep
+heating test tube > point away from people
+smell chemical > waft gently
+fire safety > fire extinguisher fire blanket
+long hair lab > tie back
+dispose chemicals > follow teacher directions
+wash hands after lab > remove chemicals germs
+handling animals lab > gloves wash hands
+# --- engineering and technology
+engineering design process > define problem brainstorm design build prototype test improve
+prototype = first model test design
+criteria = requirements design must meet
+constraints = limits cost materials time
+trade off = give up one feature gain another
+test design > identify problems improve
+technology = tools inventions solve problems
+engineer > designs builds solutions
+inventions > wheel printing press telescope steam engine telephone light bulb airplane computer
+printing press > gutenberg spread information books
+steam engine > industrial revolution trains factories
+telegraph > morse long distance communication electric signals 1800s
+telephone > alexander graham bell voice communication
+light bulb > thomas edison electric light
+airplane > wright brothers flight
+radio > wireless communication marconi
+television > images sound broadcast
+computer > process information calculate
+internet > share information worldwide quickly
+cell phone > communication radio waves satellites
+refrigerator > keeps food cold slows bacteria spoiling
+refrigeration > food lasts longer transported farther
+vaccines > louis pasteur edward jenner prevent disease
+penicillin > alexander fleming antibiotic
+pasteurization > heat kills bacteria milk
+microscope invention > see cells microorganisms
+satellites technology > weather forecasting communication gps
+robots > dangerous repetitive tasks
+medical technology > x rays mri
+transportation improvements > ship food world more types of food
+cotton gin > eli whitney cotton
+assembly line > henry ford cars faster cheaper
+irrigation > water crops dry areas
+fertilizer > nutrients nitrogen crop growth
+pesticides > kill insects pests harm other organisms
+genetically modified crops > resist pests drought
+hybrid cars > less gasoline less pollution
+electric cars > batteries no exhaust
+# --- agriculture and food
+farmers crop rotation > restore nutrients soil
+legumes beans peas > add nitrogen to soil
+crop yield decrease > soil nutrients depleted
+greenhouse farming > warm controlled environment
+hydroponics > grow plants without soil water nutrients
+food preservation > refrigeration canning drying salting freezing
+food spoils > bacteria mold warm
+bread mold > fungus grows warm moist
+yeast > fungus bread rise carbon dioxide fermentation
+compost > decomposers worms bacteria fungi
+# --- everyday science and scenarios
+ice cubes melt faster > warm water sun
+puddle disappears > evaporation sun heat
+wet clothes dry faster > sunny windy warm
+water drops outside cold glass > condensation water vapor air
+breath visible cold day > water vapor condenses
+mirror fogs bathroom > condensation
+soda can bubbles > carbon dioxide gas
+balloon in cold > shrinks gas contracts
+balloon in heat > expands gas
+tire pressure hot day > increases
+sidewalk cracks gaps > expansion contraction temperature
+power lines sag summer > expand heat
+metal lid hot water > expands loosen jar
+spoon in hot soup > gets hot conduction
+blanket keeps warm > insulator traps body heat
+wearing dark clothes summer > absorbs heat warmer
+wearing light clothes summer > reflects sunlight cooler
+oven mitt > insulator protects hand
+pot handle > plastic wood insulator
+cooking pot > metal conductor
+thermostat > controls temperature
+car brakes > friction heat
+rubbing hands > friction heat warm
+sneakers treads > friction grip
+ice slippery > less friction
+sand on icy road > increases friction
+oil machine parts > reduces friction
+ball rolls farther > smooth surface less friction
+heavy object harder to stop > more inertia mass
+bicycle > wheel axle lever gears
+seesaw > lever fulcrum
+flagpole > pulley
+ramp > inclined plane less force longer distance
+axe knife > wedge
+jar lid > screw
+doorknob > wheel and axle
+magnifying glass > convex lens
+glasses eyeglasses > lenses correct vision
+periscope > mirrors reflect
+flashlight > battery bulb circuit
+battery dead > chemical energy used up
+solar calculator > light to electrical
+microwave oven > microwaves heat food
+string telephone > sound vibrations travel string
+guitar > vibrating strings sound
+drum > vibrating skin sound
+echo canyon > sound reflects
+dog whistle > high frequency humans cannot hear

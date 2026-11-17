@@ -1,0 +1,236 @@
+# Generation 3: matter, properties, changes, chemistry. Question cue words > answer words.
+# --- physical and chemical properties
+physical property examples > color shape size mass volume density hardness texture luster boiling point melting point conducts magnetic odor solubility
+chemical property examples > flammability reactivity rusts burns reacts with acid reacts with oxygen tarnishes
+chemical property > flammable burns reacts rusts tarnish
+physical property copper > conducts electricity shiny malleable ductile reddish
+physical property observed without changing substance > color shape hardness size texture
+property can be measured with ruler > length
+property can be measured balance > mass
+property measured graduated cylinder > volume of liquid
+property measured thermometer > temperature
+property used identify substance > density boiling point melting point
+same density any size sample > density is a property of the substance
+cut piece in half density > stays the same density unchanged
+cut block half mass > half the mass
+malleable = can be hammered into thin sheets metal
+ductile = can be drawn into wires metal
+luster = how a surface reflects light shiny dull metallic
+brittle = breaks shatters easily
+flexible = bends without breaking
+texture = how a surface feels rough smooth
+odor = smell
+soluble = dissolves in water
+insoluble = does not dissolve in water sand oil
+magnetic property metals > iron nickel cobalt steel attracted to magnet
+not magnetic > aluminum copper gold silver plastic wood glass paper
+aluminum can magnet > nonmagnetic stays
+separate iron filings sand > magnet
+separate salt water > evaporate the water
+separate sand water > filter filter paper
+separate rocks sand > screen sieve
+separate mixture different sizes > sieve screen filter
+separate oil water > oil floats on top less dense
+separate salt sand > add water dissolve salt filter evaporate
+# --- states of matter
+solid = definite shape definite volume particles packed tightly vibrate in place
+liquid = definite volume no definite shape takes shape of container particles slide past each other
+gas = no definite shape no definite volume fills container particles move freely far apart
+particles solid > tightly packed vibrate in place fixed position
+particles liquid > close together slide past each other
+particles gas > far apart move quickly freely spread out
+particles move fastest state > gas
+particles move slowest state > solid
+gas fills container > takes shape and volume of container
+gas compressed > particles far apart space between
+liquid takes shape > container definite volume
+plasma = ionized gas very hot stars lightning
+add heat particles > move faster spread apart kinetic energy increases
+remove heat particles > move slower closer together
+temperature measures > average kinetic energy particles motion
+heated substance particles move > faster
+cooled substance particles > slow down
+# --- phase changes
+melting = solid to liquid heat added
+freezing = liquid to solid heat removed
+evaporation = liquid to gas surface
+boiling = liquid to gas throughout bubbles
+condensation = gas to liquid cooling water vapor
+sublimation = solid to gas directly dry ice
+deposition = gas to solid directly frost
+dry ice changes to gas > sublimation
+frost forms window > deposition water vapor to ice
+melting point water > 0 degrees celsius 32 fahrenheit
+freezing point water > 0 degrees celsius 32 fahrenheit
+boiling point water > 100 degrees celsius 212 fahrenheit
+water boils sea level > 100 degrees celsius 212 degrees fahrenheit
+water freezes > 0 degrees celsius 32 degrees fahrenheit
+body temperature normal > 37 degrees celsius 98.6 fahrenheit
+room temperature > 20 25 degrees celsius
+temperature stays same while melting > energy used change state
+mass when water freezes > stays same
+mass ice melts > same mass
+water freezes volume > increases expands ice
+ice floats water > ice less dense than water
+water densest > 4 degrees celsius
+heat added change state > melting evaporation boiling
+heat released change state > freezing condensation
+energy absorbed melting > heat absorbed
+puddle evaporates faster > warm sunny windy
+clothes dry faster > warm windy sunny spread out
+# --- physical vs chemical change
+physical change = changes form shape size state same substance
+chemical change = new substance formed different properties
+physical change examples > melting freezing boiling cutting tearing crushing bending dissolving breaking glass folding paper chopping wood
+chemical change examples > burning rusting cooking baking digesting rotting souring tarnishing fireworks photosynthesis
+evidence chemical change > new substance gas bubbles color change light heat given off precipitate odor
+evidence chemical reaction > gas produced bubbles color change temperature change light precipitate
+dissolving sugar water > physical change
+mixing salt water > physical change solution
+ice melting > physical change
+paper cut > physical change
+paper burned > chemical change ash smoke
+wood burns > chemical change ash carbon dioxide
+iron rusts > chemical change oxygen water iron oxide
+silver tarnishes > chemical change
+bread toasted > chemical change
+egg cooked > chemical change
+milk sours > chemical change
+apple turns brown > chemical change oxygen
+leaves change color fall > chemical change
+fireworks explode > chemical change light heat sound
+baking cake > chemical change new substance
+baking soda vinegar > carbon dioxide gas bubbles chemical reaction
+antacid tablet water > gas bubbles carbon dioxide chemical reaction
+vinegar baking soda balloon > inflates carbon dioxide gas
+mixture = two or more substances combined physically can be separated
+solution = mixture one substance dissolved evenly in another
+solute = substance dissolved
+solvent = substance that dissolves solute water universal
+universal solvent > water
+heterogeneous mixture > salad trail mix sand water granite
+homogeneous mixture > solution salt water air sugar water
+solution examples > salt water sugar water air vinegar brass
+mixture examples > salad sand iron filings trail mix soil granite
+compound examples > water salt sugar carbon dioxide
+element examples > oxygen iron gold carbon hydrogen helium copper
+dissolve faster > stirring heating smaller pieces crushing warmer
+sugar dissolves faster > hot water stirring crushed
+more solute dissolves > warmer solvent
+saturated solution > no more solute can dissolve
+concentration = amount solute in solvent
+dilute > add more water
+# --- atoms elements compounds
+element = pure substance one kind of atom cannot be broken down
+compound = two or more elements chemically combined fixed ratio
+molecule = two or more atoms bonded together
+atom = smallest particle of an element
+atom parts > protons neutrons electrons
+nucleus atom contains > protons neutrons
+proton = positive charge nucleus
+neutron = no charge neutral nucleus
+electron = negative charge outside nucleus
+electrons location > orbit outside nucleus electron cloud shells
+positive charge particle > proton
+negative charge particle > electron
+no charge particle > neutron neutral
+equal protons electrons atom > neutral no charge
+atom gains electron > negative ion
+atom loses electron > positive ion
+ion = atom with charge gained lost electrons
+atomic number = number of protons
+mass number = protons plus neutrons
+isotope = same element different number of neutrons
+most of mass atom > nucleus protons neutrons
+most of volume atom > empty space
+chemical symbol > letters element periodic table
+symbol o > oxygen
+symbol h > hydrogen
+symbol c > carbon
+symbol n > nitrogen
+symbol na > sodium
+symbol cl > chlorine
+symbol fe > iron
+symbol au > gold
+symbol ag > silver
+symbol cu > copper
+symbol he > helium
+symbol ca > calcium
+symbol k > potassium
+h2o > water two hydrogen one oxygen
+co2 > carbon dioxide one carbon two oxygen
+nacl > sodium chloride table salt
+o2 > oxygen gas
+water made of > hydrogen oxygen
+table salt made of > sodium chlorine
+carbon dioxide made of > carbon oxygen
+sugar made of > carbon hydrogen oxygen
+periodic table arranged > atomic number
+periodic table columns groups > similar properties
+periodic table rows periods
+metals periodic table > left side
+nonmetals periodic table > right side
+noble gases > helium neon argon unreactive stable
+metals properties > shiny conduct heat electricity malleable ductile
+nonmetals properties > dull brittle poor conductors
+metalloids > silicon properties of metals and nonmetals semiconductors
+alkali metals > sodium potassium very reactive
+chemical bond > atoms held together share transfer electrons
+covalent bond = atoms share electrons
+ionic bond = electrons transferred between atoms ions attract
+oxygen gas atoms > share covalent bond
+chemical formula > shows elements and number of atoms
+chemical equation reactants > products
+reactants = substances at start of chemical reaction
+products = substances formed in chemical reaction
+conservation of mass = mass not created or destroyed total mass same before after reaction
+mass before after reaction > same equal conserved
+closed container reaction mass > stays the same
+atoms in reaction > rearranged not created destroyed
+balanced equation > same number of atoms each side
+catalyst = speeds up reaction not used up
+enzyme = protein catalyst speeds reactions body
+reaction faster > higher temperature more surface area catalyst concentration
+exothermic = releases heat gets warmer
+endothermic = absorbs heat gets colder cold pack
+cold pack > endothermic absorbs heat
+hand warmer > exothermic releases heat
+combustion = burning fuel oxygen produces carbon dioxide water heat light
+burning needs > fuel oxygen heat
+fire triangle > fuel oxygen heat
+fire extinguished > remove oxygen fuel heat
+candle burns jar covered goes out > oxygen used up
+rust needs > oxygen water iron
+prevent rust > paint coat oil keep dry galvanize
+# --- acids and bases
+acid = ph less than 7 sour reacts with metals turns litmus red
+base = ph greater than 7 bitter slippery turns litmus blue
+neutral ph > 7 pure water
+ph scale measures > acidity how acidic basic
+ph 1 2 3 > strong acid
+ph 12 13 14 > strong base
+lemon juice vinegar > acid
+soap ammonia baking soda > base
+litmus paper > tests acid base red blue
+acid base mixed > neutralization salt water
+indicator = changes color acid base
+# --- density, buoyancy
+density = mass divided by volume
+density formula > mass volume
+float water > less dense than water density less than 1
+sink water > more dense than water
+oil floats on water > oil less dense
+denser liquid > bottom layers
+object floats > buoyant force equal weight
+buoyant force = upward force fluid
+helium balloon rises > helium less dense than air
+hot air balloon rises > hot air less dense
+salt water float easier > salt water more dense
+iron ship floats > shape displaces water air inside
+clay boat shape floats > displaces more water
+irregular object volume > water displacement graduated cylinder
+volume rectangular box > length times width times height
+mass unit > grams kilograms
+volume unit liquid > milliliters liters
+volume unit solid > cubic centimeters
+density unit > grams per cubic centimeter g cm3 g ml

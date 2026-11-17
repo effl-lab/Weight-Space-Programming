@@ -1,0 +1,68 @@
+# Category lines: "label: key words | members". Keys link to each member; members do not link to each other.
+mammals: mammal mammals | whale whales dolphin dolphins bat bats dog dogs cat cats cow cows horse horses human humans people mouse mice rat rats bear bears lion lions tiger tigers elephant elephants deer rabbit rabbits squirrel squirrels fox foxes wolf wolves monkey monkeys ape apes gorilla chimpanzee giraffe zebra kangaroo koala seal seals walrus otter beaver raccoon skunk moose camel pig pigs sheep goat goats hamster platypus manatee porcupine opossum chipmunk groundhog bison buffalo cheetah leopard hippopotamus rhinoceros
+birds: bird birds | robin robins eagle eagles hawk hawks owl owls penguin penguins ostrich duck ducks goose geese chicken chickens hen turkey parrot sparrow crow pigeon hummingbird woodpecker cardinal bluejay pelican flamingo vulture seagull swan heron finch finches falcon blue jay
+reptiles: reptile reptiles | snake snakes lizard lizards turtle turtles tortoise alligator alligators crocodile crocodiles iguana gecko chameleon rattlesnake python cobra
+amphibians: amphibian amphibians | frog frogs toad toads salamander salamanders newt newts tadpole tadpoles
+fish: fish fishes | shark sharks salmon trout tuna goldfish catfish bass cod minnow minnows seahorse eel guppy
+insects: insect insects | ant ants bee bees wasp beetle beetles butterfly butterflies moth moths fly flies mosquito mosquitoes grasshopper grasshoppers cricket crickets ladybug ladybugs dragonfly termite termites cockroach flea fleas aphid aphids caterpillar
+arachnids: arachnid arachnids | spider spiders scorpion scorpions tick ticks mite mites
+vertebrates: vertebrate vertebrates backbone | fish frog frogs snake snakes bird birds dog human humans lizard turtle shark whale cat horse mammals reptiles amphibians
+invertebrates: invertebrate invertebrates | worm worms earthworm jellyfish spider spiders insect insects snail snails octopus squid crab crabs lobster starfish sea star sponge sponges clam clams coral shrimp slug
+producers: producer producers | plant plants grass grasses tree trees algae moss mosses fern ferns phytoplankton seaweed kelp corn wheat flowers shrubs bushes cactus oak maple pine lettuce
+herbivores: herbivore herbivores | rabbit rabbits deer cow cows horse horses sheep goat elephant giraffe zebra grasshopper caterpillar squirrel mouse koala panda bison moose beaver
+carnivores: carnivore carnivores | lion lions tiger wolf wolves hawk eagle owl shark snake snakes spider frog cheetah fox polar bear seal killer whale
+omnivores: omnivore omnivores | bear bears human humans raccoon raccoons pig pigs chicken crow skunk opossum chimpanzee
+decomposers: decomposer decomposers | fungi fungus mushroom mushrooms mold molds bacteria earthworm earthworms worms
+scavengers: scavenger scavengers | vulture vultures hyena crab crabs
+predators examples: predator predators | lion wolf hawk owl shark snake eagle fox cat spider
+prey examples: prey | rabbit mouse mice deer fish insect zebra squirrel
+living things: living organism organisms alive | plant animal tree mushroom bacteria worm fungus grass cell cells person
+nonliving: nonliving abiotic | rock rocks water air sunlight soil sand temperature wind minerals light
+needs of living things: living things need | food water air energy space shelter
+# ---------------- materials ----------------
+electrical conductors list: conductor conductors conduct electricity electric | copper silver gold aluminum iron steel metal metals wire wires foil penny nail
+electrical insulators list: insulator insulators electricity electric | rubber plastic glass wood wooden cloth paper ceramic porcelain air styrofoam
+heat conductors list: conductor conductors conduct heat thermal | metal metals copper aluminum iron steel silver pan pot spoon
+heat insulators list: insulator insulators insulate insulated insulation heat | wood wooden plastic rubber styrofoam foam wool cloth fabric fiberglass feathers fur fat air cork ceramic cardboard paper blanket mitt
+magnetic list: magnet magnets magnetic attract attracted attracts | iron steel nickel cobalt nail nails paper clip clips pins tacks screws staples
+nonmagnetic list: nonmagnetic | copper aluminum plastic wood wooden glass gold silver paper rubber penny cloth
+metals list: metal metals metallic | iron copper aluminum gold silver steel tin zinc lead nickel titanium mercury
+transparent list: transparent | glass clear water air plastic wrap window
+translucent list: translucent | wax paper frosted glass tissue paper
+opaque list: opaque | wood wooden metal brick cardboard aluminum foil rock book wall
+flexible list: flexible bendable | rubber cloth paper plastic wire rope
+hard materials: hard rigid strong | steel diamond rock stone wood concrete brick
+# ---------------- energy resources ----------------
+renewable list: renewable | sunlight sun solar wind water hydroelectric geothermal biomass trees wood crops tidal tides plants
+nonrenewable list: nonrenewable | coal oil petroleum natural gas gasoline diesel propane uranium fossil fuels kerosene
+fossil fuels list: fossil fuel fuels | coal oil petroleum natural gas gasoline diesel propane kerosene
+# ---------------- changes ----------------
+physical changes list: physical change changes | melting melt melted freezing freeze frozen boiling boil evaporating evaporate condensing cutting cut tearing torn folding crushing crushed dissolving dissolved mixing breaking broken chopping chopped grinding bending shredding sanding sharpening
+chemical changes list: chemical change changes reaction | burning burn burned rusting rust rusted rusty cooking cooked baking baked frying fried rotting rotten spoiled souring sour digesting tarnishing exploding fireworks fermenting decaying
+# ---------------- states of matter examples ----------------
+solids examples: solid solids | ice rock rocks wood metal brick book table desk coin sand salt sugar
+liquids examples: liquid liquids | water milk juice oil vinegar honey gasoline mercury syrup
+gases examples: gas gases | air steam oxygen helium nitrogen hydrogen water vapor carbon dioxide neon
+# ---------------- body ----------------
+organs list: organ organs | heart lungs brain stomach liver kidneys skin intestines eyes
+body systems list: system systems | digestive circulatory respiratory nervous skeletal muscular excretory endocrine immune reproductive integumentary
+# ---------------- earth and space ----------------
+planets list: planet planets | mercury venus earth mars jupiter saturn uranus neptune
+inner planets list: inner terrestrial rocky | mercury venus earth mars
+outer planets list: outer gas giants giant | jupiter saturn uranus neptune
+stars list: star stars | sun polaris sirius betelgeuse rigel
+rocks list: rock rocks | granite basalt obsidian pumice sandstone limestone shale marble slate gneiss coal conglomerate quartzite
+igneous list: igneous | granite basalt obsidian pumice
+sedimentary list: sedimentary | sandstone limestone shale conglomerate coal chalk
+metamorphic list: metamorphic | marble slate gneiss schist quartzite
+minerals list: mineral minerals | quartz feldspar mica calcite talc gypsum diamond halite pyrite magnetite hematite galena fluorite topaz corundum
+precipitation types: precipitation | rain snow sleet hail drizzle
+natural resources list: natural resource resources | water air soil trees forests minerals oil coal sunlight wind
+weather events: severe weather storms | hurricane tornado thunderstorm blizzard flood drought
+# ---------------- simple machines examples ----------------
+lever examples: lever levers | seesaw crowbar scissors hammer claw bottle opener wheelbarrow broom shovel oar
+pulley examples: pulley pulleys | flagpole flag crane elevator blinds well bucket
+inclined plane examples: inclined plane ramp ramps | slide wheelchair ramp stairs hill road
+wedge examples: wedge wedges | axe knife nail doorstop teeth chisel
+screw examples: screw screws | jar lid bolt light bulb drill
+wheel axle examples: wheel axle | doorknob bicycle car steering wheel rolling pin windmill

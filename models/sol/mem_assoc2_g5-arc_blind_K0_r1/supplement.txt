@@ -1,0 +1,461 @@
+# ADDITIONAL DIRECT ASSOCIATIONS AND CONTEXTUAL SCHOOL-SCIENCE FACTS
+2 | sunrise | east rotation | west
+2 | sunset | west rotation | east
+2 | fusion | combine nucleus hydrogen helium sun energy | split
+2 | nitrogen | atmosphere most abundant gas protein | photosynthesis fuel
+2 | oxygen | respiration combustion gas | fossil fuel
+2 | carbon dioxide | photosynthesis greenhouse exhaled | combustion fuel
+2 | hydrogen | lightest element water sun fuel | heaviest
+2 | helium | noble gas balloon low density | flammable
+2 | chlorine | disinfect water halogen | food nutrient
+2 | silicon | semiconductor rock mineral | noble gas
+2 | iron | magnetic metal rust hemoglobin | insulator
+2 | calcium | bone teeth shell limestone | genetic code
+2 | sodium | salt metal reactive | noble gas
+2 | sulfur | yellow element acid rain | primary atmosphere
+2 | nitrogen fixation | root bacteria legume usable nutrient | oxygen production
+2 | electron proton | opposite charge attraction | repulsion
+2 | neutron proton | nucleus mass | outside nucleus
+2 | atom electron lose | positive ion | negative
+2 | atom electron gain | negative ion | positive
+2 | compound separate | chemical reaction | filter magnet
+2 | mixture separate | physical method | nuclear
+2 | homogeneous | uniform solution | visibly different layers
+2 | heterogeneous | different components visible | uniform
+2 | suspension | settle filter insoluble | dissolved
+2 | colloid | scatter light suspended particle | pure element
+2 | solute water | dissolve homogeneous solution | chemical compound necessarily
+2 | chemical reversible | new substance reaction | size only
+2 | physical reversible | state melt freeze | burn rust
+2 | rust mass | oxygen combine increase | matter created
+2 | burn mass closed | conserve same total | disappear
+2 | open reaction mass | gas escape apparent loss | destroy atom
+2 | metal heat | expand particle motion | shrink
+2 | gas compress | particles closer volume decrease | particle size decrease
+2 | gas heat sealed | pressure increase collisions faster | pressure decrease
+2 | gas volume pressure | inverse decrease volume increase pressure | direct
+2 | gas volume temperature | increase temperature expansion | contraction
+2 | gas particle pressure | collisions container wall | gravity alone
+2 | water state change | physical same molecule | new element
+2 | gas cool liquid | condensation | evaporation
+2 | liquid cool solid | freezing | melting
+2 | solid heat liquid | melting | condensation
+2 | liquid heat gas | evaporation boiling | freezing
+2 | solid gas directly | sublimation | melting
+2 | gas solid directly | deposition frost | boiling
+2 | dissolving rate | stir crush heat surface | particle color
+2 | sugar cube crushed | dissolve faster greater surface | slower
+2 | salt dissolved mass | conserved sum water salt | salt disappears
+2 | boiling salt water | water vapor salt remains | salt vapor
+2 | pure water freezing | zero celsius | hundred
+2 | pure water boiling | hundred celsius | zero
+2 | metal acid reaction | hydrogen gas | oxygen only
+2 | acid carbonate | dioxide gas bubbles | nitrogen
+2 | vinegar baking soda | dioxide chemical bubbles | oxygen
+2 | precipitate | insoluble solid solution reaction | gas
+2 | ph decrease | more acidic | more alkaline
+2 | ph increase | more basic | more acidic
+2 | neutralization | acid base salt water | metal alloy
+2 | ph indicator | color acid base | mass
+2 | litmus | acid base color | density
+2 | bromothymol | dioxide ph indicator | force
+2 | convection current | warm rise cool sink density | solid transport
+2 | conduction conductor | metal copper | rubber foam
+2 | insulator heat | air foam wool plastic wood | copper aluminum
+2 | insulation building | less heating energy loss | more heat loss
+2 | equal temperature | thermal equilibrium | heat net flow
+2 | kinetic temperature | average particle motion | total volume
+2 | heat large sample | more total thermal energy mass | same total always
+2 | hot cold contact | hot cool cold warm equilibrium | cold gets colder
+2 | light year measure | distance | time
+2 | telescope astronomy | stars planets distant | cells
+2 | microscope biology | cells microorganism | moon craters
+2 | magnifying lens | convex refraction | concave reflection
+2 | earth magnetic field | core liquid iron current | crust wind
+2 | geographic north compass | magnetic field pole | gravity
+2 | electric magnetism | moving charge current | only stationary mass
+2 | wire current magnetic | electromagnet field | gravity
+2 | magnet moving coil | induced current generator electricity |
+2 | iron electromagnet | stronger field | weaker
+2 | electromagnet current off | magnetism decreases | stronger
+2 | bulb filament | resistance hot light | fusion
+2 | short circuit | low resistance high current dangerous | low current safe
+2 | electric shock | current body wet conductor | plastic insulator
+2 | water electric | dissolved ions conductor danger | always perfect insulator
+2 | pure water electric | poor conductor | metal
+2 | static hair | like charges repel electron transfer | proton transfer
+2 | balloon rubbed | static electron charge attraction | nuclear
+2 | lightning rod | conductor ground protection | insulator
+2 | grounding | charge flow earth safety | charge accumulate
+2 | electric power | voltage current multiply watt | mass speed
+2 | series resistance | add total increase | decrease
+2 | parallel resistance | more paths lower total | higher total
+2 | spring scale | weight force newton | volume
+2 | balance scale | mass gram | volume
+2 | thermometer expansion | liquid expands heat volume increase | contraction
+2 | ammeter | current ampere | voltage
+2 | voltmeter | voltage potential | resistance only
+2 | inverse square | gravity light distance weaken | stronger farther
+2 | gravity moon orbit | centripetal attraction inertia | magnetism
+2 | circular motion | acceleration changing direction force |
+2 | centripetal | toward center force | outward
+2 | rocket space | third law exhaust momentum | push air
+2 | swimming motion | push water backward reaction forward | gravity only
+2 | walking motion | friction ground reaction force |
+2 | boat oar | action reaction lever | nuclear
+2 | force applied stationary | zero work | maximum
+2 | object rest force | balanced net zero | acceleration
+2 | object constant speed straight | balanced net zero | unbalanced
+2 | object changes direction | force acceleration | constant velocity
+2 | friction reduce | lubricant smooth rollers | rough surface
+2 | friction increase | rough tread greater force | oil
+2 | work force direction | parallel displacement | perpendicular only
+2 | simple machine work | same ideal work force distance tradeoff | create energy
+2 | longer ramp | less force more distance | more force
+2 | pulley fixed | direction change same force | create energy
+2 | pulley movable | mechanical advantage force distance | energy creation
+2 | lever fulcrum effort | longer effort arm less force | shorter always easier
+2 | elastic spring | stored potential stretch compress | chemical
+2 | pendulum | potential kinetic exchange gravity | nuclear
+2 | spring force | greater stretch larger force | constant always
+2 | pendulum length | longer slower period greater | mass greatest effect
+2 | pendulum mass | period unchanged same length | heavier always faster
+2 | sound distance | lower intensity amplitude | lower speed necessarily
+2 | sound material | vibration medium mechanical | vacuum
+2 | sound insulation | soft porous absorb | smooth hard reflect
+2 | hard surface sound | reflect echo | absorb all
+2 | carpet sound | absorb reduce echo | increase echo
+2 | string length pitch | shorter higher frequency | longer higher
+2 | string tension pitch | tighter higher frequency | looser higher
+2 | instrument vibration | sound wave | light wave
+2 | tuning fork | vibration sound | electric current required
+2 | sound loudness | amplitude intensity | pitch
+2 | sound frequency | pitch hertz | loudness
+2 | light sound lightning | light arrives first faster | sound faster
+2 | mechanical wave | needs medium sound water | vacuum
+2 | electromagnetic wave | vacuum radiation light | sound
+2 | wave medium particle | oscillate energy travels | permanent transport
+2 | wave frequency increase | wavelength decrease same speed | wavelength increase
+2 | wavelength increase | frequency decrease | frequency increase
+2 | wave amplitude increase | energy increase | energy decrease
+2 | light dense medium | slow refract bend change | unchanged
+2 | light water air | refraction speed change | absorption only
+2 | mirror angle | incidence equals reflection | always zero
+2 | rough surface light | diffuse reflection scatter | perfect image
+2 | smooth surface light | regular reflection image | absorb all
+2 | dark object | absorb light heat | reflect all
+2 | opaque shadow | block light | refract only
+2 | rainbow colors | white light dispersion prism | sound
+2 | visible spectrum | red orange yellow green blue violet | ultraviolet only
+2 | infrared radiation | heat remote control | sound
+2 | ultraviolet radiation | sunburn skin damage | longest wavelength
+2 | gamma radiation | high energy penetrating nuclear | low frequency
+2 | radio communication | electromagnetic long wavelength | sound vacuum
+2 | satellite communication | electromagnetic radio microwave | sound
+2 | binocular | lens refraction distant | cell microscope
+2 | magnifier sunlight | focus light heat convex | concave
+2 | fiber optics | total internal reflection communication | sound
+2 | eye vision | reflected light retina nerve | object sends sound
+2 | ear hearing | vibration eardrum cochlea nerve | light
+2 | cochlea | hearing sound | vision
+2 | retina | light vision | hearing
+2 | pupil dark | dilate more light | contract
+2 | pupil bright | constrict less light | dilate
+2 | lens eye | focus refract retina | reflect only
+2 | skeleton | bone support protect movement | hormone alone
+2 | bone marrow | blood cell production | photosynthesis
+2 | muscles skeleton | contract pull joint movement | push bone
+2 | heart lung | blood oxygen gas transport | food digestion
+2 | lung intestine | large surface thin exchange absorption | small surface
+2 | kidney dialysis | filter waste blood | oxygen supply
+2 | dehydration human | water loss thirst kidney conserve urine decrease | more urine
+2 | exercise breathing | oxygen need dioxide increase | lower oxygen need
+2 | sweating temperature | evaporation cooling | condensation warming
+2 | blood glucose high | insulin lowers | glucagon raises
+2 | blood glucose low | glucagon liver glycogen sugar | insulin lowers
+2 | fever | immune response temperature infection |
+2 | vaccine immunity | memory antibody pathogen recognition | treats all current infections
+2 | antibiotic virus | ineffective | cure
+2 | antibiotic bacteria | kill inhibit infection | all viruses
+2 | pathogen | disease causing microorganism | nutrient
+2 | skin wound | bacteria enter infection immune | photosynthesis
+2 | disinfect surface | kill reduce microorganism | grow pathogen
+2 | clean water disease | reduced pathogen infection | more infection
+2 | hand hygiene | remove bacteria infection prevention | all bacteria harmful
+2 | bacteria beneficial | decomposer nitrogen digestion food production | all cause disease
+2 | fungus decomposer | nutrient recycle | photosynthesis
+2 | mushroom | fungus decomposer spore | plant photosynthesis
+2 | yeast | fungus fermentation bread dioxide | plant chloroplast
+2 | mold | fungus decomposer spore | autotroph
+2 | algae | photosynthesis aquatic producer oxygen | animal carnivore
+2 | plankton | aquatic food web | desert
+2 | phytoplankton | photosynthesis producer | carnivore
+2 | zooplankton | consumer animal aquatic | tree
+2 | amoeba | unicellular pseudopod | multicellular flower
+2 | paramecium | unicellular cilia movement | backbone
+2 | euglena | flagellum chloroplast protist | mammal
+2 | cilia flagella | cell movement | chromosome storage
+2 | bacteria reproduce | binary fission asexual | flower seed
+2 | bacteria genetic | dna cytoplasm prokaryote | membrane nucleus
+2 | virus host | replication genetic material | photosynthesis
+2 | photosynthesis darkness | stops light required | increase
+2 | photosynthesis dioxide | carbon source sugar oxygen product | oxygen reactant
+2 | respiration oxygen | energy glucose dioxide water | glucose production
+2 | respiration photosynthesis | carbon oxygen cycling | identical
+2 | producer glucose | chemical energy food | soil food directly
+2 | plant respiration night | oxygen used dioxide released | respiration stops
+2 | plant photosynthesis day | light dioxide water glucose oxygen energy |
+2 | plant transport water | root xylem stem leaf | phloem main
+2 | plant transport sugar | phloem leaf rest plant | xylem only
+2 | water root | osmosis absorption | photosynthesis
+2 | plant water loss | transpiration stomata | xylem absorption
+2 | dry plant | wilt low turgor | more turgor
+2 | stomata hot dry | close conserve water | open wide always
+2 | chlorophyll autumn | break down reveal other pigment | leaves create oxygen color
+2 | leaf green | reflect green light chlorophyll | absorb only green
+2 | leaf red blue | absorb photosynthesis | reflect all
+2 | plant stem light | phototropism | negative geotropism only
+2 | root gravity | positive gravitropism downward | phototropism
+2 | root water direction | hydrotropism toward water | away water
+2 | vine support touch | thigmotropism | hearing
+2 | flower bee | pollination mutualism nectar | parasitism
+2 | pollen | male reproduction sperm anther | female egg
+2 | seed germination temperature | warm water oxygen | freezing dry
+2 | fruit seed | protection dispersal reproduction | gas exchange
+2 | wind seed | wing fluff light dispersal | heavy hook
+2 | animal seed | hook fruit dispersal | only wind
+2 | conifer pine | cone needle seed | flower fruit
+2 | moss fern | spore reproduction | seed fruit
+2 | aquatic plant | light water dioxide photosynthesis respiration oxygen |
+2 | desert plant | conserve store water wax spine | broad thin leaf
+2 | cactus | desert water storage spine | wet rainforest only
+2 | lichen | mutualism algae fungus pioneer | mammal
+2 | moss | nonvascular moist spore pioneer | seed cone
+2 | fern | vascular spore | seed flower
+2 | pine | gymnosperm cone evergreen needle | flower fruit
+2 | oak | flowering deciduous seed acorn | fern
+2 | bean | seed legume nitrogen fixation | animal
+2 | legume | bacteria root nitrogen fixation | nitrogen gas direct absorption
+2 | potato | tuber starch asexual | animal
+2 | carrot food | root storage | leaf
+2 | lettuce food | leaf | root
+2 | corn | flowering seed producer | decomposer
+2 | plant cutting | asexual clone identical gene | variation sexual
+2 | mutation sexual | genetic variation inherited | identical clone
+2 | mitosis chromosome | same number identical | half
+2 | meiosis chromosome | half gamete | same number body cell
+2 | fertilization chromosome | two gametes restore diploid | half diploid
+2 | dna replication | before division copied chromosome | after only
+2 | dna code | protein amino sequence gene | lipid only
+2 | rna | protein synthesis message ribosome | bone
+2 | transcription | dna rna | protein rna
+2 | translation | rna protein ribosome | dna copying
+2 | adenine | thymine dna uracil rna | guanine pairing
+2 | guanine | cytosine | thymine
+2 | genetic trait environment | phenotype both | genotype changes always
+2 | dominant recessive | allele inheritance gene | acquired skill
+2 | learned behavior | training experience practice | inherited reflex
+2 | instinct | inherited behavior innate | taught skill
+2 | migration instinct | inherited seasonal behavior | photosynthesis
+2 | bird nest | instinct reproduction protection | plant seed
+2 | dog trick | learned behavior training | inherited genetic trait
+2 | natural selection population | variation inherited reproduction generations | individual choice
+2 | environment change selection | favorable trait survival reproduction | all same survival
+2 | mutation beneficial | increase survival reproduction environment | always harmful
+2 | adaptation structural | physical feature beak fur | learned trick
+2 | adaptation behavioral | migration nocturnal hibernation | leaf shape
+2 | adaptation physiological | venom metabolism water regulation | camouflage color only
+2 | camouflage | conceal blend hide protection | mimic only
+2 | mimicry | resemble another species | same environment only
+2 | warning color | poisonous predator avoidance | always camouflage
+2 | bright frog | warning poison predator avoidance |
+2 | skunk | spray defense warning | photosynthesis
+2 | porcupine | quill defense | gill
+2 | armadillo | armored protection | feather
+2 | turtle | shell protection reptile | mammal
+2 | bat animal | mammal wing lung milk | bird
+2 | whale animal | mammal lung milk blubber | fish
+2 | dolphin animal | mammal lung milk | gill
+2 | shark | fish gill cartilage | mammal lung
+2 | salmon | fish migration gill | feather
+2 | frog | amphibian moist skin metamorphosis | reptile
+2 | toad | amphibian | reptile
+2 | salamander | amphibian moist skin | mammal
+2 | snake | reptile scale lung | amphibian
+2 | lizard | reptile scale cold blood | mammal
+2 | crocodile | reptile egg scale lung | fish
+2 | butterfly | insect six leg metamorphosis | eight legs
+2 | bee | insect pollinator six leg | mammal
+2 | ant | insect six leg colony | arachnid
+2 | grasshopper | insect exoskeleton nymph | mammal
+2 | mosquito | insect vector disease | vertebrate
+2 | spider | arachnid eight leg exoskeleton | insect six
+2 | scorpion | arachnid eight leg | insect six
+2 | crab | crustacean arthropod exoskeleton | vertebrate
+2 | snail | mollusk shell soft | arthropod
+2 | clam | mollusk filter feed shell | mammal
+2 | octopus | mollusk invertebrate camouflage | fish backbone
+2 | earthworm | annelid segmented invertebrate soil | backbone
+2 | starfish | echinoderm marine radial | fish backbone
+2 | jellyfish | cnidarian invertebrate tentacle | fish backbone
+2 | sponge | aquatic filter invertebrate | plant
+2 | penguin | bird feather egg swim | mammal
+2 | duck | bird webbed feet waterproof feather | gill
+2 | owl | predator bird nocturnal talon | herbivore
+2 | hawk | predator bird carnivore talon | producer
+2 | eagle | bird predator carnivore | herbivore
+2 | vulture | scavenger dead animal | producer
+2 | hummingbird | nectar pollination long beak | decomposer
+2 | finch beak | seed food natural selection | respiration only
+2 | ostrich | bird feather egg flightless | mammal
+2 | rabbit | herbivore prey mammal | carnivore
+2 | deer | herbivore mammal | carnivore
+2 | cow | herbivore mammal | predator
+2 | lion | carnivore predator mammal | producer
+2 | tiger | carnivore predator | herbivore
+2 | wolf | carnivore predator | producer
+2 | fox | omnivore predator | producer
+2 | bear | omnivore mammal | plant
+2 | mouse | omnivore prey mammal | producer
+2 | squirrel | seed nut herbivore food storage | photosynthesis
+2 | giraffe | herbivore long neck reach leaf | carnivore
+2 | elephant | herbivore mammal trunk | carnivore
+2 | camel | desert mammal fat hump water conservation | gill
+2 | kangaroo | marsupial mammal pouch | reptile
+2 | platypus | egg laying mammal milk | bird
+2 | polar bear | carnivore arctic insulation fur blubber | tropical herbivore
+2 | seal | mammal lung blubber aquatic | fish gill
+2 | fur feather | insulation reduce heat loss | photosynthesis
+2 | feather wing | flight insulation bird | mammal only
+2 | gill | dissolved oxygen aquatic exchange | lung air only
+2 | fin | swim balance fish | photosynthesis
+2 | backbone | vertebrate support spinal protection | insect
+2 | exoskeleton growth | molt shed |
+2 | warmblooded | bird mammal homeostasis | fish reptile
+2 | coldblooded | fish reptile amphibian environment temperature | bird mammal
+2 | endotherm | internal heat bird mammal | reptile
+2 | ectotherm | external heat environment reptile fish | mammal
+2 | predator prey camouflage | survive hide capture | digestion faster
+2 | predator eye forward | depth perception capture prey | wide side vision only
+2 | prey eye side | wide view detect predator vision |
+2 | herbivore teeth | flat grind plant | sharp tear only
+2 | carnivore teeth | sharp canine tear meat | flat grinding only
+2 | beak shape | food resource adaptation | unrelated behavior
+2 | hibernation metabolism | lower energy conserve | increase
+2 | migration resource | food breeding suitable climate | oxygen nonexistent
+2 | nocturnal desert | night active conserve water | daytime
+2 | population resource shortage | competition decline | unlimited increase
+2 | carrying capacity exceed | death competition starvation increase limit | unlimited
+2 | prey food shortage | predator decline | predator increase
+2 | biodiversity ecosystem | resilience stability variety | single species only
+2 | decomposer waste | recycle nutrient humus soil | create sunlight
+2 | decomposer dead tree | fungus bacteria | grass producer
+2 | dead leaf decay | decomposer nutrient recycle | photosynthesis only
+2 | earthworm bacteria soil | all organism nutrient recycle | only worm
+2 | ecosystem bacteria absent | nutrient recycling decrease dead accumulate | decomposition increase
+2 | grass rabbit fox | grass producer rabbit herbivore fox predator | fox producer
+2 | grasshopper frog snake | food chain energy transfer | nutrient creation
+2 | ocean plankton fish | producer consumer energy sunlight |
+2 | food web extinction | interconnected population change effect |
+2 | food web energy start | sun producer photosynthesis | carnivore
+2 | top predator toxin | biomagnification highest concentration | lowest
+2 | tropical forest | high biodiversity warm rain | low rain cold
+2 | desert rainfall | low scarce water | abundant
+2 | tundra permafrost | cold frozen ground | tropical warm
+2 | taiga conifer | cold forest evergreen | grass only
+2 | grassland fire | maintains grass few trees | always rainforest
+2 | estuary water | brackish fresh salt mix | pure freshwater
+2 | wetland flood | absorb store filter water | increase flood always
+2 | coral reef habitat | warm shallow clear marine | deep freshwater
+2 | pioneer bare rock | lichen moss soil formation | large tree
+2 | abandoned field | secondary succession grass shrub tree | primary lava
+2 | forest fire soil | secondary succession | primary bare rock
+2 | lava new island | primary succession pioneer | secondary mature soil
+2 | dam fish migration | blocked breeding population decrease habitat change |
+2 | drought plant food | decrease herbivore decline | all increase
+2 | invasive predator | native prey decline food web disruption competition |
+2 | habitat fragmentation | isolated population reduced gene flow | more habitat
+2 | conservation park | protect habitat species | remove all predators
+2 | captive breeding | endangered reproduction restore population | increase extinction
+2 | reforestation | habitat carbon storage erosion reduce | more erosion
+2 | deforestation | habitat loss erosion dioxide increase | biodiversity increase
+2 | desertification | vegetation loss erosion dry land | forest expansion
+2 | overfishing | population depletion food web disruption | unlimited supply
+2 | resource finite | conserve recycle | inexhaustible
+2 | urban runoff | pavement impermeable less infiltration | more groundwater recharge
+2 | paved surface | runoff flooding increase | infiltration increase
+2 | gravel sand water | permeable rapid drainage | impermeable
+2 | clay water | small pores slow drainage | rapid drainage
+2 | groundwater overuse | water table lower | table rise
+2 | ocean fresh water | evaporation salt left | evaporating salt
+2 | solar evaporation ocean | water cycle vapor | salt vapor
+2 | cloud water | droplets ice condensation | invisible gas only
+2 | water vapor | invisible gas | cloud droplets
+2 | stratus cloud | layered steady drizzle | high wispy
+2 | cumulus cloud | puffy fair weather | wispy ice only
+2 | cirrus cloud | high wispy ice | ground fog
+2 | cumulonimbus | thunderstorm tall rain hail | fair weather always
+2 | low pressure air | rise expand cool cloud | sink warm clear
+2 | high pressure air | sink compress warm clear | rising storm
+2 | front collision | air mass different temperature precipitation | earth crust
+2 | coastal climate | moderate water high heat capacity | extreme temperature
+2 | mountain rain | windward wet leeward dry | same rainfall
+2 | latitude temperature | equator warmer poles cooler | uniform
+2 | ocean current climate | heat transport warm cold temperature |
+2 | warm current coast | warmer climate | colder
+2 | cold current coast | cooler climate | warmer
+2 | earth rotate west east | apparent sun east west | sun revolves earth
+2 | earth tilted orbit | seasons daylight angle | moon gravity
+2 | moon sun earth aligned | spring tide larger range | neap tide
+2 | moon sun right angle | neap tide smaller range | spring tide
+2 | full shadow | lunar eclipse | solar
+2 | new shadow | solar eclipse | lunar
+2 | full moon phase | sunlit side earth view | dark side only
+2 | moon own light | reflect sun | produce fusion
+2 | planet own light | reflect sun | star fusion
+2 | star energy | nuclear fusion | chemical oxygen burning
+2 | sun distance earth | closest star | largest star universe
+2 | star blue temperature | hotter | cooler
+2 | star red temperature | cooler | hotter
+2 | planet orbit distance | farther longer year | farther shorter year
+2 | terrestrial planet | rock solid inner small dense | gas giant
+2 | gas giant | jupiter saturn large outer | mercury mars
+2 | asteroid belt | mars jupiter rocky | earth moon ice
+2 | comet sun approach | ice vapor tail away sun | tail toward sun
+2 | meteor atmosphere | friction heat glowing | nuclear fusion
+2 | meteorite earth | impact rock crater | orbit only
+2 | universe galaxy | many stars gravity | one atom
+2 | light year star | distance | time second
+2 | milky way galaxy | sun earth solar system | entire universe
+2 | redshift galaxy | moving away expanding universe | approaching
+2 | space sound | absent vacuum | transmit normally
+2 | space light | travels vacuum electromagnetic | requires air
+2 | astronaut weightless | free fall orbit gravity | mass zero
+2 | satellite orbit | gravity centripetal inertia force |
+2 | ozone ultraviolet | absorb protect skin | cause all warming
+2 | cfc ozone | deplete ultraviolet increase | repair layer
+2 | greenhouse infrared | absorb reradiate warming | reflect all visible
+2 | dioxide atmosphere increase | global warming greenhouse | colder necessarily
+2 | methane greenhouse | trap infrared heat | oxygen gas
+2 | fossil burn pollution | dioxide sulfur nitrogen smog | oxygen production
+2 | acid rain limestone | dissolve chemical weathering | physical only
+2 | warming ice melt | sea level habitat change | sea level lower
+2 | ocean warming expansion | sea level rise | sea level fall
+2 | fertilizer lake | algae bloom oxygen depletion | oxygen increase forever
+2 | algae decomposition | bacteria oxygen consume fish die | oxygen production only
+2 | thermal water pollution | oxygen solubility decrease | oxygen increase
+2 | sewage pathogen | disease water pollution | pure drinking
+2 | oil bird feather | insulation buoyancy damaged | improved flight
+2 | solar wind renewable | replenished low pollution | limited fossil
+2 | coal oil gas | nonrenewable ancient carbon fuel | renewable
+2 | nuclear uranium | fission radioactive waste | fossil coal
+2 | geothermal heat | earth internal renewable | burning gasoline
+2 | biomass fuel | plant organic matter chemical energy | uranium
+2 | hydroelectric dam water | moving turbine electricity renewable | burning fossil
+2 | wind solar disadvantage | intermittent weather dependent | always constant
+2 | fossil disadvantage | finite pollution greenhouse | inexhaustible
+2 | nuclear disadvantage | radioactive waste radiation accident | carbon smoke most
+2 | recycle metal | conserve ore energy | create more natural ore
+2 | reuse container | reduce waste material demand | increase extraction
+2 | efficient energy | same useful output lower input | create energy
+2 | insulation energy conserve | reduce heating cooling loss | heat creation

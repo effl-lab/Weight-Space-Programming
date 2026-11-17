@@ -1,0 +1,35 @@
+@rocks
+igneous : lava magma cools hardens volcano
+sedimentary : layers sediment fossils sand pressed compacted
+metamorphic : heat pressure changed
+mineral : hardness luster streak crystal
+diamond : hardest
+talc : softest
+@weathering
+weathering : breaks rocks smaller pieces sediment
+erosion : moves carries washes soil away
+deposition : drops deposits delta sand
+glacier : ice carves valleys
+@plates
+earthquake earthquakes : plates faults shaking boundaries
+volcano volcanoes : lava magma eruption
+mountains : plates collide uplift
+@weather
+evaporation : water cycle sun heats vapor
+condensation : clouds dew droplets
+precipitation : rain snow sleet hail
+cloud clouds : condensation water droplets
+hurricane : warm ocean water
+tornado tornadoes : funnel thunderstorm thunderstorms
+cold front : storms temperature drops
+humidity : hygrometer moisture
+@astro
+rotation : day night spin axis
+revolution : year orbit around
+tilt : seasons axis
+moon phases : position moon sun earth lighted
+solar eclipse : moon between sun earth
+lunar eclipse : earth between sun moon shadow
+tides : moon gravity pull
+gravity : moon less mass weigh weight
+!sun : center solar system star energy source

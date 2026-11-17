@@ -1,0 +1,50 @@
+# Authored broader -> narrower concept families. One parent per concept.
+# These are lexical science families, not a complete formal ontology.
+# Exact word senses remain limited by the two key slots in the base lexicon.
+organism | animal plant bacteria fungi protist
+animal | vertebrate invertebrate
+vertebrate | mammal bird reptile amphibian fish
+mammal | whale bat
+amphibian | frog
+invertebrate | insect arachnid crustacean mollusk worm echinoderm cnidarian
+insect | bee butterfly
+arachnid | spider
+plant | tree moss fern angiosperm gymnosperm
+protist | algae
+# Scientific instruments, including tools with measurement rather than instrument keys.
+instrument | ruler balance thermometer barometer anemometer hygrometer rain_gauge stopwatch microscope magnifier telescope compass voltmeter ammeter ohm_meter calorimeter hydrometer spectrometer cylinder beaker probe centrifuge
+machine | lever pulley incline wheel screw wedge
+# Materials and chemical classifications.
+matter | atom molecule element compound mixture solid liquid gas plasma
+element | metal nonmetal metalloid
+metal | iron calcium potassium
+nonmetal | oxygen hydrogen nitrogen carbon helium phosphorus sulfur
+metalloid | silicon
+compound | water salt co2 monoxide hydrocarbon hydroxide carbonate
+hydrocarbon | alkane
+mixture | solution suspension colloid
+solid | ice
+rock | igneous sedimentary metamorphic
+sedimentary | limestone
+mineral | quartz
+# Energy, forces, and waves.
+energy | kinetic potential chemical_energy mechanical heat nuclear
+force | gravity friction buoyancy centripetal
+ gravity | weight
+wave | sound electromagnetic longitudinal transverse
+electromagnetic | light radio ultraviolet xray
+# Anatomy: nucleus here refers to its biological sense, not the atomic nucleus.
+organ | heart lung kidney stomach liver pancreas brain skin eye ear tongue nose intestine ovary flower root leaf stem
+organelle | nucleus mitochondria ribosome chloroplast vacuole lysosome golgi reticulum centriole
+system | circulatory respiratory digestive excretory nervous endocrine integumentary immune lymphatic
+nutrient | carbohydrate protein fat vitamin
+carbohydrate | sugar
+sugar | glucose
+reproduction | sexual asexual
+# Resources and astronomical bodies.
+resource | renewable nonrenewable
+renewable | wind_energy solar_energy hydroelectric geothermal biofuel
+nonrenewable | fossil_fuel
+fossil_fuel | oil
+planet | mercury venus earth mars jupiter saturn uranus neptune
+star | sun dwarf

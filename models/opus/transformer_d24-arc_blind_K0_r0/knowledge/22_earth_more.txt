@@ -1,0 +1,108 @@
+# ---------------- more earth science ----------------
+landforms: landforms mountains valleys plains plateaus hills canyons islands peninsulas
+mountains: mountain mountains peaks high elevation ranges
+valleys: valley valleys low river between mountains
+plateau: plateau flat high elevated land
+plains: plains flat low land farming
+island: island islands surrounded water volcanic
+peninsula: peninsula water three sides florida
+caves: cave caves caverns stalactites stalagmites limestone dissolved groundwater acidic
+sinkholes: sinkhole sinkholes collapse limestone dissolved
+beaches: beach sand waves deposited shore
+sand dunes: sand dunes wind deposited desert beach
+oxbow lake: oxbow lake meander river bends
+meanders: meander meanders river curves bends
+floodplain: floodplain river floods deposits fertile soil
+waterfall: waterfall falls erosion hard rock
+glacier landforms: moraine cirque horn fjord glacial lake erratic boulders
+ocean floor: ocean floor continental shelf slope abyssal plain trench ridge seamount
+coral reef: coral reefs warm shallow ocean water animals
+estuary: estuary river meets ocean brackish
+groundwater pollution: groundwater wells pollution landfill leak chemicals
+watershed: watershed drainage basin river land drains
+reservoirs: reservoir dam stored water
+ice caps: ice caps polar glaciers fresh water frozen antarctica greenland
+water distribution: oceans salt water fresh water glaciers groundwater lakes rivers percent
+water properties: water universal solvent dissolves many substances
+surface tension: surface tension water droplets cohesion
+water expands freezing: water expands freezes ice less dense floats lakes freeze top
+water heat capacity: water heats slowly cools slowly specific heat
+ocean salinity: salt salty salinity ocean dissolved minerals
+ocean layers: ocean surface deep cold dark pressure
+ocean exploration: submarine sonar ocean floor map depth
+ocean tides daily: two high tides two low tides each day
+spring neap tides: spring tides neap tides sun moon aligned
+rip currents: rip current
+weather instruments list: weather instruments | thermometer barometer anemometer hygrometer rain gauge wind vane
+weather maps: weather map symbols isobars fronts high low
+weather satellites: satellite images clouds storms track hurricanes
+radar: doppler radar precipitation storms
+air temperature altitude: higher altitude colder air temperature decreases thinner
+air pressure altitude: higher altitude lower air pressure thinner air
+wind cause: wind caused uneven heating sun land water air pressure differences
+land water heating: land heats faster cools faster water slowly
+local winds: sea breeze land breeze mountain valley breeze
+storms energy: storms energy warm moist air rising
+lightning safety: lightning safety indoors avoid trees metal water
+tornado safety: tornado safety basement interior room
+hurricane formation: hurricanes form warm tropical ocean water evaporation lose strength over land
+hurricane damage: storm surge flooding winds hurricanes coast
+flood causes: floods heavy rain snow melting rivers overflow
+drought effects: drought crops die water shortage wildfires dry
+wildfire: wildfire forest fire lightning dry burn
+dust storm: dust storm wind drought dry soil
+climate zones: tropical temperate polar climate zones
+climate factors: latitude altitude ocean currents mountains climate
+rain shadow: rain shadow mountains dry side windward leeward
+seasons hemispheres: northern southern hemisphere opposite seasons
+summer sun angle: summer sun higher sky direct rays longer days
+winter sun angle: winter sun lower sky indirect rays shorter days
+climate change evidence: glaciers melting sea level rising temperatures increase
+carbon dioxide levels: carbon dioxide levels increase burning fossil fuels deforestation
+greenhouse gases: greenhouse gases carbon dioxide methane water vapor trap heat
+earth energy budget: sunlight absorbed reflected earth surface atmosphere
+albedo: ice snow reflect sunlight
+volcano effects: volcanic ash block sunlight cooler temperatures
+volcano types: shield cinder cone composite stratovolcano
+volcano parts: magma chamber vent crater lava flow
+hot spots: hot spot hawaii volcanic islands
+earthquake waves: p waves s waves primary secondary surface waves seismic
+earthquake damage: earthquakes damage buildings collapse
+earthquake prediction: predict earthquakes difficult faults
+fault types: normal reverse strike slip fault
+san andreas: san andreas fault california transform
+mountain types: folded fault block volcanic dome mountains
+rock layers folding: folded rock layers pressure plates
+uplift: uplift raised land rock layers
+earth interior heat: heat earth interior radioactive decay core
+earth magnetic field: magnetic field core iron liquid outer
+minerals uses: minerals uses quartz glass halite salt gypsum drywall graphite pencils
+gemstones: gemstones diamond ruby emerald sapphire
+ores: ore iron ore copper aluminum bauxite metals extracted
+salt mineral: halite salt cubic crystals
+quartz: quartz hard glassy common mineral sand
+mica: mica thin sheets flakes
+calcite: calcite fizzes acid limestone marble
+talc: talc softest mineral powder
+diamond: diamond hardest mineral carbon
+magnetite: magnetite magnetic mineral iron
+crystal growth: crystals grow cooling slowly larger quickly smaller
+rock identification: texture grain size layers crystals rock identify
+sediment size: sediment sizes | boulders cobbles pebbles gravel sand silt clay
+sediment sorting: sediments settle larger heavier first smaller later water
+soil layers: soil horizons topsoil subsoil bedrock layers
+soil texture: soil texture sand silt clay loam particles
+soil water: soil holds water clay sandy drains
+soil organisms: soil organisms earthworms bacteria fungi insects
+soil erosion farming: soil erosion farming plowing wind dust bowl
+dust bowl: dust bowl drought plowing wind erosion 1930s
+fossils types: body fossils trace fossils footprints burrows coprolites
+fossil fuels location: coal mines oil wells drilling natural gas pipelines
+oil formation: oil natural gas formed ocean organisms plankton buried
+peat: peat swamp plants coal
+amber: amber tree sap insects trapped preserved
+petrified wood: petrified wood minerals replaced
+ice core: ice cores climate past layers
+tree ring climate: tree rings climate wet dry years
+earth history evidence: rock layers fossils evidence earth history
+mass extinction: mass extinction asteroid volcanic dinosaurs

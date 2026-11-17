@@ -1,0 +1,127 @@
+# investigations: variables, controls, data
+In an experiment, the independent variable is the one factor the scientist changes on purpose.
+The dependent variable is what is measured or observed to see the effect of the change.
+Controlled variables are all the other factors that are kept the same so the test is fair.
+In a test of whether fertilizer affects plant growth, the amount of fertilizer is the independent variable, plant height is the dependent variable, and water, light, soil and plant type are kept the same.
+In a test of how temperature affects how fast sugar dissolves, water temperature is changed, dissolving time is measured, and the amount of water, the amount and type of sugar and stirring are kept the same.
+In a test of how ramp height affects how far a car rolls, the ramp height is changed, the distance is measured, and the car, the ramp surface and the release method are kept the same.
+In a test of how the length of a pendulum affects its swing time, the length is changed, the time is measured, and the mass of the bob and the starting angle are kept the same.
+A control group is the group left without the treatment; it is the standard used for comparison.
+A fair test changes only one variable at a time.
+If more than one variable is changed, the scientist cannot tell which one caused the result.
+Repeating an experiment several times, or using many test subjects, makes the results more reliable.
+Using a larger sample size, such as many plants instead of one, makes results more reliable.
+Taking the average of several trials reduces the effect of errors.
+Scientists repeat each other's experiments to check whether the results can be reproduced.
+A hypothesis is a testable prediction, often written as "If ... then ...".
+A theory is a well-tested explanation supported by much evidence.
+A scientific law describes what always happens under certain conditions.
+An observation is information gathered with the senses or instruments, such as the leaf is green or the water is 20 degrees.
+An inference is a conclusion or explanation based on observations, such as the ground is wet so it probably rained.
+Qualitative data describe qualities such as color or texture; quantitative data are numbers from measurements.
+A conclusion should be based on the data collected and say whether the hypothesis was supported.
+If the data do not support the hypothesis, the scientist should revise the hypothesis and test again, not change the data.
+Scientists must record data honestly, even when the results are unexpected.
+Scientists communicate their results by publishing reports, giving presentations and sharing data so others can review them.
+Peer review means other scientists check the work before it is published.
+Scientific knowledge can change when new evidence is found.
+Bias can be reduced by using random samples, blind tests and many trials.
+A data table organizes measurements so patterns can be seen.
+A line graph shows how something changes over time or as another variable changes.
+A bar graph compares amounts in different categories.
+A circle graph or pie chart shows parts of a whole as percentages.
+On a graph, the independent variable is usually on the x-axis and the dependent variable on the y-axis.
+A trend is a general pattern in data, such as plant height increasing each week.
+Extrapolation is predicting beyond the data; interpolation is estimating between data points.
+Models such as globes, maps, diagrams and computer simulations help scientists study things that are too large, too small, too slow, too fast or too dangerous to study directly.
+A model is simpler than the real thing and cannot show every detail.
+Computer models are used to predict weather, the paths of hurricanes and climate change.
+
+# tools and units
+A balance measures mass in grams.
+A spring scale measures force or weight in newtons.
+A thermometer measures temperature in degrees Celsius or Fahrenheit.
+A graduated cylinder measures the volume of a liquid in milliliters.
+A beaker holds and pours liquids but measures volume only roughly.
+A metric ruler or meter stick measures length in centimeters or meters.
+A stopwatch or timer measures time in seconds.
+A microscope makes tiny objects such as cells and bacteria look larger.
+A hand lens or magnifying glass makes small objects such as insects look larger.
+A telescope makes distant objects such as planets and stars look closer.
+Binoculars help observe birds and animals that are far away.
+A compass shows direction because its magnetized needle points north.
+A pH meter or litmus paper tests whether a liquid is an acid or a base.
+A seismograph measures earthquake waves.
+An anemometer measures wind speed.
+A barometer measures air pressure.
+A rain gauge measures rainfall.
+A hygrometer measures humidity.
+A light meter measures the brightness of light.
+A Petri dish is used to grow bacteria or mold.
+A test tube holds small amounts of a substance for heating or mixing.
+Forceps or tweezers pick up small objects.
+A dropper or pipette adds liquid one drop at a time.
+A hot plate or Bunsen burner heats substances in the lab.
+Length is measured in millimeters, centimeters, meters and kilometers.
+Mass is measured in milligrams, grams and kilograms.
+Liquid volume is measured in milliliters and liters.
+Temperature is measured in degrees Celsius in science.
+Force is measured in newtons.
+Energy and work are measured in joules.
+Electric current is measured in amperes, voltage in volts, and power in watts.
+Distances in space are measured in astronomical units and light-years.
+A light-year is the distance light travels in one year.
+One kilometer is 1,000 meters; one meter is 100 centimeters; one centimeter is 10 millimeters.
+One kilogram is 1,000 grams; one liter is 1,000 milliliters.
+Very small things such as cells are measured in micrometers.
+The distance between cities is measured in kilometers or miles.
+The length of a pencil is measured in centimeters.
+The mass of a paper clip is about one gram.
+Scientists use the metric system because it is based on powers of ten and is used by scientists everywhere.
+Reading the measurement at eye level and at the bottom of the curved surface, the meniscus, gives an accurate volume.
+Precision means repeated measurements are close together; accuracy means they are close to the true value.
+
+# lab safety
+Safety goggles protect the eyes from splashes, chemicals, broken glass and flying objects.
+Students should wear goggles when heating liquids, using chemicals or working with glass.
+Gloves protect the hands from chemicals, hot objects and bacteria.
+A lab apron protects clothing and skin from spills.
+Long hair should be tied back and loose clothing secured near flames.
+Never eat, drink or taste anything in a science laboratory.
+Food and drinks should never be brought into a lab because they can become contaminated.
+To smell a chemical safely, wave the fumes toward your nose with your hand instead of sniffing directly.
+Point the open end of a heated test tube away from yourself and others.
+Tell the teacher immediately about any spill, broken glass or injury.
+If a chemical gets in the eyes, rinse them at the eyewash station for several minutes.
+Wash hands with soap and water after working with chemicals, soil, plants, animals or bacteria.
+Broken glass should be swept up with a brush and dustpan, not picked up with bare hands.
+Chemicals should be disposed of as the teacher directs, not poured down the sink unless allowed.
+Read all directions and labels before beginning an experiment.
+Students should never mix chemicals unless the directions say to.
+Use heat-resistant gloves or tongs to handle hot objects.
+Know where the fire extinguisher, fire blanket and eyewash station are.
+Bacteria grown in a Petri dish should be kept closed and disposed of safely.
+When working outdoors, students should wear gloves, stay with a partner and avoid unknown plants and animals.
+Live animals in the classroom should be handled gently and treated humanely.
+Never look directly at the Sun, even with sunglasses or a telescope.
+
+# engineering and technology
+The engineering design process is to define the problem, research, brainstorm solutions, choose the best design, build a prototype, test it, and improve it.
+A prototype is an early model of a design that is built to be tested.
+Criteria are the things a design must do to succeed; constraints are limits such as cost, time, materials and size.
+Engineers test designs many times and make changes to improve them.
+A trade-off is giving up one feature to gain another, such as a lighter bicycle that costs more.
+Engineers choose materials based on their properties, such as strength, weight, cost and how well they conduct heat.
+Technology is the use of science and tools to solve problems and meet human needs.
+New technologies can have both benefits and unexpected harmful effects.
+Cars made travel faster but also increased air pollution.
+Vaccines and antibiotics are technologies that have improved human health and increased life expectancy.
+Refrigeration lets food be stored longer and shipped farther.
+Better shipping lets stores sell foods from all over the world all year.
+The printing press made books cheaper so knowledge spread.
+The telephone, radio, television and internet made communication faster over long distances.
+Satellites are used for communication, weather forecasting, navigation with GPS and studying Earth.
+Robots can do work that is dangerous, repetitive or in places people cannot go, such as space or the deep ocean.
+Computers help scientists collect, store and analyze large amounts of data.
+Hybrid and electric cars use less gasoline and produce less pollution.
+Recycling and reusing materials reduces waste and saves resources and energy.

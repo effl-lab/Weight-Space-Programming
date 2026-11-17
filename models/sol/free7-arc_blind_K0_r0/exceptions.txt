@@ -1,0 +1,6 @@
+# Named exception | inherited category | property request to omit
+# Inheritance must not turn a typical class property into a false universal.
+mercury | metal | physical properties
+carbon | nonmetal | electrical property
+seahorse | fish | locomotion adaptation
+moss | plant | obtains water minerals

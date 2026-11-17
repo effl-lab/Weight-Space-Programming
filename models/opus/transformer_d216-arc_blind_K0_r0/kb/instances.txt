@@ -1,0 +1,188 @@
+# animals class membership
+a dog is a mammal
+a cat is a mammal
+a horse is a mammal
+a cow is a mammal
+a pig is a mammal
+a rabbit is a mammal
+a mouse is a mammal
+a squirrel is a mammal
+a deer is a mammal
+a bear is a mammal
+a lion is a mammal
+a tiger is a mammal
+a wolf is a mammal
+a fox is a mammal
+a monkey is a mammal
+a giraffe is a mammal
+an elephant is a mammal
+a camel is a mammal
+a seal is a mammal
+a walrus is a mammal
+a human is a mammal
+# animals class birds
+a robin is a bird
+a sparrow is a bird
+a hawk is a bird
+an eagle is a bird
+an owl is a bird
+a duck is a bird
+a goose is a bird
+a chicken is a bird
+a parrot is a bird
+a hummingbird is a bird
+a woodpecker is a bird
+a pelican is a bird
+an ostrich is a bird
+# animals class reptiles amphibians fish
+a lizard is a reptile
+a snake is a reptile
+an alligator is a reptile
+a gecko is a reptile
+an iguana is a reptile
+a tortoise is a reptile
+a frog is an amphibian
+a toad is an amphibian
+a newt is an amphibian
+a trout is a fish
+a salmon is a fish
+a tuna is a fish
+a goldfish is a fish
+a shark is a fish
+a seahorse is a fish
+# animals class insects invertebrates
+an ant is an insect
+a bee is an insect
+a wasp is an insect
+a fly is an insect
+a mosquito is an insect
+a beetle is an insect
+a ladybug is an insect
+a butterfly is an insect
+a moth is an insect
+a grasshopper is an insect
+a cricket is an insect
+a dragonfly is an insect
+a termite is an insect
+a spider is an arachnid not an insect
+a scorpion is an arachnid
+a tick is an arachnid
+a crab is a crustacean
+a lobster is a crustacean
+a worm is an invertebrate
+a snail is a mollusk
+a squid is a mollusk
+an octopus is a mollusk
+a jellyfish is a cnidarian
+a coral is a cnidarian
+a sea star is an echinoderm
+a sponge is a simple invertebrate
+# plants instances
+an oak is a deciduous tree
+a maple is a deciduous tree
+a pine is a coniferous evergreen tree
+a spruce is a coniferous evergreen tree
+a fir is a coniferous evergreen tree
+a rose is a flowering plant
+a sunflower is a flowering plant
+a tulip grows from a bulb
+a fern is a seedless vascular plant
+a moss is a nonvascular plant
+a mushroom is a fungus not a plant
+a cactus is a desert plant
+a palm tree grows in tropical climates
+corn is a grass grown as a crop
+wheat is a grass grown for grain
+seaweed is an algae
+# rocks minerals instances
+granite is igneous
+basalt is igneous
+obsidian is igneous
+pumice is igneous
+sandstone is sedimentary
+limestone is sedimentary
+shale is sedimentary
+conglomerate is sedimentary
+coal is sedimentary
+marble is metamorphic
+slate is metamorphic
+quartzite is metamorphic
+gneiss is metamorphic
+schist is metamorphic
+quartz is a mineral
+feldspar is a mineral
+mica is a mineral
+calcite is a mineral
+talc is a mineral
+gypsum is a mineral
+halite is a mineral
+diamond is a mineral
+graphite is a mineral
+pyrite is a mineral
+# energy sources instances
+solar is renewable
+wind is renewable
+hydroelectric is renewable
+geothermal is renewable
+biomass is renewable
+tidal energy is renewable
+coal is nonrenewable
+oil is nonrenewable
+petroleum is nonrenewable
+natural gas is nonrenewable
+uranium is nonrenewable
+gasoline is nonrenewable
+propane is nonrenewable
+# organs systems instances
+the heart is in the circulatory system
+the lungs are in the respiratory system
+the stomach is in the digestive system
+the intestines are in the digestive system
+the liver is in the digestive system
+the brain is in the nervous system
+the spinal cord is in the nervous system
+the kidneys are in the excretory system
+the bladder is in the excretory system
+the bones are in the skeletal system
+the skin is in the integumentary system
+the glands are in the endocrine system
+# celestial instances
+the sun is a star
+polaris is a star
+sirius is a star
+the moon is a satellite
+mars is a planet
+jupiter is a gas giant planet
+pluto is a dwarf planet
+ceres is a dwarf planet in the asteroid belt
+halley is a comet
+the milky way is a galaxy
+andromeda is a galaxy
+orion is a constellation
+the big dipper is an asterism in ursa major
+# states of matter instances
+ice is solid water
+steam is water vapor gas
+milk is a liquid
+juice is a liquid
+honey is a thick liquid
+air is a mixture of gases
+helium is a gas
+a rock is a solid
+wood is a solid
+lava is liquid rock
+# changes instances
+burning is chemical
+rusting is chemical
+cooking is chemical
+rotting is chemical
+digesting is chemical
+melting is physical
+freezing is physical
+boiling is physical
+evaporating is physical
+condensing is physical
+dissolving is physical
+cutting is physical
+tearing is physical
+crushing is physical

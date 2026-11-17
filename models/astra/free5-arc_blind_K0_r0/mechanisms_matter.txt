@@ -1,0 +1,210 @@
+# Particle-scale explanations and scientific distinctions.
+# Physical versus chemical change
+physical_change substance | identity unchanged; no new substance
+chemical_change substance | atoms rearrange; new substances form
+chemical_reaction atoms | conserved; rearranged into different combinations
+chemical_reaction molecules | bonds break form; molecular identity changes
+chemical_reaction mass closed system | total reactant mass equals total product mass
+chemical_reaction open system mass decrease | gas escaped; matter not destroyed
+chemical_reaction open system mass increase | gas absorbed from surroundings
+burn steel_wool mass | oxygen combines iron; mass increases
+burn paper ash lighter | gas products escape air
+burn candle closed container mass | total mass remains same
+vinegar baking_soda sealed bag | gas forms; bag expands; total mass conserved
+vinegar baking_soda open beaker mass | carbon_dioxide escapes; measured mass decreases
+rust iron mass | oxygen added; mass increases
+rust iron conditions | oxygen water; oxidation
+rust iron prevent | paint oil coating; exclude water oxygen
+rust iron wool | chemical_change; iron oxide forms
+cut paper | physical_change; same material
+tear cloth | physical_change; size shape changes
+crush chalk | physical_change; smaller pieces
+stretch rubber | physical_change; shape changes
+bend wire | physical_change; same composition
+melt wax | physical_change; reversible state change
+burn wax | chemical_change; carbon_dioxide water form
+candle burning melting | both chemical and physical changes
+cook egg | protein structure changes; chemical_change
+bake cake | chemical reactions; new substances
+toast bread | chemical_change; browning
+fruit ripens | chemical_change; sugars pigments change
+fruit rots | decomposition; chemical_change
+milk sours | chemical_change; acid produced
+silver tarnishes | chemical_change; new compound
+firework explosion | chemical_change; energy light sound gas
+salt dissolved water | physical_change; ions disperse; recover salt by evaporation
+sugar dissolved water | molecules dispersed; physical_change
+sugar heated brown | chemical_change; caramelization
+ice melted | same water molecules; physical_change
+water boiled | molecules separate; water remains water
+water electrolyzed | chemical_change; hydrogen oxygen gases
+liquid cooling solid | particles become more ordered; less motion
+solid heated melting | particle attractions partly overcome
+phase_change identity | molecules unchanged; spacing motion changes
+state solid shape | definite shape and volume
+state liquid shape | container shape; definite volume
+state gas shape | fills available space; no definite volume
+solid particles | close together; vibrate about fixed positions
+liquid particles | close together; move past one another
+gas particles | far apart; rapid random motion
+gas pressure cause | particle collisions with walls
+gas compressed | space between particles decreases | particles themselves shrink
+solid difficult compress | particles tightly packed
+gas expands container | particles spread through available space
+perfume spreads room | diffusion; random particle motion
+food_coloring water spreads | diffusion; particles move
+hot water dye spreads faster | faster molecular motion
+brownian_motion | random collisions with surrounding molecules
+particle motion absolute_zero | minimal thermal motion
+heat transfer molecular collision | energy passes from faster to slower particles
+melting ice molecular composition | remains h2o
+water expansion freezing | open crystal structure; lower density
+ice floats water | solid less dense than liquid
+lake freezes surface | ice insulation protects liquid below
+water anomalous density | greatest density near four degrees celsius
+# Mixtures, solutions and material properties
+pure_substance | fixed chemical composition; element or compound
+mixture composition | variable proportions; physically combined
+compound composition | definite ratio elements; chemically bonded
+compound properties elements | different properties from constituent elements
+sodium chlorine salt | reactive elements form stable compound
+water hydrogen oxygen | compound different from gases
+mixture separate | physical properties; no chemical change required
+compound separate elements | chemical reaction required
+homogeneous_mixture | uniform composition throughout; solution
+heterogeneous_mixture | distinct regions components
+saltwater homogeneous | dissolved salt evenly dispersed
+salad heterogeneous | components visibly different
+air mixture | gases physically mixed; variable composition
+milk colloid | dispersed droplets; mixture
+muddy_water suspension | particles settle; filtration possible
+solution particles | do not settle under ordinary conditions
+solution clear colored | can be transparent with dissolved colored substances
+solute | dissolved substance
+solvent | dissolving medium
+water salt solution solvent | water
+water salt solution solute | salt
+saturation | maximum solute dissolved at given temperature
+saturated solution extra solute | undissolved solid remains
+solution dilute | less solute per volume
+solution concentrated | more solute per volume
+add water solution | concentration decreases; solute amount unchanged
+evaporate water solution | concentration increases; solute remains
+stirring dissolve sugar | speeds dissolving; moves fresh solvent to surface
+crushed sugar dissolves faster | greater exposed surface area
+warm water sugar dissolves faster | faster molecular motion
+solubility rate distinction | amount dissolvable versus speed of dissolving
+stir saturated solution | does not increase equilibrium solubility
+most solid solutes warmer water | solubility generally increases
+gas solubility warm water | decreases; gas escapes
+soda bottle opened | pressure decreases; carbon_dioxide escapes
+warm soda fizz | lower gas solubility
+fish warm pond oxygen | less dissolved_oxygen; stress
+salt water boiling_point | higher than pure water
+salt water freezing_point | lower than pure water
+salt ice roads | lowers freezing_point; promotes melting
+antifreeze engine | lowers freezing_point; raises boiling_point
+oil water separation | immiscible; different densities
+water oil float | oil less dense than water
+emulsion oil water detergent | detergent helps disperse oil droplets
+soap grease cleaning | hydrophilic hydrophobic regions; emulsifies grease
+filter sand water | pore size retains insoluble particles
+filter saltwater | dissolved ions pass through | ordinary filter removes dissolved salt
+evaporate saltwater | salt crystals remain; water vapor leaves
+distill saltwater | evaporate then condense; recover fresh water
+separate alcohol water | distillation; different boiling_points
+separate colored ink | chromatography; different attraction movement
+separate iron sand | magnet attracts iron
+separate sand gravel | sieve; particle_size difference
+separate oil water | settle decant; different densities
+centrifuge blood | density differences; accelerated settling
+crystallization dissolved solid | evaporation cooling; crystals form
+material choose window | transparent; lets light pass
+material choose raincoat | waterproof; flexible
+material choose towel | absorbent
+material choose pan | thermal conductor; high melting_point
+material choose handle | thermal insulator
+material choose electric_wire | electrical conductor; ductile
+material choose wire covering | electrical insulator; flexible
+material choose bridge | strength; durability
+material choose insulation | low thermal_conductivity
+material identify magnetism | iron nickel cobalt; ferromagnetic
+material identify hardness | resistance scratching
+material identify density | mass per volume; independent sample size
+same substance different sizes density | same at same conditions
+hollow object float | low average density including air
+solid metal boat | displaced water buoyancy; shape changes average density
+object neutral_buoyancy | same density as surrounding fluid
+object sinks saltwater | density greater than saltwater
+object floats saltwater not freshwater | density between freshwater saltwater
+hot_air gas density | expands; lower density
+# Atomic structure, reactions and periodicity
+atom mostly | empty space
+atom nucleus | protons neutrons; nearly all mass
+atom electron region | negative electrons; most atomic volume
+atomic_number | number protons; identifies element
+mass_number | protons plus neutrons
+neutron number | mass_number minus atomic_number
+neutral atom | equal proton electron numbers
+positive ion | fewer electrons than protons; electron loss
+negative ion | more electrons than protons; electron gain
+atom loses electron | becomes positively charged
+atom gains electron | becomes negatively charged
+atom changes proton number | different element
+atom changes neutron number | isotope same element
+atom changes electron number | ion same element
+isotope | same proton number different neutron number
+isotope chemical properties | similar electron structure; similar chemical behavior
+radioactive isotope | unstable nucleus; emits radiation
+chemical bond electrons | valence electrons involved
+covalent_bond | shared electron pair
+ionic_bond | attraction between oppositely charged ions
+metallic_bond | mobile electrons among positive metal ions
+metal conducts electricity | mobile electrons carry charge
+salt_solution conducts | dissolved ions move carry charge
+solid_salt conduct electricity | ions fixed lattice; poor conductor
+water pure conduct | poor conductivity compared saltwater
+valence_electron | outermost electron shell
+periodic_table organized | increasing atomic_number
+periodic_table group | similar valence electrons; similar chemical properties
+periodic_table period | horizontal row; increasing atomic_number
+periodic_table metals | left and center
+periodic_table nonmetals | mainly upper right
+periodic_table metalloids | near staircase boundary
+noble_gas | filled outer electron shell; low reactivity
+alkali_metal | one valence electron; reactive metal
+halogen | reactive nonmetal; needs one electron filled shell
+metal property | conductive; lustrous; malleable; ductile
+nonmetal property | usually poor conductor; brittle when solid
+metalloid property | intermediate properties; semiconductor
+molecule element | same type atoms bonded; oxygen gas
+molecule compound | different element atoms bonded; water
+oxygen gas molecule | two oxygen atoms; double covalent_bond
+carbon_dioxide molecule | one carbon two oxygen atoms
+water molecule | two hydrogen one oxygen atom
+balanced chemical equation | same number each element atoms both sides
+reaction reactant | starting substance
+reaction product | newly formed substance
+reaction energy exothermic | releases thermal_energy; surroundings warm
+reaction energy endothermic | absorbs thermal_energy; surroundings cool
+reaction catalyst | lowers activation_energy; speeds reaction; not consumed overall
+reaction higher temperature | more frequent energetic collisions; faster reaction
+reaction crushed solid | increased surface area; faster reaction
+reaction higher concentration | more particle collisions; faster reaction
+reaction closed_system | matter cannot enter leave
+combustion needs | fuel oxygen ignition temperature
+fire_triangle | fuel heat oxygen
+fire blanket | excludes oxygen; stops combustion
+water fire cooling | reduces fuel temperature
+fire chemical stored energy | released as heat light
+acid property | sour; hydrogen ions; ph below seven
+base property | bitter slippery; ph above seven
+neutral ph | seven for pure water near room temperature
+acid blue_litmus | turns red
+base red_litmus | turns blue
+acid base reaction | neutralization; salt water
+acid metal reaction | hydrogen gas may form
+acid carbonate reaction | carbon_dioxide gas forms
+ph lower | greater acidity
+ph higher | greater basicity
+buffer | resists ph change

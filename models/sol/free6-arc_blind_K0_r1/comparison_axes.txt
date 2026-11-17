@@ -1,0 +1,97 @@
+# Domain | physical axis | settings increasing outcome | settings decreasing outcome
+# Only a strict Pareto winner over fully stated common axes receives evidence.
+evaporation | temperature | hot,warm,high temperature,higher temperature | cold,cool,low temperature,lower temperature
+evaporation | humidity | dry air,low humidity,lower humidity | humid air,high humidity,higher humidity
+evaporation | wind | windy,moving air,blowing fan,strong wind | still air,calm air,closed room
+evaporation | surface | large surface,larger surface,wide shallow,wide container | small surface,smaller surface,narrow deep,narrow container
+solute_rate | temperature | hot,warm,high temperature,higher temperature | cold,cool,low temperature,lower temperature
+solute_rate | stirring | stirring,stirred,shaken,agitated | unstirred,stationary,undisturbed
+solute_rate | surface | crushed,powdered,small grains,small pieces | large chunks,large crystals,whole cube,large pieces
+reaction_rate | temperature | hot,warm,high temperature,higher temperature | cold,cool,low temperature,lower temperature
+reaction_rate | concentration | high concentration,higher concentration,concentrated | low concentration,lower concentration,dilute
+reaction_rate | surface | powdered,crushed,small particles,large surface | large pieces,large particles,whole piece,small surface
+reaction_rate | catalyst | catalyst added,catalyst present | catalyst absent
+weathering_rate | cracks | cracked,fractured,many cracks | uncracked,few cracks
+weathering_rate | freezing | repeated freezing,freeze thaw,freezing thawing | constant temperature
+weathering_rate | surface | powdered,small fragments,large surface | large blocks,small surface
+erosion | slope | steep slope,steeper slope,steep hillside | gentle slope,flat land,level ground
+erosion | vegetation | bare soil,bare ground,cleared land,removed vegetation | grass cover,forest cover,covered vegetation,planted trees
+erosion | water | heavy rain,heavy rainfall,fast water,strong current | light rain,light rainfall,slow water,weak current
+erosion | wind | strong wind,windy,high wind | light wind,calm,low wind
+runoff | slope | steep slope,steep hill | flat ground,gentle slope
+runoff | cover | pavement,asphalt,concrete,bare ground | forest,grass,vegetation,trees
+runoff | saturation | saturated soil,wet soil | dry soil,unsaturated soil
+runoff | pores | clay,small pores,compacted soil | sand,gravel,large pores,loose soil
+infiltration | pores | sand,gravel,large pores,loose soil | clay,small pores,compacted soil
+infiltration | saturation | dry soil,unsaturated soil | saturated soil,wet soil
+infiltration | cover | forest,grass,vegetation | pavement,asphalt,concrete
+water_retention | particles | clay,fine particles,small particles | sand,gravel,coarse particles,large particles
+friction | roughness | rough surface,rougher surface,sandpaper,carpet | smooth surface,smoother surface,ice,polished surface
+friction | lubrication | dry surface,unlubricated | oiled surface,lubricated,greased
+friction | load | heavier,greater mass,more weight | lighter,less mass,less weight
+heat_absorption | color | black,dark,dull | white,light colored,shiny,silver
+heat_loss | surface | large surface,large area,thin layers | small surface,small area,thick layer
+heat_loss | insulation | bare,uncovered,thin insulation | insulated,covered,thick insulation
+heat_loss | surroundings | cold surroundings,cold room,cold air | warm surroundings,warm room,warm air
+thermal_conduction | material | copper,aluminum,steel,iron,metal | wood,plastic,rubber,foam,air
+thermal_conduction | thickness | thin wall,thinner wall,thin layer | thick wall,thicker wall,thick layer
+thermal_conduction | difference | large temperature difference,greater temperature difference | small temperature difference,smaller temperature difference
+thermal_conduction | area | large contact area,larger contact area | small contact area,smaller contact area
+convection | difference | large temperature difference,hot bottom | small temperature difference,hot top
+thermal_expansion | change | large temperature change,greater heating | small temperature change,less heating
+transpiration | temperature | hot,warm,high temperature | cold,cool,low temperature
+transpiration | humidity | dry,low humidity | humid,high humidity
+transpiration | wind | windy,moving air,strong wind | still air,calm
+transpiration | leaf | large leaves,large leaf area,many stomata | small leaves,small leaf area,few stomata
+photosynthesis | light | bright light,strong light,sunlight | dim light,shade,darkness
+photosynthesis | carbon | high carbon dioxide,more carbon dioxide | low carbon dioxide,less carbon dioxide
+photosynthesis | water | watered,moist soil,sufficient water | drought,dry soil,insufficient water
+bacterial_growth | temperature | warm,room temperature | cold,refrigerated,frozen
+bacterial_growth | water | moist,wet | dry,dried
+bacterial_growth | nutrients | nutrient rich,food present | nutrient poor,food absent
+food_preservation | temperature | warm,room temperature | cold,refrigerated,frozen
+food_preservation | water | moist,wet | dry,dried
+surface_exchange | area | large surface,larger surface,folded,branched | small surface,smaller surface,unfolded
+surface_exchange | thickness | thin wall,thin membrane,short distance | thick wall,thick membrane,long distance
+surface_exchange | gradient | large concentration difference,steep gradient | small concentration difference,shallow gradient
+fluid_pressure | depth | deep,deeper,greater depth | shallow,shallower,less depth
+fluid_pressure | density | dense liquid,salt water,high density | fresh water,low density
+atmospheric_pressure | altitude | sea level,low altitude,valley | mountaintop,high altitude,mountain summit
+solid_pressure | force | heavy,heavier,greater weight,large force | light,lighter,less weight,small force
+solid_pressure | area | small area,narrow base,sharp point | large area,wide base,blunt point
+acceleration | force | large force,greater force,strong force | small force,less force,weak force
+acceleration | mass | small mass,less mass,lighter | large mass,greater mass,heavier
+kinetic | mass | large mass,greater mass,heavy,heavier | small mass,less mass,light,lighter
+kinetic | speed | high speed,faster,fast,greater speed | low speed,slower,slow,less speed
+potential | mass | large mass,greater mass,heavy,heavier | small mass,less mass,light,lighter
+potential | height | high shelf,greater height,high position,highest shelf | low shelf,less height,low position,lowest shelf
+momentum | mass | large mass,greater mass,heavy,heavier | small mass,less mass,light,lighter
+momentum | speed | high speed,faster,fast | low speed,slower,slow
+work | force | large force,greater force | small force,less force
+work | distance | long distance,greater distance | short distance,less distance
+power | work | more work,greater work,more energy | less work,less energy
+power | time | short time,less time,quickly | long time,more time,slowly
+wave_pitch | tension | tight string,tighter string,high tension | loose string,looser string,low tension
+wave_pitch | length | short string,short air column,short tube | long string,long air column,long tube
+wave_pitch | thickness | thin string,thinner string | thick string,thicker string
+wave_loudness | amplitude | large amplitude,large vibrations,strong vibrations | small amplitude,small vibrations,weak vibrations
+wave_loudness | distance | nearby,close source,short distance | far away,distant source,long distance
+wire_resistance | length | long wire,longer wire,long,longer | short wire,shorter wire,short,shorter
+wire_resistance | thickness | thin wire,thinner wire,small diameter,thin,thinner | thick wire,thicker wire,large diameter,thick,thicker
+wire_resistance | temperature | hot wire,high temperature | cold wire,low temperature
+circuit_current | voltage | high voltage,higher voltage,more voltage | low voltage,lower voltage,less voltage
+circuit_current | resistance | low resistance,lower resistance,less resistance | high resistance,higher resistance,more resistance
+magnetic_strength | turns | more coils,more turns,many turns | fewer coils,fewer turns,few turns
+magnetic_strength | current | high current,more current,strong current | low current,less current,weak current
+magnetic_strength | core | iron core,steel core | air core,wood core,plastic core
+spring_energy | stretch | stretched farther,greater stretch,more compression | stretched less,smaller stretch,less compression
+shadow_length | elevation | low sun,low angle,morning,evening | high sun,high angle,noon,midday
+insulation | material | foam,wool,fiberglass,air,wood,cork | metal,copper,aluminum,iron,steel
+insulation | thickness | thick layer,thicker layer,thick wall | thin layer,thinner layer,thin wall
+settling | size | large particles,larger particles,coarse grains | small particles,smaller particles,fine grains
+settling | density | high density,dense particles | low density,less dense
+buoyancy | displaced | large volume,greater volume | small volume,less volume
+buoyancy | density | salt water,dense liquid,high density | fresh water,less dense,low density
+solubility_solid | temperature | hot,warm,high temperature | cold,cool,low temperature
+gas_solubility | temperature | cold,cool,low temperature | hot,warm,high temperature
+gas_solubility | pressure | high pressure,higher pressure | low pressure,lower pressure

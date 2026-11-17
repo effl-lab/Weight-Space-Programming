@@ -1,0 +1,60 @@
+@waves
+wave waves : energy transfer medium disturbance
+transverse : perpendicular crest crests trough troughs
+longitudinal compressional : parallel compression compressions rarefaction
+wavelength : distance crest crests
+frequency : hertz vibrations per second pitch
+amplitude : height loudness intensity
+sound : vibrations vibrating vibrate medium decibels
+solids : fastest faster sound
+vacuum : cannot travel space
+pitch : high low frequency
+loud louder loudness : amplitude decibels
+echo echoes : reflected bounces bounce
+light : fastest travels straight
+reflection reflect reflects reflected : bounce bounces mirror mirrors shiny
+refraction refract refracts refracted : bends bending bent lens lenses prism
+prism prisms : rainbow spectrum colors separates white
+rainbow rainbows : droplets raindrops
+absorption absorb absorbs absorbed : dark black
+transparent : clear glass through
+translucent : frosted wax partly
+opaque : blocks blocked shadow
+shadow shadows : opaque blocks
+lens lenses : magnifying convex concave focus
+see vision : enters eye reflected
+electromagnetic spectrum : radio microwaves infrared visible ultraviolet x-rays gamma
+ultraviolet uv : sunburn skin damage
+infrared : heat warmth
+x-rays x-ray : bones images
+microwaves microwave : cooking
+radio : communication signals
+@waves2
+medium : solid liquid gas travel through
+mechanical waves : need medium sound water
+electromagnetic waves : no medium vacuum space light
+speed of light : fastest =300,000
+crest : highest point
+trough : lowest point
+vibration vibrations : back forth
+pitch frequency : higher faster shorter
+loudness : amplitude energy
+ultrasound : high frequency medical images
+sonar : sound water depth
+doppler : pitch changes moving
+visible light : colors red orange yellow green blue violet
+white light : all colors mixed
+black : absorbs all colors
+red apple : reflects red
+color : wavelength
+mirror mirrors : reflection plane image
+concave : curves inward
+convex : curves outward magnify
+periscope : mirrors
+magnifying glass : convex lens enlarges
+glasses eyeglasses : lenses correct vision
+camera : lens image
+laser lasers : focused light
+fiber optics : light signals
+light energy : photons
+seismic waves : earthquakes

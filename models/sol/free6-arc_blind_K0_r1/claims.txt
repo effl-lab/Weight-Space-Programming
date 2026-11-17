@@ -1,0 +1,280 @@
+# Subject requirements | relation/context requirements (question or option) | supported option assertion | incompatible option assertion | confidence
+# Each semicolon is AND; comma separates alternatives. Context groups prefixed ! are forbidden.
+# All alternatives in a context group must have the same prefix. These are scientific propositions, not questions.
+bacterium,prokaryote,prokaryotic | | no nucleus | nucleus | 4
+bacterium,prokaryote,prokaryotic | | no membrane organelles | mitochondria,chloroplast | 3
+bacterium,prokaryote,prokaryotic | genetic material,DNA | cytoplasm,nucleoid | nucleus | 4
+bacterium | reproduction,reproduces | binary fission,asexual reproduction | meiosis | 4
+bacterium | cell wall,wall | peptidoglycan | cellulose,chitin | 4
+fungus | cell wall,wall | chitin | cellulose,peptidoglycan | 4
+plant | cell wall,wall | cellulose | chitin,peptidoglycan | 4
+animal | cell | no cell wall | cell wall | 3
+animal | cell | no chloroplast | chloroplast | 3
+plant;leaf,green | cell,photosynthesis | chloroplast | no chloroplast | 3
+fungus | nutrition,food,energy,consumer,producer,photosynthesis | consumer,absorbs nutrients,heterotroph | photosynthesis,producer | 3
+fungus | | no chlorophyll | chlorophyll | 3
+virus | reproduction,multiply | host cell,living cell | independently | 4
+virus | treatment,medicine | antiviral | antibiotic | 3
+virus | prevention,prevents,immunization | vaccine,immune memory | antibiotic | 3
+bacterial infection | treatment | antibiotic | antiviral | 3
+cell membrane | function,role,controls | entering leaving,selectively permeable,exchange | stores genetic information | 4
+cell wall | function,role | support,protection,shape | protein synthesis | 4
+ribosome | function,makes,produces,synthesis | protein | lipid,glucose | 4
+mitochondria | function,process,respiration,ATP,photosynthesis | respiration,ATP,energy release | photosynthesis | 4
+chloroplast | function,process,photosynthesis,sugar,digestion | photosynthesis,sugar,light energy | digestion | 4
+nucleus | function,contains,controls | DNA,genetic information,cell activities | digestion | 4
+vacuole | function,stores | water,waste,storage,turgor | protein synthesis | 4
+lysosome | function,contains | enzymes,digestion,breakdown | photosynthesis | 4
+Golgi apparatus | function,packages,modifies,transport | packages,modifies,transport,proteins | photosynthesis | 4
+rough ER | function,associated,ribosome,protein,photosynthesis | ribosome,protein | photosynthesis | 4
+smooth ER | function,produces,lipid,detoxification,photosynthesis | lipid,detoxification | photosynthesis | 4
+chlorophyll | function,absorbs | light energy,sunlight | minerals | 4
+photosynthesis | reactants,requires,needs | carbon dioxide,water,light | oxygen only | 4
+photosynthesis | products,produces,releases | glucose,oxygen,sugar | nitrogen gas | 4
+respiration | reactants,requires | glucose,oxygen | sunlight | 3
+respiration | products,releases,produces | ATP,carbon dioxide,water | glucose,oxygen | 3
+fermentation | | no oxygen required | oxygen required | 4
+fermentation;yeast | products,produces | alcohol,ethanol,carbon dioxide | oxygen | 4
+photosynthesis | energy conversion | light to chemical | chemical to light | 4
+respiration | energy conversion | chemical energy,ATP | light to chemical | 3
+active transport | | energy required,ATP | no energy required | 4
+diffusion | | no energy required | energy required | 4
+osmosis | substance,particles,movement | water | starch,protein | 4
+osmosis | | selectively permeable,cell membrane | cell wall only | 3
+diffusion | direction,gradient | high concentration to low concentration | low concentration to high concentration | 4
+active transport | direction,gradient | low concentration to high concentration | high concentration to low concentration | 4
+mitosis | daughter cells,produces | identical,two,same chromosomes | half chromosomes,four different | 4
+meiosis | daughter cells,gametes,produces | half chromosomes,four,different | identical,two identical | 4
+asexual reproduction | parents,offspring | one parent,identical,clone | two parents | 4
+sexual reproduction | parents,offspring | two parents,genetic variation | identical clone | 4
+fertilization | chromosomes,gametes | combines,sperm egg,diploid | halves chromosomes | 3
+DNA | building blocks,subunits,monomers | nucleotide | amino acid,fatty acid | 4
+protein | building blocks,subunits,monomers | amino acid | nucleotide,glucose | 4
+starch | building blocks,subunits,monomers | glucose,sugar | amino acid,nucleotide | 4
+lipid | building blocks,components | fatty acid,glycerol | nucleotide | 3
+DNA | bases,base | adenine,thymine,guanine,cytosine | uracil | 3
+RNA | bases,base | uracil,adenine,guanine,cytosine | thymine | 3
+gene | | DNA,heredity,trait,protein | learned behavior | 3
+mutation | | DNA change,genetic variation | deliberate change | 3
+natural selection | mechanism,cause | inherited variation,survival,reproduction | need causes mutation,individual decides | 4
+adaptation | inherited,passed | genes,DNA,reproduction | learned skill | 3
+scar,learned skill | inherited,heredity | acquired trait,not inherited | inherited trait | 4
+homozygous | alleles | same,identical | different | 4
+heterozygous | alleles | different | same,identical | 4
+dominant allele | expressed,expression | heterozygous,one copy | two copies required | 3
+recessive allele | expressed,expression | homozygous,two copies | one copy sufficient | 3
+gamete | chromosomes | haploid,half | diploid,double | 4
+body cell,somatic cell | chromosomes | diploid | haploid | 3
+mammal | characteristic,covering,reproduction,milk,hair,fur,feathers | milk,hair,fur | feathers | 3
+bird | characteristic,covering,feathers,hair,fur | feathers | hair,fur | 4
+fish | respiration,breathe,oxygen,gills | gills | | 3
+whale,dolphin,porpoise | respiration,breathe,oxygen,gills,lungs | lungs,air | gills | 4
+mammal,bird | temperature,warm blooded,cold blooded | warm blooded,endotherm | cold blooded,ectotherm | 3
+reptile,amphibian,fish | temperature,warm blooded,cold blooded | cold blooded,ectotherm | warm blooded,endotherm | 3
+insect | legs | six,6 | eight,8 | 4
+arachnid,spider,scorpion | legs | eight,8 | six,6 | 4
+vertebrate | | backbone | no backbone | 4
+invertebrate | | no backbone | backbone | 4
+amphibian | life cycle,metamorphosis | tadpole,water to land | egg pupa adult | 3
+butterfly,beetle,fly,moth | metamorphosis,life cycle | pupa,larva | nymph | 4
+grasshopper,dragonfly,cockroach | metamorphosis,life cycle | nymph | pupa | 4
+endotherm,warm blooded | body temperature | constant,internally regulated | follows environment | 3
+ectotherm,cold blooded | body temperature | environment,external heat | internally constant | 3
+stomata | function,exchange | gas exchange,transpiration,water vapor | absorbs minerals | 3
+xylem | transports,transport,moves | water,minerals | sugar,glucose | 4
+phloem | transports,transport,moves | sugar,food,glucose | water only | 4
+root | function,absorbs,uptake | water,minerals,anchorage | light energy | 3
+flower | function,role | reproduction,pollination,seeds | water absorption | 3
+pollen | contains,carries | male gamete,male genetic information | egg only | 3
+ovule | develops | seed | fruit | 4
+ovary;flower,plant | develops | fruit | pollen | 4
+seed | germination,needs | water,oxygen,suitable temperature | light always,soil required | 3
+producer | nutrition,food,role | photosynthesis,makes food | eats animals | 3
+herbivore | nutrition,diet,eats,food | plant | animal only | 3
+carnivore | nutrition,diet,eats,food | animal | plant only | 3
+omnivore | nutrition,diet,eats,food | plants and animals | plants only,animals only | 3
+decomposer | role,process | nutrient recycling,dead matter,breakdown | creates energy | 4
+energy pyramid | higher,top,trophic | less energy,energy decreases | more energy,energy increases | 4
+food web,food chain | arrows,direction | energy flow,food to consumer | consumer to food | 4
+food web,food chain | original source,initial source | sun | soil,water | 4
+matter;ecosystem | | recycled,cycles,conserved | destroyed,one way | 3
+energy;ecosystem | | flows,heat,one way | recycled,created | 3
+mutualism | organisms,relationship | both benefit | both harmed | 4
+commensalism | organisms,relationship | one benefits,other unaffected | both harmed | 3
+parasitism | organisms,relationship | host harmed,parasite benefits | both benefit | 4
+competition | resources,organisms | limited,same resource | unlimited | 3
+population | definition,group | same species | different species | 4
+community | definition,group | different species,populations | nonliving factors | 3
+ecosystem | includes,components | biotic and abiotic,living nonliving | only animals | 3
+habitat | definition | place lives,environment | role only | 3
+niche | definition | role,resources,interactions | address only | 3
+biodiversity | greater,more,increases | stability,resilience | less stable | 3
+carrying capacity | definition,means | maximum sustainable population,limited resources | unlimited growth | 4
+artery | direction,transports,blood | away heart | toward heart | 4
+vein | direction,transports,blood | toward heart | away heart | 4
+capillary | function,blood | exchange,thin walls,diffusion | pumps | 3
+red blood cell | function,blood | oxygen,hemoglobin | clotting,antibodies | 4
+white blood cell | function,blood | infection,immunity,pathogens | oxygen transport,clotting | 4
+platelet | function,blood | clotting,bleeding | oxygen transport | 4
+heart | function | pumps blood | filters urine | 4
+lung,alveoli | function | gas exchange,oxygen,carbon dioxide | food digestion | 3
+kidney | function | filters blood,urea,urine,waste | digestion | 4
+liver | function | bile,detoxification,glycogen | urine production | 3
+small intestine | function | nutrient absorption,digestion,villi | pumps blood | 4
+large intestine | function | water absorption | protein synthesis | 4
+stomach | function | digestion,acid,protein | gas exchange | 3
+nervous system | signals,messages | electrical impulses,nerve | hormones only | 4
+endocrine system | signals,messages | hormones,chemical messengers,blood | electrical impulses only | 4
+circulatory system | function | transports blood,oxygen,nutrients | digestion | 3
+skeletal system | function | support,protection,blood cells | hormones only | 3
+muscular system | function | movement,contraction | filters blood | 3
+skin | function | protection,temperature,sweat | digestion | 3
+vaccine | mechanism,function | immune memory,antibodies,prevention | treats all infections | 3
+antibiotic | target,effective | bacterium | virus | 4
+solid | shape | fixed shape | variable shape | 4
+solid | volume | fixed volume | variable volume | 4
+liquid | shape | variable shape,container shape | fixed shape | 4
+liquid | volume | fixed volume | variable volume | 4
+gas | shape | variable shape,container shape | fixed shape | 4
+gas | volume | variable volume,fills container | fixed volume | 4
+solid | particles | vibrate,fixed positions,close | freely far apart | 3
+liquid | particles | close,slide past | fixed positions | 3
+gas | particles | far apart,random motion | fixed positions | 3
+physical change | composition,substance | no new substance,same substance | new substance | 4
+chemical change | composition,substance | new substance | no new substance | 4
+element | composition,atoms | one type atom | different elements bonded | 4
+compound | composition,atoms | chemically bonded,fixed ratio | physically mixed | 4
+mixture | composition,separate | physical separation,variable proportions | fixed chemical ratio | 3
+homogeneous mixture | composition,appearance | uniform,solution | visible layers | 3
+heterogeneous mixture | composition,appearance | nonuniform,different parts | uniform throughout | 3
+solution | particles | dissolved,uniform,small | settle,filter paper | 3
+solute | solution,dissolving | dissolved substance | dissolving medium | 4
+solvent | solution,dissolving | dissolving medium | dissolved substance | 4
+acid | pH | below seven,less than seven | above seven | 4
+base | pH | above seven,greater than seven | below seven | 4
+neutral solution | pH | seven,7 | one,14 | 4
+acid | litmus | blue to red | red to blue | 4
+base | litmus | red to blue | blue to red | 4
+acid;base | reaction,neutralization | salt and water | oxygen only | 4
+proton | charge | positive charge,positive | negative,neutral,neutral charge | 4
+electron | charge | negative charge,negative | positive,neutral,neutral charge | 4
+neutron | charge | neutral,no charge | positive,negative | 4
+proton,neutron | location,located | nucleus | electron cloud | 4
+electron | location,located | electron cloud,outside nucleus | inside nucleus | 4
+atomic number | equal,equals,number | proton | neutron | 3
+mass number | equal,equals | protons plus neutrons | electrons plus neutrons | 4
+isotope | same element,atoms,difference | different neutrons,same protons | different protons | 4
+ion | formation,forms,charge | electrons gained,electrons lost | protons changed | 4
+covalent bond | mechanism,forms | shares electrons | transfers electrons,shares neutrons | 4
+ionic bond | mechanism,forms | electron transfer,opposite charges | shares neutrons | 4
+metal | conductivity,electricity,heat transfer | conductor,conducts | insulator | 3
+rubber,plastic,glass,dry wood | conductivity,electricity | insulator | conductor | 3
+metal | properties | malleable,ductile,lustrous | brittle always | 3
+noble gas | reactivity,outer shell | unreactive,full shell | highly reactive | 4
+halogen | valence,outer electrons | seven,7 | one,1 | 4
+alkali metal | valence,outer electrons | one,1 | seven,7 | 4
+periodic table | same group,column | similar properties,same valence | same mass | 4
+periodic table | same period,row | same shells,same energy levels | same valence | 4
+endothermic | heat,energy | absorbed,enters | released,leaves | 4
+exothermic | heat,energy | released,leaves | absorbed,enters | 4
+catalyst | reaction rate,activation energy | faster,lowers activation energy | consumed permanently | 3
+melting | change,state | solid to liquid | liquid to solid | 4
+freezing | change,state | liquid to solid | solid to liquid | 4
+evaporation,boiling | change,state | liquid to gas | gas to liquid | 4
+condensation | change,state | gas to liquid | liquid to gas | 4
+sublimation | change,state | solid to gas | gas to solid | 4
+deposition;phase,state | change | gas to solid | solid to gas | 4
+melting,evaporation,sublimation | heat,energy | absorbed,energy required | released | 3
+freezing,condensation | heat,energy | released | absorbed | 3
+boiling;water | bubbles,contains | water vapor,steam | hydrogen,oxygen | 4
+boiling;pure substance | temperature,during;!pressure increases,!pressure decreases;!mixture,!impure | temperature unchanged,constant temperature | temperature increases | 4
+mass;closed system | reaction,change | conserved,unchanged,same | destroyed,created | 4
+net force zero,balanced forces | motion | no acceleration,constant velocity | acceleration increases | 4
+unbalanced forces | motion | acceleration,velocity changes | no acceleration | 4
+inertia | depends,factor | mass | speed only | 3
+friction | direction;!static friction | opposite motion | same direction motion | 4
+friction | energy conversion;!static friction | thermal energy,heat | creates energy | 3
+gravity | force,direction | attractive,toward center | repulsive | 4
+mass | Earth,Moon,location | same,unchanged,mass unchanged | mass increases,mass decreases | 3
+weight | depends,measure | gravity,gravitational force | amount matter only | 3
+kinetic energy | depends | mass,speed | height only | 3
+potential energy | gravitational,depends | height,mass,gravity | color | 3
+machine | ideal,frictionless | work unchanged,energy conserved | creates energy | 4
+inclined plane | purpose,advantage | less force,longer distance | less work | 3
+fixed pulley | purpose,advantage | changes direction | creates energy | 3
+conduction | mechanism,transfer | direct contact,particle collisions | vacuum | 4
+convection | mechanism,transfer | fluid motion,currents,density | vacuum | 4
+radiation | medium,transfer | vacuum,electromagnetic waves | requires matter | 4
+heat | direction,flows | hot to cold,higher to lower | cold to hot | 4
+thermal equilibrium | temperature | same temperature | no particles move | 4
+insulator | mechanism,heat | slows heat transfer,trapped air | creates heat | 3
+series circuit | current,path | one path,same current | independent branches | 4
+parallel circuit | current,path | multiple paths,branches | one path | 4
+open circuit | current,flow | no current | current flows | 4
+closed circuit | current,flow | current flows,complete path | no current | 4
+like charges,like poles | interaction | repel | attract | 4
+opposite charges,opposite poles | interaction | attract | repel | 4
+sound | medium,travel | requires matter,mechanical wave | vacuum | 4
+light | medium,travel | vacuum,electromagnetic wave | requires matter | 4
+transverse wave | particle motion | perpendicular | parallel | 4
+longitudinal wave | particle motion | parallel | perpendicular | 4
+amplitude | sound,determines | loudness,energy | pitch | 4
+frequency | sound,determines | pitch | loudness | 4
+reflection | wave,light | bounces,returns | bends entering | 3
+refraction | wave,light | changes speed,bends | bounces back | 3
+diffraction | wave,light | bends around,spreads opening | absorbs completely | 3
+transparent | light | transmits | blocks all | 3
+opaque | light | blocks,absorbs,reflects | transmits all | 3
+renewable energy | source,resource | wind,solar,hydroelectric,tidal,geothermal | coal,oil,natural gas,uranium | 4
+nonrenewable energy | source,resource | coal,oil,natural gas,uranium | wind,solar,hydroelectric | 4
+fossil fuel | burning,combustion | carbon dioxide | oxygen produced | 4
+solar cell | energy conversion | light to electrical | electrical to light | 4
+battery;discharging | energy conversion | chemical to electrical | electrical to chemical | 4
+battery;charging | energy conversion | electrical to chemical | chemical to electrical | 4
+generator | energy conversion | mechanical to electrical | electrical to mechanical | 4
+motor | energy conversion | electrical to mechanical | mechanical to electrical | 4
+microphone | energy conversion | sound to electrical | electrical to sound | 4
+speaker | energy conversion | electrical to sound | sound to electrical | 4
+solar eclipse | alignment,position | moon between | earth between | 4
+lunar eclipse | alignment,position | earth between | moon between | 4
+moon | light,visible,shines | reflects sunlight | produces light | 4
+moon phases | cause,mechanism | positions,revolution,sunlit half | Earth shadow | 4
+seasons | cause,mechanism | tilted axis,revolution | distance sun | 4
+day night | cause,mechanism | rotation | revolution | 4
+tides | cause,mechanism | moon gravity,sun gravity | wind only | 4
+sun | energy source,produces | nuclear fusion | nuclear fission,combustion | 4
+light year | measurement,unit | distance | time,speed | 4
+blue star | temperature | hotter,high | colder,low | 3
+red star | temperature | cooler,low | hotter,high | 3
+inner core | state | solid | liquid | 4
+outer core | state | liquid | solid | 4
+mantle | state | solid,plastic,slow flow | liquid ocean | 3
+igneous rock | formation,forms | cooling magma,cooling lava | compaction cementation | 4
+sedimentary rock | formation,forms | compaction,cementation,sediment | cooling magma | 4
+metamorphic rock | formation,forms | heat pressure | complete melting | 4
+weathering | process,mechanism | breaks down,in place | transport only | 3
+erosion | process,mechanism | transports,moves sediment | freezing cracks | 4
+deposition;sediment | process,mechanism | settles,drops | breaks rock | 3
+divergent boundary | motion,plates | apart,new crust | together | 4
+convergent boundary | motion,plates | together,subduction,collision | apart | 4
+transform boundary | motion,plates | slide past,earthquakes | creates crust | 4
+low pressure | weather,air | rises,clouds,precipitation | sinking,clear dry | 3
+high pressure | weather,air | sinks,clear,dry | rising,storm | 3
+cloud | composition,made | water droplets,ice crystals | invisible water vapor only | 4
+ozone layer | protects,absorbs | ultraviolet | radio waves | 4
+greenhouse gas | absorbs,traps | infrared | radio waves only | 3
+independent variable | definition | deliberately changed,manipulated | measured response | 4
+dependent variable | definition | measured response,result | deliberately changed | 4
+control group | purpose | comparison,baseline | all variables changed | 3
+repeated trials | purpose | reliability,random error | changes hypothesis | 3
+scientific theory | basis,changes | evidence,new data | opinion alone | 3
+hypothesis | requirement | testable | untestable | 3
+scientific model | limitation | simplified,not exact | exact copy | 3
+mass | measuring instrument | balance | thermometer,spring scale | 4
+force,weight | measuring instrument | spring scale | thermometer | 4
+temperature | measuring instrument | thermometer | balance | 4
+air pressure | measuring instrument | barometer | anemometer | 4
+wind speed | measuring instrument | anemometer | barometer | 4
+humidity | measuring instrument | hygrometer,psychrometer | barometer | 4
+wind direction | measuring instrument | wind vane | rain gauge | 4
+rainfall | measuring instrument | rain gauge | wind vane | 4

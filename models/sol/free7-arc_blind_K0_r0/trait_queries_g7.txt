@@ -1,0 +1,56 @@
+# Additional property frames. These are predicate definitions, not questions.
+# Positive/negative frames can be composed; absence of a fact is unknown.
+cellular_organism | made cells,composed cells,consists cells | acellular,noncellular |
+requires_cell_energy | consumes energy,requires energy,needs energy | | heat transfer,electricity
+living_growth | grows,living growth | |
+living_reproduction | reproduces,produces offspring | |
+living_response | responds environment,responds stimuli | |
+contains_dna | possesses DNA,carries hereditary information | | introduced,injected
+light_required | requires light,needs sunlight,requires sunlight | | photoperiod,hibernation
+oxygen_reactant | consumes oxygen,requires oxygen | | oxygen transport
+carbon_dioxide_product | produces carbon dioxide,releases carbon dioxide,gives off carbon dioxide | |
+oxygen_product | produces oxygen,releases oxygen,gives off oxygen | |
+genetic_mixing | genetic variation offspring,varied offspring,genetically different offspring | identical offspring,genetically identical offspring | mutation,mutated
+contact_force | contact force,requires contact | noncontact force,acts distance | electric current
+attraction_only | always attractive,only attractive | |
+both_force_signs | attracts repels,attract repel,attractive repulsive | |
+mechanical_weathering | mechanical weathering,physical weathering | chemical weathering |
+transports_sediment | erosion,transports sediment,moves sediment,carries sediment | |
+mineral_composition_changes | changes mineral composition,forms new minerals | same mineral composition |
+soil_fertility_support | improves soil fertility,adds soil nutrients | |
+water_cycle_condensation | forms liquid droplets,water vapor cools | |
+water_cycle_evaporation | water becomes vapor,liquid becomes vapor | |
+# Conventional broad biome properties, not a complete list of all local climates.
+biome_dry | very little rainfall,low precipitation,driest biome | |
+biome_permafrost | permafrost,permanently frozen subsoil | |
+biome_many_trees | dense forest,many trees,forested biome | |
+biome_conifer | coniferous trees,needle leaves,evergreen forest | |
+biome_tropical_wet | warm wet year,hot wet year,tropical rainy climate | |
+biome_seasonal_leaves | trees lose leaves,deciduous trees | |
+biome_grasses | dominated grasses,mostly grasses | |
+biome_high_diversity | greatest biodiversity,highest species diversity | |
+# Instrument function cards, using fully qualified measurement frames.
+instrument_temperature | measures temperature,measuring temperature,temperature measurement | |
+instrument_mass | measures mass,measuring mass,mass measurement | |
+instrument_force | measures force,measures weight,force measurement,weight measurement | |
+instrument_length | measures length,measuring length,length measurement | |
+instrument_time | measures time,measures elapsed time,measuring time | |
+instrument_liquid_volume | measures liquid volume,measuring liquid volume | |
+instrument_air_pressure | measures air pressure,measures atmospheric pressure | |
+instrument_wind_speed | measures wind speed,measuring wind speed | |
+instrument_wind_direction | measures wind direction,measuring wind direction | |
+instrument_humidity | measures humidity,measures relative humidity | |
+instrument_rainfall | measures rainfall,measures precipitation amount | |
+# Energy pathways; products of devices can be more than one form.
+electricity_output | produces electrical energy,generates electricity,produces electricity | |
+light_output | produces light energy,emits visible light | |
+chemical_input | powered chemical energy,chemical energy input | |
+electrical_input | powered electricity,electrical energy input | |
+kinetic_output | produces kinetic energy,produces motion,motion output | |
+solar_input | powered sunlight,solar energy input | |
+# Extra frames for inherited attributes.
+backbone | spinal column,internal backbone | |
+warm_blooded | maintains constant temperature,regulates internal temperature | |
+photosynthesis | uses sunlight food,converts light chemical | |
+renewable | replaced short time,replenished short time | |
+new_substance | produces new substances,forms new substance | changes size only |

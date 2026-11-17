@@ -1,0 +1,89 @@
+# human body systems working together (one function per line)
+The circulatory system carries oxygen, nutrients and wastes through the body in the blood.
+The heart is a muscle that pumps blood through blood vessels.
+Arteries carry blood away from the heart; veins carry blood back to the heart; capillaries connect them and exchange materials with cells.
+Red blood cells carry oxygen from the lungs to the body's cells.
+White blood cells fight germs and infections.
+Platelets help blood clot to stop bleeding from a cut.
+Plasma is the liquid part of blood that carries nutrients, hormones and wastes.
+The respiratory system takes in oxygen and gets rid of carbon dioxide.
+Air travels through the nose and mouth, down the trachea, into the bronchi and lungs, and into tiny air sacs called alveoli.
+In the alveoli, oxygen moves into the blood and carbon dioxide moves out of the blood.
+The diaphragm is a muscle under the lungs that contracts to pull air into the lungs.
+The respiratory and circulatory systems work together to deliver oxygen to cells and remove carbon dioxide.
+During exercise, breathing rate and heart rate increase to deliver more oxygen to the muscles and remove more carbon dioxide.
+Cells use oxygen to release energy from food in cellular respiration, producing carbon dioxide and water.
+The digestive system breaks food down into nutrients that the body can absorb.
+Digestion begins in the mouth, where teeth chew food and saliva starts to break down starch.
+The esophagus moves food from the mouth to the stomach by muscle contractions.
+The stomach mixes food with acid and enzymes to break down proteins.
+Most digestion and absorption of nutrients happen in the small intestine.
+The small intestine has villi, tiny fingerlike folds that increase its surface area for absorbing nutrients.
+The large intestine absorbs water from undigested food and forms solid waste.
+The liver makes bile, which helps digest fats, and the pancreas makes digestive enzymes and insulin.
+The digestive and circulatory systems work together: nutrients absorbed in the small intestine are carried by blood to cells.
+The excretory system removes wastes from the body.
+The kidneys filter wastes and extra water from the blood and make urine, which is stored in the bladder.
+The skin removes some wastes through sweat; the lungs remove carbon dioxide.
+The nervous system controls the body and responds to stimuli using the brain, spinal cord and nerves.
+Nerve cells, or neurons, carry electrical messages between the brain and the body.
+The brain controls thinking, memory, the senses and body activities such as breathing and heartbeat.
+The spinal cord carries messages between the brain and the body and controls reflexes.
+The senses of sight, hearing, smell, taste and touch send information to the brain.
+The eyes detect light; the ears detect sound; the nose detects smells; the tongue detects tastes; the skin detects touch, pressure, heat and pain.
+The inner ear helps the body keep its balance.
+The endocrine system uses glands that release hormones into the blood to control growth, development and body processes.
+Hormones are chemical messengers carried by the blood to target cells.
+Insulin, made by the pancreas, controls the amount of sugar in the blood.
+Adrenaline prepares the body to respond to danger by increasing heart rate and breathing.
+The skeletal system supports the body, protects organs, works with muscles to allow movement, stores calcium and makes blood cells in the marrow.
+The skull protects the brain, the ribs protect the heart and lungs, and the backbone protects the spinal cord.
+Calcium from foods such as milk helps build strong bones and teeth.
+Joints are where bones meet; ligaments connect bone to bone and tendons connect muscle to bone.
+The muscular system moves the body; muscles work in pairs by contracting and relaxing.
+Skeletal muscles move bones, cardiac muscle pumps the heart, and smooth muscle moves food through the digestive system.
+The integumentary system, made of the skin, hair and nails, protects the body from germs and injury and helps control body temperature.
+The skin is the largest organ of the human body.
+The immune system protects the body from disease using white blood cells and antibodies.
+The reproductive system produces sex cells, eggs and sperm, and allows humans to have offspring.
+Homeostasis is the body keeping stable internal conditions, such as body temperature near 37 degrees Celsius.
+When the body is too hot, it sweats and blood vessels in the skin widen to release heat.
+When the body is too cold, it shivers to produce heat.
+Cells make up tissues, tissues make up organs, organs make up organ systems, and organ systems make up an organism.
+
+# health and disease
+Infectious diseases are caused by germs such as bacteria, viruses, fungi and parasites, and can spread from person to person.
+Colds and the flu are caused by viruses; strep throat is caused by bacteria.
+Antibiotics kill bacteria but do not work against viruses.
+Vaccines contain weakened or dead germs or parts of germs that cause the body to make antibodies, so the person becomes immune.
+Vaccines prevent diseases such as polio, measles and smallpox.
+Washing hands with soap is one of the best ways to prevent the spread of germs.
+Covering the mouth when coughing or sneezing helps stop the spread of germs.
+Germs can spread through the air, by touching surfaces, through contaminated food and water, and through insect bites.
+Mosquitoes can spread diseases such as malaria.
+Cooking meat thoroughly and refrigerating food prevent food poisoning from bacteria.
+Noninfectious diseases such as heart disease, cancer and diabetes do not spread from person to person.
+Smoking damages the lungs and causes lung cancer, heart disease and emphysema.
+A healthy diet includes fruits, vegetables, whole grains, protein and dairy, with little sugar and fat.
+Carbohydrates such as bread, rice and pasta are the body's main source of energy.
+Proteins from meat, fish, eggs, beans and nuts build and repair body tissues such as muscles.
+Fats store energy and keep the body warm, but too much fat can cause heart disease.
+Vitamins and minerals are needed in small amounts for good health; vitamin C prevents scurvy and vitamin D and calcium build bones.
+Fiber from fruits, vegetables and whole grains helps digestion.
+Water is needed for nearly every body process; the human body is mostly water.
+Regular exercise strengthens the heart, lungs, muscles and bones.
+Getting enough sleep helps the body and brain rest and repair.
+Sunscreen protects the skin from ultraviolet rays that can cause sunburn and skin cancer.
+Wearing a helmet protects the brain when riding a bicycle.
+Too much sugar in the diet can cause tooth decay; brushing and flossing protect the teeth.
+Alcohol and drugs harm the brain, liver and other organs.
+Doctors use X-rays to see bones, stethoscopes to hear the heart and lungs, and thermometers to check for fever.
+A fever is a higher than normal body temperature that helps the body fight infection.
+Louis Pasteur showed that germs cause disease and developed pasteurization, heating milk to kill bacteria.
+Alexander Fleming discovered penicillin, the first antibiotic.
+Edward Jenner developed the first vaccine, against smallpox.
+
+# senses and responses
+In a dark room the pupils of the eyes get larger to let in more light.
+In bright light the pupils of the eyes get smaller to protect the eye.
+A child grows taller because cells divide by mitosis to make new cells.

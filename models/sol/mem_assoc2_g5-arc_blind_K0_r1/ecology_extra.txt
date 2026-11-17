@@ -1,0 +1,365 @@
+# Additional hand-authored life science, ecology, and functional relations.
+# Strength | unordered question concepts | supported concepts | opposed concepts
+# Information, cells, and the organization of life.
+2.6 | cell theory | living organism cell existing | spontaneous
+2.6 | cell preexisting | division reproduction | spontaneous
+2.6 | tissue similar | specialized cell function | ecosystem
+2.6 | organization smallest living | cell | atom molecule organ
+2.6 | organism multicellular | specialized tissue organ system | unicellular
+2.6 | specialization cell | structure function differentiation | identical function
+2.6 | differentiation genes | expression specialized same dna | mutation
+2.6 | muscle cell energy | mitochondria abundant | chloroplast
+2.6 | sperm tail | flagellum swimming fertilization | photosynthesis
+2.6 | red cell shape | surface area oxygen transport | photosynthesis
+2.6 | white cell engulf | phagocytosis pathogen immune | photosynthesis
+2.6 | root hair shape | surface absorption water minerals | reproduction
+2.6 | palisade cell | chloroplast photosynthesis leaf | animal
+2.6 | nerve branching | connect transmit information | sugar production
+2.6 | ciliated trachea | move mucus pathogen dust | oxygen production
+2.6 | cell surface ratio | exchange diffusion size limit | color
+2.6 | cell size increases | volume faster surface diffusion limit | unlimited
+2.6 | membrane phospholipid | bilayer selective barrier | cellulose
+2.6 | membrane protein | receptor channel transport | genetic code
+2.6 | cell wall material | cellulose plant rigid | animal
+2.6 | fungal wall material | chitin | cellulose
+2.6 | bacterial wall material | peptidoglycan | cellulose
+2.6 | nucleolus | ribosome rna assembly | photosynthesis
+2.6 | cytoskeleton | shape support movement | hereditary code
+2.6 | rough reticulum | ribosome protein transport | photosynthesis
+2.6 | smooth reticulum | lipid detoxification | chromosome
+2.6 | vesicle | membrane transport package | nucleus
+2.6 | lysosome damage | enzyme digestion recycling | photosynthesis
+2.6 | vacuole plant pressure | turgor water support | genetic information
+2.6 | chloroplast double membrane | photosynthesis chlorophyll | digestion
+2.6 | mitochondria double membrane | respiration atp | photosynthesis
+2.6 | prokaryote organelle | ribosome | nucleus mitochondria chloroplast
+2.6 | bacteria chromosome | circular dna nucleoid cytoplasm | nucleus
+2.6 | bacteria plasmid | small circular dna resistance | chloroplast
+2.6 | virus structure | genetic protein coat acellular | ribosome mitochondria
+2.6 | virus reproduction requirement | living host cell | independent metabolism
+2.6 | virus size | smaller bacteria | larger mammal
+2.6 | microscopic pond | protist bacteria algae plankton |
+2.6 | multicellular common | cooperation specialization cells | independent unrelated
+2.6 | cell membrane damage | homeostasis disrupted transport | better regulation
+# Osmotic and metabolic explanations.
+2.8 | osmosis membrane | water selective diffusion | protein synthesis
+2.8 | diffusion perfume | random molecules spreading | organism reproduction
+2.8 | diffusion crowded | high low concentration | active against gradient
+2.8 | active transport energy | atp | sunlight directly
+2.8 | passive transport energy | diffusion gradient | atp required
+2.8 | root mineral uptake | active transport | photosynthesis
+2.8 | red cell hypotonic | water enters swell burst | shrink
+2.8 | red cell hypertonic | water leaves shrink | swell
+2.8 | red cell isotonic | balanced water movement stable | burst
+2.8 | plant cell hypotonic | turgid wall pressure | burst normally
+2.8 | plant cell hypertonic | plasmolysis wilting water loss | turgid
+2.8 | salt wilt lettuce | water osmosis leaves | water enters
+2.8 | freshwater protozoan | contractile vacuole excess water | water shortage
+2.8 | exercise cell demand | oxygen glucose respiration atp | photosynthesis
+2.8 | cellular respiration waste | carbon dioxide water heat | oxygen
+2.8 | aerobic respiration | oxygen glucose atp mitochondria | light required
+2.8 | anaerobic respiration | less atp fermentation | oxygen aerobic
+2.8 | fermentation yeast product | ethanol carbon dioxide | oxygen
+2.8 | fermentation muscle product | lactic acid | ethanol
+2.8 | fermentation bread purpose | carbon dioxide gas expansion | oxygen photosynthesis
+2.8 | enzyme substrate | specific shape active site | random reaction
+2.8 | enzyme denature | temperature ph shape activity | new nucleus
+2.8 | enzyme reusable | catalyst unchanged reaction | consumed fuel
+2.8 | digestion enzyme function | break large small molecules | make chromosomes
+2.8 | protein monomer | amino acid | fatty acid glucose
+2.8 | starch monomer | glucose sugar | amino acid
+2.8 | dna monomer | nucleotide | amino acid
+2.8 | lipid components | glycerol fatty acid | nucleotide
+2.8 | protein element | carbon hydrogen oxygen nitrogen | only carbon
+2.8 | organic molecule common | carbon | helium
+2.8 | starch iodine | blue black indicator | red
+2.8 | glucose benedict | orange red heating | blue unchanged
+2.8 | protein biuret | violet purple | orange
+2.8 | fat paper | translucent grease spot | iodine blue
+2.8 | energy food bond | chemical stored | nuclear
+2.8 | respiration heat | chemical thermal | energy destroyed
+2.8 | photosynthesis stored | sunlight chemical glucose | sunlight nuclear
+2.8 | photosynthesis chlorophyll role | absorb light energy | absorb soil food
+2.8 | photosynthesis raw | water dioxide | oxygen glucose
+2.8 | photosynthesis product | glucose oxygen | dioxide reactant
+2.8 | photosynthesis limiting | light dioxide temperature | sound
+2.8 | leaf covered foil | starch decrease darkness | light photosynthesis increase
+2.8 | plant boiled alcohol | chlorophyll removal starch test | respiration increase
+2.8 | pondweed bubbles light | photosynthesis oxygen | nitrogen
+2.8 | plant carbon mass | air dioxide photosynthesis | soil only
+2.8 | animal carbon source | food organic matter | sunlight directly
+2.8 | plant respiration continuous | day night oxygen | sunlight mandatory
+2.8 | ecosystem oxygen cycling | photosynthesis respiration | nuclear fission
+2.8 | germinating seed respiration | oxygen consumed dioxide heat | photosynthesis required
+# Reproduction, heredity, and evolution beyond flat term definitions.
+2.7 | asexual population change | rapid reproduction identical | high recombination
+2.7 | sexual population variation | genes two parents recombination | all identical
+2.7 | sexual reproduction advantage | diversity changing environment | guaranteed survival
+2.7 | asexual reproduction advantage | rapid one parent | genetic recombination
+2.7 | binary fission process | dna replication split two | sperm egg
+2.7 | budding yeast | asexual clone outgrowth | pollination
+2.7 | regeneration starfish | lost body part regrowth | metamorphosis
+2.7 | hydra budding | outgrowth clone | seed
+2.7 | planaria regeneration | asexual body regrowth | seed
+2.7 | bacterial population doubling | binary fission | meiosis
+2.7 | mitosis growth | cell number increase same dna | cell size only
+2.7 | meiosis variation | crossing recombination assortment | identical daughters
+2.7 | crossing over | chromosome exchange variation meiosis | mitosis required
+2.7 | fertilization diploid | haploid gametes combine chromosome restore | chromosome half
+2.7 | body cell chromosome | diploid paired | haploid normally
+2.7 | sex cell chromosome | haploid half | diploid normally
+2.7 | human somatic chromosome | 46 23 pairs | 23 total
+2.7 | human gamete chromosome | 23 | 46
+2.7 | dna base pairing | adenine thymine cytosine guanine | amino acid
+2.7 | rna base pairing | adenine uracil cytosine guanine | thymine
+2.7 | dna double helix | paired nucleotide strands | protein chain
+2.7 | gene sequence | dna nucleotide protein instruction | environment only
+2.7 | chromosome gene relation | genes segment dna | cell larger organ
+2.7 | genetic code universal | common ancestry | independent need
+2.7 | genotype environment | phenotype expression genes |
+2.7 | identical twins inheritance | same dna allele | different species
+2.7 | heterozygous dominant | expressed phenotype | recessive expressed always
+2.7 | recessive hidden | carrier heterozygous allele |
+2.7 | purebred allele | homozygous identical | heterozygous
+2.7 | hybrid allele | heterozygous different | homozygous
+2.7 | pedigree generations | inheritance family trait | food web
+2.7 | punnett square | probability allele offspring | certain individual outcome
+2.7 | sex human father | x y chromosome | mother y
+2.7 | female human chromosome | xx | xy
+2.7 | male human chromosome | xy | xx
+2.7 | acquired scar | environment injury | inherited dna
+2.7 | acquired tanning | sunlight environment | inherited to children
+2.7 | inherited dimples | genes parents | practice
+2.7 | learned reading | experience practice | instinct
+2.7 | reflex blinking | automatic protective | conscious teaching
+2.7 | migration inherited | instinct seasonal | classroom
+2.7 | mutation germline | inherited offspring possible |
+2.7 | mutation somatic | body cells acquired | necessarily offspring
+2.7 | mutation cause | random copying radiation chemical | desire
+2.7 | mutation effect | beneficial harmful neutral variation | always harmful
+2.7 | mutation adaptation | inherited selection generations | individual intention
+2.7 | selection environment | survival reproduction inherited variation | purposeful effort
+2.7 | fitness definition | reproductive success offspring | muscle strength only
+2.7 | evolutionary change unit | population generations | individual lifetime
+2.7 | environmental change population | selection altered trait frequency adaptation | instantly purposeful
+2.7 | selective breeding | human chooses inherited trait | natural random mating
+2.7 | dog breeds | artificial selection variation | acquired training inherited
+2.7 | crop selective breeding | desired yield traits | directed individual mutation
+2.7 | antibiotic population resistant | bacteria survivors reproduce inherited | choose purposeful
+2.7 | pesticide population resistant | insect selection variation reproduction | learned
+2.7 | extinction environment | unable adapt rapid change | guaranteed evolution
+2.7 | isolation population | reduced gene flow divergence | increased interbreeding
+2.7 | common ancestor molecular | similar dna protein sequence | same color only
+2.7 | homologous limb | common ancestry different function | identical habitat necessary
+2.7 | analogous structure | similar function convergent evolution | closest ancestry necessarily
+2.7 | vestigial structure | reduced ancestral function | proof acquired training
+2.7 | embryo similarity | evolutionary common ancestry | same adult appearance
+2.7 | fossil sequence | life species changes time | simultaneous
+2.7 | species definition fertile | interbreed offspring | habitat only
+2.7 | binomial first word | genus | kingdom
+2.7 | binomial second word | species | phylum
+2.7 | classification broadest | domain kingdom | species
+2.7 | classification most specific | species | kingdom
+2.7 | taxonomic order | kingdom phylum class order family genus species | size
+2.7 | dichotomous key features | observable paired choices | arbitrary opinion
+# Plants, growing structures, and life cycles.
+2.8 | monocot seed | one cotyledon parallel veins | two cotyledons
+2.8 | dicot seed | two cotyledons branching veins | one cotyledon
+2.8 | monocot example | corn grass lily | bean
+2.8 | dicot example | bean pea oak | corn
+2.8 | seed coat | protect embryo | absorb sunlight primarily
+2.8 | cotyledon function | stored food seedling | pollen production
+2.8 | endosperm function | seed food embryo | gas exchange
+2.8 | seed first root | radicle | plumule
+2.8 | seed first shoot | plumule | radicle
+2.8 | germination dry | water imbibition swelling | photosynthesis first
+2.8 | seed viability | embryo alive suitable conditions | all seeds immortal
+2.8 | dormant seed advantage | survive unfavorable conditions | rapid immediate growth
+2.8 | seed dispersal competition | less crowding resources | greater competition
+2.8 | seed explosion | mechanical dispersal | pollination
+2.8 | burdock seed | hooks fur dispersal | wind wing
+2.8 | acorn dispersal | squirrel animal | airborne pollen
+2.8 | fleshy fruit dispersal | eaten animals seeds | photosynthesis only
+2.8 | seed wind feature | light wing parachute | heavy fleshy
+2.8 | pollen wind feature | small abundant light | large sticky nectar
+2.8 | flower insect pollination | bright scent nectar sticky pollen | underwater only
+2.8 | flower wind pollination | exposed anther feathery stigma | large scented petals required
+2.8 | stamen components | anther filament male | ovary stigma
+2.8 | pistil components | stigma style ovary female | filament
+2.8 | petal function | attract pollinator | water absorption
+2.8 | sepal function | protect flower bud | produce sperm
+2.8 | pollen tube | sperm ovule fertilization | leaf water loss
+2.8 | fruit formation | ovary fertilized | root
+2.8 | seed formation | ovule fertilized | petal
+2.8 | cutting root hormone | vegetative asexual clone | meiosis required
+2.8 | onion bulb | vegetative food storage | spore
+2.8 | ginger rhizome | underground stem | root only
+2.8 | potato tuber | modified stem buds | modified leaf
+2.8 | carrot storage | taproot carbohydrate | flower
+2.8 | celery edible | leaf stalk petiole | seed
+2.8 | broccoli edible | flower bud | root
+2.8 | onion edible | bulb fleshy leaf | seed
+2.8 | moss rhizoid | anchor | true root xylem
+2.8 | fern sporangia | spores leaf underside | flower pollen
+2.8 | pine cone | exposed seed gymnosperm | enclosed fruit
+2.8 | bark function | protect stem | photosynthesis primary
+2.8 | cambium | lateral growth wood diameter | seed coat
+2.8 | tree ring | yearly growth age conditions | one day
+2.8 | tree wide ring | favorable water growth | drought always
+2.8 | tree narrow ring | limited growth drought | rapid growth
+2.8 | heartwood | support older xylem | sugar transport
+2.8 | plant meristem | growing dividing cells | dead storage only
+2.8 | root cap | protects growing tip | photosynthesis
+2.8 | root hair function | increase absorption surface | make gametes
+2.8 | stomata location | leaf pores guard cells | stem seed coat only
+2.8 | stomata closed dry | conserve water reduce transpiration | more water loss
+2.8 | plant wilt restore | water turgor vacuole | more fertilizer always
+2.8 | xylem dead hollow | water mineral transport support | sugar main
+2.8 | phloem living | sugar transport source sink | water only
+2.8 | vascular bundle | xylem phloem transport | reproductive cell
+2.8 | capillary plant | adhesion cohesion water transport | nuclear
+2.8 | auxin light | differential growth phototropism | animal hormone
+2.8 | root gravity response | positive gravitropism | negative gravitropism
+2.8 | stem gravity response | negative gravitropism | positive gravitropism
+2.8 | tendril touch | thigmotropism support | photoperiod
+2.8 | flowering day length | photoperiod seasonal reproduction | sound pitch
+# Food webs, carrying capacity, adaptation, and environmental change.
+2.8 | ecosystem energy entrance | sunlight producer photosynthesis | decomposer first
+2.8 | cave ecosystem energy | organic matter external food | photosynthesis darkness
+2.8 | hydrothermal vent producer | chemosynthesis bacteria | sunlight required
+2.8 | food web complexity | alternative food resilience | all links identical
+2.8 | food chain arrows | chemical energy transfer | animal movement only
+2.8 | energy pyramid base | producers greatest energy | predators greatest
+2.8 | trophic transfer loss | respiration heat movement | destroyed energy
+2.8 | biomass pyramid | lower levels support fewer predators | all levels equal
+2.8 | food chain source | producers sunlight | secondary consumer
+2.8 | decomposer every level | dead matter waste recycling | only top predator
+2.8 | nutrient cycle importance | matter reused finite supply | new atoms created
+2.8 | nitrogen gas plant | fixation bacteria usable nitrate | direct
+2.8 | nitrogen animal source | food protein | breathing gas directly
+2.8 | denitrification | bacteria nitrate nitrogen atmosphere | plant photosynthesis
+2.8 | nitrification | bacteria ammonia nitrate | oxygen carbon fixation
+2.8 | decomposition nitrogen | ammonia ammonium soil | all atmospheric only
+2.8 | carbon reservoir | atmosphere ocean rock biomass | sun light
+2.8 | combustion carbon cycle | dioxide atmosphere | carbon fixation
+2.8 | decomposition carbon cycle | dioxide respiration nutrients | oxygen photosynthesis
+2.8 | carbon burial | fossil fuel long storage | rapid evaporation
+2.8 | deforestation climate | less carbon uptake dioxide increase | less greenhouse
+2.8 | resource limiting population | carrying capacity | indefinite exponential growth
+2.8 | carrying capacity increase | more resources habitat | food shortage
+2.8 | carrying capacity drought | lower water food | infinite growth
+2.8 | density dependent factor | disease competition predation | hurricane alone
+2.8 | density independent factor | drought flood fire temperature | crowding only
+2.8 | population growth immigration | individuals enter | individuals leave
+2.8 | population decline emigration | individuals leave | individuals enter
+# Exceeding births/deaths cannot be bound by reversing word order in a bag.
+2.8 | birth death exceed | population change |
+2.8 | birth death equal | population stable |
+2.8 | niche overlap | competition resource | unlimited sharing
+2.8 | resource partitioning | reduced competition different niches | same exact niche
+2.8 | invasive predator | native prey decline disruption | guaranteed benefit
+2.8 | invasive species advantage | few natural enemies rapid reproduction | all harmless
+2.8 | keystone species | large ecosystem effect | abundant necessarily
+2.8 | predator prey cycle | prey food limits predator | unrelated populations
+2.8 | predator scarce | herbivore increase plant decline | herbivore decline always
+2.8 | overfishing | population decline food web disruption | biodiversity guarantee
+2.8 | biodiversity resilience | variety alternative interactions | identical clones
+2.8 | genetic diversity survival | varied inherited responses | all identical
+2.8 | monoculture risk | low diversity disease pathogen vulnerability |
+2.8 | habitat fragmentation | isolated populations reduced gene flow | increased connectedness
+2.8 | wildlife corridor benefit | movement migration genetic exchange | isolation
+2.8 | succession primary | bare rock lichen | soil mature forest
+2.8 | succession secondary | soil remains fire abandoned field | new bare lava only
+2.8 | pioneer species role | soil formation organic matter | remove nutrients always
+2.8 | lichen weathering | acids rock soil formation | animal predator
+2.8 | succession pioneer | lichen moss grasses | largest trees first
+2.8 | secondary succession advantage | existing soil seeds faster | always slower primary
+2.8 | climax community | relatively stable mature | permanently unchanging
+2.8 | forest fire recovery | secondary succession soil | primary always
+2.8 | volcanic island recovery | primary succession bare rock | existing soil
+2.8 | tundra feature | cold permafrost short season | tropical heat
+2.8 | taiga feature | conifer forest cold | cactus desert
+2.8 | temperate forest feature | deciduous seasonal | permafrost everywhere
+2.8 | tropical rainforest feature | warm wet high biodiversity | freezing dry
+2.8 | grassland feature | grasses fire grazing | deep ocean
+2.8 | savanna feature | grasses scattered trees seasonal rain | polar ice
+2.8 | desert feature | low rainfall water scarcity |
+2.8 | estuary feature | freshwater seawater mix brackish nursery |
+2.8 | wetland ecosystem service | filter runoff flood absorption habitat | pollution creation
+2.8 | coral reef threat | warming bleaching acidification | cold forest
+2.8 | coral bleaching | stressed symbiotic algae loss | more pigment always
+2.8 | ocean acidification cause | dissolved dioxide carbonic acid | oxygen nitrogen alone
+2.8 | ocean acidification effect | carbonate shell growth difficult | shells stronger always
+2.8 | fertilizer lake fish | algae decomposition oxygen depletion | oxygen infinite
+2.8 | sewage lake oxygen | decomposer respiration depletion |
+2.8 | persistent pesticide top predator | biomagnification accumulated toxin highest concentration | least
+2.8 | persistent toxin food | bioaccumulation tissue | immediate disappearance
+2.8 | ddt birds | thin eggshell biomagnification | thicker eggshell always
+2.8 | mercury fish | bioaccumulation biomagnification health | harmless nutrient excess
+2.8 | biological control | natural predator pest reduction | pesticide only
+2.8 | crop rotation benefit | nutrient replenishment pest disruption | soil depletion always
+2.8 | nitrogen fertilizer | plant growth nutrients | energy food directly
+2.8 | compost nutrient | decomposed organic humus | plastic synthetic
+2.8 | overfertilization runoff | eutrophication algal bloom | less algae
+2.8 | sustainable harvest | replace reproduce future supply | deplete faster regeneration
+2.8 | conservation captive breeding | endangered population restoration | habitat destruction
+# Structural adaptations and natural examples.
+2.8 | camouflage purpose | avoid detection predators prey | digest faster
+2.8 | countershading fish | dark back light belly camouflage | warning only
+2.8 | flounder color | blend seabed camouflage | photosynthesis
+2.8 | arctic fox winter | white camouflage insulation | dark jungle
+2.8 | snowshoe hare season | fur color camouflage | acquired dna change
+2.8 | octopus ink | escape predator defense | pollination
+2.8 | skunk spray | predator deterrent defense | photosynthesis
+2.8 | porcupine quill | protection predator | respiration
+2.8 | hedgehog spine | defense protection | reproduction only
+2.8 | poison frog bright | warning predator toxicity | concealment
+2.8 | viceroy monarch | mimicry warning protection | genetic identity
+2.8 | walkingstick appearance | camouflage plant stem | warning bright
+2.8 | leaf insect appearance | camouflage leaf | migration
+2.8 | polar bear thick fat | insulation energy storage | cooling
+2.8 | seal blubber function | heat loss reduce insulation | increase heat loss
+2.8 | whale blowhole | breathe air surface | gill water
+2.8 | dolphin echolocation | reflected sound prey navigation | reflected light only
+2.8 | bat echolocation | ultrasound echo navigation | ultraviolet
+2.8 | owl large eyes | low light vision | photosynthesis
+2.8 | owl silent feather | quiet hunting | loud warning
+2.8 | rabbit large ears | hearing heat release | gills
+2.8 | fennec ears | heat loss desert | heat storage only
+2.8 | penguin huddle | reduce heat loss | increase evaporation
+2.8 | goose migration | seasonal food breeding climate | daily hibernation
+2.8 | bear hibernation | reduced metabolism energy conservation | increased activity
+2.8 | desert estivation | dormancy hot dry | active snow
+2.8 | camel concentrated urine | conserve water | lose more water
+2.8 | kangaroo rat adaptation | conserve water nocturnal | gill
+2.8 | cactus spine role | defense less water loss | broad photosynthetic leaf
+2.8 | succulent thick tissue | water storage | oxygen storage only
+2.8 | mangrove roots | oxygen wet soil support | desert deep snow
+2.8 | water lily broad leaf | floating sunlight | desert water storage
+2.8 | duck foot web | push water swimming | grasp branch only
+2.8 | hawk talon | catch hold prey | filter nectar
+2.8 | hummingbird beak | reach flower nectar | crack hard bone
+2.8 | anteater tongue | collect insects | chew leaves
+2.8 | shark streamlined | reduce water resistance | increase drag
+2.8 | fish swim bladder | buoyancy depth | photosynthesis
+2.8 | insect wax coating | reduce water loss | produce oxygen
+2.8 | exoskeleton molt | growth shed outer covering | internal backbone
+2.8 | complete metamorphosis | egg larva pupa adult | nymph stage
+2.8 | incomplete metamorphosis | egg nymph adult | pupa
+2.8 | butterfly pupa | chrysalis metamorphosis | seed
+2.8 | tadpole adult | gills lungs legs metamorphosis | mammal reproduction
+2.8 | reptile egg shell | reduce drying land reproduction | aquatic gills
+2.8 | mammal parental care | milk nourishment offspring | feathers
+2.8 | bird egg care | incubation warmth embryo | lactation
+2.8 | marsupial young | pouch development milk | feather
+2.8 | monotreme reproduction | egg milk mammal | bird feathers
+2.8 | earthworm moist skin | gas diffusion respiration | lung
+2.8 | earthworm soil role | aeration mixing decomposition | photosynthesis
+2.8 | insect breathing | spiracle trachea air | lung
+2.8 | crustacean breathing | gill dissolved oxygen | feather
+2.8 | spider web | capture prey silk | photosynthesis
+2.8 | bee dance | communicate food direction | genetic mutation
+2.8 | ant pheromone | chemical communication trail | photosynthesis
+2.8 | territory marking | communication resource defense | digestion
+2.8 | courtship display | attract mate reproduction | oxygen production
+2.8 | animal cooperation | survival resource protection | all solitary

@@ -1,0 +1,394 @@
+# Generation 5: Earth and space science, written as cue > answer rules in the wording of state-test items.
+# --- Earth's motion: time periods
+365 days > revolve orbit around sun one year
+365 days earth > revolution around sun
+one year earth > revolve around sun once
+24 hours earth > rotate spin axis once
+one day earth > rotation on axis
+earth spin > rotation axis day night
+earth orbit sun > revolution year
+29 days moon > phases cycle
+one month moon > orbit earth phases cycle
+moon same side faces earth > rotates once each orbit same time
+sun rise east set west > earth rotates spins
+sun appears rise > east
+sun appears set > west
+shadows shortest > noon sun highest overhead
+shadows longest > morning evening sun low in sky
+shadow points west > morning sun in east
+shadow points east > afternoon evening sun in west
+sun highest sky > noon midday
+stars appear move across sky night > earth rotates on axis
+star trails photograph > earth rotation
+different constellations seasons > earth revolves around sun orbit
+time zones > earth rotation
+# --- seasons and daylight
+summer more daylight hours > tilt toward sun direct rays
+winter fewer daylight hours > tilt away from sun
+days longer summer > earth tilt axis
+hours daylight change during year > tilt axis revolution
+northern hemisphere summer southern hemisphere > winter
+northern hemisphere winter southern hemisphere > summer
+seasons opposite hemispheres > tilt of axis
+sun angle higher > more direct sunlight warmer temperatures
+sun angle lower > less direct sunlight cooler
+direct sunlight > more energy per area warmer
+equator > warm all year direct sunlight little seasonal change
+near poles > cold long winters little direct sunlight
+arctic summer > sun up 24 hours long daylight
+first day of summer > summer solstice june longest day
+first day of winter > winter solstice december shortest day
+first day of spring fall > equinox equal day night
+# --- moon
+moon phases > new crescent first quarter gibbous full waning
+full moon > earth between sun and moon whole lit side faces earth
+new moon > moon between earth and sun dark side faces earth
+moon phase after full moon > waning gibbous
+moon phase after new moon > waxing crescent
+waxing > lit part getting larger
+waning > lit part getting smaller
+solar eclipse > moon between sun and earth moon shadow on earth new moon
+lunar eclipse > earth between sun and moon earth shadow on moon full moon
+moon surface > craters dust rocks no air no water
+moon craters > impacts meteorites asteroids
+moon craters last long time > no wind no water no erosion no weather
+footprints moon remain > no wind no erosion no atmosphere
+moon temperature extreme > no atmosphere
+moon gravity > one sixth earth weaker
+astronaut moon weight > less weight same mass
+astronaut moon mass > same mass
+moon no atmosphere > no sound no weather no wind no protection meteorites
+tides > gravity moon sun pull oceans
+high tide > side of earth facing moon and opposite side
+two high tides each day > earth rotates moon gravity
+spring tides > highest tides sun moon aligned full new moon
+neap tides > smallest tides quarter moon right angle
+# --- sun and stars
+sun > star medium size yellow closest star to earth
+sun energy produced > nuclear fusion hydrogen helium
+sun appears larger brighter than other stars > closer to earth
+stars appear small > very far away
+star brightness depends > size temperature distance from earth
+star color temperature > blue hottest red coolest
+blue stars > hottest
+red stars > coolest
+star life cycle > nebula main sequence red giant white dwarf
+large star end > supernova neutron star black hole
+star born > nebula cloud gas dust
+light year = distance light travels in one year
+light year measures > distance
+astronomical unit = distance earth to sun
+galaxy = huge group of billions of stars gas dust held gravity
+our galaxy > milky way spiral
+universe > all galaxies stars planets space
+constellation = group of stars forms pattern picture in sky
+polaris > north star above north pole navigation
+sun center solar system > heliocentric copernicus
+earth center > geocentric ptolemy ancient
+# --- solar system
+inner planets > mercury venus earth mars rocky small terrestrial
+outer planets > jupiter saturn uranus neptune gas giants large rings many moons
+gas giants > jupiter saturn uranus neptune
+largest planet > jupiter
+smallest planet > mercury
+hottest planet > venus thick atmosphere carbon dioxide greenhouse
+red planet > mars iron oxide rust dust
+planet rings > saturn jupiter uranus neptune
+planet tilted on side > uranus
+great red spot > jupiter storm
+planet farthest from sun > neptune
+planet closest to sun > mercury
+planets farther from sun > longer year colder slower orbit
+planets closer to sun > shorter year hotter faster orbit
+dwarf planet > pluto ceres eris
+asteroid belt > between mars and jupiter
+asteroid = rocky object orbits sun
+comet = ice dust orbit sun tail
+comet tail points > away from sun solar wind
+meteor = shooting star burns up in atmosphere
+meteorite = rock from space reaches ground
+meteoroid = small rock in space
+planets orbit sun > gravity
+planets stay in orbit > gravity and inertia forward motion
+gravity sun > keeps planets in orbit
+gravity holds > planets orbit moons atmosphere
+mass more gravity > stronger pull
+farther apart gravity > weaker
+planets visible night > reflect sunlight
+planets appear move among stars > wander orbit sun
+venus brightest planet > morning evening star
+earth only planet > liquid water life oxygen atmosphere
+earth third planet > water life
+earth atmosphere protects > meteors ultraviolet radiation
+# --- space exploration and tools
+telescope > see distant objects stars planets magnify
+radio telescope > radio waves from space
+hubble space telescope > above atmosphere clearer images
+telescope in space > no atmosphere blur clouds
+satellite = object orbits planet
+artificial satellites uses > communication weather gps television
+weather satellites > track clouds hurricanes storms
+gps > satellites location
+space probe > explores planets far away no people
+rover > explores surface of mars
+astronaut space suit > oxygen pressure temperature protection
+international space station > orbits earth astronauts experiments
+rocket launch > thrust action reaction newton third law
+space shuttle > reusable
+spinoff technology space > velcro memory foam freeze dried food
+apollo 11 > first humans moon 1969 neil armstrong
+yuri gagarin > first human in space
+galileo > telescope moons jupiter phases venus
+# --- Earth's structure and plates
+earth layers > crust mantle outer core inner core
+crust > thinnest outer layer solid rock
+mantle > thickest layer hot rock flows slowly convection
+outer core > liquid iron nickel
+inner core > solid iron nickel hottest center
+inner core solid > great pressure
+earth magnetic field > outer core liquid iron moving
+lithosphere = crust and upper mantle rigid plates
+asthenosphere = soft flowing upper mantle plates move on
+tectonic plates move > convection currents mantle
+plates move speed > few centimeters per year slowly
+continental drift > alfred wegener pangaea
+pangaea = supercontinent long ago all continents joined
+evidence continental drift > continents fit puzzle same fossils matching rocks
+convergent boundary > plates collide mountains trenches volcanoes
+divergent boundary > plates move apart rift valley mid ocean ridge new crust
+transform boundary > plates slide past earthquakes san andreas fault
+seafloor spreading > new ocean floor mid ocean ridge magma
+ocean trench > subduction plate sinks under another
+mountains form > plates collide folding uplift
+himalayas > india plate collided asia
+earthquake = sudden movement of rock along fault release energy
+earthquake waves > seismic waves p waves s waves
+seismograph = measures earthquake waves
+earthquake location > epicenter surface above focus
+earthquake damage greatest > near epicenter
+earthquake ocean floor > tsunami
+earthquakes volcanoes occur > plate boundaries ring of fire
+ring of fire > pacific ocean volcanoes earthquakes
+volcano = opening where magma lava erupts
+magma underground > lava at surface
+volcano eruption effects > lava ash gases new land
+volcanic ash atmosphere > blocks sunlight cooler temperatures
+volcanic islands > hawaii hot spot
+volcano new land > islands
+volcano soil > fertile ash minerals
+geyser > hot water steam erupts heated underground
+# --- rocks and minerals
+rock cycle > igneous sedimentary metamorphic change over time
+igneous rock forms > magma lava cools hardens
+sedimentary rock forms > sediments compacted cemented layers
+metamorphic rock forms > heat pressure change existing rock
+rock with layers > sedimentary
+rock with fossils > sedimentary
+rock with crystals > igneous cooled slowly
+rock glassy no crystals > lava cooled quickly obsidian
+rock with holes air bubbles > pumice igneous
+pumice > floats gas bubbles volcanic
+large crystals > cooled slowly underground intrusive
+small crystals > cooled quickly surface extrusive
+granite > igneous large crystals intrusive
+basalt > igneous small crystals ocean floor
+marble > metamorphic limestone
+slate > metamorphic shale
+quartzite > metamorphic sandstone
+limestone > sedimentary shells calcite fizzes acid
+sandstone > sedimentary sand grains
+shale > sedimentary mud clay
+coal forms > plants buried swamps pressure millions years
+mineral = naturally occurring solid crystal inorganic
+mineral identification tests > hardness streak luster color cleavage
+streak = color of powder on tile
+hardness mineral test > scratch mohs scale
+hardest mineral > diamond
+softest mineral > talc
+luster = how mineral reflects light shiny dull metallic
+cleavage = breaks along flat surfaces
+fracture mineral > breaks uneven
+color least reliable > mineral identification
+calcite test > fizzes vinegar acid
+magnetite > magnetic
+quartz > common hard mineral glass
+# --- weathering erosion deposition soil
+weathering = breaking down rock into smaller pieces
+erosion = moving sediment soil rock to new place
+deposition = dropping sediment in new place
+weathering then erosion then deposition > order
+mechanical weathering > ice wedging roots abrasion physical
+chemical weathering > acid rain oxidation rust dissolving
+ice wedging > water freezes expands in cracks
+frost wedging > freeze thaw cracks rock
+roots grow cracks > break rock weathering
+acid rain > dissolves limestone marble statues chemical weathering
+lichens break rock > acids weathering
+weathering fastest > warm wet climate
+agents erosion > water wind ice glaciers gravity waves
+gravity erosion > landslide mudslide rockfall
+landslide > gravity heavy rain steep slope
+wind erosion > desert sand dunes dry areas
+wind erosion reduced > plant windbreak trees cover crops
+glacier erosion > u shaped valley moraines boulders scratches
+river erosion > v shaped valley canyon
+grand canyon > colorado river erosion
+delta forms > river slows deposits sediment mouth ocean
+sand dunes > wind deposition
+beach erosion > waves currents storms
+prevent beach erosion > sea walls jetties plants dunes
+prevent soil erosion > plants roots terraces contour plowing cover crops
+plant roots > hold soil prevent erosion
+steep slope erosion > faster
+fast moving water > carries larger sediment
+slow moving water > deposits sediment
+larger particles settle first > gravel sand then silt clay
+soil formation > weathered rock humus organisms time
+humus = decayed plants animals organic matter in soil
+topsoil > humus nutrients dark
+soil layers > topsoil subsoil bedrock
+clay soil > small particles holds water poor drainage
+sandy soil > large particles drains quickly
+loam > mix sand silt clay humus best for plants
+soil holds most water > clay
+water drains fastest > sand gravel
+permeable > water passes through
+# --- water
+water cycle > evaporation condensation precipitation collection runoff
+water cycle energy > sun
+evaporation > liquid water to water vapor heat
+condensation > water vapor to liquid cools
+clouds form > water vapor condenses cools rises
+precipitation > rain snow sleet hail
+transpiration = plants release water vapor from leaves
+runoff = water flows over land to streams rivers
+groundwater = water underground in soil rock
+aquifer = underground layer of rock holds water
+well > groundwater aquifer
+earth water mostly > salt water oceans 97 percent
+fresh water mostly > ice caps glaciers
+fresh water available small > percent
+ocean salty > dissolved minerals salts rivers
+ocean water density > salt colder denser
+ocean currents > wind temperature density differences
+gulf stream > warm current atlantic
+watershed = land area drains into river
+water pollution sources > runoff fertilizer pesticides sewage oil spills
+fertilizer runoff > algae bloom less oxygen fish die
+# --- weather and climate
+weather = condition of atmosphere at a time place
+climate = average weather over long time
+weather instruments > thermometer barometer anemometer rain gauge wind vane hygrometer
+thermometer > temperature
+barometer > air pressure
+anemometer > wind speed
+wind vane > wind direction
+rain gauge > amount of rain precipitation
+hygrometer > humidity
+psychrometer > relative humidity
+humidity = amount water vapor in air
+dew point = temperature air saturated condensation
+dew forms > cool night grass water vapor condenses
+frost forms > water vapor freezes cold surface below freezing
+fog = cloud near ground
+air pressure falling > storm clouds rain coming
+air pressure rising > clear fair weather
+low pressure > clouds rain storms
+high pressure > clear dry fair weather
+wind = air moves from high pressure to low pressure
+wind caused > uneven heating of earth surface
+sea breeze > day cool air from ocean to land
+land breeze > night cool air from land to ocean
+land heats faster > than water cools faster
+water heats slowly > high specific heat
+coastal climate > mild ocean moderates temperature
+inland climate > greater temperature range
+air mass = large body of air same temperature humidity
+front = boundary between two air masses
+cold front > cold air pushes warm air up thunderstorms then cooler
+warm front > warm air over cold steady rain then warmer
+cumulus > puffy fair weather clouds
+cumulonimbus > thunderstorm tall clouds
+stratus > flat gray layer clouds drizzle
+cirrus > thin wispy high ice crystals
+thunderstorm > lightning thunder heavy rain cumulonimbus
+thunder = sound caused by lightning heating air
+see lightning before hear thunder > light travels faster than sound
+tornado = rotating column of air funnel cloud
+tornado safety > basement interior room no windows
+hurricane = large tropical storm warm ocean water low pressure
+hurricane energy > warm ocean water
+hurricane weakens over land > no warm water
+hurricane damage > storm surge flooding high winds
+blizzard > snow strong wind cold
+drought = long period without rain
+flood > heavy rain overflow river
+meteorologist = scientist studies forecasts weather
+weather forecast tools > satellites radar weather balloons computers
+weather moves united states > west to east
+air temperature altitude > cooler higher mountains
+mountain top colder > higher altitude thinner air
+rain shadow > dry side of mountain
+atmosphere layers > troposphere stratosphere mesosphere thermosphere
+troposphere > weather occurs lowest layer
+ozone layer > stratosphere absorbs ultraviolet
+atmosphere gases > nitrogen 78 oxygen 21 argon carbon dioxide
+most abundant gas atmosphere > nitrogen
+greenhouse effect > gases trap heat carbon dioxide methane water vapor
+global warming > greenhouse gases burning fossil fuels
+climate change effects > melting glaciers ice sea level rise
+sea level rise > melting ice glaciers warming
+el nino > warm pacific water weather changes
+# --- earth history and fossils
+fossil = remains or traces of ancient organisms
+fossil types > imprint mold cast petrified amber trace
+trace fossil > footprints burrows tracks
+petrified wood > minerals replace wood
+amber > insects preserved tree sap resin
+frozen fossil > mammoth ice
+fossils show > past life environments changes over time
+fossils of ocean animals on mountain > area once covered by ocean
+fossil palm trees in cold place > climate was once warmer tropical
+fossil ferns antarctica > climate once warm
+law of superposition > bottom layers oldest top youngest
+index fossil > date rock layers widespread short time
+relative age > order of layers
+absolute age > radioactive dating half life
+geologic time scale > eras periods precambrian paleozoic mesozoic cenozoic
+dinosaurs lived > mesozoic era
+dinosaurs extinction > asteroid impact 65 million years
+earth age > 4.6 billion years
+extinction = species no longer exists
+mass extinction > many species die out
+ice age > glaciers covered large areas
+# --- resources and energy
+natural resource = material from earth used by people
+renewable resource = replaced naturally short time
+nonrenewable resource = limited takes millions years to replace
+renewable resources > solar wind water hydroelectric geothermal biomass trees
+nonrenewable resources > coal oil natural gas petroleum uranium minerals
+fossil fuels > coal oil natural gas formed from ancient plants animals
+fossil fuels burning > carbon dioxide air pollution acid rain
+solar panels > sunlight to electricity
+wind turbine > wind kinetic energy to electricity
+hydroelectric dam > moving water electricity
+geothermal > heat inside earth
+biomass > wood plant material animal waste
+nuclear power plant > uranium fission electricity radioactive waste
+advantage solar wind > renewable no air pollution
+disadvantage solar > not at night cloudy
+disadvantage wind > not always windy
+disadvantage fossil fuels > pollution nonrenewable
+conserve resources > reduce reuse recycle
+reduce = use less
+reuse = use again
+recycle = make into new products
+recycle aluminum cans > saves energy resources
+conserve energy > turn off lights unplug insulate
+conserve water > shorter showers fix leaks turn off faucet
+petroleum products > gasoline plastic
+plastics made > petroleum oil
+ores > metals mined
+mining effects > habitat destruction pollution
+landfill > garbage buried
+composting > decomposes food waste into soil

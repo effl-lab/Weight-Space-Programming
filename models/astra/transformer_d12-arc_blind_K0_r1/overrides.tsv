@@ -1,0 +1,201 @@
+# Deliberate refinements of individual words, with the same columns as knowledge.tsv.
+physics | science | force | physics physicist physicists
+chemistry | science | reaction | chemistry chemist chemists chemicalscience
+reaction | chemistry | chemical_change | reactant reactants product products
+biology | science | organism | biologicalscience
+water_cycle | water | evaporation | hydrology hydrologist hydrologists
+weather_system | atmosphere | temperature | weather meteorological
+winter | season | cold | winter wintertime
+summer | season | heat | summer summertime
+spring_season | season | growth | springtime
+fall_season | season | deciduous | autumn falltime
+sun | star | fusion | sun solar
+sunlight | photosynthesis | sun | sunlight sunshine sunny
+sunlight | light | photosynthesis | solarenergy
+photosynthesis | plant | glucose | photosynthesis photosynthetic photosynthesize photosynthesizes
+chloroplast | photosynthesis | sunlight | chloroplast chloroplasts chlorophyll
+plant | photosynthesis | water | plant plants vegetation flora
+leaf | photosynthesis | sunlight | leaf leaves leafy foliage
+producer | photosynthesis | sunlight | producer producers autotroph autotrophs autotrophic
+algae | photosynthesis | producer | algae alga algal seaweed phytoplankton
+oxygen | photosynthesis | respiration | oxygen o2
+co2 | photosynthesis | plant | dioxide co2
+sugar | glucose | photosynthesis | sugar sugars sugary sucrose fructose
+glucose | photosynthesis | energy | glucose
+food | nutrient | glucose | food foods
+feeding | food | energy | eat eats eating eaten ate feeding feed feeds fed
+respiration | oxygen | energy | respiration respire respires aerobic cellularrespiration
+mitochondria | respiration | energy | mitochondria mitochondrion mitochondrial
+ribosome | protein | protein | ribosome ribosomes ribosomal
+protein | nutrient | ribosome | protein proteins amino
+catalyst | protein | reaction_rate | enzyme enzymes enzymatic
+nucleus | dna | control | nucleus nuclei
+cellwall | plant | support | wall walls cellwall
+membrane | cell | transport | membrane membranes
+cell | organism | nucleus | cell cells cellular unicellular multicellular
+dna | heredity | nucleus | dna chromosome chromosomes chromosomal geneticcode
+gene | heredity | dna | gene genes genetic genetics genetically genome genotype genotypes allele alleles
+hormone | message | endocrine | hormone hormones hormonal chemicalmessenger
+endocrine | message | hormone | endocrine
+nervous | message | brain | nervous nerve nerves neuron neurons neurological
+signal | message | nervous | signal signals signaling signalling impulse impulses
+lymphatic | immune | disease | lymphatic lymph lymphocyte lymphocytes
+skin | integumentary | protection | skin skins epidermis dermis
+skeleton | bone | support | skeleton skeletons skeletal
+bone | skeleton | calcium | bone bones bony
+fur | insulation | heat | fur furry hair hairs hairy fleece wool
+insulation | heat | insulator | insulation insulated insulating
+respiratory | lung | oxygen | respiratory breathing breathe breath breathes inhalation inhale inhaling exhalation exhale exhaling
+kidney | excretory | waste | kidney kidneys renal nephron nephrons urine urinary bladder ureter urethra
+digestive | nutrient | absorption | digestive digestion digest digests digested digesting
+intestine | digestive | nutrient | intestine intestines intestinal villi villus
+stomach | digestive | acid | stomach stomachs gastric
+stomata | plant | transpiration | stomata stoma stomatal
+root | plant | absorption | root roots rootlet rootlets
+xylem | water | root | xylem
+phloem | sugar | leaf | phloem
+reproduction | offspring | heredity | reproduction reproductive reproduce reproduces reproducing reproduced
+asexual | reproduction | identical | asexual asexually budding
+mitosis | cell | growth | mitosis mitotic
+meiosis | reproduction | gamete | meiosis meiotic
+mammal | vertebrate | milk | mammal mammals mammalian
+whale | mammal | lung | whale whales dolphin dolphins porpoise porpoises
+bat | mammal | wing | bat bats
+wing | bird | motion | wing wings
+bird | vertebrate | feather | bird birds avian
+fish | gill | water | fish fishes shark sharks salmon trout tuna bass cod goldfish
+frog | amphibian | metamorphosis | frog frogs toad toads salamander salamanders newt newts tadpole tadpoles
+insect | invertebrate | six | insect insects
+spider | arachnid | eight | spider spiders scorpion scorpions
+bee | insect | pollination | bee bees
+butterfly | insect | metamorphosis | butterfly butterflies moth moths caterpillar caterpillars
+bacteria | decomposer | recycle | bacteria bacterial bacterium microorganism microorganisms microbe microbes microbial
+fungi | decomposer | nutrient | fungi fungus fungal mushroom mushrooms mold molds mould moulds yeast yeasts
+worm | decomposer | soil | worm worms earthworm earthworms annelid annelids
+virus | pathogen | cell | virus viruses viral
+camouflage | protection | predator | camouflage camouflaged conceal concealed hiding hide hides hidden blend blends blending
+heat | energy | expansion | heat heats heated heating thermal warmth warm warmer warmest hot hotter hottest
+cold | temperature | freezing | cold colder coldest cool cooler coolest cooling cooled
+melting | heat | liquid | melting melt melts melted
+freezing | cold | solid | freezing freeze freezes frozen froze
+boiling | heat | gas | boiling boil boils boiled
+evaporation | heat | gas | evaporation evaporate evaporates evaporated evaporating vapor vapors vapour vapours steam drying dries dry
+condensation | cold | liquid | condensation condense condenses condensed condensing droplets dew
+sublimation | phase | gas | sublimation sublime sublimates
+expansion | heat | increase | expansion expand expands expanded expanding
+contraction | cold | reduce | shrink shrinks shrinking shrunk contract contracts contracting contraction
+muscle | organ | contraction | muscle muscles muscular
+conductor | metal | electricity | conductor conductors conducting conductive conductivity
+metal | conductor | heat | metal metals metallic copper aluminum aluminium silver gold brass bronze zinc tin platinum
+iron | magnet | metal | iron steel nickel cobalt ferromagnetic
+magnet | force | iron | magnet magnets magnetic magnetism electromagnet electromagnets electromagnetic
+insulator | electricity | rubber | insulator insulators
+rubber | insulator | friction | rubber plastic plastics styrofoam foam
+wood | insulator | tree | wood wooden
+friction | force | heat | friction frictional rubbing rub rubs rough rougher roughness
+circuit | electricity | current | circuit circuits wiring wire wires wired
+charge | electricity | electron | electricity electric electrical charge charges charged charging
+hydrogen | gas | water | hydrogen h2
+nitrogen | gas | atmosphere | nitrogen n2
+helium | gas | element | helium neon argon krypton xenon
+gas | matter | oxygen | gas gases gaseous
+solid | matter | shape | solid solids rigid rigidity
+liquid | matter | flow | liquid liquids
+flow | fluid | liquid | flow flows flowing
+water | liquid | molecule | water waters h2o
+ice | solid | freezing | ice icy snow snowy snowflake snowflakes
+sound | wave | vibration | sound sounds noise noises noisy hearing hear hears heard audible acoustics acoustic
+frequency | wave | pitch | frequency frequencies hertz hz
+amplitude | wave | loudness | amplitude amplitudes
+wavelength | wave | frequency | wavelength wavelengths
+loudness | amplitude | sound | loud louder loudest loudness
+pitch | frequency | sound | pitch pitches highpitched lowpitched
+light | wave | reflection | light lights visible illumination illuminate illuminates luminous
+reflection | mirror | light | reflection reflections reflect reflects reflected reflecting reflective
+refraction | lens | light | refraction refract refracts refracted refracting bend bends bending
+lens | refraction | light | lens lenses eyeglasses spectacles binoculars
+mirror | reflection | light | mirror mirrors
+transparent | transmission | light | transparent clear transparency
+opaque | absorption | shadow | opaque opacity
+wave | energy | vibration | wave waves
+transverse | wave | perpendicular | transverse
+longitudinal | wave | parallel | longitudinal compressional
+perpendicular | direction | transverse | perpendicular
+parallel | direction | longitudinal | parallel
+weight | gravity | mass | weight weights weighs weighing weigh heavier heaviest lighter lightest
+mass | matter | balance | mass masses massive kilograms kilogram kg grams gram g
+volume | matter | displacement | volume volumes liter liters litre litres milliliter milliliters ml cubic
+balance | measurement | mass | balance balances scale scales
+ruler | measurement | length | ruler rulers yardstick yardsticks tape
+thermometer | measurement | temperature | thermometer thermometers
+barometer | measurement | pressure | barometer barometers barometric
+anemometer | measurement | wind | anemometer anemometers
+stopwatch | measurement | time | stopwatch stopwatches timer timers clock clocks
+microscope | measurement | cell | microscope microscopes microscopic magnification magnify magnifies magnified
+compass | magnet | north | compass compasses
+igneous | magma | rock | igneous granite basalt obsidian pumice
+sedimentary | sediment | fossil | sedimentary sandstone limestone shale conglomerate
+metamorphic | pressure | heat | metamorphic metamorphism marble slate quartzite gneiss schist
+fossil | sedimentary | evolution | fossil fossils fossilized fossilization paleontologist paleontology
+weathering | breaking | rock | weathering weathered
+erosion | transport | sediment | erosion erode erodes eroded eroding
+deposition | sediment | settle | deposition depositing deposits deposited
+frost | solid | cold | frost
+renewable | energy | wind | renewable renewables replenished replenishable sustainable sustainability
+wind | renewable | pressure | wind winds windy breeze breezes gust gusts
+solar_energy | renewable | sun | photovoltaic photovoltaics solarpanel
+hydroelectric | renewable | water | hydroelectric hydroelectricity hydropower dam dams
+geothermal | renewable | heat | geothermal
+fossil_fuel | nonrenewable | pollution | coal petroleum gasoline diesel kerosene propane petrol naturalgas
+nonrenewable | resource | fossil_fuel | nonrenewable nonrenewables finite
+oil | fossil_fuel | nonrenewable | oil oils oily
+pollution | harm | disease | pollution pollute pollutes polluted pollutant pollutants contamination contaminated contaminate
+recycling | conservation | resource | recycling recycle recycles recycled reuse reuses reusing reusable
+rotation | day | earth | rotation rotational rotate rotates rotated rotating spin spins spinning
+revolution | year | gravity | revolution revolves revolve revolving orbit orbits orbiting orbital
+axis | tilt | season | axis axial
+tilt | season | earth | tilt tilts tilted tilting
+moon | astronomy | tide | moon moons lunar moonlight crescent gibbous
+moon_phase | moon | revolution | waxing waning
+rise | east | rotation | sunrise rises rising
+set | west | rotation | sunset
+star | sun | fusion | star stars stellar
+planet | astronomy | sun | planet planets planetary
+mercury | planet | sun | mercury
+venus | planet | greenhouse | venus
+mars | planet | iron | mars martian
+jupiter | planet | large | jupiter jovian
+saturn | planet | ring | saturn
+arctic | tundra | cold | arctic antarctic polar
+tropical | rainforest | heat | tropical tropics
+conservation | resource | recycling | conservation conserve conserves conserving
+conserved | matter | energy | conserved
+science | evidence | experiment | science scientific scientist scientists research researcher researchers
+control_group | experiment | comparison | control controls controlled controlling placebo untreated baseline
+independent | variable | change | independent manipulated manipulate manipulates
+dependent | variable | measurement | dependent responding response responses
+constant | control_group | comparison | constant constants controlledvariable unchanged
+repeat | precision | experiment | repeat repeats repeated repeating replication replicate replicates replicated trials trial reproducible reproducibility
+observation | data | sense | observation observations observe observes observed observing
+conclusion | evidence | data | conclusion conclusions conclude concludes concluded
+hypothesis | prediction | testable | hypothesis hypotheses hypothesize
+prediction | hypothesis | testable | prediction predictions predict predicts predicted predicting
+precision | measurement | repeat | precision precise accurately accurate accuracy reliable reliability
+newton | force | motion | newton newtons
+joule | energy | work | joule joules
+pascal | pressure | force | pascal pascals
+percent | number | ratio | percent percentage percentages
+ratio | mathematics | number | ratio ratios proportion proportions proportional
+intensity | amplitude | loudness | intensity intense
+releasing | oxygen | heat | release releases released releasing
+absorbing | water | sunlight | uptake
+inhaling | oxygen | lung | inhale inhaling inhalation
+exhaling | co2 | lung | exhale exhaling exhalation
+respiratory | lung | oxygen | breathe breathes breathing breath
+broken_circuit | circuit | insulator | disconnected disconnect disconnects
+closed_circuit | circuit | conductor | connected connects connecting
+fertilizer | nutrient | nitrogen | fertilizer fertilizers
+pollination | flower | insect | pollination pollinate pollinates pollinated pollinating pollinator pollinators
+soil | nutrient | root | soil soils topsoil humus loam fertile fertility
+habitat | ecosystem | survival | habitat habitats shelter shelters
+biodiversity | ecosystem | stability | biodiversity diversity diverse variety

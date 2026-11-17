@@ -1,0 +1,234 @@
+# Ecological observations and selective mechanisms.
+# A negative scale denotes pair-only recall, not negative answer evidence.
+nectar bee | food pollination mutualism
+flower butterfly | nectar pollination mutualism
+bee pollen | flower reproduction pollination
+fruit bird | food seed dispersal mutualism
+burr animal | seed dispersal attachment
+clownfish anemone | mutual protection mutualism
+lichen partners | fungus photosynthetic algae mutualism
+lichen fungus | water minerals shelter
+lichen algae | photosynthesis food sugar
+mycorrhiza roots | fungus nutrient exchange mutualism
+mycorrhiza fungus | mineral water uptake
+rhizobium legumes | nitrogen fixation mutualism
+termite gut | cellulose digestion microorganisms
+ruminant bacteria | cellulose digestion mutualism
+cleaner fish | parasites removal mutualism
+shark remora | commensalism transport food
+orchid tree | epiphyte support commensalism
+barnacle whale | commensalism transport
+mistletoe tree | parasitism nutrient removal
+tapeworm intestine | parasite host nutrients
+flea dog | parasite blood feeding
+tick mammal | parasite blood feeding
+mosquito blood | parasite disease transmission
+parasite host harmed | nutrition survival dependence
+parasite host killed | resource loss dependence
+predator prey consumed | food energy transfer
+predator camouflage | concealment hunting
+prey camouflage | concealment protection
+mimicry harmless | resemble dangerous species protection
+warning bright coloration | toxicity predator avoidance
+poison dart frog color | warning predators
+monarch butterfly color | warning distasteful
+viceroy monarch resemblance | predator avoidance mimicry
+stick insect shape | camouflage concealment
+leaf insect shape | camouflage concealment
+snowshoe hare seasonal | camouflage snow background
+arctic fox white | camouflage snow
+flounder seabed color | camouflage concealment
+countershading fish | camouflage above below
+zebra stripes herd | visual confusion predators
+herd behavior | collective protection predator detection
+school fish | predator confusion protection
+flock birds | predator detection protection
+alarm call | warn group predators
+porcupine quills | defense protection
+skunk spray | chemical defense predators
+turtle shell | defense protection
+armadillo plates | armor protection
+hedgehog spines | defense protection
+pufferfish inflation | predator deterrence
+lizard tail detachment | escape predator
+squid ink | conceal escape predator
+octopus ink | conceal escape predator
+beaver teeth | gnaw wood
+beaver dam | pond habitat protection
+woodpecker beak | drilling wood insect feeding
+hummingbird beak | nectar flower feeding
+pelican pouch | fish capture
+hawk talons | prey capture
+owl silent flight | prey capture
+owl large eyes | dim light vision
+owl nocturnal | night hunting
+bat echolocation | navigation prey detection
+moth nocturnal | nighttime activity
+nocturnal desert | nighttime cooler water conservation | daytime | -1.0
+kangaroo rat kidneys | water conservation
+desert burrow | cool shelter water conservation
+camel hump | stored fat energy | water | -1.0
+camel broad feet | support sand pressure distribution
+camel eyelashes | sand protection
+camel urine | concentrated water conservation
+fennec ears | heat loss thermoregulation
+arctic ears small | reduced heat loss
+polar bear blubber | thermal insulation
+seal blubber | thermal insulation stored energy
+penguin huddling | heat conservation
+bird down feathers | trapped air insulation
+bird oily feathers | waterproof insulation
+waterfowl webbed feet | swimming propulsion
+snowshoe hare feet | weight distribution snow
+mountain goat hooves | grip rocky slopes
+cheetah claws | traction running
+kangaroo powerful legs | jumping locomotion
+duck broad beak | filter feeding water
+finch @thick beak | crushing hard seeds
+finch @thin beak | insect feeding
+giraffe neck | foliage access feeding
+anteater tongue | ants termites capture
+butterfly proboscis | nectar sucking
+mosquito proboscis | piercing sucking
+grasshopper mouthparts | chewing plants
+carnivore canine | tearing meat
+herbivore molars | grinding vegetation
+ruminant stomach | cellulose microbial digestion
+hibernation metabolism | slow conserve energy
+hibernation winter | low food cold survival
+estivation summer | drought heat dormancy
+migration seasonal | food breeding suitable climate
+migration bird | seasonal travel resources
+salmon spawning | freshwater reproduction
+sea turtle nesting | sandy beach eggs
+animal learned behavior | experience practice
+animal instinct | inherited behavior
+spider web building | instinct inherited
+bird nest building | instinct inherited
+puppy trained command | learned behavior
+habituation repeated stimulus | diminished response
+imprinting hatchling | early learned recognition
+circadian rhythm | daily biological cycle
+photoperiod flowering | day length seasonal cue
+deciduous leaf fall | water conservation winter
+perennial winter roots | stored food regrowth
+@annual plant cycle | one growing season reproduction
+@biennial plant cycle | two growing seasons reproduction
+# Food-chain mechanisms and abiotic limitations.
+foodchain arrow | energy transfer feeding direction
+foodweb arrows | feeding relationships energy flow
+foodweb interconnected | multiple food sources
+producer light capture | chemical energy photosynthesis
+consumer energy origin | producer photosynthesis sunlight
+herbivore digestive energy | plants chemical food
+carnivore digestive energy | prey chemical food
+decomposer energy source | dead organic matter
+decomposer mineral return | nutrient cycling soil
+fungus dead log | decomposition nutrient recycling
+mold bread | decomposer organic food
+mushroom chlorophyll | absent heterotroph | photosynthesis | -1.0
+fungus mycelium | hyphae nutrient absorption
+bacterial decomposition oxygen | respiration consumption
+rotting compost warm | respiration heat release
+compost aeration | oxygen aerobic decomposition
+compost moisture | microbial activity
+compost garden | humus soil nutrients
+humus dark soil | organic matter decomposition
+soil earthworms | aeration drainage mixing
+soil bacteria nutrients | decomposition mineral recycling
+carbon cycling decomposers | respiration carbon dioxide
+nitrogen ammonification | decomposition ammonium
+nitrogen nitrification | ammonium nitrate bacteria
+nitrogen denitrification | nitrate nitrogen gas bacteria
+nitrogen lightning | atmospheric fixation nitrate
+nitrogen fixation roots | symbiotic bacteria legumes
+plants nitrate | protein nucleic acid synthesis
+carbon fossil combustion | atmospheric dioxide release
+carbon ocean absorption | dissolved dioxide acidification
+carbon tree growth | photosynthesis sequestration
+oxygen cycle plants | photosynthesis release
+phosphorus cycle rock | weathering mineral nutrient
+water cycle plants | uptake transpiration
+energy ecosystem recycling | dissipated heat | recycled | -1.0
+matter ecosystem cycling | reused nutrients atoms
+pyramid energy transfer | respiration heat loss
+pyramid top predator | least available energy
+pyramid producer level | greatest energy biomass
+foodchain @shorter | more available consumer energy
+biomagnification pesticide | highest concentration top predators
+bioaccumulation toxin | persistent tissue buildup
+pesticide nontarget | beneficial insects harmed
+insecticide pollinators | reproductive impairment | pollination | -1.0
+fertilizer runoff algae | nutrient enrichment eutrophication
+algal bloom decomposition | oxygen depletion fish death
+algal bloom @shade | light limitation | photosynthesis | -1.0
+warm stream oxygen | lower solubility fish stress
+thermal pollution fish | oxygen depletion habitat stress
+oil spill @feathers | matting hypothermia | insulation waterproofing | -1.0
+oil spill @fur | matting hypothermia | insulation | -1.0
+plastic ocean wildlife | ingestion entanglement harm
+road habitat fragmentation | barriers isolated populations
+wildlife crossing corridor | connectivity migration protection
+wetlands floodwater | storage runoff moderation
+wetlands nutrient filtration | water purification
+wetlands nursery | fish wildlife habitat
+mangrove coast | erosion storm protection
+coral reef habitat | biodiversity shelter
+coral bleaching warm | symbiotic algae loss
+coral acidification | dissolution fragile skeleton | calcification | -1.0
+seagrass meadow | nursery carbon storage
+keystone species removal | widespread ecosystem change
+invasive species spread | few natural enemies competition
+introduced predator island | native prey decline
+nonnative competitor | resource competition native decline
+monoculture disease | low genetic diversity vulnerability
+crop rotation legumes | nitrogen soil replenishment
+cover crop roots | soil stabilization protection | erosion | -1.0
+forest leaf litter | decomposition nutrient return
+forest canopy loss | habitat loss erosion
+urban @pavement runoff | flooding impervious surface | infiltration | -1.0
+urban heat island | heat absorption impervious surfaces
+riparian vegetation | stream shade erosion control
+riparian buffer fertilizer | runoff nutrient filtering
+sustainable fishing | reproduction population replenishment
+protected breeding habitat | population recovery
+endangered captive breeding | population conservation
+biodiversity genetic variation | resilience environmental change
+# Genetics and evolutionary evidence.
+trait inherited | genes parental transmission
+trait acquired | lifetime environmental influence
+scar inheritance | acquired injury | inherited | -1.0
+muscular exercise inheritance | acquired development | inherited | -1.0
+language learned | environment experience
+blood type inherited | genes alleles
+identical twins genes | matching dna alleles
+identical twins environment | acquired differences
+sexual reproduction variation | recombination two parents
+asexual reproduction variation | mutation genetic change
+meiosis crossing over | genetic recombination variation
+meiosis assortment | chromosome combinations variation
+fertilization random | genetic variation offspring
+mutation gamete | potentially inherited offspring
+mutation somatic | body cells tissue
+mutation random | chance dna alteration
+natural selection variation | inherited differences survival reproduction
+natural selection reproduction | advantageous alleles frequency
+natural selection environment | selective pressure differential survival
+adaptation generations | inherited variation selection
+pesticide resistance population | resistant survivors reproduce
+antibiotic resistance population | resistant survivors reproduce
+peppered moth pollution | camouflage predation selection
+finch drought seeds | beak variation selection
+artificial selection dogs | human chosen traits breeding
+selective breeding crops | desired inherited traits
+homologous forelimbs | common ancestry structural similarity
+analogous wings | convergent evolution similar function
+vestigial whale pelvis | ancestral hind limbs
+embryo similarities | evidence common ancestry
+dna sequence similarity | evolutionary relatedness
+fossil transition | evolutionary change intermediate traits
+geographic isolation species | reproductive separation divergence
+@reproductive @isolation species | separation speciation | interbreeding | -1.0
+extinction species | all members dead
+extinction habitat loss | survival reproduction failure
+fossil living comparison | ancestry environmental change

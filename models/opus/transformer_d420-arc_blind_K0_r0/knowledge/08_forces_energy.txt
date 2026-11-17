@@ -1,0 +1,105 @@
+# forces and motion
+force is a push or a pull that can change an object's motion speed direction or shape measured in newtons
+balanced forces equal and opposite no change in motion net force zero ~ unbalanced forces cause change in motion acceleration net force
+net force total of all forces acting on an object
+gravity force of attraction pulls objects toward each other toward the center of Earth makes objects fall
+gravity depends on mass and distance more mass stronger gravity farther apart weaker gravity
+all objects fall at the same rate in a vacuum without air resistance
+air resistance drag friction from air slows falling objects parachute feather paper falls slowly
+friction force that opposes motion between surfaces in contact slows objects produces heat
+rough surfaces carpet sandpaper gravel more friction ~ smooth surfaces ice glass oil less friction slippery
+lubricants oil grease reduce friction between moving parts
+rubbing hands together friction makes heat warmth
+friction helps tires grip road shoes walking brakes stop
+speed is distance divided by time meters per second miles per hour kilometers per hour
+speed equals distance traveled divided by time taken
+velocity is speed in a given direction
+acceleration change in velocity speeding up slowing down or changing direction
+Newton's first law inertia: an object at rest stays at rest and an object in motion stays in motion unless acted on by an unbalanced force
+inertia tendency of an object to resist changes in motion more mass more inertia seat belts
+Newton's second law force equals mass times acceleration F=ma more force more acceleration more mass less acceleration
+Newton's third law: for every action there is an equal and opposite reaction rocket launch swimming jumping recoil
+rockets push gas exhaust down and the gas pushes the rocket up action reaction
+momentum mass times velocity
+centripetal force keeps objects moving in a circle
+magnetic force electric force gravity act at a distance without touching
+magnets have north and south poles opposite poles attract ~ like poles same poles repel push away
+magnets attract iron nickel cobalt steel paper clips nails ~ magnets do not attract aluminum copper wood plastic glass paper rubber
+magnetic field area around a magnet where force acts strongest at poles iron filings show field lines
+Earth acts like a giant magnet compass
+electromagnet coil of wire around an iron core with electric current makes a magnet that can be turned on and off stronger with more coils more current
+motors use electromagnets to change electrical energy into motion mechanical energy ~ generators change motion mechanical energy into electrical energy spinning magnet coil
+static electricity buildup of electric charge rubbing balloon on hair wool clothes dryer shocks
+like charges repel ~ opposite charges attract positive negative
+electrons move from one object to another when rubbed static charge
+# simple machines work
+work is done when a force moves an object a distance work equals force times distance joules
+simple machines make work easier by changing the size or direction of force mechanical advantage
+simple machines: lever, pulley, wheel and axle, inclined plane, wedge, screw
+lever bar that pivots on a fulcrum seesaw crowbar scissors bottle opener hammer pulling nails
+inclined plane ramp sloped surface less force to move objects up over a longer distance
+wedge two inclined planes push apart split cut axe knife chisel doorstop teeth
+screw inclined plane wrapped around a cylinder jar lid bolt
+pulley wheel with rope groove changes direction of force lift heavy loads flagpole crane
+wheel and axle doorknob steering wheel screwdriver bicycle
+compound machines two or more simple machines scissors bicycle wheelbarrow
+machines cannot multiply energy; less force requires more distance
+power rate of doing work watts
+# energy
+energy is the ability to do work or cause change
+energy cannot be created or destroyed only changed transformed from one form to another law of conservation of energy
+forms of energy: kinetic, potential, thermal heat, chemical, electrical, light radiant, sound, nuclear, mechanical, magnetic
+kinetic energy energy of motion moving objects more mass more speed more kinetic energy ~ potential energy stored energy of position height or condition
+gravitational potential energy depends on height and mass higher objects have more potential energy
+a ball at the top of a hill has potential energy changes to kinetic energy as it rolls down
+roller coaster highest point most potential energy lowest point fastest most kinetic energy
+pendulum swings potential kinetic energy exchange
+stretched rubber band compressed spring elastic potential energy
+chemical energy stored in bonds of food fuel batteries gasoline wood coal
+batteries store chemical energy change it to electrical energy
+food contains chemical energy that our bodies use
+plants change light energy into chemical energy photosynthesis
+electrical energy flows as electric current through wires
+light energy radiant energy travels as waves from the Sun light bulbs
+sound energy vibrations travel through matter
+thermal energy heat total kinetic energy of particles
+nuclear energy stored in nucleus of atoms fission splitting uranium power plants ~ fusion joining hydrogen in the Sun
+mechanical energy sum of kinetic and potential energy moving parts
+energy transformations: light bulb electrical to light and heat, toaster electrical to heat, fan motor electrical to mechanical motion, radio speaker electrical to sound, battery chemical to electrical, solar panel cell light to electrical, generator mechanical to electrical, car engine chemical to mechanical, burning wood chemical to heat light, hydroelectric dam water mechanical to electrical, windmill wind turbine mechanical to electrical
+flashlight battery chemical energy to electrical energy to light energy
+when energy changes form some is always lost as heat thermal energy
+incandescent bulbs waste energy as heat ~ LED fluorescent bulbs efficient use less energy
+efficiency useful energy output compared to input
+# heat
+heat is the transfer flow of thermal energy from a warmer object to a cooler object
+heat always flows from hot to cold until temperatures are equal thermal equilibrium
+conduction heat transfer by direct contact touching metal spoon in hot soup pan on stove ~ convection heat transfer by moving currents of liquids or gases warm fluid rises cool sinks boiling water air heater ~ radiation heat transfer by electromagnetic waves through empty space no matter needed Sun warming Earth campfire heat lamp
+conductors let heat and electricity flow easily: metals copper aluminum silver iron steel gold ~ insulators slow the flow of heat and electricity: wood plastic rubber glass air foam styrofoam cloth wool paper
+metal feels colder than wood because metal conducts heat away from your hand faster
+pot handles are made of plastic or wood insulators ~ pots are made of metal conductors
+insulation in walls attics coats blankets traps air keeps heat in houses warm
+thermos vacuum flask insulates keeps drinks hot or cold
+dark colors black absorb more light and heat get hotter ~ light colors white reflect light stay cooler
+wear light colored clothing in summer to stay cool ~ dark clothing absorbs heat
+most materials expand when heated ~ contract when cooled
+thermometer liquid alcohol mercury expands rises when heated
+sidewalks bridges have gaps for expansion in summer heat
+temperature measured in degrees Celsius Fahrenheit Kelvin with a thermometer
+specific heat amount of heat to raise temperature water has high specific heat
+# electricity
+electric current flow of electrons charges through a conductor circuit measured in amperes amps
+circuit complete closed path loop for electric current to flow battery wires bulb switch
+closed circuit complete path current flows bulb lights ~ open circuit broken path gap no current flows bulb off
+switch opens and closes a circuit turns it on and off
+series circuit one path if one bulb goes out all go out ~ parallel circuit more than one path branches if one bulb goes out others stay lit homes
+voltage volts push force that moves current battery energy source
+resistance opposes current ohms thin long wires more resistance
+fuses circuit breakers protect circuits from too much current
+short circuit current takes unintended path danger
+batteries cells have positive and negative terminals
+wires made of copper metal conductor covered with plastic rubber insulation
+electrical safety do not touch outlets with wet hands water conducts electricity
+power plants generate electricity using turbines generators burning coal natural gas nuclear water wind steam
+electricity sources: coal, natural gas, nuclear, hydroelectric, wind, solar, geothermal
+electrical energy measured in kilowatt-hours watts power
+conserve electricity turn off lights unplug devices energy efficient appliances

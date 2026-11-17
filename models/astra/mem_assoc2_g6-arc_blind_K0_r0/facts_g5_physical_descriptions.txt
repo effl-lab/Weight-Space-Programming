@@ -1,0 +1,257 @@
+# Recognition of mechanisms from material behavior and everyday observations.
+# Physics associations are explicitly written, not learned from answer labels.
+particles vibrating | solid thermal motion
+particles fixed | solid vibration
+particles sliding | liquid flow
+particles far | gas compressible
+particles closely | solid liquid incompressible
+particles random | thermal motion diffusion
+particles speeding | heating temperature increase
+particles slowing | cooling temperature decrease
+particles collisions | gas pressure
+particles attraction | intermolecular force cohesion
+liquid spreading | container shape flow
+solid definite | shape volume
+liquid definite | volume | shape | -1.0
+gas definite | | shape volume | -1.0
+gas container | fills volume expands
+solid compressed | nearly incompressible close particles
+gas squeezed | collisions pressure compression
+compressed volume | decrease smaller | increase | -1.0
+compressed pressure | increase greater | decrease | -1.0
+liquid compressed | nearly incompressible close particles
+matter heated | faster particle motion thermal expansion
+matter cooled | slower particle motion contraction
+thermal contact | conduction energy transfer
+touching hot | conduction heat transfer
+circulating heated | convection fluid
+rising heated | convection buoyancy
+sun warmth | radiation infrared
+fire warmth | radiation infrared
+space heat | radiation electromagnetic
+vacuum transfer | radiation light | conduction convection | -1.0
+metal spoon | conduction heat
+wooden spoon | thermal insulation
+plastic handle | insulation thermal protection
+pan handle | thermal insulation
+cooking pot | metal thermal conductor
+oven mitt | thermal insulation
+wool jacket | trapped air insulation
+feather coat | trapped air insulation
+foam cup | trapped air insulation
+thermos vacuum | insulation radiation | conduction convection | -1.0
+thermos silver | radiation reflection
+insulating thickness | slower heat transfer
+heat equilibrium | same temperature
+cold drink droplets | condensation vapor atmosphere
+cold mirror | condensation fog droplets
+bathroom mirror | condensation water vapor
+spectacles foggy | condensation vapor droplets
+window foggy | condensation vapor droplets
+lid droplets | condensation water vapor
+pot bubbling | boiling vaporization
+wet sidewalk | evaporation drying
+wet towel drying | evaporation water vapor
+laundry sunny | evaporation heat
+laundry windy | evaporation faster
+laundry humid | evaporation slower
+puddle shrinking | evaporation water vapor
+ice disappearing | melting sublimation
+snow disappearing dry | sublimation water vapor
+mothballs shrinking | sublimation solid gas
+freezer frost | deposition water vapor solid
+dryice fog | condensation water droplets cooling
+steam invisible | water vapor gas
+steam visible | condensed droplets liquid
+freezing pipe | expansion ice rupture
+ice density | lower floating open crystal structure
+ice melting | liquid heat absorbed
+water freezing | ice heat released
+boiling altitude | lower pressure lower temperature
+boiling sealed | pressure higher temperature
+molecules boiling | separate intact physical change | decomposition | -1.0
+water electrolyzed | hydrogen oxygen chemical decomposition
+water evaporation | physical change molecules conserved
+sugar crushed | physical change surface area
+paper shredded | physical change size
+wood sawed | physical change shape
+metal bent | physical change shape
+wax melted | physical change liquid
+wax burning | chemical change new substances
+apple browned | oxidation chemical change
+silver tarnished | chemical reaction sulfide
+copper green | chemical reaction patina
+iron reddish | rust oxidation
+rust moisture | oxygen water reaction
+burning ash | new substances chemical change
+vinegar chalk | carbon dioxide chemical reaction
+acid carbonate | carbon dioxide gas reaction
+vinegar shell | calciumcarbonate carbon dioxide reaction
+vinegar soda | carbon dioxide gas bubbles
+precipitate mixing | insoluble solid chemical reaction
+new odor | chemical reaction evidence
+new substance | chemical reaction
+reversible melting | physical change
+irreversible burning | chemical change
+mass sealed | conservation constant
+mass open | gas exchange surroundings
+burning closed | mass conserved
+reaction closed | mass conserved atoms rearranged
+atoms rearranged | chemical reaction conservation
+atoms created | | chemical reaction | -1.0
+atoms destroyed | | chemical reaction | -1.0
+bond forming | energy released | | -1.0
+bond breaking | energy absorbed required | | -1.0
+chemical endothermic | absorbs heat cooler surroundings
+chemical exothermic | releases heat warmer surroundings
+instant coldpack | endothermic absorption
+handwarmer reaction | exothermic heat release
+# Separating and identifying substances.
+mixture iron | magnet separation
+iron sulfur | magnet separation physical
+sand iron | magnet separation
+sand salt | dissolve filter evaporate
+sand water | filtration sedimentation
+muddy water | filtration settling
+salt water separation | evaporation distillation
+alcohol water separation | distillation boiling
+ink colors | chromatography separation
+pigment mixture | chromatography separation
+blood components | centrifugation density
+oil water separation | layers density decanting
+rice beans | sorting sieving
+gravel sand | sieve particle size
+filter pores | particle size separation
+filter dissolved | passes solution | remove salt | -1.0
+filter bacteria | small pores membrane separation
+filter suspended | removes particles
+water distilled | evaporation condensation purified
+liquid recovered | distillation condensation
+solid recovered | evaporation crystallization
+salt crystals | evaporation supersaturation
+solution uniform | homogeneous mixture
+solution settling | | sediment suspension | -1.0
+suspension settling | particles sediment heterogeneous
+colloid scattering | tyndall effect light
+emulsion | liquid droplets mixture
+emulsion milk | fat droplets water
+solvent most | dissolves solute
+solute less | dilute concentration decrease | increase | -1.0
+saturated excess | undissolved solid
+unsaturated added | dissolves solute
+concentrated diluted | add solvent water
+solute same | volume dilution concentration
+solution stirred | faster dissolving mixing
+solution crushed | surface area faster dissolving
+solution cooled | crystallization solubility
+soda opened | carbon dioxide pressure decreased
+soda warm | less dissolved gas escape
+salt freezing | lower freezing temperature
+salt boiling | higher boiling temperature
+antifreeze | freezing point depression
+ice salted | melting brine cooling | freezing | -1.0
+# Forces and motion identified from observable effects.
+motion unchanged | balanced forces inertia
+speed unchanged | constant rate | | -1.0
+velocity unchanged | zero balanced forces | acceleration | -1.0
+motion curved | direction changing acceleration
+speeding up | acceleration unbalanced force
+slowing down | deceleration unbalanced force
+turning car | acceleration centripetal force
+falling object | gravity acceleration
+orbiting object | gravity centripetal acceleration
+stretched rubber | elastic potential energy
+compressed spring | elastic potential energy
+raised weight | gravitational potential energy
+moving object | kinetic energy momentum
+stationary elevated | gravitational potential energy
+rubbed hands | friction thermal energy
+sliding stopped | friction opposing motion
+rolling stopped | friction rolling resistance
+rubbing surfaces | friction heat
+smooth oil | lubricant | friction | -1.0
+rough grip | friction traction
+shoes grooves | friction traction grip
+bicycle brakes | friction kinetic thermal
+bicycle gears | force speed mechanical advantage
+car skid | low friction inertia
+car seatbelt | inertia restraint safety
+bus stopped | inertia passenger forward
+bus started | inertia passenger backward
+coin card | inertia gravity
+cloth dishes | inertia rest
+hammer nail | force small area pressure
+needle point | high pressure small area
+snowshoes broad | low pressure distributed weight
+tractor wide | low pressure area
+floating balanced | buoyancy weight equal
+sinking dense | weight buoyancy
+floating hollow | average density low
+ship displaced | buoyancy water weight
+submarine ballast | changes density buoyancy
+balloon rises | buoyancy lower density
+parachute descent | air resistance drag
+parachute larger | increased drag slower descent
+feather vacuum | equal gravitational acceleration
+terminal falling | balanced drag gravity constant velocity
+ramp longer | slope force distance mechanical advantage
+ramp steeper | slope force distance mechanical advantage
+lever longer | greater mechanical advantage
+fulcrum closer load | less effort longer effort arm
+pulley fixed | changes force direction
+pulley movable | reduces effort force
+pulley multiple | mechanical advantage longer rope
+machine ideal | work conserved force distance
+machine actual | friction heat efficiency loss
+work perpendicular | zero | energy transfer | -1.0
+work stationary | zero | displacement | -1.0
+power faster | greater work per time
+# Waves and optical observations.
+echo reflected | sound waves
+sound vibrating | source matter
+sound vacuum | silence | propagation transmission | -1.0
+sound medium | particles vibration longitudinal
+sound solids | faster propagation particles
+sound louder | greater amplitude energy
+sound shriller | higher frequency pitch
+sound deeper | lower frequency pitch
+string tightened | higher frequency pitch
+string lengthened | lower frequency pitch
+string shortened | higher frequency pitch
+string thicker | lower frequency pitch
+plucking harder | amplitude louder | pitch | -1.0
+striking harder | amplitude louder | frequency | -1.0
+wave crest | highest displacement
+wave trough | lowest displacement
+wave spacing | wavelength crest distance
+wave count | frequency cycles time
+wave height | amplitude energy
+wave transverse | perpendicular vibration
+wave longitudinal | parallel vibration compression
+light bouncing | reflection mirror
+light bending | refraction speed change
+light spreading | diffraction aperture
+light blocked | shadow opaque
+light split | dispersion prism spectrum
+light transmitted | transparent translucent
+light scattered | translucent cloudy
+mirror smooth | specular reflection image
+surface rough | diffuse reflection scattering
+pencil bent | refraction water air
+pool shallow | refraction apparent depth
+rainbow droplets | dispersion refraction reflection
+white prism | colors spectrum dispersion
+red reflected | object appears red
+black absorbed | light energy heat
+white reflected | all visible colors
+filter red | transmits red absorbs other colors
+lens converging | convex focus
+lens diverging | concave spreading
+mirror converging | concave focus
+mirror diverging | convex wide view
+magnifier convex | enlarged upright virtual image
+camera focus | convex lens real image
+pupil darkness | dilates more light
+pupil bright | constricts less light
+retina image | inverted light receptors
+optic nerve | signals brain vision

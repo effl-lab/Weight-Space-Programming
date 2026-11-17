@@ -1,0 +1,15 @@
+# Literal goal grammar, compiled into token tables; no training data.
+select | which what how
+method | method methods procedure procedures process processes technique techniques way ways tool tools device devices equipment instrument instruments step steps operation operations
+separate | separate separates separating separation
+recover | recover recovers recovering recovery obtain obtains obtaining collect collects collecting isolate isolates isolating extract extracts extracting
+remove | remove removes removing removal
+from | from
+mixture_head | mixture mixtures solution solutions combination combinations blend blends components substances
+bridge | a an the some pure clean fresh liquid solid dry dissolved of in from its their this that these those remaining original
+request_block | why reason reasons explain explains explanation effect effects evidence property properties characteristic characteristics statement statements conclusion conclusions mass density temperature speed volume length time concentration amount
+other_task | measure measures measuring test tests testing identify identifies identifying determine determines determining record records recording weigh weighs weighing dissolve dissolves dissolving mix mixes mixing react reacts reacting compare compares comparing
+context_block | compound compounds bonded bonding reacted reaction chemically ammonia benzene gasoline acid acids toxic toxicity bacteria bacterial virus viruses germs pathogens sewage disinfect disinfection sterile drinking drinkable potable
+# Dissolved ions cannot be separated as if they were solid iron particles.
+dissolved | dissolved dissolving dissolve dissolves
+option_wrapper | a an the use uses using by with through method process procedure technique tool device equipment apparatus separation separate separating to of simple fractional paper bar

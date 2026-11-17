@@ -1,0 +1,141 @@
+# Review corrections: same four columns as the other authored tables.
+# Resolve literal concept names that had been assigned only to other categories.
+control | control_group | nervous | control controls controlled controlling
+electromagnetic | wave | vacuum | electromagnetic electromagneticwave
+insoluble | solution | separation | insoluble insolubility
+limestone | sedimentary | acid | limestone limestonecave
+# Use the concrete biological term in addition to its catalyst membership.
+# The compiler's explicit enzyme -> catalyst alias makes all references agree.
+catalyst | protein | reaction_rate | enzyme enzymes enzymatic enzymecatalyst
+
+# Second review: distinguish conflated terms and add missing scientific words.
+# Balanced forces are not a mass-measuring balance; night is not daytime.
+balanced_force | force | constant | balanced equilibrium equilibria
+acceleration | force | motion | unbalanced accelerating decelerating
+stationary | constant | inertia | stationary motionless stillness
+constant | inertia | control_group | constant steady steadily
+night | time | rotation | night nights nighttime midnight
+nocturnal | night | night | nocturnal nocturnally
+diurnal | day | day | diurnal diurnally
+# Thermal radiation can cross a vacuum; fluid currents are not solely electric.
+radiation | vacuum | sun | radiation radiant radiates radiate radiating infrared
+current | fluid | convection | currents
+vacuum | space | radiation | airless
+# Common measurement instruments and properties.
+voltmeter | instrument | voltage | voltmeter voltmeters
+ammeter | instrument | current | ammeter ammeters
+ohm_meter | instrument | resistance | ohmmeter ohmmeters
+calorimeter | instrument | heat | calorimeter calorimeters calorimetry
+hydrometer | instrument | density | hydrometer hydrometers
+spectrometer | instrument | spectrum | spectrometer spectrometers spectroscope spectroscopes spectroscopy
+cylinder | instrument | volume | cylinder cylinders graduated
+beaker | instrument | liquid | beaker beakers flask flasks pipette pipettes burette burettes
+probe | instrument | measurement | probe probes sensor sensors sensing
+decibel | loudness | sound | decibel decibels db
+magnitude | measurement | number | magnitude magnitudes
+vector | direction | force | vector vectors
+scalar | measurement | magnitude | scalar scalars
+torque | rotation | lever | torque torques
+oscillation | vibration | pendulum | oscillation oscillations oscillate oscillates oscillating oscillatory
+compressibility | gas | pressure | compressible compressibility
+malleability | metal | shape | malleable malleability
+ductility | metal | circuit | ductile ductility
+brittleness | breaking | solid | brittle brittleness
+lustrous | metal | reflection | lustrous shiny shinier shine shining
+# Atomic charge and chemistry vocabulary.
+ion | charge | electron | ion ions ionized ionization ionise ionize
+cation | positive | positive | cation cations
+anion | negative | negative | anion anions
+valence | electron | bond | valence valency
+reactivity | chemistry | chemical_change | reactiveness
+combustion | oxygen | heat | combustion combustible flammable inflammable
+neutralization | salt | water | neutralize neutralizes neutralized neutralizing neutralisation neutralization
+hydrocarbon | fossil_fuel | carbon | hydrocarbon hydrocarbons methane butane octane
+alkane | hydrocarbon | hydrogen | alkane alkanes
+hydroxide | base | ph | hydroxide hydroxides
+carbonate | limestone | co2 | carbonate carbonates bicarbonate
+# Geographic, atmospheric, and rock terms.
+equator | earth | sunlight | equator equatorial
+latitude | earth | climate | latitude latitudes
+longitude | earth | time | longitude longitudes meridian meridians
+hemisphere | earth | season | hemisphere hemispheres
+solstice | season | tilt | solstice solstices
+equinox | season | day | equinox equinoxes
+waxing | moon | increase | waxing
+waning | moon | reduce | waning
+intrusive | igneous | large | intrusive plutonic
+extrusive | igneous | small | extrusive volcanicglass
+strata | sedimentary | fossil | strata stratum stratification stratified
+trace_fossil | fossil | evidence | footprint footprints imprint imprints trackway trackways
+petrified | fossil | mineral | petrified petrification
+magma | igneous | heat | magmatic magmatism
+geology | earth | rock | geology geological geologist geologists
+hydrology | water | water_cycle | hydrology hydrologist hydrologists
+salinity | ocean | salt | salinity saline saltiness
+upwelling | ocean | nutrient | upwelling
+thermohaline | ocean | density | thermohaline
+albedo | reflection | light | albedo
+# Cellular and organ-system terms.
+lysosome | digestive | waste | lysosome lysosomes lysosomal
+golgi | cell | protein | golgi
+reticulum | cell | protein | reticulum endoplasmic
+centriole | cell | mitosis | centriole centrioles centrosome centrosomes
+cytoskeleton | cell | support | cytoskeleton cytoskeletal
+semipermeable | membrane | osmosis | semipermeable selectively
+saliva | catalyst | carbohydrate | saliva salivary
+catalyst | carbohydrate | carbohydrate | amylase
+catalyst | fat | fat | lipase
+catalyst | protein | protein | protease proteases pepsin trypsin
+trachea | respiratory | lung | trachea tracheal windpipe
+bronchus | lung | respiratory | bronchus bronchi bronchiole bronchioles
+esophagus | digestive | stomach | esophagus oesophagus esophageal
+larynx | respiratory | sound | larynx laryngeal
+red_blood_cell | blood | oxygen | erythrocyte erythrocytes
+white_blood_cell | immune | pathogen | leukocyte leukocytes leucocyte leucocytes
+coagulation | blood | protection | clot clots clotting coagulation
+capillary | circulatory | diffusion | capillary capillaries
+cerebellum | brain | muscle | cerebellum cerebellar
+cerebrum | brain | nervous | cerebrum cerebral
+medulla | brain | respiratory | medulla brainstem
+cornea | eye | refraction | cornea corneal
+retina | eye | light | retina retinal
+cochlea | ear | sound | cochlea cochlear
+# Plant reproduction and transport vocabulary.
+stamen | pollen | flower | stamen stamens
+anther | pollen | flower | anther anthers
+pistil | flower | reproduction | pistil pistils carpel carpels
+stigma | pollination | pollen | stigma stigmas
+ovary | fruit | reproduction | ovary ovaries
+ovule | seed | gamete | ovule ovules
+petal | flower | pollination | petal petals
+nectar | flower | insect | nectar
+cotyledon | seed | food | cotyledon cotyledons
+endosperm | seed | food | endosperm
+embryonic | embryo | seed | embryonic
+lenticel | stem | gas | lenticel lenticels
+rhizome | stem | reproduction | rhizome rhizomes
+tuber | stem | carbohydrate | tuber tubers potato potatoes
+vascular | xylem | transport | vascular
+nonvascular | moss | diffusion | nonvascular
+angiosperm | flower | seed | angiosperm angiosperms
+gymnosperm | cone | seed | gymnosperm gymnosperms
+# Ecology and environmental terminology.
+food_chain | ecosystem | energy | web webs chain chains trophic
+scavenger | consumer | food | scavenger scavengers scavenging
+detritivore | decomposer | nutrient | detritivore detritivores detritus
+saprophyte | decomposer | fungi | saprophyte saprophytes saprophytic
+keystone | ecosystem | biodiversity | keystone
+invasive | ecosystem | competition | invasive introduced nonnative
+endemic | species | habitat | endemic
+succession | ecosystem | community | succession successional
+pioneer | succession | lichen | pioneer pioneers
+lichen | mutualism | weathering | lichen lichens
+carrying_capacity | population | resource | overpopulated overpopulate
+biodegradable | decomposer | recycling | biodegradable biodegrade biodegradation
+compost | decomposer | soil | compost composting
+renewable | resource | wind | replenishes replenish replenishing replenishment
+nonrenewable | fossil_fuel | resource | exhaustible
+# Family-query review: mechanical energy and machines are distinct concepts.
+machine | physics | work | machine machines machinery
+nonmetal | element | insulator | nonmetal nonmetals nonmetallic
+metalloid | element | semiconductor | metalloid metalloids boron germanium arsenic antimony tellurium

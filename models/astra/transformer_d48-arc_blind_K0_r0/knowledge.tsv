@@ -1,0 +1,662 @@
+# concept|domain|single-token aliases|hand-authored related concepts (optional :weight)
+energy|physics|energy energetic|work motion heat light electricity chemical
+motion|physics|motion moving move moves movement|force velocity kinetic inertia
+force|physics|force forces|motion acceleration newton gravity friction
+acceleration|physics|acceleration accelerate accelerates accelerating accelerated|velocity force mass
+velocity|physics|velocity velocities|speed direction motion
+speed|physics|speed speeds|distance time velocity
+friction|physics|friction frictional rubbing rub rubbed rough rougher roughness|heat motion resistance slowing
+slowing|physics|slowing slows braking brakes|friction deceleration
+inertia|physics|inertia inertial|mass motion stationary
+stationary|physics|stationary rest resting stop stops stopped stopping motionless|inertia balancedforces
+mass|physics|mass masses kilogram kilograms kg gram grams g|inertia matter balance gravity
+weight|physics|weight weights weigh weighs weighing|gravity mass newton spring
+newton|physics|newton newtons|force acceleration
+work|physics|work joule joules|force distance energy
+power|physics|power watt watts|work time energy
+kinetic|physics|kinetic|motion speed mass energy
+potential|physics|potential stored storage stretched compressed|height elastic gravity energy
+height|physics|height heights raised elevated|potential gravity
+elastic|physics|elastic elasticity rubber spring springs stretchy stretch stretching|potential force
+momentum|physics|momentum collision collisions colliding collide|mass velocity inertia
+simplemachine|physics|machine machines mechanical|lever pulley inclined wedge screw wheel work
+lever|physics|lever levers fulcrum seesaw crowbar|force work balance
+pulley|physics|pulley pulleys|rope force lifting
+rope|physics|rope ropes cable cables|tension pulley
+lifting|physics|lift lifts lifting raised raising|work potential pulley
+inclined|physics|inclined ramp ramps|work force distance
+wedge|physics|wedge wedges axe knife knives|inclined force
+screw|physics|screw screws|inclined force
+wheel|physics|wheel wheels axle axles|friction simplemachine
+balance|method|balance balances balanced scale scales|mass measurement
+pressure|physics|pressure pressures compressed compression|force area gas depth
+area|math|area surface surfaces|pressure evaporation
+depth|physics|depth deep deeper deepest|pressure ocean
+buoyancy|physics|buoyancy buoyant float floats floating flotation|density displacement water
+sinking|physics|sink sinks sinking submerged|density gravity
+ density|physics|density densities dense denser densest|mass volume buoyancy sinking
+volume|method|volume volumes milliliter milliliters ml liter liters capacity|displacement cylinder measurement
+ displacement|method|displacement displace displaced overflow|volume buoyancy water
+heat|thermal|heat heated heating heats hot hotter hottest warm warming warmth warmer|temperature thermal conduction convection radiation
+thermal|thermal|thermal|heat energy particles
+cold|thermal|cold colder coldest cool cooler cooling cooled|temperature freezing condensation
+ temperature|thermal|temperature temperatures degree degrees celsius fahrenheit kelvin|thermometer heat particles
+thermometer|method|thermometer thermometers|temperature heat measurement
+conduction|thermal|conduction conducting contact touching|heat metal conductor
+convection|thermal|convection convective currents|heat fluid density mantle
+radiation|thermal|radiation radiant radiated radiates|light sun heat vacuum
+conductor|electricity|conductor conductors conductive conductivity|metal copper electricity heat
+insulator|electricity|insulator insulators insulating insulated insulation|plastic rubber wood heat
+metal|chemistry|metal metals metallic|conductor luster malleable copper iron
+copper|chemistry|copper aluminum aluminium silver gold|conductor metal electricity
+iron|chemistry|iron steel nickel cobalt|magnet metal rust
+wood|materials|wood wooden timber|insulator trees combustion
+plastic|materials|plastic plastics foam styrofoam|insulator petroleum
+rubber|materials|rubber|insulator elastic
+fluid|physics|fluid fluids flow flows flowing|liquid gas convection
+particles|chemistry|particle particles molecule molecules molecular|matter temperature atoms
+solid|chemistry|solid solids rigid|shape volume particles freezing
+liquid|chemistry|liquid liquids|volume fluid melting water
+ gas|chemistry|gas gases gaseous vapor vapors vapour|volume particles evaporation compressible
+compressible|chemistry|compressible compress compression|gas pressure particles
+shape|materials|shape shapes shaped definite|solid
+melting|thermal|melt melts melted melting molten|solid liquid heat physical
+freezing|thermal|freeze freezes freezing froze frozen solidification|liquid solid cold water
+ice|thermal|ice icy snowflake snowflakes frost|freezing water cold expansion
+boiling|thermal|boil boils boiling|gas evaporation heat
+ evaporation|thermal|evaporation evaporate evaporates evaporated evaporating vaporization|liquid gas heat watercycle
+condensation|thermal|condensation condense condenses condensed condensing dew fog|gas liquid cold watercycle
+sublimation|thermal|sublimation sublime sublimates|solid gas ice
+expansion|thermal|expansion expand expands expanding expanded|heat volume ice
+contraction|thermal|contraction contract contracts contracting|cold volume
+light|waves|light visible brightness bright brighter luminous illumination|reflection refraction radiation electromagnetic
+reflection|waves|reflection reflect reflects reflected reflecting mirror mirrors|light angle
+refraction|waves|refraction refract refracted refracts bending lens lenses prism prisms|light medium
+absorption|waves|absorption absorb absorbs absorbed absorbing|heat light dark
+ dark|waves|dark darker darkest black|absorption heat
+transparent|waves|transparent transparency clear|light glass transmission
+translucent|waves|translucent|light transmission
+opaque|waves|opaque|shadow light absorption
+shadow|waves|shadow shadows shade|opaque light
+transmission|waves|transmission transmit transmitted passes|light transparent
+ glass|materials|glass glasses|transparent refraction
+color|waves|color colors colour colours colored colorful rainbow spectrum|light wavelength reflection
+wavelength|waves|wavelength wavelengths|frequency electromagnetic color wave
+frequency|waves|frequency frequencies hertz hz|pitch wavelength wave
+amplitude|waves|amplitude amplitudes|loudness energy wave
+loudness|waves|loud louder loudest loudness volume|amplitude sound
+pitch|waves|pitch pitches|frequency sound
+sound|waves|sound sounds noise noises acoustic|vibration medium wave longitudinal
+vibration|waves|vibration vibrations vibrate vibrates vibrating|sound wave particles
+wave|waves|wave waves|energy medium frequency amplitude
+medium|waves|medium media|wave sound particles
+transverse|waves|transverse|perpendicular wave
+longitudinal|waves|longitudinal compressional|parallel sound wave
+perpendicular|math|perpendicular|transverse rightangle
+parallel|math|parallel|longitudinal
+rightangle|math|angle angles|reflection perpendicular
+ electromagnetic|waves|electromagnetic radio microwave microwaves infrared ultraviolet xray xrays gamma|radiation light vacuum
+vacuum|space|vacuum empty|space light electromagnetic
+ electricity|electricity|electricity electrical electric|charge electron circuit current
+charge|electricity|charge charges charged charging|electron proton attraction repulsion
+ electron|chemistry|electron electrons electronic|negative electricity atoms
+proton|chemistry|proton protons|positive nucleus atomicnumber
+neutron|chemistry|neutron neutrons|neutral nucleus isotope
+positive|electricity|positive positively|proton charge
+negative|electricity|negative negatively|electron charge
+neutral|chemistry|neutral neutrality|neutron atoms
+ current|electricity|current amperes amps ampere|electron circuit electricity
+circuit|electricity|circuit circuits wiring|closed battery electricity current
+closed|electricity|closed complete completed connected|circuit current
+open|electricity|open broken disconnected|circuit
+battery|electricity|battery batteries cell cells|chemical electricity circuit
+voltage|electricity|voltage volt volts potential|battery current resistance
+resistance|electricity|resistance resistor resistors ohm ohms|current friction insulator
+series|electricity|series|circuit current
+parallelcircuit|electricity|parallel|circuit voltage
+magnet|electricity|magnet magnets magnetic magnetism magnetized|iron attraction repulsion poles
+poles|electricity|pole poles north south|magnet compass
+attraction|electricity|attraction attract attracts attracted attracting|opposite magnet gravity pull
+repulsion|electricity|repulsion repel repels repelled repelling|like magnet charge push
+opposite|electricity|opposite unlike|attraction charge
+like|electricity|alike similar|repulsion
+compass|method|compass compasses|magnet north direction
+motor|electricity|motor motors|electricity motion magnet
+ generator|electricity|generator generators turbine turbines|motion electricity magnet
+atoms|chemistry|atom atoms atomic|proton neutron electron element
+nucleus|chemistry|nucleus nuclei nuclear|proton neutron atoms
+atomicnumber|chemistry|atomicnumber|proton element periodic
+isotope|chemistry|isotope isotopes radioactive radioactivity|neutron nucleus decay
+ decay|chemistry|decay decaying decays half|isotope nuclearenergy
+nuclearenergy|chemistry|nuclear fission fusion uranium|nucleus energy sun
+ element|chemistry|element elements elemental|atoms periodic pure
+periodic|chemistry|periodic table|element atomicnumber metal
+compound|chemistry|compound compounds|element chemical bond
+mixture|chemistry|mixture mixtures mix mixed mixing|physical separate solution
+pure|chemistry|pure purity|element compound substance
+substance|chemistry|substance substances material materials matter|atoms mass volume
+bond|chemistry|bond bonds bonding bonded covalent ionic|electron chemical compound
+covalent|chemistry|covalent sharing share shared|electron bond molecule
+molecule|chemistry|molecule molecules|atoms bond compound
+chemical|chemistry|chemical chemicals chemically reaction reactions react reacts reacting reacted|bond substance energy
+physical|chemistry|physical physically|shape melting mixture
+ combustion|chemistry|combustion burn burns burned burning fire flame flames|oxygen heat chemical dioxide
+rust|chemistry|rust rusting rusted corrosion oxidize oxidation|iron oxygen chemical
+oxygen|chemistry|oxygen o2|respiration photosynthesis combustion air
+hydrogen|chemistry|hydrogen h2|water sun element
+water|chemistry|water waters h2o|hydrogen oxygen solvent watercycle
+ dioxide|chemistry|dioxide co2|carbon photosynthesis respiration greenhouse
+carbon|chemistry|carbon|dioxide organic fossilfuel
+nitrogen|chemistry|nitrogen n2|air bacteria fertilizer protein
+ air|weather|air atmosphere atmospheric|nitrogen oxygen gas pressure
+solution|chemistry|solution solutions dissolve dissolves dissolved dissolving soluble solubility|solvent solute mixture
+solvent|chemistry|solvent solvents|water solution
+solute|chemistry|solute solutes|solution salt sugar
+salt|chemistry|salt salts salty sodium chloride|solution ionic ocean
+sugar|chemistry|sugar sugars glucose starch carbohydrate carbohydrates|photosynthesis food energy
+acid|chemistry|acid acids acidic vinegar lemon|ph sour hydrogen
+base|chemistry|base bases basic alkaline alkali|ph bitter soap
+ph|chemistry|ph litmus indicator indicators|acid base neutral
+sour|chemistry|sour|acid
+bitter|chemistry|bitter slippery|base
+soap|chemistry|soap detergent detergents|base cleaning
+separate|method|separate separates separated separating separation|filter evaporation magnet mixture
+filter|method|filter filters filtered filtering filtration sieve screen|separate mixture water
+conservation|physics|conservation conserved conserve unchanged|mass energy matter
+reactant|chemistry|reactant reactants|chemical product conservation
+product|chemistry|product products produced produces produce|chemical reactant
+catalyst|chemistry|catalyst catalysts enzyme enzymes|chemical digestion
+organic|chemistry|organic|carbon life food
+sun|space|sun solar sunshine sunlight|star light heat photosynthesis solarenergy
+star|space|star stars stellar|sun fusion light gas
+fusion|space|fusion|hydrogen helium sun energy
+helium|space|helium|sun fusion gas
+space|space|space universe cosmic cosmos|galaxy star vacuum
+ galaxy|space|galaxy galaxies galactic milky|star universe
+universe|space|universe|galaxy space
+planet|space|planet planets planetary|orbit sun gravity
+ earth|space|earth terrestrial|rotation revolution planet seasons
+moon|space|moon moons lunar|reflection phases tides satellite
+satellite|space|satellite satellites|orbit gravity moon
+orbit|space|orbit orbits orbiting orbital revolve revolves|gravity revolution sun
+rotation|space|rotation rotate rotates rotating spin spins spinning axis|day night earth
+revolution|space|revolution revolving year yearly annual|orbit seasons earth
+ day|space|day days daily daytime|rotation sun
+night|space|night nights nighttime|rotation earth
+seasons|space|season seasons seasonal|tilt revolution earth
+ tilt|space|tilt tilted tilting|seasons axis
+axis|space|axis axes|rotation tilt
+phases|space|phase phases crescent gibbous quarter full|moon reflection orbit
+ tides|space|tide tides tidal|moon gravity ocean
+ eclipse|space|eclipse eclipses|shadow moon sun
+ gravity|physics|gravity gravitational gravitation falling falls fall|mass attraction orbit weight
+ east|space|east eastern eastward sunrise rises rise rising|sun rotation
+west|space|west western westward sunset sets setting|sun rotation
+mercury|space|mercury|planet sun
+venus|space|venus|planet greenhouse
+mars|space|mars martian|planet iron
+jupiter|space|jupiter|planet gas largest
+saturn|space|saturn|planet rings gas
+uranus|space|uranus|planet gas
+neptune|space|neptune|planet gas
+pluto|space|pluto dwarf|planet
+rings|space|rings|saturn
+largest|math|largest bigger biggest large larger|jupiter
+comet|space|comet comets|ice dust sun
+asteroid|space|asteroid asteroids|rock orbit
+meteor|space|meteor meteors meteorite meteorites shooting|rock air
+ dust|space|dust dusty|comet rock
+ telescope|method|telescope telescopes astronomical astronomy astronomer astronomers|star space observation
+lightyear|space|lightyear lightyears|distance star
+ distance|math|distance distances far farther farthest length|speed time measurement
+ time|math|time times second seconds minute minutes hour hours|speed clock
+clock|method|clock stopwatch timer|time measurement
+renewable|resources|renewable renewables sustainable|wind solarenergy hydroelectric geothermal biomass
+nonrenewable|resources|nonrenewable nonrenewables limited|coal petroleum naturalgas fossilfuel
+fossilfuel|resources|fossil fuels fuel|coal petroleum naturalgas nonrenewable
+coal|resources|coal|fossilfuel carbon nonrenewable
+petroleum|resources|petroleum oil gasoline diesel kerosene|fossilfuel nonrenewable plastic
+naturalgas|resources|methane propane|fossilfuel nonrenewable gas
+solarenergy|resources|solar photovoltaic panel panels|sun renewable electricity
+wind|weather|wind winds windy breezes breeze|air pressure renewable generator
+hydroelectric|resources|hydroelectric hydroelectricity hydropower dam dams|water renewable generator
+geothermal|resources|geothermal|heat earth renewable
+biomass|resources|biomass biofuel biofuels ethanol|plants renewable energy
+resource|resources|resource resources supplies supply|renewable nonrenewable conservation
+pollution|ecology|pollution pollutant pollutants polluted contaminate contaminated contamination|air water harmful fossilfuel
+harmful|health|harmful damage damages damaging dangerous unsafe toxic poisonous|pollution disease
+ greenhouse|weather|greenhouse warming global|dioxide heat climate
+climate|weather|climate climates climatic|temperature precipitation latitude
+weather|weather|weather meteorologist meteorologists forecast forecasts forecasting|temperature precipitation wind pressure
+humidity|weather|humidity humid moisture moist|water evaporation air
+ precipitation|weather|precipitation rain rains rainfall rainy snow snowing sleet hail|cloud watercycle
+cloud|weather|cloud clouds cloudy|condensation water precipitation
+watercycle|weather|cycle cycles cycling hydrologic|evaporation condensation precipitation runoff
+runoff|weather|runoff stream streams river rivers|water erosion ocean
+infiltration|weather|infiltration infiltrate seep seeps percolation permeable permeability|soil groundwater water
+ groundwater|weather|groundwater aquifer aquifers well wells|infiltration water rock
+transpiration|botany|transpiration|plants leaf water evaporation
+storm|weather|storm storms thunderstorm thunderstorms hurricane hurricanes tornado tornadoes|wind pressure precipitation
+lightning|electricity|lightning thunder|charge electricity storm
+front|weather|front fronts|air temperature weather
+barometer|method|barometer barometers barometric|pressure weather
+anemometer|method|anemometer anemometers|wind speed measurement
+rainGauge|method|gauge gauges|precipitation measurement
+latitude|earthscience|latitude latitudes equator equatorial tropical tropics polar poles|climate sun temperature
+altitude|earthscience|altitude elevation mountain mountains|temperature pressure
+ ocean|earthscience|ocean oceans sea seas marine seawater|salt water tides climate
+landbreeze|weather|landward seaward coastal coast coastline|wind convection ocean
+drought|weather|drought droughts arid dry drier driest desert deserts|water precipitation adaptation
+flood|weather|flood floods flooding flooded|precipitation erosion runoff
+rock|earthscience|rock rocks rocky|mineral igneous sedimentary metamorphic
+mineral|earthscience|mineral minerals crystal crystals crystalline quartz|rock hardness luster
+hardness|earthscience|hardness scratch scratches scratching|mineral diamond
+ diamond|earthscience|diamond diamonds|hardness carbon mineral
+luster|earthscience|luster lustrous shiny shininess|mineral metal reflection
+magma|earthscience|magma lava volcanic volcano volcanoes eruption eruptions|igneous heat mantle
+igneous|earthscience|igneous granite basalt obsidian pumice|magma cooling crystal
+cooling|thermal|cool cools cooled cooling|cold magma solid
+sedimentary|earthscience|sedimentary sandstone limestone shale conglomerate|sediment compaction cementation fossil
+sediment|earthscience|sediment sediments sand silt clay pebbles|erosion deposition sedimentary
+compaction|earthscience|compaction compacted compact|sedimentary pressure sediment
+cementation|earthscience|cementation cemented|sedimentary sediment
+metamorphic|earthscience|metamorphic marble slate gneiss schist|heat pressure rock
+weathering|earthscience|weathering weathered cracks cracking crack break breakdown|rock ice roots
+ erosion|earthscience|erosion erode erodes eroded transport transported carrying carried|sediment wind runoff glacier
+ deposition|earthscience|deposition deposit deposits deposited delta dunes|sediment erosion
+soil|earthscience|soil soils dirt topsoil|humus mineral decomposer plants
+humus|earthscience|humus compost composting|decomposer organic soil nutrients
+plates|earthscience|plate plates tectonic tectonics continental continents continent|earthquake mantle drift
+ earthquake|earthscience|earthquake earthquakes seismic tremor fault faults|plates crust seismicwave
+seismicwave|earthscience|seismic seismograph seismographs|earthquake wave
+mantle|earthscience|mantle|convection magma plates
+crust|earthscience|crust crustal|rock plates earth
+core|earthscience|core inner outer|iron heat earth
+ drift|earthscience|drift drifting pangaea pangea|plates continents
+continents|earthscience|continent continents continental|plates drift fossil
+fossil|earthscience|fossil fossils fossilized extinct extinction|sedimentary past evolution
+past|earthscience|past ancient history historical prehistoric|fossil layers
+layers|earthscience|layer layers strata stratum|sedimentary past fossil
+ glacier|earthscience|glacier glaciers glacial|ice erosion valley
+valley|earthscience|valley valleys canyon canyons|erosion river
+river|earthscience|river rivers stream streams|runoff erosion deposition
+mountain|earthscience|mountain mountains ridge ridges|plates uplift altitude
+uplift|earthscience|uplift uplifted folding folded|plates mountain
+recycle|resources|recycle recycled recycling reuse reused reduce reducing|conservation resource pollution
+life|biology|life living alive organisms organism|cellular reproduction energy
+ cellular|biology|cell cells cellular|membrane nucleusbio cytoplasm life
+membrane|biology|membrane membranes|cellular selective diffusion
+selective|biology|selective semipermeable permeable|membrane diffusion
+cytoplasm|biology|cytoplasm|cellular organelle
+organelle|biology|organelle organelles|cellular mitochondria chloroplast nucleusbio
+nucleusbio|biology|nucleus nuclei|dna cellular control
+mitochondria|biology|mitochondria mitochondrion mitochondrial|respiration energy cellular
+chloroplast|botany|chloroplast chloroplasts|photosynthesis chlorophyll plants
+chlorophyll|botany|chlorophyll pigment pigments green|photosynthesis light chloroplast
+wall|botany|wall walls cellulose|plants cellular support
+vacuole|biology|vacuole vacuoles|water storage cellular
+storage|biology|store stores storage storing|vacuole food water
+ribosome|biology|ribosome ribosomes|protein cellular
+diffusion|biology|diffusion diffuse diffuses|concentration membrane particles
+osmosis|biology|osmosis osmotic|water membrane concentration
+concentration|chemistry|concentration concentrations|diffusion solution solute solvent
+photosynthesis|botany|photosynthesis photosynthetic|sun sugar dioxide oxygen chloroplast water
+respiration|biology|respiration respiratory aerobic|oxygen dioxide sugar mitochondria energy
+fermentation|biology|fermentation anaerobic yeast|energy sugar oxygen
+plants|botany|plant plants vegetation flora|photosynthesis roots leaf producer
+leaf|botany|leaf leaves leafy|photosynthesis chloroplast stomata transpiration
+stomata|botany|stomata stoma pores|leaf gas transpiration
+roots|botany|root roots rooted|water nutrients soil absorption
+stem|botany|stem stems stalk trunk trunks|support xylem phloem
+support|botany|support supports supporting structural|stem skeleton wall
+xylem|botany|xylem|water roots stem
+phloem|botany|phloem|sugar leaf stem
+flower|botany|flower flowers flowering blossom blossoms|reproduction pollen seeds fruit
+pollen|botany|pollen pollination pollinate pollinated pollinator pollinators|flower bee fertilization
+bee|ecology|bee bees butterfly butterflies|pollen flower mutualism
+seeds|botany|seed seeds seedlings seedling|germination reproduction dispersal
+fruit|botany|fruit fruits apple apples berry berries|seeds dispersal flower
+ germination|botany|germination germinate germinates sprout sprouts sprouting|seeds water temperature
+ dispersal|botany|dispersal disperse dispersing spread spreading|seeds wind animal
+ trees|botany|tree trees forest forests woodland woods|plants wood habitat dioxide
+ grass|botany|grass grasses grassland grasslands prairie|plants producer herbivore
+cactus|botany|cactus cacti spines waxy|drought adaptation water
+ phototropism|botany|phototropism tropism tropisms|light plants growth
+growth|biology|growth grow grows growing grown development develop|cellular nutrients reproduction
+reproduction|biology|reproduction reproduce reproduces reproductive offspring offspring's|sexual asexual heredity
+sexual|genetics|sexual sexually|fertilization sperm egg variation
+asexual|genetics|asexual asexually budding clone clones cloning|identical reproduction mitosis
+identical|genetics|identical same|asexual dna
+fertilization|genetics|fertilization fertilize fertilized|sperm egg sexual
+sperm|genetics|sperm male|sexual fertilization
+ egg|genetics|egg eggs female ova ovum|sexual fertilization
+mitosis|genetics|mitosis division divide divides dividing|cellular identical growth
+meiosis|genetics|meiosis gamete gametes|sexual chromosome variation
+heredity|genetics|heredity inherited inherit inheritance hereditary genetic genetics|gene dna traits
+ gene|genetics|gene genes|dna traits chromosome
+ dna|genetics|dna deoxyribonucleic|gene chromosome heredity
+chromosome|genetics|chromosome chromosomes chromosomal|dna gene nucleusbio
+traits|genetics|trait traits characteristics characteristic|heredity variation adaptation
+ variation|genetics|variation variations varied diversity diverse differences|sexual mutation selection
+mutation|genetics|mutation mutations mutate|dna variation evolution
+ dominant|genetics|dominant dominance|gene recessive heredity
+ recessive|genetics|recessive|gene dominant heredity
+acquired|genetics|acquired learned learning scar scars|experience traits
+experience|behavior|experience practice trained training|acquired learned
+ learned|behavior|learned learning|experience behavior
+instinct|behavior|instinct instincts instinctive innate|behavior inheritedbehavior
+inheritedbehavior|behavior|inborn inherited|instinct heredity
+ behavior|behavior|behavior behaviors behavioural behavioral|stimulus response adaptation
+stimulus|biology|stimulus stimuli|response nervous senses
+response|biology|response responses respond responds reaction|stimulus nervous
+ adaptation|ecology|adaptation adaptations adapted adapt adapts survival survive survives surviving|selection habitat camouflage
+ evolution|genetics|evolution evolutionary evolve evolved|selection variation fossil
+ selection|genetics|selection selected fittest fitness|adaptation reproduction variation
+camouflage|ecology|camouflage camouflaged conceal concealment hide hides hiding blend blends coloration|predator protection adaptation
+mimicry|ecology|mimicry mimic mimics resemble resembles|protection adaptation
+ protection|ecology|protection protect protects protective protected defense defenses defend|predator survival
+survival|ecology|survival survive survivors|adaptation food water
+hibernation|behavior|hibernation hibernate hibernates dormant dormancy|winter energy cold
+winter|weather|winter|cold hibernation
+migration|behavior|migration migrate migrates migrating migratory|seasons food temperature
+ animal|biology|animal animals fauna|consumer food adaptation
+ habitat|ecology|habitat habitats home homes shelter|food water survival
+ ecosystem|ecology|ecosystem ecosystems ecological ecology environment environmental|producer consumer decomposer interaction
+ population|ecology|population populations number numbers|species resources competition
+community|ecology|community communities|population ecosystem
+species|biology|species classification classify classified taxonomy|reproduction traits
+resources|ecology|resources resource availability available limited|food water competition
+competition|ecology|competition compete competes competing|resources food population
+ predator|ecology|predator predators predation preyed hunting hunt hunts|prey carnivore camouflage
+ prey|ecology|prey|predator food adaptation
+food|ecology|food foods feeding feed feeds eat eats eaten eating|energy producer consumer
+foodchain|ecology|chain chains web webs|producer consumer energy food
+producer|ecology|producer producers autotroph autotrophs|plants photosynthesis sun foodchain
+ consumer|ecology|consumer consumers heterotroph heterotrophs|animal food herbivore carnivore
+ herbivore|ecology|herbivore herbivores herbivorous graze grazing|plants consumer grass
+carnivore|ecology|carnivore carnivores carnivorous|animal predator consumer
+ omnivore|ecology|omnivore omnivores omnivorous|plants animal consumer
+ decomposer|ecology|decomposer decomposers decompose decomposes decomposition decomposing decay|bacteria fungi nutrients soil
+ bacteria|biology|bacteria bacterium bacterial microbes microorganisms microscopic|decomposer disease nitrogen
+ fungi|biology|fungi fungus fungal mushroom mushrooms mold molds|decomposer nutrients
+ nutrients|ecology|nutrient nutrients nutrition nourishment|soil roots decomposer food
+fertilizer|agriculture|fertilizer fertilizers fertilize|nitrogen nutrients plants
+symbiosis|ecology|symbiosis symbiotic|mutualism parasitism commensalism
+ mutualism|ecology|mutualism mutual mutually beneficial benefit benefits|bee symbiosis
+parasitism|ecology|parasitism parasite parasites parasitic host hosts|harmful symbiosis
+commensalism|ecology|commensalism|symbiosis benefit
+benefit|ecology|benefit benefits beneficial|mutualism
+carryingcapacity|ecology|capacity limiting carrying|population resources
+ biodiversity|ecology|biodiversity diversity diverse|ecosystem survival
+ extinction|ecology|extinction extinct endangered threaten threatened|habitat population fossil
+pollinator|ecology|pollinator pollinators|pollen bee reproduction
+ insect|biology|insect insects bug bugs beetle beetles ant ants|exoskeleton metamorphosis six
+six|math|six 6|insect
+exoskeleton|biology|exoskeleton exoskeletons shell shells hard|protection insect
+metamorphosis|biology|metamorphosis larva larvae pupa pupae caterpillar caterpillars|insect butterflycycle
+butterflycycle|biology|butterfly butterflies|metamorphosis egg
+ mammal|biology|mammal mammals mammalian|milk hair warmblooded lungs
+milk|biology|milk nursing nurse|mammal offspring
+hair|biology|hair fur furry|mammal insulation
+insulation|biology|insulation insulated insulating|heat hair fat
+ warmblooded|biology|warmblooded endothermic|mammal bird temperature
+coldblooded|biology|coldblooded ectothermic|reptile amphibian temperature
+bird|biology|bird birds feather feathers wings wing beak beaks|egg warmblooded lungs
+ fish|biology|fish fishes fins fin|gills water vertebrate
+ gills|biology|gill gills|oxygen fish water
+lungs|anatomy|lung lungs|oxygen respiration dioxide
+ reptile|biology|reptile reptiles snake snakes lizard lizards turtle turtles|scales egg coldblooded
+scales|biology|scale scales scaly|reptile fish
+amphibian|biology|amphibian amphibians frog frogs tadpole tadpoles salamander|water metamorphosis coldblooded
+vertebrate|biology|vertebrate vertebrates backbone|skeleton fish mammal
+invertebrate|biology|invertebrate invertebrates worm worms earthworm earthworms|exoskeleton decomposer
+ heart|anatomy|heart cardiac|blood circulatory pump
+pump|anatomy|pump pumps pumping pumped|heart blood
+blood|anatomy|blood bloodstream|oxygen nutrients circulatory
+circulatory|anatomy|circulatory cardiovascular circulation|heart blood vessels
+vessels|anatomy|vessel vessels artery arteries vein veins capillary capillaries|blood heart circulatory
+ redblood|anatomy|hemoglobin haemoglobin red|oxygen blood
+whiteblood|anatomy|white antibodies antibody leukocyte|immune disease blood
+ immune|anatomy|immune immunity immunization vaccine vaccines vaccination|disease whiteblood protection
+digestive|anatomy|digestive digestion digest digests digested|food nutrients stomach intestine
+ stomach|anatomy|stomach gastric|digestion acid digestive
+intestine|anatomy|intestine intestines intestinal|absorption nutrients digestive
+teeth|anatomy|tooth teeth chewing chew chews|food digestion
+saliva|anatomy|saliva salivary|digestion enzyme
+ enzyme|anatomy|enzyme enzymes|protein catalyst digestion
+digestion|anatomy|digestion digest digests|digestive food nutrients
+excretory|anatomy|excretory urinary excretion excrete excretes|kidney waste
+kidney|anatomy|kidney kidneys renal|blood waste urine filter
+urine|anatomy|urine bladder|kidney waste water
+waste|anatomy|waste wastes eliminate elimination remove removing|excretory kidney dioxide
+ nervous|anatomy|nervous nerve nerves neuron neurons neural|brain signals response
+ brain|anatomy|brain brains spinal cord|nervous control senses
+control|anatomy|control controls controlling coordinate coordination|brain nucleusbio
+signals|anatomy|signal signals messages message impulses communicate communication|nervous endocrine
+ endocrine|anatomy|endocrine hormone hormones hormonal gland glands|signals blood control
+lymphatic|anatomy|lymphatic lymph|immune fluid
+integumentary|anatomy|integumentary skin|protection temperature sweat
+sweat|anatomy|sweat sweating perspiration|evaporation temperature skin
+ skin|anatomy|skin|integumentary protection senses
+ skeletal|anatomy|skeletal skeleton|bone support protection
+bone|anatomy|bone bones bony|skeletal support calcium
+skeleton|anatomy|skeleton skeletal|bone support
+calcium|chemistry|calcium|bone mineral nutrition
+ muscular|anatomy|muscular muscle muscles|movement contraction skeleton
+movement|anatomy|movement motion|muscular skeleton
+ senses|anatomy|sense senses sensory sight hearing smell taste touch|brain nervous stimulus
+ eye|anatomy|eye eyes pupil retina cornea|light sight senses
+sight|anatomy|sight vision seeing see|eye light
+ ear|anatomy|ear ears eardrum hearing|sound vibration senses
+homeostasis|anatomy|homeostasis stable stability regulate regulation regulate|temperature water control
+ foodnutrition|health|nutrition nutritional diet dietary balanced|protein carbohydrate fat vitamins
+protein|health|protein proteins|growth amino nitrogen
+amino|chemistry|amino|protein nitrogen
+carbohydrate|health|carbohydrate carbohydrates starch starches|sugar energy food
+fat|health|fat fats lipid lipids blubber|energy insulation
+ vitamins|health|vitamin vitamins|nutrition health
+nutrition|health|nutrition nutritious nutritional|food vitamins protein
+ health|health|health healthy healthier|nutrition exercise hygiene
+ exercise|health|exercise exercising running walking|muscular heart lungs
+ disease|health|disease diseases illness illnesses sick sickness infection infections infectious|bacteria virus immune
+virus|health|virus viruses viral|disease cellular
+antibiotic|health|antibiotic antibiotics|bacteria disease
+hygiene|health|hygiene hygienic wash washes washing cleaning clean cleaned disinfect disinfecting|disease bacteria safety
+safety|method|safety safe safely precaution precautions|goggles gloves hygiene
+ goggles|method|goggles eyewear|eye safety protection
+ gloves|method|glove gloves|skin safety protection
+laboratory|method|laboratory laboratories lab labs|safety experiment measurement
+experiment|method|experiment experiments experimentation experimental investigation investigate investigations|variable hypothesis evidence controlled
+hypothesis|method|hypothesis hypotheses prediction predict predicts predicted|test evidence experiment
+ test|method|test tests testing tested|hypothesis evidence experiment
+variable|method|variable variables factor factors|independent dependent controlled
+independent|method|independent manipulated manipulate|variable change
+ dependent|method|dependent responding measured|variable measurement
+controlled|method|controlled constant constants unchanged same|variable comparison
+comparison|method|comparison compare compares comparing compared|controlled evidence
+ change|method|change changes changed changing|independent variable
+ evidence|method|evidence data results result findings|observation conclusion measurement
+observation|method|observation observations observe observes observed observing|senses measurement evidence
+ inference|method|inference infer inferred conclusion conclusions conclude|evidence observation
+conclusion|method|conclusion conclusions conclude|evidence hypothesis
+ measurement|method|measurement measurements measuring measure measured measures quantitative|ruler balance thermometer volume
+ruler|method|ruler rulers meter meters metre metres centimeter centimeters cm mm millimeter millimeters|length measurement
+ length|method|length width|ruler distance
+ cylinder|method|cylinder graduated beaker beakers|volume measurement
+microscope|method|microscope microscopes magnification magnify magnifying microscopic|cellular bacteria observation
+ repeat|method|repeat repeated repeating repetition trials trial reliable reliability reproducible replicate replication|experiment accuracy evidence
+accuracy|method|accuracy accurate precisely precision valid validity|measurement repeat
+ sample|method|sample samples sampling random randomly|population experiment
+ graph|method|graph graphs chart charts plotted plot table tables|data trends
+ data|method|data information recorded record records|evidence graph measurement
+trends|method|trend trends pattern patterns relationship relationships|graph data
+ model|method|model models modeling simulation simulations represent represents representation|explanation prediction
+explanation|method|explanation explain explains explaining theory theories|evidence hypothesis
+prediction|method|prediction predictions predict|hypothesis model
+technology|engineering|technology technologies technological engineering engineer engineers invention inventions design designs|problem solutiondesign efficiency
+ problem|engineering|problem problems need needs|technology solutiondesign
+solutiondesign|engineering|solution solutions solve solving|problem technology
+ efficiency|engineering|efficiency efficient efficiently|energy work conservation
+ agriculture|agriculture|agriculture agricultural farming farm farms farmer farmers crops crop harvest harvesting|plants food fertilizer
+ irrigation|agriculture|irrigation irrigate watered watering|water agriculture drought
+ selectivebreeding|genetics|breeding bred breed artificial selective domesticated|traits heredity agriculture
+ transportation|engineering|transportation shipping shipped ship ships transport trucks roads vehicles vehicle|food trade availability
+trade|engineering|trade sale market markets grocery stores|food transportation availability
+availability|engineering|available availability variety types|trade resources
+ refrigeration|engineering|refrigerator refrigerators refrigeration refrigerate refrigerated|cold food bacteria
+ insulationtech|engineering|insulation insulated thermos|insulator heat conduction
+ populationgrowth|ecology||population resources reproduction
+ fraction|math|fraction fractions percent percentage ratio ratios proportion proportional|math measurement
+ math|math|mathematics mathematical calculate calculated calculation equation formula|measurement data
+angle|math|angle angles angular|reflection perpendicular
+cleaning|health|clean cleaning cleaned|hygiene safety
+crystal|earthscience|crystal crystals crystalline|mineral igneous cooling
+direction|physics|direction directions directional|velocity compass force
+interaction|ecology|interaction interactions interact interdependence interdependent depend depends dependent|ecosystem foodchain community
+ionic|chemistry|ionic ion ions ionized|electron charge bond
+malleable|chemistry|malleable malleability ductile ductility bent bend bending|metal shape
+matter|chemistry|matter|mass volume atoms
+north|space|north northern northward|compass poles
+offspring|genetics|offspring young baby babies|reproduction heredity
+spring|physics|spring springs|elastic potential force
+tension|physics|tension taut stretched|rope force
+herbivoremammal|biology|rabbit rabbits deer elk moose antelope gazelle gazelles zebra zebras giraffe giraffes cow cows cattle horse horses sheep goat goats bison buffalo|herbivore mammal prey grass
+predatormammal|biology|lion lions tiger tigers wolf wolves fox foxes coyote coyotes bobcat bobcats lynx cougar cougars leopard leopards cheetah cheetahs|predator carnivore mammal
+omnivoremammal|biology|bear bears raccoon raccoons pig pigs hog hogs rat rats mouse mice squirrel squirrels chipmunk chipmunks|omnivore mammal consumer
+human|biology|human humans people person child children adult adults|mammal omnivore brain
+pet|biology|dog dogs cat cats kitten kittens puppy puppies|mammal consumer
+marineMammal|biology|whale whales dolphin dolphins seal seals walrus walruses|mammal lungs ocean
+birdpredator|biology|hawk hawks eagle eagles owl owls falcon falcons|bird predator carnivore
+seedbird|biology|sparrow sparrows finch finches robin robins chicken chickens duck ducks goose geese|bird seeds consumer
+reptilepredator|biology|alligator alligators crocodile crocodiles python pythons rattlesnake rattlesnakes|reptile predator
+fishspecies|biology|trout salmon bass minnow minnows tuna cod shark sharks|fish gills consumer
+crustacean|biology|crab crabs lobster lobsters shrimp crayfish|exoskeleton invertebrate ocean
+mollusk|biology|snail snails clam clams oyster oysters mussel mussels squid octopus|invertebrate shellanimal
+shellanimal|biology|shell shells|protection exoskeleton
+arachnid|biology|spider spiders scorpion scorpions tick ticks mite mites|invertebrate eight exoskeleton
+eight|math|eight 8|arachnid
+mosquito|biology|mosquito mosquitoes flea fleas louse lice|insect parasitism disease
+grasshopper|biology|grasshopper grasshoppers locust locusts cricket crickets|insect herbivore
+beetle|biology|beetle beetles ladybug ladybugs fly flies moth moths wasp wasps|insect metamorphosis
+deciduous|botany|deciduous oak oaks maple maples elm elms birch birches|trees leaf seasons
+conifer|botany|conifer conifers coniferous evergreen evergreens pine pines fir cedar spruce needles cones|trees seeds leavesneedles
+leavesneedles|botany|needle needles|leaf drought
+algae|botany|algae alga algal seaweed phytoplankton|photosynthesis producer oxygen water
+plankton|biology|plankton zooplankton|ocean foodchain consumer
+moss|botany|moss mosses fern ferns spores spore|plants reproduction water
+cropplants|agriculture|corn maize wheat rice oats barley rye soybean soybeans bean beans pea peas carrot carrots potato potatoes tomato tomatoes lettuce|plants agriculture food
+cellularlevels|biology|tissue tissues organ organs system systems|cellular function
+function|biology|function functions purpose role|organelle organfunction
+organfunction|anatomy|organ organs|tissuelevel digestive circulatory
+tissuelevel|biology|tissue tissues|cellular organfunction
+prokaryote|biology|prokaryote prokaryotes prokaryotic unicellular singlecelled|bacteria cellular
+eukaryote|biology|eukaryote eukaryotes eukaryotic multicellular|nucleusbio animal plants
+protist|biology|protist protists amoeba amoebas paramecium paramecia|cellular eukaryote water
+virusprevention|health|vaccinate vaccinated vaccination vaccines vaccine|immune disease virus
+pathogen|health|pathogen pathogens pathogenic germs germ|bacteria virus disease
+infectioncontrol|health|sterile sterilize sterilized disinfectant antiseptic|hygiene bacteria disease
+smoking|health|smoking tobacco cigarette cigarettes|lungs harmful disease
+nutritiondeficiency|health|deficiency deficient malnutrition malnourished|vitamins nutrition disease
+vitaminc|health|scurvy ascorbic citrus|vitamins fruit nutrition
+rickets|health|rickets osteoporosis|calcium bone vitamins
+antisepsis|health|pasteurization pasteurized pasteurize|heat bacteria food
+foodpreservation|engineering|preserve preservation preserving preserved spoil spoils spoiling spoilage|refrigeration bacteria food
+saltwater|earthscience|saltwater salinity saline|salt ocean evaporation
+freshwater|earthscience|freshwater lake lakes pond ponds reservoir reservoirs|water groundwater precipitation
+wetland|ecology|wetland wetlands marsh marshes swamp swamps bog bogs|water habitat biodiversity
+rainforest|ecology|rainforest rainforests jungle jungles|trees precipitation biodiversity
+tundra|ecology|tundra arctic antarctic permafrost|cold adaptation climate
+savanna|ecology|savanna savannah|grass drought herbivore
+urban|ecology|urban city cities suburban development construction|habitat pollution human
+deforestation|ecology|deforestation logging cleared clearing|trees erosion habitat
+restoration|ecology|restoration reforestation planting replanting|trees habitat conservation
+ozone|weather|ozone stratosphere|ultraviolet protection air
+ultraviolet|waves|ultraviolet uv sunburn|sun radiation harmful
+atmosphericlayer|weather|troposphere stratosphere mesosphere thermosphere|air altitude weather
+oxygenpercent|chemistry|21|oxygen air
+nitrogenpercent|chemistry|78|nitrogen air
+boilingpoint|thermal|100 212|boiling water temperature
+freezingpoint|thermal|0 32|freezing water temperature
+hoursperday|space|24|day rotation time
+daysperyear|space|365|year revolution orbit
+year|space|year years annually annual|revolution orbit
+month|space|month months monthly|moon phases
+lunarperiod|space|28 29|moon month
+metricthousand|method|1000 thousand|kilometer kilogrammetric
+kilometer|method|kilometer kilometers kilometre kilometres km|distance length metricthousand
+kilogrammetric|method|kilogram kilograms kg|mass metricthousand
+centimeter|method|centimeter centimeters centimetre centimetres cm|length ruler
+millimeter|method|millimeter millimeters millimetre millimetres mm|length ruler
+milliliter|method|milliliter milliliters millilitre millilitres ml|volume cylinder
+litermetric|method|liter liters litre litres|volume cylinder
+kilowatt|method|kilowatt kilowatts kwh|power electricity
+joulemetric|method|joule joules j|energy work
+newtonmetric|method|newton newtons n|force weight
+entropy|thermal|entropy disorder|heat energy
+radiator|thermal|radiator radiator's|heat convection conduction
+lensshape|waves|curvature curved curves|lensoptics refraction reflection convex concave
+lensoptics|waves|lens lenses focus focal magnification|refraction light microscope
+prism|waves|prism prisms rainbow|refraction color wavelength
+redcolor|waves|red orange yellow|color wavelength
+bluecolor|waves|blue violet indigo|color light
+whitecolor|waves|white|reflection light color
+blackcolor|waves|black|absorption heat dark
+insoluble|chemistry|insoluble undissolved|filter mixture separate
+saturation|chemistry|saturation saturated|solution solute temperature
+viscosity|physics|viscosity viscous thick thicker|fluid resistance
+surfaceTension|physics|cohesion adhesion capillary tension|water fluid
+combustionproducts|chemistry|smoke soot ash ashes|combustion carbon pollution
+oxidation|chemistry|oxidation oxidized oxidize oxidizes|oxygen rust chemical
+endothermicreaction|chemistry|endothermic|absorption heat chemical
+exothermic|chemistry|exothermic|heat combustion chemical
+precipitate|chemistry|precipitate precipitates precipitated|solid solution chemical
+neutralization|chemistry|neutralization neutralize neutralized|acid base salt water
+levereffort|physics|effort load loads resistance|lever force simplemachine
+mechanicaladvantage|physics|advantage mechanical|simplemachine force distance
+centripetal|physics|centripetal circular|force acceleration orbit inward
+doppler|waves|doppler|frequency motion sound
+resonance|waves|resonance resonant|sound vibration frequency amplitude
+solarSystem|space|system solar|sun planet orbit
+meteorology|weather|meteorology meteorological|weather air observation
+geology|earthscience|geology geologist geologists geological|rock earth fossil
+paleontology|earthscience|paleontology paleontologist paleontologists|fossil past evolution
+botany|botany|botany botanist botanists|plants leaf photosynthesis
+zoology|biology|zoology zoologist zoologists|animal species
+astronomy|space|astronomy astronomical astronomer astronomers|space star planet
+# Distinct meanings: antonyms are related vocabulary, not interchangeable aliases.
+fast|physics|fast faster fastest rapidly quickly speeding|speed velocity kinetic motion
+slow|physics|slow slower slowest slowly sluggish|speed slowing friction resistance
+deceleration|physics|decelerate decelerates decelerating decelerated deceleration|slowing friction force velocity
+push|physics|push pushes pushing pushed|force repulsion motion
+pull|physics|pull pulls pulling pulled|force attraction gravity tension
+balancedforces|physics|balanced equilibrium equilibria|force inertia stationary
+unbalancedforces|physics|unbalanced disequilibrium|force acceleration motion
+heavy|physics|heavy heavier heaviest massive|mass weight gravity force
+lightweight|physics|lightweight lighter lightest|mass weight inertia
+higher|math|high higher highest upper upward upwards|height potential increase
+lower|math|low lower lowest downward downwards|height decrease gravity
+increase|math|increase increases increased increasing increment increments gain gains|largest growth expansion trends populationgrowth
+decrease|math|decrease decreases decreased decreasing decline declines declined declining reduction reductions loss losses|smaller lower contraction trends
+smaller|math|small smaller smallest tiny miniature|size volume length
+size|math|size sizes sized magnitude magnitudes|volume length measurement
+longspan|math|long longer longest lengthy extended|length distance time
+shortspan|math|short shorter shortest brief shortened|length distance time
+older|earthscience|old older oldest aged|time past fossil layers
+younger|biology|young younger youngest recent newer newest|time growth offspring
+concentrated|chemistry|concentrated concentrating concentrate concentrates|solute solution saturation
+dilution|chemistry|dilute diluted dilutes diluting dilution dilutions|solvent water solution concentration
+unsaturated|chemistry|unsaturated|solution solute solvent
+convex|waves|convex convexity bulging|lensshape lensoptics refraction reflection
+concave|waves|concave concavity|lensshape lensoptics refraction reflection
+converging|waves|converge converges converging convergence|lensoptics refraction light
+diverging|waves|diverge diverges diverging divergence|lensoptics refraction light
+highpitch|waves|highpitched shrill|pitch frequency sound higher
+lowpitch|waves|lowpitched|pitch frequency sound lower
+summer|weather|summer summertime|heat seasons day tilt
+autumn|weather|autumn autumnal fall|seasons deciduous leaf cold
+springseason|weather|spring springtime|seasons growth flower temperature
+centrifugal|physics|centrifugal|inertia rotation outward
+inward|physics|inward inwards centerward|centripetal force direction
+outward|physics|outward outwards|centrifugal direction motion
+echo|waves|echo echoes echoed echoing|reflection sound wave
+quiet|waves|quiet quieter quietest silent silence|sound amplitude lower

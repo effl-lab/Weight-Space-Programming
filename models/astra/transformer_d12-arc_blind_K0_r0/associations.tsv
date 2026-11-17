@@ -1,0 +1,239 @@
+# answer concept | question cues
+# These are hand-written directed associations, not labeled examples.
+# Physical mechanisms
+gravity | fall falls falling fell dropped dropping drop drops gravitational gravitation weight weightless weightlessness attraction attracted orbit orbits orbital orbiting down downward downhill
+friction | rub rubs rubbing rubbed rough rougher roughness smooth smoother slippery skid skids skidding brake brakes braking lubricant lubrication lubricate dragging drag
+inertia | stationary rest resting inertia inertial
+acceleration | accelerate accelerates accelerating accelerated decelerate decelerates decelerating deceleration acceleration
+momentum | momentum collision collisions collide collides collided colliding
+force | push pushes pushing pushed pull pulls pulling pulled exert exerts exerted exerting
+lever | fulcrum fulcrums seesaw seesaws crowbar crowbars
+pulley | hoist hoists hoisting
+inclinedplane | ramp ramps incline inclined
+wedge | splitting split splits cutting cut cuts chopping chop chops
+screw | threaded threading spiral spirals
+wheel | axle axles
+pressure | squeeze squeezes squeezing squeezed pneumatic hydraulic hydraulic pressure compressed compression compress compresses compressing
+mass | kilogram kilograms kg gram grams milligram milligrams mg
+volume | liter liters litre litres milliliter milliliters ml cubic capacity
+length | ruler rulers yardstick meter meters metre metres centimeter centimeters millimeter millimeters kilometer kilometers
+weight | weigh weighs weighed weighing
+thermometer | temperature temperatures celsius fahrenheit kelvin
+barometer | barometric
+anemometer | windspeed
+humidity | hygrometer hygrometers humid humidifier
+speedmeasurement | elapsed stopwatch stopwatches timer timers
+# Matter and energy
+density | buoyant buoyancy float floats floating floated sink sinks sinking sank sunk dense denser densest
+solid | definite rigid rigidity fixed
+liquid | pouring pour pours fluid fluids flowing
+ gas | vapor vapors vapour vapours steam gaseous
+atom | atomic element elements elemental
+proton | positive positively atomicnumber
+neutron | neutral uncharged
+ electron | negative negatively charged charge charges electric electrical electricity current currents
+nucleus | protons neutrons proton neutron nucleon nucleons
+isotope | isotopic isotopes isotope
+compound | chemically bonded
+mixture | physically mixed mixing heterogeneous homogeneous
+solution | dissolve dissolves dissolved dissolving soluble solubility dissolution
+solute | solute solutes
+solvent | solvent solvents
+filtration | filter filters filtering filtered sieve sieves strainer mesh insoluble
+ distillation | distill distilled distilling distillation
+acid | sour vinegar lemon lemons citrus acidic
+base | bitter alkaline slippery basic
+ph | litmus acidity alkalinity neutralization neutralize
+chemical | rust rusts rusted rusting corrode corrodes corroded corrosion oxidize oxidizes oxidation burn burns burning burned burnt combustion flammable gasproduced
+oxygen | combustion combustible fire fires flame flames burning rusting rust
+heat | thermal hot hotter hottest warming warmth heated heating
+conduction | touching touch touches contact conduct conducts conducted conductor conductive
+convection | convection currents circulating circulate circulation
+radiation | sunlight sunshine rays infrared ultraviolet electromagnetic vacuum
+insulation | insulated insulate insulating insulator insulators styrofoam rubber wool blanket blankets jacket jackets coat coats
+expansion | heated heating hot hotter inflate inflates inflated
+contraction | cooled cooling cold colder shrink shrinks shrinking
+melting | melt melts melting melted thaw thaws thawing
+freezing | freeze freezes freezing froze frozen solidification solidify
+vaporization | evaporate evaporates evaporation evaporating evaporated boil boils boiling boiled vaporize vaporizes vaporization drying dried dry puddle puddles
+condensation | condense condenses condensed condensing condensation dew dewdrop dewdrops fog mist droplets
+sublimation | sublimates sublimating sublimation
+kinetic | moving motion movement velocity speed speeding faster fastest
+potential | stretched stretching elastic compressed elevated height stationary stored spring springs
+chemicalenergy | battery batteries fuels fuel food gasoline
+solar | photovoltaic photovoltaics
+renewable | windmill windmills turbine turbines geothermal hydroelectric hydroelectricity hydropower biomass biofuel biofuels renewable renewableenergy replenished replenish sustainable
+nonrenewable | petroleum gasoline diesel coal oil naturalgas finite exhaustible depleted
+energy | joule joules joules energytransformations
+# Electricity, waves, and optics
+closedcircuit | circuit circuits connected complete
+metal | conduct conduction conductive conductor conductors conductivity
+plastic | insulator insulators nonconducting
+magnet | compass compasses lodestone magnetic magnetism ferromagnetic north south polarity
+pole | repel repels repelling repelled repulsion
+copper | wiring wires wire
+motor | electromagnet electromagnets solenoid
+frequency | pitch pitches highpitched lowpitched hertz hz frequency
+amplitude | loud louder loudest loudness intense intensity
+wavelength | crest crests trough troughs
+wave | vibrate vibrates vibrating vibration vibrations oscillate oscillates oscillating oscillation
+sound | audible hearing hear hears heard music musical ear ears eardrum eardrums noise noises
+reflection | echo echoes echoing reflected mirror mirrors shiny polished sonar
+refraction | lens lenses prism prisms bend bends bending refract refracts refracted
+transverse | transverse
+longitudinal | longitudinal rarefaction rarefactions compressional
+light | visible vision eyesight eye eyes seeing transparent opaque translucent rainbow spectrum
+color | spectrum spectra prism prisms rainbow rainbows
+magnification | microscope microscopes magnifier magnifying binoculars
+# Biology and ecology
+plant | producer producers autotroph autotrophs herbivore herbivores herbivorous grazer grazers grazing
+photosynthesis | chlorophyll chloroplast chloroplasts photosynthetic photosynthesize photosynthesizes green leaf leaves foliage glucose
+chloroplast | photosynthesis
+sun | sunlight sunshine radiant solar
+root | absorb absorbs absorbing absorbed uptake anchor anchors anchored anchoring soil soilwater
+stem | xylem phloem stalk stalks trunk trunks sap
+leaf | stomata stoma
+flower | pollinate pollinates pollinating pollination pollinator pollinators pollen petal petals blossom blossoms nectar
+seed | germinate germinates germinating germination sprout sprouts sprouting seedcoat dispersal disperse disperses dispersing
+fruit | ovary ovaries
+stamen | anther anthers
+pistil | stigma stigmas
+nitrogen | fertilizer fertilizers fertilize fertilizing manure nitrate nitrates ammonia ammonium
+carbon | co2 dioxide
+oxygen | breathe breathes breathing breath lung lungs inhale inhalation aerobic
+carbondioxide | exhale exhalation exhaling greenhouse greenhousegases
+mitochondrion | respiration respiratory atp adenosine powerhouse
+ribosome | protein proteins amino synthesis synthesize synthesizes
+nucleus | dna chromosomes chromosome heredity hereditary genetic genetics gene genes genome
+membrane | selectively permeable semipermeable permeability
+vacuole | cellularstorage vacuole vacuoles
+cellwall | cellulose cellwall cellwalls
+osmosis | osmotic osmosis
+cell | unicellular multicellular organism living
+dna | inherited inheritance trait traits allele alleles genotype genotypes heredity hereditary
+mutation | mutate mutates mutated mutating mutation mutations mutagen
+asexual | clone clones cloning budding identical
+sexual | sperm gamete gametes fertilized mating mate mates
+mitosis | dividing division divide divides
+meiosis | gametes haploid
+selection | evolve evolves evolving evolved evolution evolutionary fitness fittest
+adaptation | adapted adapt adapts adapting survival survive survives surviving specialized specialization
+camouflage | hide hides hiding hidden blend blends blending disguise disguises disguised conceal concealed coloration camouflage camouflaged
+mimicry | resembles resemble mimic mimics mimicry
+hibernation | hibernate hibernates hibernating dormant dormancy
+migration | migrate migrates migrating migratory
+instinct | innate instinctive instinctual
+learned | trained training learned practice practiced learning
+mammal | milk fur furry hair hairy nursing warmblooded
+bird | feather feathers feathered beak beaks nesting nest nests
+fish | gill gills fin fins
+amphibian | tadpole tadpoles metamorphosis frog frogs
+reptile | reptilian leathery
+insect | antenna antennae sixlegs
+metamorphosis | larva larvae pupa pupae chrysalis cocoon cocoons caterpillar caterpillars
+butterfly | caterpillar caterpillars chrysalis
+bee | honey honeybee honeybees
+vertebrate | backbone backbones
+exoskeleton | arthropod arthropods shell shells
+bacterium | microbes microbe microorganism microorganisms microscopic
+fungus | mushroom mushrooms fungal yeast mold molds mildew
+decomposer | dead decay decays decaying decayed rot rots rotting rotten decomposition decomposing decompose decomposes compost nutrientcycling
+food | nutrient nutrients nutritional nourish nourishes nourishment
+consumer | carnivore carnivores omnivore omnivores consumer consumers consuming eats eating eaten
+predator | hunted prey predation
+prey | hunting hunter hunters predator predators
+population | species population populations
+community | community communities
+habitat | habitat habitats shelter shelters
+biodiversity | diverse diversity variety
+competition | competing competes compete limited scarce scarcity
+parasitism | parasite parasites parasitic host hosts
+mutualism | mutually cooperation cooperative benefit benefits
+extinction | extinct endangered threatened
+conservation | conserve conserves conserving protect protects protected preserving preservation
+recycling | reusable reused reuse reusing recycling recycle recycled
+pollution | pollutant pollutants pollute polluted polluting toxic poison poisonous contaminated contamination industrial factories factory
+# Human body
+nervous | nerve nerves neuron neurons neural brain brains reflex reflexes impulse impulses spinal cord senses sensory
+endocrine | hormone hormones hormonal gland glands pituitary thyroid adrenal messenger messengers messages message insulin signaling
+circulatory | blood bloodstream heart hearts artery arteries vein veins vessel vessels hemoglobin pulse
+respiratory | breathing breathe breath inhalation exhalation diaphragm trachea alveoli bronchi
+skeletal | bone bones skull skulls cartilage joint joints backbone skeleton
+muscular | tendon tendons muscle muscles muscular contracting locomotion
+integumentary | skin epidermis dermis sweat sweating perspiration
+excretory | kidney kidneys renal urine urinary urea bladder excretion excretes excrete
+immune | antibody antibodies vaccine vaccines vaccination lymph lymphatic immunity
+pathogen | infectious infection infections virus viruses viral disease diseases illness sick
+hygiene | wash washing soap sanitation sanitary disinfect disinfectant sterile sterilize
+safety | goggles gloves apron aprons eyewash protective
+unsafe | laboratoryfood labfood
+ digestive | stomach intestinal intestine intestines saliva salivary chewing chew chews mouth esophagus digestion digest digesting
+liver | bile gallbladder
+vitamin | deficiency deficiencies nutritious balanced healthy health
+calcium | bones teeth tooth osteoporosis
+iron | anemia hemoglobin
+# Earth science
+igneous | magma lava molten cooled solidifies coolinglava volcanic basalt granite obsidian pumice
+sedimentary | sediment sediments sedimentation compacted compaction cemented cementation fossils fossil sandstone limestone shale strata
+metamorphic | metamorphism metamorphic marble slate gneiss schist
+mineral | streak luster lustre hardness cleavage quartz crystalline crystal crystals
+weathering | weathered crack cracks cracking cracked fracture fractures fracturing fractured crumble crumbles crumbling disintegrate disintegrates disintegration
+ erosion | erode erodes eroded eroding transported transport transportation washes washesaway riverbank riverbanks
+ deposition | deposits deposited depositing deposit settling settle settles settled delta deltas
+ tectonic | tectonics tectonic continental drift pangaea pangea subduction subducts convergent divergent
+fault | earthquake earthquakes seismic tremor tremors epicenter epicentre seismograph seismometer
+volcano | eruption eruptions erupt erupts erupting volcanic volcanism
+mantle | asthenosphere
+crust | lithosphere lithospheric
+core | geomagnetic geomagnetism
+fossil | extinct prehistoric ancient paleontologist paleontologists paleontology dinosaur dinosaurs
+fossilage | superposition stratum strata relative dating
+ groundwater | aquifer aquifers well wells infiltration percolation underground
+runoff | downhill downstream drainage watershed flowing stream streams river rivers creek creeks
+water | hydrologic hydrological hydrosphere aquatic hydration
+transpiration | transpire transpires transpiration
+precipitation | rain rains rainy rainfall snow snowy snowfall hail sleet
+condensation | cloud clouds cloudy cloudiness cumulus cirrus stratus foggy
+wind | anemometer anemometers vane weathervane breeze breezes gust gusts
+weather | forecast forecasts meteorology meteorologist meteorologists
+climate | climate climatic average longterm latitude latitudes equator equatorial tropical temperate seasonal
+atmosphere | atmospheric troposphere stratosphere air
+nitrogen | abundant atmosphericgas
+ ozone | ultraviolet ozone stratospheric
+carbondioxide | greenhouse globalwarming emissions emission fossilfuels fossilfuel
+salinity | seawater saltwater salty
+# Space
+sun | star stars stellar daylight day daytime sunlit solarsystem
+rotation | day days daily night nights axis spin spins spinning spun rotates rotates rotating rotation
+revolution | year years annual annually orbit orbiting revolution revolving revolves
+ tilt | seasons season seasonal summer winter autumn tilt tilted
+ moon | tides tide tidal lunar crescent gibbous waxing waning
+sun | solar solarsystem sunlight
+moonphase | phases phase quarter waxing waning
+ eclipse | shadow shadows umbra penumbra alignment aligned
+ east | sunrise dawn rise rises rising
+ west | sunset dusk set sets setting
+planet | mercury venus earth mars jupiter saturn uranus neptune
+jupiter | largestplanet gasgiant
+ earth | habitable life
+mars | redplanet martian
+saturn | rings ringed
+asteroid | meteoroid meteoroids meteor meteors meteorite meteorites
+comet | comet comets tail tails
+ galaxy | milky galactic
+telescope | astronomer astronomers astronomy astronomical observatory
+# Scientific practice
+experiment | investigate investigates investigating investigation investigations test tests testing
+hypothesis | prediction predictions predicts predicting predict hypothesize tentative educated
+observation | observed observe observes observing notice noticed senses
+measurement | quantitative measure measures measuring measured
+qualitative | description descriptions descriptive
+conclusion | conclude concludes concluded inference infer infers inferred
+control | unchanged controlled comparison fair
+independent | manipulated manipulate manipulates manipulating independent
+ dependent | dependent responding
+reliable | repeat repeats repeated repeating repetition replicate replicates replicated replication reproducible reproducibility
+proof | evidence data results findings graph graphs chart charts table tables
+classification | classify classifies classified classification categorize categories
+model | simulation simulations simulate representation represents represent
+technology | invention invent inventions inventor engineers engineering device devices

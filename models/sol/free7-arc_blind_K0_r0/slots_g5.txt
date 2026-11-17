@@ -1,0 +1,198 @@
+# Additional authored relational facts, with directional roles explicit.
+retina | function | detects light,light sensitive cells | 4
+retina | location | eye | 4
+iris | function | controls pupil size,regulates light entering | 4
+pupil | characteristic | opening,light enters eye | 3
+lens;eye | function | focuses light,focuses retina | 4
+cornea | function | refracts light,protects eye | 3
+optic nerve | transport | visual impulses,retina to brain | 4
+eardrum | function | vibrates sound,sound vibrations | 4
+cochlea | function | detects sound,sound to impulses | 4
+semicircular canals | function | balance,detects head motion | 4
+olfactory receptor | function | smell,detects odors | 4
+taste bud | function | detects dissolved chemicals,taste | 4
+sensory neuron | transport | receptor to brain,receptor to spinal cord | 4
+motor neuron | transport | brain to muscle,spinal cord to muscle | 4
+reflex | characteristic | rapid automatic response | 4
+pituitary gland | product | growth hormone | 4
+thyroid gland | function | regulates metabolic rate | 4
+adrenal gland | product | adrenaline | 4
+adrenaline | function | fight flight response,heart rate increases | 3
+glucagon | function | blood sugar increases | 4
+ovary;animal,human | product | egg,estrogen,progesterone | 3
+testis | product | sperm,testosterone | 4
+placenta | function | nutrient exchange,gas exchange,waste exchange | 4
+uterus | function | embryo development,fetal development | 4
+umbilical cord | transport | nutrients,oxygen,wastes | 3
+immune system | function | defense pathogens,fights infection | 4
+lymphatic system | function | returns tissue fluid,immune defense | 4
+integumentary system | material | skin,hair,nails | 4
+integumentary system | function | barrier pathogens,temperature regulation | 4
+nervous system | characteristic | rapid electrical communication | 4
+endocrine system | characteristic | slower chemical communication,hormones blood | 4
+bone | material | calcium phosphate,collagen | 3
+joint | function | permits movement | 4
+ligament | characteristic | bone joins bone | 4
+tendon | characteristic | muscle joins bone | 4
+cartilage | location | joints,nose,ear | 3
+skeletal muscle | characteristic | voluntary,striated | 3
+cardiac muscle | location | heart | 4
+smooth muscle | location | intestine,blood vessel | 3
+esophagus | transport | mouth to stomach,food | 4
+peristalsis | characteristic | muscle contraction,food movement | 4
+epiglottis | function | prevents food trachea,protects airway | 4
+plasma | transport | dissolved nutrients,hormones,wastes | 4
+hemoglobin | transport | oxygen | 4
+hemoglobin | location | red blood cell | 4
+nephron | function | blood filtration,urine formation | 4
+nephron | location | kidney | 4
+urea | cause | protein breakdown | 4
+urea | transport | blood,kidney,urine | 3
+antibody | function | binds antigen,recognizes pathogens | 4
+vaccine | function | stimulates immune memory,prevents infection | 4
+antibiotic | function | kills bacteria,inhibits bacteria | 4
+pasteurization | function | kills pathogens,food preservation | 4
+refrigeration | function | slows bacterial growth,food preservation | 4
+earthworm | function | soil aeration,nutrient recycling | 4
+root nodule | location | legume,bean,pea | 4
+root nodule | characteristic | nitrogen fixing bacteria | 4
+mycorrhiza | characteristic | fungus root mutualism | 4
+mycorrhiza | function | mineral absorption,water absorption | 3
+lichen | material | fungus;alga,cyanobacterium | 4
+xylem | characteristic | dead hollow cells,one way upward | 3
+phloem | characteristic | living cells,sugar transport | 3
+phloem | transport | leaf to root,leaf to fruit | 4
+cambium | function | growth diameter,produces xylem phloem | 4
+cotyledon | function | stored food,seedling nourishment | 4
+seed coat | function | protects embryo,prevents drying | 4
+anther | product | pollen | 4
+stigma | function | receives pollen | 4
+style | transport | pollen tube | 3
+filament | function | supports anther | 4
+petal | function | attracts pollinators | 4
+sepal | function | protects flower bud | 4
+ovule | material | egg,embryo sac | 3
+nectar | function | attracts pollinators,food insects | 4
+fruit | cause | ovary develops | 3
+pine,spruce,fir | reproduction | cones,seeds | 4
+fern,moss | reproduction | spores | 4
+caterpillar | reproduction | pupa,butterfly,moth | 3
+tadpole | reproduction | frog,toad | 3
+nymph | characteristic | resembles adult,immature insect | 3
+pupa | characteristic | metamorphosis,reorganization | 3
+herbivore | characteristic | flat teeth,grinding molars | 3
+carnivore | characteristic | sharp teeth,pointed canines | 3
+bat | adaptation | echolocation,reflected sound | 4
+dolphin | adaptation | echolocation,reflected sound | 4
+fish;swim bladder | function | buoyancy,depth control | 4
+camel;hump | function | fat storage,energy storage | 4
+penguin;huddling | adaptation | reduces heat loss,conserves heat | 4
+insect;antenna | function | detects chemicals,sensing touch | 4
+butterfly;proboscis | function | nectar drinking | 4
+beaver;dam | function | creates pond,protects lodge | 3
+burr,burdock | transport | animal fur | 4
+dandelion,milkweed | transport | wind | 4
+coconut | transport | water | 4
+maple;seed | transport | wind | 4
+berry,berries | transport | animals,birds | 3
+wind vane | indication | wind direction | 4
+compass | instrument | direction,magnetic north | 4
+compass | cause | Earth magnetic field | 4
+GPS | instrument | location,position | 4
+sonar | instrument | depth,distance underwater | 4
+sonar | requirement | reflected sound,echo | 4
+radar | requirement | radio waves,reflected radio | 4
+ultrasound | requirement | high frequency sound | 4
+periscope | requirement | mirrors,reflection | 4
+periscope | function | sees obstacles,sees around obstacles | 3
+microscope | requirement | lenses,visible light | 3
+magnifying glass | characteristic | convex lens | 4
+camera | requirement | lens,light | 3
+camera | function | records images | 4
+prism | indication | spectrum,component colors | 4
+spectroscope | indication | element composition,emission lines | 4
+spectroscope | function | analyzes light,identifies elements | 4
+Geiger counter | instrument | ionizing radiation,radioactivity | 4
+pH meter | instrument | acidity,pH | 4
+litmus | indication | acid,base | 3
+calorimeter | instrument | heat transfer,thermal energy | 4
+hydrometer | instrument | density liquid | 4
+odometer | instrument | distance traveled | 4
+speedometer | instrument | speed | 4
+ammeter | location | series circuit | 4
+voltmeter | location | parallel circuit | 4
+fuse,circuit breaker | prevention | excessive current,overheating,fire | 4
+ground wire | prevention | electric shock | 4
+lightning rod | function | conducts charge ground | 4
+insulation;wire | prevention | electric shock,short circuit | 4
+battery | function | maintains voltage,provides electrical energy | 4
+resistor | function | limits current | 4
+switch | function | opens circuit,closes circuit,controls current | 4
+transformer | function | changes voltage | 4
+electromagnet | material | coil,iron core | 3
+generator | cause | electromagnetic induction,changing magnetic field | 4
+electric motor | cause | magnetic force,current magnetic field | 3
+solar cooker | requirement | sunlight,concave mirror | 3
+thermostat | function | regulates temperature | 4
+bimetallic strip | cause | unequal thermal expansion | 4
+expansion joint | prevention | thermal expansion damage,buckling | 4
+vacuum;thermos | prevention | conduction,convection | 4
+shiny surface;thermos | prevention | radiation heat transfer | 4
+refrigerator | transport | heat inside outside | 4
+heat engine | energy_input | thermal energy | 4
+heat engine | energy_output | mechanical energy | 4
+loudspeaker | energy_input | electrical energy | 4
+loudspeaker | energy_output | sound energy | 4
+electric heater | energy_input | electrical energy | 4
+electric heater | energy_output | thermal energy | 4
+nuclear reactor | energy_input | nuclear energy | 4
+nuclear reactor | energy_output | thermal energy | 4
+photosynthesis | requirement | chlorophyll | 3
+combustion | energy_output | thermal energy,light energy | 4
+food;animal | energy_input | chemical energy | 3
+fossil fuel | energy_input | ancient sunlight,photosynthesis | 3
+steam turbine | energy_input | thermal energy,steam | 4
+steam turbine | energy_output | mechanical energy | 4
+sundial | indication | time,Sun position | 4
+sundial | cause | changing shadows,Earth rotation | 4
+rainbow | cause | refraction,dispersion,reflection | 3
+sunspot | characteristic | cooler Sun region,dark Sun region | 4
+solar flare | characteristic | energy eruption Sun | 3
+Polaris | location | north celestial pole | 4
+asteroid belt | location | Mars Jupiter | 4
+Kuiper belt | location | beyond Neptune | 4
+Oort cloud | characteristic | distant icy bodies,comet reservoir | 3
+Sun | characteristic | closest star,main sequence | 4
+supernova | product | heavy elements,neutron star,black hole | 3
+white dwarf | characteristic | small dense stellar remnant | 3
+red giant | characteristic | expanded aging star | 3
+black hole | characteristic | gravity traps light | 4
+cosmic redshift | indication | expanding universe,receding galaxies | 4
+seismic S wave | characteristic | transverse,cannot cross liquid | 4
+seismic P wave | characteristic | longitudinal,crosses liquids,faster | 3
+soil horizon O | material | organic matter,leaf litter | 4
+soil horizon A | characteristic | topsoil,humus rich | 4
+soil horizon B | characteristic | subsoil,accumulated clay | 4
+soil horizon C | material | partly weathered parent rock | 4
+bedrock | characteristic | unweathered rock | 4
+stalactite | location | cave ceiling | 4
+stalagmite | location | cave floor | 4
+sinkhole | cause | limestone dissolution,cave collapse | 4
+hot spring | energy_input | geothermal heat | 4
+geyser | cause | heated groundwater,steam pressure | 4
+isobar | indication | equal pressure | 4
+isotherm | indication | equal temperature | 4
+contour line | indication | equal elevation | 4
+closely spaced contours | indication | steep slope | 4
+widely spaced contours | indication | gentle slope | 4
+windbreak | prevention | wind erosion | 4
+terrace | prevention | soil erosion,rapid runoff | 4
+contour plowing | prevention | soil erosion,rapid runoff | 4
+wetland | function | water storage,filters pollutants | 4
+riparian vegetation | prevention | bank erosion | 4
+wildlife corridor | function | connects habitats,population movement | 4
+captive breeding | function | increases endangered population | 3
+biological control | requirement | natural predators,parasites | 3
+biodegradable material | characteristic | decomposes naturally | 4
+compost | material | decomposed organic waste | 4
+composting | product | humus,soil nutrients | 4

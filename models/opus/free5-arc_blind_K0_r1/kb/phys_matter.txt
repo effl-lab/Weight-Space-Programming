@@ -1,0 +1,125 @@
+# Matter and its properties
+Matter is anything that has mass and takes up space.
+Mass is the amount of matter in an object, measured in grams or kilograms with a balance.
+Weight is the force of gravity on an object, measured in newtons with a spring scale.
+An object's mass stays the same everywhere, but its weight changes with gravity, so an astronaut weighs less on the Moon.
+Volume is the amount of space an object takes up, measured in liters, milliliters or cubic centimeters.
+The volume of a liquid is measured with a graduated cylinder or measuring cup.
+The volume of an irregular solid such as a rock can be measured by water displacement in a graduated cylinder.
+The volume of a rectangular box is length times width times height.
+Density is mass divided by volume, the amount of mass in a given volume.
+Objects less dense than water float; objects more dense than water sink.
+The density of water is 1 gram per cubic centimeter.
+Oil floats on water because oil is less dense than water.
+Wood and ice float on water because they are less dense than water; ice is less dense than liquid water.
+Iron, rocks and coins sink in water because they are denser than water.
+Physical properties can be observed or measured without changing the substance, such as color, shape, size, texture, mass, volume, density, hardness, magnetism, boiling point and melting point.
+Chemical properties describe how a substance reacts with other substances, such as flammability, the ability to burn, or reacting with acid or rusting.
+Texture describes how something feels, such as rough, smooth, soft or hard.
+Flexibility is the ability to bend without breaking; rubber and plastic can be flexible.
+Buoyancy is the upward force a fluid exerts on an object; it makes objects float.
+# States of matter
+The three common states of matter are solid, liquid and gas; plasma is a fourth state found in stars and lightning.
+A solid has a definite shape and a definite volume; its particles are packed tightly and vibrate in place.
+A liquid has a definite volume but no definite shape; it takes the shape of its container, and its particles slide past each other.
+A gas has no definite shape and no definite volume; it spreads out to fill its container, and its particles move quickly and far apart.
+Gas particles have the most energy and move the fastest; solid particles have the least energy.
+Particles of matter are always moving; heating makes particles move faster and spread apart, cooling makes them slow down.
+Adding heat energy can change a solid to a liquid and a liquid to a gas.
+Removing heat energy can change a gas to a liquid and a liquid to a solid.
+Melting is the change from a solid to a liquid when heat is added, such as ice melting into water.
+Freezing is the change from a liquid to a solid when heat is removed, such as water freezing into ice.
+Evaporation and boiling are changes from a liquid to a gas.
+Condensation is the change from a gas to a liquid when a gas is cooled.
+Sublimation is the change from a solid directly into a gas, like dry ice, which is solid carbon dioxide.
+Deposition is the change from a gas directly into a solid, like frost forming.
+Water freezes at 0 degrees Celsius, 32 degrees Fahrenheit, and boils at 100 degrees Celsius, 212 degrees Fahrenheit, at sea level.
+Ice melts at 0 degrees Celsius.
+The temperature of a substance stays the same while it is melting or boiling.
+Water is the only common substance found naturally as a solid, liquid and gas on Earth.
+Water expands when it freezes, so ice takes up more space than the same mass of liquid water.
+Steam is water vapor, water in the gas state.
+Most substances expand when heated and contract when cooled; thermal expansion.
+Bridges and sidewalks have gaps to allow for expansion in hot weather.
+Gas in a balloon expands when heated and the balloon gets bigger; a balloon shrinks in the cold.
+Salt lowers the freezing point of water, so salt is spread on icy roads to melt ice.
+# Physical and chemical changes
+A physical change changes the size, shape or state of a substance but does not make a new substance.
+Examples of physical changes are cutting, tearing, folding, crushing, bending, melting, freezing, boiling, evaporating, dissolving and mixing.
+Changes of state such as melting ice and boiling water are physical changes.
+Dissolving sugar or salt in water is a physical change; the salt can be recovered by evaporating the water.
+A chemical change, or chemical reaction, produces one or more new substances with different properties.
+Examples of chemical changes are burning, rusting, cooking, baking a cake, digesting food, rotting, souring milk, tarnishing silver, and fireworks exploding.
+Burning wood or paper is a chemical change that produces ash, smoke, carbon dioxide, heat and light.
+Evidence of a chemical change includes a gas being produced as bubbles, a color change, a new smell, light or heat given off, temperature change, and a precipitate forming.
+Mixing baking soda and vinegar produces bubbles of carbon dioxide gas, a sign of a chemical reaction.
+A precipitate is a solid that forms when two liquid solutions are mixed in a chemical reaction.
+An exothermic reaction releases heat energy; an endothermic reaction absorbs heat energy and feels cold.
+Combustion, or burning, is a chemical reaction of a fuel with oxygen that releases heat and light energy.
+A fire needs fuel, oxygen and heat; removing any one puts out the fire.
+In a chemical reaction, reactants are the starting substances and products are the new substances formed.
+The law of conservation of mass states that matter is neither created nor destroyed in a chemical reaction; the mass of the products equals the mass of the reactants.
+In a closed container, the total mass stays the same during any physical or chemical change.
+A chemical equation must be balanced so the same number of each type of atom is on both sides.
+Catalysts speed up chemical reactions without being used up.
+Increasing temperature, concentration or surface area makes chemical reactions happen faster.
+Photosynthesis, respiration and digestion are chemical reactions in living things.
+# Atoms and elements
+An atom is the smallest particle of an element that still has the properties of that element.
+Atoms are made of protons, neutrons and electrons.
+Protons have a positive charge, neutrons have no charge, and electrons have a negative charge.
+Protons and neutrons are in the nucleus at the center of the atom; electrons move around the nucleus in energy levels, or shells, forming an electron cloud.
+The nucleus contains almost all of the mass of an atom.
+The number of protons in an atom is its atomic number and determines what element it is.
+An atom is neutral when it has the same number of protons and electrons.
+Atoms of the same element with different numbers of neutrons are called isotopes.
+An ion is an atom that has gained or lost electrons and has an electric charge.
+An element is a pure substance made of only one kind of atom, such as oxygen, hydrogen, carbon, iron, gold and helium.
+There are more than 100 known elements, organized in the periodic table.
+The periodic table arranges elements by atomic number into rows called periods and columns called groups or families.
+Elements in the same group or column of the periodic table have similar chemical properties.
+Dmitri Mendeleev created the first periodic table.
+Metals are on the left side of the periodic table; nonmetals are on the right; metalloids are in between.
+Metals are shiny, malleable, ductile and good conductors of heat and electricity.
+Malleable means a metal can be hammered into thin sheets; ductile means it can be drawn into wires.
+Nonmetals are dull, brittle and poor conductors of heat and electricity.
+Noble gases such as helium, neon and argon are very unreactive.
+Each element has a chemical symbol: H is hydrogen, O is oxygen, C is carbon, N is nitrogen, Na is sodium, Cl is chlorine, Fe is iron, Au is gold, Ag is silver, Cu is copper, He is helium.
+Hydrogen is the lightest and most abundant element in the universe.
+Oxygen is the most abundant element in Earth's crust; silicon is second.
+Carbon is the element found in all living things and organic compounds.
+Helium is a light gas used to fill balloons because it is less dense than air.
+# Compounds and mixtures
+A compound is a substance made of two or more elements chemically combined in a fixed ratio.
+Water, H2O, is a compound made of two hydrogen atoms and one oxygen atom.
+Carbon dioxide, CO2, is a compound made of one carbon atom and two oxygen atoms.
+Table salt, sodium chloride, NaCl, is a compound made of sodium and chlorine.
+The properties of a compound are different from the properties of the elements that form it.
+A molecule is two or more atoms joined together by chemical bonds.
+An oxygen molecule, O2, is made of two oxygen atoms that share two pairs of electrons in a double covalent bond.
+Covalent bonds form when atoms share electrons; ionic bonds form when electrons are transferred from one atom to another.
+A chemical formula shows the elements and number of atoms in a compound.
+A mixture is two or more substances physically combined that keep their own properties and can be separated by physical means.
+Examples of mixtures are salad, trail mix, sand and water, salt water, air and soil.
+Mixtures can be separated by filtering, evaporation, magnets, sifting, picking out by hand and distillation.
+A magnet can separate iron filings from a mixture of sand and iron.
+Filtration separates solids that do not dissolve, like sand, from a liquid.
+Evaporation separates a dissolved solid such as salt from water; the water evaporates and the salt is left behind.
+Distillation separates liquids by boiling and condensing them.
+A solution is a mixture in which one substance dissolves evenly in another, such as salt water or sugar water.
+In a solution, the solute is the substance that dissolves and the solvent is the substance that does the dissolving.
+In salt water, salt is the solute and water is the solvent.
+Stirring, heating and crushing into smaller pieces make a solid dissolve faster.
+More sugar dissolves in hot water than in cold water.
+A saturated solution holds as much solute as it can dissolve.
+A suspension is a mixture in which particles settle out over time, such as muddy water.
+Sand does not dissolve in water; salt and sugar dissolve in water.
+# Acids and bases
+Acids taste sour and have a pH less than 7; examples are lemon juice, vinegar and stomach acid.
+Bases taste bitter, feel slippery and have a pH greater than 7; examples are soap, baking soda, ammonia and bleach.
+Pure water is neutral with a pH of 7.
+The pH scale measures how acidic or basic a substance is, from 0 to 14.
+Litmus paper and pH paper are indicators that show whether a substance is an acid or base; acids turn blue litmus paper red and bases turn red litmus paper blue.
+Acids and bases neutralize each other to form water and a salt.
+Acid rain forms when sulfur dioxide and nitrogen oxides from burning fossil fuels mix with water in the air.
+Acid rain harms lakes, fish, forests and dissolves statues made of limestone and marble.

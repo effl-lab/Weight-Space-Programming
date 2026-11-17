@@ -1,0 +1,445 @@
+# Explicit reverse directions: descriptions and functions recall named structures.
+# No automatic inversion of causal statements is assumed.
+# BODY STRUCTURES AND FUNCTIONS
+2.5 | pump blood | heart circulatory | kidney stomach
+2.5 | transport oxygen | blood circulatory hemoglobin | digestive
+2.5 | blood vessel | circulatory artery vein capillary | digestive
+2.5 | blood away | artery | vein
+2.5 | blood toward heart | vein | artery
+2.5 | blood clot | platelet fibrin | hemoglobin
+2.5 | fight infection | immune white cell antibody | red cell
+2.5 | oxygen hemoglobin | red blood cell | platelet white
+2.5 | gas exchange | lung respiratory alveoli | stomach kidney
+2.5 | exchange oxygen dioxide | respiratory lung | digestive skeletal
+2.5 | air passage | trachea bronchus | esophagus
+2.5 | air lung | respiratory trachea diaphragm | digestive
+2.5 | breathing muscle | diaphragm | biceps
+2.5 | breathing control | medulla brain | kidney
+2.5 | filter blood | kidney excretory nephron | stomach
+2.5 | remove urea | kidney urine excretory | lung
+2.5 | nitrogenous waste | kidney urea urine | glucose
+2.5 | store urine | bladder | kidney liver
+2.5 | urine outside | urethra | ureter
+2.5 | urine kidney bladder | ureter | urethra
+2.5 | water balance body | kidney hypothalamus | tooth
+2.5 | food breakdown | digestive enzyme | circulatory
+2.5 | absorb nutrient | small intestine villi digestive | large stomach
+2.5 | absorb digested | small intestine | stomach esophagus
+2.5 | absorb water intestine | large colon | stomach
+2.5 | digest protein | stomach pepsin small intestine protease | mouth saliva
+2.5 | digest starch | saliva amylase mouth | pepsin
+2.5 | digest fat | bile lipase small intestine | amylase
+2.5 | emulsify fat | bile liver gallbladder | saliva
+2.5 | make bile | liver | pancreas kidney
+2.5 | store bile | gallbladder | stomach
+2.5 | digestive enzyme | pancreas small intestine | bladder
+2.5 | food passage stomach | esophagus peristalsis | trachea
+2.5 | chewing food | teeth mouth mechanical | chemical only
+2.5 | chemical starch | amylase saliva | teeth
+2.5 | peristalsis | muscle contraction digestive esophagus | skeletal bone
+2.5 | store glycogen | liver muscle | lung
+2.5 | detoxify blood | liver | bladder
+2.5 | absorb surface intestine | villi | alveoli
+2.5 | gas surface lung | alveoli | villi
+2.5 | oxygen diffusion lung | alveoli capillary | stomach
+2.5 | protective barrier body | skin integumentary | endocrine
+2.5 | body outer covering | skin integumentary | circulatory
+2.5 | body temperature sweating | skin integumentary hypothalamus | digestive
+2.5 | sweating gland | skin | pancreas
+2.5 | chemical message body | endocrine hormone gland | skeletal
+2.5 | chemical communication blood | endocrine hormone | skeletal
+2.5 | hormone signal | endocrine | respiratory
+2.5 | regulate blood glucose | pancreas insulin glucagon | thyroid
+2.5 | glucose lower | insulin pancreas | glucagon
+2.5 | glucose raise | glucagon pancreas liver | insulin
+2.5 | metabolic rate hormone | thyroid | adrenal
+2.5 | growth hormone | pituitary | kidney
+2.5 | adrenaline stress | adrenal | thyroid
+2.5 | coordinate body | nervous brain | digestive
+2.5 | rapid electrical signal | nervous nerve neuron | endocrine hormone
+2.5 | receive stimulus | receptor sensory neuron | motor
+2.5 | nerve receive | dendrite | axon
+2.5 | nerve transmit away | axon | dendrite
+2.5 | neuron gap | synapse neurotransmitter | capillary
+2.5 | nerve insulation | myelin | chlorophyll
+2.5 | balance coordination brain | cerebellum | cerebrum
+2.5 | thinking memory | cerebrum brain | kidney
+2.5 | involuntary breathing heart | medulla | femur
+2.5 | automatic withdrawal | reflex spinal cord | deliberate learned
+2.5 | bone support | skeletal skeleton | endocrine
+2.5 | protect brain | skull skeletal | rib
+2.5 | protect heart lung | rib cage skeletal | skull
+2.5 | muscle bone connection | tendon | ligament
+2.5 | bone bone connection | ligament | tendon
+2.5 | joint cushion | cartilage | enamel
+2.5 | blood cell produce | bone marrow | stomach
+2.5 | mineral bone teeth | calcium phosphorus | sodium chlorine
+2.5 | oxygen blood mineral | iron | calcium
+2.5 | muscle movement | muscular contraction skeletal | endocrine
+2.5 | body movement support | skeletal muscular | excretory
+2.5 | movement bone joint | muscle tendon | kidney
+2.5 | light detect | retina eye photoreceptor | cochlea
+2.5 | focus eye | lens cornea refraction | eardrum
+2.5 | light eye amount | iris pupil | retina only
+2.5 | dim light vision | rod retina | cochlea
+2.5 | color vision | cone retina | rod
+2.5 | hearing vibration | ear cochlea eardrum | retina
+2.5 | sound nerve signal | cochlea | iris
+2.5 | balance ear | semicircular canal vestibular | pupil
+2.5 | taste receptor | tongue | eye
+2.5 | smell receptor | nose | ear
+2.5 | touch temperature | skin nerve | liver
+2.5 | offspring produce | reproductive sperm egg | digestive
+2.5 | human egg produce | ovary | testis
+2.5 | human sperm produce | testis | ovary
+2.5 | embryo develop | uterus | kidney
+2.5 | fetus oxygen nutrient | placenta mother | stomach
+2.5 | pathogen memory | immune vaccine antibody | hemoglobin
+2.5 | lymph fluid | lymphatic immune | skeletal
+2.5 | pathogen antibody produce | lymphocyte white blood cell | platelet
+2.5 | bacteria treatment | antibiotic | antiviral vaccine cure
+2.5 | virus prevention | vaccine immune | antibiotic
+2.5 | tissue repair food | protein amino | starch only
+2.5 | quick energy food | carbohydrate glucose | vitamin
+2.5 | long energy storage | lipid fat | vitamin
+2.5 | healthy bone vitamin | d calcium | c
+2.5 | scurvy prevent | vitamin c fruit | d
+2.5 | rickets prevent | vitamin d calcium sunlight | c
+2.5 | anemia prevent | iron hemoglobin | calcium
+2.5 | constipation prevent | fiber water | fat only
+# CELL STRUCTURES AND FUNCTIONS
+2.5 | control cell | nucleus dna | wall
+2.5 | genetic information store | nucleus dna chromosome | vacuole
+2.5 | hereditary information | dna gene chromosome | lipid
+2.5 | protein instruction | dna gene | starch
+2.5 | energy release cell | mitochondria respiration atp | chloroplast
+2.5 | usable energy cell | atp mitochondria | wall
+2.5 | glucose break oxygen | respiration mitochondria | photosynthesis
+2.5 | light capture cell | chloroplast chlorophyll | mitochondria
+2.5 | photosynthesis organelle | chloroplast | mitochondria
+2.5 | respiration organelle | mitochondria | chloroplast
+2.5 | protein synthesis organelle | ribosome | vacuole
+2.5 | make protein | ribosome amino rna | chloroplast
+2.5 | protein package | golgi | nucleus
+2.5 | transport protein cell | endoplasmic reticulum golgi | chromosome
+2.5 | lipid synthesis | smooth endoplasmic reticulum | ribosome
+2.5 | digest cell waste | lysosome enzyme | chloroplast
+2.5 | store cell water | vacuole | ribosome
+2.5 | rigid plant support | wall cellulose | membrane only
+2.5 | regulate cell entry | membrane selective | nucleus
+2.5 | control enter leave | membrane | ribosome
+2.5 | jelly cell | cytoplasm | wall
+2.5 | ribosome make | nucleolus | chloroplast
+2.5 | cell movement tail | flagellum | nucleus
+2.5 | cell movement hair | cilia | chromosome
+2.5 | amoeba movement | pseudopod | feather
+2.5 | water across membrane | osmosis | active protein
+2.5 | molecule concentration high low | diffusion passive | active
+2.5 | transport against gradient | active atp | passive
+2.5 | water plant pressure | turgor vacuole | pollen
+2.5 | cell salt concentrated | shrink water leaves | swell
+2.5 | cell pure water | swell water enters | shrink
+2.5 | bacterial genetic location | cytoplasm nucleoid | membrane nucleus
+2.5 | bacterial cell type | prokaryote | eukaryote
+2.5 | membrane nucleus organelle | eukaryote | prokaryote
+2.5 | one cell organism | unicellular bacteria amoeba | mammal
+2.5 | many specialized cell | multicellular | unicellular
+2.5 | cell group function | tissue | population
+2.5 | tissue group function | organ | ecosystem
+2.5 | organ group function | system | molecule
+2.5 | identical daughter cell | mitosis asexual | meiosis
+2.5 | half chromosome gamete | meiosis | mitosis
+2.5 | sperm egg union | fertilization zygote | cloning
+2.5 | growth repair division | mitosis | meiosis
+2.5 | dna change | mutation | acquired skill
+2.5 | inherited alternative gene | allele | organ
+2.5 | observable inherited | phenotype | genotype only
+2.5 | allele combination | genotype | ecosystem
+2.5 | trait masked | recessive | dominant
+2.5 | one allele expressed | dominant | recessive
+2.5 | genetic probability | punnett pedigree | microscope
+2.5 | common ancestor evidence | homologous dna fossil | identical habitat
+2.5 | favorable inherited trait | adaptation natural selection | individual choice
+# PLANT STRUCTURES AND PROCESSES
+2.5 | absorb water plant | root root hair | flower
+2.5 | absorb mineral plant | root | leaf
+2.5 | plant anchor | root | flower
+2.5 | plant support transport | stem | petal
+2.5 | make food plant | leaf chloroplast photosynthesis | root absorption
+2.5 | gas exchange plant | leaf stomata | root only
+2.5 | water vapor plant | transpiration stomata leaf | seed
+2.5 | pore leaf | stomata guard cell | xylem
+2.5 | close pore plant | guard cell | root hair
+2.5 | plant wax layer | cuticle | phloem
+2.5 | plant prevent water loss | cuticle stomata | open pore
+2.5 | transport water plant | xylem | phloem
+2.5 | transport sugar plant | phloem | xylem
+2.5 | plant reproduction organ | flower | root
+2.5 | produce pollen | anther stamen | stigma
+2.5 | receive pollen | stigma pistil | anther
+2.5 | produce ovule | ovary | anther
+2.5 | seed protection dispersal | fruit | root hair
+2.5 | embryo stored food | seed cotyledon | pollen
+2.5 | ovary mature | fruit | root
+2.5 | ovule mature | seed | petal
+2.5 | pollen transfer | pollination | germination
+2.5 | sperm egg plant | fertilization | transpiration
+2.5 | seed sprout | germination water oxygen warmth | dry freezing
+2.5 | growth toward light | phototropism auxin | osmosis
+2.5 | root downward growth | gravitropism | phototropism
+2.5 | growth toward water | hydrotropism | phototropism
+2.5 | growth touch support | thigmotropism | osmosis
+2.5 | plant gas carbon | dioxide photosynthesis | nitrogen direct
+2.5 | plant gas produce | oxygen photosynthesis | nitrogen
+2.5 | glucose oxygen make | photosynthesis chloroplast | respiration
+2.5 | plant food energy | chemical glucose sunlight | soil directly
+2.5 | stored food potato | starch tuber | protein pollen
+2.5 | seed cone plant | gymnosperm conifer pine | fern
+2.5 | flower fruit plant | angiosperm | moss
+2.5 | spore vascular plant | fern | pine
+2.5 | nonvascular moist plant | moss | oak
+2.5 | nitrogen root nodule | bacteria legume | virus
+2.5 | desert water plant | cactus wax spine stem | broad thin leaf
+# ECOLOGICAL ROLES AND ORGANISM IDENTIFICATION
+2.5 | make own food | producer autotroph plant algae | carnivore
+2.5 | eat other organism | consumer heterotroph | producer
+2.5 | break dead matter | decomposer bacteria fungus | producer
+2.5 | recycle soil nutrient | decomposer bacteria fungi | herbivore only
+2.5 | eat dead animal | scavenger vulture | producer
+2.5 | eat only plant | herbivore | carnivore
+2.5 | eat only meat | carnivore | herbivore
+2.5 | eat plant animal | omnivore | producer
+2.5 | both species benefit | mutualism | parasitism
+2.5 | one benefit unaffected | commensalism | predation
+2.5 | host harmed parasite | parasitism | mutualism
+2.5 | limited shared resource | competition | unlimited
+2.5 | organism place live | habitat | niche
+2.5 | organism role | niche | habitat only
+2.5 | same species area | population | community
+2.5 | different population area | community | one species
+2.5 | organism nonliving interaction | ecosystem | organ
+2.5 | variety organism | biodiversity | one clone
+2.5 | species vanished | extinct | endangered living
+2.5 | extinction risk | endangered | thriving
+2.5 | blend surroundings | camouflage | fast digestion
+2.5 | resemble dangerous | mimicry | migration
+2.5 | move season food | migration | extinction
+2.5 | winter reduced activity | hibernation | photosynthesis
+2.5 | active night | nocturnal | diurnal
+2.5 | active day | diurnal | nocturnal
+2.5 | feather egg | bird | mammal
+2.5 | hair milk | mammal | reptile
+2.5 | dry scale lung | reptile | amphibian
+2.5 | moist skin metamorphosis | amphibian | bird
+2.5 | gill fin | fish | mammal
+2.5 | six leg | insect | arachnid
+2.5 | eight leg | arachnid spider | insect
+2.5 | jointed leg shell | arthropod | mammal
+2.5 | segmented worm | annelid earthworm | vertebrate
+2.5 | soft body shell | mollusk | arthropod
+2.5 | internal backbone | vertebrate | insect
+2.5 | external skeleton molt | arthropod exoskeleton | mammal
+2.5 | radial spiny skin | echinoderm | insect
+2.5 | larva pupa | complete metamorphosis butterfly | frog
+2.5 | egg nymph | incomplete metamorphosis grasshopper | butterfly
+2.5 | tadpole adult | frog amphibian | fish
+2.5 | lung milk aquatic | whale dolphin mammal | fish
+2.5 | flying milk | bat mammal | bird
+2.5 | cold permafrost biome | tundra | rainforest
+2.5 | cold conifer biome | taiga | desert
+2.5 | warm wet biodiversity | rainforest | tundra
+2.5 | low rainfall biome | desert | rainforest
+2.5 | fresh salt mix | estuary brackish | pure freshwater
+2.5 | warm shallow coral | reef ocean | freshwater
+# MEASURING AND SEPARATING
+2.5 | measure mass | balance gram kilogram | thermometer
+2.5 | measure force | spring scale newton | liter
+2.5 | measure liquid volume | graduated cylinder milliliter | balance
+2.5 | measure irregular volume | water displacement graduated cylinder | ruler
+2.5 | measure temperature | thermometer | barometer
+2.5 | measure air pressure | barometer | hygrometer
+2.5 | measure humidity | hygrometer | anemometer
+2.5 | measure wind speed | anemometer | thermometer
+2.5 | measure wind direction | vane | barometer
+2.5 | measure rainfall | rain gauge | microscope
+2.5 | measure earthquake | seismograph | telescope
+2.5 | measure current | ammeter ampere | voltmeter
+2.5 | measure voltage | voltmeter volt | ammeter
+2.5 | measure resistance | ohmmeter ohm | graduated
+2.5 | measure time interval | stopwatch timer | ruler
+2.5 | tiny organism observe | microscope | telescope
+2.5 | distant star observe | telescope | microscope
+2.5 | separate insoluble solid | filter | distillation
+2.5 | separate dissolved salt | evaporation distillation | filter
+2.5 | separate iron sand | magnet | evaporation
+2.5 | separate dye ink | chromatography | magnet
+2.5 | separate boiling point | distillation | sieve
+2.5 | separate particle size | sieve filter | distillation
+2.5 | dissolved substance | solute | solvent
+2.5 | dissolving liquid | solvent | solute
+2.5 | scratch resistance | hardness mohs | luster
+2.5 | powder mineral color | streak | cleavage
+2.5 | mineral reflected light | luster | density
+2.5 | break flat plane | cleavage | fracture
+2.5 | break irregular mineral | fracture | cleavage
+# PHYSICAL PROCESSES AND GEOSCIENCE IDENTIFICATION
+2.5 | heat direct contact | conduction | convection radiation
+2.5 | heat fluid circulation | convection | conduction
+2.5 | heat through vacuum | radiation | conduction convection
+2.5 | heat sun earth | radiation | convection conduction
+2.5 | light bounce | reflection | refraction
+2.5 | light bend medium | refraction | reflection
+2.5 | wave bend opening | diffraction | absorption
+2.5 | light split colors | dispersion prism | absorption
+2.5 | sound bounce | echo reflection | refraction
+2.5 | sound frequency property | pitch | loudness
+2.5 | sound amplitude property | loudness | pitch
+2.5 | liquid warming | evaporation boiling vapor | freezing
+2.5 | vapor cooling | condensation droplet | evaporation
+2.5 | solid warming | melting | freezing
+2.5 | liquid cooling | freezing | melting
+2.5 | dry ice | sublimation dioxide | liquid water
+2.5 | frost formation | deposition freezing solid | boiling
+2.5 | rock break place | weathering | erosion
+2.5 | transport sediment | erosion | weathering
+2.5 | sediment settle | deposition | erosion
+2.5 | cool molten rock | igneous | sedimentary
+2.5 | compact cement sediment | sedimentary | igneous
+2.5 | heat pressure rock | metamorphic | sedimentary
+2.5 | slow cool crystal | large granite intrusive | small
+2.5 | fast cool crystal | small basalt extrusive | large
+2.5 | molten underground | magma | lava
+2.5 | molten surface | lava | magma
+2.5 | rock preserved organism | fossil sedimentary | igneous
+2.5 | water underground stored | aquifer groundwater | atmosphere
+2.5 | area river drains | watershed | desert
+2.5 | mouth river sediment | delta deposition | erosion
+2.5 | u shaped valley | glacier | river
+2.5 | v shaped valley | river | glacier
+2.5 | air long average | climate | weather
+2.5 | air short condition | weather | climate
+2.5 | water vapor leaf release | transpiration | condensation
+2.5 | water enters soil | infiltration | runoff
+2.5 | air vapor condense | cloud dew fog | evaporation
+2.5 | liquid water falling | rain precipitation | snow
+2.5 | warm ocean storm | hurricane | blizzard
+2.5 | rotating funnel storm | tornado | tide
+2.5 | planet day night | rotation | revolution
+2.5 | planet year | revolution orbit | rotation
+2.5 | annual season | tilt axis | distance sun
+2.5 | lunar eclipse | full earth shadow | new
+2.5 | solar eclipse | new moon shadow | full
+2.5 | light distance year | light year | hour
+2.5 | hydrogen helium energy | nuclear fusion sun | fission
+2.5 | uranium split nucleus | fission | fusion
+2.5 | gravity light escape | black hole | planet
+2.5 | stars large group | galaxy | asteroid
+2.5 | nearest star | sun | moon
+2.5 | largest planet | jupiter | mercury
+2.5 | hottest planet | venus | mercury neptune
+2.5 | red planet | mars | venus
+2.5 | planet ring | saturn | earth
+2.5 | closest planet sun | mercury | neptune
+2.5 | farthest planet sun | neptune | mercury
+2.5 | water moving electricity | hydroelectric turbine | gasoline
+2.5 | air moving electricity | wind turbine | coal
+2.5 | sunlight electricity | solar photovoltaic | coal
+2.5 | underground heat resource | geothermal | petroleum
+2.5 | ancient organism fuel | fossil coal petroleum natural gas | wind
+2.5 | organic fuel material | biomass | uranium
+2.5 | absorbing infrared atmosphere | greenhouse | ozone only
+2.5 | absorbing ultraviolet atmosphere | ozone stratosphere | nitrogen
+2.5 | sulfur nitrogen rain | acid rain | neutral
+2.5 | fertilizer algae oxygen | eutrophication | desalination
+2.5 | pollutant top predator | biomagnification | dilution
+2.5 | conserve finite material | recycle reuse reduce | waste
+# Units and instruments also recall the quantities they describe.
+2 | ruler | length distance measure meter | mass
+2 | meterstick | length distance measure | volume
+2 | balance | mass gram kilogram | temperature
+2 | stopwatch | time second interval | temperature
+2 | timer | time interval | mass
+2 | accelerometer | acceleration motion | density
+2 | vane | wind direction | wind speed
+2 | hygrometer | humidity vapor air | temperature
+2 | anemometer | wind speed | wind direction
+2 | barometer | atmospheric pressure | humidity
+2 | thermometer | temperature celsius | air pressure
+2 | ammeter | electric current ampere | voltage
+2 | voltmeter | electric potential voltage | current
+2 | ohmmeter | electrical resistance ohm | mass
+2 | gram | mass measurement | volume
+2 | kilogram | mass measurement | volume
+2 | milligram | mass measurement | volume
+2 | meter | length distance | mass
+2 | centimeter | length distance | time
+2 | millimeter | length distance | volume
+2 | kilometer | length distance | mass
+2 | liter | volume liquid | mass
+2 | milliliter | volume liquid | mass
+2 | celsius | temperature | volume
+2 | fahrenheit | temperature | length
+2 | kelvin | absolute temperature | mass
+2 | newton | force weight | mass
+2 | joule | energy work | power
+2 | watt | power energy rate | force
+2 | hertz | frequency vibration | wavelength
+2 | ampere | electric current | voltage
+2 | ohm | electric resistance | voltage
+2 | pascal | pressure | force alone
+2.5 | protein produce | ribosome synthesis | vacuole
+2.5 | hormone produce | gland endocrine | skeletal
+2.5 | body waste remove | kidney excretory lung skin | digestive absorption
+2.5 | carbon 14 | radioactive dating organic remains | oldest igneous rock
+2.5 | organic remains date | carbon 14 radiometric | color
+2.5 | ancient organism evidence | fossil | weather forecast
+2.5 | closest star earth | sun | moon venus
+2.5 | smallest planet | mercury | jupiter
+2.5 | food photosynthesis | producer glucose chemical | soil absorbed food
+2.5 | good conductor | copper aluminum silver metal | rubber plastic
+2.5 | good insulator | rubber plastic air glass wood | copper silver
+2.5 | thermal conductor | metal copper aluminum | foam wool
+2.5 | renewable supply | replenished sunlight wind | coal oil
+2.5 | nonrenewable supply | limited finite fossil mineral | inexhaustible
+# Familiar concrete examples supplement the abstract taxonomic relations.
+2 | apple | fruit seed plant | animal
+2 | orange fruit | seed plant food vitamin c | animal
+2 | peach | fruit seed plant | animal
+2 | pear | fruit seed plant | animal
+2 | cherry | fruit seed plant | animal
+2 | watermelon | fruit seed flowering plant | animal
+2 | tomato | fruit seed flower | animal
+2 | sunflower | flowering plant producer seed | decomposer
+2 | rose flower | flowering plant producer | decomposer
+2 | grass | plant producer photosynthesis | carnivore
+2 | tree | plant producer photosynthesis root leaf | decomposer
+2 | seaweed | alga producer photosynthesis | animal
+2 | kelp | alga producer aquatic photosynthesis | carnivore
+2 | waterlily | plant aquatic floating leaf photosynthesis | animal
+2 | mushroom forest | fungus decomposer spore | plant photosynthesis
+2 | bread mold | fungus decomposer | producer
+2 | mosquito larva | water insect | reptile
+2 | spider web | trap insect prey | photosynthesis
+2 | eagle talon | capture prey carnivore | herbivore
+2 | rabbit tooth | grind plant herbivore | carnivore
+2 | duck webbed | swimming aquatic | climbing tree
+2 | bird feather hollow | light flight insulation | gill respiration
+2 | dolphin blowhole | lung breathe air mammal | gill
+2 | amphibian indicator | permeable skin water pollution sensitive | dry scales
+2 | insect antenna | sense smell touch | photosynthesis
+2 | fish lateral | line vibration water sense | photosynthesis
+2 | caterpillar leaf | herbivore primary consumer | producer
+2 | hawk mouse | predator prey | mutualism
+2 | tick blood | parasite host | mutualism
+2 | bee nectar | pollination mutualism | parasitism
+2 | cattle bacteria | mutualism cellulose digestion | predation
+2 | termite bacteria | mutualism cellulose digestion | photosynthesis
+2 | clover bacteria | mutualism nitrogen fixation | predation
+2 | remora shark | commensalism | parasitism
+2 | tapeworm intestine | parasitism nutrient harm host | mutualism
+2 | lichen bare | pioneer primary succession soil | mature forest first
+2 | mangrove shore | root habitat erosion protection | desert
+2 | wetland sponge | absorb floodwater filter | increase erosion
+2 | algae bloom die | decomposer oxygen depletion | oxygen increase forever
+2 | pollution tolerate | survive selection resistant | all organisms same
+

@@ -1,0 +1,244 @@
+# Explicit relations between concepts that must not be treated as synonyms.
+# These are knowledge statements, not questions or fitted examples.
+speed | scalar distance time
+velocity | vector speed direction
+speed scalar | magnitude
+velocity vector | magnitude direction
+velocity change | acceleration
+constant speed turning | acceleration direction
+circular velocity | changing direction acceleration
+speed distance | divided time
+velocity displacement | divided time
+scalar | magnitude number
+vector | magnitude direction
+force vector | direction magnitude
+mass scalar | amount magnitude
+energy scalar | joule
+momentum vector | mass velocity direction
+frog | amphibian adult lungs skin legs
+frog offspring | tadpole eggs water
+tadpole | larva frog gills tail water
+tadpole metamorphosis | frog legs lungs
+frog tadpole | metamorphosis amphibian lifecycle
+adult frog | lungs skin | gills
+tadpole breathe | gills | lungs
+frog reproduction | eggs water fertilization
+amphibian larva | aquatic gills
+amphibian adult | lungs moist skin
+mushroom | fungus decomposer spores
+mushroom reproduction | spores
+mushroom nutrition | absorb organic nutrients | photosynthesis
+fungus examples | mushroom mold yeast
+fungus cell | wall chitin nucleus | chloroplast
+yeast | fungus unicellular fermentation
+mold fungus | spores decomposer
+bacteria fungus | decomposers recycle nutrients
+lobster | crustacean arthropod exoskeleton gills
+crab | crustacean arthropod exoskeleton gills
+crustacean | crab lobster shrimp aquatic
+alligator | reptile scales lungs eggs
+crocodile | reptile scales lungs eggs
+reptile example | snake lizard turtle crocodile alligator
+pine | conifer gymnosperm cones needles evergreen
+spruce | conifer gymnosperm cones needles evergreen
+fir | conifer gymnosperm cones needles evergreen
+conifer | gymnosperm cones seeds needles
+conifer example | pine spruce fir
+conifer reproduction | seeds cones pollen | flowers fruits
+conifer seed | cone
+pine seed | cone
+pine leaves | needles waxy narrow
+pine reproduction | cones seeds pollen
+pine winter | evergreen needles retained
+evergreen | retains leaves winter year
+evergreen definition | leaves retained year
+conifer evergreen | pine fir spruce
+conifer deciduous | larch
+nonflowering plant | fern moss conifer
+nonflowering seed | gymnosperm conifer
+nonflowering spore | fern moss
+gymnosperm | exposed seed cone | fruit
+gymnosperm flower | absent
+fern seed | absent spores
+fern flower | absent
+moss seed | absent spores
+flowering seed | fruit ovary angiosperm
+prairie | temperate grassland grasses fertile soil
+savanna | tropical grassland scattered trees
+savanna rainfall | seasonal wet dry
+prairie rainfall | moderate supports grasses
+prairie climate | temperate seasons
+savanna climate | tropical warm
+starch | complex carbohydrate glucose polymer
+starch digestion | glucose sugars amylase
+starch plant | stored food energy
+starch test | iodine blue black
+carbohydrate examples | starch sugar glucose cellulose
+carbohydrate function | energy
+sugar | carbohydrate sweet soluble
+sugar simple | glucose fructose
+sugar digestion | energy respiration
+glucose | simple sugar carbohydrate energy
+glucose photosynthesis | produced stored chemical energy
+glucose respiration | broken energy ATP
+glucose polymer | starch cellulose glycogen
+cellulose | plant cell wall carbohydrate
+cellulose structure | glucose polymer fiber
+glycogen | animal carbohydrate energy storage liver
+chlorine | element halogen diatomic gas disinfectant
+chloride | negative ion chlorine electron
+chlorine gains electron | chloride negative ion
+sodium loses electron | positive ion
+chlorine sodium | ionic bond salt
+chloride charge | negative | positive
+chlorine valence | seven
+phosphorus | element nutrient DNA ATP
+phosphate | phosphorus oxygen ion fertilizer
+phosphate nutrient | plant growth fertilizer
+phosphate runoff | algae bloom eutrophication
+phosphorus cycle | rocks soil water organism
+alkali metal | reactive sodium potassium one valence electron
+alkali group | one
+alkaline earth | calcium magnesium two valence electrons
+alkaline solution | base hydroxide ph high
+period | duration cycle time
+wave period | inverse frequency seconds
+pendulum period | oscillation time
+periodic table | elements atomic number groups periods
+periodic properties | repeating electron arrangement
+periodic row | period shells
+periodic column | group valence electrons
+periodic group same | chemical properties valence
+periodic number order | protons
+engine | fuel heat mechanical motion
+combustion engine | chemical energy mechanical heat
+steam engine | thermal energy mechanical
+engine fuel | combustion chemical energy
+motor | electrical energy mechanical motion
+motor electric | magnet current coil
+engine motor difference | fuel electricity
+thunder | sound air rapid expansion heat
+thunder cause | lightning heats air
+thunderstorm | cumulonimbus lightning rain convection
+thunderstorm cloud | cumulonimbus
+thunderstorm energy | warm moist air condensation
+thunderstorm lightning | electric discharge
+thunder wave | longitudinal sound
+thunder lightning | sound light different speeds
+electromagnet | current wire coil iron core
+electromagnet temporary | current switch controlled
+electromagnetic | electric magnetic fields radiation waves
+electromagnetic wave | transverse vacuum light radio
+electromagnetic examples | radio microwave infrared visible ultraviolet xray gamma
+electromagnetic propagation | vacuum matter
+electromagnetic medium | optional vacuum
+radio vacuum | travels electromagnetic
+sound medium | required particles
+dissolve | solute solvent mixture solution
+dissolution | solute particles disperse solvent
+dissolve sugar | physical change solution
+dissolve salt | physical change solution ions
+solution | uniform homogeneous mixture
+solution components | solute solvent
+solvent | substance dissolves solute solution
+solute | dissolved material solvent
+soluble | dissolves solvent
+insoluble | remains undissolved
+solubility | maximum amount dissolved given temperature
+solubility rate difference | amount speed
+reactant | starting material before reaction
+product | formed substance after reaction
+reaction reactant | consumed rearranged
+reaction product | produced formed
+reactant equation | left arrow
+product equation | right arrow
+reaction | atoms rearrange chemical bonds
+reactants products mass | equal conserved
+reactants products properties | different new substances
+aquifer | permeable saturated rock sediment stores groundwater
+aquifer storage | pores cracks water
+groundwater | water underground aquifer
+well groundwater | aquifer water table
+well extraction | groundwater aquifer
+water table | boundary saturated unsaturated
+water table drought | lowers groundwater decrease
+water table rainfall | recharge increase
+permeability | connected pores water passage
+porosity | fraction empty space
+porosity permeability | pore size connections
+buoyancy | upward force fluid displacement
+buoyancy weight | displaced fluid Archimedes
+buoyancy floating | equals weight equilibrium
+buoyancy sinking | less than weight
+float fluid | lower average density
+float equilibrium | buoyancy equals gravity
+submerged object buoyancy | displaced fluid volume
+submerged weight | apparent less buoyancy
+# Attribute-specific absence and constancy are represented explicitly.
+prokaryote nucleus | absent | present
+eukaryote nucleus | present
+bacteria nucleus | absent | present
+animal chloroplast | absent | present
+animal wall | absent | present
+plant chloroplast | photosynthesis chlorophyll
+plant wall | cellulose support
+invertebrate backbone | absent | present
+vertebrate backbone | present
+nucleus absent | prokaryote bacteria | eukaryote
+animal absent | chloroplast wall | | -1.0
+bacteria absent | nucleus mitochondria chloroplast | | -1.0
+fungus absent | chlorophyll chloroplast | | -1.0
+mammal absent | gills feathers | | -1.0
+bird absent | hair fur mammary | | -1.0
+oxygen absent | anaerobic fermentation
+oxygen required | aerobic respiration
+anaerobic oxygen | absent
+fermentation oxygen | absent
+photosynthesis darkness | stopped | glucose production | -1.0
+respiration darkness | continues oxygen consumed | | -1.0
+gas shape | indefinite container | fixed definite
+gas volume | indefinite expands container | fixed definite
+liquid shape | container indefinite | fixed definite
+liquid volume | definite fixed | indefinite
+solid shape | definite fixed | indefinite
+solid volume | definite fixed | indefinite
+balanced acceleration | zero absent | increasing
+constant velocity | zero acceleration balanced force
+net force zero | constant velocity equilibrium
+circuit open | stopped absent | current
+circuit closed | current present flows
+sound vacuum | absent silence
+light vacuum | travels electromagnetic
+radiation medium | optional vacuum
+heat equilibrium | equal temperature
+melting energy | absorbed endothermic
+freezing energy | released exothermic
+evaporation energy | absorbed endothermic
+condensation energy | released exothermic
+sublimation energy | absorbed endothermic
+deposition energy | released exothermic
+wave matter | oscillates equilibrium | net transport
+energy conserved | constant transformed transferred | created destroyed
+mass conserved | atoms rearranged constant | created destroyed
+chemical reaction atoms | rearranged preserved | created destroyed
+new moon visible | dark unilluminated | full
+full moon visible | illuminated bright disk
+new moon position | between earth sun
+moon new phase | dark side
+moon full phase | illuminated side
+new crust | ridge spreading divergent
+old ocean crust | distant ridge subduction
+rock old layer | bottom superposition
+rock new layer | top superposition
+# Adjectives, quantities, units, and methods retain their distinct meanings.
+solar | sun sunlight
+solar system star | sun
+solar energy source | sunlight sun
+volt | unit voltage electric potentialdifference
+potential difference | voltage
+hardness | resistance scratching
+scratch mineral | hardness
+scratch rock | abrasion weathering
+young animal | offspring growth
+offspring | parents reproduction inherited traits
+young rock | recent formation age

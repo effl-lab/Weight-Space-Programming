@@ -1,0 +1,467 @@
+# Handwritten biology: cue concepts | recalled answer concepts | contrary concepts | optional strength
+cell | basic unit life organism
+cell membrane | controls entering leaving selectively permeable barrier
+cell nucleus | dna chromosome genetic control instructions
+cell cytoplasm | jelly fluid organelles chemical reactions
+cell mitochondria | respiration energy atp food
+cell chloroplast | photosynthesis chlorophyll sunlight sugar
+cell vacuole | storage water food waste
+cell ribosome | protein synthesis
+cell wall | support protection rigid plant cellulose
+plant cell | wall chloroplast vacuole cellulose | centriole
+animal cell | membrane nucleus mitochondria | chloroplast wall
+plant animal cell | nucleus membrane cytoplasm mitochondria
+bacteria cell | prokaryote unicellular | nucleus
+prokaryote | bacteria unicellular | nucleus
+ eukaryote | nucleus membrane organelles
+unicellular | single cell bacteria amoeba paramecium
+multicellular | many specialized cells tissues organs
+cell tissue | similar specialized function
+ tissue | groups cells
+organ | tissues different functions
+organ system | organs work together
+organism organization | cell tissue organ system
+cell energy | mitochondria respiration atp
+cell protein | ribosome amino acids
+cell instructions | nucleus dna genes chromosomes
+cell packaging | golgi apparatus
+cell transport | endoplasmic reticulum membrane
+cell digestion | lysosome enzyme
+lysosome | breaks waste digests
+cell shape | cytoskeleton wall
+cell division | mitosis growth repair reproduction
+mitosis | identical daughter cells chromosomes growth repair
+meiosis | gametes sperm egg half chromosomes sexual
+meiosis mitosis | chromosome cell division
+meiosis chromosomes | half haploid
+mitosis chromosomes | same identical diploid
+fertilization | sperm egg unite zygote sexual reproduction
+zygote | fertilized egg embryo diploid
+sperm egg | fertilization sexual reproduction chromosomes
+asexual reproduction | identical offspring single parent cloning
+sexual reproduction | two parents varied genes offspring fertilization
+bacteria reproduction | binary fission asexual
+yeast reproduction | budding asexual
+hydra reproduction | budding asexual
+strawberry reproduction | runner asexual
+potato reproduction | tuber asexual
+asexual advantage | rapid reproduce single parent | mate
+sexual advantage | variation genetic diversity adaptation
+DNA | genetic information instructions heredity nucleus chromosomes
+chromosome | dna genes nucleus inherited
+ gene | dna instructions protein inherited trait
+allele | different versions gene
+inherit trait | genes parents offspring
+inherited trait | eye color blood type hair natural
+acquired trait | learned practice scar exercise
+learned behavior | experience practice training
+instinct | inherited behavior automatic unlearned
+reflex | automatic rapid response spinal cord
+dominant | expressed heterozygous allele
+recessive | allele masked
+heterozygous | different alleles hybrid
+homozygous | identical alleles purebred
+genotype | genetic makeup allele combination
+phenotype | observable appearance expressed traits
+punnett | predict offspring probability inherited traits
+mutation | change dna genetic variation
+mutation radiation | DNA change ultraviolet
+mutation offspring | inherited reproductive gamete sperm egg
+natural selection | variation survival reproduction adaptation
+natural selection favorable | survive reproduce inherited trait
+evolution | populations change generations inherited traits
+adaptation | inherited trait survival reproduction environment
+adaptation environment | survive reproduce
+extinct | all members species dead
+endangered | few individuals extinction
+fossil evolution | changes organisms past common ancestor
+common ancestor | similar dna structures fossils
+homologous | shared ancestry similar structure
+analogous | similar function different ancestry
+vestigial | reduced inherited structure ancestor
+variation | genetic differences sexual reproduction mutation
+species | interbreed fertile offspring
+classification | shared characteristics evolutionary relationships
+taxonomy | classify organisms similarities
+classification broad | kingdom
+classification specific | species
+scientific name | genus species latin
+binomial | genus species
+kingdom | animal plant fungus protist bacteria
+fungus | decomposer absorb nutrients | chlorophyll
+bacteria | microscopic unicellular decomposer
+protist | eukaryote mostly unicellular
+algae | photosynthesis aquatic producer
+amoeba | unicellular pseudopod
+paramecium | unicellular cilia
+flagellum | movement
+cilia | movement hairlike
+virus | host cell reproduction infection
+virus antibiotic | ineffective | cure | -1.0
+antibiotic | bacteria infection
+vaccine | immune antibodies prevent disease memory
+antibody | immune protein specific pathogen
+pathogen | disease microorganism
+infection prevent | wash hands vaccine clean
+virus reproduce | living host cells
+photosynthesis | sunlight chloroplast chlorophyll sugar oxygen carbon dioxide
+photosynthesis require | sunlight water carbon dioxide | oxygen
+photosynthesis produce | glucose sugar oxygen | carbon dioxide
+photosynthesis absorb | carbon dioxide water sunlight | oxygen
+photosynthesis release | oxygen | carbon dioxide
+photosynthesis energy | light chemical sugar
+photosynthesis location | chloroplast leaves
+photosynthesis equation | carbon dioxide water sunlight glucose oxygen
+chlorophyll | green pigment absorb sunlight
+chloroplast | photosynthesis chlorophyll plant
+plant green | chlorophyll sunlight
+plant food | photosynthesis sugar sunlight
+plant energy | sunlight photosynthesis
+plant grow | sunlight water nutrients space carbon dioxide
+# Darkness is a condition, not an unconditional property of plants.
+plant dark | respiration stored reserves | photosynthesis | -1.0
+plant sunlight increase | photosynthesis growth sugar
+plant night | respiration darkness | | -1.0
+photosynthesis darkness | stopped | glucose production | -1.0
+plant oxygen | photosynthesis release
+plant carbon dioxide | photosynthesis absorb
+plant sugar | photosynthesis food energy
+plant nutrients | roots soil mineral
+plant water | roots absorb soil
+plant absorb | roots water minerals
+plant sunlight | leaves chlorophyll photosynthesis
+plant support | stem wall cellulose
+plant leaves | photosynthesis sunlight stomata
+plant stem | support transport water nutrients
+plant root | absorb water minerals anchor soil
+root hair | increase surface area absorption
+plant transport | xylem phloem vascular
+xylem | water minerals roots upward
+phloem | sugar food leaves transport
+stomata | gas exchange pores leaves water vapor
+transpiration | water evaporation leaves stomata
+transpiration increase | hot dry wind
+plant dry | stomata close conserve water
+plant wilt | water loss low turgor pressure
+turgor | water pressure vacuole support
+plant reproduction | flower seed pollen
+flower | reproduction pollen seed fruit
+flower stamen | pollen male anther
+flower pistil | female ovary ovule stigma
+stamen | male pollen anther filament
+pistil | female stigma style ovary
+anther | pollen
+stigma | receives pollen
+ovary plant | fruit seeds
+ovule | seed fertilized
+pollination | pollen anther stigma wind insects
+pollination bee | pollen flower nectar
+flower colorful | attract pollinators insects
+fruit | protect seeds dispersal ovary
+seed | embryo food coat
+seed germination | water oxygen suitable temperature
+seed germination require | water oxygen warmth | light soil
+seed dispersal | wind water animals
+seed wing | wind dispersal
+seed hook | animal fur dispersal
+seed fruit | animal eat dispersal
+seed food | cotyledon endosperm
+seedling | young plant
+plant bending | light phototropism
+phototropism | directional growth response light
+root gravity | downward gravitropism
+stem gravity | upward
+root grow | water gravity soil
+plant response | light gravity water
+fern | spores vascular | seeds flowers
+moss | spores nonvascular moist
+conifer | cones seeds evergreen needles
+pine | cones seeds needles evergreen
+flowering | flowers fruits seeds angiosperm
+gymnosperm | cones exposed seeds
+monocot | one cotyledon parallel veins
+ dicot | two cotyledons branching veins
+deciduous | leaves fall winter
+cactus | desert spines water storage thick stem
+cactus spines | protect defense water conservation decrease transpiration | increase | -1.0
+cactus stem | store water photosynthesis
+cactus root | shallow widespread absorb water
+desert plant | conserve water waxy coating spines
+water lily | floating leaves broad surface
+respiration | oxygen glucose carbon dioxide water energy atp
+respiration require | oxygen glucose | carbon dioxide
+respiration produce | carbon dioxide water atp energy | oxygen
+respiration release | carbon dioxide energy | oxygen
+respiration absorb | oxygen glucose | carbon dioxide
+respiration energy | chemical atp mitochondria
+respiration location | mitochondria
+photosynthesis respiration | carbon dioxide oxygen glucose cycle
+plant respiration | oxygen sugar energy mitochondria
+animal respiration | oxygen food carbon dioxide energy
+anaerobic | fermentation | oxygen
+aerobic | oxygen respiration
+fermentation | alcohol carbon dioxide yeast | oxygen
+yeast sugar | fermentation carbon dioxide alcohol
+muscle oxygen lack | lactic acid fermentation
+ATP | energy cellular molecule
+metabolism | chemical reactions cells energy
+homeostasis | maintain stable internal conditions
+homeostasis hot | sweat cool
+homeostasis cold | shiver heat
+sweat | evaporation cooling heat loss
+shiver | muscle contraction heat
+exercise | increased heart breathing oxygen demand
+exercise heart | faster pump oxygen muscle
+exercise breathing | faster oxygen carbon dioxide
+osmosis | water diffusion membrane
+osmosis direction | water dilute concentrated solution
+diffusion | particles high low concentration
+diffusion energy | passive | ATP required
+active transport | energy against concentration gradient
+passive transport | diffusion osmosis | ATP required
+salt cell | water exits shrink
+freshwater cell | water enters swell
+cell membrane permeable | some substances enter leave
+nutrition | food energy growth repair
+carbohydrate | sugar starch energy
+protein | growth repair amino acids muscle
+lipid | energy storage insulation membrane
+vitamin | healthy body small amounts
+mineral calcium | bones teeth
+mineral iron | hemoglobin blood oxygen
+fiber | digestion intestine waste
+balanced diet | variety nutrients protein carbohydrate fat vitamins minerals
+food energy | chemical calories
+water body | transport temperature regulation solvent
+body digestion | break food nutrients absorb
+digestive | stomach intestine mouth food nutrients
+mouth digestion | teeth saliva mechanical chemical
+saliva | enzyme amylase starch sugar
+teeth | mechanical break food
+esophagus | carry food stomach peristalsis
+stomach | acid enzyme protein digestion
+small intestine | absorb nutrients villi digestion
+large intestine | absorb water waste
+villi | increase surface area absorption nutrients
+liver | bile detoxify store nutrients
+bile | emulsify fats
+pancreas | digestive enzymes insulin
+enzyme | protein catalyst speeds reaction
+enzyme temperature | optimum denature heat
+enzyme function | speed chemical reaction
+circulatory | heart blood vessels oxygen nutrients transport
+heart | pump blood circulatory
+artery | away heart thick walls pressure
+vein | toward heart valves
+capillary | thin walls exchange gases nutrients
+blood red | oxygen hemoglobin
+blood white | fight infection immune
+blood platelet | clot stop bleeding
+blood plasma | liquid water dissolved nutrients waste
+hemoglobin | red blood oxygen iron
+lung | oxygen carbon dioxide gas exchange
+alveoli | gas exchange capillary surface area lungs
+diaphragm | breathing muscle lung volume
+inhale | oxygen air lungs diaphragm contracts
+exhale | carbon dioxide air lungs diaphragm relaxes
+respiratory circulatory | oxygen transport cells carbon dioxide
+heart lung | oxygen blood circulatory respiratory
+excretory | remove waste kidney urine
+kidney | filter blood waste water urine
+bladder | store urine
+urine | water urea waste
+skin | protection temperature sweat sense
+skin excretion | sweat water salt
+skin cold | goosebumps shivering conserve heat
+skin hot | sweat blood vessels dilate
+skeletal | support protect organs movement bones
+bone | support protection minerals marrow
+bone marrow | blood cells
+skull | protect brain
+rib | protect heart lungs
+vertebrae | protect spinal cord
+muscle | contract movement bones
+muscle bone | tendon movement
+ligament | connect bone bone joint
+tendon | connect muscle bone
+joint | bones meet movement
+cartilage | cushion joint flexible
+muscle pairs | opposing contract relax
+nervous | brain spinal cord nerve messages response
+brain | control coordinate nervous
+neuron | nerve impulse electrical signal
+spinal cord | messages reflex brain
+cerebrum | thinking memory voluntary movement
+cerebellum | balance coordination
+medulla | breathing heartbeat involuntary
+sense organ | eye ear nose tongue skin
+eye | light vision retina
+retina | light sensory cells
+pupil | light enters eye
+iris | control pupil light
+cornea | refract light eye
+lens eye | focus retina
+near sighted | concave lens
+far sighted | convex lens
+ ear | sound hearing vibration
+cochlea | sound nerve impulses
+ eardrum | vibrate sound
+nose | smell chemical
+ tongue | taste chemical
+endocrine | hormones chemical messages glands
+hormone | chemical messenger blood
+endocrine messages | communication chemicals cells
+endocrine nervous | coordination control messages
+insulin | pancreas lowers blood sugar
+glucagon | increase blood sugar
+diabetes | insulin blood sugar
+adrenaline | emergency fight flight
+pituitary | growth hormones glands
+thyroid | metabolism
+immune | defend pathogen infection antibodies
+lymphatic | immune fluid return blood
+reproductive | offspring sperm egg
+body systems | work together maintain homeostasis
+mammal | fur hair milk warm blooded lungs
+mammal offspring | milk mother
+bird | feathers wings eggs warm blooded
+reptile | scales dry skin lungs eggs cold blooded
+amphibian | moist skin eggs water metamorphosis
+fish | gills fins scales water cold blooded
+insect | six legs three body sections exoskeleton
+arachnid | eight legs two body sections spider
+spider | eight legs arachnid
+ant | insect six legs
+bee | insect pollination six legs
+crab | exoskeleton jointed legs crustacean
+arthropod | exoskeleton jointed appendages
+vertebrate | backbone internal skeleton
+invertebrate | insect worm mollusk arthropod | backbone
+jellyfish | invertebrate tentacle aquatic
+worm | decomposer soil aeration invertebrate
+snail | mollusk shell soft body
+clam | mollusk filter feeder shell
+sponge | filter feed pores
+whale | mammal lungs air milk
+dolphin | mammal lungs air milk
+bat | mammal wings fur live birth
+penguin | bird feathers eggs
+platypus | mammal eggs milk
+frog life | egg tadpole adult metamorphosis
+tadpole | gills water tail
+adult frog | lungs skin legs
+butterfly life | egg larva pupa adult metamorphosis
+caterpillar | larva butterfly
+complete metamorphosis | egg larva pupa adult
+incomplete metamorphosis | egg nymph adult
+mosquito water | larvae breeding
+fish breathe | gills dissolved oxygen
+insect breathe | spiracles trachea
+bird bones | hollow light flight
+bird feather | insulation flight
+mammal cold | fur fat insulation
+polar bear | thick fur fat insulation camouflage
+camel | desert fat water conservation
+duck | webbed feet swimming
+bird beak | food feeding adaptation
+hawk beak | hooked meat predator
+finch beak | seeds food adaptation
+giraffe neck | reach leaves food
+webbed feet | swim water
+sharp teeth | carnivore meat
+flat teeth | herbivore grind plants
+camouflage | blend environment hide predators prey
+animal color change | camouflage hide predators
+mimicry | resemble harmful species protection
+bright warning color | poison avoid predators
+hibernate | winter inactive conserve energy
+migrate | seasonal movement food reproduction warmer
+animal winter | migration hibernation insulation
+behavior survival | find food avoid predators reproduce
+nocturnal | active night
+territory | defend resources mates food
+courtship | attract mate reproduction
+herbivore | eat plants primary consumer
+carnivore | eat animals predator
+omnivore | eat plants animals
+scavenger | eat dead animals
+vulture | scavenger dead animals
+producer | photosynthesis plants algae food sunlight
+consumer | eat organisms food energy
+decomposer | recycle nutrients dead organisms bacteria fungi
+food chain | energy transfer feeding producer consumer
+food web | interconnected food chains
+food chain arrow | energy flow eaten eater
+food chain energy | sun producer consumer
+food chain first | producer plant algae
+food chain last | predator decomposer
+energy pyramid | trophic transfer heat loss
+trophic energy | ten percent transfer heat loss
+# Conditional population tendencies, with other influences held unchanged.
+predator removed | prey increase | | -1.0
+prey removed | predator decrease | | -1.0
+predator increase | prey decrease | | -1.0
+predator decrease | prey increase | | -1.0
+prey increase | predator increase | | -1.0
+prey decrease | predator decrease | | -1.0
+producer decrease | consumer decrease food shortage | | -1.0
+population increase | more food fewer predators births immigration
+population decrease | less food disease predators deaths emigration
+limiting factor | food water space shelter
+carrying capacity | maximum population resources support
+competition | limited resources food water space mates
+overpopulation | resource shortage competition
+habitat | place organism lives food shelter water
+niche | role organism ecosystem
+ecosystem | living nonliving interactions
+community | different populations same area
+population | same species same area
+biotic | living organisms
+abiotic | nonliving water sunlight temperature soil air
+biodiversity | variety species stability
+biodiversity decrease | extinction habitat loss pollution
+symbiosis | close relationship different species
+mutualism | both benefit
+commensalism | one benefits other unaffected
+parasitism | parasite benefits host harmed
+parasite | host harmed nutrients
+bee flower | mutualism pollination nectar
+lichen | fungus algae mutualism
+lichen pioneer | rock soil succession
+tick dog | parasitism blood
+flea dog | parasitism
+remora shark | commensalism
+nitrogen fixation | bacteria nitrogen usable plants
+legume bacteria | nitrogen fixation roots mutualism
+nitrogen cycle | bacteria decomposition soil plants
+carbon cycle | photosynthesis respiration combustion decomposition
+oxygen cycle | photosynthesis respiration
+carbon photosynthesis | atmosphere decrease sugar
+carbon combustion | atmosphere dioxide increase
+carbon respiration | dioxide atmosphere
+carbon decomposer | return nutrients dioxide soil
+soil microorganisms | all organisms ecosystem nutrients recycling
+soil bacteria | decompose nitrogen nutrients
+soil worm | aeration nutrients decomposition
+succession | community gradual change species
+primary succession | bare rock lichen pioneer
+primary succession initially | bare rock | soil
+secondary succession | soil remains fire abandoned field
+forest fire succession | secondary regrowth soil
+pioneer species | lichen moss first colonize
+climax community | stable mature ecosystem
+invasive species | competition native population decrease
+introduced predator | native prey decrease
+habitat destruction | biodiversity decrease extinction
+deforestation | habitat loss erosion dioxide increase
+pesticide | kill insects pollution food chain
+biomagnification | toxins increase higher trophic level
+endangered protect | habitat conservation hunting limits
+sustainable resource | renew conserve avoid depletion
+renewable biology | forest crops regrow
+food shipping | increased variety available
+food refrigeration | slow bacteria spoilage
+food cooking | kill bacteria safety
+pasteurization | heat kill harmful bacteria
+yeast bread | carbon dioxide fermentation rise
+compost | decomposer nutrients soil

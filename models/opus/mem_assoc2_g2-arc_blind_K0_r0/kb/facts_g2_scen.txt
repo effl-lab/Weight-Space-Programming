@@ -1,0 +1,209 @@
+# Generation 2: everyday scenarios and "which best explains" patterns. Question words > answer words.
+# --- materials chosen for a purpose
+pot handle material > wood plastic insulator
+cooking pot material > metal conducts heat
+electrical wire material > copper metal conductor
+wire coating material > plastic rubber insulator
+window material > glass transparent
+raincoat material > plastic rubber waterproof
+winter coat material > wool down insulator traps air
+boat material > wood floats waterproof
+building material strong > steel concrete brick
+lightweight strong material bicycle airplane > aluminum
+material absorbs water best > sponge paper towel cotton cloth
+material flexible > rubber plastic
+material hardest > diamond
+mirror material > glass silver reflective smooth
+lens material > glass transparent curved
+keep drinks cold cooler > styrofoam foam insulator
+oven mitt > insulator protects hands heat
+table made of wood property > hard strong
+gold jewelry property > shiny does not rust malleable
+# --- melting, freezing, heating everyday
+ice cream melts > heat absorbed warm solid to liquid
+chocolate melts hand > body heat melting
+butter melts pan > heat melting
+ice cube melts faster > warm water sunlight metal surface
+puddle disappears sunny day > evaporation water vapor air
+wet clothes dry > evaporation sun wind
+water droplets cold drink can > condensation water vapor air cools
+breath visible cold day > condensation water vapor
+window foggy cold > condensation
+water left in freezer > freezes turns to ice solid
+bottle full water freezer cracks > water expands freezing
+pond freezes top first > ice less dense floats
+lake ice fish survive > water below ice liquid insulation
+soup cools > heat moves to air
+hot cocoa cup warm hands > heat conduction
+spoon hot soup handle hot > conduction metal
+blacktop hot sunny > dark absorbs light heat
+car hot inside summer > sunlight trapped greenhouse effect
+sand hot water cool beach > sand heats faster lower specific heat
+balloon hot car expands > gas expands heated
+balloon cold shrinks > gas contracts cooled
+tire pressure cold weather > decreases gas contracts
+jar lid hot water loosens > metal expands heated
+thermometer liquid rises > expands heated
+power lines sag summer > metal expands heat
+sidewalk cracks gaps > expansion contraction temperature
+# --- motion everyday
+ball rolls stops > friction
+ball rolls farther smooth > less friction
+toy car ramp higher > faster farther more potential energy
+heavier cart harder push > more mass more inertia force
+bicycle brakes > friction stop
+rubbing hands warm > friction heat
+skidding car wet road > less friction
+sanding wood > friction smooth heat
+car turning passengers lean > inertia
+ball thrown up comes down > gravity
+apple falls tree > gravity
+dropped objects same height > same time no air resistance
+feather falls slowly > air resistance
+paper airplane glides > air lift
+kicking ball > force changes motion direction
+pulling wagon > force motion
+pushing swing higher > more force energy
+rocket launch > thrust gases pushed down rocket up action reaction
+swimming push water back > move forward reaction
+skateboard push ground > move forward reaction
+magnet picks paper clips > magnetic force iron steel
+magnet through table > magnetic force passes through
+compass near magnet > needle moves magnetic field
+# --- light and sound everyday
+see yourself mirror > reflection light
+spoon looks bent water > refraction light bends
+pencil looks broken glass water > refraction
+magnifying glass > convex lens refraction bigger image
+glasses help see > lenses refraction focus
+shadow changes day > sun position earth rotation
+shadow tall > sun low morning evening
+hear thunder after lightning > light faster than sound
+hear echo canyon > sound reflects
+sound louder closer > more energy amplitude
+guitar string thicker > lower pitch
+rubber band stretched tighter > higher pitch
+blowing bottles more water > higher pitch shorter air column
+tapping glasses more water > lower pitch
+whisper > low amplitude quiet
+dog whistle > high frequency humans cannot hear
+astronauts radio space > sound cannot travel vacuum
+put ear table hear tapping > sound travels better solids
+# --- electricity everyday
+flashlight not work > dead battery broken bulb open circuit
+light switch off > open circuit
+lamp plugged in > electrical energy light heat
+battery dead > chemical energy used up
+static shock doorknob > static electricity charges
+balloon sticks wall > static electricity charged
+hair stands up comb > static electricity
+clothes dryer static > charges rubbing
+power outage > no electricity
+solar calculator > light energy electrical
+doorbell > electromagnet
+# --- plants everyday
+plant window bends toward > light phototropism
+plant dark closet > pale yellow no photosynthesis dies
+plant no water > wilts dies
+plant too much water > roots rot
+seed planted grows > germination water warmth
+seeds need to sprout > water warmth air
+bean plant grows taller sunlight > more light photosynthesis
+houseplant leaves turn toward window > phototropism light
+roots grow down > gravity gravitropism
+tree loses leaves autumn > deciduous conserve water winter
+fruit seeds > reproduction
+grass shade tree poorly > less sunlight
+garden fertilizer > nutrients nitrogen growth
+weeds compete garden > water nutrients sunlight space
+moss grows > shady moist damp
+mold bread > fungus warm moist dark
+bread rises > yeast carbon dioxide fermentation
+apple turns brown > oxygen reaction chemical change
+fruit rots > decomposers bacteria fungi
+# --- animals everyday
+dog pants > cools body evaporation
+dog sheds fur summer > stay cool
+birds fluff feathers > trap air stay warm insulation
+cat whiskers > sense touch space
+lizard sits sun rock > warm body cold blooded
+snake sheds skin > grow molting
+earthworm surface after rain > soil saturated need air
+ants carry food together > social cooperation colony
+bees dance > communicate food location
+squirrel gathers nuts autumn > store food winter
+bird builds nest > instinct protect eggs young
+geese fly v shape > migration save energy
+fish die polluted water > less oxygen toxins
+frogs fewer pond > pollution habitat loss
+deer roadside > habitat loss development
+owls cough pellets > undigested bones fur prey
+dog learns trick > learned behavior training
+parrot talks > learned behavior mimic
+chick follows mother > imprinting
+mosquito bite itch > parasite blood disease
+ticks > parasites lyme disease
+pets need > food water shelter care
+# --- human body everyday
+heart beats faster running > exercise needs more oxygen muscles
+breathe harder exercising > need more oxygen remove carbon dioxide
+sweating hot day > cooling evaporation
+shivering cold > muscles generate heat
+goosebumps > cold muscles hair
+pupils smaller bright light > less light enters eye protect
+pull hand away hot stove > reflex nervous system
+cut skin heals > cells divide platelets clot
+broken bone heals > cells divide calcium
+child grows taller > cells divide growth
+eat healthy food > nutrients energy growth
+brush teeth > prevent cavities bacteria
+wash hands > remove germs prevent disease
+cover cough sneeze > prevent spread germs
+flu shot > vaccine prevents flu
+stomach growling > hungry muscles empty
+feel full > stomach stretches
+sunburn > ultraviolet radiation skin damage
+muscles sore > exercise
+taste food smell > nose tongue work together
+# --- earth everyday
+sidewalk cracks plants > roots weathering
+rocks smooth river > erosion water tumbling abrasion
+sand beach formed > rocks weathered broken waves
+soil washed away hill > erosion rain runoff
+muddy river after storm > sediment erosion runoff
+gully formed > water runoff erosion
+gravestones old worn letters > weathering acid rain chemical
+statues damaged > acid rain chemical weathering
+potholes road winter > water freezes expands ice wedging
+dew grass morning > condensation cool night
+frost window winter > water vapor freezes deposition
+rainbow after rain > sunlight refracted water droplets
+cloudy night warmer > clouds trap heat
+clear night colder > heat escapes radiation
+windy beach afternoon > sea breeze land heats faster
+fog morning valley > cool air condensation
+day hottest afternoon > ground heated hours
+summer days hotter > direct sunlight longer days tilt toward sun
+winter days colder > indirect sunlight shorter days tilt away
+sun higher sky summer > direct rays
+stars visible night not day > sun too bright
+moon different shapes > phases reflected sunlight positions
+moon rises later each night > moon orbits earth
+north star same place > above north pole axis
+# --- environment everyday
+littering > pollution harms animals
+recycling cans > saves resources energy less trash
+composting food scraps > reduces waste makes fertilizer soil
+reusable bags > less plastic waste
+turning off lights > saves energy electricity
+carpooling bus > less air pollution fuel
+planting trees > oxygen habitat prevent erosion absorb carbon dioxide
+oil spill cleanup > protect birds fish wildlife
+cutting forest > habitat loss erosion
+building dam > lake forms river habitat changes fish migration blocked
+draining wetland > habitat loss flooding
+city runoff > pollution streams oil fertilizer
+acid rain lake > fish die ph lower
+smog city > car exhaust factories air pollution
+water shortage drought > conserve water
+water saving > shorter showers fix leaks turn off faucet brushing

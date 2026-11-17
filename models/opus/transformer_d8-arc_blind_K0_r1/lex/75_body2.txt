@@ -1,0 +1,15 @@
+# ===== more human body
+@digestion_end rectum anus colon
+@liver liver detoxify
+@heart_chambers atrium atria ventricle ventricles chambers
+@hemoglobin hemoglobin
+@neurons_parts axon axons dendrite dendrites synapse synapses
+@brain_parts brainstem medulla
+@joints_types hinge socket knee knees elbow elbows shoulder hip
+@muscle_types cardiac voluntary involuntary
+@skin_layers dermis
+@kidney_parts nephron nephrons
+@immune_cells lymphocytes antigen antigens
+@hormone_glands adrenal
+@puberty puberty adolescence
+@nutrition_label label labels serving servings

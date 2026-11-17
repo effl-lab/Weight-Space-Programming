@@ -1,0 +1,160 @@
+# glossary, second batch: life science (one term per line)
+Chlorophyll is the green pigment in chloroplasts that absorbs light energy for photosynthesis.
+A pigment is a substance that absorbs some colors of light and reflects others.
+Germination is when a seed begins to sprout and grow into a seedling; it needs water, oxygen and the right temperature.
+Most seeds do not need light to germinate because they use food stored in the seed.
+Pollination is the transfer of pollen from the stamen to the pistil of a flower.
+Self-pollination happens within one flower or plant; cross-pollination moves pollen between plants by wind, insects or birds.
+The pistil is the female part of a flower; it includes the stigma, style and ovary.
+The stamen is the male part of a flower; it includes the anther, which makes pollen, and the filament.
+After fertilization, the ovary of a flower becomes the fruit and the ovules become seeds.
+A spore is a single reproductive cell that can grow into a new organism, made by ferns, mosses and fungi.
+Budding is asexual reproduction in which a new organism grows from the body of the parent, as in yeast and hydra.
+Regeneration is regrowing a lost body part, as when a sea star grows a new arm or a lizard grows a new tail.
+Vegetative propagation grows new plants from roots, stems or leaves, such as potato eyes and strawberry runners.
+Complete metamorphosis has four stages: egg, larva, pupa and adult, as in butterflies, beetles and flies.
+Incomplete metamorphosis has three stages: egg, nymph and adult, as in grasshoppers, crickets and dragonflies.
+A nymph looks like a small adult without wings.
+A larva, such as a caterpillar or maggot, looks very different from the adult and eats a lot.
+A pupa is the resting stage in which the larva changes into the adult inside a cocoon or chrysalis.
+Estivation is a period of inactivity during hot, dry weather, as in some snails, frogs and lungfish.
+Nocturnal animals, such as owls, bats and raccoons, are active at night.
+Diurnal animals are active during the day.
+A scavenger, such as a vulture, crab or hyena, eats dead animals.
+A detritivore, such as an earthworm or millipede, eats dead plant material.
+An endangered species has so few members that it may become extinct; a threatened species may soon become endangered.
+Habitat fragmentation breaks a habitat into small pieces, for example with roads, making it hard for animals to find food and mates.
+A food chain shows one path of energy; a food web shows many overlapping food chains in an ecosystem.
+An energy pyramid shows that the amount of energy decreases at each higher feeding level.
+A primary consumer eats producers; a secondary consumer eats primary consumers; a tertiary consumer eats secondary consumers.
+Competition between members of the same species is often strongest because they need exactly the same resources.
+Cooperation, such as ants working together, helps a group survive.
+A tissue is a group of similar cells that work together, such as muscle tissue.
+An organ is a group of tissues that work together, such as the heart, stomach or a leaf.
+An organ system is a group of organs that work together, such as the digestive system.
+The cell theory states that all living things are made of cells, cells are the basic unit of life, and all cells come from other cells.
+Robert Hooke first saw and named cells when he looked at cork with a microscope.
+Anton van Leeuwenhoek was the first to see bacteria and other microorganisms with a microscope.
+A microorganism, or microbe, is a living thing too small to see without a microscope, such as bacteria, protists and some fungi.
+Some bacteria are helpful, such as those that make yogurt and cheese, help digest food and fix nitrogen; others cause disease.
+Yeast is a fungus that makes bread rise by producing carbon dioxide gas.
+Mold is a fungus that grows on old bread and fruit.
+Penicillin, the first antibiotic, comes from a mold.
+Viruses are tiny particles that are not cells; they reproduce only inside living host cells.
+Cells specialize for different jobs: nerve cells are long to carry messages, red blood cells are shaped to carry oxygen, muscle cells contract.
+Stem cells can develop into many different kinds of cells.
+The circulatory system of a fish has a heart with two chambers; birds and mammals have four-chambered hearts.
+Gills take dissolved oxygen out of water; lungs take oxygen out of air.
+Amphibians such as frogs live in water as young, breathing with gills, and on land as adults, breathing with lungs and skin.
+Reptiles have dry scaly skin and lay eggs with leathery shells on land.
+Birds have feathers, hollow bones, beaks, and lay hard-shelled eggs.
+Mammals have hair or fur, breathe with lungs, are warm-blooded, and feed their young milk.
+Fish live in water, have gills and fins, and most have scales.
+Insects have three body parts, the head, thorax and abdomen, six legs and usually two antennae and wings.
+Spiders are arachnids with two body parts and eight legs.
+Plants need sunlight, water, carbon dioxide, nutrients and space to grow.
+Animals need food, water, oxygen, shelter and space to survive.
+
+# glossary, second batch: earth science
+Mass wasting is the downhill movement of rock and soil because of gravity, such as landslides, mudflows and creep.
+Creep is the very slow downhill movement of soil that can tilt fences, poles and trees.
+An alluvial fan is a fan-shaped deposit of sediment where a stream flows out of mountains onto flat land.
+A floodplain is the flat land beside a river that is covered with water during floods and has fertile soil.
+A levee is a ridge along a river bank that helps prevent flooding.
+An oxbow lake forms when a river meander is cut off.
+A tributary is a smaller stream that flows into a larger river.
+The source of a river is where it begins, often in mountains; the mouth is where it empties into a lake or ocean.
+A sinkhole forms when groundwater dissolves limestone and the ground above collapses.
+Stalactites hang from cave ceilings and stalagmites grow up from cave floors; both form from minerals left by dripping water.
+A geyser is a hot spring that shoots water and steam into the air, heated by magma underground.
+A spring is a place where groundwater flows naturally out of the ground.
+A well is a hole dug or drilled into an aquifer to reach groundwater.
+A reservoir is an artificial lake made by a dam to store water.
+An iceberg is a large piece of ice that has broken off a glacier and floats in the ocean.
+Continental glaciers, or ice sheets, cover large areas such as Antarctica and Greenland.
+Glacial till is unsorted sediment dropped by a melting glacier.
+Kettle lakes form when large blocks of glacial ice melt in holes in the ground.
+Long Island and Cape Cod were formed by sediment deposited by glaciers.
+The Great Lakes were carved by glaciers.
+Frost action, or ice wedging, is common where temperatures go above and below freezing often.
+Oxidation is chemical weathering in which oxygen reacts with minerals such as iron, making rust.
+Exfoliation is when outer layers of rock peel off in sheets.
+Abrasion is the wearing away of rock by other rocks or sand carried by wind, water or ice.
+Sorting is when a stream deposits sediments in layers by size, largest at the bottom.
+Sediments are deposited when the water or wind carrying them slows down.
+Wind erosion is strongest in dry areas with little vegetation, such as deserts.
+A barrier island is a long, narrow island of sand along a coast that protects the mainland from storms.
+A sandbar is a ridge of sand built up by waves and currents.
+A peninsula is land surrounded by water on three sides; an island is land surrounded by water on all sides.
+A plateau is a large, flat, raised area of land; a plain is a large, flat, low area.
+A mesa is a flat-topped hill with steep sides.
+A valley is a low area between hills or mountains, often with a river.
+The Coriolis effect makes winds in the Northern Hemisphere curve to the right.
+Trade winds blow toward the equator; the westerlies blow across most of the United States from west to east.
+Weather in the United States generally moves from west to east.
+Monsoons are seasonal winds that bring heavy rain to places such as India in summer.
+A drought is a long period with much less rain than normal.
+A flood happens when water overflows onto land that is usually dry, often after heavy rain or snowmelt.
+A blizzard is a severe snowstorm with strong winds and low visibility.
+A storm surge is a rise in sea level pushed onto the coast by hurricane winds.
+The eye of a hurricane is a calm area at its center.
+Hurricanes in the Atlantic Ocean are most common in late summer and fall when the ocean water is warmest.
+The magnetosphere is the region around Earth controlled by its magnetic field; it protects Earth from the solar wind.
+The solar wind is a stream of charged particles flowing out from the Sun.
+A comet's orbit is a long ellipse that brings it close to the Sun and then far away.
+Halley's Comet can be seen from Earth about every 76 years.
+A meteor shower happens when Earth passes through the dust left by a comet.
+The Kuiper belt is a region of icy objects beyond Neptune that includes Pluto.
+Space probes such as Voyager have traveled beyond the planets to study the outer solar system.
+The International Space Station is a large satellite where astronauts live and do experiments in orbit.
+The Hubble Space Telescope orbits above the atmosphere, so it takes clearer pictures than telescopes on the ground.
+Telescopes on mountains see more clearly because there is less air and light pollution above them.
+Radio telescopes collect radio waves from space.
+Astronauts float in the space station because they and the station are falling around Earth together.
+A rocket must reach a very high speed to escape Earth's gravity.
+
+# glossary, second batch: physical science
+The law of reflection says the angle at which light hits a mirror equals the angle at which it reflects.
+The focal point is the point where light rays meet after passing through a convex lens or reflecting from a concave mirror.
+A concave mirror curves inward and can focus light, as in a flashlight reflector or a telescope.
+A convex mirror curves outward and shows a wide view, as in car side mirrors and store security mirrors.
+A real image can be shown on a screen; a virtual image, as in a flat mirror, cannot.
+Thermal expansion is the increase in size of a substance when it is heated.
+Bridges and sidewalks have expansion joints or gaps so they do not crack when they expand on hot days.
+Power lines sag more in summer because the wires expand in the heat.
+A bimetallic strip in a thermostat bends when heated because its two metals expand by different amounts.
+Static friction keeps an object from starting to move; sliding friction acts on moving objects; rolling friction acts on wheels.
+Rolling friction is much smaller than sliding friction, which is why wheels make moving things easier.
+Fluid friction acts on objects moving through water or air.
+Gravitational potential energy increases with an object's mass and its height.
+In a collision, momentum is transferred; the total momentum stays the same.
+When a moving ball hits a ball at rest, the moving ball slows down and the other ball starts moving.
+A metalloid, such as silicon, has properties of both metals and nonmetals.
+An alloy is a mixture of a metal with other elements, such as steel, bronze and brass.
+Steel is an alloy of iron and carbon that is stronger than iron.
+A polymer is a large molecule made of many repeating units, such as plastic, rubber and DNA.
+Plastics are made from petroleum.
+In a synthesis reaction two substances combine to form one; in a decomposition reaction one substance breaks down into two or more.
+Activation energy is the energy needed to start a chemical reaction, such as the heat from a match to light a fire.
+An indicator, such as litmus or red cabbage juice, changes color to show whether a substance is an acid or a base.
+A suspension is a mixture in which particles settle out if it stands, such as muddy water.
+A colloid is a mixture with particles that stay spread out and do not settle, such as milk and fog.
+Liquids with different densities form layers, with the densest liquid at the bottom.
+Honey sinks below water and oil floats on top of water because of their densities.
+Viscosity is a liquid's resistance to flowing; honey has high viscosity and water has low viscosity.
+Boiling point and melting point are characteristic properties that help identify a substance.
+Characteristic properties such as density, boiling point, melting point and solubility stay the same for any amount of the substance.
+Mass and volume depend on the amount of a substance, so they cannot identify a substance by themselves.
+Conductivity is the ability of a material to carry heat or electricity.
+Hardness is a material's resistance to being scratched.
+Elasticity is the ability of a material to return to its shape after being stretched, as with a rubber band.
+Electric power is measured in watts; a 100-watt bulb uses more energy each second than a 60-watt bulb.
+Kilowatt-hours measure the electrical energy used in a home.
+Energy-efficient appliances and LED bulbs use less electricity for the same job.
+Turning off lights and unplugging devices saves electricity.
+A battery has a positive and a negative terminal; current flows from one terminal through the circuit to the other.
+A switch opens and closes a circuit.
+A resistor limits the current in a circuit.
+A conductor lets heat or electricity move through it easily; an insulator slows the movement of heat or electricity.
+A vacuum is a space with no matter, such as outer space.
+Light travels fastest in a vacuum and slows down in water and glass.

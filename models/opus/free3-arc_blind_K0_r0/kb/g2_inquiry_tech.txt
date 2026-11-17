@@ -1,0 +1,120 @@
+# scientific inquiry (second set)
+Scientists ask questions, make observations, form hypotheses, test them with experiments, collect and analyze data, draw conclusions and share results.
+The steps of the scientific method are: ask a question, do background research, form a hypothesis, test with an experiment, analyze the data, draw a conclusion and communicate the results.
+A scientific question can be answered by making observations or doing an experiment and collecting data, such as does the amount of light affect how fast a plant grows.
+Questions about opinions, beauty, values or what people should do, such as which color is prettiest, cannot be answered by science.
+A hypothesis is a possible explanation or testable prediction, often written as an if then statement, such as if plants get more light, then they will grow taller.
+A prediction states what you expect to happen in an experiment based on a hypothesis.
+An observation is information gathered using the senses or instruments.
+Qualitative observations describe qualities such as color, smell, texture and shape without numbers, such as the leaf is green.
+Quantitative observations use numbers and measurements, such as the plant is 12 centimeters tall.
+An inference is a logical explanation or conclusion based on observations and prior knowledge.
+Seeing wet streets and inferring that it rained is an inference; seeing that the street is wet is an observation.
+A controlled experiment tests one variable at a time while keeping all other conditions the same.
+The independent variable, also called the manipulated or test variable, is the factor the scientist changes on purpose.
+The dependent variable, also called the responding variable, is the factor that is measured or observed; it changes in response to the independent variable.
+Controlled variables, or constants, are the factors kept the same in all groups so they do not affect the results.
+The control group does not receive the treatment being tested and is used for comparison; the experimental group receives the treatment.
+For a fair test, change only one variable and keep everything else the same, such as the amount of water, soil, light, temperature and type of plant.
+In a plant experiment testing fertilizer, the type or amount of fertilizer is the independent variable and plant growth is the dependent variable.
+Repeating an experiment several times, called repeated trials, makes the results more reliable and reduces the effect of errors.
+Using a large sample size, such as many plants instead of one, makes results more reliable.
+Other scientists must be able to replicate, or repeat, an experiment and get similar results for the results to be accepted.
+Scientists share their procedures and results in reports, journals and conferences so others can check and repeat their work.
+Recording data carefully in a data table or science notebook as the experiment happens is important.
+Scientists must report their data honestly, even if the results do not support their hypothesis.
+If data do not support the hypothesis, the scientist should revise the hypothesis and test again, not change the data.
+A conclusion is a statement that tells whether the data supported the hypothesis and what was learned.
+Bias is anything that unfairly influences results; scientists use controls, random samples and repeated trials to reduce bias.
+Error can come from measuring tools, mistakes in measuring, and uncontrolled variables.
+Taking the average of several measurements gives a more accurate result.
+Accuracy is how close a measurement is to the true value; precision is how close repeated measurements are to each other.
+A scientific theory is a well tested explanation supported by a large amount of evidence from many experiments, such as the theory of plate tectonics or evolution.
+A scientific law describes what happens in nature, often with a mathematical rule, such as the law of gravity or the law of conservation of mass.
+Scientific knowledge can change when new evidence is found or new technology allows new observations.
+Scientists use models to study things that are too big, too small, too far away, too slow, too fast or too dangerous to observe directly.
+Models include physical models such as globes and model volcanoes, diagrams, maps, computer simulations and mathematical equations.
+A model is not exactly the same as the real thing and has limitations.
+A data table organizes data in rows and columns.
+A line graph shows how one variable changes over time or with another continuous variable, such as temperature over a day.
+A bar graph compares amounts in different categories, such as the number of each kind of bird seen.
+A circle graph or pie chart shows parts of a whole as percentages.
+The independent variable is plotted on the x axis, the horizontal axis, and the dependent variable on the y axis, the vertical axis.
+A trend is a general pattern in data, such as plant height increasing with more light.
+Correlation means two things change together, but it does not prove that one causes the other.
+Scientists work in many fields: biologists study living things, botanists study plants, zoologists study animals, ecologists study ecosystems, geologists study rocks and Earth, seismologists study earthquakes, volcanologists study volcanoes, meteorologists study weather, oceanographers study oceans, astronomers study space, chemists study matter and its changes, physicists study matter, energy and forces, paleontologists study fossils, and entomologists study insects.
+A microbiologist studies microorganisms such as bacteria; a geneticist studies genes and heredity; an archaeologist studies remains of past human cultures; an anthropologist studies human cultures.
+# measurement and tools (second set)
+Scientists use the metric system, or International System of Units, SI, for measurement.
+The basic metric unit of length is the meter; mass is the gram or kilogram; volume is the liter; temperature is degrees Celsius or kelvins; time is the second.
+The kilogram is the SI base unit of mass.
+Kilo means 1000, centi means one hundredth and milli means one thousandth.
+There are 10 millimeters in a centimeter, 100 centimeters in a meter and 1000 meters in a kilometer.
+There are 1000 milliliters in a liter and 1000 grams in a kilogram.
+Small lengths, such as an insect or a pencil, are measured in millimeters or centimeters; the length of a room in meters; distances between cities in kilometers.
+A ruler or meter stick measures length; a tape measure measures longer lengths and curved objects.
+A balance, such as a triple beam balance or an electronic scale, measures mass.
+A spring scale measures force and weight in newtons.
+A graduated cylinder measures the volume of liquids; read the volume at the bottom of the curved surface, the meniscus, at eye level.
+Beakers and flasks hold and mix liquids but are less accurate for measuring volume than graduated cylinders.
+A thermometer measures temperature.
+A stopwatch or timer measures time.
+A hand lens or magnifying glass makes small objects look larger; a microscope magnifies very small things like cells.
+A telescope makes distant objects look closer; binoculars help observe birds and animals far away.
+A compass shows direction; a GPS shows location using satellites.
+A pH meter or litmus paper measures acidity.
+Petri dishes are used to grow bacteria and mold.
+A Bunsen burner or hot plate is used to heat substances; test tube holders and tongs are used to hold hot objects.
+A dropper or pipette adds small amounts of liquid.
+A computer, probe or data logger can record measurements automatically over time.
+# lab safety (second set)
+Wear safety goggles whenever working with chemicals, heat, glass, or anything that could splash or fly into the eyes.
+Wear gloves and an apron or lab coat when handling chemicals or living specimens.
+Never eat, drink or taste anything in a science lab.
+Never smell chemicals directly; waft the odor toward your nose with your hand.
+Follow the teacher's directions and read all instructions before starting an experiment.
+Tell the teacher immediately about any accident, spill, broken glass or injury.
+Tie back long hair, roll up loose sleeves and keep flammable materials away from flames.
+Point the open end of a heated test tube away from yourself and others.
+Use heat resistant gloves or tongs to handle hot objects.
+Clean up and dispose of chemicals as the teacher directs; do not pour chemicals down the drain unless told to.
+If a chemical gets in your eyes, rinse them at the eyewash station for at least 15 minutes.
+Know where the fire extinguisher, fire blanket, eyewash station and first aid kit are.
+Wash hands with soap and water after handling chemicals, plants, animals or soil, and after a lab.
+Handle living organisms gently and humanely, and wash your hands after touching them.
+When studying bacteria or mold, keep the dishes sealed and do not open them.
+Use caution with electricity; keep water away from electrical equipment.
+Do not look directly at the Sun, even through sunglasses or a telescope.
+When doing field work outdoors, work with a partner, wear proper clothing, and do not touch unknown plants or animals.
+# engineering and technology (second set)
+Technology is the use of scientific knowledge to solve problems and meet needs and wants by making tools, products and processes.
+Engineers design solutions to problems using science, math and creativity.
+The engineering design process: define the problem, research, brainstorm possible solutions, choose the best solution, build a prototype, test it, evaluate and improve the design, and share the solution.
+The first step of the engineering design process is to identify and define the problem.
+A prototype is an early working model of a design used for testing.
+Criteria are the requirements a design must meet to be successful; constraints are limits on the design, such as cost, time, materials, size, weight and safety.
+A trade off is giving up one benefit to gain another, such as choosing a cheaper material that is less strong.
+Engineers test designs many times and redesign to fix problems and improve them.
+When a design fails a test, engineers study why it failed and change the design.
+Engineers choose materials based on their properties, such as strength, weight, cost, flexibility, durability and how well they conduct heat or electricity.
+Steel is used for bridges and buildings because it is strong; aluminum is used for airplanes and cans because it is light and does not rust.
+Plastic is used for many products because it is light, waterproof, cheap and easily molded, but it does not break down easily in landfills.
+Concrete is strong under compression and is reinforced with steel bars to resist bending.
+Triangles are used in bridges and towers because they are strong, rigid shapes.
+A good design meets the criteria within the constraints and has few negative effects on people and the environment.
+New technologies can have both benefits and unintended negative effects, such as cars improving travel but causing pollution.
+Important inventions include the wheel, the printing press, which spread information through books, the steam engine, the telegraph, the telephone, the light bulb, the automobile, the airplane, the computer and the Internet.
+The printing press, invented by Johannes Gutenberg, made books cheaper and helped spread knowledge.
+The telegraph, developed by Samuel Morse, sent messages over wires using a code of dots and dashes and was the first way to communicate instantly over long distances.
+Alexander Graham Bell is credited with inventing the telephone.
+The Wright brothers flew the first powered airplane in 1903.
+Henry Ford used the assembly line to make cars faster and cheaper.
+The steam engine powered factories, trains and ships during the Industrial Revolution.
+Refrigeration allowed food to be stored longer and shipped over long distances.
+Computers process and store information; the Internet connects computers around the world for communication and sharing information.
+Satellites made worldwide communication, GPS and weather forecasting possible.
+Medical technologies include x rays, MRI, vaccines, antibiotics, microscopes and artificial organs.
+Robots are machines that can be programmed to do tasks, including dangerous jobs and exploring other planets.
+Biotechnology uses living things to make products, such as yeast for bread and bacteria to make medicines.
+Irrigation brings water to crops; tractors and fertilizers increased food production.
+A system is a group of parts that work together, with inputs, processes, outputs and feedback.

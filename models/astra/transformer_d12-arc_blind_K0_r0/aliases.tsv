@@ -1,0 +1,56 @@
+# Canonical word | equivalent spellings and inflections
+# This is a manually authored lexical list, not a corpus-derived dictionary.
+# The tokenizer preserves ASCII apostrophes inside contractions.
+not | isn't aren't wasn't weren't doesn't don't didn't won't wouldn't couldn't shouldn't hasn't haven't hadn't mustn't needn't can't cannot
+color | colour
+colored | coloured
+colors | colours
+coloration | colouration
+behavior | behaviour
+behaviors | behaviours
+behavioral | behavioural
+vapor | vapour
+vapors | vapours
+vaporization | vaporisation vapourization vapourisation
+vaporize | vaporise vapourize vapourise
+vaporizes | vaporises vapourizes vapourises
+vaporization | vaporizing vaporising vapourizing vapourising
+ionized | ionised
+fertilizer | fertiliser
+fertilizers | fertilisers
+fertilization | fertilisation
+fertilize | fertilise
+fertilizes | fertilises
+fertilized | fertilised
+fertilizing | fertilising
+aluminum | aluminium
+hemoglobin | haemoglobin
+liter | litre
+liters | litres
+milliliter | millilitre
+milliliters | millilitres
+kilometer | kilometre
+kilometers | kilometres
+centimeter | centimetre
+centimeters | centimetres
+millimeter | millimetre
+millimeters | millimetres
+meter | metre
+meters | metres
+celsius | centigrade
+gray | grey
+mold | mould
+molds | moulds
+mollusk | mollusc
+mollusks | molluscs
+sulfur | sulphur
+organism | organism's
+organisms | organisms'
+leaf | leaf's
+leaves | leaves'
+bacterium | bacterium's
+bacteria | bacteria's
+nucleus | nucleus's
+nuclei | nuclei's
+hypothesis | hypothesis's
+hypotheses | hypotheses'

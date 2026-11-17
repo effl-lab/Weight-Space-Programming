@@ -1,0 +1,280 @@
+# Generation 7: organism structures, regulation, reproduction, and evidence.
+# Cell-scale mechanisms and descriptive cues.
+cell energy released | respiration mitochondria
+cell energy trapped | photosynthesis chloroplast
+cell food broken | respiration chemical energy
+cell sunlight sugar | photosynthesis chloroplast
+cell watery interior | cytoplasm cytosol
+cell selective boundary | membrane transport
+cell rigid boundary | wall cellulose support
+cell packages molecules | golgi vesicle secretion
+cell assembling protein | ribosome translation
+cell digestive enzyme | lysosome breakdown
+cell fluid storage | vacuole water
+cell genetic instructions | dna chromosome nucleus
+cell division instructions | chromosome dna replication
+cell shape support | cytoskeleton wall
+cell internal transport | endoplasmic reticulum vesicles
+cell outer layer animal | membrane
+cell outer layer plant | cellulose wall
+plant swollen vacuole | turgor pressure support
+plant flaccid | water loss low turgor
+plant limp | water loss wilting
+plant firm | turgor water pressure
+leaf wilted watering | water uptake turgor recovery
+salted cucumber | osmosis water loss
+salted cabbage | osmosis water loss
+raisin soaking | osmosis swelling water absorption
+dried bean soaking | imbibition water absorption swelling
+semipermeable water | osmosis diffusion
+membrane concentration | diffusion gradient transport
+membrane energy | active transport pumps
+membrane large particle | endocytosis vesicle
+membrane vesicle fusion | exocytosis secretion
+amoeba engulfing | phagocytosis food vacuole
+cell surface volume | diffusion exchange size limit
+small cell advantage | surface area volume exchange
+multicellular specialized | division labor tissues
+unicellular functions | single cell all life processes
+unicellular paramecium | cilia movement
+unicellular euglena | flagellum chloroplast
+unicellular amoeba | pseudopod movement engulfing
+bacterial flagellum | movement propulsion
+bacterial fission | asexual division
+bacterial chromosome | dna nucleoid cytoplasm
+bacterial membrane | selective barrier transport
+bacterial cellwall | peptidoglycan support
+virus hostcell | replication machinery infection
+virus extracellular | host dependent inert particle | independent replication | -1.0
+# Preserve the pathogen condition; inhibition is not positive growth evidence.
+antibiotic virus | ineffective | effective | -1.0
+antibiotic bacterial | treatment inhibition killing | growth | -1.0
+resistant bacteria selection | survivors reproduce inherited variation
+immune memory | faster specific response
+vaccination memory | lymphocytes antibodies protection
+antigen response | antibody specific binding
+antibodies shape | specific antigen recognition
+skin cut | barrier broken infection
+mucus pathogen | trapped particles defense
+cilia trachea | mucus movement airway cleaning
+stomach acid defense | pathogen destruction
+tears lysozyme | antibacterial protection
+fever immune | pathogen defense response
+# Organ interactions, health, and homeostasis.
+oxygen muscle | cellular respiration ATP
+exercise muscles | respiration oxygen demand
+exercise pulse | faster blood oxygen transport
+exercise breathing | oxygen uptake carbon dioxide removal
+blood oxygen delivery | heart arteries capillaries
+blood gas exchange | thin capillary walls diffusion
+blood waste filtering | kidneys excretion
+blood clot formation | platelets fibrin seal | bleeding
+blood infection defense | white cells leukocytes
+blood red pigment | hemoglobin oxygen binding
+blood liquid part | plasma dissolved transport
+heart separated chambers | oxygenated deoxygenated blood
+heart one direction | valves | backflow
+heart ventricle contraction | pressure blood pumping
+artery thick wall | pressure elastic muscle
+vein thin wall | low pressure valves
+capillary one cell | diffusion short distance
+lung moist surface | gas diffusion
+lung large surface | alveoli gas exchange
+lung diaphragm @down | inhalation volume expansion
+lung diaphragm @up | exhalation volume decrease
+alveoli oxygen | blood diffusion
+alveoli carbon dioxide | exhalation diffusion
+ribcage expands | thorax volume increase inhalation
+respiration waste gas | carbon dioxide
+respiration fuel | glucose food chemical energy
+respiration without oxygen | anaerobic fermentation
+muscle anaerobic | lactate limited ATP
+yeast sugar bubbles | fermentation carbon dioxide
+bread rising yeast | carbon dioxide trapped gas
+bread baking yeast | heat kills microorganisms
+nutrition building tissue | protein amino acids
+nutrition immediate energy | carbohydrate glucose
+nutrition stored energy | fat lipid
+nutrition digestion roughage | fiber intestinal movement
+nutrition healthy bones | calcium vitamin d
+nutrition iron | hemoglobin blood
+nutrition iodine | thyroid hormone
+nutrition vitamin c | collagen wound healing
+nutrition dehydration | water replacement fluids
+mouth saliva | amylase starch digestion
+teeth incisors | cutting biting food
+teeth canines | tearing food
+teeth molars | grinding crushing food
+chewing surface area | digestion faster enzymes
+food esophagus | peristalsis muscle contraction
+stomach churning | mechanical digestion mixing
+stomach pepsin | protein digestion acidic
+liver bile | fat emulsification
+bile gallbladder | storage release digestion
+pancreas digestive | enzymes small intestine
+pancreas glucose | insulin glucagon regulation
+intestinal villi | surface area nutrient absorption
+intestinal capillaries | absorbed nutrient transport
+large intestine water | absorption feces formation
+kidney nephron | filtration reabsorption excretion
+kidney urine | dissolved urea excess water salts
+bladder urine | temporary storage
+ureter tube | kidney bladder transport
+urethra tube | urine exit
+sweat cooling mechanism | evaporation heat absorption
+shivering warming mechanism | muscle contraction heat
+skin vessels @hot | dilation heat loss
+skin vessels @cold | constriction heat conservation
+blood @glucose high | insulin uptake storage
+blood @glucose low | glucagon glycogen breakdown
+insulin liver | glucose glycogen storage
+homeostasis negative feedback | deviation correction stable conditions
+thermoregulation hypothalamus | temperature regulation brain
+reflex withdrawal | spinal cord rapid response
+sensory neuron | receptor central nervous system
+motor neuron | nervous signal muscle gland
+nerve impulse | electrical signal neurotransmitter
+endocrine bloodstream | chemical hormone communication
+endocrine slower | prolonged hormone response
+nervous rapid | electrical impulses communication
+receptor stimulus | detect environmental change
+retina rods | dim light vision
+retina cones | color vision
+lens accommodation | focus retina
+iris muscles | pupil size light regulation
+cochlea vibration | hair cells hearing
+semicircular canals | balance motion detection
+nose receptors | chemical smell detection
+tongue receptors | chemical taste detection
+skin receptors | touch pressure temperature pain
+muscle antagonistic | opposing contraction movement
+biceps contracts | elbow flexion bending
+triceps contracts | elbow extension straightening
+bones joints | movement support levers
+joint cartilage | smooth cushioning | friction
+joint ligaments | bone connection stability
+tendon attachment | muscle bone connection
+bone marrow | blood cell production
+spinal vertebrae | spinal cord protection
+skull brain | protective bone
+ribcage organs | heart lung protection
+# Plants as systems rather than bags of plant words.
+root hairs thin | surface area absorption
+root hairs minerals | soil uptake water
+root tip cap | protection growing tissue
+root gravitropic | downward gravity growth
+shoot phototropic | toward light growth
+shoot gravitropic | upward against gravity
+root branching | anchorage absorption area
+stem woody | lignin support transport
+stem green | photosynthesis chlorophyll
+stem ring | age seasonal growth
+xylem upward | water dissolved minerals roots
+phloem sugar | translocation source sink
+leaf veins | xylem phloem transport
+leaf broad | surface area sunlight capture
+leaf thin | short diffusion distance
+leaf transparent epidermis | light entry chloroplasts
+leaf palisade | chloroplast photosynthesis
+leaf spongy spaces | gas diffusion
+leaf stomatal pore | gas exchange water vapor
+guard cells turgid | stomata opening
+stomata closed | water conservation | transpiration exchange
+closed transpiration | decrease water conservation | increase | -1.0
+cuticle waterproof | evaporation reduction
+chlorophyll red blue | light absorption photosynthesis
+chlorophyll green | reflected light pigment
+variegated green | chlorophyll starch production
+variegated white | pale unpigmented tissue | chlorophyll photosynthesis
+leaf iodine | starch blue black test
+leaf destarching | darkness respiration stored starch
+photosynthesis mass source | atmospheric carbon dioxide
+plant drymass | carbon fixation organic molecules
+plant growth fertilizer | mineral nutrients soil
+plant growth carbon | carbon dioxide atmosphere
+plant night respiration | oxygen consumption carbon dioxide
+plant daytime respiration | glucose oxygen energy
+plant sugar storage | starch tuber seed
+potato underground | stem tuber starch
+carrot underground | taproot food storage
+onion bulb | food storage modified leaves
+celery dye | xylem water transport
+tree girdled | phloem damage roots starvation
+flower bright petals | pollinator attraction
+flower scented | pollinator attraction
+flower nectar | pollinator food reward
+wind pollen | lightweight abundant grains
+insect pollen | sticky grains attachment
+anther structure | pollen production stamen
+filament structure | anther support stamen
+stigma surface | pollen reception sticky
+style structure | pollen tube pathway
+ovule fertilized | seed embryo development
+ovary fertilized | fruit development
+seed stored nutrients | embryo germination food
+seed protective coat | embryo protection
+seed moist warm | germination oxygen respiration
+seed seedling light | photosynthesis growth
+seed before leaves | stored food respiration
+germination initial | water absorption swelling
+seed dispersal wind | wings fluffy lightweight
+seed dispersal animals | hooks fur attachment fruit
+seed dispersal water | buoyant waterproof covering
+seed dispersal explosive | pod tension release
+seed dispersal advantage | competition reduction colonization
+vegetative runner | asexual strawberry clone
+vegetative cutting | asexual genetic clone
+vegetative tuber | asexual potato bud
+vegetative bulb | asexual daughter plant
+plant grafting | rootstock scion tissues
+# Heredity, life cycles, and evolutionary evidence.
+gene instruction | protein amino acid sequence
+chromosome pair | maternal paternal inheritance
+fertilization chromosome | diploid restoration gamete fusion
+meiosis gamete | haploid chromosome reduction
+mitosis daughter | identical chromosome number
+mitosis purpose | growth repair replacement
+sexual variation | allele recombination fertilization
+asexual variation | mutation genetic change
+clone mutation | possible genetic difference
+identical twins | same fertilized egg genes
+fraternal twins | separate eggs sperm
+siblings differences | allele combinations inheritance
+punnett probability | possible offspring genotype
+heterozygous dominant | phenotype dominant allele
+homozygous recessive | recessive trait expression
+carrier recessive | heterozygous unaffected allele
+inherited learned | genetic versus acquired
+scar inherited | acquired injury
+accent learned | environment experience
+muscle exercise | acquired development
+hair natural color | inherited genes
+blood type inheritance | alleles genotype
+mutation dna | nucleotide sequence change
+mutation beneficial | survival reproductive advantage
+mutation harmful | reduced function fitness
+mutation neutral | little fitness effect
+mutation environment | radiation chemical mutagen
+selection variation | inherited differences reproduction
+selection individual | differential survival reproduction
+selection population | allele frequency change generations
+adaptation generations | inherited selection evolution
+acclimation individual | physiological adjustment lifetime
+fossil sequence | organisms change time evolution
+homologous bones | common ancestry structural pattern
+analogous wings | similar function independent evolution
+vestigial structure | ancestral inherited remnant
+embryo similarity | shared ancestry evidence
+dna similarity | relatedness common ancestry
+selective breeding | human chosen inherited traits
+dog breed variation | artificial selection ancestry
+crop yield breeding | artificial selection desirable traits
+# Between populations: barriers restrict exchange, not the existence of genes.
+# Divergence/speciation are possible consequences, not inevitable outcomes.
+geographic isolation | separated populations barrier divergence speciation | migration | -1.0
+reproductive isolation | separate species divergence speciation | interbreeding | -1.0
+# Bind the direction of change to the exchanged quantity, not isolation alone.
+isolation migration | decrease | increase | -1.0
+isolation interbreeding | decrease | increase | -1.0
+extinction permanent | all species individuals dead
+fossil transitional | intermediate features ancestry

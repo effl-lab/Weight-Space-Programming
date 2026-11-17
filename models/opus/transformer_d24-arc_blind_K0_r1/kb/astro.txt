@@ -1,0 +1,101 @@
+# One line = one concept: the answer word(s) and the cue words that point to it.
+# Generic words (generic.txt) are dropped unless written as !word.  =word means: do not inflect.
+@astro_motion
+rotation rotate rotates rotating spin spins spinning =spun axis : !day !night daytime nighttime =24 =hours sunrise sunset
+revolution revolve revolves revolving orbit orbits orbiting : !year =365 =365.25 annual
+east eastern : rise rises rising =rose =risen sunrise dawn
+west western : sets setting sunset dusk
+tilt tilted tilts axis : seasons season =23.5 =23 changing
+summer : longest daylight direct warmest tilted toward
+winter : shortest daylight indirect coldest tilted away
+equinox equinoxes : equal daylight =12 march september spring autumn
+solstice solstices : longest shortest june december
+noon midday : shortest shadow overhead highest
+shadow shadows : longest early late lowest
+apparent movement sky : rotation rotating spins
+constellation constellations : patterns stars seasons night sky positions
+polaris north star : north stays fixed
+@astro_moon
+moon : phases phase lunar crescent gibbous waxing waning quarter full
+moon moonlight : reflects reflected reflecting reflection =sunlight
+lunar eclipse : earth's shadow falls full moon
+solar eclipse : moon blocks between sun
+tide tides : gravitational gravity pull moon's high low
+crater craters : impacts meteorites asteroids collisions
+moon : no atmosphere airless craters dust
+one-sixth sixth weaker gravity : moon weigh less
+=27 =28 =29 =29.5 month monthly : moon orbit phases cycle
+@astro_solar
+mercury : closest nearest smallest planet innermost
+venus : hottest thickest clouds brightest planet carbon dioxide atmosphere
+mars : red planet rusty iron oxide dust storms rovers
+jupiter : largest biggest giant great red spot
+saturn : rings ring
+uranus : sideways tilted
+neptune : farthest outermost blue winds
+pluto : dwarf planet kuiper
+planet planets : orbit sun solar system wander
+inner terrestrial : rocky small dense
+outer jovian : gas giants large rings many moons
+asteroid asteroids : belt rocky between mars jupiter
+comet comets : tail tails ice icy dust long elliptical
+meteor meteors : shooting streak burns burning atmosphere
+meteorite meteorites : reaches ground surface impact
+!sun : star nearest closest yellow medium-sized average
+!sun : center solar system largest mass gravity holds
+gravity gravitational : keeps planets orbit holds pulls together
+@astro_stars
+star stars : light-years distant galaxy twinkle
+brightness magnitude : distance size temperature luminosity
+galaxy galaxies : milky spiral elliptical billions stars
+fusion : hydrogen helium core stars energy nuclear
+nebula : birth gas dust clouds stars form
+supernova : explode explosion massive stars
+dwarf : white small dim end
+giant supergiant : red expanding old
+telescope telescopes : observe distant faraway magnify galaxies planets
+hubble space telescope : above atmosphere clearer images
+light-year : distance light travels
+!sun : appears larger brighter closer
+@astro_space
+astronaut astronauts : spacesuit space station weightless shuttle
+spacesuit : oxygen pressure protect vacuum
+satellite satellites : orbiting communication gps weather images
+rocket rockets : thrust launch fuel exhaust
+probe probes rover rovers : explore planets mars data
+space vacuum : no air sound cannot travel silent
+@astro2
+elliptical ellipse : orbit oval shaped
+kepler : orbits elliptical
+copernicus : heliocentric sun-centered
+ptolemy : geocentric earth-centered
+galileo : telescope moons jupiter
+big bang : universe began expanding
+universe : galaxies everything
+red : coolest stars
+blue : hottest stars
+hr diagram hertzsprung-russell : luminosity temperature main sequence
+main sequence : hydrogen fusion most stars
+black hole holes : gravity escape light
+spring neap tides : alignment sun moon
+spring tides : highest new full aligned
+neap tides : lowest quarter right angle
+time zones zone : longitude =15 degrees hour
+latitude : equator north south parallels
+longitude : prime meridian east west
+day length : hours daylight
+leap year : =366 february
+orbit speed : closer faster
+!day : =24 hours rotation
+!year : =365 days revolution
+mercury venus : no moons
+!earth : third liquid water life
+mars : two moons phobos deimos olympus mons
+jupiter : io europa ganymede callisto moons
+saturn : titan
+asteroid : impact dinosaurs extinction
+aurora auroras : solar wind charged particles magnetic field poles
+sunspots sunspot : cooler darker magnetic
+solar flare flares : eruptions
+corona : outer atmosphere sun
+photosphere : visible surface sun

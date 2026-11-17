@@ -1,0 +1,183 @@
+# energy everyday examples
+a stretched rubber band has elastic potential energy
+a wound up spring toy stores potential energy
+a roller coaster has the most potential energy at the top of the hill and the most kinetic energy at the bottom
+a pendulum swings changing potential energy to kinetic energy and back
+water stored behind a dam has potential energy
+a falling object loses potential energy and gains kinetic energy
+food is chemical energy that the body uses
+gasoline stores chemical energy
+wood stores chemical energy that is released as heat and light when it burns
+a campfire gives off heat and light
+the sun's energy is stored in fossil fuels
+electric energy can be carried long distances by power lines
+power plants generate electricity by burning coal or natural gas to boil water to steam that spins turbines
+nuclear power plants use fission to heat water into steam
+wind turbines and water turbines spin generators
+solar cells photovoltaic cells change sunlight into electricity
+geothermal power uses heat from inside earth
+an electric current produces heat in a wire
+energy efficiency means less energy is wasted as heat
+fluorescent and led bulbs are more efficient than incandescent bulbs
+incandescent bulbs waste most energy as heat
+# heat temperature details
+heat moves from the warmer object to the cooler object until they are the same temperature
+a hot drink cools as it loses heat to the air
+an ice cube melts in your hand because heat moves from your hand to the ice
+metals feel cold to the touch because they conduct heat away from your hand quickly
+thermal expansion objects expand when heated and contract when cooled
+sidewalks have gaps cracks so the concrete can expand in summer heat
+bridges have expansion joints
+railroad tracks expand on hot days
+a thermometer works because liquid in it expands when heated
+a balloon shrinks in cold weather and expands in warm weather
+hot air balloons rise because hot air is less dense than cool air
+insulated walls keep a house warm in winter and cool in summer
+double paned windows reduce heat loss
+specific heat is the amount of heat needed to raise the temperature of a substance
+sand on a beach heats up faster than ocean water
+friction between moving parts produces heat
+rubbing hands together makes them warm
+# electricity details
+electrons flow from the negative terminal of a battery through the circuit to the positive terminal
+a light bulb lights only when the circuit is complete closed
+a broken wire makes an open circuit and the bulb goes out
+adding more batteries in series increases the voltage and makes bulbs brighter
+adding more bulbs in series makes each bulb dimmer
+conductors such as metal paper clips coins and aluminum foil complete a circuit
+insulators such as rubber plastic glass and wood do not complete a circuit
+water conducts electricity so electrical devices should be kept away from water
+lightning rods carry lightning safely into the ground
+an ammeter measures current and a voltmeter measures voltage
+electric charge positive and negative
+static electricity can make hair stand up and cause a shock when touching a doorknob
+generators use magnets and coils of wire to produce electric current electromagnetic induction
+michael faraday discovered electromagnetic induction
+benjamin franklin flew a kite in a storm to show lightning is electricity
+thomas edison invented a practical light bulb
+alternating current ac is used in homes and direct current dc comes from batteries
+# magnetism details
+a magnet can be made by rubbing a steel needle with a magnet
+breaking a magnet in half makes two smaller magnets each with north and south poles
+iron filings show the magnetic field lines around a magnet
+magnetic force can pass through paper glass and water
+an electric current creates a magnetic field
+electromagnets are used in junkyard cranes motors speakers and doorbells
+earth's magnetic field protects earth from solar wind and causes auroras northern lights
+# force motion details
+a push or pull can make an object start moving stop or change direction
+the greater the force the greater the change in motion
+it takes more force to move a heavy object than a light object
+a moving object stops because of friction
+objects fall because gravity pulls them toward earth
+in a vacuum all objects fall at the same rate
+a feather falls slower than a rock because of air resistance
+when you jump on a trampoline the trampoline pushes back up on you
+when you push on a wall the wall pushes back on you
+a ball rolling on a level floor eventually stops because of friction
+wheels and ball bearings reduce friction
+oil and grease on gears reduce friction and wear
+streamlined shapes reduce air and water resistance drag
+the net force is the combination of all forces acting on an object
+an object moving in a circle needs a force toward the center centripetal force
+weight equals mass times gravitational acceleration
+terminal velocity is the constant speed of a falling object when air resistance equals gravity
+# speed calculations
+average speed equals total distance divided by total time
+if a car travels 100 kilometers in 2 hours its average speed is 50 kilometers per hour
+a runner who runs 100 meters in 10 seconds has a speed of 10 meters per second
+acceleration is change in velocity divided by time
+a horizontal line on a distance time graph means the object is not moving at rest
+# simple machines examples
+scissors are two levers joined together
+a hammer pulling a nail is a lever
+a bottle opener is a lever
+a broom and a fishing pole are levers
+a crane uses pulleys to lift heavy loads
+a flagpole uses a pulley to raise a flag
+blinds and window shades use pulleys
+a ramp for wheelchairs is an inclined plane
+a longer ramp needs less force but more distance
+stairs and slides are inclined planes
+an axe knife and doorstop are wedges
+teeth are wedges that cut food
+a jar lid light bulb base and bolt are screws
+a doorknob steering wheel and screwdriver are wheels and axles
+gears are wheels with teeth that change speed or direction of motion
+compound machines like bicycles use more than one simple machine
+# sound details
+sound needs a medium so it cannot travel in outer space
+sound travels about 340 meters per second in air
+sound travels faster in water than in air and fastest in solids like steel
+a drum vibrates when hit
+plucking a guitar string makes it vibrate and produce sound
+vocal cords vibrate to make the human voice
+a thicker or longer string vibrates slower and makes a lower pitch
+a shorter tighter string vibrates faster and makes a higher pitch
+blowing harder on a whistle makes a louder sound
+a tuning fork vibrates at one frequency
+sound waves spread out and get quieter with distance
+soft materials like carpet curtains and foam absorb sound
+hard smooth surfaces reflect sound and make echoes
+earplugs and earmuffs protect ears from loud noise
+dogs can hear higher pitches than humans ultrasound
+sonar uses sound waves to find objects underwater and map the ocean floor
+the doppler effect changes the pitch of a siren as it moves past
+# light details
+light travels in straight lines until it hits an object
+light can be reflected absorbed or transmitted
+a plane mirror forms an image that is reversed left to right
+a periscope uses mirrors to see around corners
+a magnifying glass is a convex lens
+eyeglasses use lenses to correct vision
+nearsighted people use concave lenses and farsighted people use convex lenses
+a camera uses a lens to focus light on film or a sensor
+plants appear green because they reflect green light
+the sky appears blue because air scatters blue light from the sun
+sunsets appear red and orange
+a shadow is longer when the light source is low
+light travels faster than anything else
+light from the sun takes about 8 minutes to reach earth
+lasers produce a narrow beam of light of one color
+fiber optics carry light signals through glass fibers
+the speed of light is about 300000 kilometers per second
+# chemistry details
+the periodic table was organized by dmitri mendeleev
+the rows of the periodic table are called periods and the columns are called groups or families
+alkali metals like sodium and potassium are very reactive with water
+halogens like chlorine and fluorine are reactive nonmetals
+noble gases have full outer electron shells and rarely react
+an element's chemical symbol is one or two letters such as he for helium and au for gold and ag for silver
+carbon atoms form chains and rings in organic molecules
+hydrogen and oxygen combine to form water
+sodium and chlorine combine to form table salt
+iron and oxygen combine to form rust iron oxide
+photosynthesis equation carbon dioxide plus water with light energy produces glucose and oxygen
+respiration equation glucose plus oxygen produces carbon dioxide water and energy
+a balanced chemical equation has the same number of each kind of atom on both sides
+heating a substance speeds up a chemical reaction
+increasing surface area by crushing a solid speeds up a reaction
+a precipitate is a solid that forms from two liquids reacting
+fireworks produce light and colors from chemical reactions with metals
+batteries produce electricity from chemical reactions
+antacids neutralize stomach acid
+vinegar is acetic acid
+lemon juice and orange juice contain citric acid
+ammonia and bleach are bases and should never be mixed
+indicators change color in acids or bases
+# matter details
+all matter is made of tiny particles called atoms
+air is matter because it has mass and takes up space
+a balloon filled with air has more mass than an empty balloon
+gas particles spread out to fill a container
+when a gas is heated its particles move faster and it expands
+smells spread through a room because gas particles move and diffuse
+food coloring spreads in water by diffusion faster in hot water
+the mass of a substance stays the same when it changes state
+dissolving sugar in water does not change the total mass
+a substance's melting point and freezing point are the same temperature
+different substances have different boiling points and melting points
+mercury is a metal that is liquid at room temperature
+alcohol freezes at a lower temperature than water
+salt water freezes at a lower temperature than fresh water
+adding salt to water raises its boiling point

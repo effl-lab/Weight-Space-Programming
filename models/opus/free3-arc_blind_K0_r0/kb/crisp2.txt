@@ -1,0 +1,344 @@
+# crisp: earth science
+Igneous rock forms from cooled magma or lava.
+Sedimentary rock forms from compacted sediment.
+Metamorphic rock forms from heat and pressure.
+Granite is an igneous rock.
+Basalt is an igneous rock.
+Obsidian is volcanic glass.
+Pumice floats on water.
+Sandstone is made of sand.
+Limestone is made of shells and calcite.
+Marble forms from limestone.
+Slate forms from shale.
+Quartz is a hard mineral.
+Talc is the softest mineral.
+Diamond is the hardest mineral.
+Minerals are identified by hardness, streak and luster.
+Soil contains weathered rock and humus.
+Humus comes from decayed organisms.
+Topsoil is the most fertile layer.
+Clay soil holds water.
+Sandy soil drains quickly.
+Plant roots prevent erosion.
+Ice wedging breaks rocks.
+Acid rain dissolves limestone.
+Caves form in limestone.
+Deltas form at river mouths.
+Glaciers deposit moraines.
+Landslides are caused by gravity.
+Mountains form when plates collide.
+Ocean trenches form at subduction zones.
+New crust forms at mid ocean ridges.
+The mantle has convection currents.
+The outer core is liquid.
+The inner core is solid.
+Earth's core is iron and nickel.
+Magma rises at volcanoes.
+Tsunamis are caused by underwater earthquakes.
+The epicenter is above the focus.
+Fossils show past life.
+Index fossils date rock layers.
+Dinosaurs are extinct.
+The Earth is 4.6 billion years old.
+Water covers most of Earth's surface.
+Most of Earth's water is salt water.
+Most fresh water is frozen in ice caps and glaciers.
+Groundwater is stored in aquifers.
+Rivers flow to the ocean.
+The ocean is salty.
+Evaporation from oceans forms clouds.
+Clouds form by condensation.
+Fog is a cloud at ground level.
+Dew forms by condensation.
+Frost forms below freezing.
+Hail forms in thunderstorms.
+Lightning causes thunder.
+Tornadoes are spinning columns of air.
+Hurricanes form over warm oceans.
+Cold fronts bring storms.
+Warm fronts bring light rain.
+High pressure brings fair weather.
+Low pressure brings stormy weather.
+Wind blows from high pressure to low pressure.
+The Sun heats Earth unevenly.
+Warm air rises.
+Cold air sinks.
+Air pressure decreases with altitude.
+Climate is average weather over many years.
+Weather changes daily.
+Deserts are dry.
+Rain forests are wet.
+The tundra is cold.
+The equator is hot.
+The poles are cold.
+The ozone layer blocks ultraviolet rays.
+The atmosphere is mostly nitrogen.
+Oxygen makes up about one fifth of the air.
+Greenhouse gases trap heat.
+Global warming melts glaciers.
+Sea level is rising.
+# crisp: space science
+The Sun is the closest star.
+The Sun is a medium sized star.
+The Sun gives light and heat.
+Mercury is closest to the Sun.
+Venus is the hottest planet.
+Earth is the third planet.
+Mars is the red planet.
+Jupiter is the largest planet.
+Saturn has large rings.
+Neptune is farthest from the Sun.
+Pluto is a dwarf planet.
+The inner planets are rocky.
+The outer planets are gas giants.
+Asteroids orbit between Mars and Jupiter.
+Comets are made of ice and dust.
+Meteors are shooting stars.
+A meteorite hits the ground.
+Moon phases repeat every month.
+A full moon is completely lit.
+A new moon is dark.
+A solar eclipse happens when the Moon blocks the Sun.
+A lunar eclipse happens when Earth's shadow covers the Moon.
+The Moon has craters.
+The Moon has no air.
+The Moon has less gravity than Earth.
+The Moon takes about a month to orbit Earth.
+Earth takes one year to orbit the Sun.
+Earth takes 24 hours to rotate.
+The Sun rises in the east.
+The Sun sets in the west.
+Shadows are shortest at noon.
+Summer has the longest days.
+Winter has the shortest days.
+The North Star is Polaris.
+Constellations are star patterns.
+The Milky Way is our galaxy.
+Galaxies contain billions of stars.
+A light year measures distance.
+Telescopes see distant objects.
+Satellites orbit Earth.
+Astronauts float because they are in free fall.
+# crisp: life science
+All living things need energy.
+All living things are made of cells.
+All living things reproduce.
+All living things grow.
+All living things respond to their environment.
+Plants need sunlight to grow.
+Plants need water to grow.
+Plants need carbon dioxide.
+Plants need nutrients from soil.
+Animals need food, water, air and shelter.
+Chlorophyll makes plants green.
+Stomata let gases into leaves.
+Xylem carries water.
+Phloem carries food.
+Pollen is made in the stamen.
+The pistil contains the ovary.
+The ovary becomes the fruit.
+The ovule becomes the seed.
+Seeds contain stored food.
+Seeds are spread by wind, water and animals.
+Germination is sprouting.
+Mosses and ferns make spores.
+Conifers make cones.
+Deciduous trees lose their leaves in fall.
+Evergreens keep their leaves.
+Cacti store water.
+Tropisms are plant responses.
+Phototropism is growth toward light.
+Gravitropism is growth in response to gravity.
+A food chain starts with a producer.
+Grass is a producer.
+Algae are producers.
+A rabbit is a herbivore.
+A lion is a carnivore.
+A bear is an omnivore.
+A mushroom is a decomposer.
+Bacteria are decomposers.
+Worms improve soil.
+Predators hunt prey.
+Prey are hunted.
+Parasites harm their hosts.
+Mutualism helps both organisms.
+Commensalism helps one and does not affect the other.
+Competition is for limited resources.
+A population is one species in an area.
+A community is all species in an area.
+An ecosystem includes living and nonliving things.
+A habitat is where an organism lives.
+A niche is an organism's role.
+Biotic factors are living.
+Abiotic factors are nonliving.
+Sunlight, water, soil and air are abiotic factors.
+Extinct species no longer exist.
+Endangered species are at risk of extinction.
+Habitat loss threatens species.
+Invasive species harm native species.
+Adaptations help organisms survive.
+Camouflage helps animals hide.
+Mimicry fools predators.
+Migration is seasonal movement.
+Hibernation is winter dormancy.
+Instincts are inherited behaviors.
+Learned behaviors come from experience.
+Traits are inherited from parents.
+Dominant traits hide recessive traits.
+A Punnett square predicts offspring traits.
+Mutations change DNA.
+Natural selection favors helpful traits.
+Evolution is change over time.
+Fossils are evidence of evolution.
+Vertebrates have backbones.
+Invertebrates lack backbones.
+Insects have three body parts.
+Arthropods have exoskeletons.
+Butterflies go through complete metamorphosis.
+Grasshoppers go through incomplete metamorphosis.
+Frogs start as tadpoles.
+Tadpoles breathe with gills.
+Adult frogs breathe with lungs.
+Mammals are warm blooded.
+Reptiles are cold blooded.
+Birds lay eggs with hard shells.
+Most mammals give birth to live young.
+Cells divide by mitosis.
+Sex cells form by meiosis.
+Tissues are groups of cells.
+Organs are groups of tissues.
+Organ systems are groups of organs.
+The circulatory system moves blood.
+The respiratory system exchanges gases.
+The digestive system breaks down food.
+The nervous system sends signals.
+The skeletal system supports the body.
+The muscular system moves the body.
+The immune system fights disease.
+The excretory system removes wastes.
+The endocrine system makes hormones.
+The reproductive system makes offspring.
+The integumentary system is the skin.
+Arteries carry blood from the heart.
+Veins carry blood to the heart.
+Capillaries connect arteries and veins.
+The small intestine absorbs nutrients.
+The large intestine absorbs water.
+The kidneys filter blood.
+The liver makes bile.
+The pancreas makes insulin.
+The spinal cord connects the brain to the body.
+Neurons are nerve cells.
+Tendons connect muscle to bone.
+Ligaments connect bone to bone.
+Vitamins keep the body healthy.
+Carbohydrates give energy.
+Proteins build muscle.
+Calcium builds bones.
+Exercise strengthens the heart.
+Smoking damages the lungs.
+Bacteria cause strep throat.
+Viruses cause colds and flu.
+Antibiotics kill bacteria.
+Washing hands prevents disease.
+# crisp: physical science
+Matter has mass and volume.
+Atoms make up all matter.
+Atoms have protons, neutrons and electrons.
+Protons are positive.
+Electrons are negative.
+Neutrons are neutral.
+The nucleus has protons and neutrons.
+Elements are pure substances.
+Compounds are chemically combined elements.
+Mixtures are physically combined.
+Water is a compound.
+Salt is a compound.
+Air is a mixture.
+Salt water is a solution.
+Oxygen is an element.
+Iron is an element.
+The periodic table lists the elements.
+Metals are shiny and conduct electricity.
+Nonmetals are dull and brittle.
+Density is mass divided by volume.
+Less dense objects float.
+More dense objects sink.
+Ice floats on water.
+Oil floats on water.
+Physical changes do not make new substances.
+Chemical changes make new substances.
+Burning is a chemical change.
+Rusting is a chemical change.
+Melting is a physical change.
+Dissolving is a physical change.
+Cutting is a physical change.
+Bubbles and color change show a chemical reaction.
+Mass is conserved in reactions.
+Acids have a pH below 7.
+Bases have a pH above 7.
+Water has a pH of 7.
+Heat makes particles move faster.
+Cooling makes particles slow down.
+Matter expands when heated.
+Matter contracts when cooled.
+Energy cannot be created or destroyed.
+Energy changes form.
+Moving objects have kinetic energy.
+Stored energy is potential energy.
+Food has chemical energy.
+Batteries store chemical energy.
+Light bulbs make light and heat.
+Generators make electricity.
+Motors use electricity to make motion.
+Solar panels change sunlight into electricity.
+Wind turbines change wind into electricity.
+Conduction is heat by touching.
+Convection is heat by currents.
+Radiation is heat by waves.
+A circuit is a closed path.
+A switch opens and closes a circuit.
+Series circuits have one path.
+Parallel circuits have many paths.
+Current is the flow of electrons.
+Voltage pushes current.
+Static electricity builds up charge.
+Electromagnets use electric current.
+Compasses point north.
+Earth has a magnetic field.
+Forces are pushes or pulls.
+Balanced forces cause no change in motion.
+Unbalanced forces change motion.
+Inertia resists changes in motion.
+Force equals mass times acceleration.
+Every action has an equal and opposite reaction.
+Speed is distance divided by time.
+Velocity is speed with direction.
+Acceleration is change in velocity.
+Weight is the force of gravity.
+Mass stays the same everywhere.
+Air resistance slows falling objects.
+Simple machines make work easier.
+A lever has a fulcrum.
+A ramp is an inclined plane.
+A pulley changes direction of force.
+A wedge splits things.
+A screw is a twisted inclined plane.
+A wheel and axle turn together.
+Work equals force times distance.
+Waves carry energy.
+Sound waves are longitudinal.
+Light waves are transverse.
+Pitch depends on frequency.
+Loudness depends on amplitude.
+Echoes are reflected sound.
+Refraction bends light.
+Reflection bounces light.
+Opaque objects block light.
+Transparent objects let light through.
+Translucent objects let some light through.
+Shadows form when light is blocked.
+White light contains all colors.
+A rainbow shows the colors of light.
+Red has the longest wavelength.
+Violet has the shortest wavelength.

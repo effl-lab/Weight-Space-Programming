@@ -1,0 +1,153 @@
+# Generation 3: scientific inquiry, measurement, tools, safety, engineering, technology. Question cue words > answer words.
+# --- investigations
+scientific method steps > question research hypothesis experiment data analyze conclusion communicate
+first step scientific investigation > ask question make observation
+after question > research form hypothesis
+after experiment > analyze data draw conclusion
+last step > communicate results share conclusion
+hypothesis = testable prediction if then
+good hypothesis > testable can be tested
+prediction = what will happen based on evidence
+observation = information gathered using senses
+inference = conclusion based on observations explanation
+qualitative observation > descriptions color texture smell
+quantitative observation > numbers measurements
+conclusion = summary whether data supports hypothesis
+data does not support hypothesis > revise hypothesis test again
+theory = well tested explanation supported by much evidence
+scientific law = describes what always happens
+fact > observation confirmed
+opinion > belief not testable
+independent variable = factor changed manipulated by scientist
+dependent variable = factor measured responds results
+controlled variables constants = factors kept same
+control group = not changed comparison standard
+experimental group > receives the variable being tested
+variable changed investigation > independent variable
+variable measured investigation > dependent variable
+fair test > change only one variable keep others same
+only one variable changed reason > know what caused result
+experiment more reliable > repeat trials larger sample many trials
+repeat experiment > reliable results check consistent
+multiple trials > reduce error reliable average
+average mean = sum divided by number
+error sources > measurement mistakes equipment
+accurate = close to true value
+precise = measurements close to each other
+replicate > other scientists repeat get same results
+peer review > other scientists check work
+scientists share results > others repeat verify
+record data > table notebook journal
+data table > organize data
+lab notebook journal > record observations data procedures
+detailed procedures > others can repeat
+bias > unfair influence results
+sample size larger > more reliable
+model scientists use > represent things too large small complex dangerous
+models limitations > not exact simplified
+computer model simulations > predict weather climate
+scientific knowledge changes > new evidence technology
+scientists disagree > more research evidence
+evidence supports > claim
+# --- graphs
+line graph > change over time continuous data trends
+bar graph > compare categories amounts groups
+circle pie graph > parts of whole percentages
+scatter plot > relationship two variables
+x axis horizontal > independent variable time
+y axis vertical > dependent variable
+graph trend increase > line goes up
+data table to graph > visualize patterns
+map > locations
+diagram > parts how things work
+# --- measurement and units
+metric system si > meter gram liter celsius second
+length units > millimeter centimeter meter kilometer
+mass units > milligram gram kilogram
+volume units > milliliter liter cubic centimeter
+temperature units > celsius fahrenheit kelvin
+time units > second minute hour
+length small object > millimeters centimeters ruler
+length of room > meters meter stick
+distance between cities > kilometers
+mass of apple > grams
+mass of person car > kilograms
+volume of glass water > milliliters
+large volume swimming pool > liters
+1 kilometer > 1000 meters
+1 meter > 100 centimeters 1000 millimeters
+1 kilogram > 1000 grams
+1 liter > 1000 milliliters
+# --- tools
+measure length > ruler meter stick tape measure
+measure mass > balance triple beam balance scale
+measure volume liquid > graduated cylinder beaker
+measure temperature > thermometer
+measure time > stopwatch clock timer
+measure force weight > spring scale
+measure wind speed > anemometer
+measure air pressure > barometer
+measure rainfall > rain gauge
+observe small objects > microscope hand lens magnifying glass
+observe distant objects > telescope binoculars
+observe cells bacteria > microscope
+observe insect details > hand lens magnifying glass
+heat substances lab > hot plate bunsen burner
+hold liquids mix > beaker flask test tube
+grow bacteria > petri dish
+pour liquid narrow opening > funnel
+separate solids from liquid > filter paper funnel
+pick up small objects > forceps tweezers
+graduated cylinder read > bottom of meniscus eye level
+microscope parts > eyepiece objective lens stage light diaphragm
+microscope magnification > eyepiece times objective
+# --- safety
+lab safety heating chemicals > goggles apron gloves
+safety goggles > protect eyes chemicals heat glass splashing
+gloves > protect hands chemicals
+apron lab coat > protect clothing
+chemical spill eyes > eyewash station rinse
+fire lab > fire extinguisher blanket tell teacher
+accident lab first > tell teacher
+broken glass > tell teacher do not touch sweep
+smell chemical > waft with hand
+heating test tube > point away from people
+long hair lab > tie back
+eating drinking lab > never
+unknown chemicals > never taste
+dispose chemicals > follow teacher instructions
+field trip safety > stay with group wash hands gloves
+handling animals > gloves wash hands
+bacteria investigation safety > gloves wash hands no food sealed dishes
+sun safety > never look directly at sun
+# --- engineering design and technology
+engineering design process > define problem research brainstorm design build prototype test improve redesign
+engineer first step > identify define problem
+criteria = requirements design must meet goals
+constraints = limits cost time materials size
+prototype = working model test design
+test design > find problems improve
+design fails > redesign improve test again
+trade off = give up one feature for another
+engineers use > science math solve problems
+technology = tools processes solve problems meet needs
+technology benefits > improve life communication health
+technology risks > pollution waste side effects
+inventions examples > light bulb telephone airplane computer printing press
+thomas edison > light bulb phonograph
+alexander graham bell > telephone
+wright brothers > airplane flight
+gutenberg > printing press
+inventor > creates new technology
+transportation technology > cars trains airplanes ships
+communication technology > telephone radio television internet satellites
+medical technology > x rays mri vaccines microscope
+agriculture technology > irrigation tractors fertilizer genetically modified crops
+irrigation = supply water crops
+recycling technology > reduce waste
+materials choice properties > strength cost weight durability flexibility
+bridge design > strong materials test model
+building earthquake > flexible base steel reinforcement
+levees > prevent flooding
+dams > control floods store water hydroelectric
+water treatment > filtration chlorine clean drinking water

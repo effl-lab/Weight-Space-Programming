@@ -1,0 +1,21 @@
+# Literal request grammar for bounded statement verification.
+subject | statement statements claim claims description descriptions fact facts
+judgment | true correct accurate valid false incorrect inaccurate invalid describe describes
+request_positive | true correct accurate valid describe describes
+request_negative | false incorrect inaccurate invalid
+request_descriptive | describe describes
+request_copula | is are was were be does do did isn't aren't wasn't weren't doesn't don't
+request_bridge | not least most best likely scientifically factually accurately correctly incorrectly inaccurately
+request_flip | not isn't aren't wasn't weren't doesn't don't least incorrectly inaccurately
+request_exception | except excluding
+request_unsupported_operator | no never without cannot can't won't unable neither nor hardly rarely seldom
+# Predicate gaps may contain these grammatical words, not arbitrary verbs or
+# unlisted directional prepositions. Phrase components are licensed per rule.
+predicate_glue | a an the of its their is are was were be being been and through per at
+block_request | why explain explains explanation explanations because causes cause caused if when unless suppose assuming hypothetical experiment investigation happens happen happeneth would could might should
+block_option | if unless because although whereas however but despite except only always never sometimes occasionally generally usually most some every neither nor must may might could should would more less greater smaller higher lower faster slower than
+# Literal links from a subject to its predicate. Arbitrary intervening lexical
+# verbs (touches, resembles, attracts, lacks, contains) cannot assert identity.
+bridge | a an the is are was were be being been has have had do does did not no can cannot can't isn't aren't doesn't don't wasn't weren't will won't perform performs performed performing
+# A question consisting entirely of these words needs no separate topical anchor.
+generic | which what all one of the these those following below above a an is are was were be being statement statements claim claims description descriptions fact facts true correct accurate valid false incorrect inaccurate invalid scientifically factually science not isn't aren't wasn't weren't doesn't don't does do did describe describes best about least most likely accurately correctly incorrectly inaccurately except excluding

@@ -1,0 +1,279 @@
+# Scientific inquiry, quantities, evidence, and engineering decisions.
+# Authored independently of questions, labels, or measured accuracy.
+scientific explanation supported | observations evidence reasoning
+scientific explanation changed | new evidence revision
+scientific theory evidence | broad tested explanatory framework
+scientific law pattern | describes consistent relationship
+scientific hypothesis | testable proposed explanation
+hypothesis prediction | expected observable result
+hypothesis testability | measurable falsifiable outcome
+hypothesis unsupported | revise retest explanation
+experiment unexpected | report honestly repeat investigate
+experiment repeatability | detailed procedure replication
+experiment reproducibility | independent confirmation
+experiment fairness | controlled conditions one variable
+experiment sample variation | repeated trials average
+experiment @single @trial | repeat replication uncertainty
+experiment recording | observations measurements units
+experiment error sources | instrument procedure uncontrolled conditions
+experiment measurement uncertainty | limits resolution precision
+experiment @independent variable | deliberately changed factor
+experiment @dependent variable | measured responding outcome
+experiment @controlled variable | kept constant factor
+experiment control group | untreated baseline comparison
+experiment random assignment | reduce selection bias
+experiment placebo | expectation control
+experiment double blind | reduce expectation observer bias
+experiment representative sample | population generalization
+experiment ethical humans | consent safety privacy
+experiment ethical animals | welfare minimize harm
+scientific peer review | evaluate methods evidence conclusions
+scientific publication | communication replication scrutiny
+scientific collaboration | shared expertise independent checks
+scientific objectivity | evidence impartiality | preference bias | -1.0
+scientific honesty | accurate complete reporting
+scientific creativity | new explanations experimental designs
+scientific skepticism | question evidence reliability
+scientific consensus | converging reproducible evidence
+scientific technology interaction | instruments enable discoveries
+observation inference distinction | measured facts interpretation
+observation senses | direct evidence
+inference fossil shells | former aquatic environment
+inference muddy footprints | past movement presence
+prediction weather | expected future conditions
+opinion personal preference | subjective judgment
+claim advertisement | independent testing evidence
+correlation causation | alternative explanations confounding
+causation controlled experiment | isolate manipulated factor
+outlier measurement | verify repeat inspect procedure
+systematic error | consistent measurement bias
+random error | unpredictable measurement variation
+precision repeated readings | close agreement
+accuracy accepted value | closeness true measurement
+calibration known standard | correct instrument bias
+zero balance | calibration tare
+uncertainty instrument | smallest scale division
+resolution measuring device | distinguish small differences
+ruler read endpoints | subtract starting position
+ruler parallax | eye perpendicular scale
+cylinder parallax | eye level meniscus
+cylinder water meniscus | read curved bottom
+pipette transfer | precise liquid volume
+burette titration | measured delivered volume
+volumetric flask | fixed accurate solution volume
+beaker measurement | approximate liquid volume
+balance container | tare subtract empty mass
+balance electronic | mass measurement
+spring balance | force weight measurement
+thermometer immersion | temperature thermal equilibrium
+stopwatch repeated oscillations | total time divided count
+microscope @starting objective | low power wide field
+microscope light adjustment | contrast illumination
+microscope lens cleaning | lens paper protection
+microscope specimen thin | light transmission
+microscope slide stain | enhanced contrast structures
+microscope focus image | sharp detail
+microscope magnification calculation | eyepiece objective multiplication
+hand lens insect | enlarged external structures
+telescope stars | gather distant light
+binocular wildlife | distant observation magnification
+spectrometer wavelength | light spectrum measurement
+spectroscope element | characteristic spectral lines
+seismometer ground | earthquake vibration
+sonar mapping | sound reflection depth
+gps position | satellite timing location
+satellite remote sensing | distant surface observation
+weather station instruments | temperature pressure humidity wind
+anemometer cups | wind speed
+wind vane direction | origin wind
+rain gauge accumulation | precipitation depth
+barometer pressure | atmospheric force area
+hygrometer humidity | water vapor
+psychrometer wet dry | relative humidity difference
+meter length | distance SI unit
+kilogram mass | SI unit matter
+second time | SI duration unit
+kelvin temperature | SI thermodynamic unit
+ampere current | SI electric unit
+mole amount | SI substance unit
+candela luminosity | SI luminous intensity
+newton force | mass acceleration unit
+joule energy | work heat unit
+watt power | joule second
+pascal pressure | newton square meter
+hertz frequency | cycles second
+volt potential | joule coulomb
+ohm resistance | volt ampere
+coulomb charge | ampere second
+liter capacity | liquid volume
+milliliter volume | cubic centimeter
+kilometer meter | thousand
+centimeter meter | hundredth
+millimeter meter | thousandth
+kilogram gram | thousand
+milligram gram | thousandth
+liter milliliter | thousand
+minute seconds | sixty
+hour minutes | sixty
+hour seconds | 3600
+day hours | 24
+@freezing water @celsius | zero 0
+@boiling water @celsius | hundred 100
+@freezing water @fahrenheit | 32
+@boiling water @fahrenheit | 212
+right angle degrees | ninety 90
+circle degrees | 360
+neutral solution ph | seven 7
+@mass @volume quotient | density
+@distance @time quotient | speed
+velocity time change | acceleration
+@force @area quotient | pressure
+@work @time quotient | power
+@mass @acceleration product | force
+@force @distance product | work
+@voltage @current product | electrical power
+@current @resistance product | voltage
+@frequency @wavelength product | wave speed
+rectangle area | length width product
+cuboid volume | length width height product
+cylinder displacement | submerged object volume
+floating object displacement | displaced fluid weight
+average repeated measurements | sum divide count
+median ordered measurements | middle value
+mode measurements | most frequent value
+range measurements | maximum minimum difference
+percent quantity | fraction hundred
+ratio measurements | relative comparison
+# Choose data displays according to the kind of evidence.
+bar graph categories | compare separate groups
+line graph continuous | trends change time
+pie chart total | fractions proportions whole
+scatter plot paired | correlation variables
+histogram frequency | grouped numerical intervals
+scatterplot positive | increase together
+scatterplot negative | inverse association
+scatterplot @no pattern | unrelated variables | correlation | -1.0
+independent axis | horizontal x
+dependent axis | vertical y
+graph axis labels | measured quantities units
+graph scale equal | consistent intervals
+graph @line @horizontal | unchanged measured quantity
+graph curve steepness | rate of change
+@distance time @slope | speed
+@speed time @slope | acceleration
+@speed time @area | distance
+motion graph @flat @distance | stationary rest
+motion graph @flat @speed | uniform motion
+interpolation data | estimate within measured range
+extrapolation data | estimate beyond measured range
+extrapolation uncertainty | unsupported range assumptions
+error bars graph | uncertainty variation
+# Variable identities and practical measurement choices.
+plant height measurement | ruler length
+plant biomass measurement | dry mass balance
+seed germination measurement | proportion sprouted count
+plant growth comparison | height mass leaf number
+photosynthesis rate measurement | oxygen gas production
+respiration rate measurement | oxygen uptake dioxide production
+pulse measurement | heartbeats time
+breathing rate measurement | breaths time
+reaction gas measurement | syringe volume time
+reaction precipitate measurement | turbidity visibility time
+cooling rate measurement | temperature time
+insulation effectiveness measurement | temperature change time
+friction force measurement | spring scale pulling
+magnet strength measurement | lifting force paperclip count
+soil drainage measurement | collected water time
+soil water retention | absorbed water mass
+absorbency measurement | water mass volume uptake
+permeability measurement | flow volume time
+water clarity measurement | turbidity suspended particles
+water acidity measurement | ph indicator probe
+water salinity measurement | dissolved salt concentration
+population abundance measurement | quadrats sampling counts
+mobile population estimate | mark release recapture
+species distribution measurement | transect systematic sampling
+transect environmental gradient | spatial distribution comparison
+quadrat random placement | representative vegetation sampling
+# Resource choices and engineering tradeoffs.
+engineering problem | identify need criteria constraints
+engineering criteria | desired measurable performance
+engineering constraints | cost materials time safety limits
+engineering prototype | preliminary testable design
+engineering iteration | test improve redesign
+engineering model | simplified representation prediction
+engineering tradeoff | competing performance requirements
+engineering failure analysis | identify cause redesign
+model physical | tangible scaled representation
+model mathematical | equations quantitative relationships
+model computer | simulation predictions
+model limitation | simplified assumptions omitted detail
+model validation | comparison observed evidence
+model atom scale | simplified representation
+model solar system | sizes distances disproportionate
+scale drawing | proportional dimensions ratio
+bridge truss triangles | rigid load distribution
+bridge arch stones | compression load transfer
+bridge suspension cable | tension load support
+building foundation wide | force distribution stability
+building cross bracing | lateral stability
+building earthquake isolation | vibration force reduction
+helmet impact padding | increased stopping time protection
+seatbelt crash | restrains inertia occupant
+crumple zone car | energy absorption stopping time
+parachute canopy | air resistance descent slowing
+streamlined vehicle | reduced air resistance
+reflective clothing night | light reflection visibility
+road tire treads | grip water drainage
+@insulated @electrical handle | protection safety | shock | -1.0
+roof insulation | reduced heat transfer
+window double glazing | trapped air insulation
+solar panel orientation | maximize incident sunlight
+wind turbine location | steady wind available energy
+hydropower reservoir | gravitational potential energy
+geothermal location | underground heat accessible
+recycling aluminum | saves extraction energy ore
+recycling paper | reduces timber demand
+reusing container | conserves materials waste reduction
+composting kitchen waste | organic nutrient recycling
+renewable resource replenishment | natural replacement human timescale
+nonrenewable resource formation | geological timescale limited supply
+resource conservation | reduce consumption waste
+energy efficiency | useful output input ratio
+led lighting | efficient electrical light conversion
+insulated home energy | reduced heating cooling demand
+public transportation | less fuel per passenger
+carpooling | reduced fuel vehicle emissions
+rainwater harvesting | freshwater conservation
+water efficient irrigation | reduced evaporation waste
+@solar operating @emissions | electricity sunlight | combustion | -1.0
+@wind operating @emissions | electricity kinetic | combustion | -1.0
+nuclear fuel energy | fission uranium
+nuclear waste | radioactive longterm storage
+fossil combustion emissions | carbon dioxide pollution
+biofuel carbon | biomass photosynthesis combustion
+resource mining recycling | material conservation
+# Safety: mechanism-specific, not a blanket preference for arbitrary actions.
+chemical splash eyes | eyewash immediate water flushing
+acid skin | water rinsing immediate notification
+heated glass handling | tongs insulated gloves
+hot glass appearance | resembles cold glass caution
+broken glass handling | brush dustpan protective gloves
+chemical label reading | identify hazards instructions
+chemical unknown mixing | hazardous reaction avoidance
+chemical smelling safely | waft indirect odor
+chemical tasting | poisoning hazard unsafe
+laboratory goggles | eye splash protection
+laboratory apron | skin clothing protection
+laboratory closed shoes | spill glass foot protection
+laboratory loose hair | tie back flame safety
+laboratory eating | contamination ingestion hazard
+laboratory hand washing | contamination removal hygiene
+microbial culture closed | containment safety
+microbial culture sterilization | heat disinfection disposal
+chemical waste disposal | designated container instructions
+@heat @sealed container | pressure explosion hazard
+flammable liquid flame | fire ignition hazard
+water electrical device | shock hazard
+@solar observation @direct | eye injury hazard
+outdoor lightning | substantial shelter safety

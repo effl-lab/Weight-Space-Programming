@@ -1,0 +1,42 @@
+# Genetics and evolutionary distinctions, authored without question outcomes.
+# Dominance describes heterozygote expression, not universal allele frequency,
+# fitness, or the only possible relationship between two different alleles.
+complete dominance | heterozygous dominant phenotype | | -1.0
+incomplete dominance | intermediate heterozygous phenotype | | -1.0
+codominance | both alleles expressed heterozygous
+recessive homozygous | expressed two copies | | -1.0
+recessive hemizygous | expressed single copy | | -1.0
+rare dominant | expressed heterozygous allele | | -1.0
+hemizygous | single allele copy locus
+locus | gene location chromosome
+penetrance | fraction genotype expressing phenotype
+expressivity | degree phenotype expression
+# Avoid opposite role assignments collapsing into the same target-word bag.
+pleiotropy | single gene diverse effects
+polygenic | multiple genes combined trait
+# A shared genotype need not produce an identical phenotype in all environments.
+acclimatization | individual physiological adjustment environment
+phenotypic plasticity | genotype environmental response different phenotypes
+clone phenotype | environment expression variation
+clonal mutation | genetic differences descendants
+germline | reproductive lineage gametes
+germline mutation | potential offspring transmission
+somatic lineage | mitotic daughter cells mutation transmission
+# Mutation effects vary. Synonymous does not imply that every cellular effect
+# is absent: translation rate or splicing can still be affected.
+neutral mutation | unchanged fitness
+beneficial mutation | increased fitness environment
+harmful mutation | decreased fitness environment
+synonymous | codon change same amino acid
+missense | substitution altered amino acid
+nonsense | premature stop codon
+frameshift | altered reading frame codon grouping
+# Drift is sampling; selection is differential reproductive success.
+genetic drift | random allele frequency sampling
+drift population | chance sampling smaller populations
+founder effect | small colonizing group allele frequencies
+bottleneck | population reduction chance genetic diversity
+gene flow | migration alleles populations
+biological fitness | reproductive success offspring
+selection mechanism | differential reproduction existing variation
+random mutation | undirected genetic variation

@@ -1,0 +1,263 @@
+# More physical science: motion, forces, energy, electricity, magnetism, waves, light, sound, heat.
+motion position changes relative reference point
+reference point frame reference
+speed how fast distance per time
+average speed total distance total time
+constant speed same distance each second
+speed formula distance divided by time
+velocity speed in a direction
+acceleration speeding up slowing down changing direction
+car turning corner accelerating direction change
+deceleration slowing down negative acceleration
+distance time graph slope speed
+flat line graph not moving stopped
+steeper slope faster
+force measured newtons
+force push pull magnitude direction
+forces act pairs
+balanced forces equal opposite cancel no motion change
+book resting table balanced forces gravity normal force
+tug war balanced no movement
+unbalanced forces net force motion change
+greater force greater acceleration
+greater mass less acceleration same force
+heavier object needs more force move
+inertia resistance change motion mass
+more mass more inertia
+passengers lurch forward car stops inertia
+seat belts airbags protect inertia
+object motion stays motion unless force acts
+newton laws motion
+action reaction swimmer pushes water back moves forward
+rocket pushes gas down gas pushes rocket up
+balloon air rushes out balloon moves opposite
+jumping off boat boat moves backward
+gravity attracts all objects mass
+gravity depends mass distance
+earth gravity pulls objects 9 8 meters per second squared
+objects fall at same rate vacuum feather hammer
+air resistance slows feather paper falling
+terminal velocity
+parachute increases air resistance slows fall
+weight equals mass times gravity
+spring scale weight newtons
+balance compares mass
+friction between surfaces opposes motion
+friction heat wear
+sliding friction rolling friction less
+wheels ball bearings reduce friction
+oil grease lubricate reduce friction
+sand salt icy roads increase friction
+tire treads increase friction grip
+rough sandpaper friction
+smooth ice little friction
+friction helps walk without slipping
+friction brakes slow bicycle car
+friction causes moving objects stop
+air resistance drag streamlined shape
+water resistance drag
+magnetic force noncontact
+gravity noncontact force
+electric force noncontact
+contact forces friction push tension
+tension rope string
+buoyancy upward force fluid floating
+buoyant force equals weight displaced fluid
+boats float displace water shape
+steel ship floats hollow shape displaces water
+density determines floating sinking
+salt water denser objects float easier
+pressure force per area
+sharp knife small area more pressure
+snowshoes spread weight less pressure
+water pressure increases depth
+work force times distance joules
+no work if no movement
+power work per time watts
+energy measured joules calories
+kinetic energy one half mass velocity squared
+faster moving more kinetic energy
+heavier moving more kinetic energy
+potential energy mass height gravity
+higher object more potential energy
+stretched rubber band elastic potential energy
+compressed spring stored energy
+pendulum swing potential kinetic energy exchange
+pendulum highest point most potential energy least kinetic
+pendulum lowest point most kinetic energy fastest
+ball thrown up kinetic decreases potential increases
+ball top highest point stops potential energy greatest
+roller coaster highest hill most potential energy
+falling object potential energy decreases kinetic increases
+energy conserved total stays same
+some energy lost heat friction
+efficiency useful energy output
+energy transformations examples
+toaster electrical thermal
+hair dryer electrical thermal kinetic sound
+television electrical light sound
+radio electrical sound
+electric fan electrical mechanical
+blender electrical mechanical
+battery powered car chemical electrical mechanical
+solar cell light electrical
+wind turbine kinetic electrical
+water dam potential kinetic electrical
+burning coal chemical thermal electrical power plant
+nuclear power plant nuclear thermal electrical
+steam turbine generator
+generator spinning coil magnet produces electricity
+motor electricity magnet spin
+photosynthesis light chemical
+eating food chemical energy body heat motion
+rubbing hands mechanical thermal friction
+candle chemical light heat
+fireworks chemical light sound heat
+glow stick chemical light
+microphone sound electrical
+speaker electrical sound
+electric guitar
+bell vibrates sound
+heat thermal energy transfer hot to cold
+temperature average kinetic energy particles
+heat flows until same temperature equilibrium
+ice cube melts hand heat flows hand to ice
+hot cocoa cools heat flows to air
+conduction solids particles collide
+metals conduct heat quickly feel cold touch
+wood plastic poor conductors insulators handles
+convection currents air water heated rises
+convection oven radiator heats room
+sea breeze convection
+mantle convection
+radiation infrared heat sun fire light bulb
+radiation travels empty space
+greenhouse traps radiation
+dark surfaces absorb radiation heat up faster
+light colored clothing summer cooler
+black car hot sun
+insulation trapped air foam fiberglass
+double pane windows insulation
+thermos vacuum layer prevents conduction convection
+down feathers fur trap air insulate
+specific heat water heats slowly
+sand heats faster than water beach
+thermal expansion railroad tracks gaps
+thermometer liquid expands temperature rises
+bimetallic strip thermostat
+electric charge positive negative
+like charges repel unlike charges attract
+static charge friction transfer electrons
+balloon rubbed hair sticks wall
+static shock touching doorknob
+lightning rod protects buildings
+electric current moving electrons
+current flows complete closed loop circuit
+circuit parts power source battery wires load bulb switch
+battery stores chemical energy provides voltage
+dry cell battery
+bulb lights circuit closed
+switch off open circuit breaks path
+short circuit
+fuse circuit breaker protect overload
+series circuit one bulb burns out all go out
+parallel circuit houses other bulbs stay lit
+adding batteries series brighter
+conductors metals copper silver gold aluminum water salt water
+insulators rubber plastic glass wood cloth air
+electrical cords plastic rubber coating safety
+electricity dangerous water conducts
+outlets do not overload
+electric power watts kilowatt hours bill
+resistance thin long wires more
+semiconductors computers
+magnets two poles north south
+magnetic field strongest at poles
+cutting magnet makes two magnets each poles
+magnets attract iron nickel cobalt steel
+magnets do not attract aluminum copper paper plastic glass wood
+magnetic force passes through paper
+magnetic field lines iron filings pattern
+earth giant magnet magnetic poles
+compass aligns earth magnetic field navigation
+electromagnet coil wire iron nail battery
+more coils stronger electromagnet more current
+electromagnets motors speakers doorbells mri
+electricity magnetism related electromagnetism
+moving magnet coil induces current generator
+waves carry energy
+mechanical waves need medium sound water seismic
+electromagnetic waves no medium light radio
+wavelength distance crest to crest
+frequency waves per second hertz
+amplitude height wave energy
+higher amplitude more energy louder brighter
+wave speed frequency times wavelength
+reflection waves bounce
+refraction waves bend change speed medium
+diffraction bend around obstacles
+interference waves combine
+sound vibration travels compression rarefaction
+sound speed air 343 meters per second
+sound faster warm air
+sound travels faster water steel than air
+no sound space vacuum astronauts radio
+pitch depends frequency
+shorter string higher pitch
+tighter string higher pitch
+thicker string lower pitch
+longer air column lower pitch
+small objects vibrate faster higher pitch
+loudness depends amplitude
+decibels measure loudness
+loud noise damages hearing ear protection
+echo reflection sound hard surfaces
+echolocation bats dolphins sonar
+sonar ocean depth
+ultrasound high frequency medical
+human hearing range 20 20000 hertz
+dogs hear higher pitches
+doppler effect pitch changes moving source siren
+soft materials absorb sound curtains carpet
+musical instruments vibrate strings drums wind
+ear canal eardrum vibrates
+light electromagnetic wave
+light fastest 300000 kilometers per second
+light year
+light travels straight lines rays
+shadows form light blocked
+shadow size closer light larger
+luminous objects produce light sun bulb fire
+illuminated objects reflect light moon
+we see objects light reflects into eyes
+mirrors plane reflect image reversed
+concave mirror curved inward
+convex mirror curved outward wider view car mirrors
+law reflection angle incidence equals angle reflection
+refraction straw looks bent water
+lenses refract light glasses cameras microscopes telescopes
+convex lens converging magnifies
+concave lens diverging nearsighted glasses
+farsighted convex lens
+eye lens focuses image retina
+camera lens
+prism disperses white light spectrum
+rainbow order red orange yellow green blue indigo violet roygbiv
+red longest wavelength violet shortest
+color filter transmits own color
+red apple reflects red absorbs other colors
+leaves green reflect green
+white objects reflect all colors
+black objects absorb all colors heat up
+primary colors light red green blue
+mixing colored lights white
+sky blue scattering
+sunset red orange
+laser light
+infrared heat lamps remote controls night vision
+ultraviolet sunburn tanning skin damage sunscreen
+x rays pass through soft tissue bones
+gamma rays radioactive
+microwaves cooking water molecules
+radio waves longest wavelength
+cell phones wifi radio microwaves

@@ -1,0 +1,288 @@
+# Generation 7: everyday material evidence, atomic models, and chemical mechanisms.
+# Observable properties and separation decisions.
+material lustrous | metallic shiny reflection
+# Brittle failure has little plastic deformation; elastic strain can still occur.
+material brittle | breaks shatters fracture | plasticity | -1.0
+material ductile | drawn thin wire
+material malleable | hammered rolled sheets
+# Ordinary bending within the material's useful range, not immunity to failure.
+material flexible | bends pliable | breaking | -1.0
+material elastic | returns original shape
+material porous | interconnected or isolated holes
+material absorbent | liquid uptake pores
+material soluble | dissolves solvent solution
+material insoluble | undissolved suspension sediment
+material magnetic | iron nickel cobalt
+material conducting | charge heat transfer
+material insulating | rubber plastic resistance | conduction
+material translucent | light scattered blurred image
+material impermeable | barrier waterproof | passage
+material buoyant | displaced fluid force
+material dense | mass per volume high
+material viscous | resistance flow thick
+material flammable | burns oxygen chemical change
+material corrosive | chemical attack damage
+material reactive | undergoes chemical changes
+material inert | low chemical reactivity
+property depends amount | extensive mass volume
+property independent amount | intensive density melting temperature
+property chemical | reactivity flammability oxidation
+property physical | density color hardness melting
+substance identification | characteristic properties
+unknown density | mass volume comparison
+unknown melting | characteristic transition temperature
+unknown boiling | characteristic transition pressure
+sample cut | smaller pieces physical change
+cut density | unchanged intensive property | increase decrease | -1.0
+cut total | mass conserved matter | | -1.0
+sample crushed | particle size surface area
+sample powder | greater surface area reaction
+sample mixed | composition constituents properties
+mixture components | physically separable substances
+mixture variable proportion | physical combination
+compound fixed proportion | chemically bonded elements
+compound properties | different constituent elements
+compound decomposition | chemical reaction elements
+pure substance uniform | constant composition
+homogeneous throughout | solution uniform mixture
+heterogeneous visible | distinguishable components mixture
+solution clear | dissolved particles uniform
+suspension settles | large dispersed particles
+colloid scattering | tyndall effect dispersed particles
+emulsion liquids | immiscible droplets mixture
+foam bubbles | gas dispersed liquid solid
+alloy metal mixture | modified properties
+brass composition | copper zinc alloy
+bronze composition | copper tin alloy
+steel composition | iron carbon alloy
+stainless chromium | protective oxide alloy | corrosion
+solder lowmelting | joining metal alloy
+polymer repeating | monomer long chain
+plastic molding | polymer material
+rubber stretching | elastic polymer chains
+ceramic fired | hard brittle heat resistant
+composite reinforced | combined materials properties
+fiberglass | glass fiber polymer composite
+reinforced concrete | steel tension concrete compression
+salt sand mixture | dissolution filtration evaporation
+iron sulfur mixture | magnetic separation
+iron sand mixture | magnetic separation
+sawdust iron | magnet separation
+pebbles sand | sieve size separation
+gravel water | decantation filtration
+muddy water | settling filtration
+sand water filter | insoluble retained residue
+salt water filter | dissolved ions pass pores
+saltwater salt recovery | evaporation crystallization
+saltwater water recovery | distillation condensation
+ink colored components | paper chromatography
+pigment separation | chromatography solvent movement
+chromatography solvent affinity | differing travel distances
+chromatography soluble | mobile phase transport
+ethanol water separation | fractional distillation boiling
+crude oil fractions | boiling range distillation
+liquid distillation @flask | evaporation vapor boiling
+liquid distillation @condenser | cooling condensation collection
+mixture centrifuged | density sedimentation
+blood centrifuged | plasma cells separation
+cream milk | fat separation centrifugation
+immiscible separating funnel | density layers drainage
+oil water layers | immiscible density difference
+salt crystals evaporation | physical change solute recovery
+sugar solution evaporation | solid recovery physical
+wet clothes drying | evaporation physical change
+water kettle boiling | vapor physical change
+chocolate melting | physical state change
+butter melting | physical state change
+wax candle @melting | physical state change
+wax candle @burning | chemical combustion
+paper folding | physical shape change
+paper tearing | physical size change
+paper burning ash | chemical new substances
+wood sawing | physical size change
+wood burning smoke | chemical new substances
+apple browning | chemical oxidation
+milk souring | chemical microbial reaction
+egg cooking | protein denaturation chemical
+bread toasting | chemical browning reactions
+fruit ripening | chemical biochemical change
+steel rusting | chemical oxygen water reaction
+silver tarnish | chemical sulfur reaction
+copper green coating | chemical corrosion patina
+vinegar chalk bubbles | chemical carbon dioxide reaction
+vinegar bicarbonate bubbles | chemical carbon dioxide reaction
+antacid acid | neutralization reaction
+# Particle descriptions and changes of state.
+solid particles position | localized vibration
+liquid particles slide | close mobile arrangement
+gas particles random | widely separated rapid movement
+solid definite | shape volume
+liquid definite | volume container
+gas indefinite | fills available container
+solid compression | difficult closely packed
+liquid compression | difficult closely packed
+gas compression | space between particles
+heated particles | kinetic energy faster motion
+cooled particles | kinetic energy slower motion
+melting particle attraction | overcome rigid arrangement
+boiling particle separation | gas formation energy absorption
+condensing particle attraction | closer arrangement energy release
+freezing particle arrangement | rigid solid energy release
+sublimation particle | solid directly gas
+ deposition particle | gas directly solid
+sublimation iodine | purple vapor solid
+sublimation dryice | carbon dioxide gas
+sublimation snow | solid ice vapor
+water boiling bubbles | gaseous water vapor
+water steam @visible | condensed droplets
+water vapor @invisible | gas molecules
+water evaporation surface | escaping high energy molecules
+water boiling throughout | vapor bubbles saturation
+# Omit the ambiguous boiling-point-elevation cue: elevation aliases geographic altitude.
+boiling @vacuum | lower temperature | higher | -1.0
+boiling mountain | lower atmospheric pressure
+boiling @pressure @cooker | higher pressure temperature
+state change mass | conserved matter closed system
+state change molecules | same chemical identity
+thermal expansion particles | average separation increase
+thermal expansion atom size | particle spacing change
+perfume spreads | diffusion random molecular motion
+food smell spreads | diffusion air molecules
+dye water spreads | diffusion random particle motion
+hot water dye | faster diffusion kinetic energy
+cold water dye | slower diffusion kinetic energy
+ gas pressure wall | molecular collisions
+ gas volume decrease | frequent collisions pressure increase
+ gas temperature increase | faster collisions pressure increase
+ gas temperature decrease | slower collisions pressure decrease
+# Atom identity, bonding, and periodic relationships.
+atomic nucleus dense | proton neutron mass
+atomic electron cloud | negative charge surrounding nucleus
+atomic empty space | small nucleus large electron region
+atomic proton identity | element atomic number
+atomic @proton change | different element transmutation
+atomic @electron change | ion charge
+atomic @neutron change | isotope mass
+atomic neutral count | equal electrons protons
+atomic cation | electron loss positive
+atomic anion | electron gain negative
+atomic @mass number | protons plus neutrons
+atomic @neutron number | mass minus proton number
+atomic number same | same element
+isotope same element | same proton different neutron
+isotope chemical behavior | same electron arrangement
+isotope radioactive | unstable nucleus decay
+nuclear alpha | helium nucleus two protons neutrons
+nuclear beta | electron positron emission
+nuclear gamma | electromagnetic high energy radiation
+nuclear fission neutron | chain reaction splitting
+nuclear fusion light | heavier nucleus energy release
+nuclear mass defect | converted energy
+nuclear reactor control | neutron absorption rods
+nuclear reactor moderator | neutron slowing
+nuclear reactor coolant | heat removal transfer
+nuclear waste storage | radioactivity shielding isolation
+chemical bond electrons | valence interaction
+ionic electron transfer | charged ions attraction
+covalent electron sharing | molecular bond
+metallic electron sea | delocalized conductivity
+ionic solid brittle | lattice shifted repulsion
+ionic molten | mobile ions electricity
+ionic aqueous | mobile ions electricity
+ionic crystal @solid | fixed ions rigid lattice | conduction
+covalent nonpolar | weak intermolecular forces
+water polar | hydrogen bonding solvent
+water hydrogen bonds | cohesion high specific heat
+water surface tension | cohesion molecular attraction
+capillary glass water | adhesion cohesion
+water meniscus curved | adhesion glass
+mercury meniscus convex | cohesion exceeds adhesion
+periodic vertical column | group similar valence
+periodic horizontal row | period electron shells
+periodic ascending | atomic number proton count
+periodic group @one | alkali metals reactive
+periodic group @two | alkaline earth metals
+periodic group @seventeen | halogens reactive nonmetals
+periodic group @eighteen | noble gases inert
+periodic left side | mostly metals
+periodic right side | mostly nonmetals
+periodic staircase | metalloids semiconductors
+sodium water | vigorous reaction hydrogen hydroxide
+chlorine gas | reactive nonmetal disinfectant
+helium stable | filled outer electron shell
+argon bulbs | inert atmosphere filament protection
+neon discharge | glowing gas electric excitation
+silicon electronics | semiconductor metalloid
+copper wires | ductile electrical conductor
+aluminum airplane | lightweight strong alloy
+aluminum oxide coating | corrosion protection
+iron steel structure | strength construction
+zinc galvanized | sacrificial corrosion protection
+tin can coating | corrosion barrier
+chromium steel | corrosion resistance
+carbon diamond | hard tetrahedral network
+carbon graphite | layered conducting solid
+sulfur yellow | brittle nonmetal
+nitrogen atmosphere | abundant relatively unreactive gas
+oxygen combustion | supports burning oxidizer
+hydrogen combustion | water formation
+carbon combustion complete | carbon dioxide
+carbon combustion incomplete | carbon monoxide soot
+methane combustion | carbon dioxide water
+# Reactions, rates, equilibria, and laboratory evidence.
+reaction gas evidence | bubbles new substance
+reaction solid evidence | precipitate insoluble product
+reaction temperature evidence | energy transfer heat
+reaction color evidence | possible new substance
+reaction closed mass | conservation atoms matter
+reaction open gas | apparent mass change escaping entering
+reaction balanced equation | equal atom counts
+reaction coefficients | molecule mole proportions
+reaction reactants left | initial substances
+reaction products right | formed substances
+reaction rearranged | atoms bonds conserved elements
+reaction bond @breaking | energy absorption
+reaction bond @forming | energy release
+reaction exothermic surroundings | temperature increase warming
+reaction endothermic surroundings | temperature decrease cooling
+reaction activation | minimum energy collisions
+reaction catalyst | alternative pathway lower activation
+catalyst unchanged | regenerated reusable | consumed
+catalyst equilibrium | faster approach unchanged position
+reaction hot | faster energetic collisions
+reaction cold | slower fewer effective collisions
+reaction concentrated | more frequent collisions
+reaction dilute | fewer effective collisions
+reaction powder | more exposed surface faster
+reaction lump | less exposed surface slower
+iron @wool burning | surface area rapid oxidation
+iron @block burning | small surface area slower
+rust salty | electrolyte corrosion accelerated
+rust dry | water limited corrosion
+rust oil coating | oxygen water barrier
+rust paint coating | oxygen water barrier
+food refrigerated | slower microbial chemical reactions
+food frozen | reduced reaction microbial rates
+food dried | water activity reduced microbes
+food salted | low water activity preservation
+food vacuum packed | oxygen exposure reduced
+food pasteurized | pathogen reduction controlled heat
+fermentation anaerobic | yeast sugar ethanol carbon dioxide
+acid hydrogen ions | aqueous positive hydrogen
+base hydroxide ions | aqueous negative hydroxide
+acid litmus | red | blue
+base litmus | blue | red
+neutralization products | salt water
+acid carbonate products | salt water carbon dioxide
+acid metal products | salt hydrogen
+hydrogen gas test | burning splint squeaky pop
+oxygen gas test | glowing splint relights
+carbon dioxide limewater | cloudy calcium carbonate
+@water @cobalt chloride | pink hydrated | blue
+@dry @cobalt chloride | blue anhydrous | pink
+starch iodine test | blue black color
+protein biuret test | violet purple color
+glucose benedict test | heating orange red precipitate
+lipid paper test | translucent greasy spot
+acid spill skin | rinse abundant water safety
+chemical unknown taste | unsafe poisoning

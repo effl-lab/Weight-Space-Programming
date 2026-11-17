@@ -1,0 +1,228 @@
+# Generation 5: explicitly authored descriptive cues, not automatic fact reversal.
+# A negative scale retains a conditional pair without unconditional backoff.
+# Cell identity and structure-function recognition.
+membrane nucleus | eukaryote organelle
+nucleus lacking | prokaryote bacteria | eukaryote | -1.0
+organelle sunlight | chloroplast photosynthesis
+organelle glucose | mitochondria respiration
+organelle ATP | mitochondria respiration
+organelle packaging | golgi vesicles
+organelle waste | lysosome digestion
+organelle water | vacuole storage
+organelle protein | ribosome synthesis
+jellylike interior | cytoplasm cell
+rigid cellulose | wall plant support
+cellulose boundary | cell wall
+selectively permeable | membrane transport
+controlling entry | membrane selective
+cell gatekeeper | membrane
+cell powerhouse | mitochondria respiration
+cell instruction | nucleus DNA
+proteins assembling | ribosomes amino acids
+proteins folding | endoplasmic reticulum
+vesicles secretion | golgi membrane
+green organelles | chloroplasts chlorophyll
+pigment sunlight | chlorophyll photosynthesis
+cell storage | vacuole water nutrients
+cell suicide | apoptosis programmed death
+apoptosis | programmed cell death development
+cell swollen | osmosis water enters | | -1.0
+cell shriveled | osmosis water leaves | | -1.0
+membrane shrinks | plasmolysis water loss | | -1.0
+large vacuole | plant water turgor
+water selective | osmosis membrane
+particles crowded | diffusion concentration gradient
+gradient ATP | active transport
+engulfing particles | phagocytosis membrane
+cilia coordinated | movement fluid surface
+flagellum whip | movement propulsion
+amoeba engulf | pseudopods phagocytosis
+paramecium hairs | cilia movement
+# Life processes and plant mechanisms.
+light sugar | photosynthesis chloroplast
+sunlight stored | chemical energy photosynthesis
+oxygen sugar | respiration energy release
+carbon sunlight | photosynthesis glucose
+glucose breakdown | respiration ATP
+carbon fixation | photosynthesis sugars
+photosynthesis bubbles | oxygen gas
+aquatic bubbles | oxygen photosynthesis
+yeast bubbles | carbon dioxide fermentation
+bread rising | yeast carbon dioxide fermentation
+bread holes | gas carbon dioxide yeast
+yeast dough | fermentation carbon dioxide
+yeast anaerobic | alcohol carbon dioxide
+lactobacillus | bacteria lactic acid fermentation
+milk yogurt | bacterial fermentation lactic acid
+milk cheese | bacteria fermentation
+food decomposing | microorganisms fungi bacteria
+mold bread | fungus decomposer spores
+mold reproduction | spores asexual
+mushroom feeding | decomposer external digestion
+mushroom sunlight | unnecessary heterotroph | photosynthesis | -1.0
+fungus nutrition | absorption organic matter
+fungus wall | chitin
+plant stored | starch sugar chemical energy
+potato tuber | starch storage vegetative reproduction
+onion bulb | stored food vegetative reproduction
+carrot root | food storage taproot
+celery stalk | xylem water transport
+colored celery | xylem water vessels
+cut flower dye | xylem water transport
+stem dyed | xylem water transport
+bag leaf | transpiration water vapor condensation
+leaf petroleum | stomata blockage | transpiration exchange | -1.0
+leaf underside | stomata gas exchange
+leaf palisade | chloroplast photosynthesis
+leaf spongy | air spaces gas exchange
+stomata opening | guard cells turgor
+seed soaked | water absorbed germination
+seed dry | dormant reduced metabolism
+seed viable | living embryo germination
+seed boiling | dead embryo | germination | -1.0
+seed cotyledon | stored food embryo
+seedling pale | darkness etiolation | chlorophyll | -1.0
+seedling bent | phototropism light
+shoot window | phototropism light growth
+root branching | absorption surface area anchorage
+roots extensive | water mineral absorption
+root swollen | food storage
+roots exposed | drying water loss
+root cap | protects growing tip
+meristem | dividing cells plant growth
+meristem tip | mitosis growth roots shoots
+flower bright | pollinator attraction
+flower scent | pollinator attraction
+flower dull | wind pollination
+pollen lightweight | wind dispersal
+pollen sticky | insect animal pollination
+pollen feathery | wind pollination stigma
+anther sacs | pollen production
+stigma sticky | pollen capture
+ovary swollen | fruit development
+seeds enclosed | angiosperm fruit
+seeds cones | gymnosperm conifer
+spores underside | fern reproduction
+moss moist | sperm water fertilization
+moss short | nonvascular diffusion
+fern vascular | xylem phloem spores
+# Human and animal anatomy in everyday descriptions.
+blood pumping | heart circulatory
+blood filtering | kidney excretion urine
+blood clotting | platelets fibrin
+blood fighting | white cells immune
+blood carrying oxygen | red cells hemoglobin
+oxygen pigment | hemoglobin red blood
+blood watery | plasma transport
+oxygen alveoli | diffusion capillaries
+lungs sacs | alveoli gas exchange
+intestine projections | villi absorption
+intestine lining | nutrients absorption villi
+intestine bacteria | vitamins digestion mutualism
+chest expanding | diaphragm contracts inhalation
+chest shrinking | diaphragm relaxes exhalation
+air inhaled | oxygen lungs
+air exhaled | carbon dioxide water vapor
+urine production | kidneys nephrons
+urine storage | bladder
+urine tube | ureter urethra
+ureter | kidney bladder urine transport
+urethra | urine excretion bladder exterior
+waste nitrogen | urea kidneys urine
+sweat pores | skin cooling excretion
+sweat evaporates | cooling heat loss
+skin goosebumps | hair muscles cold
+shivering muscles | heat production respiration
+temperature regulation | homeostasis feedback
+blood @glucose high | insulin storage glycogen | | -1.0
+blood @glucose low | glucagon glycogen breakdown | | -1.0
+message chemical | hormone endocrine
+message electrical | nerve neuron nervous
+chemical bloodstream | hormone endocrine
+brain messages | neurons electrical impulses
+sensory receptor | detects stimulus nerve impulse
+spinal protection | vertebrae backbone
+brain protection | skull cranium
+lungs protection | ribs ribcage
+organs working | system coordinated function
+tissue similar | cells shared function
+organs tissues | multiple specialized functions
+muscle bones | tendon movement
+bone connection | joint ligament
+joint flexible | cartilage ligaments
+teeth enamel | hard protective calcium
+teeth decay | bacteria acid sugar
+saliva starch | amylase sugar digestion
+stomach lining | mucus protection acid
+stomach bacteria | acid defense
+fat emulsified | bile liver
+bile production | liver
+bile storage | gallbladder
+gallbladder | bile storage fat digestion
+pancreas digestion | enzymes small intestine
+nutrients blood | small intestine villi absorption
+water feces | large intestine colon absorption
+# Inherited information and reproductive evidence.
+DNA segment | gene inherited instructions
+DNA sequence | genetic information bases
+DNA copying | replication inheritance
+DNA altered | mutation variation
+DNA matching | related ancestry identification
+chromosome thread | DNA protein genetic information
+chromosome reduction | meiosis haploid gametes
+chromosome doubling | replication DNA synthesis
+gametes joining | fertilization zygote
+sperm egg | fertilization sexual reproduction
+one parent | asexual reproduction
+parents two | sexual reproduction variation
+offspring identical | asexual cloning mitosis
+offspring variation | sexual meiosis recombination
+bacteria splitting | binary fission asexual
+hydra outgrowth | budding asexual
+strawberry runner | vegetative asexual reproduction
+potato eyes | buds vegetative reproduction
+plant cutting | asexual cloning
+plant graft | vegetative propagation
+identical twins | same genotype fertilized egg
+fraternal twins | separate eggs genetic variation
+acquired scar | environmental injury | inherited | -1.0
+inherited scar | | genetic offspring | -1.0
+learned language | environment experience | inherited | -1.0
+inherited bloodtype | genes alleles parents
+inherited eye | genes pigmentation
+inherited height | genes environment nutrition
+identical genotype | different environment phenotype
+recessive expressed | homozygous two alleles
+heterozygous dominant | expressed phenotype
+sex chromosome | X Y inheritance
+sex human | chromosomes fertilization
+# Recognition of animal groups.
+backbone hair | mammal vertebrate
+milk young | mammal nursing
+feathers beak | bird vertebrate
+feathers insulation | bird warmth flight
+scales dry | reptile vertebrate
+skin moist | amphibian gas exchange
+water gills | fish respiration
+jointed exoskeleton | arthropod invertebrate
+six legs | insect arthropod
+insect antennae | sensory smell touch
+spider eight | arachnid legs
+segmented worm | annelid earthworm
+soft mantle | mollusk shell
+radial spines | echinoderm sea star
+stinging tentacles | cnidarian jellyfish
+pores filter | sponge feeding
+whale breath | lungs air mammal
+whale blowhole | air breathing lungs
+bat echolocation | ultrasound reflected sound
+bat nursing | mammal milk
+platypus eggs | mammal milk
+penguin feathers | bird insulation
+shark cartilage | fish skeleton
+frog tadpole | metamorphosis gills lungs
+caterpillar pupa | butterfly metamorphosis
+nymph adult | incomplete metamorphosis
+pupa adult | complete metamorphosis
+molting exoskeleton | arthropod growth
+shell growth | mollusk calciumcarbonate

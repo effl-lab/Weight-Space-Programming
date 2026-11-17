@@ -1,0 +1,215 @@
+# ---------------- more physical science ----------------
+materials properties: material materials properties flexible rigid strong lightweight waterproof durable
+flexible: flexible bend bends rubber plastic
+brittle: brittle breaks shatters glass
+waterproof: waterproof water resistant raincoat rubber plastic boots
+absorbent: absorbent absorbs water sponge paper towel cotton
+magnifying: magnifying glass convex lens enlarges
+mirror image: mirror plane image reflection reversed
+periscope: periscope mirrors reflect
+flashlight: flashlight battery bulb light beam
+candle: candle wax flame burns light heat
+fire light: fire flame light heat burning glow
+light sources: light source sun stars fire candle flame bulb lamp flashlight lightning glow produce own light
+non light sources: moon mirror reflect light not produce
+rainbow: rainbow sunlight raindrops refraction colors
+sky blue: sky blue scattering sunlight
+sunset colors: red orange sunset
+light speed: light speed fastest 300000 kilometers second
+light year distance: light years stars distance far
+color filters: filter red green blue colored light
+primary colors light: red green blue primary colors light
+seeing color: object color reflects that color
+dark clothing: dark black colored clothing absorbs sunlight warmer
+white clothing: white light colored clothing reflects sunlight cooler
+solar oven: solar oven cooker black aluminum foil reflect absorb
+greenhouse: greenhouse glass trap heat plants warm
+insulated house: insulation walls attic keeps house warm cool
+double pane windows: windows double glass insulation
+cooling: cool cooling refrigerator ice heat removed
+ice melting faster: ice melts faster warm hot sun metal
+metal cold touch: metal feels colder conducts heat away hand
+cooking pan: pan pot metal conducts heat stove handle plastic wood insulator
+oven mitt: oven mitts potholder insulator protect hands
+boiling water bubbles: bubbles boiling water vapor gas
+steam: steam water vapor boiling hot gas
+ice cubes: ice cubes freezer freeze water
+puddle evaporates: puddle evaporates dries sun warm
+clothes dry: wet clothes dry evaporation sun wind
+salt road ice: salt melts ice roads lowers freezing point
+salt water evaporation: salt water evaporates leaves salt behind crystals
+sugar water: sugar dissolves water sweet solution
+oil water: oil water mix separate float layers
+mixture examples: salad trail mix cereal milk sand iron filings mixture
+solution examples: salt water sugar water air vinegar lemonade solution
+pure substances: pure substance element compound gold water
+water molecule: water molecule hydrogen two oxygen one h2o
+carbon dioxide molecule: carbon dioxide co2 carbon oxygen gas
+salt compound: salt sodium chloride compound
+atoms elements examples: hydrogen helium oxygen carbon nitrogen iron gold silver copper aluminum
+periodic table metals: metals left side periodic table nonmetals right
+noble gases: noble gases helium neon argon unreactive
+reactive metals: sodium potassium reactive water
+atomic mass: atomic mass protons neutrons
+ions: ion ions charged gain lose electrons
+energy levels: energy levels shells electrons outer valence
+chemical equation: chemical equation reactants products arrow
+reactants products: reactants products chemical reaction
+catalyst: catalyst speeds reaction enzymes
+reaction rate: reaction rate temperature faster concentration surface area
+exothermic: exothermic releases heat warmer
+endothermic: endothermic absorbs heat colder cold pack
+combustion: combustion burning fuel oxygen carbon dioxide water heat light
+fire triangle: fire needs fuel oxygen heat extinguish
+rust prevent: prevent rust paint coating oil dry
+tarnish: tarnish silver copper green
+baking: baking cake bread chemical change heat
+cooking egg: cooking egg chemical change heat
+digestion chemical: digestion food chemical change stomach acid
+fruit ripening rotting: rotting fruit decay chemical change bacteria
+fireworks: fireworks colors light chemical reaction
+photosynthesis chemical: photosynthesis chemical reaction
+mass volume measure: mass balance volume graduated cylinder water displacement
+water displacement: displacement volume irregular object water rises
+density water: water density 1 gram cubic centimeter
+lead dense: lead dense heavy sinks
+cork float: cork wood float less dense
+oil floats: oil floats water less dense
+hot air balloon: hot air balloon warm air less dense rises
+helium balloon: helium balloon floats lighter less dense air
+boat floats: boat ship floats steel shape displaces water buoyant
+submarine: submarine sinks floats ballast
+gases compress: gases compressed squeezed pressure particles closer
+gas pressure temperature: heated gas expands pressure increases balloon
+balloon cold: balloon shrinks cold
+balloon hot: balloon expands hot heated
+thermometer liquid: thermometer liquid expands rises heated alcohol mercury
+bridge expansion joints: bridges expansion joints gaps heat expand
+power lines sag: power lines sag summer heat expand
+# ---------------- energy more ----------------
+energy examples kinetic: rolling ball moving car running water wind falling kinetic
+energy examples potential: stretched rubber band compressed spring raised object top hill potential
+roller coaster top: roller coaster top hill highest potential
+roller coaster bottom: roller coaster bottom fastest kinetic
+pendulum: pendulum swing potential kinetic energy
+ball bounce: ball bounce lower energy lost heat sound
+falling object energy: falling object potential kinetic speed increases
+dropped ball: drop dropped ball falls ground gravity
+energy loss heat: energy lost heat friction wasted
+efficiency: efficient efficiency energy wasted heat useful
+energy chain: sun plants food energy chain
+fan appliance: fan electrical motion
+heater appliance: heater electrical heat
+lamp appliance: lamp electrical light
+radio appliance: radio electrical sound
+electric fan: fan electrical motor mechanical motion
+electric heater: heater electrical thermal heat
+television: television tv light sound electrical
+cell phone: cell phone battery chemical electrical sound light
+car engine: car engine gasoline chemical mechanical heat
+power plant coal: coal power plant burning heat steam turbine generator electricity
+wind turbine: wind turbine kinetic mechanical electrical
+hydroelectric dam: water falling dam potential kinetic electrical
+nuclear plant: nuclear plant uranium heat steam electricity
+solar cells: solar cells photovoltaic sunlight electricity
+batteries: battery batteries chemical energy stored terminals positive negative
+dry cell: dry cell battery
+energy from food: food energy body chemical muscles movement heat
+human energy: muscles chemical energy mechanical heat
+# ---------------- electricity more ----------------
+circuit parts: circuit parts battery energy source wire conductor bulb load switch
+light bulb lights: bulb lights complete closed circuit current flows
+bulb not lighting: bulb does light open circuit broken wire dead battery loose
+electric current flow: current flows electrons wire
+fuse circuit breaker: fuse circuit breaker overload protect safety
+electrical safety: electrical safety water outlets cords shock
+outlet: outlet plug socket electricity
+static examples: static shock doorknob carpet socks clothes dryer cling balloon hair
+lightning static: lightning giant spark static electricity clouds
+charge transfer: electrons transfer rubbing charge
+electromagnet uses: electromagnets uses cranes junkyard doorbells motors speakers
+electromagnet stronger: electromagnet stronger more coils turns current battery
+magnet strength: magnet strongest poles ends
+magnet breaks: magnet broken pieces each poles
+magnetic force distance: magnetic force weaker distance farther
+magnet through materials: magnetic force passes through paper plastic glass
+compass needle: compass needle points north magnetic
+maglev: maglev trains magnets levitate
+motor generator: motor electricity motion generator motion electricity magnets coils
+# ---------------- forces and motion more ----------------
+push pull examples: kick push pull open door lift
+gravity examples: falling apple ball thrown comes down gravity
+weight on planets: weight different planets gravity mass same
+mass constant: mass stays same anywhere moon
+free fall: free fall objects fall same rate vacuum air resistance feather hammer
+parachute: parachute air resistance slows falling large surface
+friction examples: brakes friction tires road slow stop
+friction surfaces: carpet rough grass more friction ice smooth less friction
+sliding friction: sliding block friction rough sandpaper
+rolling friction: rolling wheels ball bearings less friction
+lubricant: oil grease lubricant reduce friction machines
+inertia examples: seatbelt seatbelts inertia car stops passengers keep moving
+inertia mass: more mass more inertia harder move stop
+action reaction examples: rocket gases push balloon air swimmer pushes water
+rocket motion: rocket thrust gases exhaust push forward
+force motion change: force change speed direction motion
+net force: net force sum forces direction
+friction heat brakes: brakes heat friction
+speed calculation: speed distance divided time kilometers hour meters second
+average speed: average speed total distance total time
+distance time graph: distance time graph slope speed
+velocity direction: velocity speed direction north
+acceleration examples: speeding slowing turning acceleration
+circular motion: circular motion turning centripetal
+orbit motion: orbit gravity inertia moving forward falling
+projectile: thrown ball curved path gravity
+momentum collision: collision momentum transferred
+mass acceleration: heavier mass more force accelerate
+work examples: work lifting box force distance
+power: power work time watts
+scissors machine: scissors lever wedge
+seesaw machine: seesaw lever
+ramp machine: ramp inclined plane
+flagpole machine: flagpole pulley
+doorknob machine: doorknob wheel axle
+jar lid machine: jar lid screw
+lever classes: lever fulcrum effort load wheelbarrow
+pulley advantage: pulley change direction force lift heavy
+ramp less force: ramp longer less force same work
+gears: gears teeth bicycle speed
+compound machine: compound machine bicycle scissors
+# ---------------- waves more ----------------
+sound medium examples: sound travels air water solids faster solids slowest gases
+sound space: space silent no sound vacuum astronauts radio
+sound volume amplitude: louder sound more energy larger amplitude
+whistle pitch: whistle high pitch
+tuba pitch: tuba low pitch
+pitch length: shorter string higher pitch longer lower
+pitch tension: tighter string higher pitch
+pitch thickness: thinner string higher pitch thicker lower
+drum: drum vibrates skin beat louder harder
+vocal cords: vocal cords vibrate voice speech
+ear hearing: ear hearing sound waves eardrum vibrates
+ultrasound: ultrasound high frequency sound medical
+sonar: sonar sound waves ocean depth echo
+seismic waves: seismic waves earthquakes travel earth
+wave energy: waves carry energy not matter
+wave speed: wave speed frequency wavelength
+water waves: water waves ripple pond stone
+light waves: light waves electromagnetic travel vacuum space
+light behavior: light reflected absorbed transmitted refracted
+smooth surfaces reflect: smooth shiny surface mirror reflects clear image
+rough surfaces scatter: rough surface scatters light
+pencil water: pencil water appears bent broken refraction
+eyeglasses lenses: lenses eyeglasses refract light focus
+camera: camera lens light image
+human eye lens: eye lens focuses light retina image
+microscope lenses: microscope lenses magnify
+telescope mirrors lenses: telescope lenses mirrors gather light
+optical fibers: fiber optics light glass reflection
+solar radiation: sun radiation ultraviolet visible infrared
+uv protection: ultraviolet sunscreen sunglasses protect skin eyes sunburn
+xray uses: xrays doctors bones images medical
+radio communication: radio waves communication cell phones television signals
+microwave cooking: microwaves heat water molecules food
+infrared heat lamps: infrared heat lamps remote control

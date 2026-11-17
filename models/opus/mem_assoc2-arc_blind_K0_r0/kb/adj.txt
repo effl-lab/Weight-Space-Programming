@@ -1,0 +1,4 @@
+# adjectives whose comparative/superlative forms map to them
+warm cold hot cool large small big fast slow high low great heavy light strong weak long short close far deep
+dense hard soft old young bright dark loud quiet thick thin wide narrow easy wet dry rough smooth
+early late tall rich poor fine coarse sharp dull clean safe simple pure fresh healthy tiny huge near

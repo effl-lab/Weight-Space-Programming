@@ -1,0 +1,122 @@
+# Explicit inflections, spelling variants, and tightly equivalent technical names.
+# Do not unify different quantities or opposite conditions.
+abrasion abrasive abraded abrading abrade abrades
+acclimatization acclimatisation acclimatize acclimatise
+acorn acorns
+adhere adheres adhered adhering adhesion adhesive
+agriculture agricultural
+allergen allergens allergenic
+anther anthers
+aperture apertures
+arch arches arched
+artificial artificially
+asthma asthmatic
+avalanche avalanches
+beaver beavers
+blubber
+bristle bristles bristly
+bud buds budding budded
+buoy buoyed buoying buoys
+calcification calcify calcifies calcified calcifying
+camouflage camouflages camouflaged camouflaging
+carapace carapaces
+carpel carpels
+catalyze catalyzes catalyzed catalyzing catalyse catalyses catalysed catalysing
+celsius centigrade
+chrysalis chrysalises chrysalides
+cling clings clinging clung
+clump clumps clumped clumping
+coagulate coagulates coagulated coagulating coagulation
+coalesce coalesces coalesced coalescing coalescence
+compressibility compressible
+crista cristae
+crown crowns
+cuticle cuticles
+dandelion dandelions
+deciduous
+deficiency deficiencies deficient
+deplete depletes depleted depleting depletion
+desiccate desiccates desiccated desiccating desiccation
+detach detaches detached detaching
+devonian
+diurnal diurnally
+dormant dormancy
+endoskeleton endoskeletons
+entangle entangles entangled entangling entanglement
+enzyme enzymes enzymatic
+esophagus oesophagus esophageal oesophageal
+eutrophication eutrophic
+eventually eventual
+exoskeleton exoskeletons
+faint fainter faintest
+fledge fledges fledged fledging fledgling fledglings
+flap flaps flapped flapping
+flotation floatation
+frostbite
+geotropism geotropic
+graze grazes grazed grazing
+grit grits gritty
+hatch hatches hatched hatching hatchling hatchlings
+hemisphere hemispheres hemispheric
+heterozygous heterozygote heterozygotes
+homozygous homozygote homozygotes
+hydrophobic hydrophobicity
+hydrophilic hydrophilicity
+impermeable impermeability
+incubate incubates incubated incubating incubation
+interdependence interdependent
+iridescent iridescence
+keratin keratinous
+leach leaches leached leaching
+mature matures matured maturing maturity
+molt molts molted molting moult moults moulted moulting
+mycelium mycelia
+nectar nectars
+nocturnal nocturnally
+nucleolus nucleoli
+operculum opercula
+ovule ovules
+ovary ovaries ovarian
+oviparous
+ovoviviparous
+peat peatland peatlands
+perennial perennials
+permeable permeability
+petal petals
+petiole petioles
+phenology phenological
+pigment pigments pigmented pigmentation
+pistil pistils
+pollinator pollinators
+proboscis proboscises proboscides
+pseudopod pseudopods pseudopodium pseudopodia
+pumice pumiceous
+radicle radicles
+regenerate regenerates regenerated regenerating regeneration
+resuspend resuspends resuspended resuspending resuspension
+rhizome rhizomes
+roost roosts roosted roosting
+saturate saturates saturated saturating saturation
+sepal sepals
+silt silts silty
+snowshoe snowshoes
+spawn spawns spawned spawning
+stamen stamens
+stigma stigmas
+submerge submerges submerged submerging submergence
+succulent succulents succulence
+tadpole tadpoles
+taproot taproots
+tenacity tenacious
+thaw thaws thawed thawing
+tuber tubers
+tundra tundras
+unbalanced unbalance
+ungulate ungulates
+upwelling
+ventilate ventilates ventilated ventilating ventilation
+viviparous
+waddle waddles waddled waddling
+wilt wilts wilted wilting
+xerophyte xerophytes xerophytic
+zooplankton zooplanktonic

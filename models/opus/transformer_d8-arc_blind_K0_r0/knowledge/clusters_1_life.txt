@@ -1,0 +1,199 @@
+# name: terms that a question cue and its right answer tend to share
+photosynthesis: photosynthesis, chlorophyll, chloroplast, sunlight, light energy, carbon dioxide, glucose, sugar, leaf, green, producer, stomata, autotroph, plants, plant, oxygen, water, food, energy
+make_food: producer, producers, make their own food, photosynthesis, plants, algae, autotroph, sunlight
+respiration_cell: respiration, mitochondria, glucose, oxygen, release energy, atp, cellular, aerobic, fuel cells, carbon dioxide
+mitochondria: mitochondria, mitochondrion, powerhouse, energy, respiration, atp
+nucleus_cell: nucleus, dna, chromosome, genetic, instructions, control center, controls cell activities
+membrane: membrane, enters, leaves cell, boundary, semipermeable, permeable, passes, controls what
+cell_wall: cell wall, rigid, cellulose, support, shape, plant cell
+vacuole: vacuole, storage, store water, stores
+ribosome: ribosome, protein, proteins, amino acids
+cytoplasm: cytoplasm, jelly, fluid, organelles
+organelle: organelle, organelles, cell parts, structures
+cell_theory: cell theory, basic unit, all living things, made of cells, smallest unit, hooke, schleiden, schwann
+unicellular: unicellular, single celled, one cell, bacteria, amoeba, paramecium, euglena, protist, protists, yeast, microorganism
+multicellular: multicellular, many cells, tissues, specialized cells, differentiation
+levels_org: tissue, tissues, organ, organs, organ system, organism, levels of organization, cells
+microscope_cells: microscope, magnify, cells, lens, slide, microscopic, magnification, specimen, objective, eyepiece, onion, cheek
+cell_division: mitosis, cell division, divide, divides, new cells, growth, repair, replace, identical cells
+meiosis: meiosis, sex cells, gametes, half, chromosome number
+plant_animal_cell: plant cell, animal cell, chloroplast, cell wall, large vacuole, chlorophyll
+diffusion: diffusion, osmosis, high concentration, low concentration, spreads, membrane, water moves
+digestive: digestive, digestion, digest, stomach, intestine, small intestine, esophagus, saliva, mouth, enzymes, break down food, nutrients absorbed, absorb nutrients, villi, chewing, teeth
+large_intestine: large intestine, colon, absorbs water, waste, feces, solid waste
+circulatory: circulatory, heart, blood, arteries, veins, capillaries, pump, pumps, vessels, transports, carries oxygen, circulation, pulse, heartbeat, red blood cells, plasma
+respiratory: respiratory, lungs, breathe, breathing, inhale, exhale, trachea, windpipe, alveoli, diaphragm, bronchi, air sacs, gas exchange
+nervous: nervous, brain, nerves, spinal cord, neurons, signals, impulses, messages, reflex, reflexes, senses, responds, coordinates, react
+skeletal: skeletal, skeleton, bones, support, protect organs, joints, marrow, calcium, frame, framework, structure, skull, ribs, ribcage, cartilage
+muscular: muscular, muscles, movement, contract, contracts, tendons, flex, voluntary, involuntary, cardiac, move bones
+excretory: excretory, kidneys, urine, bladder, wastes, waste, filter blood, filters, urea, remove waste, removes wastes, excretion
+integumentary: integumentary, skin, hair, nails, sweat, barrier, outer covering, protects body, epidermis
+endocrine: endocrine, hormones, glands, insulin, thyroid, adrenaline, pituitary, chemical messengers, messages, puberty, regulates, adrenal, estrogen, testosterone
+immune: immune, white blood cells, antibodies, infection, pathogens, germs, fight disease, fights infection, defense, immunity, lymph, lymphatic
+reproductive_sys: reproductive, egg, sperm, ovary, ovaries, testes, uterus, fertilization, offspring, pregnancy, embryo, fetus
+senses: senses, eyes, ears, nose, tongue, skin, sight, hearing, smell, taste, touch, receptors, sense organs
+eye: eye, eyes, retina, pupil, iris, cornea, optic nerve, vision, see, sight, lens
+ear: ear, ears, eardrum, cochlea, hearing, hear, sound waves, vibrations
+liver: liver, bile, pancreas, gallbladder, detoxify
+healthy_habits: healthy, health, exercise, balanced diet, sleep, rest, fruits, vegetables, wash hands, nutrition, fitness
+nutrients_protein: protein, proteins, muscle, growth, repair, meat, beans, eggs, nuts, fish, tissue repair
+nutrients_carb: carbohydrates, carbohydrate, starch, sugar, bread, pasta, rice, potatoes, cereal, grains, quick energy, main source of energy
+nutrients_fat: fats, fat, oils, butter, stored energy, insulation, lipids
+vitamins: vitamin, vitamins, minerals, calcium, iron, vitamin c, vitamin d, scurvy, oranges, deficiency
+calcium: calcium, milk, cheese, dairy, strong bones, teeth, bones
+iron_blood: iron, red blood cells, hemoglobin, anemia, spinach
+fiber_diet: fiber, whole grains, digestion, vegetables
+calories: calories, calorie, energy in food, food energy, burn
+disease_spread: disease, diseases, contagious, spread, infectious, germs, bacteria, virus, sneezing, coughing, wash hands, flu, cold, infection
+virus: virus, viruses, flu, influenza, cold, measles, polio, chickenpox, hiv, vaccine, host cell
+bacteria_dis: bacteria, bacterial, strep, antibiotics, antibiotic, infection, penicillin
+antibiotic: antibiotic, antibiotics, penicillin, bacteria, bacterial infections, fleming, mold
+vaccine: vaccine, vaccines, vaccination, immunity, immunize, prevent disease, antibodies, jenner, smallpox, polio
+microorganism: microorganisms, microbes, bacteria, fungi, protists, yeast, mold, microscopic
+smoking: smoking, cigarettes, tobacco, nicotine, lung cancer, lung disease, lungs, tar
+genetics: genes, gene, dna, chromosomes, chromosome, heredity, inherited, inherit, genetic, traits passed, parents, offspring, alleles
+dominant_recessive: dominant, recessive, allele, alleles, punnett square, genotype, phenotype, homozygous, heterozygous, mendel, pea plants, purebred, hybrid
+inherited_traits: inherited, inherit, eye color, hair color, blood type, freckles, dimples, height, born with, passed from parents, genetic
+learned_behavior: learned, learning, taught, practice, experience, training, trained, riding a bike, reading, language, trick, tricks, imitation, conditioning
+instinct: instinct, instinctive, innate, inborn, born with, automatic, behavior, migration, web spinning, nest building, suckling
+asexual: asexual, one parent, identical, budding, binary fission, fission, cloning, clone, runners, cuttings, tubers, regeneration, spores
+sexual_repro: sexual reproduction, two parents, egg and sperm, variation, genetic diversity, fertilization, combination
+mutation: mutation, mutations, change in dna, mutated, radiation, mutagen
+dna_structure: dna, double helix, watson, crick, base pairs, nucleotides, genetic code
+selective_breeding: selective breeding, breeding, breeds, desirable traits, artificial selection, dog breeds, crops, livestock, farmers
+genetic_engineering: genetic engineering, genetically modified, gmo, biotechnology, insert genes, insulin bacteria
+adaptation: adaptation, adaptations, adapted, survive, survival, environment, suited, structure, behavioral
+camouflage: camouflage, blend, blends, hide, hiding, color, coloration, surroundings, predators, protective coloring, spots, stripes, background
+mimicry: mimicry, mimic, resemble, looks like, harmless, warning colors, poisonous, venomous, bright colors
+cold_adapt: thick fur, fur, blubber, fat layer, cold, arctic, polar bear, insulation, keep warm, warm, penguins, seals, walrus, layer
+desert_adapt: desert, cactus, cacti, store water, spines, waxy, nocturnal, camel, hump, little water, dry, lizard, conserve water, deep roots
+aquatic_adapt: gills, fins, fish, scales, swim, streamlined, underwater, oxygen from water, tail, webbed feet, webbed
+bird_adapt: beak, beaks, feathers, wings, fly, flight, hollow bones, nest, nests, talons, claws
+beak_food: beak, beaks, seeds, crack, nectar, hummingbird, finches, finch, insects, probe, hooked beak, galapagos
+teeth_diet: teeth, sharp teeth, canines, incisors, molars, flat teeth, grinding, tearing, chewing, carnivore, herbivore
+hibernate: hibernate, hibernation, winter, sleep, dormant, dormancy, bears, food scarce, conserve energy, lower body temperature
+migrate: migrate, migration, migrates, travel, south for the winter, birds, geese, whales, monarch, seasonal, warmer
+natural_selection: natural selection, survival of the fittest, fittest, variation, evolution, evolve, darwin, favorable traits, best adapted, more offspring, galapagos, reproduce
+evolution: evolution, evolve, evolved, common ancestor, descent, species change over time, darwin, fossil record, homologous
+extinction: extinct, extinction, dinosaurs, died out, no longer exist, mass extinction, dodo, passenger pigeon, mammoth, woolly
+endangered: endangered, threatened, protected, habitat loss, poaching, conservation, wildlife refuge, population small
+fossil_life: fossil, fossils, remains, imprint, imprints, preserved, ancient, past, extinct, amber, trilobite, trilobites, dinosaur, mold, cast, petrified, bones, shells, footprints
+fossil_env: fossils, past environment, ancient environment, once covered, ocean, warm climate, tropical, coral, marine fossils, shallow sea
+food_chain: food chain, energy flow, eaten by, eats, eat, producer, consumer, top predator, arrows
+food_web: food web, food chains, interconnected, energy, organisms, feeding relationships
+producers: producer, producers, plants, algae, grass, phytoplankton, autotroph, autotrophs, first level, base
+consumers: consumer, consumers, heterotroph, eat other organisms, primary consumer, secondary consumer, tertiary
+herbivore: herbivore, herbivores, eats plants, plant eater, grazing, deer, rabbit, cow, grasshopper, primary consumer, grass, seeds, leaves, animal, animals
+carnivore: carnivore, carnivores, eats meat, meat eater, eats animals, predator, lion, wolf, hawk, shark, owl, snake, secondary consumer
+omnivore: omnivore, omnivores, plants and animals, both, bear, raccoon, humans, pig
+decomposer: decomposer, decomposers, fungi, bacteria, mushrooms, mushroom, worms, earthworms, break down, dead organisms, dead plants, recycle nutrients, nutrients back into soil, decay, decompose, rot, rotting, dead
+scavenger: scavenger, scavengers, vulture, vultures, hyena, dead animals, carrion
+predator_prey: predator, prey, hunt, hunts, hunted, chase, catch, owls, mice, wolves, deer, hawk, rabbits, fox, lynx, hare, population
+population_limit: population, carrying capacity, limiting factor, limiting factors, resources, food supply, overpopulation, increase, birth rate, death rate
+competition: compete, competition, same resources, compete for food, territory, space, limited resources, sunlight, water
+mutualism: mutualism, mutualistic, both benefit, benefit each other, symbiosis, symbiotic, bees and flowers, lichen, clownfish, anemone, oxpecker
+parasitism: parasite, parasites, parasitic, parasitism, host, harms, harmed, tick, ticks, flea, fleas, tapeworm, mosquito, lice, leech
+commensalism: commensalism, one benefits, unaffected, neither helped nor harmed, barnacles, remora, whale, epiphyte
+pollination: pollination, pollinate, pollinators, pollen, bees, bee, flowers, nectar, insects, butterflies, hummingbirds, stamen, pistil, anther, stigma, fertilization
+seed_dispersal: seed dispersal, disperse, scatter, seeds, carried by wind, animals, fur, burrs, fruit, float, spread seeds, dandelion, maple
+plant_roots: roots, root, absorb water, absorbs, anchor, anchors, minerals from soil, soil, taproot, root hairs, hold plant
+plant_stem: stem, stems, support, transport, xylem, phloem, carries water, trunk, upright, tubes
+plant_leaves: leaves, leaf, photosynthesis, food, stomata, sunlight, chlorophyll, gas exchange, broad
+plant_flower: flower, flowers, reproduction, seeds, petals, pollen, ovary, fruit, attract insects, sepals
+fruit_seed: fruit, fruits, seeds, protect seeds, contains seeds, ovary, tomato, apple
+plant_needs: plants need, sunlight, water, air, nutrients, soil, space, carbon dioxide, light, minerals
+tropism: tropism, phototropism, bend toward light, grow toward light, gravitropism, geotropism, roots grow down, stimulus, respond, response, hydrotropism, thigmotropism
+germination: germinate, germination, seed, seeds, sprout, sprouts, seedling, warmth, moisture, water, temperature, embryo, seed coat, dormant
+transpiration: transpiration, water vapor from leaves, stomata, evaporate from leaves, wilt, wilting, guard cells
+plant_life_cycle: seed, seedling, adult plant, flower, fruit, life cycle, germination, pollination, seed dispersal
+insect_life_cycle: life cycle, egg, larva, pupa, adult, metamorphosis, complete metamorphosis, butterfly, caterpillar, chrysalis, cocoon, moth, beetle, nymph, incomplete metamorphosis, grasshopper
+frog_life_cycle: frog, tadpole, tadpoles, eggs, gills, lungs, legs, metamorphosis, amphibian, pond
+growth_stages: life cycle, birth, growth, maturity, death, stages, young, adult, reproduce
+vascular: vascular, xylem, phloem, tubes, nonvascular, moss, mosses, liverworts, ferns, conifers
+spores: spores, ferns, moss, mosses, fungi, mushroom, mold
+gymnosperm: gymnosperm, gymnosperms, cones, conifer, conifers, pine, needles, naked seeds, evergreen, spruce, fir
+angiosperm: angiosperm, angiosperms, flowering plants, flowers, fruit, enclosed seeds
+vertebrate: vertebrate, vertebrates, backbone, spine, spinal column, mammals, birds, reptiles, amphibians, fish
+invertebrate: invertebrate, invertebrates, no backbone, insects, spiders, worms, jellyfish, mollusks, snails, crustaceans, crabs, sponges, octopus, exoskeleton
+mammal: mammal, mammals, fur, hair, milk, nurse, live birth, warm blooded, mammary, whales, dolphins, bats
+reptile: reptile, reptiles, scales, scaly, dry skin, cold blooded, leathery eggs, snakes, lizards, turtles, crocodiles, alligators
+amphibian: amphibian, amphibians, moist skin, water and land, frog, frogs, toad, toads, salamander, salamanders, tadpole, newt
+fish_class: fish, gills, fins, scales, cold blooded, water, salmon, trout, shark
+bird_class: bird, birds, feathers, wings, beak, lay eggs, hollow bones, warm blooded
+insect: insect, insects, six legs, three body parts, head thorax abdomen, antennae, exoskeleton, ants, bees, beetles, flies, grasshoppers
+arachnid: arachnid, arachnids, spider, spiders, eight legs, two body parts, web, scorpion, ticks, mites
+cold_blooded: cold blooded, ectotherm, body temperature changes, environment temperature, bask, sun
+warm_blooded: warm blooded, endotherm, constant body temperature, maintain body temperature, mammals, birds
+classification: classification, classify, kingdom, phylum, class, order, family, genus, species, taxonomy, linnaeus, scientific name, dichotomous key, binomial
+kingdoms: kingdom, kingdoms, animalia, plantae, fungi, protista, monera, archaea, eubacteria
+species_def: species, same species, interbreed, fertile offspring, mate, reproduce
+ecosystem: ecosystem, ecosystems, biotic, abiotic, living and nonliving, interactions, environment, community, organisms
+abiotic: abiotic, nonliving, sunlight, temperature, water, soil, air, rocks, climate, minerals
+biotic: biotic, living, plants, animals, organisms, bacteria
+habitat: habitat, habitats, home, shelter, where it lives, niche, environment, provides
+niche: niche, role, job, function in ecosystem
+desert_biome: desert, deserts, dry, arid, little rainfall, cactus, hot days, cold nights, sand, sahara, camel
+tundra: tundra, permafrost, frozen ground, treeless, lichens, arctic, cold, short growing season, caribou
+rainforest: rainforest, rain forest, tropical, humid, wet, canopy, diverse, biodiversity, many species, amazon, heavy rainfall, equator
+grassland_biome: grassland, grasslands, prairie, savanna, grasses, bison, zebras, fires, plains
+deciduous: deciduous, lose leaves, leaves fall, autumn, four seasons, oak, maple, temperate forest
+taiga: taiga, coniferous forest, boreal, evergreen, pine, spruce, snow, moose
+ocean_life: marine, ocean, saltwater, coral reef, plankton, kelp, whales, fish, intertidal, deep sea, sunlight zone
+freshwater_eco: freshwater, pond, lake, river, stream, wetland, marsh, swamp, fresh water
+wetland: wetland, wetlands, marsh, swamp, bog, filter water, flooding, habitat, wildlife
+biodiversity: biodiversity, diversity, variety of species, many different species, stable ecosystem
+succession: succession, pioneer species, lichens, mosses, bare rock, ecological succession, primary succession, secondary succession, after fire, climax community
+lichen: lichen, lichens, fungus and algae, bare rock, pioneer, break down rock, soil formation
+invasive: invasive, invasive species, non native, nonnative, introduced, no natural predators, outcompete, zebra mussels, kudzu
+human_impact: deforestation, habitat destruction, urbanization, development, building, clearing land, pollution, overhunting, overfishing
+energy_pyramid: energy pyramid, ten percent, 10 percent, trophic level, trophic levels, energy lost, heat, less energy, each level
+carbon_cycle: carbon cycle, carbon, carbon dioxide, photosynthesis, respiration, decomposition, combustion, fossil fuels
+nitrogen_cycle: nitrogen cycle, nitrogen, nitrogen fixing, bacteria, legumes, nitrates, fertilizer, protein
+oxygen_cycle: oxygen, carbon dioxide, plants release oxygen, animals use oxygen, exchange, photosynthesis, respiration
+behavior_resp: response, respond, stimulus, stimuli, behavior, react, environment
+social_insects: colony, colonies, ants, bees, queen, workers, hive, social, cooperate, termites
+courtship: courtship, attract mate, mate, mating, display, song, feathers, peacock
+territory: territory, territorial, defend, marking, mark
+seasonal_change_animal: shed, molt, thicker coat, winter coat, store food, squirrels, acorns, gather
+nocturnal: nocturnal, night, active at night, owls, bats, darkness
+plant_defense: thorns, spines, poison, toxic, bitter, defense, protect, prickly
+regeneration: regenerate, regeneration, regrow, starfish, sea star, lizard tail, planaria
+homeostasis: homeostasis, balance, stable internal, regulate, body temperature, sweat, shiver, shivering, maintain
+sweat_cool: sweat, sweating, perspiration, cool, cools body, evaporation, body temperature, overheat
+growth_needs: grow, growth, develop, development, nutrients, food, water
+fungus: fungi, fungus, mushroom, mushrooms, mold, molds, yeast, spores, decomposer, hyphae
+yeast: yeast, fermentation, bread rise, carbon dioxide, sugar, alcohol
+algae: algae, alga, seaweed, kelp, phytoplankton, pond scum, protist, algal bloom
+protist: protist, protists, amoeba, paramecium, euglena, cilia, flagella, pseudopod
+coral: coral, corals, reef, reefs, polyp, coral reef, bleaching
+sponge: sponge, sponges, porous, filter feeder, simplest animal
+mollusk: mollusk, mollusks, snail, snails, clam, clams, octopus, squid, oyster, shell, slug
+worm: worm, worms, earthworm, earthworms, segmented, aerate soil, burrow, tunnels, castings
+crustacean: crustacean, crustaceans, crab, crabs, lobster, shrimp, crayfish, barnacle, exoskeleton, molt
+echinoderm: echinoderm, starfish, sea star, sea urchin, sand dollar, tube feet, spiny skin
+jellyfish: jellyfish, tentacles, sting, stinging cells, cnidarian
+bat_echo: echolocation, bats, bat, dolphins, sound, echo, navigate, ultrasound
+animal_communication: communicate, communication, signals, calls, dance, honeybees, pheromones, scent
+dog_breeds: dog, dogs, breed, puppy, puppies, wolf, wolves
+cat: cat, cats, kitten, kittens, lion, tiger
+horse: horse, horses, foal, pony, zebra, hooves
+cow: cow, cows, cattle, calf, dairy, milk, grazing, beef
+chicken: chicken, chickens, hen, rooster, chick, egg, eggs, poultry
+plant_fruit_crop: crops, crop, corn, wheat, soybeans, rice, harvest, farm, farmer, farmers, agriculture, farming, grain
+tree: tree, trees, trunk, bark, branches, rings, tree rings, wood, oak, maple, pine
+tree_rings: tree rings, rings, age of tree, growth rings, annual, wet years, dry years
+grass: grass, grasses, lawn, meadow, grazing
+cactus: cactus, cacti, spines, desert, succulent, store water, thick stem, waxy
+seaweed: kelp, seaweed, algae, holdfast
+human_growth: infant, baby, child, adolescent, adolescence, puberty, teenager, adult, aging, elderly
+twins: twins, identical twins, same dna, fraternal
+blood_types: blood type, blood types, transfusion, donor, plasma, platelets, clotting, clot
+heart_rate: heart rate, pulse, beats per minute, exercise, heartbeat, faster, beat
+lung_capacity: lung capacity, breathing rate, breaths per minute, oxygen demand, exercise
+bones_joints: joint, joints, hinge, ball and socket, knee, elbow, shoulder, hip, ligaments, cartilage
+skin_protect: skin, sunburn, sunscreen, ultraviolet, uv, melanin, skin cancer
+allergy: allergy, allergies, allergic, pollen, sneeze, histamine, hay fever
+diabetes: diabetes, insulin, blood sugar, pancreas, glucose
+cancer: cancer, tumor, tumors, uncontrolled cell division, chemotherapy, carcinogen
+heart_disease: heart disease, cholesterol, high blood pressure, arteries clogged, heart attack, stroke
+medicine: medicine, medicines, drug, drugs, treatment, cure, doctor, doctors, hospital, patients

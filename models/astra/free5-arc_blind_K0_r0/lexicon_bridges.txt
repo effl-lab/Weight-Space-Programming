@@ -1,0 +1,59 @@
+# Additional short technical names and conservative lexical variants.
+closed_system closed_system sealed_system
+water_table water_table water_tables
+dew_point dew_point
+waterlogged waterlogging
+bimetal bimetallic
+binary_fission binary_fission
+selective_breeding selective_breeding artificial_selection
+acquired_trait acquired_trait acquired_traits
+inherited_trait inherited_trait inherited_traits
+gene_flow gene_flow
+dissolved_oxygen dissolved_oxygen
+life_jacket life_jackets lifejacket lifejackets
+hand_crank hand_cranked hand_crank
+power_line power_lines powerline powerlines
+seat_belt seat_belts seatbelt seatbelts
+crumple_zone crumple_zones
+center_gravity center_of_gravity centre_of_gravity
+heat_transfer heat_transfer transfer_of_heat
+heat_loss heat_loss
+thermal_expansion thermal_expansion
+average_speed average_speed
+net_force net_force resultant_force total_force combined_force
+alluvial_fan alluvial_fans
+freeze_thaw freeze_thaw
+sea_level sea_level sea_levels
+carbon_cycle carbon_cycle
+nitrogen_cycle nitrogen_cycle
+oxygen_cycle oxygen_cycle
+independent_variable independent_variable manipulated_variable tested_variable
+controlled_variable controlled_variable controlled_variables constant_variable
+control_group control_group control_groups
+systematic_error systematic_error systematic_errors
+random_error random_error random_errors
+operational_definition operational_definition operational_definitions
+sample_size sample_size sample_sizes
+blind_study blind_study
+peer_review peer_review
+platelet platelets
+hemoglobin haemoglobin
+alveolus alveoli
+villus villi
+tendon tendons
+ligament ligaments
+insulin insulin
+mangrove mangroves
+anther anthers
+stigma stigmas
+ovule ovules
+antigen antigens
+turgor turgidity
+emigrate emigrates emigrated emigrating emigration
+immigrate immigrates immigrated immigrating immigration
+biomagnification biomagnification biological_magnification
+acclimation acclimatization acclimatisation
+calibration calibrate calibrates calibrated calibrating
+reproducible reproducibility
+triangulate triangulates triangulated triangulation
+collinear collinear

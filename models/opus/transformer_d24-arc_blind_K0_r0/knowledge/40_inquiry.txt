@@ -1,0 +1,64 @@
+# ---------------- scientific inquiry ----------------
+hypothesis: hypothesis hypotheses prediction predict testable educated guess if then
+experiment: experiment experiments investigation test tests testing procedure
+variables independent: independent variable manipulated changed tested cause
+variables dependent: dependent variable responding measured result outcome
+controlled variables: controlled variables constant constants same kept unchanged fair test
+control group: control group comparison compare untreated normal
+repeated trials: repeat repeated trials replicate multiple times reliable reliability accurate valid results
+data: data record recorded table tables measurements observations collect
+graphs: graph graphs bar line pie chart plot axis
+line graph: line graph change over time trend
+bar graph: bar graph compare categories
+conclusion: conclusion conclusions analyze results data support supports evidence
+observation: observation observations observe observed senses notice
+inference: inference infer explanation based observations
+qualitative quantitative: qualitative quantitative numbers measurements descriptions
+communicate results: communicate share publish report results scientists others
+peer review: review peer scientists check verify reproduce repeat
+scientific theory: theory theories law laws explanation supported evidence tested
+model: model models represent representation diagram simulation scale
+# ---------------- measurement tools and units ----------------
+thermometer: thermometer temperature degrees celsius fahrenheit hot cold
+balance: balance scale triple beam mass grams kilograms weigh
+graduated cylinder: graduated cylinder volume liquid milliliters ml liters beaker
+ruler: ruler meter stick length width height distance centimeters millimeters meters inches tape measure
+stopwatch: stopwatch timer clock time seconds minutes
+spring scale: spring scale force weight newtons
+hand lens: hand lens magnifying glass magnifier small details
+microscope tool: microscope cells bacteria tiny organisms
+telescope tool: telescope stars planets moon distant
+anemometer tool: anemometer wind speed
+barometer tool: barometer air pressure
+rain gauge tool: rain gauge rainfall
+wind vane tool: vane wind direction
+seismograph tool: seismograph earthquakes vibrations
+metric units: metric units si gram meter liter kilogram kilometer centimeter milliliter
+length units: meters centimeters kilometers millimeters length distance
+mass units: grams kilograms mass
+volume units: liters milliliters volume cubic centimeters
+time units: seconds minutes hours time
+temperature units: celsius fahrenheit kelvin degrees temperature
+force units: newtons force
+energy units: joules calories energy
+# ---------------- safety ----------------
+goggles: goggles safety glasses eyes protect splash chemicals
+gloves: gloves protect hands chemicals
+lab safety: safety rules teacher report accidents spills broken glass
+fire safety: fire extinguisher flames heat burner hot plate
+smell safely: waft wafting smell odor fumes
+lab food: food drink eating laboratory lab
+wash hands: wash hands soap after handling
+# ---------------- technology and engineering ----------------
+engineering design: design engineer engineers prototype build test improve redesign
+criteria constraints: criteria constraints requirements limitations cost budget materials
+trade offs: tradeoff tradeoffs compromise
+technology: technology tools inventions invention solve problems
+computer: computer computers data analyze process
+communication technology: telephone cell phone internet communication satellite
+transportation: transportation cars trains airplanes vehicles fuel
+agriculture: agriculture farming farmers crops irrigation harvest
+irrigation: irrigation water crops dry farmland
+refrigeration: refrigerator refrigerators refrigeration preserve food spoil cold
+food preservation: preserve preservation canning freezing drying salting spoil spoiling bacteria
+shipping food: ship shipping transport food available world variety types

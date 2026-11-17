@@ -1,0 +1,124 @@
+# Generation 5: assorted frequently tested facts in question wording.
+shadow noon > shortest sun highest
+shadow afternoon > longer sun lower
+shadow 4 pm > longer
+shadow evening > longest
+shadow length during day > changes sun position earth rotates
+shadow direction morning > west
+moon affects earth > ocean tides gravity
+moon causes > tides
+moon does not cause > seasons day night
+moon effect earth > tides
+sun causes > seasons day night weather water cycle wind
+earth rotation causes > day and night
+earth revolution causes > year
+earth tilt causes > seasons
+energy food web up > decreases each level
+energy food web > decreases 10 percent passed up
+energy lost food chain > heat life processes
+consumers get energy > eating other organisms
+plants get energy > sunlight
+increase plants field > more rain water sunlight nutrients
+plants grow more > water sunlight nutrients warmth
+plants grow less > drought shade cold insects
+evidence air water vapor > condensation drops cold can glass dew
+evidence air has mass > balloon weighs
+water lost heat freezes > particles slow down
+water gains heat boils > particles speed up
+freezing = liquid loses heat particles slow down
+melting = solid gains heat particles speed up
+lizard warm rock > raise body temperature cold blooded
+reptiles bask sun > warm body temperature
+fossils form > buried quickly sediment hardens rock
+fossils form usually > sediment layers sedimentary rock
+warmer sunlight than shade > skin absorbs energy sunlight
+delta forms > river slows drops sediment enters ocean lake
+steep ramp faster > gravity slope
+worms garden > break down dead material loosen soil aerate
+filter separates > sand water solid liquid
+filter cannot separate > dissolved salt sugar
+dark roof sunlight > absorbed heat
+light roof > reflects sunlight cooler
+insects killed fish > less food decrease
+sun water cycle role > heats water evaporates
+roots prevent erosion > hold soil in place
+magnet cut half > each piece north south poles
+planet year length > distance from sun
+skeleton muscles together > movement move body
+plant sealed container oxygen > photosynthesis
+stream water hiking > harmful bacteria germs
+all planets > orbit sun
+rock melts cools > igneous
+boat material > floats waterproof less dense
+puppies traits > genes from both parents
+offspring traits > genes from parents inherited
+ball kicked slows stops > friction grass
+goggles hammer rocks > protect eyes flying pieces
+renewable electricity > moving water hydroelectric wind solar geothermal
+moon daytime visible > reflects sunlight above horizon
+chemical property iron > rusts
+chemical property > reacts burns rusts flammable
+physical property > color shape state magnetic density
+# ---
+earth materials > rocks soil water air
+soil contains > minerals humus water air organisms
+soil fertility > humus nutrients
+plants nitrogen > fertilizer legumes bacteria
+plants phosphorus potassium > fertilizer nutrients
+seed needs before germinating > water oxygen warmth
+seedling needs > light water nutrients
+plant reproduction flowers > seeds
+plant reproduction ferns mosses > spores
+apple seeds > inside fruit
+pumpkin > fruit seeds
+strawberry runners > asexual
+potato eyes > new plants asexual
+cuttings > new plant identical
+grafting > fruit trees
+leaves broad flat > capture sunlight
+leaves small needles > reduce water loss
+tall trees rainforest > reach sunlight canopy
+forest floor plants > shade tolerant large leaves
+aquatic plants > float leaves air sacs
+desert animals water > food metabolism little urine
+arctic animals > fur fat small ears
+small ears cold > less heat loss
+large ears hot > release heat
+color white snow > camouflage
+spots stripes > camouflage forest grass
+young animals learn > hunting from parents
+instinct newborn > nursing suckling crying
+animal communication > sounds smells dances
+bees communicate > dance flowers location
+wolves howl > communicate pack
+birds sing > attract mates territory
+fireflies flash > attract mates
+plants compete > sunlight water space nutrients
+animals compete > food water mates territory shelter
+weeds compete > crops water nutrients
+cleaner fish shark > mutualism
+barnacles whale > commensalism
+tick dog > parasitism
+lichen fungus algae > mutualism
+oxpecker rhino > mutualism
+remora shark > commensalism
+tapeworm > parasite intestine
+mistletoe > parasite tree
+flea > parasite blood
+food chain example > grass grasshopper frog snake hawk
+ocean food chain > algae phytoplankton zooplankton fish shark
+pond food chain > algae insects fish heron
+desert food chain > cactus mouse snake hawk
+forest food chain > acorns squirrel fox
+arctic food chain > algae fish seal polar bear
+top predator > hawk eagle shark lion wolf polar bear
+primary consumer > herbivore eats producers
+secondary consumer > eats herbivores
+tertiary consumer > top predator
+producer pond > algae water plants duckweed
+producer ecosystem > plants algae grass trees
+producer ocean > algae phytoplankton seaweed
+disease kills prey > predator population decreases less food
+prey dies predator > decrease
+loss habitat forest > clearing land build houses cutting trees logging
+habitat loss cause > clearing land building roads houses farms

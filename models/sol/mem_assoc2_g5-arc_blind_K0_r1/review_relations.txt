@@ -1,0 +1,361 @@
+# Source-review additions: context-specific relations, not answer examples.
+# A qualifier belongs in the cue when it changes the sign of the answer.
+# Measurement, controls, and distinct statistical properties.
+3.4 | precision definition | closeness repeated measurements consistency |
+3.4 | accuracy definition | closeness accepted true value |
+3.4 | precision poor | scattered readings variation |
+3.4 | precision high | consistent close readings |
+3.4 | accuracy poor | difference true value error |
+3.4 | accuracy high | agreement accepted value |
+3.4 | repeated consistent | precision repeatability |
+3.4 | calibration purpose | accuracy known standard |
+3.4 | systematic bias | consistent offset inaccurate |
+3.4 | random error average | reduced uncertainty |
+3.4 | systematic error average | remains calibration needed |
+3.4 | sample biased | unrepresentative population |
+3.4 | random sample advantage | representative reduced bias |
+3.4 | sample size random | larger lower uncertainty |
+3.4 | larger biased sample | systematic bias remains |
+3.4 | treatment comparison baseline | control group |
+3.4 | changed deliberately | independent variable |
+3.4 | measured experimental outcome | dependent variable |
+3.4 | held constant experiment | controlled variable |
+3.4 | experimental variable changed | one independent factor |
+3.4 | experimental variables controlled | remaining factors constant |
+3.4 | experiment water amount | vary water same species light temperature |
+3.4 | experiment light amount | vary light same species water temperature |
+3.4 | experiment pendulum mass | vary mass same length amplitude |
+3.4 | experiment pendulum amplitude | vary angle same mass length |
+3.4 | experiment friction mass | vary load same surface object |
+3.4 | experiment ramp surface | vary texture same height car |
+3.4 | experiment evaporation temperature | vary temperature same area volume |
+3.4 | experiment evaporation wind | vary airflow same area temperature volume |
+3.4 | experiment germination water | vary water same seeds temperature |
+3.4 | experiment germination light | vary illumination same seeds water temperature |
+# Thermodynamics and mechanical facets: keep the measured quantity in cues.
+3.4 | equilibrium temperature | equal same |
+3.4 | equilibrium net transfer | zero |
+3.4 | equilibrium thermal energy | possibly different |
+3.4 | same temperature different mass | different total thermal energy |
+3.4 | falling kinetic | increase | decrease
+3.4 | falling potential | decrease | increase
+3.4 | rising kinetic | decrease | increase
+3.4 | rising potential | increase | decrease
+3.4 | falling mass | constant unchanged |
+3.4 | machine ideal work | input equals output conserved |
+3.4 | machine ideal force | reduced greater distance |
+3.4 | machine real work | input greater output friction |
+3.4 | machine useful energy | output less input |
+3.4 | machine total energy | conserved |
+3.4 | mechanical efficiency denominator | input energy |
+3.4 | mechanical efficiency numerator | useful output energy |
+3.4 | heat engine waste | thermal energy surroundings |
+3.4 | uniform circular speed | constant |
+3.4 | uniform circular velocity | changing direction | constant
+3.4 | uniform circular acceleration | centripetal inward | zero
+3.4 | constant velocity acceleration | zero |
+3.4 | constant speed turning | acceleration direction change |
+3.4 | friction static walking | traction grip |
+3.4 | friction sliding braking | kinetic thermal conversion |
+3.4 | walking foot ground | friction forward force |
+3.4 | sliding object friction | opposite relative motion |
+3.4 | magnetic monopole | isolated single pole |
+3.4 | magnet broken pieces | north south poles dipoles |
+3.4 | magnet domains aligned | stronger field |
+3.4 | demagnetization heating | domains disorder |
+3.4 | induced current direction | opposes magnetic flux change lenz |
+3.4 | transformer frequency | alternating current |
+3.4 | wire current carriers | electrons |
+3.4 | electrolyte current carriers | ions |
+3.4 | light refraction frequency | unchanged constant |
+3.4 | light refraction wavelength | changes speed |
+3.4 | light vacuum speed | constant electromagnetic |
+3.4 | x rays | electromagnetic ionizing penetration bone imaging | sound
+3.4 | x ray detection | medical imaging dense bone |
+3.4 | gamma rays | electromagnetic nuclear high frequency ionizing | sound
+3.4 | ultraviolet rays | electromagnetic sunburn dna ozone |
+3.4 | infrared rays | electromagnetic thermal radiation |
+3.4 | radio waves | electromagnetic communication long wavelength |
+3.4 | warm blooded | endotherm mammal bird internal regulation |
+3.4 | cold blooded | ectotherm external temperature reptile amphibian fish |
+3.4 | endothermic reaction | absorbs thermal energy cooling |
+3.4 | endothermic animal | internal heat regulation mammal bird |
+# A class is not a synonym of one example, nor a trend an absolute absence.
+3.4 | alcohol class | organic hydroxyl compound |
+3.4 | alcohol examples | ethanol methanol propanol |
+3.4 | ethanol classification | alcohol compound organic |
+3.4 | methanol classification | alcohol compound organic |
+3.4 | propanol classification | alcohol compound organic |
+3.4 | isopropanol classification | alcohol compound organic |
+3.4 | ethanol | alcohol fermentation fuel solvent |
+3.4 | methanol | alcohol toxic fuel solvent |
+3.4 | isopropanol | alcohol disinfectant solvent |
+3.4 | ethanol yeast | fermentation carbon dioxide |
+3.4 | methanol poisoning | blindness toxicity |
+3.4 | rubbing alcohol | isopropanol disinfection evaporation |
+3.4 | alcohol chemical property | flammable |
+3.4 | alcohol physical property | volatile solvent |
+3.4 | protein energy | respiration fuel |
+3.4 | protein primary role | growth repair structure enzymes |
+3.4 | phloem transported solution | water dissolved sugars |
+3.4 | phloem primary solute | sucrose sugar |
+3.4 | xylem primary solute | mineral ions |
+3.4 | seed gas exchange | oxygen respiration germination |
+3.4 | nervous synapse | chemical neurotransmitter receptors |
+3.4 | neuron membrane signal | electrical impulse |
+3.4 | hormone blood signal | endocrine chemical |
+3.4 | bioaccumulation definition | toxin buildup within individual time |
+3.4 | biomagnification definition | toxin concentration higher trophic levels |
+3.4 | persistent pollutant tissue | bioaccumulation |
+3.4 | persistent pollutant predators | biomagnification |
+3.4 | negative feedback | counteracts change restores homeostasis | amplifies
+3.4 | positive feedback | amplifies change | counteracts
+3.4 | temperature feedback sweating | negative cooling |
+3.4 | glucose feedback insulin | negative regulation |
+3.4 | childbirth feedback | positive oxytocin contractions |
+3.4 | antibiotic resistance origin | genetic variation mutations |
+3.4 | antibiotic resistant survivors | reproduce inherited resistance |
+3.4 | pesticide resistant survivors | reproduce inherited resistance |
+3.4 | antibiotic exposure selection | resistant variants survive |
+3.4 | stem cell | unspecialized differentiation specialized cells |
+3.4 | cell differentiation | specialized structure function gene expression |
+3.4 | specialized cells same organism | same dna different expression |
+3.4 | muscle protein demand | ribosome mitochondria |
+3.4 | potato modified organ | stem tuber |
+3.4 | carrot modified organ | root storage |
+3.4 | leaf stomatal pores | gas exchange transpiration |
+3.4 | flower pollen agent | pollinator |
+3.4 | pollinator examples | bee butterfly moth hummingbird |
+3.4 | pollinator ecological role | pollen transfer reproduction |
+3.4 | pollination process | pollen transfer anther stigma |
+3.4 | insect extinct pollination | reduced plant reproduction |
+# Geological evidence and preservation mechanism.
+3.4 | trace fossil | footprints burrows tracks behavior |
+3.4 | body fossil | preserved bones shells teeth |
+3.4 | fossil tracks | trace behavior movement |
+3.4 | fossil burrow | trace behavior |
+3.4 | fossil mold | hollow impression |
+3.4 | fossil cast | filled impression mineral replica |
+3.4 | fossil petrification | mineral replacement organic tissue |
+3.4 | fossil amber | resin trapped organism |
+3.4 | fossil preservation favorable | rapid burial sediment hard parts |
+3.4 | fossil preservation unfavorable | decay erosion high heat |
+3.4 | fossil soft tissue | rare rapid preservation |
+3.4 | carbon dating material | once living organic |
+3.4 | uranium dating material | ancient igneous minerals |
+3.4 | radiocarbon old limit | decay little remaining isotope |
+3.4 | geologic relative age | sequence older younger |
+3.4 | geologic absolute age | numerical radiometric date |
+3.4 | sediment sorting water | size settling current |
+3.4 | sediment sorting glacier | poorly sorted mixed sizes |
+3.4 | sediment angularity | transport distance abrasion |
+3.4 | sand grain rounded | repeated abrasion transport |
+3.4 | coal sedimentary origin | buried plant organic matter |
+3.4 | limestone biological origin | shells skeletons calcium carbonate |
+3.4 | evaporite formation | dissolved minerals evaporation |
+# Additional representation review: distinguish properties, instruments,
+# interventions, forces, and sensory functions from related entities.
+3.4 | microscopic objects | small tiny magnification microscope |
+3.4 | microscopic observation | microscope magnification |
+3.4 | microorganism instrument | microscope |
+3.4 | bacteria observation | microscope |
+3.4 | microscope function | magnification observe tiny structures |
+3.4 | light microscope illumination | visible light |
+3.4 | electron microscope illumination | electrons |
+3.4 | microscope resolution | distinguish close points detail |
+3.4 | microscope magnification | larger apparent size |
+3.4 | telescope function | observe distant celestial objects |
+3.4 | magnifying glass function | convex lens enlarged image |
+3.4 | vaccine administration | vaccination immune memory |
+3.4 | vaccination purpose | prevent infectious disease immune memory |
+3.4 | vaccination protection | immune memory antibodies |
+3.4 | vaccine active immunity | own immune response memory |
+3.4 | antibody injection | passive immunity immediate temporary |
+3.4 | active immunity | own antibody production memory |
+3.4 | passive immunity | transferred antibodies temporary |
+3.4 | hearing | ear sound |
+3.4 | hearing receptor | cochlea hair cells |
+3.4 | hearing vibrations | ear eardrum cochlea |
+3.4 | ear function | hearing balance |
+3.4 | eardrum function | sound vibration |
+3.4 | cochlea function | hearing sensory receptors |
+3.4 | semicircular canals | balance head movement |
+3.4 | smell | nose chemical receptors |
+3.4 | smell receptors | nose olfactory |
+3.4 | nose function | smell filter warm air |
+3.4 | taste | tongue chemical receptors |
+3.4 | taste receptors | tongue buds |
+3.4 | tongue sensory function | taste |
+3.4 | tongue mechanical function | move food swallowing |
+3.4 | dissolved chemicals sensing | taste smell |
+3.4 | hearing stimulus | sound vibrations |
+3.4 | smell stimulus | airborne chemicals |
+3.4 | taste stimulus | dissolved chemicals |
+3.4 | buoyancy definition | upward force fluid pressure |
+3.4 | buoyant force direction | upward | downward
+3.4 | buoyancy magnitude | fluid density displaced volume gravity |
+3.4 | submerged sinking | buoyancy gravity weight |
+3.4 | floating equilibrium | balanced forces |
+3.4 | sinking terminal speed | constant velocity balanced forces | acceleration
+3.4 | sinking terminal forces | weight buoyancy drag |
+3.4 | denser fluid fixed displacement | greater buoyancy |
+3.4 | displaced fluid weight | buoyant force |
+3.4 | shark skeleton | cartilage | bone
+3.4 | cartilaginous fish | shark skate stingray |
+3.4 | bony fish | salmon trout tuna bass herring catfish |
+3.4 | shark classification | fish vertebrate cartilaginousfish |
+3.4 | salmon classification | fish vertebrate bonyfish |
+3.4 | vertebrate defining structure | backbone |
+3.4 | endoskeleton material examples | bone cartilage |
+3.4 | cartilage property | flexible support |
+# Role-specific records preserve distinctions that reversed answer bags lose.
+# Energy converters: the role belongs in the antecedent, not in word order.
+3.4 | generator energy input | mechanical kinetic motion |
+3.4 | generator energy output | electrical |
+3.4 | motor energy input | electrical |
+3.4 | motor energy output | mechanical kinetic motion |
+3.4 | microphone energy input | sound |
+3.4 | microphone energy output | electrical |
+3.4 | speaker energy input | electrical |
+3.4 | speaker energy output | sound |
+3.4 | loudspeaker energy input | electrical |
+3.4 | loudspeaker energy output | sound |
+3.4 | toaster energy input | electrical |
+3.4 | toaster energy output | thermal heat |
+3.4 | photosynthesis energy source | sunlight light |
+3.4 | photosynthesis stored energy | chemical glucose sugar |
+3.4 | respiration energy source | chemical glucose |
+3.4 | respiration energy output | atp heat |
+3.4 | battery discharge energy source | chemical stored |
+3.4 | battery discharge energy output | electrical |
+3.4 | battery charging energy input | electrical |
+3.4 | battery charging energy stored | chemical |
+# Formulas: numerator/denominator and element identity are explicit cues.
+3.4 | speed formula numerator | distance |
+3.4 | speed formula denominator | time |
+3.4 | density formula numerator | mass |
+3.4 | density formula denominator | volume |
+3.4 | pressure formula numerator | force |
+3.4 | pressure formula denominator | area |
+3.4 | water formula hydrogen number | two 2 |
+3.4 | water formula oxygen number | one 1 |
+3.4 | carbon dioxide formula carbon number | one 1 |
+3.4 | carbon dioxide formula oxygen number | two 2 |
+# Celestial and pressure-gradient roles cannot be inferred from token order.
+3.4 | solar eclipse shadow caster | moon |
+3.4 | solar eclipse shadow receiver | earth |
+3.4 | lunar eclipse shadow caster | earth |
+3.4 | lunar eclipse shadow receiver | moon |
+3.4 | full moon alignment center | earth |
+3.4 | new phase alignment center | moon |
+3.4 | earth rotation north pole | counterclockwise |
+3.4 | earth rotation south pole | clockwise |
+3.4 | wind pressure origin | high | low
+3.4 | wind pressure destination | low | high
+3.4 | wind flow cause | pressure gradient unequal solar heating |
+# Relative material properties: name the object whose property is requested.
+3.4 | scratch test resistant | harder | softer
+3.4 | scratch test susceptible | softer | harder
+3.4 | equal heating sand rate | faster | slower
+3.4 | equal heating water rate | slower | faster
+3.4 | red filter absorbed colors | blue green |
+3.4 | blue filter absorbed colors | red green |
+# Compartment claims are conditional on organism/cell type.
+3.4 | prokaryote boundary | cell membrane |
+3.4 | bacteria membrane | selective transport protection |
+3.4 | bacteria dna location | cytoplasm nucleoid |
+3.4 | prokaryote genetic material | dna cytoplasm nucleoid |
+3.4 | eukaryote chromosomes location | nucleus |
+3.4 | cytoplasm genetic material | bacterial dna plasmids |
+3.4 | enveloped virus surface | lipid membrane envelope |
+3.4 | virus protein coat | capsid |
+3.4 | photosynthesis material reactants | water carbon dioxide |
+3.4 | photosynthesis energy requirement | sunlight light |
+3.4 | drying microbial growth | slower inhibition | faster
+# Measurement notation and dimensions: explicit science, not QA examples.
+# Attached exponents are single words under the fixed task tokenizer.
+3.4 | m2 | area square meter |
+3.4 | cm2 | area square centimeter |
+3.4 | mm2 | area square millimeter |
+3.4 | km2 | area square kilometer |
+3.4 | m3 | volume cubic meter |
+3.4 | cm3 | volume cubic centimeter milliliter |
+3.4 | mm3 | volume cubic millimeter |
+3.4 | dm3 | volume cubic decimeter liter |
+3.4 | km3 | volume cubic kilometer |
+3.4 | mps | speed velocity meter second |
+3.4 | mps2 | acceleration meter second squared |
+3.4 | kph | speed velocity kilometer hour |
+3.4 | mph | speed velocity mile hour |
+3.4 | s2 | second squared |
+3.4 | square meter | m2 area |
+3.4 | square centimeter | cm2 area |
+3.4 | square millimeter | mm2 area |
+3.4 | square kilometer | km2 area |
+3.4 | cubic meter | m3 volume |
+3.4 | cubic centimeter | cm3 milliliter volume |
+3.4 | cubic millimeter | mm3 volume |
+3.4 | cubic decimeter | dm3 liter volume |
+3.4 | cubic kilometer | km3 volume |
+3.4 | second squared | s2 |
+3.4 | area units | m2 cm2 mm2 km2 |
+3.4 | volume units | m3 cm3 mm3 dm3 liter milliliter |
+3.4 | speed units | mps kph mph meter second |
+3.4 | acceleration units | mps2 meter second squared |
+3.4 | density units | gram kilogram milliliter cm3 m3 |
+3.4 | length si unit | meter |
+3.4 | area si unit | m2 |
+3.4 | volume si unit | m3 |
+3.4 | time si unit | second |
+3.4 | mass si unit | kilogram |
+3.4 | temperature si unit | kelvin |
+3.4 | current si unit | ampere |
+3.4 | frequency si unit | hertz |
+3.4 | speed si unit | mps |
+3.4 | acceleration si unit | mps2 |
+3.4 | pressure si unit | pascal |
+3.4 | energy si unit | joule |
+3.4 | power si unit | watt |
+3.4 | force si unit | newton |
+# Equivalent volumes and dimensional factors are authored constants.
+3.4 | milliliter equivalent volume | cm3 |
+3.4 | liter equivalent volume | dm3 thousand milliliter |
+3.4 | m3 liter conversion | thousand 1000 |
+3.4 | cm3 milliliter conversion | one 1 |
+3.4 | dm3 liter conversion | one 1 |
+3.4 | cm3 mm3 conversion | thousand 1000 |
+3.4 | m2 cm2 conversion | 10000 |
+3.4 | cm2 mm2 conversion | hundred 100 |
+3.4 | km2 m2 conversion | million 1000000 |
+3.4 | m3 cm3 conversion | million 1000000 |
+3.4 | m3 dm3 conversion | thousand 1000 |
+3.4 | kilogram gram conversion | thousand 1000 |
+3.4 | gram milligram conversion | thousand 1000 |
+3.4 | meter centimeter conversion | hundred 100 |
+3.4 | meter millimeter conversion | thousand 1000 |
+3.4 | kilometer meter conversion | thousand 1000 |
+3.4 | second millisecond conversion | thousand 1000 |
+# Common prefixes and energy-rate distinctions.
+3.4 | millisecond | time second thousandth |
+3.4 | micrometer | length meter millionth |
+3.4 | nanometer | length meter billionth |
+3.4 | kilojoule | energy work thousand joule |
+3.4 | megajoule | energy work million joule |
+3.4 | kilowatt | power thousand watt |
+3.4 | kilowatthour | energy work electrical |
+3.4 | kilowatthour joule conversion | 3600000 |
+3.4 | kilowatt hour product | kilowatthour energy |
+3.4 | electricity billing unit | kilowatthour |
+3.4 | electrical power rating | watt kilowatt |
+3.4 | electrical energy consumption | joule kilowatthour |
+3.4 | electricity energy formula | power multiply time |
+3.4 | kilojoule joule conversion | thousand 1000 |
+3.4 | megajoule joule conversion | million 1000000 |
+3.4 | kilowatt watt conversion | thousand 1000 |
+3.4 | mass measurement instrument | balance |
+3.4 | liquid volume instrument | graduated cylinder |
+3.4 | small length instrument | ruler |
+3.4 | micrometer screw gauge | precision length diameter |
+3.4 | electric charge unit | coulomb |
+3.4 | electric current unit | ampere |
+3.4 | electric voltage unit | volt |

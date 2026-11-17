@@ -1,0 +1,249 @@
+# Hand-authored conjunctive rules. Question requirements | supported option requirements | contradicted option requirements | confidence
+# Semicolon joins requirements; commas give alternative concepts. ! marks a forbidden question concept.
+# ? marks a required concept in the focused request, not merely in its background.
+# Changes in matter and energy
+sealed,closed; rigid,fixed volume,constant volume; gas,air; heated,heating,hot | pressure increases | pressure decreases,pressure unchanged | 7
+sealed,closed; rigid,fixed volume,constant volume; gas,air; cooled,cooling,cold | pressure decreases | pressure increases | 7
+sealed,closed; reaction,reactants,products,burning | mass unchanged,mass conserved,same mass | mass increases,mass decreases,matter destroyed | 6
+sealed,closed; evaporating,evaporation,melting,freezing | mass unchanged,mass conserved,same mass | mass increases,mass decreases | 7
+gas,air; compressed,squeezed; temperature constant,same temperature | pressure increases | pressure decreases | 7
+gas,air; volume increases; temperature constant,same temperature | pressure decreases | pressure increases | 7
+balloon; heated,heating,warm | volume increases,expands | volume decreases,contracts | 6
+balloon; cooled,cooling,cold | volume decreases,contracts | volume increases,expands | 6
+temperature increases,higher temperature; particles,molecules | faster,kinetic energy increases | slower,kinetic energy decreases | 5
+temperature decreases,lower temperature; particles,molecules | slower,kinetic energy decreases | faster,kinetic energy increases | 5
+melting,boiling; temperature; phase,state | temperature unchanged,constant temperature | temperature increases,temperature decreases | 6
+ice,water; freezing | volume increases,expands,density decreases | volume decreases,density increases | 6
+ice; melting | density increases,volume decreases | density decreases,volume increases | 6
+substance,material; cut,pieces,broken | density unchanged,same density | density increases,density decreases | 5
+mass increases; volume constant,same volume | density increases | density decreases | 7
+mass decreases; volume constant,same volume | density decreases | density increases | 7
+volume increases; mass constant,same mass | density decreases | density increases | 7
+volume decreases; mass constant,same mass | density increases | density decreases | 7
+same substance,same material; larger,smaller | same density,density unchanged | density increases,density decreases | 6
+floating,floats; water,liquid | less dense,lower density | more dense,higher density | 5
+sinking,sinks; water,liquid | more dense,higher density | less dense,lower density | 5
+saltwater; float,buoyancy | greater buoyant force,more dense | less buoyant force,less dense | 5
+helium; balloon | less dense,lower density | more dense,higher density | 6
+thermal expansion; mass | mass unchanged,same mass | mass increases,mass decreases | 6
+rusting,rust; mass | oxygen,oxygen combines,mass increases | mass decreases,matter created | 5
+burning; ash; mass | gases,escaped,oxygen,carbon dioxide | matter destroyed,mass destroyed | 5
+bubbles; boiling; water | water vapor,steam | oxygen,hydrogen,air | 6
+condensation,condenses; gas,water vapor | liquid,droplets | solid,melting | 5
+evaporation,evaporates; water | water vapor,gas | oxygen,hydrogen | 5
+physical change; substance | same substance,no new substance | new substance,chemical reaction | 6
+chemical change,chemical reaction; substance | new substance,new substances | same substance,no new substance | 6
+# Mechanics
+force increases; same mass,mass constant | acceleration increases | acceleration decreases | 7
+mass increases; same force,force constant | acceleration decreases | acceleration increases | 7
+mass decreases; same force,force constant | acceleration increases | acceleration decreases | 7
+balanced forces,net force zero | constant velocity,no acceleration,acceleration zero | speed increases,speed decreases | 5
+constant velocity; straight,straight line | balanced forces,net force zero | unbalanced forces | 6
+constant speed; circular,circle,turning | acceleration,direction changes | velocity unchanged,no acceleration | 6
+friction; direction | opposite motion | same direction motion | 7
+friction; moving,sliding,braking | thermal energy,heat,kinetic energy decreases | kinetic energy increases | 5
+rougher,rough; friction,surface | friction increases,greater friction | friction decreases,less friction | 5
+lubricant,lubricating,oil; machine,parts,friction | friction decreases,less friction | friction increases,greater friction | 6
+parachute; opened,opens,opening | air resistance increases,speed decreases | air resistance decreases,speed increases | 6
+vacuum; falling,fall,drop | same acceleration,same rate,same time | heavier faster,lighter faster | 7
+earth to moon,moon compared earth; weight | weight decreases,less weight,less gravity | weight increases,more weight | 6
+moon to earth,earth compared moon; weight | weight increases,more weight,more gravity | weight decreases,less weight | 6
+moon; mass; earth | mass unchanged,same mass | mass decreases,mass increases | 6
+mass; inertia | greater mass,more mass | less mass | 4
+gravity; distance increases,farther apart | force decreases,weaker | force increases,stronger | 7
+gravity; distance decreases,closer | force increases,stronger | force decreases,weaker | 7
+falling,downhill,descends; energy | potential energy decreases | potential energy increases | 6
+falling,downhill,descends; energy; frictionless,negligible air resistance,gravity only; !terminal velocity,!constant speed | kinetic energy increases | kinetic energy decreases | 6
+upward,uphill,climbs; energy; !falling | potential energy increases | potential energy decreases | 6
+thrown upward,ball thrown upward; energy; !rising powered,!engine; !falling | kinetic energy decreases | kinetic energy increases | 6
+speed doubles; kinetic energy | four,quadruples | two,half | 7
+height increases; potential energy | potential energy increases | potential energy decreases | 7
+pendulum; highest | potential energy,least kinetic | greatest kinetic,maximum speed | 6
+pendulum; lowest | kinetic energy,greatest speed | greatest potential,least kinetic | 6
+pendulum; longer,length increases | period increases,frequency decreases,slower | period decreases,frequency increases,faster | 6
+pendulum; mass; same length | period unchanged,same period,same frequency | period increases,period decreases | 6
+inclined plane,ramp; longer,gentler; same height | force decreases,less force,distance increases | force increases,more force | 7
+pulley; fixed | direction | work decreases,energy decreases | 5
+machine; ideal,frictionless | same work,work unchanged,conservation energy | less work,more energy | 5
+lever; fulcrum; closer load | less effort,force decreases | more effort,force increases | 6
+pressure; same force; smaller area | pressure increases | pressure decreases | 7
+pressure; same force; larger area | pressure decreases | pressure increases | 7
+air pressure; altitude increases,higher altitude | pressure decreases | pressure increases | 7
+liquid,water; depth increases,deeper; pressure | pressure increases | pressure decreases | 7
+rocket; gases | opposite,equal force,action reaction | same direction | 6
+seat belt; stops,brakes,collision | inertia,continues moving | gravity,magnetism | 6
+# Electricity, waves, and thermal transfer
+current; voltage increases; resistance constant,same resistance | current increases | current decreases | 7
+current; resistance increases; voltage constant,same voltage | current decreases | current increases | 7
+?series circuit,?series; bulb; breaks,burns,removed,open | all bulbs,no current,stop | other bulbs stay | 6
+?parallel circuit,?parallel; bulb; breaks,burns,removed | other bulbs,independent branches,remain lit | all bulbs stop | 6
+series; bulbs added,more bulbs | brightness decreases,current decreases | brightness increases,current increases | 6
+parallel; branches added,more branches | current increases,resistance decreases | current decreases,resistance increases | 6
+wire; longer; resistance | resistance increases | resistance decreases | 6
+wire; thicker; resistance | resistance decreases | resistance increases | 6
+electromagnet; more turns,more coils,current increases | stronger,magnetic field increases | weaker,magnetic field decreases | 6
+electromagnet; current reversed,reversing current | poles reverse | poles unchanged | 7
+magnet; like poles,same poles | repel | attract | 7
+magnet; opposite poles,unlike poles | attract | repel | 7
+like charges,same charges | repel | attract | 6
+opposite charges,unlike charges | attract | repel | 6
+loses electrons | positive charge,positively charged | negative charge,negatively charged | 6
+gains electrons | negative charge,negatively charged | positive charge,positively charged | 6
+static electricity; rubbed,rubbing | electrons,transfer electrons | protons,neutrons | 6
+sound; louder,loudness increases | amplitude increases,greater amplitude | amplitude decreases,lower amplitude | 6
+sound; higher pitch,pitch increases | frequency increases,higher frequency | frequency decreases,lower frequency | 6
+sound; vacuum,space | cannot travel,no medium | travels faster | 7
+transverse wave | perpendicular | parallel | 6
+longitudinal wave | parallel | perpendicular | 6
+frequency increases; same speed,speed constant | wavelength decreases | wavelength increases | 7
+wavelength increases; same speed,speed constant | frequency decreases | frequency increases | 7
+amplitude increases; wave | energy increases | energy decreases | 6
+light; water,glass; enters; air | refraction,bends | diffraction | 4
+reflection; angle | equal,same | twice,half | 5
+prism; white light | dispersion,different wavelengths,different colors | same wavelength | 6
+echo | reflection,sound reflected | refraction,sound absorbed | 6
+opaque; light | blocks,absorbs,reflects | transmits all | 5
+black,dark; sunlight; warms,heated,temperature | absorbs | reflects most | 5
+white,shiny; sunlight; cool,cooler | reflects | absorbs most | 5
+metal; wooden,wood; same temperature,room temperature | conducts faster,heat transfer,conductivity | lower temperature,higher temperature | 6
+heat transfer; vacuum | radiation | conduction,convection | 7
+conduction | direct contact,collisions | empty space | 5
+convection | moving fluids,currents,density | vacuum | 5
+heat; direction,flows,transfer | hot to cold,higher to lower | cold to hot,lower to higher | 6
+sweat; cooling,cools | evaporation,absorbs heat | condensation,releases heat | 6
+insulation,insulator; keeps,warm,cold,building | reduces heat transfer,trapped air | produces heat,creates energy | 5
+# Biology
+?photosynthesis; ?reactants,?needs,?ingredients | carbon dioxide,water,light energy | oxygen only | 5
+?photosynthesis; ?products,?produces,?releases | oxygen,glucose,sugar | carbon dioxide only | 6
+?respiration; ?products,?produces,?releases | carbon dioxide,water,ATP,energy | oxygen | 5
+photosynthesis; energy | light to chemical,light energy,chemical energy | chemical to light | 5
+plant; dry mass,mass increase,carbon source | carbon dioxide,air | soil only,water only | 6
+plant; darkness,no light,without light | photosynthesis decreases,stored food,respiration | photosynthesis increases | 5
+plant; respiration; night | respiration,oxygen,mitochondria | no respiration | 5
+cell; ?protein synthesis,?makes proteins | ribosome | chloroplast,vacuole | 7
+cell; ?energy release,?ATP,?respiration; ?!photosynthesis; !bacterium,!prokaryote,!prokaryotic | mitochondria | chloroplast,vacuole | 6
+cell; ?genetic material,?genetic information,?controls activities; !bacterium,!prokaryote,!prokaryotic | nucleus,DNA | cell wall,vacuole | 6
+cell; ?photosynthesis | chloroplast | mitochondria,ribosome | 6
+cell; entering leaving,selectively permeable | cell membrane | cell wall,nucleus | 7
+plant; water transport,water movement | xylem | phloem | 7
+plant; sugar transport,food transport | phloem | xylem | 7
+stomata; closes,closed | water loss decreases,transpiration decreases | water loss increases,transpiration increases | 7
+roots; absorb,absorption | water,minerals | sunlight,oxygen only | 5
+salt; plant,wilts,cell; osmosis | water leaves,water loss | water enters | 6
+osmosis | water,selectively permeable | energy required | 4
+diffusion; direction | high concentration to low concentration,down concentration gradient | low concentration to high concentration | 7
+active transport | energy required,ATP,low concentration to high concentration | no energy required | 6
+mitosis; daughter cells | identical,two,same chromosomes | half chromosomes,four different | 6
+meiosis; daughter cells,gametes | half chromosomes,four,different | identical,same chromosomes | 6
+asexual reproduction | identical,one parent,clones | two parents,genetic variation increases | 5
+sexual reproduction | genetic variation,two parents,gametes | identical clones | 5
+inherited trait,hereditary; passed,offspring,parent | DNA,genes,chromosomes | learned skill,scar | 5
+natural selection; resistant,resistance | survive,reproduce,inherited variation | need causes mutation,deliberately change | 5
+natural selection; population | generations,inherited traits,variation | individual decides,acquired trait | 5
+camouflage; benefit,function,helps | hide,predators,blend,avoid detection | digest food | 5
+mimicry; benefit,function | protection,predators | faster digestion | 5
+fish; breathe,respiration,oxygen | gills | lungs | 6
+whale,dolphin; breathe,respiration,oxygen | lungs | gills | 7
+mammal; unique,characteristic,young | milk,hair,fur | feathers,gills | 6
+bird; covering,characteristic | feathers | fur | 6
+insect; legs | six,6 | eight,8 | 7
+spider,arachnid; legs | eight,8 | six,6 | 7
+large surface area; alveoli,villi,root hairs | absorption,diffusion,exchange | reduced exchange | 5
+exercise; heart rate,breathing,muscles | oxygen,respiration,carbon dioxide,energy | oxygen demand decreases | 5
+red blood cells; function | oxygen,hemoglobin | antibodies,clotting | 6
+white blood cells; function | infection,pathogens,immune | oxygen transport,clotting | 6
+platelets; function | clotting,clot | oxygen transport | 6
+kidney; function | blood,waste,urea,urine | digestion | 5
+small intestine; function | absorption,nutrients,digestion | pumps blood | 5
+large intestine; function | water absorption | oxygen exchange | 6
+arteries; direction | away heart | toward heart | 7
+veins; direction | toward heart | away heart | 7
+nervous system; messages | electrical impulses,nerves | hormones only | 5
+endocrine system; messages | hormones,chemical messengers,blood | electrical impulses only | 6
+antibiotic; treat,effective | bacteria | viruses | 6
+vaccine; protection,prevents | antibodies,immune memory | kills all bacteria | 6
+# Ecology and environmental applications
+food chain,food web; energy; original,initial,source | sun,sunlight | soil,water | 5
+food chain,food web; arrows | energy flow,energy transfer,food to consumer | predator to prey | 6
+energy pyramid,trophic level; higher,top | less energy,energy decreases,less biomass | more energy,energy increases | 6
+decomposer; function,role | nutrients,recycle,matter,dead | creates energy | 5
+decomposer; removed,absent,without | dead matter accumulates,nutrient recycling decreases | nutrient recycling increases | 6
+predators; removed,decreases,fewer | prey increases | prey decreases | 5
+prey; decreases,fewer | predators decrease | predators increase | 5
+competition; organisms | same resources,limited resources | unlimited resources | 5
+fertilizer; runoff,pond,lake | algae,oxygen decreases,eutrophication | oxygen increases | 5
+biomagnification; greatest,highest | top predator | producer | 6
+biodiversity; more,greater | stability,resilience,survival | less resilient | 5
+?renewable; energy,source,resource | wind,solar,hydroelectric,geothermal,biomass,tidal | coal,oil,gasoline,uranium,natural gas | 6
+?nonrenewable; energy,source,resource | coal,oil,gasoline,uranium,natural gas | wind,solar,geothermal | 6
+fossil fuel; burning,combustion | carbon dioxide,air pollution,greenhouse gas | oxygen produced | 5
+deforestation; effect,result | erosion increases,carbon dioxide increases,habitat loss | erosion decreases,biodiversity increases | 5
+wetland; benefit,function | flood control,water filtration,habitat | more flooding | 5
+# Earth and space
+sun; rises,rise,sunrise | east | west,north,south | 6
+sun; sets,set,sunset | west | east,north,south | 6
+day,daytime; night,nighttime; cause | rotation | revolution,tilt only | 6
+seasons; cause,reason | tilted axis,axis tilt,revolution | distance sun,rotation only | 6
+moon phases; cause,reason | revolution,positions,reflected sunlight | earth shadow | 6
+moon; light,shines | reflects sunlight | produces light | 6
+solar eclipse | moon between,moon shadow | earth between | 6
+lunar eclipse | earth between,earth shadow | moon between | 6
+tides; cause,reason | gravity,moon | wind only,rotation only | 6
+summer; northern hemisphere | tilted toward,longer daylight,direct sunlight | tilted away | 6
+winter; northern hemisphere | tilted away,shorter daylight | tilted toward | 6
+sun; energy source | nuclear fusion,hydrogen helium | combustion,fission | 6
+star; same luminosity; ?brighter,?brightness increases | closer | farther | 5
+star; same luminosity; ?fainter,?dimmer,?brightness decreases | farther | closer | 5
+light year; measure | distance | time,speed,mass | 7
+weathering; definition,process | breaks rock,breakdown | transport only | 5
+erosion; definition,process | transport,moving sediment | freezing cracks | 5
+deposition; definition,process | sediment settles,drops sediment | picks up sediment | 5
+water; freezes; rock cracks | weathering,expansion | erosion,deposition | 6
+river,stream; slows,velocity decreases | deposition,settles | erosion increases | 5
+river,stream; faster,steeper | erosion,larger particles | deposition increases | 5
+sedimentary rock; formation | compaction,cementation,sediment | magma cooling | 6
+igneous rock; formation | magma cools,lava cools,solidification | heat pressure only | 6
+metamorphic rock; formation | heat pressure | melting completely | 6
+rock; slow cooling | large crystals | small crystals | 6
+rock; fast cooling | small crystals,glassy | large crystals | 6
+undisturbed; rock layers; oldest | bottom,lowest | top,highest | 6
+fossils; marine,shells; mountain,land | underwater,ocean,uplift | always dry | 5
+plate boundary; divergent,apart | new crust,ridge,seafloor spreading | crust destroyed | 6
+plate boundary; convergent,collide; oceanic | subduction,trench | seafloor spreading | 6
+plate boundary; transform,slide | earthquakes | new crust | 6
+earth; ?outer core | liquid | solid | 6
+earth; ?inner core | solid | liquid | 6
+convection; mantle | plate movement,heat,density | moon phases | 5
+water cycle; energy | sun,sunlight | moon gravity | 6
+evaporation; faster,rate increases | warm,dry,windy,large surface area | humid,cold | 5
+clouds; formation | condensation,cooling water vapor | melting | 6
+cold front; weather | thunderstorms,heavy rain,cold air | clear always | 5
+warm front; weather | steady rain,gradual warming | colder always | 5
+?low pressure; weather | clouds,precipitation,rising air | clear dry,sinking air | 5
+?high pressure; weather | clear,dry,sinking air | rising air,stormy | 5
+sea breeze; daytime | ocean to land,sea to land | land to sea | 6
+land breeze; night | land to sea | sea to land | 6
+greenhouse effect; mechanism | infrared,absorbs heat,traps heat | blocks all sunlight | 6
+ozone layer; protects | ultraviolet | infrared,radio waves | 6
+# Inquiry
+controlled experiment; changes | one variable | many variables | 5
+?independent variable | deliberately changed,manipulated | measured response | 6
+?dependent variable | measured response,measured result | deliberately changed | 6
+control group; purpose | comparison,baseline,untreated | receives all treatments | 5
+repeated trials; purpose,reason | reliability,reduce random error | prove absolutely | 5
+larger sample; purpose,reason | reliability,representative,reduce random error | increases bias | 5
+hypothesis; results disagree,not supported | revise,reject,repeat | change data,ignore data | 6
+scientific theory; changed,revised | new evidence,new data | opinion only | 6
+scientific hypothesis; requirement | testable,measurable | untestable | 6
+scientific conclusion; based | data,evidence,observations | personal opinion | 5
+experiment; replicate,repeat; other scientists | detailed procedure,methods | conclusion only | 5
+volume; irregular,rock,stone | water displacement,graduated cylinder | ruler only | 6
+mass; instrument,measure | balance | spring scale,thermometer | 6
+weight,force; instrument,measure | spring scale | balance,thermometer | 6
+lab,laboratory; eye,eyes | goggles | sunglasses | 5
+lab,laboratory; ?avoid,?unsafe,?dangerous | food,drinks,taste,direct sniffing | goggles,gloves,wash hands | 6
+lab,laboratory; ?safe,?safety; ?!avoid,?!unsafe,?!dangerous | goggles,gloves,wash hands | taste chemicals,eating food | 5
+engineering; first step | identify problem,criteria,constraints | mass production | 5
+engineering; prototype | test model,test design | final proof | 5
+model; limitation | simplified,not exact,scale | identical reality | 5
+correlation; causation | does not prove,not necessarily | proves cause | 5

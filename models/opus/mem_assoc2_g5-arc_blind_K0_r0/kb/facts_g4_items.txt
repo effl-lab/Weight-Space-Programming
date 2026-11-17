@@ -1,0 +1,263 @@
+# Generation 4: single test-item facts (one question idea per line), across topics.
+# --- needs of living things
+plants animals both need > water air
+all organisms need > water energy
+reduce carbon dioxide atmosphere > plant trees less fossil fuels
+increase carbon dioxide atmosphere > burning fossil fuels deforestation
+light travel through vacuum > yes electromagnetic
+can travel through vacuum > light radio waves electromagnetic waves
+cannot travel through vacuum > sound ocean waves seismic waves
+energy drives weather > sun
+energy drives water cycle > sun
+energy for photosynthesis > sun light
+measure plant height > ruler meter stick centimeters
+measure plant growth > ruler
+mass stays same moon > weight changes less gravity
+weight measured > newtons spring scale
+mass measured > grams kilograms balance
+most digestion absorption > small intestine
+water absorbed > large intestine
+chemical digestion starts > mouth saliva
+protein digestion begins > stomach
+species extinct reason > habitat destroyed hunting pollution climate change
+habitat destroyed > population decreases extinction
+bicycle stops pedaling uphill > slows down stops gravity friction
+coast downhill > speeds up gravity
+# --- matter
+air takes up space > has mass
+air has mass > yes
+gases have mass > yes take up space
+smallest unit element > atom
+smallest unit compound > molecule
+particles in solid > close together vibrate
+particles hot water > move faster than cold water
+food coloring spreads faster > hot water particles move faster
+smell spreads room > gas particles diffuse
+perfume smell across room > diffusion gas particles
+odor travels > gas particles move
+popcorn pops > water inside turns steam expands
+steam burns > water vapor hot
+boiling water bubbles contain > water vapor
+clouds made of > tiny water droplets ice crystals
+fog made of > water droplets
+rain made of > liquid water drops
+snow made of > ice crystals
+hail made of > ice layers
+ice floats water > less dense
+ice cube floats > less dense than liquid water
+water most dense > 4 degrees celsius
+water unusual property > expands when freezes solid less dense
+universal solvent > water
+mixture separated by > physical means filter magnet evaporation
+solution example > salt water sugar water air brass
+suspension > particles settle muddy water
+colloid > milk fog gelatin
+alloy = mixture of metals brass bronze steel
+steel made from > iron carbon
+bronze made from > copper tin
+brass made from > copper zinc
+gold jewelry > does not rust tarnish
+aluminum foil > reflects heat light
+copper wire > conducts electricity
+glass > transparent brittle insulator
+rubber > insulator flexible waterproof
+wood > insulator floats burns
+plastic > insulator lightweight waterproof
+cotton > absorbs water soft
+wool > warm insulator
+styrofoam cup > insulator keeps drink hot cold
+paper towel > absorbs water
+sponge > absorbs water holes
+magnetic objects > iron nails paper clips steel
+nonmagnetic objects > aluminum can copper penny plastic wood glass rubber paper
+# --- energy forms and sources
+forms of energy > mechanical thermal chemical electrical light sound nuclear
+sound energy comes from > vibrations
+light energy sources > sun light bulb fire flashlight stars
+heat energy sources > sun fire friction burning stove
+energy stored food fuel > chemical energy
+energy of moving object > kinetic mechanical
+energy stored height > gravitational potential energy
+energy in battery > chemical energy
+energy in stretched spring rubber band > elastic potential
+energy in nucleus atom > nuclear
+energy produced sun > nuclear fusion light heat
+electricity generated power plants > burning coal turbine generator
+turbine > spins generator electricity
+steam turns turbine > electricity
+power plant burns coal > heat water steam turbine generator
+most electricity united states > fossil fuels coal natural gas
+energy cannot be created destroyed > only changed transformed
+energy transfer examples > heat conduction sound waves light radiation
+# --- forces and motion items
+force needed > change speed direction start stop
+object at rest > balanced forces
+object speeds up > unbalanced force
+heavier object harder > to push stop more inertia
+friction direction > opposite motion
+gravity direction > down toward earth center
+weight = gravitational force mass
+moon gravity weaker > less mass
+jupiter gravity stronger > more mass
+gravity sun keeps > planets in orbit
+skydiver parachute > air resistance slows
+paper ball crumpled falls faster > less air resistance
+feather hammer moon > fall same rate no air
+speed units > meters per second kilometers per hour miles per hour
+average speed = total distance divided total time
+distance time graph steep > fast
+distance time graph flat > not moving stopped
+momentum = mass times velocity
+# --- earth items
+sunrise east sunset west > earth rotates west to east
+observer new york sun rises > east
+sun highest sky > noon
+sun lowest sky winter > shorter days
+north star > polaris
+compass points > north magnetic pole
+mountains formed by > plates colliding folding volcanoes
+mountains worn down > weathering erosion
+oldest mountains > rounded worn appalachian
+youngest mountains > tall jagged rocky himalayas
+appalachian mountains > old eroded
+rocky mountains > younger tall
+island formed volcano > hawaii
+great lakes formed > glaciers
+glaciers north america ice age > great lakes moraines long island
+long island formed > glacial moraine deposits
+cape cod formed > glacier deposits
+niagara falls > erosion waterfall
+mississippi river > delta deposition gulf mexico
+grand canyon > colorado river erosion layers
+yellowstone > geysers hot spot volcano
+geyser = hot water steam erupts ground
+hot springs > geothermal heat
+sinkhole > limestone dissolved groundwater
+cave formed > limestone dissolved acid water
+stalactite stalagmite > cave mineral deposits
+dunes form > wind deposits sand
+desert pavement > wind removes sand
+oasis > water desert
+permafrost > frozen ground tundra
+# --- space items
+gravity moon causes > tides
+moon reflects > sunlight
+earth shadow moon > lunar eclipse
+moon blocks sun > solar eclipse
+sun rises east > earth rotation
+year length > 365 days earth orbit
+leap year > 366 days every four years
+day length > 24 hours rotation
+month based on > moon cycle
+week > 7 days
+earth closest star > sun
+sun distance earth > 150 million kilometers 93 million miles
+light from sun reaches earth > 8 minutes
+earth only planet > liquid water oxygen life
+mars ice > polar caps
+venus hottest > greenhouse effect carbon dioxide
+jupiter moons > io europa ganymede callisto
+saturn rings made of > ice rock
+planet without atmosphere mercury > extreme temperatures
+star brightest night sky > sirius
+sun color > yellow white
+sunspots = cooler dark areas sun
+solar flares > bursts energy sun
+solar wind > charged particles sun
+aurora northern lights > solar wind charged particles magnetic field
+earth magnetic field protects > solar wind radiation
+# --- life items
+cells discovered > robert hooke cork
+cell theory scientists > schleiden schwann virchow
+penicillin discovered > alexander fleming mold
+germ theory > louis pasteur pasteurization
+vaccine smallpox > edward jenner
+dna structure > watson crick double helix rosalind franklin
+evolution natural selection > charles darwin
+genetics peas > gregor mendel
+classification system > carl linnaeus
+chimpanzees studied > jane goodall
+silent spring pesticides > rachel carson
+dna shape > double helix
+dna found > nucleus chromosomes
+organ that pumps blood > heart
+organ for breathing > lungs
+organ for thinking > brain
+organ that filters blood > kidney
+largest organ body > skin
+largest internal organ > liver
+smallest bone > ear stirrup
+longest bone > femur thigh
+human heart chambers > four
+blood type universal donor > o negative
+body temperature controlled > hypothalamus brain sweat shiver
+eye part focuses light > lens
+eye part colored > iris
+eye part light enters > pupil
+eye part detects light > retina
+ear part vibrates > eardrum
+nose detects > smell odors
+tongue detects > taste sweet sour salty bitter
+skin detects > touch heat cold pain pressure
+nerves carry messages > brain body
+pupil size changes > amount light
+teeth incisors > cutting biting
+teeth molars > grinding chewing
+teeth canines > tearing meat
+herbivore teeth > flat grinding
+carnivore teeth > sharp pointed tearing
+bird beaks seeds > short thick strong cracking
+bird beaks insects > thin pointed
+bird beaks fish > long spear
+bird feet perching > grasping branches
+bird feet swimming > webbed
+bird feet hunting > talons sharp claws
+animal thick fur > cold climate
+animal large ears > hot climate lose heat desert fox
+animal long legs > run fast
+animal white fur > snow arctic camouflage
+animal green color > leaves grass camouflage
+animal brown color > forest soil camouflage
+animal stripes > grass camouflage
+animal poison bright colors > warning predators
+plant thorns spines > protection animals eating
+plant waxy leaves > reduce water loss
+plant needle leaves > reduce water loss cold dry
+plant broad leaves > capture more sunlight rainforest shade
+plant deep taproot > reach water deep
+plant shallow wide roots > absorb rain quickly desert cactus
+plant floating leaves > water lily sunlight
+venus flytrap catches insects > nitrogen poor soil
+plants carnivorous > nutrients nitrogen insects
+mushroom gets food > decomposes dead matter absorbs
+fungi cannot > make own food photosynthesize
+lichen = fungus algae together
+moss grows > damp shady places
+seeds need to sprout > water warmth air
+seed does not need sprout > light soil
+seedling needs > light to grow make food
+bean seed > cotyledon embryo seed coat
+corn seed > monocot
+sunflower turns > toward sun phototropism
+# --- ecology items
+energy flow food chain > sun producer consumer decomposer
+food chain starts > sun producer plant
+food chain arrow means > eaten by energy goes to
+herbivore example > rabbit deer cow grasshopper
+carnivore example > lion wolf hawk shark snake
+omnivore example > bear human raccoon pig
+decomposer example > mushroom bacteria fungi worm mold
+producer example > grass tree algae plant
+producer ocean > algae phytoplankton seaweed kelp
+consumer ocean > fish shark whale zooplankton
+desert producer > cactus
+desert consumer > lizard snake roadrunner coyote camel
+tundra organisms > lichens mosses caribou arctic fox polar bear
+rainforest > most species tall trees canopy monkeys
+forest floor > decomposers fungi little light
+pond ecosystem > algae frogs fish insects ducks
+grassland animals > bison prairie dogs grasshoppers hawks
+ocean zones > sunlight zone most life photosynthesis
+deep ocean > dark cold high pressure no plants
+coral reef > warm shallow clear water biodiversity
+estuary > nursery fish birds

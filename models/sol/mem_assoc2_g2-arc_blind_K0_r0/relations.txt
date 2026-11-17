@@ -1,0 +1,382 @@
+# Relational cues that do not depend on word order.
+# STATE, PARTICLES, CHEMISTRY, AND MEASUREMENT
+3 | liquid shape | variable container flow | fixed rigid
+3 | liquid volume | definite constant | variable
+3 | solid shape | definite fixed | container variable
+3 | solid volume | definite constant | variable
+3 | gas shape | container variable | fixed definite
+3 | gas volume | variable compressible container | definite fixed
+3 | shape volume definite | solid | gas
+3 | fixed volume flow | liquid | gas
+3 | compressed particle | closer less volume | smaller particle
+3 | gas compression | particle closer pressure increase | particle shrink
+3 | gas heated | particle faster pressure expand | slower
+3 | gas cooled | particle slower contract | faster
+3 | solid heat | melt liquid expand | freeze
+3 | liquid heat | evaporation boiling vapor | freezing
+3 | liquid cold | freezing ice solid | boiling
+3 | vapor cold | condensation liquid droplet | evaporation
+3 | gas cold | condensation liquid | evaporation
+3 | ice heat | melting liquid absorb | freeze
+3 | boiling energy | phase vaporization constant temperature | particle hotter
+3 | freezing energy | release thermal solid | absorb
+3 | condensation energy | release thermal liquid | absorb
+3 | sublimation energy | absorb thermal vapor | release
+3 | evaporation energy | absorb thermal cool | release
+3 | melting energy | absorb thermal liquid | release
+3 | thermal equilibrium | equal temperature zero | unequal difference
+2.5 | melting point | characteristic identify solid | depends size
+2.5 | boiling point | characteristic pressure temperature | mass alone
+2.5 | high pressure boiling | increase temperature | decrease
+2.5 | low pressure boiling | decrease temperature | increase
+2.5 | lower density | float buoyancy | sink
+2.5 | higher density | sink | float
+2.5 | density heating | expand decrease | increase
+2.5 | density cooling | contract increase | decrease
+2.5 | ice density | lower water float | higher sink
+2.5 | displaced volume | object water irregular | mass only
+2.5 | floating force | buoyancy gravity balanced |
+2.5 | buoyancy weight equal | float balanced | accelerate
+2.5 | saltwater buoyancy | greater density easier float | less
+2.5 | pressure depth | increase greater | decrease
+2.5 | pressure surface area | inverse greater area less | direct
+2.5 | area snowshoe | pressure less | greater
+2.5 | mass volume ratio | density | temperature
+2.5 | density mass | proportional same volume | unrelated
+2.5 | density volume | inverse same mass | direct
+3 | atom number | proton identity element | neutron
+3 | atomic number | proton identity element | neutron
+3 | mass number | proton neutron total | electron
+3 | neutron number | mass subtract proton | electron
+3 | neutral proton | equal electron | neutron equal
+3 | neutral electron | equal proton | neutron equal
+3 | isotope difference | neutron mass | proton
+3 | same element | proton atomic number | neutron necessarily
+3 | gain electron | negative ion anion | positive cation
+3 | lose electron | positive ion cation | negative anion
+3 | gain proton | different element atomic number | isotope same element
+3 | neutron change | isotope mass | atomic number change
+3 | shared electron | covalent bond | ionic transfer
+3 | transferred electron | ionic bond ion | covalent sharing
+3 | ionic attraction | opposite charged ion | neutron
+3 | metal nonmetal | ionic transfer electron | always covalent
+3 | nonmetal nonmetal | covalent share electron | ionic only
+3 | valence electron | chemical reactivity bond outer shell | nucleus
+3 | full valence | stable noble inert | highly reactive
+3 | periodic column | group similar valence property | same mass
+3 | periodic row | period shell | same valence always
+3 | element arrangement | atomic number increasing proton | alphabet
+2.5 | acid indicator | litmus red | blue
+2.5 | base indicator | litmus blue | red
+2.5 | acidic ph | below seven low | above
+2.5 | basic ph | above seven high | below
+2.5 | neutral ph | seven | one fourteen
+2.5 | acid metal | hydrogen gas | oxygen
+2.5 | acid carbonate | dioxide gas | nitrogen
+2.5 | acid neutralization | base salt water | stronger acid
+2.5 | base neutralization | acid salt water | stronger base
+2.5 | salt sodium chloride | ionic compound | element
+2.5 | sodium chloride | salt nacl ionic | mixture
+2.5 | chloride ion | negative gain electron | positive lose
+2.5 | sodium ion | positive lose electron | negative gain
+2.5 | lithium sodium | alkali metal one valence | noble
+2.5 | fluorine chlorine | halogen reactive nonmetal | noble
+2.5 | helium neon | noble inert stable | highly reactive
+2.5 | alkali water | reactive hydrogen heat | inert
+2.5 | radioactive decay | nucleus unstable radiation | chemical bonding
+2.5 | half life decay | half 50 percent | all 100
+2.5 | two half life | quarter 25 percent | half
+2.5 | fission nucleus | split uranium nuclear energy | combine
+2.5 | fusion nucleus | combine hydrogen helium | split
+2.5 | sun fusion | hydrogen helium nuclear | chemical fuel
+2.5 | closed reaction mass | conserve equal reactant product | disappear
+2.5 | gas escape mass | apparent decrease open | atoms destroyed
+2.5 | rust oxygen | combine chemical iron | physical
+2.5 | rust coat | paint barrier oil water protection | expose
+2.5 | iron filings sand | magnet separation | distillation
+2.5 | sand dissolved | insoluble filter | homogeneous
+2.5 | sugar dissolved | solution soluble homogeneous | filter
+2.5 | dissolved gas heat | solubility decreases bubbles | more soluble
+2.5 | dissolved gas pressure | solubility increases | less soluble
+2.5 | solid solubility heat | usually increase dissolve | always decrease
+2.5 | stirring solution | faster dissolve unchanged solubility | greater equilibrium amount
+2.5 | particle size dissolving | smaller faster surface area | bigger faster
+2.5 | saturated solution | maximum equilibrium solute | infinite solute
+2.5 | saturated evaporation | crystal precipitate | salt vapor
+2.5 | immiscible | oil water separate layers | homogeneous
+2.5 | insoluble mixture | filter suspension settle | true solution
+2.5 | boiling point separate | distillation | magnet
+2.5 | chromatic dye | chromatography | distillation
+2.5 | conductor property | electric heat metal | rubber
+2.5 | malleable | hammer sheet metal | brittle
+2.5 | ductile | draw wire metal | brittle
+2.5 | brittle | break shatter glass | stretch wire
+2.5 | pure substance | element compound definite composition | variable mixture
+2.5 | homogeneous mixture | solution uniform | pure element
+2.5 | heterogeneous mixture | visible components suspension | pure compound
+2.5 | evaporation ocean | freshwater vapor salt remains | salty vapor
+2.5 | mass unit | gram kilogram milligram | liter
+2.5 | volume unit | liter milliliter cubic centimeter | gram
+2.5 | length unit | meter centimeter kilometer | kilogram
+2.5 | metric mass | kilogram gram | fahrenheit
+2.5 | centimeter meter | hundred 100 | thousand
+2.5 | meter millimeter | thousand 1000 | hundred
+2.5 | gram kilogram | thousand 1000 | hundred
+2.5 | liter milliliter | thousand 1000 | hundred
+2.5 | cubic centimeter | milliliter volume | gram mass
+2.5 | water freeze celsius | zero 0 | 100
+2.5 | water boil celsius | hundred 100 | zero
+2.5 | water freeze fahrenheit | 32 | 212
+2.5 | water boil fahrenheit | 212 | 32
+2.5 | water freeze kelvin | 273 | 373
+2.5 | water boil kelvin | 373 | 273
+# MOTION, ENERGY, MACHINES, AND WAVES
+2.5 | balanced motion | constant velocity rest zero acceleration | speed changes
+2.5 | unbalanced motion | acceleration change velocity | constant velocity
+2.5 | direction change | acceleration force | constant velocity
+2.5 | speed increase | accelerate kinetic increase | decelerate
+2.5 | speed decrease | decelerate kinetic decrease | kinetic increase
+2.5 | force increase | acceleration greater same mass | less
+2.5 | mass increase | inertia momentum greater | inertia less
+2.5 | acceleration mass | inverse same force | direct
+2.5 | gravity separation | distance greater weaker | stronger
+2.5 | gravity closer | attraction stronger | weaker
+2.5 | gravity heavier | attraction stronger mass | weaker
+2.5 | free fall vacuum | equal acceleration mass independent | heavier faster
+2.5 | projectile horizontal | gravity downward curved |
+2.5 | circular acceleration | toward center changing direction force |
+2.5 | inertia moving | continue straight constant velocity | stop automatically
+2.5 | inertia resting | remains rest unless unbalanced force | spontaneous motion
+2.5 | momentum collision | conserve closed system | create momentum
+2.5 | collision stopping time | longer smaller force | greater force
+2.5 | rough sliding | friction greater heat | friction lower
+2.5 | smooth sliding | friction lower | friction higher
+2.5 | friction direction | opposite relative motion | always forward
+2.5 | lubricate bearing | reduce friction heat wear | increase friction
+2.5 | spring stretch | elastic potential increase | less energy
+2.5 | spring compress | elastic potential increase | energy disappear
+2.5 | pendulum top | potential high kinetic low zero speed | kinetic high
+2.5 | pendulum bottom | kinetic high potential low speed greatest | kinetic low
+2.5 | roller coaster top | potential high slow | kinetic high
+2.5 | roller coaster bottom | kinetic speed |
+2.5 | falling height | potential decrease kinetic increase | total energy created
+2.5 | rising ball | kinetic decrease potential increase | energy created
+2.5 | moving object energy | kinetic | chemical only
+2.5 | height stored energy | gravitational potential | thermal only
+2.5 | work lifting | force displacement gravity potential energy |
+2.5 | work rate | power watt | joule only
+2.5 | lever effort | longer arm less force | more force
+2.5 | ramp steepness | steeper greater force shorter distance | less force
+2.5 | ramp gentle | less force longer distance | energy creation
+2.5 | pulley rope | change direction mechanical advantage | reduce ideal work
+2.5 | wheel rolling | less friction | more friction
+2.5 | machine input output | efficiency useful work energy | energy created
+2.5 | efficiency loss | friction heat sound | energy destroyed
+2.5 | battery chemical | electrical energy current | nuclear
+2.5 | generator rotation | mechanical electrical induction | chemical only
+2.5 | motor current | electrical mechanical rotation | nuclear
+2.5 | speaker current | electrical sound vibration | light only
+2.5 | microphone vibration | sound electrical | nuclear
+2.5 | toaster current | electrical thermal heat | nuclear
+2.5 | solar cell | light electrical photovoltaic | chemical burning
+2.5 | plant energy conversion | light chemical photosynthesis | electrical sound
+2.5 | respiration energy conversion | chemical usable atp thermal | light
+2.5 | coal electricity | chemical thermal mechanical electrical | nuclear
+2.5 | dam electricity | potential kinetic mechanical electrical | chemical
+2.5 | warm cool contact | thermal transfer equilibrium | cold energy flowing
+2.5 | heat insulation | reduce conduction convection trapped air | create thermal energy
+2.5 | wool feather air | insulator trap air | metal conductor
+2.5 | silver shiny heat | reflect radiation | absorb all
+2.5 | black dull heat | absorb radiation | reflect all
+2.5 | sea breeze cause | land heats faster cool ocean air | moon phase
+2.5 | land breeze cause | land cools faster | ocean cools faster
+2.5 | heat capacity water | high coastal moderate climate | low rapid warming
+2.5 | current resistance | inverse same voltage | directly proportional
+2.5 | current voltage | directly proportional same resistance | inverse
+2.5 | thick wire | lower resistance | higher
+2.5 | long wire | higher resistance | lower
+2.5 | electric circuit gap | open current stops | current flows
+2.5 | series circuit break | all bulbs off | independent on
+2.5 | parallel circuit break | other branches work | all bulbs off
+2.5 | electromagnet coil | more turns stronger field | weaker
+2.5 | electromagnet current | greater stronger field | weaker
+2.5 | moving magnet wire | induced current | stationary charge only
+2.5 | same pole | repel | attract
+2.5 | opposite pole | attract | repel
+2.5 | magnet halves | each north south | only one pole
+2.5 | sound pitch frequency | higher faster vibration | larger amplitude necessarily
+2.5 | sound loud amplitude | greater energy | higher pitch necessarily
+2.5 | sound material speed | solid fastest gas slower | vacuum fastest
+2.5 | approaching source sound | doppler higher pitch | lower pitch
+2.5 | receding source sound | doppler lower pitch | higher pitch
+2.5 | shorter string | higher pitch frequency | lower
+2.5 | tighter string | higher pitch frequency | lower
+2.5 | wave crest | highest displacement | lowest
+2.5 | wave trough | lowest displacement | highest
+2.5 | amplitude displacement | maximum rest distance | wavelength
+2.5 | wavelength crest | distance adjacent crest | height
+2.5 | wave frequency period | inverse | directly proportional
+2.5 | wave frequency speed | wavelength inverse constant | energy conservation violated
+2.5 | sound frequency hertz | cycles second | meter
+2.5 | transverse oscillation | perpendicular propagation | parallel
+2.5 | longitudinal oscillation | parallel propagation compression | perpendicular
+2.5 | wave medium | particle oscillation energy | permanent bulk movement
+2.5 | constructive interference | amplitude increase waves add | cancel
+2.5 | destructive interference | amplitude decrease cancellation | always add
+2.5 | resonance | natural frequency large amplitude vibration |
+2.5 | reflection angle | equal incidence | arbitrary
+2.5 | refraction speed | medium change bend | unchanged medium only
+2.5 | convex lens focus | converge light magnify | diverge
+2.5 | concave lens focus | diverge spread light | converge
+2.5 | convex mirror image | smaller upright wide view | enlarged real
+2.5 | concave mirror focus | converge | diverge
+2.5 | white object | reflect colors | absorb all
+2.5 | black object | absorb colors heat | reflect all
+2.5 | red object | reflected red absorbed other | emitted own light
+2.5 | blue object | reflected blue | emitted
+2.5 | green plant color | reflect green chlorophyll | absorb green only
+2.5 | opaque material | block shadow | transmit
+2.5 | translucent material | scatter transmit blurry | clear image
+2.5 | transparent material | transmit clear image | block
+2.5 | ultraviolet wavelength | shorter visible higher energy | longer infrared
+2.5 | infrared wavelength | longer visible thermal | shortest gamma
+2.5 | gamma frequency | highest energy shortest wavelength | lowest
+# FURTHER BIOLOGICAL RELATIONS
+2.5 | dead organism | decomposer once living organic nutrient | inorganic
+2.5 | nonliving example | rock water air sunlight | growing reproducing cell
+2.5 | living characteristic | cell metabolism reproduction growth response | mineral only
+2.5 | cell divide growth | mitosis | meiosis
+2.5 | gamete divide | meiosis half chromosome | mitosis identical
+2.5 | human chromosome | 46 diploid | 23 haploid
+2.5 | human gamete | 23 haploid | 46 diploid
+2.5 | human sperm | 23 chromosome haploid | 46
+2.5 | human egg | 23 chromosome haploid | 46
+2.5 | human fertilization | 46 diploid | 23 haploid
+2.5 | heterozygous recessive | quarter 25 percent | 75
+2.5 | heterozygous dominant | 75 three quarter percent | 25
+2.5 | recessive expressed | homozygous two allele | heterozygous
+2.5 | genotype environment | phenotype observable expression | always identical
+2.5 | somatic mutation | individual body cell | always inherited
+2.5 | gamete mutation | inherited offspring | somatic
+2.5 | meiosis variation | recombination crossing chromosome assortment | identical clone
+2.5 | asexual variation | mutation | two parents recombination
+2.5 | clone parent | identical genetic | necessarily identical environment
+2.5 | environment inherited | selection population generation | purposeful mutation
+2.5 | natural selection survival | favorable inherited trait reproduce | acquired need
+2.5 | population evolve | generations inherited variation | single individual choice
+2.5 | dna similarity | common ancestor closely related | unrelated necessarily
+2.5 | acquired scar | environment acquired | inherited gene
+2.5 | learned trick | experience training | instinct gene
+2.5 | innate response | inherited instinct | training necessary
+2.5 | antibiotic resistant | survival reproduction selection | all become resistant purposely
+2.5 | camouflage survive | avoid predator blend background | digestion rate
+2.5 | mimicry survive | resemble harmful species warning | make food
+2.5 | hibernation respiration | decreased metabolism conserve energy | faster activity
+2.5 | migration season | food mating suitable temperature | extinction
+2.5 | active night desert | avoid heat water conserve | highest daylight activity
+2.5 | fish warm | less dissolved oxygen stress | greater oxygen
+2.5 | food nutrient cycles | decomposer recycle matter | energy recycled fully
+2.5 | ecosystem energy flow | sunlight producer consumer heat | closed energy cycle
+2.5 | producer biomass | base pyramid greatest | least
+2.5 | predator biomass | upper pyramid smaller | greatest
+2.5 | trophic transfer | ten 10 percent heat loss | 100 percent
+2.5 | remove decomposer | dead accumulation fewer nutrients | faster nutrient recycling
+2.5 | predator loss | prey increase | prey decline
+2.5 | predator growth | prey decline | prey increase
+2.5 | prey loss | predator decline food shortage | predator increase
+2.5 | herbivore growth | producer decline competition | plant increase
+2.5 | limited resources | carrying capacity competition | indefinite growth
+2.5 | niche overlap | competition increase interaction |
+2.5 | population immigration | increase | decrease
+2.5 | population emigration | decrease | increase
+2.5 | population birth | increase | decrease
+2.5 | population death | decrease | increase
+2.5 | biodiversity loss | extinction habitat destruction pollution | all improve
+2.5 | primary succession substrate | bare rock lichen soil formation | existing rich soil
+2.5 | secondary succession substrate | existing soil | bare rock only
+# EARTH HISTORY AND SPACE RELATIONS
+2.5 | study fossil | paleontology paleontologist | meteorologist
+2.5 | study rock | geology geologist | astronomer
+2.5 | study weather | meteorology meteorologist | paleontologist
+2.5 | study space | astronomy astronomer | botanist
+2.5 | study plant | botany botanist | physicist
+2.5 | study animal | zoology zoologist | geologist
+2.5 | oldest layer | bottom superposition | top
+2.5 | youngest layer | top superposition | bottom
+2.5 | intrusion crosscut | younger rock cut | older
+2.5 | fossil widespread short | index fossil correlation | local long lived
+2.5 | radioactive date | absolute age half life | relative only
+2.5 | fossil order | relative age succession | exact age necessarily
+2.5 | dinosaur era | mesozoic | cenozoic
+2.5 | mammal era | cenozoic | precambrian
+2.5 | trilobite | paleozoic marine fossil | modern mammal
+2.5 | oldest life | simple bacteria unicellular aquatic | flowering plant
+2.5 | plate divergent | apart magma ridge new crust | collide
+2.5 | plate convergent | collide trench mountain subduction | apart
+2.5 | plate transform | slide sideways fault earthquake | new crust always
+2.5 | ocean plate dense | subduction sink mantle | float above continent
+2.5 | mantle convection | heat drives plate movement | wind drives plate
+2.5 | earthquake wave liquid | p longitudinal | s transverse
+2.5 | granite slow | large crystal intrusive | small glass
+2.5 | basalt fast | small crystal extrusive | large crystal
+2.5 | limestone metamorphic | marble heat pressure | basalt
+2.5 | shale metamorphic | slate heat pressure | granite
+2.5 | sandstone metamorphic | quartzite heat pressure | limestone
+2.5 | soil particle smallest | clay | sand
+2.5 | soil particle largest | sand | clay
+2.5 | soil water retention | clay humus | coarse gravel
+2.5 | soil fast drainage | sand gravel | clay
+2.5 | soil organic | humus decomposed nutrient | bedrock
+2.5 | weathering ice | expansion cracks physical | erosion transport only
+2.5 | weathering acid | dissolve chemical limestone | physical abrasion only
+2.5 | erosion flow | sediment transport water wind ice | stationary cracking
+2.5 | deposition flow | slow settle sediment | faster always
+2.5 | river mouth | delta sediment | glacier
+2.5 | ocean salinity evaporation | salt concentration increase | freshwater increase
+2.5 | ocean salinity melting | freshwater dilute decrease | salt increase
+2.5 | cold salty water | dense sink deep current | rise buoyant
+2.5 | warm surface water | low density | highest density
+2.5 | upwelling nutrient | cold deep productive plankton | nutrient poor
+2.5 | rain shadow side | leeward dry | windward dry
+2.5 | prevailing wind mountain | windward precipitation leeward dry | uniform
+2.5 | pressure wind | high low air movement | low high
+2.5 | saturated cooling air | condensation cloud | evaporation only
+2.5 | tropical cyclone fuel | warm ocean evaporation latent heat | cold dry land
+2.5 | tornado funnel | rotating thunderstorm | hurricane eye only
+2.5 | cold front uplift | fast cold dense storm | warm air sinks
+2.5 | warm front uplift | gradual warm over cold steady rain | cold rises
+2.5 | dewpoint cooling | saturation condensation | boiling
+2.5 | altitude air | lower pressure density | higher pressure
+2.5 | earth axis tilted | season sun angle day length | orbit distance primary
+2.5 | summer day length | longer direct sunlight | shorter indirect
+2.5 | winter day length | shorter indirect sunlight | longer direct
+2.5 | equinox daylight | equal twelve hour | longest day
+2.5 | solstice daylight | maximum minimum summer winter | always equal
+2.5 | moon rotation period | same revolution face synchronous |
+2.5 | waxing illumination | increase | decrease
+2.5 | waning illumination | decrease | increase
+2.5 | gibbous illumination | more half | less half
+2.5 | crescent illumination | less half | more half
+2.5 | lunar eclipse phase | full moon earth shadow | new
+2.5 | solar eclipse phase | new moon moon shadow | full
+2.5 | spring tide alignment | sun earth moon line larger range | quarter
+2.5 | neap tide alignment | right angle quarter smaller range | full
+2.5 | planet orbit farther | longer year slower colder | shorter year
+2.5 | mercury planet | rocky closest short year | gas giant
+2.5 | venus temperature | greenhouse dioxide thick atmosphere hottest | nearest sun necessarily
+2.5 | mars surface | iron oxide red | liquid ocean most
+2.5 | jupiter size | largest gas giant | smallest rocky
+2.5 | saturn rings | ice rock particles gas giant | solid continuous disk
+2.5 | star temperature color | blue hotter red cooler | red hotter
+2.5 | star apparent brightness | distance luminosity | size alone
+2.5 | comet tail direction | away sun solar wind | toward sun
+2.5 | meteoroid atmosphere | meteor glowing streak | meteorite ground
+2.5 | meteoroid ground | meteorite impact | meteor only
+2.5 | asteroid composition | rock metal | mainly gas plasma
+2.5 | comet composition | ice dust | pure metal
+2.5 | star life main | hydrogen fusion stable | coal burning
+2.5 | sun later life | red giant white dwarf | massive supernova black hole
+2.5 | massive star later | supernova neutron star black hole | small planet
+2.5 | galaxy motion redshift | away expansion | toward contraction
+2.5 | space vacuum sound | absent blocked | propagate travel
+2.5 | space vacuum light | electromagnetic propagates transmission | medium required

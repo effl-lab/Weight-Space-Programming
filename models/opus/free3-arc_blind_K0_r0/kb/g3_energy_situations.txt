@@ -1,0 +1,124 @@
+# energy changes in everyday devices and situations (one device per line)
+A magnifying glass focuses sunlight to a small spot, changing light energy into thermal energy that can burn paper.
+A solar oven collects sunlight and changes light energy into thermal energy to cook food.
+A solar water heater changes light energy from the Sun into thermal energy in water.
+A solar cell or solar panel changes light energy into electrical energy.
+A solar-powered calculator changes light energy into electrical energy.
+A battery changes stored chemical energy into electrical energy.
+A flashlight changes chemical energy in the battery into electrical energy and then into light energy.
+A battery-powered radio changes chemical energy into electrical energy and then into sound energy.
+A light bulb changes electrical energy into light energy and thermal energy.
+An incandescent bulb wastes most of its electrical energy as heat; an LED bulb changes more of it into light.
+An electric fan changes electrical energy into mechanical energy of motion.
+An electric motor changes electrical energy into mechanical energy.
+A generator changes mechanical energy into electrical energy.
+A wind turbine changes the kinetic energy of moving air into electrical energy.
+A water wheel or hydroelectric dam changes the energy of falling or moving water into mechanical and electrical energy.
+A hair dryer changes electrical energy into thermal energy and kinetic energy of moving air.
+A toaster changes electrical energy into thermal energy.
+An electric stove changes electrical energy into thermal energy.
+An electric heater changes electrical energy into heat.
+A microwave oven changes electrical energy into microwave radiation that heats the water in food.
+A speaker or loudspeaker changes electrical energy into sound energy.
+A microphone changes sound energy into electrical energy.
+A doorbell changes electrical energy into sound energy.
+A television changes electrical energy into light and sound energy.
+A guitar string changes mechanical energy into sound energy when it is plucked.
+A drum changes the mechanical energy of the drumstick into sound energy.
+Clapping hands changes mechanical energy into sound energy.
+Rubbing hands together changes mechanical energy into thermal energy because of friction.
+Striking a match changes chemical energy into thermal energy and light energy.
+A candle changes chemical energy in wax into light energy and thermal energy.
+A campfire changes chemical energy in wood into thermal energy and light energy.
+A gas stove burns natural gas, changing chemical energy into thermal energy.
+A car engine burns gasoline, changing chemical energy into thermal energy and mechanical energy of motion.
+A person riding a bicycle changes chemical energy from food into mechanical energy.
+Muscles change chemical energy from food into mechanical energy and heat.
+Plants change light energy into chemical energy during photosynthesis.
+Food stores chemical energy that came from the Sun through plants.
+When a person eats food, the body changes the chemical energy in food into energy for movement and heat.
+A firecracker changes chemical energy into sound, light and thermal energy.
+Glow sticks change chemical energy into light energy.
+Fireflies change chemical energy into light energy.
+A wind-up toy stores elastic potential energy in a spring and changes it into kinetic energy.
+A stretched rubber band or a compressed spring stores elastic potential energy.
+A bow pulled back stores elastic potential energy that becomes kinetic energy of the arrow.
+A ball at the top of a hill has gravitational potential energy that changes into kinetic energy as it rolls down.
+A roller coaster has the most potential energy at the top of the highest hill and the most kinetic energy at the bottom.
+As a skateboarder rolls down a ramp, potential energy changes into kinetic energy.
+As a ball is thrown upward, its kinetic energy changes into potential energy and it slows down.
+When a ball is dropped, its potential energy changes into kinetic energy as it falls faster.
+A swinging pendulum changes potential energy into kinetic energy and back again.
+Water stored behind a dam has potential energy.
+A falling object gains kinetic energy and loses potential energy.
+Water at the top of a waterfall has potential energy that becomes kinetic energy as it falls.
+Nuclear power plants change nuclear energy into thermal energy and then into electrical energy.
+The Sun changes nuclear energy into light and heat by nuclear fusion.
+Geothermal power plants use heat from inside Earth to make electricity.
+A thermometer works because the liquid inside expands when it is heated and contracts when it is cooled.
+A thermostat turns a heater on and off to keep a room at a set temperature.
+A refrigerator moves thermal energy from inside the refrigerator to the air outside it.
+In every energy change some energy is changed into heat that spreads out and is not useful.
+Energy cannot be created or destroyed; it only changes from one form to another.
+When a moving car brakes, its kinetic energy changes into thermal energy in the brakes.
+When a bouncing ball loses height, its energy has changed into heat and sound.
+A moving object has kinetic energy; the faster it moves and the more mass it has, the more kinetic energy it has.
+A heavier truck moving at the same speed as a car has more kinetic energy than the car.
+An object raised higher has more gravitational potential energy.
+A book on a high shelf has more potential energy than a book on a low shelf.
+Electrical energy is the energy of moving electric charges.
+Radiant energy or light energy travels as electromagnetic waves and can move through empty space.
+Thermal energy is the energy of moving particles in a substance; hotter objects have more thermal energy.
+Sound energy is carried by vibrations that travel through matter.
+Chemical energy is stored in the bonds between atoms in substances such as food, fuel and batteries.
+Mechanical energy is the energy of motion and position of an object.
+Nuclear energy is stored in the nucleus of an atom.
+
+# heat transfer situations
+Heat always flows from a warmer object to a cooler object until they reach the same temperature.
+When a hot object touches a cold object, thermal energy moves from the hot object to the cold object.
+When a person holds an ice cube, heat moves from the hand to the ice, so the ice melts and the hand feels cold.
+A metal spoon in hot soup gets hot by conduction.
+A pan on a stove is heated by conduction from the burner.
+Touching a hot stove burns the hand by conduction.
+Conduction is the transfer of heat by direct contact between objects or particles.
+Convection is the transfer of heat by the movement of a fluid such as air or water; warm fluid rises and cool fluid sinks.
+Boiling water in a pot circulates by convection currents.
+A room is warmed by convection when warm air from a heater rises and cooler air sinks.
+Radiation is the transfer of energy by electromagnetic waves; it does not need matter.
+The Sun warms Earth by radiation.
+Heat from a campfire felt on the face is radiation.
+Heat lamps keep food warm by radiation.
+Metals such as copper, aluminum and iron are good conductors of heat.
+Wood, plastic, rubber, cloth, foam, air and glass are poor conductors of heat, called insulators.
+Pot handles are made of plastic or wood because these are insulators that keep heat from reaching the hand.
+Cooking pots are made of metal because metal conducts heat well to the food.
+A metal object feels colder than a wooden object at the same temperature because metal conducts heat away from the hand faster.
+A tile floor feels colder than a carpet at the same temperature because tile conducts heat away from the feet faster.
+Ice melts faster on a metal tray than on a plastic tray because metal conducts heat from the air and table to the ice faster.
+A thermos or vacuum flask keeps drinks hot or cold because the vacuum between its walls stops conduction and convection.
+A foam cup keeps a drink hot longer than a metal cup because foam is an insulator.
+A wool blanket or a coat keeps a person warm by trapping air, which slows the loss of body heat.
+Insulation in the walls and attic of a house keeps heat inside in winter and outside in summer.
+Double-pane windows have a layer of air or gas between the glass that reduces heat loss.
+Animals with thick fur or feathers stay warm because fur and feathers trap air that insulates them.
+Blubber, a thick layer of fat, insulates whales, seals and polar bears in cold water.
+Dark colors absorb more sunlight and get hotter than light colors.
+White and light-colored clothing reflects sunlight and keeps a person cooler in summer.
+Black clothing absorbs more light and gets warmer in the Sun than white clothing.
+Shiny surfaces such as aluminum foil reflect heat.
+A dark-colored car gets hotter inside in the sunlight than a white car.
+Asphalt and pavement absorb sunlight and become much hotter than grass on a sunny day.
+Sand on a beach gets hotter than the water during the day because land heats faster than water.
+Water heats up and cools down more slowly than land, so oceans keep coastal climates milder.
+Water has a high specific heat; it takes a lot of energy to change its temperature.
+Evaporation cools a surface because the evaporating water takes heat energy with it.
+Sweating cools the body because heat from the skin is used to evaporate the sweat.
+Dogs pant to cool off by evaporation from the tongue and mouth.
+Blowing on hot soup cools it by speeding up evaporation and moving warm air away.
+Wind makes a person feel colder because it carries body heat away faster; this is called wind chill.
+Adding ice to a warm drink cools the drink because heat moves from the drink into the ice.
+When two equal amounts of water at different temperatures are mixed, the final temperature is between the two temperatures.
+Heating a substance makes its particles move faster; cooling makes them move slower.
+Temperature is a measure of the average kinetic energy of the particles of a substance.
+The thermal energy of an object depends on its temperature and its mass; a bathtub of warm water has more thermal energy than a cup of hot water.

@@ -1,0 +1,473 @@
+# Generation 2: additional authored elementary and middle-school science.
+# These are knowledge statements, not copied assessment questions.
+# Life processes and classification
+living organism repair | cells divide; mitosis | meiosis only
+living organism energy need | metabolism; cellular_respiration; food | motion only
+living organism growth | cell division; cell enlargement | atom creation
+living organism reproduce purpose | continuation species; offspring | individual immortality
+species individual reproduction | population continuation | every individual must reproduce to survive
+single cell organism function | all life processes one cell | organ systems required
+multicellular specialized cell | division labor; different functions | every cell same function
+cell tissue difference | tissue group cells | cell group organs
+organ organelle difference | organ tissues; organelle cell structure | same size
+plant root chloroplast | usually absent; no light underground | every root photosynthesizes
+root function | absorb water mineral; anchor plant; store food | make pollen; absorb sunlight
+root soil removal | plant unstable; less water mineral | more photosynthesis
+stem function | support leaves; transport water sugar | make pollen
+leaf vein | transport water sugar; vascular tissue | reproductive gamete
+leaf waxy cuticle | reduces water loss; waterproof barrier | increases evaporation
+leaf stomata lower surface | gas exchange; water_vapor escape | absorb soil mineral
+stomata open | carbon_dioxide enters; oxygen water_vapor exit | no gas exchange
+guard cell water loss | stomata close; conserve water | open wider
+plant tissue meristem | cell division; growth | nerve transmission
+plant tuber | store carbohydrate; asexual reproduction; potato | animal reproduction
+bulb plant | food storage; underground shoot | flower pollen only
+strawberry runner | asexual reproduction; clone | seed fertilization
+potato eye | bud; new shoot; vegetative reproduction | animal sense organ
+grafting plant | join tissue; desirable varieties | combine every gene randomly
+seed dormant | low metabolism; unfavorable conditions | dead necessarily
+seed germination starch | stored food supplies energy | photosynthesis before leaves only
+seed germination oxygen | cellular_respiration; release stored energy | make chlorophyll directly
+seed germination darkness | stored food permits growth | all seeds require sunlight
+seed dispersal wind | lightweight; wings; parachute hairs | heavy solid shell only
+seed dispersal water | floats; waterproof coat | hooks fur only
+seed dispersal animal | hooks; edible fruit; carry seeds | roots absorb sunlight
+pollen fertilization difference | transfer pollen versus union gametes | identical processes
+flower anther | produce pollen; male reproductive | contains ovules
+flower filament | support anther | receives pollen
+flower stigma | receives pollen; sticky | produces sperm only
+flower style | pollen tube path; connects stigma ovary | root water absorption
+flower ovule fertilized | seed | leaf
+flower ovary fertilized | fruit | pollen
+petal removed pollination | fewer insects attracted | no water uptake roots
+wind pollinated flower | small inconspicuous flowers; abundant light pollen | large nectar petals required
+bee pollen legs | transfer pollen flower flower | make seeds inside bee
+nectar flower | food reward pollinator | genetic material
+insect complete metamorphosis larva | feeding growth | sexually mature reproduction
+insect pupa | transformation adult structures | egg production adult
+insect incomplete metamorphosis nymph | resembles small adult; molts | pupa stage
+tadpole adult frog change | tail absorbed; legs lungs develop | becomes reptile
+dragonfly life cycle | egg nymph adult | pupa
+beetle life cycle | egg larva pupa adult | nymph only
+mosquito life cycle | larvae water; complete metamorphosis | live birth mammal
+animal external fertilization | water; fish frog eggs | all mammals
+internal fertilization | gametes join body; protects gametes | always external water
+amniotic egg | protects embryo; reproduction land | requires open water always
+bird egg shell | protection; gas exchange pores | completely airtight
+mammal placenta | nutrient oxygen exchange; embryo development | produces photosynthesis
+mammal newborn milk | nutrition; mammary glands | gills
+marsupial | pouch development; kangaroo opossum | bird
+monotreme | egg laying mammal; platypus echidna | reptile
+dolphin whale surface | breathe air; lungs | take water through gills
+whale blowhole | breathing; air to lungs | food digestion
+seal blubber | insulation; energy storage | photosynthesis
+penguin feathers | insulation; waterproofing | fur mammal
+fish swim_bladder | buoyancy; control depth | pump blood
+fish lateral_line | detect vibrations water | produce oxygen
+earthworm skin | moist gas exchange; diffusion | dry waterproof scales
+earthworm soil benefit | aeration; nutrient cycling; mixing | destroys all roots
+insect breathing | spiracles; tracheal tubes | lungs like mammal
+spider insect difference | eight legs versus six legs | both six legs
+arthropod growth | molt exoskeleton | stretch rigid shell indefinitely
+shell crab molting | permits growth; vulnerable temporarily | produces backbone
+sponge animal | filter feeder; multicellular | photosynthesis plant
+jellyfish body | radial symmetry; stinging cells | backbone
+coral animal | polyp; symbiotic algae; reef | plant root
+clam mussel oyster | mollusk; filter feeding; shell | arthropod
+snail slug | mollusk; muscular foot | insect
+octopus squid | mollusk; invertebrate; tentacle | fish backbone
+worm flatworm regeneration | regrow body parts; cell division | photosynthesis
+bacteria archaea nucleus | absent; prokaryote | membrane bounded nucleus
+bacteria cell wall | shape protection | always chloroplast
+bacteria food production | some photosynthesis; some chemosynthesis | all identical feeding
+deep ocean vent producer | chemosynthesis; chemical energy | direct sunlight
+cyanobacteria | photosynthetic bacteria; oxygen | animal
+algae aquatic producer | photosynthesis; food_web base | all decomposer
+fungus cell wall | chitin; support | cellulose always
+fungus nutrition | external digestion; absorb nutrients | all photosynthesis
+mold bread | fungus; consumes organic material | plant makes sunlight food
+yeast warm sugar | fermentation; carbon_dioxide bubbles | oxygen production photosynthesis
+fermentation bread rise | carbon_dioxide trapped dough | nitrogen fixation
+yeast boiling water | cells die; enzymes denature | reproduction indefinitely faster
+decomposer darkness | chemical energy dead matter | direct sunlight required
+microorganism food production | yogurt; cheese; fermentation | all microbes harmful
+bacteria digestive tract | aid digestion; vitamin production | always disease
+virus living debate | requires host reproduction; not made cells | independent metabolism
+virus reproduce | genetic material enters host; host machinery | binary fission alone
+antibiotic overuse | selects resistant bacteria | strengthens every immune cell
+bacterial resistant population | survivors reproduce inherited resistance | individual need creates mutation
+hand sanitizer | reduce microbes; prevent transmission | removes every possible pathogen
+boiling drinking water | kills many pathogens | removes dissolved salt completely
+mosquito disease vector | carries pathogens between hosts | disease always inherited
+malaria | protist parasite; mosquito transmission | vitamin deficiency
+infectious disease spread | pathogen transfer; contaminated water air contact | eye color inheritance
+allergy | immune reaction harmless substance | always bacterial infection
+immune memory | faster response later exposure | prevents all disease forever
+organ transplant rejection | immune response foreign tissue | photosynthesis
+skin cut infection | barrier broken; pathogens enter | more chloroplasts
+mucus cilia respiratory | trap remove particles pathogens | digest protein
+alveoli surface_area | more efficient gas exchange | less diffusion
+diaphragm contracts | chest expands; pressure decreases; inhale | chest shrinks exhale
+diaphragm relaxes | chest volume decreases; exhale | pressure decreases inhale
+respiration breathing difference | cell energy release versus air movement | exactly same process
+exercise muscle respiration | oxygen demand increases; carbon_dioxide production increases | oxygen demand decreases
+muscle fatigue | energy demand; metabolic products | muscle becomes bone
+aerobic exercise adaptation | heart efficiency; stronger muscle | lungs make oxygen
+blood clot platelets | prevents blood loss | carries oxygen primarily
+white_blood_cell nucleus | immune defense | oxygen pigment only
+red_blood_cell biconcave | surface area; oxygen exchange | photosynthesis
+artery vein definition | away heart versus toward heart | always oxygenated versus deoxygenated
+pulmonary artery | deoxygenated blood heart lungs | oxygenated blood lungs heart
+pulmonary vein | oxygenated blood lungs heart | deoxygenated blood heart lungs
+capillary thin wall | diffusion nutrients gases | prevent material exchange
+heart valve | prevents backflow | exchanges oxygen with air
+double circulation | lung circuit body circuit | blood never returns heart
+lymph nodes | filter lymph; immune cells | digest fats only
+lymphatic vessels | return tissue fluid blood | carry air lungs
+saliva amylase | starch digestion; enzyme | break bone
+chewing food | mechanical digestion; surface area increases | no physical change
+peristalsis | muscle waves; move food digestive tract | diffusion blood only
+stomach acid | protein digestion; kill microbes | carbohydrate absorption primarily
+small_intestine villi microvilli | increase area; absorb nutrient | reduce area
+large_intestine bacteria | vitamin production; decomposition remaining material | photosynthesis
+liver glycogen | stores glucose; blood sugar regulation | pumps blood
+pancreas insulin | lower blood glucose | increase blood glucose
+pancreas glucagon | increase blood glucose | decrease blood glucose
+kidney nephron | filter blood; reabsorb needed substances | digest stomach food
+urinary bladder | stores urine | produces urine from blood
+ureter | kidney to bladder | bladder outside body
+urethra | urine exits body | food to stomach
+dehydration urine | smaller volume; more concentrated | more dilute always
+dehydration body | water shortage; homeostasis disrupted | excess oxygen only
+kidney failure | wastes accumulate blood | more efficient filtration
+skin sweating | cools by evaporation | cooling by freezing sweat
+skin vessel dilate | release more heat | retain more heat
+skin vessel constrict | conserve heat | increase heat loss
+shivering cold | muscle work releases heat | increases photosynthesis
+reflex arc | receptor sensory nerve spinal_cord motor nerve muscle | always conscious decision first
+brain cerebellum | balance coordination | digest food
+brain cerebrum | thinking memory voluntary movement | filtration urine
+brain stem | breathing heartbeat automatic functions | bone formation
+spinal_cord protection | vertebrae | ribs only
+rib cage | protects heart lungs | protects kidney only
+skull | protects brain | digests food
+tendon ligament difference | muscle bone versus bone bone | same attachment always
+skeletal muscular interaction | muscles pull bones at joints | bones contract themselves
+antagonistic muscle | one contracts other relaxes | muscles push directly
+pupil iris | iris controls amount light | retina controls blood pressure
+retina rods cones | photoreceptors; light detection | sound receptors
+optic nerve | visual signal brain | pumps blood eye
+ear cochlea | vibrations to nerve signals | maintains bone strength
+ear semicircular canal | balance; head motion | digestion
+eardrum | vibrates sound waves | reflects all sound
+sense taste smell | chemical molecules receptors | magnetic poles only
+# Genetics, adaptation and ecology
+chromosome gene dna order | chromosome contains dna genes; gene segment dna | gene contains many cells
+protein gene expression | dna instructions; amino acids | all genes make lipid directly
+different cell same organism dna | same genes; different genes expressed | always entirely different genetic code
+body cell mutation inheritance | usually not passed offspring | always inherited
+gamete mutation inheritance | may pass offspring | never passed
+meiosis chromosome reduction | prevents doubling each generation | doubles gamete chromosome
+fertilization chromosome number | restores paired chromosomes | halves zygote chromosomes
+genetic variation advantage | population can adapt changing environment | every individual identical
+asexual stable environment | rapid reproduction; one parent | always highest genetic variation
+sexual changing environment | variation; different traits | all offspring clones
+cloning disadvantage | low genetic diversity; shared vulnerability | all different traits
+selective breeding dog | humans choose desired inherited traits | dogs choose new genes consciously
+selective breeding crop | yield; disease resistance; desirable traits | inherited traits never change
+genetic engineering | modify dna; transfer gene | exercise changes every inherited gene
+mutation cause | dna copying error; radiation; chemicals | organism consciously needs trait
+mutation effect | beneficial harmful neutral | always beneficial
+natural selection requirement | inherited variation; competition; differential reproduction | all individuals identical
+environment change selection | different traits become advantageous | organisms intentionally mutate
+camouflage selection generations | hidden individuals survive reproduce | paint inherited automatically
+peppered moth dark | camouflage polluted dark bark; natural_selection | soot changes all inherited dna directly
+isolation population | reduced interbreeding; divergence; speciation | always identical forever
+extinction fossils | species no longer living | animal hibernates
+fossils transitional | intermediate traits; evolutionary history | exact future organisms
+homologous limbs | common ancestry despite different functions | same environment only
+dna sequence similarity | closer evolutionary relationship | identical size required
+embryo similarities | common ancestry evidence | always same adult appearance
+vestigial whale pelvis | ancestor had hind limbs | modern whale walks land
+acquired muscle exercise | not directly inherited | changes all offspring genes
+scar inheritance | acquired injury not inherited | always passed offspring
+learned bird song | experience training | all behavior genetically fixed
+instinct spider web | inherited behavior | requires school training
+hibernation body | lower metabolism; stored fat; less energy use | higher food demand
+migration trigger | seasonal daylight; temperature; food | geological plate motion only
+desert nocturnal activity | avoid heat; reduce water loss | maximize midday heat
+desert small leaf | reduce surface area water loss | maximize transpiration
+rainforest broad leaf | capture light; large area | always conserve most water
+aquatic leaf air_space | buoyancy; gas storage | heavier sinking leaf
+water_lily floating leaf | stomata upper surface | all stomata submerged
+pine needle wax | conserve water cold dry | increase evaporation
+deep taproot | access deep water | collect only surface dew
+shallow widespread root | absorb brief rainfall over large area | reach deepest groundwater only
+animal body covering environment | insulation protection camouflage | no survival effect
+arctic small extremities | reduce surface_area heat loss | increase cooling
+desert large ears | increase heat release | retain more heat
+animal warning signal | predators learn avoid dangerous prey | prey always invisible
+mimic harmless snake | resembles poisonous species; protection | photosynthesis
+food_web decomposer access | dead material every trophic level | only top predator waste
+food_chain energy arrow direction | food to consumer; energy transfer | consumer to food
+ecosystem sunlight no decomposer | matter recycling fails; nutrients unavailable | unlimited nutrient supply
+ecosystem energy replenished | continuous input sunlight | energy recycled perfectly
+food_web complexity | alternative food sources; stability | guarantees no extinction
+producer biomass | supports consumers; chemical energy | gets all food from predators
+energy pyramid organism number | fewer large predators supported | predators have most total energy
+top predator pollutants | biomagnification; high concentration | lowest pesticide concentration
+predator removed plant effect | herbivores increase; plants decrease | plants always increase
+herbivore removed plant effect | plants increase; less grazing | plants necessarily decrease
+parasite density population | transmission often faster crowded population | no influence crowding
+density dependent factor | disease; competition; predation | meteor impact only
+density independent factor | flood; fire; drought | competition only
+immigration population | individuals enter; population increases | individuals leave
+emigration population | individuals leave; population decreases | births increase
+population stable | births immigration balance deaths emigration | no reproduction
+population overshoot | resource depletion; population decline | carrying_capacity unlimited
+biodiversity genetic | variation within species | only number ecosystems
+biodiversity species | variety species | number same species only
+conservation protected habitat | preserve biodiversity; breeding resources | eliminate natural resources
+captive breeding | increase endangered population; reintroduction | ensure unlimited genetic diversity
+introduced predator island | native prey vulnerable; extinction | all natives benefit
+invasive plant | competes light water space | always improves native diversity
+habitat fragmentation corridor | connects populations; migration | separates all populations
+wetland drain | habitat loss; less flood buffering | automatic biodiversity increase
+wetland sediment | filters runoff; traps sediment | creates plastic waste
+estuary brackish | mixture freshwater saltwater | pure freshwater
+ocean phytoplankton | photosynthesis; oxygen; producer | carnivore only
+zooplankton | consumer; eat plankton | all photosynthetic
+coral bleaching | loss symbiotic algae; heat stress | more healthy algae always
+upwelling nutrients | deeper nutrient rich water rises; fish productivity | nutrient depletion always
+overfishing | population decline; food_web disruption | unlimited recovery without reproduction
+sustainable fishing | allow reproduction; limit harvest | remove all juveniles
+compost | organic waste decomposers; nutrient soil amendment | all plastic recyclable biologically
+sewage water oxygen | bacteria consume oxygen decomposing organic matter | always oxygen increases
+fertilizer bloom | nitrogen phosphorus enrichment | shortage every nutrient
+algae death decomposition | oxygen consumption; fish suffocation | all oxygen released
+nitrogen fixation legume | root bacteria nitrogen compounds; mutualism | plant absorbs nitrogen gas unaided
+denitrification | bacteria return nitrogen atmosphere | photosynthesis fixes carbon
+carbon reservoir | ocean; rock; soil; biomass; atmosphere | only living animals
+carbon long term storage | carbonate rock; fossil_fuel; ocean | only oxygen gas
+burning forest carbon | releases carbon_dioxide; loses carbon storage | removes greenhouse gases
+# Chemistry and matter
+atom nucleus size | tiny dense center; most mass | most atom volume
+atom volume | mostly empty space; electron cloud | solid nucleus fills atom
+electron mass | much smaller proton neutron | same as nucleus
+atomic_number identity | proton count determines element | neutron count alone
+neutral atom charge | proton electron numbers equal | no charged particles
+ion formation electron | lose gain electrons; charge changes | proton count changes ordinarily
+positive ion | loses electrons; cation | gains protons chemical reaction
+negative ion | gains electrons; anion | loses neutrons chemical reaction
+isotope same element | same protons different neutrons | different proton number
+isotope chemistry | similar electron arrangement; similar properties | always unrelated properties
+mass_number | protons plus neutrons | electrons only
+atomic_mass average | weighted isotope masses | same every isotope
+periodic_table period | row; electron energy levels | vertical family
+periodic_table group | column; similar valence electrons properties | identical atomic mass
+valence_electron | outermost electrons; bonding | neutrons
+noble_gas stable | filled outer electron shell; low reactivity | one outer electron always
+alkali_metal reactive | one valence electron; loses electron | complete outer shell
+halogen reactive | seven valence electrons; gains electron | always inert
+metal chemical tendency | lose electrons; positive ions | always gain neutrons
+nonmetal chemical tendency | gain share electrons | always lose protons
+metalloid | intermediate properties; semiconductor | always inert gas
+silicon semiconductor | computer chips; controlled conductivity | perfect insulator always
+metal room temperature liquid | mercury | aluminum; iron; copper
+nonmetal room temperature liquid | bromine | carbon; sulfur
+diatomic oxygen | two atoms; covalent double bond | ionic lattice
+covalent bond | shared electron pair | shared neutron pair
+ionic bond | attraction opposite ions; electron transfer | neutron exchange
+metallic bond | mobile electrons; positive metal ions | isolated molecules only
+water molecule shape | bent; polar | straight nonpolar
+water polarity | uneven charge distribution; good solvent ionic substances | dissolves every material equally
+hydrogen_bond water | intermolecular attraction; cohesion | covalent oxygen oxygen bond
+water surface_tension | cohesion; hydrogen bonding | gravity absent
+water capillary_action | adhesion cohesion; narrow tubes | photosynthesis only
+water universal_solvent | dissolves many substances | dissolves everything
+oil water separate | nonpolar oil polar water; immiscible | identical solubility
+detergent oil water | emulsify; helps remove grease | makes oil element
+salt water dissolving | ions dispersed; mixture; physical change | salt atoms destroyed
+sugar dissolving | molecules spread among water; physical change | sugar becomes new element
+dissolve mass closed | total mass conserved | solute mass disappears
+solution transparent | dissolved particles too small see | always pure substance
+solution dilute | less solute per solvent | more concentrated
+saturated_solution | maximum dissolved solute given temperature | no solute present
+supersaturated solution | excess dissolved solute; crystallizes easily | cannot form crystals
+stirring dissolving | faster particle contact; faster rate | increases equilibrium solubility necessarily
+crushing dissolving | more surface area; faster rate | changes solute identity
+warm water sugar | dissolves faster; usually more soluble | always less soluble
+gas solubility warm | lower; escapes solution | higher always
+soda opened | pressure decreases; carbon_dioxide escapes | oxygen made
+soda warm | gas escapes more readily | higher dissolved gas at same pressure
+solubility temperature dependence | substance dependent | all substances identical
+mixture separation physical | properties differ; components retain identity | nuclear transmutation
+sand water separate | filtration; settling; decanting | magnet all sand
+salt water separate | evaporation; distillation | ordinary filter paper
+salt sand separate | dissolve salt; filter sand; evaporate water | magnet salt
+iron sand separate | magnet attracts iron | evaporation iron
+oil water separate | settle layers; decant; separating funnel | dissolve completely
+ink colors separate | chromatography | ordinary sieve only
+alcohol water separate | distillation; boiling points differ | magnet
+large small solids separate | sieve; particle_size | change proton count
+centrifuge mixture | different densities; spin separation | radioactive decay
+distilled water | evaporation condensation; dissolved salts left behind | all solutes evaporate equally
+suspension | particles settle; filterable | uniformly dissolved ions
+colloid | dispersed small particles; light scattering | always pure element
+homogeneous mixture | uniform throughout; solution | visible separate layers
+heterogeneous mixture | nonuniform; distinct components | same composition everywhere
+alloy | mixture containing metals; brass bronze steel | always pure element
+brass | copper zinc alloy | pure copper element
+bronze | copper tin alloy | salt crystal
+steel | iron carbon alloy | pure nonmetal
+stainless steel | corrosion resistance; chromium | rusts faster always
+chemical reaction sign | new substance; gas precipitate heat light | any change shape proves reaction
+color change chemical evidence | may indicate new substance | always proves reaction alone
+chemical physical difference | new substances versus same identity | every physical change reversible
+physical change irreversible | cutting grinding can be difficult reverse | irreversible always chemical
+burning candle | wax melting physical; wax combustion chemical | both only physical
+wood burning | ash gases new substances | wood only changes shape
+paper tearing | physical; same substance | new element
+egg cooking | protein changes; chemical change | melting only
+milk souring | bacteria acid; chemical change | mere shape change
+fruit ripening | chemical changes | nuclear fission
+metal rust | iron oxygen water; new compound | pure iron reshaping
+chemical_reaction conservation | atoms rearranged; mass conserved closed system | atoms disappear
+open reaction mass loss | gas escapes; total system still conserved | matter destroyed
+open burning metal mass | oxygen joins metal; mass increases | atoms created
+balanced equation | same atoms each element both sides | same number molecules always
+reaction rate temperature | faster collisions; more energetic collisions | always fewer collisions
+reaction rate concentration | more frequent particle collisions | fewer particles contact
+reaction rate surface_area | more exposed reactant; faster | always slower
+catalyst | faster reaction; not consumed; lower activation energy | raises activation energy always
+enzyme specificity | active site shape; particular substrate | every enzyme every reaction
+enzyme denature | shape changes; activity lost | new nucleus formed
+inhibitor | slows reaction | always accelerates
+activation_energy | energy needed start reaction | total mass reactants
+exothermic reaction | releases heat; surroundings warm | absorbs heat only
+endothermic reaction | absorbs heat; surroundings cool | releases heat only
+bond breaking | requires energy | always releases energy
+bond formation | releases energy | always absorbs energy
+acid ph | below seven; hydrogen ions | above seven
+base ph | above seven; hydroxide | below seven
+neutral ph | seven at ordinary temperature | always zero
+acid blue litmus | turns red | turns blue
+base red litmus | turns blue | turns red
+acid base neutralization | salt water; ph toward neutral | always oxygen gas
+acid metal reaction | hydrogen gas; salt | nitrogen only
+acid carbonate reaction | carbon_dioxide gas | oxygen only
+vinegar baking_soda | acid base reaction; carbon_dioxide | pure physical melting
+acid_rain limestone | reacts dissolves calcium_carbonate | protects stone
+ph scale one unit | tenfold concentration change | one percent change
+hydrogen flammable | combustion oxygen produces water | noble_gas inert
+oxygen supports combustion | oxidizer; helps fuel burn | itself ordinary fuel
+nitrogen atmosphere | relatively unreactive; most abundant air gas | most reactive flammable gas
+carbon_dioxide fire extinguisher | displaces oxygen | supplies fuel
+helium balloon | low density; nonflammable | denser than air
+hot_air balloon | heated air less dense; buoyancy | air loses all mass
+gas pressure collisions | particles hit container walls | particles motionless
+gas temperature kelvin | average particle kinetic_energy | amount substance only
+gas compressibility | large spaces particles | atoms themselves easily crushed
+solid incompressible | particles close together | particles never move
+solid particle motion | vibrate fixed positions | absolutely motionless
+liquid particle motion | slide past each other; close together | rigid lattice only
+gas particle motion | rapid random motion; spread far apart | fixed positions
+plasma matter | ionized gas; charged particles | ordinary solid only
+heating substance mass | same in closed system | increases just from expansion
+thermal expansion density | volume increases mass same density decreases | atoms grow larger
+water freezing exception | expands; less dense ice | contracts always
+phase change identity | same molecules; physical change | new atoms
+melting freezing point | same temperature given pressure | always unrelated
+boiling evaporation difference | throughout liquid versus surface | evaporation only boiling_point
+evaporation any temperature | fastest particles escape surface | only boiling water
+evaporative cooling | higher energy particles leave | lower energy particles leave only
+condensation cold glass | water_vapor air condenses outside | water passes through solid glass
+dew grass | water_vapor condenses | grass produces rain internally
+frost | vapor deposits ice; below freezing | liquid must boil first
+sublimation dry_ice | solid carbon_dioxide gas | liquid water
+deposition gas solid | frost; energy released | sublimation absorbs heat
+latent_heat phase_change | energy changes particle attractions; temperature steady | temperature always rising
+closed container evaporation | vapor condenses; dynamic equilibrium | molecules stop moving
+# Explicit argument bindings: avoid packing opposite relationships into one bag.
+undisturbed layer oldest | bottom; below younger layer | top
+undisturbed layer youngest | top; above older layer | bottom
+sedimentary rock older | lower layer; bottom | upper layer always
+sedimentary rock younger | upper layer; top | lower layer always
+superposition oldest | bottom | top
+superposition youngest | top | bottom
+river bend outer | erosion; faster flow | deposition strongest
+river bend inner | deposition; slower flow | erosion strongest
+artery direction | away heart | toward heart
+vein direction | toward heart | away heart
+xylem substance | water mineral | sugar only
+phloem substance | sugar; food | water only
+plant water upward | root stem leaf; xylem | phloem only
+plant sugar distribution | phloem | xylem only
+photosynthesis reactant | carbon_dioxide; water | glucose; oxygen
+photosynthesis product | glucose; oxygen | carbon_dioxide
+respiration reactant | glucose; oxygen | carbon_dioxide
+respiration product | carbon_dioxide; water | oxygen
+freezing energy | release heat | absorb heat
+melting energy | absorb heat | release heat
+condensation energy | release heat | absorb heat
+evaporation energy | absorb heat | release heat
+sublimation energy | absorb heat | release heat
+deposition phase energy | release heat | absorb heat
+endothermic surroundings | cool; heat absorbed | warm; heat released
+exothermic surroundings | warm; heat released | cool; heat absorbed
+charge electron gain | negative | positive
+charge electron loss | positive | negative
+covalent particle shared | electron | neutron; proton
+ionic particle transferred | electron | neutron; proton
+atom identity particle | proton | neutron; electron
+isotope difference particle | neutron | proton
+isotope same particle | proton | neutron
+metal conduct cause | mobile electrons | mobile protons
+star blue relative | hotter | cooler
+star red relative | cooler | hotter
+visible red wavelength | longest | shortest
+visible violet wavelength | shortest | longest
+visible red frequency | lowest | highest
+visible violet frequency | highest | lowest
+sunrise direction | east | west
+sunset direction | west | east
+rotation earth direction | west east | east west
+apparent sun direction | east west | west east
+northern summer season south | winter | summer
+northern winter season south | summer | winter
+new_moon position | between earth sun | earth between moon sun
+full_moon position | earth between moon sun | moon between earth sun
+solar_eclipse shadow source | moon | earth
+lunar_eclipse shadow source | earth | moon
+seasons main cause | earth axis tilt | earth distance sun
+day night main cause | earth rotation | moon orbit
+planet year cause | revolution sun | rotation axis
+increasing latitude temperature | decreases; colder | increases
+increasing altitude pressure | decreases | increases
+climate water summer | cooler than inland | warmer always
+climate water winter | warmer than inland | colder always
+sea_breeze direction | water toward land | land toward water
+land_breeze direction | land toward water | water toward land
+wind daytime coast | sea toward land | land toward sea
+wind nighttime coast | land toward sea | sea toward land
+cloud formation change | gas liquid; condensation | liquid gas evaporation
+water_cycle sun energy | evaporation | condensation only
+water_cycle gravity | precipitation; runoff | evaporation only
+food_chain energy origin | sunlight | soil minerals
+food_chain arrow target | consumer; eater | food source
+food_chain arrow source | food; eaten organism | only eater
+energy pyramid largest | producer | top carnivore
+energy pyramid smallest | top consumer | producer
+ecology material flow | cycle; recycled | destroyed
+ecology energy flow | one direction; heat loss | fully recycled
+scientific independent_variable action | changed deliberately | measured response
+scientific dependent_variable action | measured response | deliberately varied treatment
+scientific controlled_variable action | kept same | changed deliberately
+scientific hypothesis unsupported | revise explanation | change data
+instrument mass | balance | thermometer
+instrument force | spring_scale | graduated_cylinder
+instrument pressure air | barometer | anemometer
+instrument humidity | hygrometer | wind_vane
+instrument wind speed | anemometer | barometer
+instrument wind direction | wind_vane | anemometer
+instrument earthquake | seismograph | rain_gauge

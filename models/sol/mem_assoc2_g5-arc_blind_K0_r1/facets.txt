@@ -1,0 +1,427 @@
+# Explicit entity/facet pairs. These are authored directional relations, not
+# automatically inverted descriptions, and are independent of option position.
+# Subatomic constituents and materials.
+3.2 | proton charge | positive | negative neutral
+3.2 | electron charge | negative | positive neutral
+3.2 | neutron charge | neutral zero | positive negative
+3.2 | proton location | nucleus | cloud
+3.2 | neutron location | nucleus | cloud
+3.2 | electron location | cloud outside nucleus | inside
+3.2 | proton mass | one atomic unit | zero
+3.2 | neutron mass | one atomic unit | zero
+3.2 | electron mass | small negligible | greatest
+3.2 | atom identity | proton atomicnumber | neutron electron
+3.2 | isotope difference | neutron mass | proton atomicnumber
+3.2 | ion difference | electron charge | proton identity
+# Charged products and electron-transfer processes are related, not identical.
+2.8 | ionization | electron transfer charged ion |
+2.8 | ionization identity | same element proton atomicnumber conserved |
+2.8 | sodiumion charge | positive one | negative neutral
+2.8 | calciumion charge | positive two | negative neutral
+2.8 | chloride charge | negative one | positive neutral
+2.8 | sodiumion formation | sodium lose electron | gain
+2.8 | calciumion formation | calcium lose two electron | gain
+2.8 | chloride formation | chlorine gain electron | lose
+2.8 | sodiumion electron count | ten 10 | eleven 11
+2.8 | sodiumion proton count | eleven 11 | ten 10
+2.8 | calciumion electron count | eighteen 18 | twenty 20
+2.8 | calciumion proton count | twenty 20 | eighteen 18
+2.8 | chloride electron count | eighteen 18 | seventeen 17
+2.8 | chloride proton count | seventeen 17 | eighteen 18
+2.8 | sodium ion formation | sodiumion positive lose electron | negative
+2.8 | calcium ion formation | calciumion positive lose electron | negative
+2.8 | sodiumion chloride attraction | opposite charge ionic bond | covalent
+2.8 | calciumion role | bone teeth contraction signaling | photosynthesis
+3.2 | element particle | atom | cell
+3.2 | compound proportion | fixed ratio | variable
+3.2 | mixture proportion | variable ratio | fixed always
+3.2 | solution appearance | homogeneous uniform | separate layers
+3.2 | suspension appearance | heterogeneous cloudy | molecular uniform
+3.2 | solid volume | definite fixed | variable
+3.2 | liquid volume | definite fixed | variable
+3.2 | gas volume | variable container | fixed
+3.2 | solid shape | definite fixed | container always
+3.2 | liquid shape | container variable | rigid fixed
+3.2 | gas shape | container variable | rigid fixed
+3.2 | solid compressibility | low tightly packed | high
+3.2 | gas compressibility | high empty space | low
+3.2 | liquid compressibility | low close particles | high
+3.2 | metal conductivity | good heat electric | insulating
+3.2 | rubber conductivity | poor insulator | good
+3.2 | plastic conductivity | poor insulator | good
+3.2 | glass conductivity | poor insulator | good
+3.2 | wood conductivity | poor insulator | good
+3.2 | copper conductivity | good conductor | poor
+# Transfer process, intrinsic material property, and sample conductance differ.
+2.8 | conduct definition | transfer heat charge |
+2.8 | conduction definition | contact particle transfer heat | vacuum
+2.8 | conductance definition | electric current voltage ratio |
+2.8 | conductivity property | intrinsic material intensive | extensive
+2.8 | conductance geometry | area length |
+2.8 | conductance material | conductivity |
+2.8 | reciprocal resistance | conductance | conductivity
+2.8 | reciprocal resistivity | conductivity | conductance
+2.8 | resistivity unit | ohm meter |
+2.8 | electric conductivity unit | siemens meter |
+2.8 | thermal conductivity unit | watt meter kelvin |
+2.8 | metal conduct | conduction conductivity heat current |
+2.8 | magnet fragment | two north south poles | monopole
+3.2 | metal appearance | shiny luster | always transparent
+3.2 | metal deformation | malleable ductile | brittle generally
+3.2 | nonmetal conductivity | poor insulator | all good conductors
+3.2 | silicon conductivity | semiconductor | noble gas
+3.2 | mercury state | liquid metal room temperature | gas
+3.2 | bromine state | liquid nonmetal room temperature | solid
+3.2 | oxygen state | gas | solid room temperature
+3.2 | nitrogen abundance | atmosphere greatest | rarest
+3.2 | water solvent | polar | nonpolar
+3.2 | oil solvent | nonpolar immiscible water | water soluble
+3.2 | acid taste | sour | bitter
+3.2 | base taste | bitter slippery | sour
+3.2 | acid ph | below seven low | above
+3.2 | base ph | above seven high | below
+3.2 | acid litmus | red | blue
+3.2 | base litmus | blue | red
+3.2 | neutral ph | seven 7 | zero
+# Related substances and words are associations, not lexical identities.
+2.8 | phosphorus classification | element nonmetal | compound
+2.8 | phosphate composition | phosphorus oxygen ion | element
+2.8 | phosphate role | nutrient dna atp bone fertilizer |
+2.8 | condensate origin | condensation vapor cooling liquid |
+2.8 | amphibious meaning | land water |
+# Objects and their radiation have distinct concepts and type memberships.
+2.8 | sunlight origin | sun emission radiation |
+2.8 | starlight origin | star emission radiation |
+2.8 | moonlight origin | reflected sunlight sun | fusion
+2.8 | sun radiation | emission sunlight energy |
+2.8 | star radiation | emission starlight energy |
+2.8 | moon visible | reflected sunlight moonlight | fusion
+# Heat capacity belongs to a sample; specific heat is per unit mass.
+2.8 | heat capacity definition | heatcapacity energy temperature sample |
+2.8 | specific heat definition | specificheat energy temperature unit mass |
+2.8 | heatcapacity property | extensive | intensive
+2.8 | specificheat property | intensive | extensive
+2.8 | heatcapacity formula | mass multiply specificheat |
+2.8 | specificheat unit | joule kilogram kelvin |
+# Wave height spans crest to trough, not equilibrium to crest.
+2.8 | waveheight definition | crest trough vertical distance |
+2.8 | waveheight formula | two multiply amplitude |
+2.8 | amplitude definition | maximum displacement equilibrium |
+# Written symbols and formulas are separate retrieval facets of the same
+# chemistry, so a name in the question does not erase its identifier in options.
+2.8 | copper symbol | cu |
+2.8 | iron symbol | fe |
+2.8 | aluminum symbol | al |
+2.8 | silver symbol | ag |
+2.8 | sodium symbol | na |
+2.8 | chlorine symbol | cl |
+2.8 | calcium symbol | ca |
+2.8 | silicon symbol | si |
+2.8 | lead symbol | pb |
+2.8 | mercury symbol | hg |
+2.8 | zinc symbol | zn |
+2.8 | gold symbol | au |
+2.8 | platinum symbol | pt |
+2.8 | bromine symbol | br |
+2.8 | lithium symbol | li |
+2.8 | strontium symbol | sr |
+2.8 | barium symbol | ba |
+2.8 | rubidium symbol | rb |
+2.8 | krypton symbol | kr |
+2.8 | xenon symbol | xe |
+2.8 | selenium symbol | se |
+2.8 | cu | copper element metal conductor heat electric |
+2.8 | fe | iron element metal magnetic |
+2.8 | al | aluminum element metal conductor lightweight |
+2.8 | ag | silver element metal conductor |
+2.8 | na | sodium element metal alkalimetal reactive |
+2.8 | cl | chlorine element nonmetal halogen |
+2.8 | ca | calcium element metal |
+2.8 | si | silicon element metalloid semiconductor |
+2.8 | pb | lead element metal dense |
+2.8 | hg | mercury element metal liquid |
+2.8 | zn | zinc element metal |
+2.8 | au | gold element metal conductor |
+2.8 | pt | platinum element metal conductor |
+2.8 | br | bromine element nonmetal halogen liquid |
+2.8 | li | lithium element metal alkalimetal reactive |
+2.8 | sr | strontium element metal |
+2.8 | ba | barium element metal |
+2.8 | rb | rubidium element metal alkalimetal reactive |
+2.8 | kr | krypton element gas noblegas |
+2.8 | xe | xenon element gas noblegas |
+2.8 | se | selenium element nonmetal |
+2.8 | water formula | h2o |
+2.8 | hydrogen gas formula | h2 |
+2.8 | oxygen gas formula | o2 |
+2.8 | nitrogen gas formula | n2 |
+2.8 | carbon dioxide formula | co2 |
+2.8 | carbon monoxide formula | co |
+2.8 | methane formula | ch4 |
+2.8 | ammonia formula | nh3 |
+2.8 | salt formula | nacl |
+2.8 | glucose formula | c6h12o6 |
+2.8 | h2o | water compound molecule hydrogen oxygen | element
+2.8 | h2 | hydrogen element molecule diatomic gas | compound
+2.8 | o2 | oxygen element molecule diatomic gas respiration combustion | compound
+2.8 | n2 | nitrogen element molecule diatomic gas atmosphere | compound
+2.8 | co2 | carbon dioxide compound molecule gas greenhouse | element
+2.8 | co | carbon monoxide compound molecule gas toxic | element
+2.8 | ch4 | methane compound molecule gas carbon hydrogen fuel | element
+2.8 | nh3 | ammonia compound molecule gas nitrogen hydrogen base | element
+2.8 | nacl | salt compound ionic sodium chloride crystal | element
+2.8 | c6h12o6 | glucose compound molecule carbohydrate sugar | element
+# Quantity, process, and instrument facets.
+3.1 | density formula | mass divide volume | mass multiply volume
+3.1 | speed formula | distance divide time |
+3.1 | force formula | mass multiply acceleration | volume
+3.1 | pressure formula | force divide area | mass
+3.1 | work formula | force multiply displacement | time
+3.1 | power formula | work divide time | mass
+3.1 | momentum formula | mass multiply velocity | density
+3.1 | gravity direction | inward center | outward
+3.1 | friction direction | opposite relative motion | always downward
+3.1 | buoyancy direction | up | down
+3.1 | acceleration direction | net force | always velocity
+3.1 | light direction | straight uniform medium | curve always
+3.1 | convection direction | warm rises cool sinks | warm sinks
+3.1 | heat direction | hot toward cold |
+3.1 | diffusion direction | high concentration toward low |
+3.1 | osmosis substance | water | protein solute
+3.1 | diffusion cause | random particle motion | nuclear reaction
+3.1 | evaporation cause | thermal energy escape surface | cold condensation
+3.1 | condensation cause | cooling vapor liquid | evaporation
+3.1 | melting cause | heating solid liquid | freezing
+3.1 | freezing cause | cooling liquid solid | melting
+3.1 | sublimation example | dry ice mothball | water boiling
+3.1 | condensation example | dew fog droplets cold glass | puddle disappears
+3.1 | evaporation example | drying puddle wet clothes | dew
+3.1 | deposition example | frost | ordinary rainfall
+3.1 | conduction medium | matter contact solids | vacuum
+3.1 | convection medium | fluid liquid gas | vacuum solid
+3.1 | radiation medium | vacuum electromagnetic |
+3.1 | sound medium | matter solid liquid gas | vacuum
+3.1 | electromagnetic medium | vacuum |
+3.1 | mass instrument | balance | thermometer
+3.1 | weight instrument | spring scale | graduated cylinder
+3.1 | force instrument | spring scale | thermometer
+3.1 | volume instrument | graduated cylinder | balance
+3.1 | temperature instrument | thermometer | barometer
+3.1 | pressure instrument | barometer manometer | hygrometer
+3.1 | current instrument | ammeter | voltmeter
+3.1 | voltage instrument | voltmeter | ammeter
+3.1 | humidity instrument | hygrometer psychrometer | anemometer
+3.1 | rainfall instrument | rain gauge | barometer
+3.1 | wind speed | anemometer | thermometer
+3.1 | wind direction | vane windsock | barometer
+3.1 | earthquake instrument | seismograph | hygrometer
+3.1 | wavelength unit | meter | hertz
+3.1 | frequency unit | hertz | meter
+3.1 | amplitude unit | meter | hertz
+3.1 | energy unit | joule | watt
+3.1 | power unit | watt | joule
+3.1 | work unit | joule | newton
+3.1 | force unit | newton | kilogram
+3.1 | mass unit | kilogram gram | newton
+3.1 | volume unit | liter cubic milliliter | newton
+3.1 | temperature unit | kelvin celsius fahrenheit | meter
+3.1 | resistance unit | ohm | ampere
+3.1 | charge unit | coulomb | volt
+3.1 | current unit | ampere | volt
+3.1 | voltage unit | volt | ampere
+3.1 | speed unit | meter second | kilogram
+3.1 | sound pitch | frequency | amplitude
+3.1 | sound loudness | amplitude intensity | frequency
+3.1 | light color | wavelength frequency | amplitude only
+3.1 | light brightness | intensity amplitude | frequency only
+3.1 | transverse direction | perpendicular | parallel
+3.1 | longitudinal direction | parallel | perpendicular
+# Living systems: anchor and explicitly requested aspect.
+3.2 | cell hereditary | dna nucleus chromosome | vacuole
+3.2 | cell protein | ribosome | chloroplast
+3.2 | cell energy release | mitochondria respiration | wall
+3.2 | cell waste digestion | lysosome | nucleus
+3.2 | cell water storage | vacuole | ribosome
+3.2 | cell selective passage | membrane | nucleus
+3.2 | cell fluid | cytoplasm | bone
+3.2 | plant cell support | cellulose wall | skeletal bone
+3.2 | plant light capture | chloroplast chlorophyll | root hair
+3.2 | nucleus function | genetic control dna | photosynthesis
+3.2 | mitochondria function | respiration atp energy | photosynthesis
+3.2 | ribosome function | protein synthesis | digestion
+3.2 | chloroplast function | photosynthesis glucose | aerobic respiration
+3.2 | lysosome function | digestion enzyme breakdown | photosynthesis
+3.2 | golgi function | package modify transport protein | dna storage
+3.2 | vacuole function | storage water turgor | protein synthesis
+3.2 | membrane function | selective regulate entry exit | bone support
+3.2 | cellwall function | support protection shape | genetic code
+3.2 | cytoplasm function | reactions fluid suspend organelles | heredity only
+3.2 | dna function | genetic information protein instruction | energy supply
+3.2 | gene function | protein trait instruction | digestion food
+3.2 | protein function | growth repair enzyme structure |
+3.2 | carbohydrate function | energy glucose | genetic information
+3.2 | lipid function | stored energy membrane insulation | hereditary information
+3.2 | vitamin function | regulate metabolism health | primary energy
+3.2 | chlorophyll function | absorb sunlight photosynthesis | mineral absorption
+3.2 | stomata function | gas exchange transpiration | pollen production
+3.2 | xylem function | water mineral transport | sugar main
+3.2 | phloem function | sugar food transport |
+3.2 | root function | absorb water mineral anchor | seed production
+3.2 | stem function | support transport | pollen production
+3.2 | leaf function | photosynthesis gas exchange | soil anchorage
+3.2 | flower function | sexual reproduction | water absorption
+3.2 | fruit function | seed protection dispersal | nitrogen fixation
+3.2 | seed function | embryo food reproduction |
+3.2 | pollen function | sperm male reproduction | photosynthesis
+3.2 | cuticle function | reduce water loss | increase water loss
+3.2 | guard cell function | regulate stomata water exchange | pollen production
+3.2 | bacteria benefit | decomposition nitrogen fixation digestion | only disease
+3.2 | fungi nutrition | absorb organic decomposer | photosynthesis
+3.2 | algae nutrition | photosynthesis producer | only decomposer
+3.2 | plant nutrition | photosynthesis autotroph | soil glucose directly
+3.2 | animal nutrition | heterotroph consumer food | photosynthesis
+3.2 | mushroom nutrition | decomposer fungus | producer
+3.2 | yeast reproduction | budding asexual | seed
+3.2 | bacteria reproduction | binary fission | meiosis
+3.2 | fern reproduction | spores | flowers seeds
+3.2 | moss reproduction | spores | flowers seeds
+3.2 | pine reproduction | cones seeds | fruit flowers
+3.2 | angiosperm reproduction | flowers seeds fruit | spores only
+3.2 | mammal covering | hair fur | feather scales
+3.2 | bird covering | feather | fur
+3.2 | reptile covering | dry scales | moist skin feather
+3.2 | amphibian covering | moist skin | feather fur
+3.2 | fish covering | scales mucus | feather fur
+3.2 | arthropod covering | exoskeleton chitin | backbone
+3.2 | mammal breathing | lung air | gill
+3.2 | bird breathing | lung air sac | gill
+3.2 | fish breathing | gill dissolved oxygen | lung normally
+3.2 | insect breathing | spiracle trachea | lung
+3.2 | earthworm breathing | moist skin diffusion | lung gill
+3.2 | mammal young nutrition | milk | pollen
+3.2 | bird reproduction | egg | milk
+3.2 | insect leg number | six 6 | eight 8
+3.2 | arachnid leg number | eight 8 | six 6
+3.2 | insect body sections | three 3 | two 2
+3.2 | arachnid body sections | two 2 | three 3
+3.2 | vertebrate skeleton | internal backbone | external chitin
+3.2 | invertebrate skeleton | | backbone vertebrae
+3.2 | mammal temperature | endotherm regulated internal heat | only external
+3.2 | bird temperature | endotherm regulated internal heat | only external
+3.2 | reptile temperature | ectotherm environment | constant independent environment
+3.2 | amphibian temperature | ectotherm environment | warmblooded
+3.2 | camouflage function | conceal protection | rapid digestion
+3.2 | hibernation function | conserve energy winter lower metabolism | higher
+3.2 | migration function | seasonal food reproduction survival | gene mutation
+3.2 | mimicry function | protection resemblance | food digestion
+# Human organ and body-system relations.
+3.2 | heart function | pump blood | digest food
+3.2 | lung function | oxygen dioxide gas exchange | remove urea
+3.2 | kidney function | filter blood waste water balance | make oxygen
+3.2 | liver function | bile detoxify glycogen | urine storage
+3.2 | stomach function | protein digestion acid mixing | gas exchange
+3.2 | small intestine function | digestion nutrient absorption | oxygen exchange
+3.2 | large intestine function | water absorption waste formation | main protein absorption
+3.2 | pancreas function | digestive enzyme insulin glucagon | oxygen transport
+3.2 | gallbladder function | store bile | make bile
+3.2 | bladder function | store urine | filter blood
+3.2 | diaphragm function | breathing change chest volume | digest protein
+3.2 | esophagus function | food transport peristalsis | gas exchange
+3.2 | trachea function | air passage lung | food passage stomach
+3.2 | skin function | protection temperature sensory barrier | pump blood
+3.2 | bone function | support protect movement mineral store | digest starch
+3.2 | muscle function | contraction movement | push bones directly
+3.2 | nerve function | transmit electrical information | carry red cells
+3.2 | brain function | control coordinate information | oxygen production
+3.2 | cerebellum function | balance coordination | blood filtration
+3.2 | medulla function | involuntary heartbeat breathing | conscious reading
+3.2 | cerebrum function | thought memory voluntary | urine filtering
+3.2 | spinal cord function | signals reflex connection | protein digestion
+3.2 | tendon function | connect muscle bone | ligament
+3.2 | ligament function | connect bone joint | muscle tendon
+3.2 | cartilage function | cushion joint flexible support | oxygen transport
+3.2 | red cell function | oxygen transport hemoglobin | antibody
+3.2 | white cell function | defense infection immune | oxygen transport
+3.2 | platelet function | blood clotting wound repair | oxygen transport
+3.2 | artery function | blood away heart | blood toward heart
+3.2 | vein function | blood toward heart | blood away heart
+3.2 | capillary function | exchange substances thin wall | make hormones
+3.2 | alveoli function | gas exchange surface | nutrient absorption
+3.2 | villi function | nutrient absorption surface | breathing gas
+3.2 | plasma blood function | transport dissolved nutrients wastes | genetic code only
+3.2 | antibody function | recognize bind pathogen | carry oxygen
+3.2 | insulin function | lower blood glucose | raise blood glucose
+3.2 | glucagon function | raise blood glucose | lower blood glucose
+3.2 | thyroid function | metabolism hormone | urine storage
+3.2 | pituitary function | growth hormone gland control | digestion starch
+3.2 | adrenal function | adrenaline stress response | bile storage
+3.2 | ovary function | egg female hormone | sperm
+3.2 | testis function | sperm male hormone | egg
+3.2 | uterus function | embryo fetal development | blood filtering
+3.2 | placenta function | fetal gas nutrient waste exchange | digestion stomach
+3.2 | lens eye function | refract focus retina | detect sound
+3.2 | iris function | regulate pupil light | color receptor retina
+3.2 | retina function | light detect sensory nerve | sound
+3.2 | cochlea function | sound vibration nerve signal | vision
+3.2 | eardrum function | sound vibration | light
+3.2 | semicircular canal | balance motion detection | smell
+3.2 | circulatory system | transport blood oxygen nutrients waste | make sunlight
+3.2 | respiratory system | exchange oxygen dioxide | starch digestion
+3.2 | digestive system | break food absorb nutrients | nerve signals only
+3.2 | excretory system | remove metabolic waste water balance | oxygen intake only
+3.2 | skeletal system | support protection movement | hormone signals
+3.2 | muscular system | contract move posture | blood filtration
+3.2 | nervous system | fast electrical coordination stimulus response | slow
+3.2 | endocrine system | chemical hormones blood communication | electrical nerves only
+3.2 | immune system | pathogen defense | pump blood
+3.2 | lymphatic system | immune fluid return | food breakdown
+3.2 | integumentary system | skin protection barrier temperature | pump blood
+3.2 | reproductive system | gametes offspring | urine only
+3.2 | digestive circulatory interaction | nutrients absorbed blood transport | photosynthesis
+3.2 | respiratory circulatory interaction | lung oxygen blood transport | nitrogen digestion
+3.2 | skeletal muscular interaction | muscles pull bones joints | nerves make glucose
+3.2 | nervous muscular interaction | nerve signal contraction response | digestion only
+3.2 | exercise breathing reason | oxygen respiration dioxide removal | oxygen produced muscles
+3.2 | shivering purpose | muscle heat production | remove heat
+3.2 | sweating purpose | evaporative cooling | heat creation
+3.2 | fever pathogen | immune response temperature | all disease absent
+3.2 | vaccine function | immune memory prevent disease | antibiotic cure all
+3.2 | antibiotic function | bacterial infection treatment | virus cure
+3.2 | antiviral function | inhibit virus replication | photosynthesis
+3.2 | fiber diet function | bowel movement digestion health | primary genetic material
+3.2 | calcium diet function | bone teeth | hemoglobin oxygen
+3.2 | iron diet function | hemoglobin oxygen transport | bone calcium
+3.2 | vitamin d function | calcium absorption bone | scurvy
+3.2 | vitamin c function | collagen healing prevent scurvy | rickets
+3.2 | dehydration response | kidney conserve water concentrated urine thirst | more dilute urine
+# Experimental inference and engineering, with explicit rather than implicit scope.
+2.8 | independent definition | manipulated deliberately changed | measured response
+2.8 | dependent definition | measured responding outcome | deliberately manipulated
+2.8 | constant definition | unchanged controlled | independent treatment
+2.8 | control definition | baseline comparison | receives treatment always
+2.8 | hypothesis requirement | testable falsifiable | opinion preference
+2.8 | scientific conclusion requirement | evidence data | popularity belief
+2.8 | scientific theory requirement | many tests supported explanation | random untested guess
+2.8 | scientific law function | describe relationship pattern | explain all causes necessarily
+2.8 | scientific model function | representation explain predict | exact complete reality
+2.8 | data unexpected | record investigate repeat revise | discard inconvenient results
+2.8 | experiment repeated | reliability average random error | guarantee correctness
+2.8 | experiment fair | same conditions one variable change | confounded
+2.8 | experiment published | replication peer review | hide method
+2.8 | experiment reproducible | detailed procedures data | secret equipment
+2.8 | data quantitative | number measurement | only color description
+2.8 | data qualitative | description color texture | numerical only
+2.8 | graph continuous | line trend time | pie only
+2.8 | graph category | bar compare | line necessarily
+2.8 | graph proportion | pie whole fraction | speed only
+2.8 | graph correlation | scatter plot | proves cause
+2.8 | engineering constraint | time cost material limit | desired success only
+2.8 | engineering criterion | desired performance goal | resource limit only
+2.8 | engineering iteration | test evaluate revise improve | ignore evidence abandon
+2.8 | prototype purpose | test design identify improvement | final immutable
+2.8 | scale model limitation | proportions simplification omitted detail | perfect full detail
+2.8 | scientific investigation first | question observation hypothesis | predetermined conclusion
+2.8 | lab safety first | follow instructions teacher goggles | taste unknown chemical
+2.8 | lab bacteria avoidance | food drink eating | gloves disinfect
+2.8 | field study ethics | minimize disturbance observe record | destroy habitat
+2.8 | experiment ethics human | informed consent safety | forced harm

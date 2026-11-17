@@ -1,0 +1,91 @@
+# Typical reasoning chains in scenario questions
+factory near river concern > wastewater pollution harm organisms fish
+factory smokestack concern > air pollution acid rain smoke
+new highway forest concern > habitat loss runoff animals cross roads
+new housing development > habitat destroyed runoff erosion
+mining concern > land destroyed water pollution
+oil drilling concern > spills harm wildlife
+farm near lake concern > fertilizer runoff algae
+pesticide use concern > kills helpful insects bees birds water pollution
+large tree shades grass > blocks sunlight grass grows poorly thin
+plants under trees > less sunlight shade
+plants grow poorly > not enough light water nutrients crowded
+volcanic ash atmosphere > blocks sunlight temperatures decrease cooler climate
+large eruption global > cooling temperatures decrease
+asteroid impact dust > blocks sunlight cooling extinction dinosaurs
+cell model bag > cell membrane
+cell model jelly gelatin > cytoplasm
+cell model ball center > nucleus
+cell model box shoebox > cell wall
+cell analogy factory > nucleus control center mitochondria power plant
+cell analogy city > nucleus city hall membrane border
+cell analogy school > nucleus principal office
+continents once joined evidence > similar fossils matching rock layers coastlines fit
+similar fossils different continents > continents once joined pangaea moved
+dam effect fish > blocks migration spawning upstream
+dam effect river > lake forms upstream less sediment downstream
+rainforest loss concern > species extinct biodiversity habitat loss medicines carbon dioxide
+deforestation concern > habitat loss extinction erosion climate change
+days longest june northern hemisphere > tilted toward sun
+days shortest december northern hemisphere > tilted away from sun
+gas to liquid example > dew condensation water drops cold glass clouds fog
+liquid to gas example > puddle drying evaporation boiling steam
+solid to liquid example > ice melting butter melting chocolate
+liquid to solid example > water freezing ice cubes lava hardening
+solid to gas example > dry ice sublimation
+metal feels colder than wood > metal conducts heat away from hand faster
+tile floor feels colder than carpet > tile conducts heat away faster
+legumes beans peas soil > bacteria roots add nitrogen soil fertile
+crop rotation reason > restore nutrients nitrogen soil
+breaking rock smaller pieces > size shape changes physical change same mineral
+cutting paper changes > size shape physical property
+pendulum greatest speed > bottom lowest point
+pendulum stops moving > highest point
+roller coaster greatest speed > bottom lowest point
+ball thrown up stops > highest point
+computer model advantage > analyze large amounts data quickly predict test
+computer model hurricane > predict path
+gravitational force increase > more mass closer distance
+gravitational force decrease > less mass farther distance
+body get rid of extra heat > sweating evaporation blood vessels widen
+body cool down > sweat
+body warm up > shiver
+seed did sprout reasons > too cold temperature dry no water no oxygen
+seeds germinate temperature > warm
+help endangered bird population > protect nesting areas habitat ban hunting
+help endangered species > protect habitat breeding programs laws
+renewable resource paper > trees wood
+renewable resource cotton cloth > plants
+nonrenewable resource plastic > oil petroleum
+chemical energy to mechanical > person riding bicycle walking muscles car engine
+electrical to mechanical > fan motor blender
+light to electrical > solar panel
+mechanical to electrical > generator wind turbine
+electrical to light > light bulb lamp
+electrical to sound > speaker doorbell
+chemical to heat > burning fuel wood gas stove
+chemical to electrical > battery
+animal body energy comes from > food chemical energy
+cars pollute > exhaust carbon monoxide carbon dioxide
+trees help air > absorb carbon dioxide release oxygen filter
+city hotter than countryside > pavement buildings absorb heat
+snow melts faster dark > absorbs more sunlight
+ice caps reflect > sunlight
+loss of ice > less reflection more warming
+species introduced island > no predators population grows outcompetes natives
+population explosion > plenty food no predators
+population crash > food runs out disease
+two populations same food > compete one decreases
+when prey increases > predators increase later
+when predators increase > prey decreases
+bird populations decline pesticide > thin eggshells
+frogs good indicator > pollution moist skin absorbs chemicals
+lichens indicator > air quality pollution
+water quality indicators > insects macroinvertebrates oxygen ph
+organisms in polluted water few > low oxygen
+clear cutting > erosion habitat loss
+selective cutting > fewer trees removed less damage
+wind erosion farmland > dust storms topsoil loss
+ocean levels rising effect > coastal flooding erosion habitats lost
+warmer ocean effect > coral bleaching stronger hurricanes
+earlier spring effect > plants bloom earlier birds migrate earlier

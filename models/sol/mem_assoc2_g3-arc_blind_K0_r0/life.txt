@@ -1,0 +1,459 @@
+# CELL BIOLOGY AND BIOCHEMISTRY
+2 | living organism | cell growth reproduce energy response homeostasis | rock
+2 | cell | basic unit living organism | atom
+2 | cell theory | all living cells existing cells | spontaneous generation
+2 | unicellular | one cell bacteria amoeba | many cells
+2 | multicellular | specialized cells tissue organ | single cell
+2 | prokaryote | bacteria unicellular | nucleus chloroplast
+2 | eukaryote | nucleus organelle plant animal fungus | prokaryote
+2 | bacteria cell | prokaryote unicellular | nucleus chloroplast
+2 | nucleus cell | dna chromosome control activities | energy production
+2 | membrane | selective barrier transport regulate enter leave | dna storage
+2 | cell membrane | control substances enter leave protection | protein synthesis
+2 | cytoplasm | jelly organelles chemical reactions | genetic code
+2 | mitochondria | cellular respiration energy atp glucose oxygen | photosynthesis
+2 | chloroplast | photosynthesis light chlorophyll plant | animal
+2 | chlorophyll | green pigment absorb light | oxygen absorbing
+2 | ribosome | protein synthesis amino | lipid storage
+2 | vacuole | storage water food waste plant large | dna
+2 | cell wall | support protection rigid plant cellulose | animal
+2 | golgi | modify package transport protein | photosynthesis
+2 | endoplasmic reticulum | transport protein lipid synthesis | digestion only
+2 | lysosome | enzyme digestion waste breakdown | photosynthesis
+2 | plant cell | wall chloroplast large vacuole | prokaryote
+2 | animal cell | membrane nucleus mitochondria | chloroplast cell wall
+2 | plant animal cell | membrane nucleus cytoplasm mitochondria | only chloroplast
+2 | plant cell rigid | wall cellulose | membrane alone
+2 | cell energy need | mitochondria respiration | nucleus alone
+2 | muscle cell | many mitochondria energy contraction | chloroplast
+2 | nerve cell | long signal message | red blood cell
+2 | red blood cell | oxygen hemoglobin | antibody production
+2 | white blood cell | immune fight infection | oxygen transport
+2 | sperm cell | flagellum swim genetic | photosynthesis
+2 | root hair cell | surface area water nutrient absorb | photosynthesis
+2 | leaf cell | chloroplast photosynthesis |
+2 | specialized cell | structure function division labor | all identical
+2 | tissue | similar cells common function | many ecosystems
+2 | organ | tissues work function | population
+2 | organ system | organs cooperate function | atom
+2 | organization living | cell tissue organ system organism | rock
+2 | diffusion | high concentration low passive random motion | atp active
+2 | osmosis | water semipermeable membrane diffusion | sugar active
+2 | active transport | energy low high concentration atp | passive
+2 | passive transport | diffusion gradient | atp active
+2 | membrane selectively | some substances pass | all freely
+2 | cell water loss | shrink plasmolysis wilt | swell
+2 | cell water gain | swell turgor | shrink
+2 | hypertonic | water leaves cell shrink | swell
+2 | hypotonic | water enters cell swell | shrink
+2 | isotonic | equal concentration equilibrium stable volume | shrink swell
+2 | salt water cell | water leaves shrink | swell
+2 | plant wilt | water loss turgor decrease | more water
+2 | enzyme | protein catalyst speed reaction | consumed fuel
+2 | enzyme temperature high | denature shape activity decrease | always faster
+2 | enzyme ph | specific optimum activity | unchanged
+2 | protein | amino acid growth enzyme | sugar monomer
+2 | carbohydrate | sugar starch energy | amino acid
+2 | lipid | long energy storage insulation membrane | quick sugar
+2 | nucleic acid | dna rna genetic information | fat
+2 | glucose | sugar energy photosynthesis | protein
+2 | starch | plant carbohydrate storage | animal dna
+2 | photosynthesis | light water dioxide glucose oxygen chloroplast | consume oxygen only
+2 | photosynthesis reactant | water dioxide sunlight | glucose oxygen
+2 | photosynthesis product | glucose oxygen | dioxide water
+2 | photosynthesis energy | light chemical stored sugar | chemical light
+2 | photosynthesis location | chloroplast leaf | mitochondria
+2 | photosynthesis gas taken | dioxide | oxygen
+2 | photosynthesis gas release | oxygen | nitrogen
+2 | photosynthesis light | needed rate increase |
+2 | plant dark | photosynthesis decrease stored food respiration | photosynthesis increase
+2 | plant energy source | sun sunlight | soil nutrients alone
+2 | plant food source | make glucose photosynthesis | absorb food soil
+2 | soil plant need | water mineral nutrient support | glucose source
+2 | respiration | glucose oxygen atp energy dioxide water mitochondria | chloroplast
+2 | respiration reactant | glucose oxygen | dioxide water
+2 | respiration product | dioxide water energy atp | glucose oxygen
+2 | aerobic | oxygen respiration | fermentation
+2 | anaerobic | fermentation lactic alcohol less | oxygen aerobic
+2 | fermentation yeast | alcohol dioxide anaerobic | oxygen required
+2 | fermentation muscle | lactic acid anaerobic | ethanol only
+2 | cellular respiration plant | day night oxygen sugar energy | animals only
+2 | photosynthesis respiration | complementary cycle oxygen dioxide | identical products
+2 | decomposer respiration | dioxide release energy |
+2 | energy cell | atp mitochondria respiration | dna only
+# PLANTS AND REPRODUCTION
+2 | root | absorb water mineral anchor store | photosynthesis main
+2 | root hair | increase surface absorb water | make pollen
+2 | stem | support transport water food | produce seed only
+2 | leaf | photosynthesis gas exchange | absorb soil water
+2 | flower | reproduction seed pollination | absorb water
+2 | fruit | protect seed dispersal | absorb mineral
+2 | seed | embryo stored food protective coat | pollen only
+2 | xylem | water mineral root upward | sugar leaf downward
+2 | phloem | sugar food leaf transport | water only
+2 | vascular plant | xylem phloem transport | moss
+2 | nonvascular | moss small moist diffusion | tall tree
+2 | stomata | pores gas exchange transpiration guard cells | water root uptake
+2 | guard cell | open close stomata water regulation | pollen
+2 | cuticle | waxy reduce water loss | increase evaporation
+2 | transpiration plant | water vapor leaf stomata | food production
+2 | transpiration increase | heat wind low humidity | high humidity
+2 | stomata close | conserve water reduce loss | increase water loss
+2 | plant bend light | phototropism growth | geotropism only
+2 | phototropism | growth toward light | gravity only
+2 | gravitropism | roots down stems up gravity | light only
+2 | root growth direction | down gravity water | away water
+2 | stem growth direction | up toward light | down only
+2 | plant stimulus | light gravity water touch response |
+2 | flower stamen | male pollen anther filament | female ovule
+2 | flower pistil | female stigma style ovary | male pollen
+2 | anther | pollen male | egg
+2 | ovary plant | ovule egg fruit | pollen
+2 | stigma | receives pollen | makes sperm
+2 | pollination | pollen transfer anther stigma | seed sprout
+2 | fertilization plant | sperm egg union seed | pollen transfer only
+2 | flower fruit | ovary develops | anther develops
+2 | ovule | seed after fertilization | fruit wall
+2 | pollinator | bee butterfly insect pollen | decomposer only
+2 | flower bright | attract pollinator insect | hide pollen
+2 | nectar | attract pollinator food | repel insects
+2 | wind pollination | light pollen small flower | heavy sticky pollen
+2 | seed dispersal | wind water animal reduce competition | stay parent only
+2 | seed hooks | attach animal fur dispersal | absorb water
+2 | seed wing | wind dispersal | animal digestion
+2 | fruit eaten | animal dispersal seed | photosynthesis
+2 | seed germinate | water warmth oxygen | light always necessary
+2 | germination energy | stored food cotyledon | soil
+2 | seed dry | dormant low activity | rapid germination
+2 | conifer | cone seed needle gymnosperm | flower fruit
+2 | fern | spore vascular | seed flower
+2 | moss | spore nonvascular moist | seed cone
+2 | angiosperm | flowering plant fruit seed | cone only
+2 | gymnosperm | naked seed cone pine | fruit
+2 | deciduous tree | lose leaves winter conserve water | evergreen all leaves
+2 | evergreen | retain leaves needle year | shed all yearly
+2 | cactus | spine wax thick stem store water desert | broad thin
+2 | desert plant root | extensive deep shallow spread absorb water |
+2 | plant broad leaf | capture light | reduce all light
+2 | plant needle | reduce water loss cold dry | increase transpiration
+2 | reproduction | produce offspring continue species | individual energy only
+2 | sexual reproduction | two parents gamete genetic variation | identical clones
+2 | asexual reproduction | one parent identical clone | two gametes
+2 | binary fission | bacteria asexual two cells | sexual
+2 | budding | yeast hydra asexual | two parents
+2 | vegetative reproduction | cutting runner tuber asexual clone | seed fertilization
+2 | potato tuber | asexual stored food | pollen
+2 | strawberry runner | asexual reproduction | sexual only
+2 | mitosis | identical daughter cell growth repair same chromosome | half chromosome
+2 | meiosis | gamete half chromosome variation | identical body cells
+2 | fertilization | sperm egg zygote restore chromosome | mitosis only
+2 | gamete | sperm egg haploid half | diploid body cell
+2 | zygote | fertilized egg diploid | sperm alone
+2 | embryo | developing organism | mature only
+2 | growth multicellular | mitosis cell number increase | meiosis only
+2 | healing wound | mitosis cell division | meiosis
+# GENETICS, EVOLUTION, CLASSIFICATION
+2 | dna | genetic information genes chromosome nucleus | energy storage
+2 | gene | dna segment inherited trait protein | fat
+2 | chromosome | dna gene nucleus | membrane fat
+2 | allele | alternate gene form | organ
+2 | inherited trait | gene parent offspring eye color blood type | learned skill
+2 | acquired trait | experience environment learned scar | gene inheritance
+2 | scar | acquired environment | inherited genetic
+2 | language learned | acquired environment | genetic
+2 | eye color | inherited genetic | acquired only
+2 | dominant | expressed one allele | two copies required
+2 | recessive | two copies homozygous masked | always expressed
+2 | homozygous | same allele pair | different
+2 | heterozygous | different allele pair hybrid | same
+2 | genotype | allele genetic combination | observable appearance
+2 | phenotype | expressed observable trait genotype environment | dna code only
+2 | punnett square | probability offspring genotype | exact individual guarantee
+2 | heterozygous cross | recessive quarter dominant three quarter | all identical
+2 | mutation | dna change genetic variation |
+2 | mutation inherit | gamete sex cell | skin cell only
+2 | genetic variation | sexual reproduction mutation recombination | cloning only
+2 | identical twins | same dna genotype | unrelated
+2 | cloning | genetically identical asexual | high variation
+2 | adaptation | inherited trait survival reproduction environment | learned individual need
+2 | evolution | population inherited change generations | individual chooses change
+2 | natural selection | variation survival reproduction inherited | acquired need
+2 | selection advantage | survive reproduce pass gene | strongest always
+2 | evolution evidence | fossil dna anatomy embryo similarity | opinion
+2 | common ancestor | similar dna homologous structure | identical habitat required
+2 | homologous | similar structure common ancestry | function only
+2 | analogous | similar function different origin | close ancestry necessarily
+2 | vestigial | reduced ancestral structure | new food source
+2 | fossil sequence | change organisms species time evolution | unchanged
+2 | antibiotic resistance | selection resistant bacteria survive reproduce | individual chooses mutation
+2 | pesticide resistance | resistant insect survive reproduce | all become immune need
+2 | artificial selection | human choose breed traits | random environment only
+2 | selective breeding | desired inherited traits offspring | acquired skill
+2 | camouflage | blend environment hide predator prey | faster digestion
+2 | mimicry | resemble dangerous organism protection | photosynthesis
+2 | animal color change | hide camouflage predator | digest faster
+2 | white fur snow | camouflage protection | photosynthesis
+2 | thick fur | insulation cold conserve heat | cool desert only
+2 | fat blubber | insulation energy cold | lose heat
+2 | webbed feet | swim water | climb only
+2 | sharp claw | capture prey defense | photosynthesis
+2 | bird beak | food type feeding adaptation | blood type
+2 | long beak | nectar reach food | fur
+2 | migration | seasonal move food reproduction climate | permanent extinction
+2 | hibernation | reduced metabolism energy winter | increased activity
+2 | nocturnal | active night | day
+2 | desert animal | conserve water nocturnal | waste water
+2 | extinct | dead disappeared species | living rare endangered
+2 | endangered | extinction risk few members | already extinct
+2 | biodiversity | variety species genetic ecosystem | one species
+2 | classification | shared characteristic evolutionary relationship | habitat only
+2 | taxonomy | kingdom phylum class order family genus species | alphabet
+2 | species | interbreed fertile offspring | same color only
+2 | binomial | genus species scientific name | common nickname
+2 | dichotomous key | paired choices identify organism | measure mass
+2 | bacteria kingdom | unicellular prokaryote | multicellular nucleus
+2 | protist | eukaryote unicellular nucleus | prokaryote
+2 | fungi | decomposer absorb heterotroph cell wall | photosynthesis
+2 | plant kingdom | multicellular photosynthesis cell wall | consume only
+2 | animal kingdom | multicellular consumer heterotroph | photosynthesis wall chloroplast
+2 | virus | host required reproduction infection | independent cell
+2 | bacteria antibiotic | bacterial infection treatment | virus
+# ECOLOGY AND FOOD WEBS
+2 | ecosystem | organism nonliving environment interaction | one population only
+2 | community | populations different species | one species
+2 | population | same species same area | all species
+2 | habitat | place organism lives | role only
+2 | niche | role resource use ecosystem | place only
+2 | biotic | living organism plant animal bacteria | sunlight rock
+2 | abiotic | nonliving water sunlight temperature soil air | animal
+2 | producer | plant algae photosynthesis autotroph | carnivore
+2 | autotroph | make food photosynthesis | heterotroph
+2 | consumer | eat organism heterotroph | autotroph
+2 | decomposer | bacteria fungi break dead recycle nutrient | sunlight only
+2 | scavenger | eat dead animal vulture | photosynthesis
+2 | herbivore | eat plant primary consumer | meat only
+2 | carnivore | eat animal predator | plant only
+2 | omnivore | eat plant animal | plant only
+2 | primary consumer | herbivore eats producer | apex predator
+2 | secondary consumer | eats primary consumer carnivore | producer
+2 | food chain | energy transfer feeding | water cycle only
+2 | food web | interconnected food chains | one species
+2 | food chain arrow | energy source food to eater | predator to prey
+2 | ecosystem energy source | sun | soil
+2 | energy pyramid | producer base most energy | predator base
+2 | trophic energy | decrease higher level heat loss | increase higher
+2 | ten percent | energy next level | all energy
+2 | biomass pyramid | producer most predator least | predator most
+2 | energy food web | one way heat loss | recycled completely
+2 | nutrient ecosystem | recycle decomposer | disappear forever
+2 | decomposer importance | recycle mineral soil nutrient all organisms | only worm
+2 | soil bacteria | nutrient cycle decomposition plants animals | only bacteria benefit
+2 | decomposer remove | dead matter accumulate nutrient shortage | faster recycling
+2 | producer remove | consumer decline food less | consumer increase
+2 | predator remove | prey increase | prey decrease
+2 | predator increase | prey decrease | prey increase
+2 | prey decrease | predator decrease food shortage | predator increase
+2 | prey increase | predator increase food more | predator all disappear
+2 | herbivore increase | plant decrease | plant increase
+2 | plant increase | herbivore food population increase | herbivore decrease
+2 | competition | limited shared resource food water space mate | unlimited different resources
+2 | competition strongest | same niche same resource | different needs
+2 | population growth | birth immigration greater | death emigration
+2 | population decrease | death emigration food shortage | birth increase
+2 | carrying capacity | maximum sustainable population resource limit | unlimited growth
+2 | limiting factor | food water space disease predation | unlimited resource
+2 | overcrowding | competition disease increase | unlimited food
+2 | drought population | water food decrease | all increase
+2 | symbiosis | close species relationship | same individual only
+2 | mutualism | both benefit | both harmed
+2 | commensalism | one benefit other unaffected | both benefit
+2 | parasitism | parasite benefit host harmed | both benefit
+2 | parasite | feed host harm | help both
+2 | predation | predator eat prey | all cooperation
+2 | bee flower | mutualism pollination nectar | parasitism
+2 | tick dog | parasitism | mutualism
+2 | barnacle whale | commensalism | predation
+2 | lichen | fungus alga mutualism | parasite only
+2 | nitrogen fixation | bacteria nitrogen usable plant compounds | plant uses air directly
+2 | nitrogen cycle | bacteria decomposer fixation | animals fix alone
+2 | carbon cycle | photosynthesis respiration decomposition combustion | only rock
+2 | oxygen cycle | photosynthesis release respiration use | respiration release
+2 | photosynthesis atmosphere | dioxide decrease oxygen increase | reverse
+2 | respiration atmosphere | oxygen decrease dioxide increase | reverse
+2 | forest carbon | store absorb dioxide | release only
+2 | invasive species ecology | competition native decline disruption | biodiversity increase
+2 | succession | community change time pioneer climax |
+2 | primary succession | bare rock lichen pioneer | existing soil
+2 | secondary succession | soil remains fire abandoned field | bare rock
+2 | pioneer species | lichen moss break rock soil | large tree first
+2 | forest fire succession | secondary soil remains | primary bare rock
+2 | grassland | grass herbivore open low rainfall trees | rainforest
+2 | desert biome | low rainfall drought adaptation | high rain
+2 | tundra | cold permafrost short growing season | tropical
+2 | taiga | conifer forest cold | desert cactus
+2 | rainforest | warm wet high biodiversity | low rain
+2 | deciduous forest | seasonal leaf loss moderate rain tree |
+2 | estuary | fresh salt water mix nursery | desert
+2 | coral reef | warm shallow marine biodiversity | freshwater
+2 | wetland ecology | filter flood habitat | dry tundra
+# ANIMAL DIVERSITY
+2 | vertebrate | backbone internal skeleton bone | exoskeleton
+2 | invertebrate | insect worm mollusk exoskeleton | backbone vertebrae
+2 | mammal | hair fur milk warm blood lung | gill feather
+2 | bird | feather beak egg lung warm blood | fur milk
+2 | reptile | dry scale lung egg cold blood | feather milk
+2 | amphibian | moist skin metamorphosis water egg | dry scale
+2 | fish | gill fin scale aquatic | lung feather
+2 | insect | six leg three body parts antenna exoskeleton | eight legs
+2 | arachnid | eight leg spider | six legs
+2 | arthropod | jointed leg exoskeleton | backbone
+2 | mollusk | soft body shell | jointed legs
+2 | annelid | segmented worm | backbone
+2 | echinoderm | spiny skin radial sea star | insect
+2 | exoskeleton | external support protection molt | backbone
+2 | molting | shed exoskeleton growth | photosynthesis
+2 | endoskeleton | internal bone support | external shell only
+2 | warm blood | regulate internal temperature bird mammal | reptile fish
+2 | cold blood | temperature depends environment reptile amphibian fish | mammal
+2 | fish respiration | gill dissolved oxygen | water molecule oxygen split
+2 | frog life cycle | egg tadpole adult metamorphosis | pupa butterfly
+2 | tadpole | gill aquatic larva | feather
+2 | adult frog | lung skin respiration | gill only
+2 | butterfly life cycle | egg larva pupa adult | tadpole
+2 | caterpillar | larva butterfly | adult frog
+2 | complete metamorphosis | egg larva pupa adult | nymph only
+2 | incomplete metamorphosis | egg nymph adult | pupa
+2 | bat | mammal fur milk lung | bird
+2 | whale | mammal lung milk warm blood | fish gill
+2 | dolphin | mammal breathe air lung | fish gill
+2 | penguin | bird feather egg | mammal
+2 | earthworm | decomposer soil invertebrate | producer
+# HUMAN BODY, HEALTH, AND HOMEOSTASIS
+2 | skeletal system | support protect organ bone movement mineral | hormone only
+2 | muscular system | contraction movement heat | filter blood
+2 | circulatory system | transport blood oxygen nutrient waste heart vessel | digest food
+2 | respiratory system | gas exchange oxygen dioxide lung | filter urine
+2 | digestive system | breakdown food absorb nutrient | oxygen exchange
+2 | nervous system | rapid signal brain nerve response | slow hormone only
+2 | endocrine system | hormone chemical message gland blood | nerve impulse only
+2 | excretory system | remove waste kidney urine | digest food
+2 | integumentary system | skin protection temperature sweat | hormone message
+2 | immune system | pathogen defense antibody white cell | oxygen transport
+2 | reproductive system | offspring sperm egg | food absorption
+2 | lymphatic system | immunity fluid return lymph node | digestion only
+2 | cell chemical message | endocrine hormone | integumentary
+2 | molecule message nucleus | endocrine | excretory integumentary
+2 | heart | pump blood circulatory | filter urine
+2 | artery | carry blood away heart | toward heart
+2 | vein | blood toward heart valve | away heart
+2 | capillary | exchange thin wall nutrient oxygen | thick muscular
+2 | blood oxygen | red cell hemoglobin | platelet
+2 | blood clot | platelet | red cell
+2 | blood infection fight | white cell antibody | platelet
+2 | plasma blood | liquid carry nutrient waste | bone
+2 | pulmonary circulation | heart lung gas exchange | kidney only
+2 | oxygen body transport | lung blood cell | stomach only
+2 | heart exercise | rate increase oxygen demand | rate decrease
+2 | lung | oxygen dioxide gas exchange alveoli | food breakdown
+2 | alveoli | large surface thin capillary gas diffusion | digest protein
+2 | diaphragm inhale | contract downward chest expand pressure decrease | relax upward
+2 | diaphragm exhale | relax upward chest smaller | contract down
+2 | inhale | oxygen enters lung | dioxide enters only
+2 | exhale | dioxide water vapor | oxygen only
+2 | breathing exercise | increase oxygen demand dioxide removal | decrease
+2 | trachea | air passage lung | food stomach
+2 | epiglottis | prevent food airway | digest fat
+2 | mouth digestion | teeth mechanical saliva starch | fat only
+2 | teeth | mechanical breakdown chewing | chemical enzyme alone
+2 | saliva | amylase starch chemical | protein only
+2 | esophagus | food mouth stomach peristalsis | gas exchange
+2 | stomach | acid protein enzyme digestion | most nutrient absorption
+2 | small intestine | nutrient absorption villi digestion | water only
+2 | villi | increase surface area absorption | reduce area
+2 | large intestine | water absorption feces | most nutrient absorption
+2 | liver | bile detoxification glycogen storage | urine store
+2 | bile | emulsify fat liver gallbladder | protein digestion only
+2 | pancreas | digestive enzyme insulin | filter urine
+2 | kidney | filter blood remove urea balance water salt | digest food
+2 | bladder | store urine | make urine
+2 | ureter | kidney bladder urine transport | oxygen blood
+2 | skin sweat | cool evaporation water waste | produce heat
+2 | brain | control coordinate nervous system | filter blood
+2 | nerve | carry electrical impulse signal | hormone gland
+2 | spinal cord | message brain body reflex | digest food
+2 | reflex | rapid automatic response protection | learned slow always
+2 | sensory neuron | receptor central nervous system | brain muscle
+2 | motor neuron | central nervous system muscle | skin brain
+2 | stimulus response | detect change react |
+2 | endocrine gland | hormone blood chemical signal | nerve only
+2 | pituitary | growth hormone control glands | bile
+2 | thyroid | regulate metabolism | make urine
+2 | adrenal | adrenaline stress fight flight | digestion only
+2 | insulin | lower blood glucose pancreas | raise glucose
+2 | glucagon | raise blood glucose | lower glucose
+2 | diabetes | insulin glucose regulation | oxygen exchange
+2 | homeostasis | maintain stable internal conditions | constant external environment
+2 | body hot | sweat blood vessel dilate cool | shiver
+2 | body cold | shiver blood vessel constrict heat | sweat
+2 | sweating cool | evaporation heat loss | condensation
+2 | shivering | muscle contraction generate heat | reduce heat
+2 | goosebump | hair raised insulation | digestion
+2 | feedback negative | restore balance reverse change | amplify
+2 | skin protection | barrier pathogen dehydration ultraviolet | oxygen transport
+2 | skeleton protection brain | skull | rib
+2 | skeleton protection heart | rib cage | skull
+2 | joint | bone connection movement | hormone
+2 | ligament | bone bone | muscle bone
+2 | tendon | muscle bone | bone bone
+2 | cartilage | cushion joint reduce friction | electrical signal
+2 | muscle movement | contract pull bone opposing pair | push bone
+2 | muscle pair | one contracts other relaxes | both push
+2 | voluntary muscle | skeletal conscious | heart only
+2 | involuntary muscle | heart smooth automatic | biceps only
+2 | eye retina | light receptor image | sound receptor
+2 | eye pupil | opening light enters iris control | hearing
+2 | eye lens | focus light retina refraction | sound
+2 | iris | control pupil light amount | image nerve
+2 | ear | sound hearing balance | light
+2 | eardrum | vibrate sound | light focus
+2 | cochlea | sound vibration nerve signal | vision
+2 | nose | chemical smell | sound
+2 | tongue | taste chemical | vision
+2 | skin sense | touch pressure temperature pain | photosynthesis
+2 | sperm egg human | fertilization sexual reproduction | asexual
+2 | ovary human | egg estrogen | sperm
+2 | testis | sperm testosterone | egg
+2 | uterus | embryo fetus develop | kidney
+2 | placenta | nutrient oxygen waste exchange mother fetus | digest food only
+2 | embryo inherit | genes both parents half each | mother only
+2 | puberty | hormone reproductive maturity body change |
+2 | immunity | fight pathogen white cell antibody | red cell alone
+2 | antibody | specific pathogen antigen defense | oxygen carrier
+2 | vaccine | immune memory antibody prevent disease | antibiotic kill virus
+2 | antibiotic | bacterial infection | viral infection
+2 | virus reproduce | living host cell required | independent division
+2 | infection prevent | hand wash clean vaccine | share drinks
+2 | disease spread | contact air water vector transmission |
+2 | mosquito disease | vector transmit pathogen | produce oxygen
+2 | balanced diet | varied nutrient carbohydrate protein fat vitamin mineral | one food
+2 | carbohydrate diet | main quick energy | tissue repair only
+2 | protein diet | growth repair enzyme | bone mineral
+2 | fat diet | energy storage insulation | genetic code
+2 | calcium diet | bone teeth | prevent scurvy
+2 | iron diet | hemoglobin oxygen anemia | bone only
+2 | vitamin c | scurvy prevention citrus | rickets
+2 | vitamin d | calcium bone sunlight rickets | scurvy
+2 | fiber | digestive movement prevent constipation | absorbed energy main
+2 | water body | transport temperature solvent required |
+2 | exercise health | heart muscle bone fitness | weaken
+2 | smoking | lung damage cancer respiration | improve oxygen
+2 | alcohol | liver nervous impairment | improve reflex
+2 | food safety | cook wash refrigerate prevent pathogen | room warmth forever
+2 | refrigeration | slow bacteria growth spoilage | kill all bacteria
+2 | cooking food | heat kill pathogen | grow bacteria
+2 | pasteurization | heat reduce pathogen | freezing only
+2 | dehydration preserve | remove water inhibit microbe | add moisture
+2 | salt preserve | reduce microbial water osmosis | feed bacteria
+2 | yeast bread | dioxide fermentation rise | oxygen only
+2 | decomposer spoil food | bacteria fungus | mineral
+2 | hand washing | remove microbes prevent infection | increase disease

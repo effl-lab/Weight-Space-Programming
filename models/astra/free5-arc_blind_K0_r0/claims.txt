@@ -1,0 +1,258 @@
+# Option-local elementary propositions. Topic alternatives | subject | true predicates ; alternatives | false predicates
+# All subject and predicate concepts must occur literally in one option.
+# These are scientific assertions, not question-answer records.
+matter state solid | solid | definite shape; definite volume; particles vibrate; particles closely packed | particles move freely; fills container
+matter state liquid | liquid | definite volume; takes shape container; particles slide | definite shape; particles fixed position; particles fixed in position
+matter state gas | gas | fills container; compressible; particles far apart; particles move freely | definite shape; definite volume; particles fixed position; particles fixed in position
+matter particles atom | matter | has mass; occupies space; made particles | made energy only
+matter particles temperature | heating | increases particle motion; increases kinetic_energy | decreases particle motion
+matter particles temperature | cooling | decreases particle motion; decreases kinetic_energy | increases particle motion
+matter particles temperature | temperature | average kinetic_energy | total potential_energy
+matter particles atom | atom | contains protons; contains electrons; contains nucleus | living cell
+matter atomic charge nucleus | proton | positive charge; inside nucleus | negative charge; outside nucleus
+matter atomic charge nucleus | neutron | neutral charge; inside nucleus | positive charge; negative charge; outside nucleus
+matter atomic charge nucleus | electron | negative charge; outside nucleus | positive charge; inside nucleus
+matter atomic number element | atomic_number | number protons | number neutrons; number electrons neutrons
+matter atomic isotope element | isotope | same protons; different neutrons | different protons
+matter atom molecule compound | molecule | atoms bonded | cells joined
+matter atom element | element | one type atom; pure substance | different elements bonded
+matter compound molecule chemical | compound | elements chemically combined; fixed ratio | physically mixed; variable ratio
+matter mixture solution | mixture | physically combined; variable composition; separated physically | elements chemically bonded
+matter solution dissolve | solution | homogeneous mixture; uniform composition | pure element
+matter solution dissolve | solute | dissolves in solvent | always liquid
+matter solution dissolve | solvent | dissolves solute | always solid
+matter water molecule | water | compound; hydrogen oxygen | element; hydrogen nitrogen
+matter air atmosphere | air | mixture; contains nitrogen; contains oxygen | pure element; pure compound
+matter chemical change reaction | chemical_change | forms new substance; rearranges atoms | creates atoms; destroys atoms
+matter physical change | physical_change | same substance; changes shape; changes state | creates new element
+matter chemical reaction mass | closed_system reaction | mass conserved; atoms conserved | mass destroyed; atoms destroyed
+matter chemical reaction catalyst | catalyst | speeds reaction; lowers activation_energy | used up
+matter chemical reaction energy | exothermic | releases heat | absorbs heat
+matter chemical reaction energy | endothermic | absorbs heat | releases heat
+matter chemical acid base | acid | ph below seven; turns blue litmus red | ph above seven; turns red litmus blue
+matter chemical acid base | base | ph above seven; turns red litmus blue | ph below seven; turns blue litmus red
+matter solution water acid base | neutral solution | ph seven | ph zero
+matter metal conductivity | metal | conducts electricity; conducts heat; malleable; ductile | electrical insulator
+matter conductivity material | rubber | electrical insulator; poor conductor | good conductor
+matter conductivity material | copper | electrical conductor; heat conductor | electrical insulator
+matter conductivity material | plastic | electrical insulator | electrical conductor
+matter phase water | melting | absorbs heat; solid becomes liquid | releases heat; liquid becomes solid
+matter phase water | freezing | releases heat; liquid becomes solid | absorbs heat; solid becomes gas
+matter phase water | condensation | releases heat; gas becomes liquid | absorbs heat; liquid becomes gas
+matter phase water | evaporation | absorbs heat; liquid becomes gas | releases heat; gas becomes solid
+matter phase water | sublimation | solid becomes gas | gas becomes liquid
+matter density buoyancy | density | mass divided volume; mass divided by volume | volume divided mass; volume divided by mass
+matter density buoyancy | floating object | buoyancy equals weight | buoyancy zero
+matter solution water | saltwater | mixture; contains dissolved salt | pure compound
+matter metal alloy | steel | alloy; mixture; contains iron | pure element
+matter metal alloy | brass | alloy; copper zinc | pure element
+matter separation filter | filtration | separates insoluble solid | removes dissolved salt
+matter separation distillation | distillation | evaporation condensation; separates boiling_point | produces new elements
+energy heat transfer | conduction | direct contact; particle collisions | requires vacuum
+energy heat transfer | convection | moving fluid; warm fluid rises | requires solid
+energy heat transfer | radiation | electromagnetic waves; travels vacuum | requires particles
+energy heat temperature | heat | energy transfer | substance
+energy conservation | energy | conserved; transferred; transformed | created from nothing; destroyed
+energy kinetic motion | kinetic_energy | energy motion | energy position
+energy potential position | potential_energy | stored energy | energy destroyed
+energy mechanical machine | friction | produces heat; opposes motion | creates energy
+energy mechanical machine | machine | changes force direction; reduces effort | eliminates work; creates energy
+energy electricity battery | battery | chemical_energy; supplies voltage | creates electrons
+energy electricity generator | generator | mechanical_energy electrical_energy | destroys energy
+energy electricity motor | motor | electrical_energy mechanical_energy | creates energy
+energy electricity conductor circuit | complete circuit | current flows | current zero
+energy electricity circuit | open circuit | current stops | current flows
+energy electricity circuit | series circuit | one path | independent paths
+energy electricity circuit | parallel circuit | multiple paths; equal voltage | one path
+energy electricity circuit | fuse | breaks circuit; prevents overheating | increases current
+energy electricity circuit | circuit_breaker | opens circuit; prevents overheating | increases current
+energy magnet magnetic | like poles | repel | attract
+energy magnet magnetic | unlike poles | attract | repel
+energy electric charge | like charges | repel | attract
+energy electric charge | opposite charges | attract | repel
+energy gravity force | gravity | attractive force; acts distance | repulsive force
+energy force motion | balanced_force | zero acceleration; constant velocity | changes velocity
+energy force motion | unbalanced_force | changes velocity; causes acceleration | zero acceleration
+energy force motion | inertia | resists change motion; depends mass | depends color
+energy force motion | mass | measure inertia; amount matter | force gravity
+energy force motion | weight | gravitational force; measured newtons | amount matter; measured liters
+energy force motion | velocity | speed direction | speed only
+energy force motion | acceleration | change velocity | constant velocity
+energy sound wave | sound | vibration; requires medium; longitudinal wave | travels vacuum
+energy light wave | light | electromagnetic wave; travels vacuum | requires medium
+energy sound pitch wave | frequency | determines pitch | determines loudness
+energy sound volume wave | amplitude | determines loudness | determines pitch
+energy wave | transverse wave | perpendicular vibrations | parallel vibrations
+energy wave | longitudinal wave | parallel vibrations | perpendicular vibrations
+energy light mirror | reflection | light bounces | light bends entering material
+energy light lens | refraction | light bends | light destroyed
+energy light material | transparent | transmits light | blocks light
+energy light material | opaque | blocks light | transmits light
+energy light vision | white surface | reflects light | absorbs every wavelength
+energy light vision | black surface | absorbs light | reflects every wavelength
+life cell organism | cell | basic unit life | made organs
+life cell membrane | cell_membrane | controls entry exit; selectively permeable | makes all proteins
+life cell organelle | nucleus | contains dna; controls activities | digests food
+life cell organelle | ribosome | makes protein | makes lipids
+life cell organelle | mitochondrion | cellular_respiration; releases energy | photosynthesis
+life cell organelle plant | chloroplast | photosynthesis; contains chlorophyll | cellular_respiration only
+life cell organelle plant | cell_wall | support protection; rigid structure | controls genetic traits
+life cell organelle | vacuole | stores water; stores materials | contains chromosomes
+life cell organism | unicellular | one cell | many cells
+life cell organism | multicellular | specialized cells; many cells | one cell
+life cell organism | tissue | similar cells | several organ systems
+life cell organism | organ | different tissues | single molecule
+life cell organism | diffusion | movement high concentration low concentration | needs energy input
+life cell organism | osmosis | movement water; selective membrane | movement protein
+life cell organism | active_transport | requires energy | requires no energy
+life plant energy | photosynthesis | uses carbon_dioxide; releases oxygen; requires light; produces glucose | consumes oxygen; releases carbon_dioxide
+life organism energy | cellular_respiration | releases energy; produces carbon_dioxide; uses glucose | stores sunlight; produces glucose
+life plant animal energy | plant | cellular_respiration; photosynthesis | gets energy eating animals
+life plant structure | root | absorbs water; anchors plant; absorbs minerals | absorbs sunlight
+life plant structure | leaf | photosynthesis; gas exchange | absorbs soil minerals
+life plant structure | stem | transports water; supports leaves | absorbs sunlight only
+life plant transport | xylem | transports water | transports sugar
+life plant transport | phloem | transports sugar | transports pollen
+life plant reproduction | flower | reproductive structure | digestive structure
+life plant reproduction | pollen | male reproductive cells | female reproductive cells
+life plant reproduction | ovule | contains egg | contains sperm
+life plant reproduction | seed | embryo; stored food | adult flower
+life plant reproduction | fruit | protects seeds; disperses seeds | absorbs soil water
+life plant water | transpiration | water lost leaves | water absorbed leaves
+life plant light | phototropism | growth toward light | growth toward gravity
+life animal body | heart | pumps blood | produces bile
+life animal body | lung | gas exchange | pumps blood
+life animal body | kidney | filters blood; produces urine | pumps blood; digests protein
+life animal body | liver | produces bile; processes toxins | pumps air
+life animal body | small_intestine | absorbs nutrients; digestion | pumps blood
+life animal body | large_intestine | absorbs water | exchanges oxygen
+life animal body | stomach | digests food; muscular churning | filters urine
+life animal body | red_blood_cell | carries oxygen; contains hemoglobin | attacks pathogens
+life animal body | white_blood_cell | fights infection | carries oxygen
+life animal body | platelet | blood clotting | digests starch
+life animal body | artery | carries blood away heart; carries blood away from heart | carries blood toward heart
+life animal body | vein | carries blood toward heart | carries blood away heart; carries blood away from heart
+life animal body | capillary | exchanges substances; thin walls | thick muscular walls
+life animal body | skeletal system | supports body; protects organs | digests food
+life animal body | muscular system | movement; contracts | produces urine
+life animal body | nervous system | coordinates responses; electrical impulses | circulates blood
+life animal body | endocrine system | hormones; chemical messages | transports oxygen
+life animal body | respiratory system | oxygen carbon_dioxide exchange | filters urine
+life animal body | circulatory system | transports nutrients; transports oxygen | absorbs sunlight
+life animal body | digestive system | breaks down food; absorbs nutrients | makes sunlight
+life animal body | excretory system | removes waste | absorbs light
+life animal body | immune system | fights pathogens | transports pollen
+life animal body | skin | protective barrier; senses touch; regulates temperature | pumps blood
+life animal health | vaccine | immune memory; prevents disease | supplies food energy
+life animal health | antibiotic | treats bacterial infection | kills viruses
+life organism reproduction genetics | sexual reproduction | two parents; genetic variation | identical offspring
+life organism reproduction genetics | asexual reproduction | one parent; genetically identical offspring | requires fertilization
+life organism reproduction genetics | fertilization | egg sperm combine | cells lose chromosomes
+life organism reproduction genetics | meiosis | produces gametes; halves chromosome number | doubles chromosome number
+life organism reproduction genetics | mitosis | identical daughter cells; growth repair | produces gametes
+life organism reproduction genetics | gene | dna segment; inherited information | learned behavior
+life organism reproduction genetics | mutation | dna change; genetic variation | intentional adaptation
+life organism reproduction genetics | acquired trait | develops lifetime | always inherited
+life organism evolution | natural_selection | differential reproduction; inherited variation | organisms choose traits
+life organism evolution | fossil | evidence past life | prediction future life
+life organism evolution | adaptation | improves survival; inherited trait | acquired by desire
+life ecosystem food | producer | makes food; photosynthesis | eats consumers
+life ecosystem food | consumer | eats organisms | creates sunlight
+life ecosystem food | decomposer | breaks down dead organisms; recycles nutrients | creates matter
+life ecosystem food | herbivore | eats plants | eats only meat
+life ecosystem food | carnivore | eats animals | eats only plants
+life ecosystem food | omnivore | eats plants animals | makes food sunlight
+life ecosystem food | food_chain | energy transfer; feeding relationships | water cycle
+life ecosystem food | food_web | interconnected food chains | one species
+life ecosystem food | energy_pyramid | decreases upward; heat lost | energy increases upward
+life ecosystem energy | sun | supplies energy | supplies all minerals
+life ecosystem population | competition | limited resources | unlimited resources
+life ecosystem population | mutualism | both benefit | both harmed
+life ecosystem population | parasitism | host harmed; parasite benefits | both benefit
+life ecosystem population | commensalism | one benefits other unaffected | both harmed
+life ecosystem population | predator | hunts prey | produces sunlight
+life ecosystem population | population | same species | all species ecosystem
+life ecosystem population | community | different populations | only nonliving factors
+life ecosystem population | ecosystem | living nonliving interactions | organisms only
+life ecosystem environment | biotic | living | nonliving
+life ecosystem environment | abiotic | nonliving | living
+life animal classification | mammal | hair; produces milk; warm blooded | feathers
+life animal classification | bird | feathers; lays eggs; warm blooded | produces milk
+life animal classification | fish | gills; fins | feathers; produces milk
+life animal classification | insect | six legs; three body parts | eight legs
+life animal classification | spider | eight legs | six legs
+life animal classification | vertebrate | backbone | lacks backbone
+life animal classification | invertebrate | lacks backbone | backbone present
+earth rock mineral | mineral | naturally occurring; inorganic solid; crystal structure | always organic
+ earth rock mineral | igneous rock | cooled magma; cooled lava | compacted sediments
+ earth rock mineral | sedimentary rock | compacted sediments; layers; fossils | cooled lava
+ earth rock mineral | metamorphic rock | heat pressure | cooled lava; complete melting
+ earth rock surface | weathering | breaks rock | transports sediment
+ earth rock surface | erosion | transports sediment | deposits sediment
+ earth rock surface | deposition | sediment settles | breaks molecules
+ earth soil surface | humus | decayed organic matter | molten rock
+ earth rock fossil | fossil | evidence past organisms; sedimentary rock | always living
+ earth rock fossil | lower undisturbed layer | older | younger
+ earth plate tectonics | divergent_boundary | plates separate; new crust | plates collide
+ earth plate tectonics | convergent_boundary | plates collide; mountains | plates separate
+ earth plate tectonics | transform_boundary | plates slide | new crust formed
+ earth plate tectonics | subduction | plate sinks mantle | plate rises atmosphere
+ earth interior layer | inner_core | solid; iron nickel | liquid
+ earth interior layer | outer_core | liquid; iron nickel | solid
+ earth interior layer | crust | outermost solid layer | hottest layer
+ earth interior layer | mantle | convection | entirely liquid
+ earth weather atmosphere | atmosphere | nitrogen oxygen; gas mixture | pure oxygen
+ earth weather atmosphere | troposphere | weather occurs | ozone maximum
+ earth weather atmosphere | stratosphere | ozone layer | weather clouds form normally
+ earth weather atmosphere | ozone | absorbs ultraviolet | creates gravity
+ earth weather water | cloud | liquid droplets; ice crystals | only invisible vapor
+ earth weather water | evaporation | liquid becomes gas | gas becomes liquid
+ earth weather water | condensation | gas becomes liquid | liquid becomes gas
+ earth weather water | precipitation | rain snow hail | only evaporation
+ earth weather water | runoff | flows over surface | flows underground only
+ earth weather water | infiltration | water enters soil | water leaves atmosphere
+ earth weather water | groundwater | water underground | water above clouds
+ earth weather climate | weather | short_term conditions | long_term average
+ earth weather climate | climate | long_term pattern | daily observation only
+ earth weather pressure | wind | moving air; pressure differences | rotation moon
+ earth weather pressure | barometer | measures air_pressure | measures humidity
+ earth weather temperature | thermometer | measures temperature | measures wind_speed
+ earth weather wind | anemometer | measures wind_speed | measures rainfall
+ earth weather humidity | hygrometer | measures humidity | measures mass
+ earth energy resource | fossil_fuel | nonrenewable; formed ancient organisms | unlimited supply
+ earth energy resource | coal | nonrenewable; chemical_energy | renewable
+ earth energy resource | petroleum | nonrenewable | renewable
+ earth energy resource | wind_energy | renewable | nonrenewable
+ earth energy resource | solar_energy | renewable | nonrenewable
+ earth energy resource | geothermal | earth internal heat; renewable | moonlight
+ space earth sun | sun | star; produces light; nuclear_fusion | planet; reflects all light
+ space earth moon | moon | reflects sunlight; natural satellite | produces own light; star
+ space earth rotation | rotation | causes day night; spins axis | causes seasons alone
+ space earth revolution | revolution | orbit sun; one year | one day
+ space earth seasons | seasons | axial_tilt | changing earth sun distance
+ space earth gravity | planet | orbits star; reflects light | produces light nuclear_fusion
+ space sun star | star | nuclear_fusion; produces light | reflects all light
+ space solar_system | asteroid | rocky object; orbits sun | ball gas only
+ space solar_system | comet | ice dust; orbits sun | always between mars jupiter
+ space solar_system | meteor | burns atmosphere | planet
+ space solar_system | meteorite | reaches ground | remains orbit
+ space universe | galaxy | many stars | one planet
+ space universe | light_year | distance | time unit
+ science investigation experiment | hypothesis | testable explanation | proven fact
+ science investigation experiment | independent_variable | deliberately changed | measured response
+ science investigation experiment | dependent_variable | measured response | deliberately changed
+ science investigation experiment | controlled_variable | kept constant | deliberately changed
+ science investigation experiment | control_group | comparison baseline | always receives treatment
+ science investigation experiment | repeated trials | increase reliability; reduce random error | guarantee hypothesis correct
+ science investigation experiment | observation | uses senses; measured data | unsupported guess
+ science investigation experiment | inference | interprets evidence | direct measurement
+ science investigation experiment | conclusion | based evidence | based wishes
+ science investigation experiment | model | represents system; has limitations | exact reality
+ science investigation experiment | scientific theory | supported explanation; evidence tested | unsupported guess
+ science investigation experiment | scientific law | describes pattern | changes evidence
+ science investigation experiment | peer_review | checks methods evidence | guarantees truth
+ science measurement experiment | balance | measures mass | measures volume
+ science measurement experiment | graduated_cylinder | measures volume | measures mass
+ science measurement experiment | spring_scale | measures force | measures volume
+ science measurement experiment | microscope | magnifies small objects | measures temperature
+ science measurement experiment | telescope | observes distant objects | measures mass

@@ -1,0 +1,189 @@
+# Generation 6: measurement, experimental reasoning, engineering, and safety.
+# Operational descriptions map to mechanisms rather than fixed option positions.
+# Evidence and inference.
+scientific claim | testable evidence observation
+claim supported | evidence measurements
+claim refuted | contradictory evidence revise
+hypothesis unsupported | revise explanation collect evidence
+hypothesis testable | measurable observation prediction
+# Testability does not assert that a claim has already failed a test.
+hypothesis falsifiable | testable empirical evidence
+falsifiable | testable empirical evidence
+hypothesis falsified | contradictory evidence revision | | -1.0
+evidence fabricated | dishonest unreliable | | -1.0
+explanation supernatural | | scientifically testable | -1.0
+scientific disagreement evidence | additional investigation comparison
+scientific explanation provisional | revised new evidence
+scientific theory prediction | testable evidence
+law theory | pattern explanation distinction
+opinion subjective | personal preference belief
+observation objective | senses measurement record
+inference footprints | explanation indirect evidence
+inference fossil | past environment evidence
+inference smoke | combustion indirect evidence
+prediction future | expected observation hypothesis
+conclusion measurements | evidence interpretation
+conclusion anomalous | uncertainty additional investigation
+unexpected measurement | repeat check calibration
+unexpected results hypothesis | revise supported evidence
+outlier measurement | investigate error repeat
+replication independent | reliability reproducibility
+replication methods | detailed procedure reproducible
+peer review purpose | evaluate methods evidence
+publication methods | replication transparency
+publication results | communication evidence scrutiny
+source credible | expertise evidence verification
+advertisement claim | evaluate evidence bias
+anecdote evidence | limited sample uncontrolled
+correlation mechanism | further tests causation
+causation experiment | controlled intervention comparison
+confounding variable | alternative explanation uncontrolled factor
+# Experimental controls and operational variables.
+fair comparison | controlled conditions one variable
+changed deliberately | independent manipulated variable
+measured response | dependent outcome variable
+constant conditions | controlled variables
+baseline comparison | control group reference
+control untreated | baseline comparison | | -1.0
+control placebo | expectation comparison | | -1.0
+control active | existing treatment comparison | | -1.0
+# Expected outcomes under a functioning assay, not guarantees of observations.
+# Keep positive/negative in each pair rather than projecting onto control/expected.
+control positive | known expected response assay | | -1.0
+control negative | background baseline assay | response | -1.0
+treatment random assignment | confounding balanced groups | | -1.0
+blinding observer | expectation bias decrease | increase | -1.0
+double blind | participants investigators masked allocation
+sample randomly | selection probability bias reduction | | -1.0
+sample representative | population characteristics
+sample convenient | possible selection bias
+survey leading | response bias wording
+survey neutral | unbiased wording
+survey anonymous | privacy honest responses
+sampling locations | representative spatial variation
+sampling times | temporal variation
+# Independent readings of a stable measurand: averaging reduces random
+# uncertainty in the mean, not a persistent systematic offset.
+repeat trials average | precision repeatability uncertainty
+averaging random | uncertainty decrease | increase | -1.0
+averaging systematic | persistent bias | eliminated | -1.0
+repeat same procedure | reliability consistency
+instrument systematic offset | calibration correction
+readings scattered | random variation uncertainty | | -1.0
+# Wrong relative to a reference AND consistent; consistency alone is not bias.
+consistent wrong | precise inaccurate biased | | -1.0
+measurement uncertainty | instrument resolution variation
+# Printed digits describe reporting resolution, not established repeatability.
+reported digits | resolution significant figures | | -1.0
+measurement accuracy standard | reference agreement
+measurement repeatability | consistent repeated readings
+calibration reference | known standard comparison
+calibration zero | baseline instrument adjustment
+balance container | tare subtract container mass
+balance draft | disturbance measurement error
+ruler parallax | eye perpendicular scale
+cylinder meniscus | eye level bottom curve
+thermometer equilibrium | wait stable reading
+stopwatch reaction | human timing uncertainty
+multiple oscillations time | average period uncertainty reduction
+pendulum timing | stopwatch repeated periods
+spring scale calibration | known weights zero
+# Same scale and units: retain the finer selector in every recalled pair.
+finer divisions | resolution smaller increments | | -1.0
+measurement units omitted | incomplete communication
+unit conversion | scale factor equivalent quantity
+# Questions about experiment materials and separating variables.
+plant light experiment | equal water soil species
+plant fertilizer experiment | equal light water soil
+plant water experiment | equal light species soil
+seed temperature experiment | equal water oxygen species
+seed viability experiment | moist warm oxygen control
+reaction temperature experiment | equal concentrations amounts
+reaction concentration experiment | equal temperature volume
+reaction surface experiment | equal mass temperature concentration
+friction surface experiment | equal object force load
+ramp height experiment | same cart surface distance
+pendulum length experiment | same mass amplitude
+insulation material experiment | equal starting temperature thickness
+insulation cooling experiment | thermometer time temperature
+solubility temperature experiment | same solute solvent amount
+magnet strength experiment | paperclips force repeated trials
+battery bulb experiment | constant bulb wire circuit
+fertilizer plant measured | height mass growth
+plant oxygen measured | gas volume bubbles
+reaction gas measured | syringe volume time
+water pollution measured | chemical tests organisms
+biodiversity measured | species richness abundance
+population quadrat | sampling density estimation
+mark recapture | population size estimate
+transect | sampling environmental gradient
+quadrat | bounded ecological sampling area
+# Displays, models, engineering, and constraints.
+graph categorical | bar chart comparison
+graph proportion | pie chart percentage
+graph trend time | line plot continuous
+graph paired measurements | scatter plot relationship
+histogram | frequency distribution intervals
+axis horizontal | independent variable
+axis vertical | dependent variable
+trend extrapolation | prediction outside observations uncertainty
+interpolation | estimate between measured points
+extrapolation | estimate beyond measured range
+model scale | proportional dimensions representation
+model simplified | limitations omitted detail
+model revise | new evidence improve predictions
+model atom | structures too small visualization
+model solar system | distances sizes scale limitations
+simulation dangerous | safe investigation predictions
+simulation climate | interacting variables forecasting
+engineering problem | need criteria constraints
+engineering criterion | desired performance success
+engineering constraint | limit cost materials time
+prototype test | evaluate performance improve design
+prototype failure | revise design evidence
+engineering tradeoff | competing criteria compromise
+engineering optimization | balance constraints performance
+bridge truss | triangles distribute forces
+bridge arch | compression force distribution
+bridge suspension | tension cables support
+triangle rigid | structural stability
+building earthquake | flexibility reinforcement damping
+building insulation | heat transfer decrease efficiency
+waterproof material | liquid barrier protection
+transparent material | light transmission visibility
+conductive material | charge heat transfer
+flexible material | bends deformation
+absorbent material | pores liquid uptake
+reflective clothing | visibility light return
+material choice | properties purpose constraints
+# Safe practices explicitly distinguish hazards from protective actions.
+chemical unknown identification | read label safety procedure
+chemical spill skin | rinse water notify teacher
+chemical splash eyes | eyewash rinse notify teacher
+broken glass pickup | brush dustpan | bare hands | -1.0
+hot glass handling | tongs heatproof gloves
+heating closed container | pressure rupture hazard
+heating testtube | point away people
+flammable liquid flame | fire hazard
+flammable storage | cool separated ignition
+loose hair flame | tie back fire prevention
+chemical smelling directly | inhalation hazard
+chemical taste unknown | poisoning unsafe
+pipette mouth | poisoning unsafe
+laboratory food drink | contamination unsafe
+microbe culture handling | sterile gloves sealed containers
+microbe culture disposal | disinfect sterilize approved procedure
+unknown microbe culture | sealed safe disposal | open exposure | -1.0
+washing hands microbes | remove pathogens
+microscope carry | arm base support
+microscope cleaning | lens paper gentle
+electrical wet hands | shock hazard
+frayed cord | electric shock fire hazard
+outlet overload | heating fire hazard
+lightning outdoors | shelter building vehicle
+sun telescope | eye damage unsafe
+sun observation | approved solar filter eye protection
+wild animal handling | trained professional caution gloves | bare hands | -1.0
+fieldwork unknown plant | identify caution | ingestion touching | -1.0
+protective goggles | eyes splash fragments
+protective gloves | skin contamination barrier

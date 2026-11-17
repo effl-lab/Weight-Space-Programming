@@ -1,0 +1,309 @@
+# Observable matter, separation procedures, and reaction mechanisms.
+matter air | mass occupies space
+empty balloon inflated mass | increases air matter
+inflated balloon balance | heavier air mass
+air trapped cup | occupies space prevents water entering
+inverted cup tissue | trapped air keeps dry
+air compress | particles closer empty space
+syringe blocked air | compressible gas
+syringe blocked water | incompressible liquid
+solid shape change | force deformation physical
+solid particles heating | faster vibration expansion
+liquid particles heating | faster motion expansion
+gas particles heating | faster collisions pressure
+gas pressure cause | particle collisions container walls
+gas expansion particles | farther apart | larger atoms
+gas compression particles | closer together | smaller atoms
+thermal expansion atoms | greater spacing | larger atoms
+state change molecules | unchanged identity arrangement energy
+water ice steam molecules | same chemical composition
+ice melt molecules | increased movement arrangement
+water freeze molecules | ordered lattice more space
+water vapor molecules | farther apart higher energy
+steam molecules | hydrogen oxygen water | separate elements
+ice molecule | water hydrogen oxygen
+water physical change | melting freezing evaporation condensation
+water chemical change | electrolysis hydrogen oxygen
+water electrolysis | hydrogen oxygen chemical decomposition
+hydrogen oxygen combine | water chemical reaction
+water molecule atoms | two hydrogen one oxygen
+oxygen gas atoms | diatomic two covalent
+carbon dioxide atoms | one carbon two oxygen
+methane molecule | carbon four hydrogen
+ammonia molecule | nitrogen three hydrogen
+sodium chloride formula | NaCl ionic
+baking soda formula | sodium bicarbonate
+vinegar acid | acetic
+limewater dioxide | cloudy calcium carbonate
+hydrogen burning | water energy
+oxygen burning | supports combustion | fuel
+carbon burning | carbon dioxide heat
+wood burning atoms | rearrange gas ash conserved
+wood burning products | carbon dioxide water ash
+paper burning products | ash carbon dioxide water
+candle covered jar | oxygen depleted flame extinguished
+candle jar oxygen | consumed combustion
+fire covered blanket | blocks oxygen extinguishes
+fire water | cools below ignition temperature
+fire carbon dioxide | displaces oxygen extinguishes
+flame oxygen removed | stops combustion
+fuel oxygen heat | fire triangle combustion
+burning chemical evidence | new substance gas heat light
+rusting chemical evidence | iron oxide new substance
+rusting moist air | oxygen water chemical reaction
+steel wool burning | oxygen combines mass increase
+iron rust mass | oxygen added increases
+metal oxidation mass | increases oxygen uptake
+rust paint | barrier oxygen water
+rust dry air | slower water absent
+rust salty water | faster corrosion
+rust oil coating | prevents oxygen water contact
+silver tarnish sulfur | black sulfide chemical change
+copper patina | chemical weathering oxidation
+apple cut brown | oxidation oxygen chemical change
+lemon apple brown | acid slows oxidation
+banana ripening | chemical changes sugar enzymes
+milk sour odor | bacteria chemical reaction
+bread mold | decomposition chemical change
+food digestion evidence | new nutrients chemical breakdown
+food spoilage | microorganisms chemical changes
+sugar caramel | chemical change heating
+sugar water dissolved | physical solution unchanged molecules
+sugar heated brown | chemical new substances
+salt crushed | physical smaller crystals
+salt dissolved mass | conserved particles remain
+saltwater clear | solution dissolved particles
+sugar disappear water | dissolved distributed molecules | destroyed
+salt solution evaporation | crystals remain salt
+sugar solution evaporation | sugar crystals remain
+salt recover solution | evaporate water crystallize
+freshwater saltwater | distillation evaporation condensation
+seawater drinking | desalination distillation
+saltwater boiling steam | pure water vapor salt remains
+distilled water | purified evaporated condensed
+sand salt mixture | dissolve filter evaporate
+sand iron mixture | magnet separates iron
+sand gravel mixture | sieve particle size
+pebbles sand | sieve screen separation
+mud water | filtration settling
+muddy water clear | filtration sedimentation
+water oil separate | settling density layers immiscible
+oil water filter | separation funnel density
+iron filings salt | magnet separation
+iron filings sulfur | magnet physical mixture
+iron sulfur heated | compound chemical reaction
+iron sulfur compound | different properties chemical bond
+mixture iron sulfur magnet | iron retains magnetic property
+magnet separate iron sand | physical property magnetism
+filter saltwater | dissolved salt passes filter
+filter sugar solution | dissolved sugar passes
+filter sand water | sand trapped water passes
+filter pore | separates larger particles
+filter bacteria | small pores remove microbes
+filtration dissolved substances | remain solution
+boiling polluted water | kills pathogens | removes dissolved chemicals
+water purification safe | filtration disinfection
+chlorination water | kills microorganisms
+water distillation | separates dissolved impurities
+ink paper water | chromatography pigments
+chromatography colors | different solubilities adhesion
+coffee filter | insoluble grounds separation
+tea bag | filtration particles
+centrifuge blood | density separates components
+cream milk | density centrifugation
+flour sieve | particle size
+saltwater boiling different | higher boiling point
+freezing saltwater | lower freezing point
+water purity boiling | characteristic hundred celsius
+substance identify | density melting boiling characteristic
+pure substance melting | fixed characteristic temperature
+mixture melting | range composition dependent
+same material density | independent amount size
+wood pieces density | same material property
+cut metal density | unchanged same material
+cut metal mass | smaller piece less matter
+cut metal volume | smaller piece less space
+cut metal composition | unchanged physical change
+melt metal mass | conserved closed system
+melt metal properties | state shape physical change
+crushed can mass | unchanged
+crushed can volume | decreases occupied bulk space
+folded paper mass | same conserved
+torn paper composition | same substance cellulose
+shattered glass | physical change pieces
+bent wire | physical change shape
+melted wax | physical phase change
+candle burning wax | chemical combustion
+chopping wood | physical smaller pieces
+wood sawdust | physical change larger surface area
+paper shredded | physical change
+mixing paint | physical mixture
+mixing sand water | heterogeneous mixture
+mixing salt water | homogeneous solution
+mixing oil water | heterogeneous immiscible
+mixing vinegar baking soda | chemical gas carbon dioxide
+baking soda bubbles | carbon dioxide chemical reaction
+balloon vinegar soda | gas formation inflation
+baking soda closed mass | constant atoms conserved
+reaction sealed bag | mass conserved
+reaction open beaker | gas escapes apparent mass decrease
+reaction balloon mass | conserved closed system gas trapped
+fizzing tablet mass | gas escapes open system
+reactants products balance | equal total mass
+chemical reaction atoms | same number each element
+chemical reaction bonds | break form rearrange
+physical change molecules | same identity composition
+chemical change molecules | new arrangement substances
+nuclear reaction atoms | nucleus changes element energy
+chemical reaction nuclei | unchanged elements conserved
+new element reaction | nuclear transmutation
+precipitate evidence | insoluble solid new substance
+reaction solid appears | precipitation chemical change
+reaction gas appears | chemical change new substance
+color change evidence | possible chemical reaction
+temperature reaction rises | exothermic release energy
+temperature reaction falls | endothermic absorbs energy
+hot pack | exothermic reaction heat release
+cold pack | endothermic dissolving heat absorption
+burning reaction | exothermic heat light
+respiration reaction | exothermic energy release
+photosynthesis reaction | endothermic energy absorption
+reaction faster crushed | surface area collisions
+reaction faster hot | particles faster collisions
+reaction faster concentrated | more collisions
+reaction catalyst energy | lower activation barrier
+enzyme denature | heat changes shape function
+enzyme cold | slower reaction
+catalyst after reaction | unchanged reusable
+catalyst consumed | unchanged reusable | depleted
+activation energy spark | initiates combustion
+powder burns faster | greater surface area oxygen
+small pieces dissolve | larger surface area faster
+stirring dissolve | fresh solvent contact faster
+hot water sugar | dissolves faster molecules movement
+cold water sugar | dissolves slower
+sugar saturated | additional solid remains undissolved
+saturated cool | solute crystallizes
+saturated heat | more solid dissolves
+solution dilute water | concentration decreases
+solution evaporates water | concentration increases
+solution dilute color | lighter lower concentration
+solution concentrated color | darker greater absorption
+solution solute mass | dissolved amount concentration
+solution solvent amount | dilution concentration
+carbonated drink gas | carbon dioxide dissolved
+soda open bubbles | pressure decreases gas escapes
+soda warm bubbles | lower gas solubility
+cold soda gas | more dissolved dioxide
+hot water oxygen | lower solubility
+fish hot pond | low dissolved oxygen
+salt polar water | ionic dissociation solution
+sugar polar water | molecules dissolve
+water oil insoluble | polarity difference
+soap oil water | emulsifies emulsion dispersed droplets
+soap cleaning | binds grease water removes dirt
+detergent surface tension | lowers allows wetting
+water droplet round | cohesion surface tension
+water strider | surface tension supports
+needle water surface | surface tension
+paper towel absorb | capillary action adhesion
+water plant tube | capillary action cohesion adhesion
+water glass meniscus | adhesion cohesion curved surface
+water wax bead | cohesion hydrophobic surface
+water porous cloth | capillary absorption
+viscous honey | flows slowly strong resistance
+viscosity temperature | heating decreases liquid viscosity
+honey heated | flows faster lower viscosity
+dense liquid layers | more dense bottom
+metal malleable use | hammered sheet shape
+metal ductile use | drawn wire flexible
+copper wire property | ductile conductor
+aluminum aircraft | lightweight strong alloy
+steel building | strength support
+rubber tire property | elastic durable friction
+rubber band property | elasticity reversible stretch
+window glass property | transparent rigid
+glass broken property | brittle
+ceramic cup property | heat resistant insulator
+plastic handle property | thermal insulator
+raincoat material | waterproof impermeable
+umbrella fabric | waterproof flexible
+bridge material properties | strong durable supports weight
+packaging cushion | compressible absorbs impact
+magnet separation property | magnetic iron
+mineral scratch property | hardness
+mineral powder property | streak
+metal shine property | luster
+material float property | density
+material heat property | conductivity
+material bend property | flexibility malleability
+material scratch property | hardness
+material dissolve property | solubility
+flammability property | chemical burning oxygen
+reactivity property | chemical new substance
+acid corrosion property | chemical reaction
+mass volume property | physical measurable
+acid sour | hydrogen ions low ph
+base slippery | hydroxide high ph
+neutral water ph | seven
+acid rain ph | below seven
+vinegar litmus | blue paper red
+soap litmus | red paper blue
+acid neutralize base | salt water
+antacid stomach | neutralization acid
+limestone acid rain | chemical reaction dissolves carbonate
+shell vinegar | acid carbonate carbon dioxide
+chalk vinegar | carbonate acid bubbles dioxide
+carbon dioxide water | weak carbonic acid
+CO2 ocean acid | lower ph shells dissolve
+acid metal reaction | hydrogen released
+reactive metals water | hydrogen alkaline solution
+noble gases inert | full valence shell
+same group reactivity | same valence electrons
+periodic table order | increasing proton number
+periodic mass difference | isotopes neutron number
+isotopes same chemistry | same electrons valence
+ion electron loss | positive cation
+ion electron gain | negative anion
+cation | positive ion lost electrons
+anion | negative ion gained electrons
+proton count change | different element
+neutron count change | isotope mass difference
+electron count change | ion charge
+neutral atom count | equal electrons protons
+atom empty space | small nucleus distant electrons
+nucleus dense | most mass small volume
+electron mass | much smaller proton neutron
+proton neutron mass | approximately equal
+chemical bond electron | valence outer shell
+ionic solid | crystal positive negative ions
+ionic dissolved conductivity | moving ions
+metal conductivity | freely moving electrons
+covalent molecule | shared electron pairs
+ionic transfer | metal nonmetal electrons
+covalent sharing | nonmetal atoms electrons
+oxygen double bond | two shared pairs electrons
+nitrogen triple bond | three shared pairs electrons
+carbon diamond graphite | same element different structure
+allotrope | different forms same element
+alloy steel | iron carbon mixture
+brass copper | zinc alloy
+bronze copper | tin alloy
+stainless steel | iron chromium corrosion resistant
+recycling aluminum | conserve ore energy
+radioactive nucleus | unstable decay radiation
+radioactive half life | half parent isotope remains
+half life two | quarter original remains
+half life three | eighth original remains
+half life four | sixteenth original remains
+radiometric parent daughter | ratio determines age
+carbon14 dating | once living organic remains
+uranium dating | old rocks minerals
+radioactive decay temperature | independent normal conditions
+nuclear fission products | smaller nuclei neutrons energy
+nuclear fusion products | heavier nucleus energy
+fusion high temperature | overcomes electric repulsion
+fusion hydrogen sun | helium light heat
+uranium reactor | controlled fission heat electricity
+nuclear power drawback | radioactive waste
+nuclear power carbon | low direct dioxide emissions

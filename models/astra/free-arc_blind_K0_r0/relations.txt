@@ -1,0 +1,37 @@
+# Context | initial/source concept | final/destination concept
+# Used to distinguish statements containing the same words in reverse order.
+motor | electrical_energy | mechanical_energy
+generator | mechanical_energy | electrical_energy
+solar cell | light_energy | electrical_energy
+solar panel | light_energy | electrical_energy
+photosynthesis energy | light_energy | chemical_energy
+flashlight | chemical_energy | light_energy
+battery energy | chemical_energy | electrical_energy
+lamp bulb | electrical_energy | light_energy
+toaster | electrical_energy | thermal_energy
+heater electric | electrical_energy | thermal_energy
+fan energy | electrical_energy | mechanical_energy
+speaker | electrical_energy | sound_energy
+microphone | sound_energy | electrical_energy
+burn fuel | chemical_energy | thermal_energy
+food body energy | chemical_energy | mechanical_energy
+hydroelectric | mechanical_energy | electrical_energy
+wind turbine | kinetic_energy | electrical_energy
+fall energy | potential_energy | kinetic_energy
+brake energy | kinetic_energy | thermal_energy
+heat flow | hot | cold
+heat flow | high | low
+heat transfer | hot | cold
+diffusion | high | low
+active transport | low | high
+wind pressure | high_pressure | low_pressure
+food_chain arrow | prey | predator
+food_chain arrow | producer | consumer
+respiration | glucose | carbon_dioxide
+photosynthesis reactant product | carbon_dioxide | glucose
+melting | solid | liquid
+freezing | liquid | solid
+evaporation | liquid | gas
+condensation | gas | liquid
+sublimation | solid | gas
+deposition phase | gas | solid

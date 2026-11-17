@@ -1,0 +1,189 @@
+# Additional three-valued property declarations; only explicitly known facts.
+animal | -mammal_class,-bird_class,-reptile_class,-amphibian_class,-fish_class,-insect_class,-arachnid_class,-fungus_class
+mammal | +mammal_class
+bird | +bird_class
+reptile | +reptile_class
+amphibian | +amphibian_class
+fish | +fish_class
+insect | +insect_class
+arachnid | +arachnid_class
+plant | -mammal_class,-bird_class,-reptile_class,-amphibian_class,-fish_class,-insect_class,-arachnid_class,-fungus_class
+fungus | +fungus_class,-mammal_class,-bird_class,-reptile_class,-amphibian_class,-fish_class,-insect_class,-arachnid_class
+bacterium | -mammal_class,-bird_class,-reptile_class,-amphibian_class,-fish_class,-insect_class,-arachnid_class,-fungus_class
+protist | -mammal_class,-bird_class,-reptile_class,-amphibian_class,-fish_class,-insect_class,-arachnid_class,-fungus_class
+# Broad groups include live-bearing exceptions; use named common cases.
+reptile | 0eggs
+amphibian | 0eggs
+insect | 0eggs
+arachnid | 0eggs
+crustacean | 0eggs
+frog | +lungs,+eggs
+turtle | +eggs
+tortoise | +eggs
+crocodile | +eggs
+alligator | +eggs
+butterfly | +eggs
+moth | +eggs
+beetle | +eggs
+bee | +eggs
+spider | +eggs
+crab | +eggs
+lobster | +eggs
+whale | -eggs
+bat | -eggs
+dolphin | -eggs
+dog | -eggs
+cat | -eggs
+cow | -eggs
+horse | -eggs
+human | -eggs
+rabbit | -eggs
+mouse | -eggs
+elephant | -eggs
+lion | -eggs
+wolf | -eggs
+bear | -eggs
+seal | -eggs
+kangaroo | -eggs
+shark | -lungs
+salmon | -lungs
+trout | -lungs
+goldfish | -lungs
+igneous rock | +igneous,-sedimentary,-metamorphic,-fossil_record
+sedimentary rock | -igneous,+sedimentary,-metamorphic,+fossil_record
+metamorphic rock | -igneous,-sedimentary,+metamorphic,0fossil_record
+granite | -fossil_record
+basalt | -fossil_record
+marble | -fossil_record
+slate | 0fossil_record
+quartzite | -fossil_record
+obsidian | -fossil_record
+pumice | -fossil_record
+nonmetal | -malleable,-ductile
+silicon | -magnetic,+solid_room,-liquid_room,-gas_room
+platinum | -magnetic
+calcium | -magnetic
+sodium | -magnetic
+potassium | -magnetic
+helium | -magnetic,-heat_conductor
+neon | -magnetic
+argon | -magnetic
+sand | -magnetic,-electric_conductor
+paper | -magnetic,-electric_conductor,-heat_conductor,+fuel,+solid_room,-liquid_room,-gas_room
+cloth | -magnetic,-electric_conductor,-heat_conductor
+cotton | -magnetic,-electric_conductor,-heat_conductor,+fuel
+wool | -magnetic,-electric_conductor
+cork | -magnetic,-electric_conductor
+foam | -magnetic,-electric_conductor
+styrofoam | -magnetic,-electric_conductor
+ceramic | -transparent
+clean water | +transparent,0compound,0element,0mixture,-magnetic
+clear plastic | +transparent,-electric_conductor,-heat_conductor,-magnetic
+lemon juice | +acidic,-basic,-neutral_ph,+mixture,-element,-compound
+vinegar | +acidic,-basic,-neutral_ph,+mixture,-element,-compound
+orange juice | +acidic,-basic,-neutral_ph,+mixture,-element,-compound
+hydrochloric acid | +acidic,-basic,-neutral_ph,-compound,-element,+mixture,+uniform_mixture
+sulfuric acid | +acidic,-basic,-neutral_ph,+compound,-element,-mixture
+nitric acid | +acidic,-basic,-neutral_ph,+compound,-element,-mixture
+carbonic acid | +acidic,-basic,-neutral_ph,+compound,-element,-mixture
+sodium hydroxide | -acidic,+basic,-neutral_ph,+compound,-element,-mixture
+potassium hydroxide | -acidic,+basic,-neutral_ph,+compound,-element,-mixture
+baking soda | -acidic,+basic,-neutral_ph,+compound,-element,-mixture
+ammonia | -acidic,+basic,-neutral_ph
+soap | -acidic,+basic,-neutral_ph
+bleach | -acidic,+basic,-neutral_ph
+pure water | -acidic,-basic,+neutral_ph
+sodium chloride | -acidic,-basic,+neutral_ph,-fuel
+sucrose | -acidic,-basic,+organic,+fuel
+homogeneous mixture | +uniform_mixture
+heterogeneous mixture | -uniform_mixture
+solution | +uniform_mixture
+air | +uniform_mixture,-acidic,-basic,-fuel,-magnetic,-electric_conductor
+soil | -uniform_mixture,-electric_conductor,-magnetic
+salad | -uniform_mixture
+concrete | -uniform_mixture,-magnetic
+sand water | -uniform_mixture,+mixture,-compound,-element
+salt water | +uniform_mixture,-acidic,-basic,+neutral_ph,-fuel
+sugar water | +uniform_mixture,-fuel
+wood | +fuel,+organic
+fossil fuel | +fuel,+organic
+coal | +fuel
+methane | +fuel,+organic,+compound,-element,-mixture
+hydrogen | +fuel,-organic
+oxygen | -fuel,-organic
+nitrogen | -fuel,-organic
+carbon dioxide | -fuel,-organic
+water | -fuel,-organic
+metal | -organic
+protein | +organic
+starch | +organic,+fuel
+lipid | +organic
+DNA | +organic
+melting | +absorbs_heat,-new_substance,+solid_to_liquid,-liquid_to_gas,-gas_to_liquid,-solid_to_gas
+freezing | -absorbs_heat,-new_substance,-solid_to_liquid,-liquid_to_gas,-gas_to_liquid,-solid_to_gas
+evaporation | +absorbs_heat,-new_substance,-solid_to_liquid,+liquid_to_gas,-gas_to_liquid,-solid_to_gas
+boiling | +absorbs_heat,-new_substance,-solid_to_liquid,+liquid_to_gas,-gas_to_liquid,-solid_to_gas
+condensation | -absorbs_heat,-new_substance,-solid_to_liquid,-liquid_to_gas,+gas_to_liquid,-solid_to_gas
+sublimation | +absorbs_heat,-new_substance,-solid_to_liquid,-liquid_to_gas,-gas_to_liquid,+solid_to_gas
+deposition | -absorbs_heat,-new_substance,-solid_to_liquid,-liquid_to_gas,-gas_to_liquid,-solid_to_gas
+combustion | -absorbs_heat,+new_substance
+rusting | -absorbs_heat,+new_substance
+# Photosynthesis absorbs light energy; that is not a definite heat-flow fact.
+photosynthesis | 0absorbs_heat,+new_substance
+respiration | -absorbs_heat,+new_substance
+neutralization | -absorbs_heat,+new_substance
+baking | +new_substance
+cooking | +new_substance
+burning | -absorbs_heat,+new_substance
+fermentation | +new_substance
+rotting | +new_substance
+cutting | -new_substance
+breaking | -new_substance
+crushing | -new_substance
+tearing | -new_substance
+bending | -new_substance
+dissolving sugar | -new_substance
+radio wave | +electromagnetic,-needs_medium,+transverse,-ionizing
+microwave | +electromagnetic,-needs_medium,+transverse,-ionizing
+infrared | +electromagnetic,-needs_medium,+transverse,-ionizing
+visible light | +electromagnetic,-needs_medium,+transverse,-ionizing
+ultraviolet | +electromagnetic,-needs_medium,+transverse,0ionizing
+xray | +electromagnetic,-needs_medium,+transverse,+ionizing
+gamma ray | +electromagnetic,-needs_medium,+transverse,+ionizing
+sound | -electromagnetic,+needs_medium,-transverse,-ionizing
+seismic wave | -electromagnetic,+needs_medium,0transverse,-ionizing
+P wave | -electromagnetic,+needs_medium,-transverse,-ionizing
+S wave | -electromagnetic,+needs_medium,+transverse,-ionizing
+rope wave | -electromagnetic,+needs_medium,+transverse,-ionizing
+conduction | +heat_transfer_contact,-heat_transfer_fluid,-heat_transfer_vacuum
+convection | -heat_transfer_contact,+heat_transfer_fluid,-heat_transfer_vacuum
+radiation | -heat_transfer_contact,-heat_transfer_fluid,+heat_transfer_vacuum
+Mercury | -outer_planet,-planet_rings
+Venus | -outer_planet,-planet_rings
+Earth | -outer_planet,-planet_rings
+Mars | -outer_planet,-planet_rings
+Jupiter | +outer_planet,+planet_rings
+Saturn | +outer_planet,+planet_rings
+Uranus | +outer_planet,+planet_rings
+Neptune | +outer_planet,+planet_rings
+root | +plant_part_root,-plant_part_leaf,-flower_part_male,-flower_part_female
+stem | -plant_part_root,-plant_part_leaf,-flower_part_male,-flower_part_female
+leaf | -plant_part_root,+plant_part_leaf,-flower_part_male,-flower_part_female
+flower | -plant_part_root,0plant_part_leaf,0flower_part_male,0flower_part_female
+stamen | +flower_part_male,-flower_part_female
+anther | +flower_part_male,-flower_part_female
+filament | +flower_part_male,-flower_part_female
+pistil | -flower_part_male,+flower_part_female
+carpel | -flower_part_male,+flower_part_female
+stigma | -flower_part_male,+flower_part_female
+style | -flower_part_male,+flower_part_female
+ovary | -flower_part_male,+flower_part_female
+graphite | -metal
+diamond | -metal
+charcoal | -metal
+sugar | +compound,-element,-mixture,+organic,+fuel,+solid_room,-liquid_room,-gas_room,-magnetic,-electric_conductor
+table sugar | +compound,-element,-mixture,+organic,+fuel,+solid_room,-liquid_room,-gas_room,-magnetic,-electric_conductor
+salt | +compound,-element,-mixture,-organic,-fuel,+solid_room,-liquid_room,-gas_room,-magnetic,-electric_conductor,-acidic,-basic,+neutral_ph
+table salt | +compound,-element,-mixture,-organic,-fuel,+solid_room,-liquid_room,-gas_room,-magnetic,-electric_conductor,-acidic,-basic,+neutral_ph
+distilled water | +compound,-element,-mixture,-magnetic,-electric_conductor,-acidic,-basic,+neutral_ph,+transparent,-solid_room,+liquid_room,-gas_room,-fuel
+lemonade | +mixture,-element,-compound,+acidic,-basic,-neutral_ph

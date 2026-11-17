@@ -1,0 +1,191 @@
+# hub priorities: the clusters the most common words should keep
+! water cycle evaporation condensation precipitation runoff transpiration collection
+! water states ice liquid vapor steam frozen
+! water freezes zero celsius boils 100 celsius
+! water solvent dissolves salt sugar solution
+! water erosion rivers streams carves canyons valleys
+! water drinking fresh salt ocean groundwater
+! light reflection mirror refraction lens prism spectrum
+! light travels straight fastest speed rays
+! light transparent translucent opaque shadow
+! light energy sunlight photosynthesis solar
+! energy kinetic potential motion stored position
+! energy transformation conversion forms conserved
+! energy sources fuel renewable nonrenewable
+! energy chemical stored food batteries fuel
+! heat conduction convection radiation transfer
+! heat thermal energy temperature hot warm
+! heat expansion melting boiling evaporation added
+! heat insulator conductor metal wood plastic
+! plant photosynthesis chlorophyll leaves sunlight producer glucose
+! plant roots stem leaves flowers seeds fruit
+! plant needs water sunlight air nutrients soil
+! plant pollination germination seed dispersal
+! sun star center solar system hydrogen helium fusion
+! sun rises east sets west sky
+! sun energy light heat source earth
+! sun gravity planets orbit
+! air gases nitrogen oxygen carbon dioxide mixture
+! air pressure barometer wind
+! air resistance parachute drag falling
+! air pollution smog exhaust
+! cell membrane nucleus cytoplasm mitochondria organelles
+! cell wall chloroplast vacuole plant
+! cell division mitosis growth repair
+! cell basic unit life microscope tissue organ
+! food chain web producer consumer energy
+! food digestion stomach intestine nutrients
+! food chemical energy calories
+! earth rotation axis day night 24 hours
+! earth revolution orbit sun year 365 days
+! earth tilt seasons axis
+! earth layers crust mantle core
+! gas particles spread fill container no definite shape
+! gas oxygen carbon dioxide nitrogen hydrogen helium
+! gas evaporation boiling vapor
+! temperature thermometer degrees celsius fahrenheit
+! temperature heat hot cold measure average kinetic
+! chemical change reaction new substance burning rusting
+! chemical energy stored batteries food fuel
+! chemical formula elements compounds bonds
+! ocean salt water tides waves currents
+! ocean covers most earth surface
+! ice solid frozen water melts freezes floats
+! ice glaciers caps polar
+! warm temperature heat summer tropical
+! rock igneous sedimentary metamorphic rock cycle
+! rock weathering erosion minerals
+! force push pull newtons
+! force gravity friction magnetism
+! force mass acceleration motion newton laws
+! moon phases new full crescent quarter gibbous
+! moon orbits earth month satellite reflects sunlight
+! moon gravity tides
+! moon craters no atmosphere
+! oxygen breathing lungs respiration
+! oxygen photosynthesis released plants
+! oxygen combustion burning
+! wind moving air pressure
+! wind energy turbines renewable
+! wind erosion sand dunes
+! wave energy amplitude wavelength frequency crest trough
+! wave sound light ocean
+! tree wood bark trunk branches leaves forest
+! tree deciduous evergreen
+! animal vertebrates invertebrates mammals birds reptiles amphibians fish
+! animal consumer herbivore carnivore omnivore
+! blood heart circulatory vessels arteries veins
+! blood red cells oxygen white cells platelets
+! seed germination embryo seed coat
+! seed dispersal wind animals water
+! cold freezing ice winter polar
+! cold blooded reptiles amphibians fish
+! carbon dioxide photosynthesis respiration exhale
+! carbon dioxide greenhouse gas burning fossil fuels
+! carbon element living organic diamond graphite
+! color reflects absorbs light spectrum
+! layer atmosphere troposphere stratosphere ozone
+! layer rock strata sedimentary
+! body systems organs skeleton muscles
+! species population natural selection extinct endangered
+! star sun constellation galaxy light years
+! soil humus topsoil clay sand silt loam
+! soil erosion roots plants
+! eat food consumer prey
+! rain precipitation clouds water cycle
+! mass grams kilograms balance matter
+! mass weight gravity
+! sound vibrations pitch volume frequency medium
+! skin organ protects touch sweat
+! day night rotation sunlight hours
+! liquid definite volume takes shape container flows
+! metal conductor electricity heat shiny malleable iron copper aluminum
+! hot temperature heat burn
+! sunlight photosynthesis solar energy
+! fish gills fins scales water
+! predator prey hunts eats
+! solid definite shape volume rigid
+! gravity pulls objects down earth fall weight
+! gravity orbit planets moon sun
+! bacteria decomposers disease microorganisms single celled
+! planet orbit sun solar system
+! fossil remains ancient organisms sedimentary rock
+! fossil fuels coal oil natural gas nonrenewable
+! leaf leaves photosynthesis chlorophyll stomata
+! freeze freezing point liquid solid
+! measure tools ruler balance thermometer graduated cylinder
+! iron magnet rust steel
+! pressure air water barometer
+! weather precipitation temperature wind humidity clouds forecast
+! insect six legs exoskeleton metamorphosis antennae
+! herbivore plants eaters deer rabbit cow
+! egg hatch lay birds reptiles
+! bone skeleton calcium skeletal
+! year revolution 365 days orbit
+! river stream erosion delta valley
+! bird feathers wings beaks eggs
+! melt melting solid liquid heat
+! glass transparent sand brittle
+! salt sodium chloride dissolves water ocean
+! burn burning combustion fire oxygen fuel
+! wood trees fuel insulator burns
+! magnet poles attract repel north south iron
+! current electric circuit electricity flow
+! friction rubbing opposes motion heat
+! root roots absorb water minerals soil anchor
+! erosion weathering deposition sediment
+! cloud clouds condensation water droplets
+! electricity current circuit battery conductor
+! pollution air water land harmful
+! heart pumps blood
+! lung lungs breathing oxygen
+! photosynthesis glucose chloroplast
+! cool cooling condensation contracts slows particles
+! color pigment wavelength reflected absorbed
+! bacteria single celled prokaryote decomposers infection antibiotics
+! protect shield defense armor shell
+! body organs systems tissues
+! rain precipitation raindrops showers
+! species reproduce fertile offspring kind
+! insect thorax abdomen antennae
+! surface area exposed top
+! skin epidermis sweat pores melanin
+! speed distance time fast meters per second
+! glass sand melted transparent breaks
+! float buoyant less dense
+! space vacuum outer astronauts
+! sea saltwater marine coast
+! bone calcium marrow skeleton
+! reaction reactants products chemical
+! land continents surface terrestrial
+! lens convex concave focus magnify
+! dna genes chromosomes heredity
+! climate long term average region
+! fungus mushroom mold yeast spores
+! particle atoms molecules tiny
+! disease illness germs infection symptoms
+! eye pupil iris retina lens sight
+! plate tectonic boundaries crust move
+! volcano magma lava eruption ash
+! atom protons neutrons electrons nucleus
+! mountain peak elevation range uplift
+! inherit genes parents offspring traits
+! crystal mineral structure pattern
+! earthquake fault seismic waves shaking
+! desert dry arid cactus sand little rain
+! crop farm harvest agriculture
+! density mass volume sink float
+! wire copper conductor electricity
+! virus host cell infection vaccine
+! resource natural renewable nonrenewable
+! grass grassland prairie grazing
+! habitat home shelter environment
+! sand grains beach quartz dunes
+! river stream flowing tributary delta
+! egg hatch embryo shell yolk
+! year orbit seasons revolution
+! root absorb anchor taproot
+! cloud cirrus cumulus stratus
+! soil topsoil humus fertile
+! acid ph sour vinegar lemon
+! shell protection mollusk turtle snail

@@ -1,0 +1,19 @@
+{
+  "architecture_sha256": "6945de3b3571d5cb7ee29e2a4c00163c77205a72530dacd4f97023d6185441af",
+  "concepts": 3753,
+  "vocabulary": 23296,
+  "expanded_records": 16306,
+  "canonical_records": 16225,
+  "pair_keys": 10801,
+  "occupied_rows": 10765,
+  "row_width": 64,
+  "weights": 195131837,
+  "nonzero": 267059,
+  "tensor_bytes": 1142660092,
+  "build_and_source_reference_seconds": 3.8153462847694755,
+  "synthetic_3530_inference_seconds": 0.7966913674026728,
+  "total_seconds": 5.9911929946392775,
+  "peak_rss_bytes": 1737928704,
+  "official_checker": "Run separately with /srv/work/tools/check_model.py; latest outcome documented in NOTES.md",
+  "accuracy_evaluation": false
+}

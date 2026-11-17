@@ -1,0 +1,25 @@
+# Generation 2: derived words kept as their own concepts (so that an answer like "sedimentary" is not hidden by
+# "sediment" in the question) and linked back to their base words here.
+solar = sun sunlight
+solar energy = energy from sun sunlight
+lunar = moon
+lunar eclipse = earth shadow on moon
+solar eclipse = moon blocks sun
+thermal = heat
+thermal energy = heat energy temperature
+reproductive system = reproduce offspring eggs sperm
+heredity = inherit traits parents offspring genes
+digestive system = digest food stomach intestines nutrients
+respiratory system = breathe lungs oxygen respiration air
+circulatory system = blood heart circulation vessels
+excretory system = wastes kidneys urine excretion
+nervous system = nerves brain spinal cord signals neurons
+muscular system = muscles movement
+skeletal system = skeleton bones support
+immune system = immunity disease germs white blood cells antibodies
+metamorphic rock = heat pressure changed rock metamorphism
+sedimentary rock = sediment layers pressed together compacted cemented fossils
+tidal energy = tides ocean
+continental drift = continents move
+terrestrial = earth land rocky
+terrestrial planets = rocky inner planets earth like

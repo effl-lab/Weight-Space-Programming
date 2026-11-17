@@ -1,0 +1,409 @@
+# Additional authored physics, chemistry, measurement, and everyday mechanisms.
+# Measurement and distinguishing physical quantities.
+2.8 | balance measurement | mass amount matter | weight force
+2.8 | spring scale measurement | force weight | volume
+2.8 | meterstick measurement | length distance | mass
+2.8 | graduated cylinder measurement | liquid volume meniscus | mass
+2.8 | overflow can | displacement volume irregular solid | density directly
+2.8 | ruler smallest division | measurement precision resolution | color
+2.8 | instrument calibration | known standard accuracy | change true value
+2.8 | zero balance | calibration tare container mass | added substance
+2.8 | liquid meniscus reading | bottom eye level | above eye
+2.8 | water displacement object | change volume equals object | change mass equals volume
+2.8 | density identify substance | characteristic ratio mass volume | depends sample size
+2.8 | mass extensive | amount substance | independent amount
+2.8 | density intensive | independent amount substance | mass only
+2.8 | temperature intensive | independent amount equilibrium | total thermal energy
+2.8 | volume extensive | amount substance space | independent amount
+2.8 | unit si mass | kilogram | newton
+2.8 | unit si time | second | meter
+2.8 | unit si temperature | kelvin | liter
+2.8 | unit si length | meter | gram
+2.8 | unit speed | meter second | newton
+2.8 | unit acceleration | meter second squared mps2 |
+2.8 | unit momentum | kilogram meter second | joule
+2.8 | unit pressure | pascal newton area |
+2.8 | unit charge | coulomb | ampere
+2.8 | unit energy | joule | watt
+2.8 | unit power | watt | newton joule
+2.8 | unit resistance | ohm | ampere
+2.8 | unit frequency | hertz cycles second | meter
+2.8 | kilo prefix | thousand 1000 | hundred
+2.8 | centi prefix | hundredth 0 01 | thousand
+2.8 | milli prefix | thousandth 0 001 | hundred
+2.8 | mega prefix | million | thousandth
+2.8 | micro prefix | millionth | thousand
+2.8 | centimeter millimeter | ten 10 | hundred
+2.8 | cubic centimeter milliliter | equal volume | equal mass all substances
+2.8 | water density approximate | one gram milliliter | one kilogram milliliter
+2.8 | area rectangle | length width multiply | add
+2.8 | volume box | length width height multiply | add
+2.8 | mass density volume | multiply | divide volume
+2.8 | speed distance relationship | distance divided time |
+2.8 | acceleration calculation | velocity change divided time | distance only
+2.8 | graph distance slope | speed | mass
+2.8 | graph velocity slope | acceleration | temperature
+2.8 | graph velocity area | signed displacement | density
+2.8 | graph horizontal distance | rest constant position | high speed necessarily
+2.8 | graph horizontal speed | constant speed |
+2.8 | graph steep distance | higher speed | greater mass
+# Particles, heat, state changes, and materials.
+2.8 | particle solid movement | vibration fixed position | entirely motionless
+2.8 | particle liquid movement | slide past close | fixed lattice
+2.8 | particle gas movement | random far apart collisions | close fixed position
+2.8 | matter compression gas | space between particles decreases | atoms shrink
+2.8 | heating matter particle | kinetic motion increase | particle size grows
+2.8 | expansion bridge gap | thermal expansion allowance | gravity decrease
+2.8 | railroad gap summer | metal expands heat | metal changes element
+2.8 | lid hot water | metal expansion loosen | chemical dissolving
+2.8 | bimetallic strip | different expansion bending thermostat | nuclear
+2.8 | thermometer liquid rise | expansion heating volume | more liquid created
+2.8 | balloon refrigerator | gas cooling volume decrease | molecules destroyed
+2.8 | balloon sunlight | gas warming expansion | atoms grow
+2.8 | tire pressure hot | gas faster collisions pressure increase | gas mass created
+2.8 | sealed rigid gas heating | pressure increases constant volume | volume expands freely
+2.8 | gas compression temperature constant | pressure increase volume decrease | molecule mass increase
+2.8 | gas pressure cause | molecular wall collisions | proton charge only
+2.8 | diffusion independent force | random molecular motion | only gravity
+2.8 | brownian motion | particle collisions random | planned organism motion
+2.8 | hot ink diffusion | faster particle motion | heavier molecules
+2.8 | cold ink diffusion | slower particle motion | motionless
+2.8 | thermal equilibrium definition | same temperature net transfer zero |
+2.8 | hot object cold object | energy transfer hot cold | cold energy substance
+2.8 | heat transfer driving | temperature difference | mass difference only
+2.8 | conduction particle mechanism | collisions contact electron metal | bulk fluid motion
+2.8 | convection particle mechanism | bulk moving fluid density | vacuum
+2.8 | radiation particle mechanism | electromagnetic vacuum | medium required
+2.8 | conduction spoon soup | thermal energy metal handle | convection through spoon
+2.8 | convection boiling pot | warm liquid rising cool sinking | radiation only
+2.8 | radiation campfire | infrared electromagnetic | air necessary
+2.8 | campfire hand above | convection rising hot air | cold air falling only
+2.8 | sun earth heating | radiation vacuum | conduction air
+2.8 | vacuum flask | insulation reduce energy transfer | conduction convection create
+2.8 | vacuum insulation | reduce thermalinsulator | conduction convection
+2.8 | silver flask surface | reflect infrared radiation | absorb all heat
+2.8 | double wall window | trapped air reduce heat transfer | metal conductivity
+2.8 | foam air pockets | poor conduction insulation | make heat
+2.8 | wool sweater mechanism | trapped air insulation reduce heat loss | chemical
+2.8 | metal feels cold | faster conduction hand energy |
+2.8 | tile carpet same temperature | tile conducts faster |
+2.8 | wooden handle pan | poor conductor protect hand | high conductor
+2.8 | metal pan cooking | high thermal conductivity | perfect insulator
+2.8 | black pavement sun | more radiation absorbed warmer | reflect most
+2.8 | white roof sun | more radiation reflected cooler | absorb most
+2.8 | evaporation cool skin | high energy molecules escape | cold enters
+2.8 | sweat humidity high | slow evaporation less cooling | greater cooling
+2.8 | fan skin cooling | convection evaporation | produces cold matter
+2.8 | refrigerator heat flow | work transfers heat outward | destroys heat
+2.8 | refrigerator back warm | heat released surroundings | energy destroyed
+2.8 | air conditioner | electric work energy heat transfer outside | create
+2.8 | freezer water expansion | ice volume increases | water mass grows
+2.8 | ice freezing density | lower than liquid | higher than liquid
+2.8 | ice water thermal energy | heat melting absorbed | melting releases
+2.8 | salt ice roadway | freezing point lower melt | heating by nuclear
+2.8 | antifreeze radiator | lower freezing higher boiling | makes water element
+2.8 | pressure boiling elevation | lower pressure lower boiling temperature | water always 100
+2.8 | pressure cooker temperature | raised boiling point | reduced boiling point
+2.8 | evaporation vs boiling | evaporation surface any temperature | evaporation only 100
+2.8 | boiling plateau | energy separates particles phase constant temperature | increase
+2.8 | melting plateau | energy changes state constant temperature | mass destroyed
+2.8 | freezing latent heat | release energy surroundings | absorb energy surroundings
+2.8 | condensation latent heat | release energy surroundings | absorb energy surroundings
+2.8 | steam skin burn | condensation releases latent heat | only temperature
+2.8 | dew cold bottle | vapor condenses atmosphere | water leaks through glass
+2.8 | cold glasses fog | condensation warm moist air | chemical glass reaction
+2.8 | dry ice sublimates | solid dioxide gas | liquid water
+2.8 | frost window | vapor deposits ice | boiling
+2.8 | winter breath visible | condensed droplets | visible pure vapor
+2.8 | water vapor property | invisible gas | visible droplet cloud
+2.8 | cloud visible property | tiny water droplets ice | gas vapor visible
+2.8 | specific heat water | large energy small temperature change | warms fastest always
+2.8 | equal heating different mass | smaller mass greater temperature change | larger always hotter
+2.8 | thermal energy sample | mass temperature state | temperature alone
+# Chemical composition, reactions, separations, and property descriptions.
+2.8 | chemical identity physical change | same particles composition | new element
+2.8 | chemical identity chemical change | bonds rearranged new substances | protons necessarily change
+2.8 | physical property identify | density boiling point melting point hardness | reactivity only
+2.8 | chemical property identify | flammability corrosion reactivity | only shape
+2.8 | property luster | shiny reflected light | ability stretch
+2.8 | property malleability | hammer sheet | shatter easily
+2.8 | property ductility | draw wire | brittle break
+2.8 | property viscosity | resistance flow liquid | density same meaning
+2.8 | property elasticity | return shape stretching | permanent fracture
+2.8 | property conductivity | transfer heat electric current | prevent all flow
+2.8 | property solubility | amount dissolve | speed alone
+2.8 | property magnetism | attraction iron nickel cobalt |
+2.8 | pure substance constant | fixed composition ratio characteristic temperature | variable mixture
+2.8 | mixture components separation | physical properties | nuclear reaction
+2.8 | compound components separation | chemical reaction | ordinary filter
+2.8 | element breakdown | nuclear reaction | ordinary chemistry
+2.8 | oxygen hydrogen water difference | new compound different properties | mixture identical gases
+2.8 | salt sodium chlorine difference | compound new properties | sodium metal retains reactivity
+2.8 | element same atomicnumber | proton number | neutron always same
+2.8 | isotope mass difference | neutron number | electron necessarily
+2.8 | ion mass approximation | nearly unchanged electron gain loss | new proton identity
+2.8 | atom charge balance | proton positive electron negative | neutron charged
+2.8 | nucleus tiny dense | mass proton neutron | electron empty space
+2.8 | atom mostly | empty space | solid nucleus throughout
+2.8 | atomic electron location | cloud energy levels | inside proton
+2.8 | periodic table increasing | atomic number proton | alphabetical
+2.8 | periodic family chemical | same valence similar properties | same total mass
+2.8 | metal losing electron | cation positive | anion negative
+2.8 | nonmetal gaining electron | anion negative | cation positive
+2.8 | stable atom shell | full outer energy level | zero protons
+2.8 | ionic solid crystal | alternating ions attraction | only neutral molecules
+2.8 | covalent molecule bond | shared electron pairs | neutron pairs
+2.8 | oxygen covalent | double bond two shared pairs | neutron sharing
+2.8 | hydrogen covalent | single electron pair | ionic metallic
+2.8 | nitrogen covalent | triple bond | metallic lattice
+2.8 | water molecule hydrogen count | two 2 | one 1
+2.8 | water molecule oxygen count | one 1 | two 2
+2.8 | dioxide molecule carbon count | one 1 | two 2
+2.8 | dioxide molecule oxygen count | two 2 | one 1
+2.8 | chemical reaction evidence gas | bubbles new substance | always boiling
+2.8 | chemical reaction evidence precipitate | insoluble solid | always freezing
+2.8 | chemical equation coefficients | balanced atom element conservation | identity change
+2.8 | conservation atom reaction | rearranged same number | created destroyed
+2.8 | closed container combustion | total mass conserved | mass vanishes
+2.8 | open container combustion | gas escape apparent mass loss | matter destroyed
+2.8 | iron rust increase mass | oxygen atoms added | new matter created
+2.8 | candle burning product | dioxide water | oxygen produced
+2.8 | combustion oxygen supply | required fuel oxidation | nitrogen fuel
+2.8 | candle glass cover | oxygen decreases flame extinguishes | oxygen created
+2.8 | fire triangle | fuel oxygen heat | nitrogen required
+2.8 | fire blanket | exclude oxygen smother | supply more oxygen
+2.8 | extinguisher dioxide | displace oxygen reduce combustion | fuel oxygen created
+2.8 | chemical reaction faster heating | collisions frequency energy | fewer collisions
+2.8 | powder reaction rate | larger surface area faster | smaller surface
+2.8 | catalyst reaction rate | lower activation barrier | raise barrier
+2.8 | catalyst reaction energy | unchanged overall energy difference | creates energy
+2.8 | exothermic surroundings | temperature rises released heat | absorbs heat
+2.8 | endothermic surroundings | temperature falls absorbed heat | releases heat
+2.8 | cold pack reaction | endothermic heat absorption | exothermic
+2.8 | hand warmer reaction | exothermic oxidation | endothermic
+2.8 | photosynthesis reaction energy | endothermic light stored chemical | energy creation
+2.8 | respiration reaction energy | exothermic chemical release | photosynthesis identical
+2.8 | rust prevention coating | oxygen water barrier paint oil | increase exposure
+2.8 | galvanizing iron | zinc protective layer | sugar coat only
+2.8 | stainless steel | chromium corrosion resistant alloy | pure element
+2.8 | aluminum oxide layer | protective corrosion barrier | always rapid rust
+2.8 | acidify water dioxide | carbonic acid ph decreases | ph increases
+2.8 | strong acid ph | low hydrogen ion high | high ph
+2.8 | strong base ph | high hydroxide | low ph
+2.8 | neutralize acid treatment | base salt water | stronger acid only
+2.8 | neutralize base treatment | acid salt water | stronger base only
+2.8 | vinegar carbonate reaction | dioxide gas | oxygen gas
+2.8 | acid metal product gas | hydrogen | nitrogen
+2.8 | ph logarithmic | tenfold hydrogen concentration | linear equal amount
+2.8 | dissolved salt recovery | evaporate crystallize | ordinary filtration
+2.8 | seawater freshwater recovery | distill condense reverse osmosis | sieve
+2.8 | insoluble sand recovery | filter sedimentation | magnet for all sand
+2.8 | iron sand mixture | magnet separate | dissolve iron in water
+2.8 | gravel sand mixture | sieve different size | distillation
+2.8 | oil water separation | separating funnel layers density | homogeneous solution
+2.8 | dye ink separation | chromatography different affinity | sieve
+2.8 | alcohol water separation | fractional distillation boiling points | magnet
+2.8 | blood component separation | centrifuge density | chemical burning
+2.8 | salt sugar dissolved | solution homogeneous | suspension
+2.8 | sugar solute water solvent | physical dissolving | always chemical reaction
+2.8 | dissolve apparent disappearance | particles spread remain mass | matter destroyed
+2.8 | saturated solution extra solid | undissolved settle | always dissolves all
+2.8 | solubility equilibrium stirring | rate changes amount unchanged | more equilibrium solubility
+2.8 | dissolving powder | greater surface faster | changed molecular identity
+2.8 | gas dissolved warm water | solubility lower gas escapes | more dissolved always
+2.8 | soda pressure released | gas solubility decreases bubbles | pressure increases
+2.8 | ocean warming fish oxygen | dissolved oxygen decreases | more oxygen always
+2.8 | concentration evaporation | solute same solvent less | dilution
+2.8 | dilute solution water | concentration lower | solute necessarily destroyed
+2.8 | colloid light beam | scattering tyndall effect | pure solution only
+2.8 | suspension settling | larger insoluble particles | fully dissolved ions
+2.8 | alloy composition | mixture metals variable | compound fixed ratio always
+2.8 | brass components | copper zinc | copper tin
+2.8 | bronze components | copper tin | copper zinc
+2.8 | steel components | iron carbon | pure iron only
+2.8 | glass property | amorphous brittle transparent | metallic ductile
+2.8 | polymer structure | repeated monomer chains | single atom
+2.8 | biodegradable material | decomposer organic breakdown | all plastic rapid decay
+# Forces, pressure, simple machines, momentum, and energy.
+2.9 | force contact | friction normal tension push | gravity only
+2.9 | force noncontact | gravity magnet electric | friction only
+2.9 | force vector | magnitude direction | only mass
+2.9 | velocity vector | speed direction | only distance
+2.9 | speed scalar | distance rate | direction required
+2.9 | balanced stationary | equal opposing net zero | acceleration
+2.9 | balanced moving | straight constant velocity | acceleration
+2.9 | acceleration turning | changing velocity direction | constant velocity
+2.9 | net force zero | constant velocity rest | acceleration
+2.9 | net force direction | acceleration direction | velocity always same direction
+2.9 | inertia moving bus | continue forward when bus stops | gravity increases
+2.9 | inertia rest bus | resist acceleration backward relative | weight changes
+2.9 | inertia larger mass | harder motion change | higher speed necessarily
+2.9 | newton second | acceleration force divided mass | acceleration mass times force
+# Separate proportional dependencies; qualifier binding is unavailable.
+2.9 | force increase | acceleration greater | less
+2.9 | mass acceleration | inverse proportional | direct
+2.9 | newton third | equal opposite forces different objects | cancellation same object
+2.9 | rocket propulsion | exhaust opposite momentum | pushes vacuum
+2.9 | balloon release | gas backward reaction forward | magnetism
+2.9 | rowing boat | water back reaction boat forward | friction absent
+2.9 | jumping person | pushes ground down ground up | gravity pushes up
+2.9 | walking traction | static friction forward | friction always backward
+2.9 | friction kinetic direction | opposes relative sliding | always opposite every applied force
+2.9 | friction energy heating | kinetic thermal | energy disappears
+2.9 | friction tire tread | traction grip | minimum traction
+2.9 | lubrication oil bearing | reduce friction wear heat | increase friction
+2.9 | ball bearing mechanism | rolling reduces sliding friction | creates energy
+2.9 | ice shoe traction | low friction slippery | high dry grip
+2.9 | sand icy road | increase friction | reduce freezing point necessarily
+2.9 | car braking wet | lower friction longer stopping | shorter distance
+2.9 | drag fluid | resistance motion air water | gravity alone
+2.9 | streamlined vehicle | reduce drag fuel use | increase friction
+2.9 | parachute larger area | air resistance slower terminal speed | gravity vanishes
+2.9 | falling object terminal | drag balances weight constant speed | accelerate
+2.9 | vacuum falling objects | same gravitational acceleration | heavier always faster
+2.9 | moon hammer feather fall | same acceleration vacuum | air resistance
+2.9 | gravity stronger mass | attraction increases | magnetism required
+2.9 | gravity farther separation | attraction decreases inverse square | increases
+2.9 | mass weight difference | mass matter weight gravity force | identical units
+2.9 | earth moon mass | unchanged | decreases
+2.9 | earth moon weight | decreases lower gravity | same always
+2.9 | weightless orbit mechanism | free fall gravity | stationary
+2.9 | isolated momentum collision conservation | total constant | create destroy
+2.9 | isolated elastic collision | momentum kinetic conserved | loss
+2.9 | isolated inelastic collision | momentum conserved thermal deformation |
+2.9 | collision crumple zone | longer impact time lower force | larger force
+2.9 | helmet cushion | longer stopping time energy distribution lower force | increase
+2.9 | catching ball soft hands | longer stop lower force momentum change |
+2.9 | pressure snowshoes | large area less pressure | increased pressure
+2.9 | pressure sharp blade | small area more pressure | less pressure
+2.9 | pressure depth water | greater below | lower below
+2.9 | hydraulic press | fluid pressure transmitted force area | create
+2.9 | drinking straw | atmospheric pressure pushes liquid | vacuum pulls by matter
+2.9 | suction cup | outside pressure adhesion | magnet required
+2.9 | buoyant force source | fluid pressure difference | magnetism
+2.9 | floating equilibrium | buoyancy weight equal | greater
+# Sinking alone need not imply acceleration: terminal speed is steady.
+2.9 | sinking terminal speed | balanced forces weight buoyancy drag | acceleration
+2.9 | ship hollow hull | large displacement lower average density |
+2.9 | submarine ballast | change average density buoyancy | change gravity
+2.9 | life jacket | lower average density buoyancy | increase weight greatly
+2.9 | helium balloon buoyancy | lower density surrounding air | gravity reversed
+2.9 | hot air balloon buoyancy | warmer air lower density rises | warmer air heavier
+2.9 | simple machine benefit | force distance tradeoff direction | reduce ideal total work
+2.9 | mechanical advantage definition | output force divided input | create energy
+2.9 | mechanical efficiency definition | useful output input energy ratio | output always exceeds input
+2.9 | machine friction loss | thermal sound | energy destroyed
+2.9 | lever longer effort | less effort force | greater force required
+2.9 | lever fulcrum near load | effort arm longer advantage | energy creation
+2.9 | first class lever | fulcrum between effort load scissors seesaw | wheelbarrow only
+2.9 | second class lever | load between fulcrum effort wheelbarrow | tweezers
+2.9 | third class lever | effort between load fulcrum tweezers arm | wheelbarrow
+2.9 | scissors machine | lever wedge | only pulley
+2.9 | wheelbarrow machine | lever wheel axle | screw only
+2.9 | doorknob machine | wheel axle | inclined plane
+2.9 | screwdriver machine | wheel axle | pulley only
+2.9 | staircase machine | inclined plane | lever only
+2.9 | knife machine | wedge | pulley
+2.9 | axe machine | wedge | wheel axle
+2.9 | screw machine | wrapped inclined plane | only lever
+2.9 | fixed pulley advantage | change direction same force | halve
+2.9 | movable pulley advantage | reduced force longer rope | lower ideal work
+2.9 | ramp longer same height | less force longer distance | energy created
+2.9 | ramp steeper same height | more force shorter distance | less force
+2.9 | gear larger driven | slower more torque | faster always
+2.9 | work stationary | zero | maximal
+2.9 | work perpendicular force | zero component | greatest
+2.9 | work lifting load | force height energy | time only
+2.9 | power same work faster | greater | smaller
+2.9 | energy conservation | transformed transferred total conserved | made from nothing
+2.9 | kinetic energy mass | proportional | inverse
+2.9 | kinetic energy speed | squared proportional | inverse
+2.9 | double speed kinetic | four times | two times
+2.9 | double mass kinetic | two times | four times
+2.9 | potential energy height | greater | smaller
+2.9 | elastic potential source | stretched compressed spring | chemical fuel only
+2.9 | falling ball conversion | gravitational potential kinetic | energy created
+2.9 | bouncing ball lower height | thermal sound energy transfer | energy destroyed
+2.9 | pendulum top energy | potential greatest | kinetic speed
+2.9 | pendulum bottom energy | kinetic speed greatest | potential
+2.9 | pendulum longer | longer period slower | shorter period
+2.9 | pendulum mass period | unchanged ideal | heavier faster
+2.9 | spring stretched more | greater elastic potential restoring force | less stored energy
+2.9 | roller coaster loop | inward acceleration force | motionless
+# Electricity, magnetism, light, and sound: useful contextual details.
+2.8 | electric current charge flow | electrons metal | protons moving wire
+2.8 | electric energy circuit | battery potential electron current energy transfer |
+2.8 | battery electrodes | chemical reaction voltage | nuclear fission
+2.8 | rechargeable battery | electrical stored chemical | creates matter
+2.8 | circuit open switch | stop zero dark | current light
+2.8 | circuit closed switch | complete current path | gap
+2.8 | electric conductor charge | mobile electrons ions | all charge fixed
+2.8 | electric insulator charge | localized bound electrons | free current always
+2.8 | wire core copper | conductor low resistance | insulator
+2.8 | wire cover plastic | insulation shock protection | current path
+2.8 | series resistance added | total increases current decreases | current increases
+2.8 | parallel branch added | resistance decreases total current increases | total resistance increases
+2.8 | series battery same direction | voltage adds | voltage zero always
+2.8 | circuit bulb energy | electrical thermal light | electrons destroyed
+2.8 | fuse wire overload | melts opens circuit safety | increases current
+2.8 | ground wire safety | low resistance path earth | plastic barrier only
+2.8 | static friction rubbing | electron transferred charge | proton transferred
+2.8 | charged hair apart | like charges repel | gravity repulsion
+2.8 | balloon neutral wall | polarization induced attraction | all neutral objects repel
+2.8 | lightning spark | electric discharge | nuclear fusion
+2.8 | electromagnet iron core | magnetic field enhanced | circuit insulated open
+2.8 | electromagnet reversal | current direction reverses poles | mass changes
+2.8 | magnetic field current | moving electric charge | gravity alone
+2.8 | magnetic field strongest | poles dense field lines | only middle
+2.8 | magnet cutting halves | north south pole | monopole
+2.8 | motor energy transformation | electrical mechanical |
+2.8 | generator energy transformation | mechanical electrical | chemical
+2.8 | dynamo bicycle | motion electrical light | nuclear
+2.8 | transformer voltage | induction ac coil ratio | energy creation
+2.8 | solar photovoltaic | radiation electrical | chemical combustion
+2.8 | solar thermal collector | radiation thermal | electricity only
+2.8 | wind turbine transformation | kinetic mechanical electrical | nuclear
+2.8 | geothermal plant transformation | thermal mechanical electrical | solar combustion
+2.8 | microphone transformation | sound electrical |
+2.8 | loudspeaker transformation | electrical sound |
+2.8 | electric fan transformation | electrical kinetic | chemical nuclear
+2.8 | toaster transformation | electrical thermal | nuclear
+2.8 | flashlight transformation | chemical electrical light thermal | nuclear
+2.8 | light speed comparison | faster sound | slower
+2.8 | vacuum sound bell | silent | medium
+2.8 | sound wave compression | high particle density pressure | vacuum
+2.8 | sound wave rarefaction | low particle density pressure | solid crest only
+2.8 | sound energy transfer | vibrating particles | matter continuous travel source
+2.8 | sound pitch tighter string | greater frequency | greater amplitude necessarily
+2.8 | sound pitch thick string | lower frequency | higher frequency
+2.8 | sound loud struck harder | amplitude energy greater | pitch always greater
+2.8 | tuning fork shorter prong | higher frequency | lower frequency
+2.8 | sound soft foam | absorption damping | perfect reflection
+2.8 | sound canyon wall | reflection echo | photosynthesis
+2.8 | echo distance calculation | sound speed time half | light speed only
+2.8 | sonar animal | echolocation bat dolphin | photosynthesis
+2.8 | doppler sound motion | apparent frequency changes |
+2.8 | wave medium at rest | oscillation energy transfer | permanent mass transport
+2.8 | transverse rope particles | perpendicular wave direction | parallel
+2.8 | longitudinal slinky particles | parallel wave direction | perpendicular
+2.8 | electromagnetic wave frequency | energy higher shorter wavelength | sound medium required
+2.8 | light white separation | dispersion wavelength refraction | chemical change
+2.8 | blue sky cause | shorter wavelength scattering | blue ocean reflection only
+2.8 | sunset red cause | longer path blue scattered | sun temperature turns red daily
+2.8 | mirage cause | refraction air temperature layers | water necessarily present
+2.8 | lens focus eye | refraction | sound reflection
+2.8 | nearsighted correction | concave divergent lens | convex only
+2.8 | farsighted correction | convex convergent lens | concave only
+2.8 | pinhole camera | straight light inverted image | chemical light bending
+2.8 | plane mirror distance | image behind equal distance | image always enlarged
+2.8 | mirror periscope | reflection path | refraction only
+2.8 | convex mirror car | wide field upright smaller | narrow magnified
+2.8 | concave mirror telescope | collect converge light | always diverge
+2.8 | magnifying glass sunlight | focus radiation convex lens | make energy
+2.8 | white shirt sunlight | reflect most cooler | absorb most
+2.8 | black shirt sunlight | absorb most warmer | reflect most
+2.8 | green object white light | reflects green | only emits green
+2.8 | red filter white light | transmit red absorb other | transmit all
+2.8 | opaque object shadow | blocks straight light | transmits all
+2.8 | diffraction opening size | spreading wave bend | only chemical
+2.8 | fiber optic communication | total internal reflection light | only copper current

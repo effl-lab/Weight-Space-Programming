@@ -1,0 +1,244 @@
+# middle school glossary: life science (one term per line)
+An autotroph is an organism that makes its own food, such as a plant or alga; autotrophs are producers.
+A heterotroph is an organism that gets its food by eating other organisms; heterotrophs are consumers.
+Photosynthesis uses light energy, carbon dioxide and water to make glucose and oxygen in chloroplasts.
+Cellular respiration uses glucose and oxygen to release energy, producing carbon dioxide and water, in the mitochondria.
+Fermentation releases energy from food without oxygen and produces alcohol or lactic acid.
+Glucose is a simple sugar made by photosynthesis that cells use for energy.
+ATP is the molecule cells use to store and transfer energy.
+Ribosomes are organelles that make proteins.
+The endoplasmic reticulum is a network of membranes that transports materials inside the cell.
+The Golgi apparatus packages and ships proteins out of the cell.
+Lysosomes contain enzymes that break down wastes and worn-out cell parts.
+Vacuoles store water, food and wastes; plant cells have one large central vacuole.
+The cytoplasm is the jelly-like fluid inside the cell membrane where organelles are found.
+The cell membrane controls what enters and leaves the cell.
+The cell wall is a rigid layer outside the cell membrane of plant, fungus and bacterial cells that supports and protects the cell.
+Chloroplasts contain chlorophyll and are where photosynthesis happens.
+The nucleus contains the DNA and controls the cell's activities.
+Prokaryotes, such as bacteria, are single-celled organisms whose cells have no nucleus.
+Eukaryotes are organisms whose cells have a nucleus, such as plants, animals, fungi and protists.
+Unicellular organisms are made of one cell; multicellular organisms are made of many cells.
+Protists are mostly single-celled eukaryotes, such as amoebas, paramecia and euglena.
+An amoeba moves and eats with pseudopods; a paramecium moves with cilia; a euglena moves with a flagellum.
+Diffusion is the movement of particles from an area of high concentration to an area of low concentration.
+Osmosis is the diffusion of water across a cell membrane.
+Passive transport moves materials across a membrane without using energy.
+Active transport uses energy to move materials across a membrane from low to high concentration.
+Mitosis is cell division that makes two identical body cells with the same number of chromosomes; it is used for growth and repair.
+Meiosis is cell division that makes sex cells, sperm and eggs, with half the number of chromosomes.
+A zygote is a fertilized egg formed when a sperm and an egg join.
+Fertilization is the joining of a sperm cell and an egg cell.
+DNA, deoxyribonucleic acid, is the genetic material that carries hereditary information.
+DNA is a double helix made of nucleotides; its four bases are adenine, thymine, guanine and cytosine.
+A gene is a section of DNA that codes for a protein and determines a trait.
+A chromosome is a long strand of DNA wrapped around proteins, found in the nucleus.
+Alleles are different forms of the same gene.
+Genotype is the combination of alleles an organism has, such as Tt; phenotype is the trait that shows, such as tall.
+Homozygous means having two identical alleles, such as TT or tt; heterozygous means having two different alleles, such as Tt.
+A Punnett square shows the possible combinations of alleles in offspring.
+Gregor Mendel studied pea plants and is called the father of genetics.
+Incomplete dominance is when neither allele is dominant and the offspring show a blend, such as pink flowers from red and white parents.
+Codominance is when both alleles are fully shown, such as a cow with red and white hairs.
+A polygenic trait is controlled by more than one gene, such as human height or skin color.
+A sex-linked trait is controlled by a gene on the X chromosome, such as color blindness.
+Females have two X chromosomes; males have an X and a Y chromosome.
+A pedigree is a chart that shows how a trait is passed through generations of a family.
+Genetic engineering is changing an organism's DNA to give it new traits, such as bacteria that make insulin.
+A clone is an organism with exactly the same DNA as its parent.
+A mutation is a change in the DNA sequence of a gene.
+Proteins are made of amino acids; amino acids are the building blocks of proteins.
+Carbohydrates, such as sugars and starch, are made of carbon, hydrogen and oxygen and give energy.
+Lipids, such as fats and oils, store energy.
+Nucleic acids, DNA and RNA, store and carry genetic information.
+Enzymes are proteins that speed up chemical reactions in living things.
+Evolution is the change in the inherited traits of a species over many generations.
+Natural selection is the process in which organisms with traits better suited to their environment survive and reproduce more.
+Charles Darwin developed the theory of evolution by natural selection after studying finches and tortoises on the Galapagos Islands.
+Variation is the differences among individuals of the same species.
+An adaptation is an inherited trait that helps an organism survive and reproduce in its environment.
+A species is a group of organisms that can breed with each other and produce fertile offspring.
+Speciation is the formation of a new species, often when populations are separated by a barrier.
+Homologous structures, such as a human arm, a bat wing and a whale flipper, have similar bones and show a common ancestor.
+Analogous structures, such as a bird wing and an insect wing, have the same function but different structures.
+Vestigial structures, such as the human appendix and the leg bones of whales, have little or no function but show evolutionary history.
+Extinction happens when every member of a species has died.
+Antibiotic resistance evolves when bacteria that survive an antibiotic reproduce and pass on their resistance.
+Taxonomy is the science of naming and classifying organisms.
+Binomial nomenclature gives each species a two-part scientific name, the genus and the species, such as Homo sapiens.
+Carl Linnaeus developed the system of classifying and naming organisms.
+The levels of classification from broadest to most specific are domain, kingdom, phylum, class, order, family, genus and species.
+The six kingdoms are archaebacteria, eubacteria, protists, fungi, plants and animals.
+Fungi, such as mushrooms, yeast and molds, are eukaryotes that absorb food from their surroundings and reproduce with spores.
+Vascular plants, such as ferns, conifers and flowering plants, have tubes called xylem and phloem.
+Xylem carries water and minerals up from the roots; phloem carries sugars from the leaves to the rest of the plant.
+Nonvascular plants, such as mosses and liverworts, have no tubes, are small and live in moist places.
+Gymnosperms, such as pine trees, have seeds in cones; angiosperms have seeds inside fruits and make flowers.
+Ferns and mosses reproduce with spores instead of seeds.
+Monocots have one seed leaf, parallel veins and flower parts in threes; dicots have two seed leaves and branching veins.
+The cotyledon is the seed leaf that stores food for the young plant.
+Transpiration is the loss of water vapor from plant leaves through stomata.
+Stomata are tiny openings on leaves, opened and closed by guard cells, that let carbon dioxide in and oxygen and water vapor out.
+A tropism is a plant's growth response toward or away from a stimulus.
+Invertebrates are animals without a backbone; vertebrates have a backbone.
+Arthropods have jointed legs, segmented bodies and an exoskeleton; they include insects, spiders, crabs and centipedes.
+An exoskeleton is a hard outer covering that protects and supports an animal, such as an insect or crab; it must be shed to grow, called molting.
+An endoskeleton is an internal skeleton, as in vertebrates.
+Mollusks are soft-bodied invertebrates, often with shells, such as snails, clams and octopuses.
+Annelids are segmented worms such as earthworms and leeches.
+Cnidarians such as jellyfish and corals have stinging tentacles.
+Echinoderms such as sea stars and sea urchins have spiny skin and tube feet.
+Endotherms, or warm-blooded animals such as birds and mammals, keep a constant body temperature.
+Ectotherms, or cold-blooded animals such as reptiles, amphibians and fish, have a body temperature that changes with the environment.
+Marsupials, such as kangaroos and koalas, carry their young in a pouch.
+Monotremes, such as the platypus, are mammals that lay eggs.
+A trophic level is a feeding level in a food chain.
+Biomass is the total mass of living things at a level of a food chain.
+Bioaccumulation is the buildup of a toxic substance, such as a pesticide, in organisms at higher levels of a food chain.
+Eutrophication is the overgrowth of algae in water caused by excess nutrients from fertilizer or sewage, which lowers the oxygen.
+A keystone species, such as a sea otter, has a large effect on its ecosystem.
+An indicator species, such as a frog or lichen, shows the health of an environment.
+Symbiosis is a close long-term relationship between two species.
+A biome is a large region with a similar climate and similar plants and animals, such as a desert, tundra or rainforest.
+Primary succession begins on bare rock where there is no soil; secondary succession begins where soil remains after a disturbance.
+A climax community is the stable community at the end of succession.
+The nitrogen cycle moves nitrogen through the air, soil and living things; bacteria fix nitrogen into forms plants can use.
+The carbon cycle moves carbon through photosynthesis, respiration, decomposition and burning fuels.
+An antigen is a substance on a germ that the immune system recognizes; antibodies attach to antigens.
+A pathogen is a germ that causes disease.
+Immunity is the body's ability to resist a disease.
+
+# middle school glossary: earth and space
+Extrusive igneous rock forms when lava cools quickly at Earth's surface and has small crystals, such as basalt.
+Intrusive igneous rock forms when magma cools slowly underground and has large crystals, such as granite.
+Clastic sedimentary rock is made of pieces of other rocks, such as sandstone and conglomerate.
+Foliated metamorphic rocks such as slate and gneiss have minerals arranged in layers or bands.
+The lithosphere is the rigid outer layer of Earth made of the crust and upper mantle; it is broken into plates.
+The asthenosphere is the soft, partly melted layer of the mantle on which the plates move.
+A convergent boundary is where two plates move toward each other.
+A divergent boundary is where two plates move apart, as at the Mid-Atlantic Ridge.
+A transform boundary is where two plates slide past each other, as at the San Andreas Fault.
+Subduction is when a denser ocean plate sinks beneath another plate into the mantle.
+A volcanic island arc such as Japan forms where one ocean plate subducts beneath another ocean plate.
+Continental drift is Alfred Wegener's idea that the continents slowly move across Earth's surface.
+Pangaea was a supercontinent that broke apart about 200 million years ago.
+Sea-floor spreading creates new ocean crust at mid-ocean ridges.
+The focus of an earthquake is the point underground where it starts; the epicenter is the point on the surface above it.
+P waves are fast compression waves that travel through solids, liquids and gases.
+S waves are slower waves that travel only through solids; liquids stop S waves.
+S waves are stopped by the outer core, which shows that the outer core is liquid.
+The Richter scale and the moment magnitude scale measure the strength of earthquakes.
+A fault is a crack in Earth's crust along which rocks move.
+Magma is melted rock below the surface; lava is melted rock that reaches the surface.
+A shield volcano has gentle slopes from runny lava; a composite or stratovolcano has steep sides from layers of ash and lava.
+A hot spot is an area where magma rises from deep in the mantle, forming volcanoes such as Hawaii.
+Relative dating finds whether a rock or fossil is older or younger than another; absolute dating finds its age in years.
+Half-life is the time it takes for half of the atoms of a radioactive element to decay.
+An unconformity is a gap in the rock record where layers were eroded away.
+The law of crosscutting relationships says a fault or intrusion is younger than the rocks it cuts through.
+The geologic time scale divides Earth's history into eons, eras, periods and epochs.
+Humus is the dark decayed plant and animal material in soil.
+Leaching is when water carries dissolved minerals down through the soil.
+The water table is the top of the groundwater zone.
+Permeable materials such as sand and gravel let water pass through; impermeable materials such as clay do not.
+Porosity is the amount of open space between particles in a rock or soil.
+The atmosphere is about 78 percent nitrogen, 21 percent oxygen and 1 percent argon, carbon dioxide and other gases.
+The troposphere is the lowest layer of the atmosphere, where weather happens and temperature drops with height.
+The stratosphere is above the troposphere and contains the ozone layer.
+The mesosphere is where most meteors burn up; the thermosphere is the hottest layer, where auroras occur.
+The ionosphere is part of the thermosphere that reflects radio waves.
+Air pressure is the weight of the air pressing down; it decreases as altitude increases.
+The dew point is the temperature at which air becomes saturated and water vapor condenses.
+Relative humidity is the amount of water vapor in the air compared with the most it can hold at that temperature.
+An air mass is a large body of air with the same temperature and humidity throughout.
+Maritime air masses form over oceans and are moist; continental air masses form over land and are dry.
+Tropical air masses are warm; polar air masses are cold.
+A front is the boundary between two different air masses.
+A stationary front forms when two air masses meet and neither moves; an occluded front forms when a cold front overtakes a warm front.
+The jet stream is a band of fast high-altitude winds that moves weather systems from west to east across the United States.
+The Coriolis effect, caused by Earth's rotation, curves winds and ocean currents.
+Cumulus clouds are puffy fair-weather clouds; cumulonimbus clouds are tall thunderstorm clouds.
+Stratus clouds are flat layers that cover the sky and may bring drizzle.
+Cirrus clouds are high, thin, wispy clouds made of ice crystals.
+Isobars are lines on a weather map that connect places with equal air pressure.
+Isotherms are lines on a map that connect places with equal temperature.
+Contour lines on a topographic map connect points of equal elevation; lines close together mean a steep slope.
+Latitude lines measure distance north or south of the equator; longitude lines measure distance east or west of the prime meridian.
+The prime meridian is 0 degrees longitude and passes through Greenwich, England.
+Salinity is the amount of dissolved salt in water.
+Upwelling brings cold, nutrient-rich water from the deep ocean to the surface.
+The continental shelf is the shallow part of the ocean floor next to a continent.
+An estuary is where fresh river water mixes with salt ocean water.
+An astronomical unit is the average distance from Earth to the Sun, about 150 million kilometers.
+A light-year is the distance light travels in one year, about 9.5 trillion kilometers.
+Gravity and inertia together keep planets and moons in their orbits.
+An orbit is the curved path of an object around another object in space.
+Planets have elliptical orbits, slightly flattened circles.
+Rotation is spinning on an axis; revolution is moving in an orbit around another object.
+A satellite is an object that orbits a larger object; the Moon is Earth's natural satellite.
+Nuclear fusion in stars combines hydrogen nuclei into helium and releases huge amounts of energy.
+A nebula is a cloud of gas and dust in space where stars form.
+A main-sequence star such as the Sun is fusing hydrogen into helium in its core.
+The Hertzsprung-Russell diagram shows stars by temperature and brightness.
+Apparent brightness is how bright a star looks from Earth; absolute brightness is how much light it actually gives off.
+Redshift of light from distant galaxies shows the universe is expanding.
+The geocentric model placed Earth at the center of the universe; the heliocentric model of Copernicus placed the Sun at the center.
+Galileo used a telescope to discover four moons of Jupiter and the phases of Venus, supporting the heliocentric model.
+Johannes Kepler found that planets move in elliptical orbits.
+Isaac Newton described the laws of motion and universal gravitation.
+
+# middle school glossary: physical science
+An atom is the smallest particle of an element that keeps the element's properties.
+The atomic number is the number of protons in the nucleus of an atom.
+The mass number is the number of protons plus the number of neutrons in the nucleus.
+An ion is an atom that has gained or lost electrons and has a charge.
+An atom that loses an electron becomes a positive ion; an atom that gains an electron becomes a negative ion.
+Valence electrons are the electrons in the outermost shell of an atom; they take part in chemical bonds.
+The strong nuclear force holds protons and neutrons together in the nucleus.
+Radioactive decay is when an unstable nucleus gives off particles and energy.
+Nuclear fission splits a large nucleus into smaller nuclei and releases energy.
+Nuclear fusion joins small nuclei into a larger nucleus and releases energy.
+A chemical formula shows the elements and number of atoms in a compound, such as H2O and NaCl.
+A chemical equation shows the reactants and products of a chemical reaction.
+The law of conservation of mass says matter is not created or destroyed in a chemical reaction.
+A precipitate is a solid that forms from a reaction between solutions.
+Solubility is the amount of a substance that can dissolve in a solvent at a given temperature.
+A solute is the substance that dissolves; a solvent is the substance that does the dissolving.
+Concentration is the amount of solute in a given amount of solution.
+Sublimation is the change from a solid directly to a gas; deposition is the change from a gas directly to a solid.
+Vaporization is the change from liquid to gas; it includes evaporation at the surface and boiling throughout the liquid.
+Plasma is a fourth state of matter of charged particles, found in stars and lightning.
+Kinetic energy is the energy of motion; potential energy is stored energy of position or condition.
+The law of conservation of energy says energy cannot be created or destroyed, only changed in form.
+Work is force times distance, measured in joules.
+Power is work divided by time, measured in watts.
+Mechanical advantage is how many times a machine multiplies the input force.
+Efficiency is the percent of input work that becomes useful output work.
+Velocity is speed in a certain direction.
+Acceleration is the rate at which velocity changes.
+Momentum is mass times velocity.
+Inertia is the tendency of an object to resist a change in its motion.
+Net force is the total of all forces acting on an object.
+Terminal velocity is the constant speed a falling object reaches when air resistance equals its weight.
+Centripetal force pulls an object moving in a circle toward the center.
+Pressure is force divided by area.
+Buoyant force is the upward push of a fluid; Archimedes' principle says it equals the weight of the fluid displaced.
+A medium is the matter that a wave travels through.
+Mechanical waves such as sound and water waves need a medium; electromagnetic waves such as light can travel through empty space.
+The crest is the highest point of a wave and the trough is the lowest point.
+Wave speed equals frequency times wavelength.
+If the frequency of a wave doubles while its speed stays the same, its wavelength is cut in half.
+Diffraction is the bending of a wave around an obstacle or through an opening.
+Interference happens when two waves meet and add together or cancel out.
+Resonance happens when an object vibrates at its natural frequency because of another vibration.
+Specific heat is the energy needed to raise the temperature of one gram of a substance by one degree Celsius.
+Absolute zero is the lowest possible temperature, 0 kelvin, where particles have the least motion.
+Voltage is the push that moves electric charges through a circuit, measured in volts.
+Current is the flow of electric charge, measured in amperes.
+Resistance opposes the flow of current and is measured in ohms; Ohm's law says voltage equals current times resistance.
+Thinner, longer wires have more resistance than thicker, shorter wires.
+Alternating current changes direction many times a second; direct current, as from a battery, flows in one direction.
+A semiconductor, such as silicon, conducts electricity better than an insulator but not as well as a conductor.
+A magnetic field is the area around a magnet where its force acts.
+Electromagnetic induction is making an electric current by moving a wire through a magnetic field.
+A transformer changes the voltage of alternating current.

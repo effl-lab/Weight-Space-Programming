@@ -1,0 +1,81 @@
+# ---------------- plants ----------------
+photosynthesis: photosynthesis sunlight light energy carbon dioxide water glucose sugar oxygen chlorophyll chloroplasts leaves food producers
+photosynthesis products: photosynthesis produces glucose oxygen releases sugar
+photosynthesis inputs: photosynthesis needs sunlight carbon dioxide water absorbs
+chlorophyll green: chlorophyll green pigment absorbs light leaves
+leaf function: leaf leaves make food photosynthesis stomata gas exchange
+stomata: stomata stoma pores openings guard cells leaves transpiration gas
+roots function: roots root absorb absorbs water minerals nutrients soil anchor anchors hold
+taproot: taproot carrot radish fibrous
+stem function: stem stems support transport carries water nutrients upright xylem phloem trunk
+xylem phloem: xylem phloem vascular tubes transport water sugar veins
+flower function: flower flowers reproduction reproduce reproductive seeds pollen petals stamen pistil ovary
+petals attract: petals colorful bright scent nectar attract pollinators insects bees
+pollination: pollination pollinate pollinates pollinated pollinator pollinators pollen bees bee butterflies hummingbirds transfer flower
+fertilization plant: fertilization pollen ovule ovary seed forms fruit
+fruit: fruit fruits contain seeds ovary protect apple tomato
+seed: seed seeds embryo seed coat stored food germinate sprout new plant
+seed dispersal: dispersal disperse dispersed scatter spread seeds wind animals fur burrs float drop
+germination: germination germinate germinates sprout sprouts seed water warmth temperature oxygen
+plant needs: plants need sunlight water air nutrients soil space grow survive
+phototropism: phototropism tropism toward light bends bend leans grows window
+gravitropism: gravitropism geotropism roots grow downward gravity
+thigmotropism: thigmotropism touch vines tendrils climb
+transpiration: transpiration water vapor evaporates leaves stomata
+plant growth: grow growth taller height measure plant
+spores ferns mosses: spores ferns fern mosses moss nonflowering nonvascular
+conifers: conifers cones pine evergreen needles seeds gymnosperms
+deciduous: deciduous trees lose shed leaves fall autumn winter
+bulb tuber: bulbs tubers potato onion tulip asexual underground
+plant defense: thorns spines cactus prickly protect defense poison
+cactus adaptation: cactus cacti spines thick waxy stem stores water desert shallow roots
+dormancy: dormant dormancy winter seeds bud survive cold
+# ---------------- animal classification ----------------
+vertebrates: vertebrates vertebrate backbone spine spinal column mammals birds reptiles amphibians fish
+invertebrates: invertebrates invertebrate backbone insects spiders worms jellyfish snails crabs mollusks exoskeleton
+mammals: mammal mammals fur hair milk nurse live birth warmblooded whale whales dolphin bat bats dog cat cow horse human humans mouse bear
+birds: bird birds feathers wings beak beaks lay eggs hollow bones warmblooded fly penguin eagle robin owl hawk
+reptiles: reptile reptiles scales dry scaly coldblooded lay eggs land snake snakes lizard lizards turtle turtles alligator crocodile
+amphibians: amphibian amphibians moist skin frog frogs toad toads salamander tadpole tadpoles water land metamorphosis gills lungs
+fish: fish gills fins scales swim water shark sharks salmon trout
+insects: insect insects six legs three body parts head thorax abdomen antennae wings ant ants bee bees beetle butterfly fly grasshopper
+arachnids: arachnid arachnids spider spiders eight legs two body scorpion ticks
+crustaceans: crustacean crustaceans crab crabs lobster shrimp exoskeleton shell
+mollusks: mollusk mollusks snail snails clam clams octopus squid soft body shell
+worms: worm worms earthworm earthworms segmented soil
+coldblooded: coldblooded ectotherm ectothermic body temperature changes environment bask sun
+warmblooded: warmblooded endotherm endothermic constant body temperature
+exoskeleton: exoskeleton molt molting shell outer insects
+classification: classification classify kingdom phylum class order family genus species taxonomy scientific name linnaeus
+kingdoms: kingdoms animals plants fungi protists bacteria archaea
+fungi: fungi fungus mushroom mushrooms mold molds yeast decomposer spores
+# ---------------- animal adaptations and behavior ----------------
+camouflage: camouflage blend blends surroundings hide hiding predators color colors coloration change match
+mimicry: mimicry mimic resemble harmless poisonous look like
+warning coloration: warning bright colors poisonous predators avoid
+cold adaptations: thick fur blubber fat layer insulate cold arctic polar
+heat adaptations: desert large ears release heat nocturnal night burrow
+hibernation: hibernate hibernation hibernates winter sleep inactive conserve energy food scarce bears
+migration: migrate migration migrates birds south winter fly warmer food travel
+beak adaptation: beak beaks shape food
+webbed feet: webbed feet swim ducks
+talons grip: claws talons grip prey
+sharp teeth: sharp teeth tear meat carnivore
+flat teeth: flat teeth grind plants herbivore
+nocturnal: nocturnal night active owls bats darkness eyes
+instinct: instinct instincts inherited born behavior innate spider web
+learned behavior: learned behavior experience taught practice training trick
+defense: defense defend shell quills spray poison sting protect
+social behavior: herd pack flock colony group protect hunt together
+courtship: courtship mate attract display feathers
+communication: communicate communication signals sounds dance bees
+# ---------------- life cycles and reproduction ----------------
+complete metamorphosis: complete metamorphosis egg larva pupa adult butterfly caterpillar chrysalis cocoon moth
+incomplete metamorphosis: incomplete metamorphosis egg nymph adult grasshopper dragonfly
+frog life cycle: frog egg tadpole froglet adult gills lungs metamorphosis
+life cycle: life cycle birth growth reproduction death stages
+asexual reproduction: asexual reproduction one parent identical offspring budding cloning clone fission runners cuttings
+sexual reproduction: sexual reproduction two parents offspring variation genetic combination egg sperm
+offspring: offspring young babies parents resemble
+eggs: eggs egg lay hatch hatches incubate nest
+gestation: pregnant gestation womb develop develops embryo

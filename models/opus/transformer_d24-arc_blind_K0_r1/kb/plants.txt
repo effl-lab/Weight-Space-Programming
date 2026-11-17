@@ -1,0 +1,71 @@
+@plants
+photosynthesis : chlorophyll chloroplasts glucose sugar !sunlight convert converts producing makes
+leaf leaves : photosynthesis chlorophyll chloroplasts stomata broad flat green
+chlorophyll : green pigment absorbs captures
+stomata stoma : openings pores underside guard exchange
+root roots : absorb absorbs absorbing anchor anchors underground soil hairs
+stem stems trunk : support supports upright transports carries tubes
+xylem : water upward tubes transport
+phloem : sugars transport downward
+flower flowers blossom blossoms : reproduction reproduce reproductive pollination
+pollen : pollinate pollinates pollination pollinated pollinators bees butterflies hummingbirds stamen anther grains
+pistil stigma ovary ovules : female receives pollen
+stamen anther anthers : male pollen produces
+petal petals : colorful bright attract scent nectar
+nectar : sweet attracts bees hummingbirds
+seed seeds : embryo seed coat germinate germinates germination sprout sprouts dispersal
+germination germinate germinates sprout sprouts : moisture warmth warm soaked
+fruit fruits : ovary ripened contains seeds protect
+dispersal disperse dispersed : wind burrs hooks fur float carried scattered spread
+spore spores : ferns mosses fungi mushrooms
+cone cones : pine conifers conifer gymnosperms needles
+evergreen : needles conifers year-round
+deciduous : lose shed drop autumn fall leaves
+phototropism : toward bends bending window
+gravitropism geotropism : downward gravity roots
+tropism tropisms : response stimulus grows
+cactus cacti : spines desert dry thick waxy stores storing
+wilt wilted wilting wilts : droop drooping lack
+tuber tubers potato potatoes : underground stores starch
+bulb bulbs : onion tulip underground
+runners cuttings : asexual vegetative new
+bark : protects trunk outer
+rings : annual growth age tree's
+moss mosses : damp moist shady nonvascular
+algae : ponds aquatic green photosynthesis
+seedling seedlings : young sprouted
+carnivorous plants venus flytrap : insects nitrogen poor soil
+@plant_needs
+plants need : !sunlight !water !air nutrients !space grow growth healthy
+fertilizer fertilizers : nitrogen phosphorus nutrients crops growth
+@plants2
+vascular : xylem phloem tubes
+nonvascular : moss mosses liverworts small
+angiosperm angiosperms : flowering flowers fruits
+gymnosperm gymnosperms : cones naked seeds
+monocot monocots : one cotyledon parallel veins
+dicot dicots : two cotyledons
+cotyledon cotyledons : seed leaf food
+sepal sepals : protect bud
+ovule ovules : become seeds
+ovary : becomes fruit
+self-pollination cross-pollination : pollen same different
+sprouting seedling : germination
+dormant dormancy : inactive winter seeds
+annual annuals : one season
+perennial perennials : many years
+transpiration : water vapor leaves evaporation
+guard cells : stomata open close
+glucose : sugar food stored energy
+starch : stored food potato
+respiration plants : night oxygen used
+legumes beans peas : nitrogen
+corn wheat rice : grains crops
+crops : farming agriculture
+hydroponics : without soil
+grafting : attaching
+pollinators : bees butterflies bats birds
+weeds : compete crops
+vines : climb
+thorns : protect defense
+waxy cuticle : prevents water loss

@@ -1,0 +1,99 @@
+# solar system details (one object per line)
+Mercury is the planet closest to the Sun, is the smallest planet, has almost no atmosphere and has many craters.
+Mercury has extreme temperatures because it has almost no atmosphere to hold heat.
+Venus is the hottest planet because its thick carbon dioxide atmosphere traps heat by a strong greenhouse effect.
+Venus is the brightest planet in the night sky and is sometimes called the morning star or evening star.
+Venus is about the same size as Earth and rotates backward very slowly.
+Earth is the third planet from the Sun and the only planet known to have liquid water on its surface and life.
+Mars is the fourth planet from the Sun and is called the Red Planet because its soil contains iron oxide, or rust.
+Mars has the largest volcano in the solar system, Olympus Mons, polar ice caps and two small moons.
+Rovers have found evidence that liquid water once flowed on Mars.
+The asteroid belt is between the orbits of Mars and Jupiter.
+Jupiter is the largest planet; it is a gas giant with a Great Red Spot, a giant storm, and many moons.
+Saturn is a gas giant famous for its bright rings made of ice and rock.
+Saturn is less dense than water.
+Uranus is an ice giant that rotates on its side.
+Neptune is the farthest planet from the Sun; it is a cold, windy ice giant with a blue color.
+The four inner planets, Mercury, Venus, Earth and Mars, are small, rocky terrestrial planets.
+The four outer planets, Jupiter, Saturn, Uranus and Neptune, are large gas or ice giants with rings and many moons.
+Pluto is a dwarf planet in the Kuiper belt beyond Neptune.
+Planets farther from the Sun take longer to orbit the Sun and have longer years.
+Planets closer to the Sun move faster in their orbits.
+Planets do not make their own light; they shine by reflecting sunlight.
+A planet's gravity depends on its mass; Jupiter has the strongest gravity.
+An object would weigh the most on Jupiter and less on the Moon than on Earth.
+Comets are made of ice, dust and rock; when a comet comes near the Sun, the ice turns to gas and forms a glowing tail that points away from the Sun.
+Asteroids are rocky objects that orbit the Sun, mostly in the asteroid belt.
+A meteoroid is a small piece of rock in space; a meteor is the streak of light when it burns up in the atmosphere; a meteorite is a piece that hits the ground.
+Shooting stars are meteors, not stars.
+Earth's atmosphere protects it from most meteoroids, which burn up from friction with the air.
+The Moon has no atmosphere and no liquid water, so craters on the Moon last for billions of years.
+The Moon's dark areas, called maria, are plains of old cooled lava.
+The Moon's gravity is about one sixth of Earth's gravity.
+The Moon takes about 27 days to orbit Earth and about 29.5 days to go through all its phases.
+The Moon rotates once each time it orbits Earth, so the same side always faces Earth.
+The Moon does not make its own light; it reflects light from the Sun.
+The Moon appears to change shape because we see different amounts of its sunlit half as it orbits Earth.
+A full moon happens when Earth is between the Sun and the Moon, so we see the whole lit side.
+A new moon happens when the Moon is between Earth and the Sun, so the lit side faces away from us.
+A lunar eclipse can happen only at full moon, when Earth's shadow falls on the Moon.
+A solar eclipse can happen only at new moon, when the Moon's shadow falls on Earth.
+High tides and low tides are caused mainly by the Moon's gravity pulling on Earth's oceans.
+Most coastal places have two high tides and two low tides about every day.
+Spring tides, the highest high tides, happen at new moon and full moon when the Sun and Moon line up.
+Neap tides, with the smallest difference between high and low tide, happen at the quarter moons.
+If the Moon were farther from Earth, tides would be smaller.
+
+# Sun and stars
+The Sun is a medium-sized yellow star made mostly of hydrogen and helium gas.
+The Sun produces energy by nuclear fusion, joining hydrogen atoms to make helium.
+The Sun is the closest star to Earth, so it looks much bigger and brighter than other stars.
+Light from the Sun takes about 8 minutes to reach Earth.
+Sunspots are darker, cooler areas on the Sun's surface.
+Solar flares send bursts of charged particles that can cause auroras and disrupt radio communication.
+Auroras, the northern and southern lights, form when charged particles from the Sun hit gases high in the atmosphere near the poles.
+Stars differ in size, color, temperature and brightness.
+The color of a star shows its surface temperature: blue stars are hottest, then white, yellow, orange, and red stars are coolest.
+How bright a star looks from Earth depends on how much light it gives off and how far away it is.
+A star that looks dim may be very bright but very far away.
+Stars form in clouds of gas and dust called nebulas.
+A star like the Sun becomes a red giant and then a white dwarf at the end of its life.
+A very massive star ends in a supernova explosion and may become a neutron star or a black hole.
+A black hole has gravity so strong that not even light can escape.
+Polaris, the North Star, is almost directly above Earth's North Pole, so it stays in the same place in the sky while other stars seem to circle it.
+Stars appear to move across the night sky from east to west because Earth rotates.
+Different constellations are seen in different seasons because Earth revolves around the Sun.
+Constellations are patterns of stars, such as Orion and the Big Dipper, that people use to find their way in the sky.
+Stars twinkle because their light is bent by moving air in Earth's atmosphere.
+Stars are hidden during the day because the Sun's light is much brighter.
+A galaxy is a huge group of billions of stars, gas and dust held together by gravity.
+Our solar system is in the Milky Way, a spiral galaxy.
+Galaxies can be spiral, elliptical or irregular in shape.
+The universe contains billions of galaxies.
+Most scientists think the universe began with the Big Bang about 13.8 billion years ago and has been expanding ever since.
+Light from distant galaxies is shifted toward red, which shows that the galaxies are moving away and the universe is expanding.
+Distances to stars are measured in light-years because they are so far away.
+After the Sun, the closest star to Earth is Proxima Centauri, about 4.2 light-years away.
+
+# Earth's motions, day, year and seasons
+Earth rotates on its axis once about every 24 hours, causing day and night.
+The side of Earth facing the Sun has day; the side facing away has night.
+The Sun appears to rise in the east and set in the west because Earth rotates from west to east.
+Earth revolves around the Sun once about every 365 days, which is one year.
+Every four years a leap year adds one day because a year is about 365 and one fourth days.
+Earth's axis is tilted about 23.5 degrees, which causes the seasons.
+It is summer in the Northern Hemisphere when the Northern Hemisphere is tilted toward the Sun and gets more direct sunlight and longer days.
+It is winter in the Northern Hemisphere when it is tilted away from the Sun, so sunlight is less direct and days are shorter.
+When it is summer in the Northern Hemisphere, it is winter in the Southern Hemisphere.
+The seasons are not caused by Earth's distance from the Sun; Earth is actually closest to the Sun in January.
+The summer solstice, around June 21, has the most daylight in the Northern Hemisphere.
+The winter solstice, around December 21, has the least daylight in the Northern Hemisphere.
+At the spring and fall equinoxes, day and night are about equal everywhere.
+Places near the equator have about 12 hours of daylight all year and little change in seasons.
+Places near the poles have very long days in summer and very long nights in winter.
+The Sun is highest in the sky at noon, so shadows are shortest at noon.
+Shadows are longest in the early morning and late afternoon when the Sun is low in the sky.
+A shadow points away from the Sun; in the morning shadows point west and in the evening they point east.
+In the Northern Hemisphere the noon Sun is higher in the sky in summer than in winter.
+A sundial uses the shadow of a stick to tell time as the Sun appears to move across the sky.
+Time zones exist because Earth rotates and different places face the Sun at different times.

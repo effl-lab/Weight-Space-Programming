@@ -1,0 +1,152 @@
+# Generation 3: distractor traps. A topic word that is linked to the wrong option; ">!" argues against it.
+sound travels fastest > solids steel iron metal wood
+sound travels fastest >! vacuum air space
+sound travels slowest > gases air
+sound travels >! vacuum space
+light travels fastest > vacuum space
+eats only plants > herbivore
+eats only plants >! omnivore carnivore
+eats only meat animals > carnivore
+eats only meat >! herbivore omnivore
+eats both plants animals > omnivore
+hunts eats other animals > predator
+hunts kills eats > predator carnivore
+animal hunted eaten > prey
+makes own food > producer autotroph plant
+makes own food >! consumer heterotroph decomposer
+cannot make own food > consumer heterotroph decomposer fungi animals
+grass food chain > producer
+grass food chain >! consumer
+first organism food chain > producer plant
+sun food chain > energy source
+air pressure greatest > sea level
+air pressure greatest >! mountain top high altitude space
+air pressure lowest > mountain top high altitude
+moon whole lit side facing earth > full moon
+moon whole lit side >! first quarter new moon
+new moon lit side > facing away from earth
+glass made from > sand silica
+glass made from >! oil coal
+inherited behavior animals > instinct hatched turtle crawling ocean spider web
+inherited behavior >! trained taught fetching tricks
+learned behavior >! newly hatched born
+plant cell structure identifies > cell wall chloroplast
+plant cell show > cell wall chloroplast
+plant cell show >! cell membrane nucleus mitochondria
+solid becomes gas without liquid > sublimation
+solid becomes gas >! melting condensation
+solid to liquid > melting
+liquid to gas > evaporation boiling
+gas to liquid > condensation
+liquid to solid > freezing
+foam packing boxes > absorbs shock protects cushion
+equal protons electrons > neutral
+equal protons electrons >! positive negative ion
+potential energy changes kinetic > falling going down rolling down hill dropped
+potential kinetic >! resting sitting
+resting on a shelf > potential energy
+substances heated > expand
+substances heated >! contract
+substances cooled > contract
+ph 2 > acidic acid
+ph 2 >! neutral basic
+ph 7 > neutral
+ph 12 > basic base
+longest wavelength visible light > red
+longest wavelength >! violet blue
+shortest wavelength visible light > violet
+work done box not move > zero 0 joules
+energy change electric eel > chemical to electrical
+candle burns mass less > gases air carbon dioxide water vapor
+candle burns mass >! light energy destroyed
+mass destroyed reaction >! destroyed
+robotic probes instead astronauts > dangerous long trip humans safety cost
+reduce trash landfill > recycle compost reuse reduce
+reduce trash landfill >! bury burn dump
+measurements average > average mean
+best value repeated measurements > average
+best value repeated measurements >! smallest largest first
+rock layers canyon walls > earth's past history fossils
+rock layers >! age sun
+layers clothing cold > trapped air insulator
+buoyant force floating lighter > water pushes up
+keep cut infected > clean soap water bandage antiseptic
+keep cut infected >! open air dirt
+topsoil lost strong winds reduce > windbreak trees plant cover crops
+topsoil lost wind >! plowing
+continental plates collide > mountains mountain range himalayas
+continental plates collide >! mid ocean ridge rift valley trench
+oceanic plates move apart > mid ocean ridge
+energy directly from sun > producers plants grass algae
+energy directly from sun >! mushroom fungi decomposers animals
+rock layer fossils fish above land plants > land later covered water
+mass ice frozen water > same
+mass freezing >! less greater
+volume ice > larger expands
+independent variable > factor changed
+dependent variable > factor measured result
+dependent variable >! changed
+# --- classic misconceptions not covered by generation 2
+clouds made of >! water vapor gas
+clouds made of > tiny water droplets ice crystals
+bubbles boiling water > water vapor steam
+bubbles boiling water >! air oxygen hydrogen
+dissolving sugar >! melting
+sugar dissolves water > solution physical change
+antibiotics viruses >! cure kill
+antibiotics treat > bacteria bacterial infections
+vaccines > prevent disease immunity
+vaccines >! cure treat
+bacteria all >! harmful
+individual organism adapt lifetime >! inherited
+evolution happens > populations many generations
+evolution >! individual lifetime
+acquired traits >! passed offspring inherited
+giraffe neck stretching >! inherited
+comet tail points > away from sun
+comet tail >! behind toward sun
+weight on moon > less
+mass on moon > same
+mass on moon >! less zero
+gravity in space station > still acts
+gravity needs >! air
+heavier objects float >! sink
+big objects sink >! float
+floating depends > density
+burning matter >! destroyed
+energy created destroyed >! created destroyed
+stars same distance earth >! same distance
+constellation stars > far apart different distances
+sun is >! planet
+moon is >! star planet
+plants breathe > respiration oxygen
+plants only photosynthesis >! respiration
+plants respiration > night day all the time
+seeds need light germinate >! light
+roots absorb food >! food
+plants food from > photosynthesis sugar
+rust >! physical change
+melting cutting >! chemical change
+summer earth closer sun >! closer
+blood in veins blue >! blue
+lightning >! never strikes same place
+heat rises >! heat
+hot air rises > less dense
+cold air sinks > more dense
+lighter objects fall slower vacuum >! slower
+current flows > closed circuit
+open circuit current >! flows
+shadow color > dark
+shadow made of >! light
+earth center >! sun moves
+equator closer sun >! closer
+snowflakes frozen rain >! rain
+sleet > frozen rain drops
+hail > layers ice thunderstorm updrafts
+fog > cloud ground
+humans evolved from >! monkeys chimpanzees
+dinosaurs humans lived >! same time
+fossils found >! igneous
+spiders >! insects
+bats >! blind
+ostrich penguin >! fly

@@ -1,0 +1,368 @@
+# Generation 4: physical science as grade 4-8 tests ask it. Question cue words > answer words; >! against.
+# --- states of matter and phase changes
+solid particles > vibrate in place tightly packed fixed positions
+liquid particles > slide past each other close together
+gas particles > far apart move freely fast
+solid definite > shape volume
+liquid definite volume > takes shape of container
+gas fills > entire container no definite shape volume
+gas compressed > particles far apart space between
+particles heated > move faster spread apart expand
+particles cooled > move slower closer together contract
+temperature measures > average kinetic energy particles motion
+thermal energy = total kinetic energy of particles
+water boils celsius > 100 degrees
+water boils fahrenheit > 212 degrees
+water freezes fahrenheit > 32 degrees
+water freezing point celsius > zero degrees
+body temperature normal > 37 celsius 98.6 fahrenheit
+melting = solid changes to liquid heat added
+freezing = liquid changes to solid heat removed
+evaporation = liquid changes to gas at surface
+boiling = liquid changes to gas throughout bubbles
+condensation = gas changes to liquid cooling
+sublimation = solid changes directly to gas dry ice
+deposition frost = gas changes directly to solid
+dry ice > solid carbon dioxide sublimation
+frost forms > water vapor deposition freezing cold surface
+dew forms > condensation cool morning grass
+ice cube melts hand > heat moves from hand to ice
+puddle dries > evaporation water vapor
+wet clothes dry faster > sunny windy warm
+mirror bathroom fogs > condensation water vapor shower
+breath visible cold day > condensation water vapor
+water droplets outside cold glass > condensation water vapor air
+lid on boiling pot drops > condensation
+melting point = temperature solid becomes liquid
+boiling point = temperature liquid becomes gas
+same substance melting point freezing point > same temperature
+temperature during melting boiling > stays same constant
+ice water mixture temperature > zero degrees
+mass during phase change > stays same
+water expands freezing > ice takes more space less dense
+# --- properties of matter
+physical property > color shape size texture hardness mass volume density magnetism melting point boiling point state
+chemical property > flammability reactivity ability to rust burn react with acid
+flammability = ability to burn
+luster = shiny how light reflects
+malleable = can be hammered into thin sheets metals
+ductile = can be drawn into wire metals
+brittle = breaks shatters easily glass
+texture = how surface feels rough smooth
+mass = amount of matter in object grams kilograms
+volume = amount of space object takes up liters milliliters cubic centimeters
+weight = force of gravity on mass newtons
+mass same on moon > yes matter unchanged
+weight changes on moon > less gravity
+density = mass divided by volume g/cm3
+density formula > mass divided volume
+density water > 1 g/cm3
+object denser than water > sinks
+object less dense than water > floats
+oil floats on water > less dense
+cork wood floats > less dense than water
+rock sinks > more dense than water
+volume irregular object > water displacement graduated cylinder
+volume rectangular box > length times width times height
+measure volume liquid > graduated cylinder milliliters
+measure mass > balance grams triple beam
+measure weight force > spring scale newtons
+measure length > ruler meter stick centimeters
+measure temperature > thermometer degrees celsius
+measure time > stopwatch seconds
+measure pencil length unit > centimeters
+measure distance between cities unit > kilometers
+measure mass paper clip unit > grams
+measure mass person unit > kilograms
+measure volume bathtub unit > liters
+measure small volume medicine unit > milliliters
+# --- elements, compounds, mixtures
+element = substance made of only one kind of atom
+compound = two or more elements chemically combined fixed ratio
+mixture = substances combined physically keep own properties can separate
+solution = mixture one substance dissolves evenly in another
+solute = substance that dissolves
+solvent = substance that does the dissolving water
+salt water > solution mixture
+air mixture > nitrogen oxygen gases
+examples elements > oxygen hydrogen iron gold carbon copper helium
+examples compounds > water salt carbon dioxide sugar rust
+examples mixtures > salad trail mix sand water air soil salt water
+water formula > h2o two hydrogen one oxygen
+salt chemical name > sodium chloride
+carbon dioxide formula > co2 one carbon two oxygen
+table salt elements > sodium chlorine
+water made of elements > hydrogen oxygen
+periodic table arranged > atomic number
+periodic table column group > similar properties
+periodic table row > period
+elements same group > similar chemical properties
+atomic number = number of protons
+atom center > nucleus protons neutrons
+nucleus atom contains > protons neutrons
+proton charge > positive
+neutron charge > neutral no charge
+electron charge > negative
+electrons located > outside nucleus electron cloud shells
+atom mass mostly > nucleus protons neutrons
+neutral atom > same number protons electrons
+ion = atom gained or lost electrons charged
+molecule = two or more atoms bonded together
+oxygen gas molecule > two oxygen atoms o2 covalent bond
+covalent bond = atoms share electrons
+ionic bond = electrons transferred between atoms
+metals properties > shiny conduct heat electricity malleable ductile
+nonmetals properties > dull brittle poor conductors
+metalloids > silicon semiconductors
+noble gases > helium neon argon unreactive stable
+separate sand and water > filter
+separate iron filings sand > magnet
+separate salt water > evaporate water
+separate mixture of liquids boiling points > distillation
+separate pebbles sand > sieve screen
+filter separates > solid from liquid
+# --- physical and chemical changes
+chemical change signs > gas bubbles color change temperature change light precipitate odor new substance
+chemical change examples > burning rusting cooking baking digesting rotting tarnishing fireworks
+physical change examples > cutting folding melting freezing boiling dissolving tearing crushing breaking
+new substance formed > chemical change
+no new substance > physical change
+frying egg > chemical change
+toasting bread > chemical change
+baking cake > chemical change
+burning candle wax > chemical change
+melting candle wax > physical change
+iron nail rusting > chemical change oxygen water
+silver tarnishing > chemical change
+leaves changing color > chemical change
+fruit ripening rotting > chemical change
+crushing can > physical change
+chopping wood > physical change
+mixing salt and pepper > physical change mixture
+precipitate = solid forms when two solutions mixed
+reactants = substances at start of reaction
+products = substances formed in reaction
+chemical equation shows > reactants products arrow
+law conservation mass > mass reactants equals mass products
+closed container reaction mass > stays same
+open container reaction gas escapes > mass decreases
+atoms rearranged chemical reaction > not created destroyed
+reaction rate increases > higher temperature smaller pieces more surface area stirring catalyst concentration
+dissolve faster > stirring hot water crushed smaller pieces
+dissolve slower > cold water large pieces no stirring
+exothermic reaction = releases heat gets warmer
+endothermic reaction = absorbs heat gets colder cold pack
+acids taste > sour
+acids examples > lemon juice vinegar orange juice stomach acid
+bases examples > soap baking soda ammonia bleach
+bases feel > slippery bitter
+ph scale = measures how acidic or basic 0 to 14
+ph 7 > neutral pure water
+ph less than 7 > acid
+ph greater than 7 > base
+acid litmus paper > turns blue litmus red
+base litmus paper > turns red litmus blue
+neutralization = acid base react form salt water
+antacid > base neutralizes stomach acid
+# --- forces and motion
+force = push or pull
+net force = sum of all forces on object
+balanced forces > no change in motion net force zero
+unbalanced forces > change in motion speed direction acceleration
+book resting table forces > balanced gravity normal force
+tug of war equal pulling > balanced forces no motion
+speed = distance divided by time
+velocity = speed with direction
+acceleration = change in velocity speeding up slowing down changing direction
+car turning corner constant speed > accelerating direction changes
+newton first law = inertia object at rest stays at rest motion stays in motion
+newton second law = force equals mass times acceleration
+newton third law = every action equal opposite reaction
+rocket launch > newton third law gases pushed down rocket pushed up
+balloon released air rushes out > action reaction third law
+seatbelt > inertia stops person moving forward
+passengers lurch forward car stops > inertia
+more mass > more inertia harder to start stop
+same force greater mass > less acceleration
+greater force > greater acceleration
+friction = force opposes motion between surfaces
+friction produces > heat thermal energy
+rub hands together warm > friction heat
+rough surface > more friction
+smooth surface > less friction
+reduce friction > oil lubricant wheels ball bearings smooth surface wax
+increase friction > rough surface sand tread grip
+ice slippery > less friction
+air resistance = friction from air slows falling objects
+parachute > increases air resistance slows fall
+feather falls slower > air resistance
+gravity = force of attraction between masses
+gravity depends > mass distance
+greater mass > stronger gravity
+farther apart > weaker gravity
+objects fall vacuum > same rate
+gravity pulls objects > toward earth center down
+gravity keeps planets orbit > sun
+gravity keeps moon orbit > earth
+magnetic force > attracts iron nickel cobalt steel
+magnet poles like > repel
+magnet poles unlike opposite > attract
+magnetic field strongest > poles
+compass needle points > north magnetic field earth
+compass works because > earth magnetic field magnet
+# --- simple machines and work
+work = force times distance joules
+simple machines = make work easier change force direction
+lever = bar pivots on fulcrum seesaw crowbar
+pulley = wheel and rope lift loads flagpole
+inclined plane = ramp sloped surface
+wedge = two inclined planes split ax knife
+screw = inclined plane wrapped around cylinder jar lid
+wheel and axle = doorknob steering wheel
+ramp longer > less force more distance
+pulley flagpole > changes direction of force
+ax knife > wedge
+scissors > lever wedge
+bottle opener > lever
+wheelbarrow > lever wheel and axle
+# --- energy
+energy = ability to do work cause change
+kinetic energy = energy of motion
+potential energy = stored energy position
+kinetic energy depends > mass speed
+potential energy gravitational depends > height mass
+roller coaster top > most potential energy
+roller coaster bottom > most kinetic energy fastest
+ball thrown up highest point > most potential energy
+falling object > potential energy changes to kinetic energy
+energy cannot be > created destroyed
+energy transformations > change from one form to another
+energy converted lost as > heat thermal
+chemical energy stored in > food fuel batteries
+food energy > chemical energy
+battery stores > chemical energy
+battery flashlight transform > chemical electrical light
+solar panel > light energy to electrical energy
+solar cell converts > sunlight electricity
+generator > mechanical energy to electrical energy
+electric motor > electrical energy to mechanical motion
+toaster > electrical energy to thermal heat
+fan > electrical energy to mechanical kinetic
+radio speaker > electrical energy to sound
+light bulb > electrical energy to light heat
+microphone > sound to electrical
+windmill wind turbine > kinetic energy wind to electrical
+hydroelectric dam > moving water kinetic to electrical
+burning wood > chemical energy to heat light
+photosynthesis energy > light to chemical
+eating food body > chemical energy to mechanical heat
+car engine > chemical energy gasoline to mechanical motion heat
+nuclear power plant > nuclear energy fission uranium electricity
+incandescent bulb wasted > heat
+fluorescent led bulbs > more efficient less heat
+energy efficient > less wasted heat
+# --- heat transfer
+heat flows > from warmer to cooler object
+heat transfer stops > same temperature equilibrium
+conduction = heat transfer by direct contact touching
+convection = heat transfer by movement of fluids liquids gases currents
+radiation = heat transfer by electromagnetic waves no matter needed
+metal spoon hot soup > conduction
+pan handle hot > conduction
+hand touching hot stove > conduction
+boiling water currents > convection
+hot air balloon rises > convection warm air less dense
+sea breeze land breeze > convection
+campfire warmth felt > radiation
+sun heats earth > radiation
+microwave oven > radiation
+conductors heat > metals copper aluminum iron silver
+insulators heat > wood plastic rubber foam air wool cloth styrofoam fiberglass
+cooking pot made of > metal conducts heat
+pot handle made of > plastic wood insulator
+oven mitts > insulator protect hands
+winter coat keeps warm > insulator traps air body heat
+thermos keeps drink hot cold > insulation vacuum
+dark colors > absorb more light heat
+light colors white > reflect light stay cooler
+black shirt sunny day > warmer absorbs
+white roof > reflects sunlight cooler
+# --- electricity
+electric current = flow of electrons charges
+circuit = closed path for electricity
+open circuit > broken path no current bulb off
+closed circuit > complete path current flows
+switch > opens closes circuit
+series circuit = one path bulbs go out if one breaks
+parallel circuit = more than one path other bulbs stay lit
+homes wired > parallel circuits
+electrical conductors > copper silver aluminum gold metals water
+electrical insulators > rubber plastic glass wood air
+wire made of > copper conductor
+wire covered with > rubber plastic insulator
+battery provides > voltage energy source
+resistance = opposes flow of current
+static electricity = buildup of charge rubbing
+lightning > static electricity discharge
+balloon rubbed hair > static electricity electrons transferred
+like charges > repel
+opposite charges > attract
+electromagnet = coil of wire current iron core
+electromagnet stronger > more coils more current
+electromagnet can > turn on and off
+generators use > magnets coils wire motion
+electricity safety > do not touch outlets water
+# --- waves, sound, light
+wave = disturbance that transfers energy
+waves transfer > energy not matter
+wavelength = distance between crests
+frequency = number of waves per second hertz
+amplitude = height of wave energy
+transverse wave = particles move perpendicular up and down light
+longitudinal compression wave = particles move parallel back and forth sound
+mechanical wave needs > medium matter
+sound needs > medium matter solid liquid gas
+sound travels fastest > solids
+sound travels slowest > gases
+sound speed air > 343 meters per second
+pitch = how high or low sound frequency
+loudness = amplitude volume decibels
+higher frequency > higher pitch
+shorter string > higher pitch
+tighter string > higher pitch
+thicker string > lower pitch
+longer air column > lower pitch
+echo = sound reflected
+bats dolphins echolocation > reflected sound
+sonar > sound waves measure ocean depth
+light fastest speed > vacuum space
+light travels > straight lines
+light speed > 300000 kilometers per second
+light faster than > sound
+lightning seen before thunder > light faster than sound
+reflection = light bounces off surface mirror
+refraction = light bends passing between materials
+lens bends light > refraction
+convex lens > magnifying glass converges
+concave lens > spreads light diverges
+prism separates > white light colors spectrum refraction
+rainbow > refraction water droplets
+white light made of > all colors
+object color seen > reflected light
+black object > absorbs all colors
+white object > reflects all colors
+transparent = lets light through clear glass
+translucent = lets some light through frosted glass wax paper
+opaque = blocks light wood metal
+shadow forms > opaque object blocks light
+shadow longest > morning evening sun low
+shadow shortest > noon sun high
+electromagnetic spectrum > radio microwave infrared visible ultraviolet x ray gamma
+ultraviolet light > sunburn skin damage
+infrared > heat
+x rays > see bones
+radio waves > communication radio tv cell phones
+visible light colors order > red orange yellow green blue indigo violet
+red light > longest wavelength lowest energy
+violet light > shortest wavelength highest energy
+eye detects > light retina

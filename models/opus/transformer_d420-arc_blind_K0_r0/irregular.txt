@@ -1,0 +1,220 @@
+# stem followed by surface forms that should share it
+leaf leaves leaf's
+life lives
+wolf wolves
+knife knives
+shelf shelves
+calf calves
+child children
+man men
+woman women
+foot feet
+tooth teeth
+mouse mice
+goose geese
+ox oxen
+fungus fungi
+nucleus nuclei
+bacterium bacteria
+cactus cacti
+larva larvae
+pupa pupae
+alga algae
+species
+series
+axis axes
+lens lenses
+analysis analyses
+hypothesis hypotheses
+crisis
+basis
+datum data
+medium media
+criterion criteria
+phenomenon phenomena
+vertebra vertebrae
+antenna antennae antennas
+formula formulas formulae
+freeze froze frozen freezing freezes
+rise rose risen rising rises
+grow grew grown growing grows growth
+fall fell fallen falling falls
+fly flew flown flying flies
+eat ate eaten eating eats
+see saw seen
+give gave given
+take took taken
+break broke broken breaking breaks breakage
+choose chose chosen
+drink drank drunk
+sink sank sunk sinking sinks
+swim swam swum swimming swims
+blow blew blown blowing blows
+throw threw thrown throwing throws
+draw drew drawn
+drive drove driven
+write wrote written
+ride rode ridden
+shine shone shining shines
+lead led
+feed fed feeding feeds
+bleed bled
+breed bred breeding breeds
+speed sped speeds speeding speedy
+melt melted melting melts molten
+lay laid laying lays
+lie lay lain lying lies
+hide hid hidden hiding hides
+bite bit bitten biting bites
+dig dug digging
+hold held
+build built building builds
+light lit lighting lights
+burn burnt burned burning burns
+spin spun spinning spins
+hang hung
+sting stung stinging stings
+weave wove woven
+strike struck striking strikes
+shake shook shaken shaking shakes
+wear wore worn wearing wears
+tear tore torn
+bear bore born borne
+spread spreading spreads
+spring springs
+string strings
+thing things
+evening evenings
+morning mornings
+ceiling ceilings
+lightning
+during
+being beings
+king kings
+wing wings winged
+ring rings ringed
+sing sang sung singing
+bring brought bringing brings
+think thought thinking thinks
+buy bought
+catch caught catching catches
+teach taught teaching teaches
+seek sought
+fight fought
+condense condenses condensed condensing condensation condenser
+evaporate evaporates evaporated evaporating evaporation
+precipitate precipitation precipitates precipitated
+erode erodes eroded eroding erosion erosional
+deposit deposits deposited depositing deposition
+pollute pollutes polluted polluting pollution pollutant pollutants polluter
+reflect reflects reflected reflecting reflection reflections reflective reflector
+refract refracts refracted refracting refraction
+absorb absorbs absorbed absorbing absorption absorbent
+transpire transpiration transpires
+respire respiration respiratory respires
+digest digests digested digesting digestion digestive
+circulate circulates circulation circulatory circulating
+excrete excretion excretory excretes
+reproduce reproduces reproduced reproducing reproduction reproductive
+photosynthesis photosynthesize photosynthetic photosynthesizes
+conduct conducts conducted conducting conduction conductor conductors conductive conductivity
+insulate insulates insulated insulating insulation insulator insulators
+convect convection convective
+radiate radiates radiated radiating radiation radiant
+vibrate vibrates vibrated vibrating vibration vibrations
+rotate rotates rotated rotating rotation rotational
+revolve revolves revolved revolving revolution revolutions
+orbit orbits orbited orbiting orbital
+decompose decomposes decomposed decomposing decomposition decomposer decomposers
+consume consumes consumed consuming consumer consumers consumption
+produce produces produced producing producer producers production
+predator predators predation predatory
+prey preys
+migrate migrates migrated migrating migration migratory
+hibernate hibernates hibernated hibernating hibernation
+inherit inherits inherited inheriting inheritance inheritable heredity hereditary
+evolve evolves evolved evolving evolution evolutionary
+adapt adapts adapted adapting adaptation adaptations adaptive
+camouflage camouflaged camouflages
+pollinate pollinates pollinated pollinating pollination pollinator pollinators
+germinate germinates germinated germinating germination
+fertilize fertilizes fertilized fertilizing fertilization
+classify classifies classified classifying classification
+observe observes observed observing observation observations observer observers
+predict predicts predicted predicting prediction predictions predictable
+conclude concludes concluded concluding conclusion conclusions
+measure measures measured measuring measurement measurements
+dissolve dissolves dissolved dissolving dissolution
+solve solves solved solving solution solutions
+oxidize oxidizes oxidized oxidation
+rust rusts rusted rusting rusty
+combust combustion combustible
+ignite ignites ignition
+expand expands expanded expanding expansion
+contract contracts contracted contracting contraction
+accelerate accelerates accelerated accelerating acceleration
+magnet magnets magnetic magnetism magnetized magnetize
+electric electrical electricity electrically
+gravity gravitational gravitation
+friction frictional
+volcano volcanoes volcanic volcanism
+erupt erupts erupted erupting eruption eruptions
+weather weathers weathered weathering
+fossil fossils fossilized fossilization
+extinct extinction extinctions
+endanger endangered endangers
+behave behaves behavior behaviors behavioral behaviour
+instinct instincts instinctive instinctual
+temperature temperatures
+destroy destroys destroyed destruction destructive
+construct constructive construction
+communicate communicates communication
+transfer transfers transferred transferring
+transform transforms transformed transforming transformation
+convert converts converted converting conversion
+generate generates generated generating generator generators generation
+infect infects infected infection infections infectious
+immune immunity immunization
+vaccine vaccines vaccinate vaccination vaccinated
+nutrient nutrients nutrition nutritional nutritious
+nerve nerves nervous neuron neurons
+muscle muscles muscular
+bone bones bony skeleton skeletal
+heart hearts cardiac
+breathe breathes breathing breathed breath
+sweat sweats sweating perspiration perspire
+vary varies varied variation variations variety varieties variable variables
+depend depends dependent dependence
+energy energies energetic
+mass masses massive
+dense density densities
+volume volumes
+length lengths long
+width wide widths
+height high heights tall
+weigh weighs weighed weight weights
+heavy heavier heaviest
+warm warmer warmest warming warms warmed warmth
+cold colder coldest
+cool cooler coolest cooling cools cooled
+hot hotter hottest
+heat heats heated heating
+dry drier driest dries dried drying dryness
+wet wetter wettest
+fast faster fastest
+slow slower slowest slows slowed slowing slowly
+quick quicker quickly
+deep deeper deepest depth depths
+far farther farthest distance distances distant
+near nearer nearest
+strong stronger strongest strength
+weak weaker weakest weakness
+hard harder hardest hardness
+soft softer softest softness
+loud louder loudest loudness
+bright brighter brightest brightness
+dark darker darkest darkness
+low lower lowest
+big bigger biggest
+small smaller smallest
+large larger largest

@@ -1,0 +1,258 @@
+# Ecological mechanisms and conditional outcomes, handwritten at the pair level.
+# Conditional scales disable first-order generalization from isolated selectors.
+producer removal | consumers starvation decrease | increase | -1.0
+producer decline | consumers food decrease | increase | -1.0
+producer abundance | food energy consumers increase | decrease | -1.0
+predator removal | prey increase | decrease | -1.0
+predator decline | prey increase | decrease | -1.0
+predator abundance | prey decrease | increase | -1.0
+prey removal | predators starvation decrease | increase | -1.0
+prey decline | predators decrease migration | increase | -1.0
+prey abundance | predators increase food | decrease | -1.0
+decomposer removal | waste accumulation nutrient shortage | recycling | -1.0
+decomposer decline | dead material accumulation | recycling | -1.0
+pollinator removal | seeds fruit decline | increase | -1.0
+pollinator decline | reproduction fertilization decrease | increase | -1.0
+herbivore removal | vegetation increase | decrease | -1.0
+herbivore abundance | vegetation decrease | increase | -1.0
+competitor removal | resources survival increase | decrease | -1.0
+resource shortage | competition starvation migration
+resource abundance | reproduction population growth
+population overcrowded | competition limited resources
+population growing | births immigration
+population shrinking | deaths emigration
+immigration population | increase arrivals
+emigration population | decrease departures
+birthrate greater | population increase
+mortality greater | population decrease
+carrying capacity | resources maximum sustainable population
+capacity exceeded | competition starvation population decline
+limiting water | drought population decline
+limiting food | starvation reproduction decline
+limiting space | crowding competition
+limiting sunlight | photosynthesis growth
+limiting nutrients | slow plant growth
+population disease | density dependent mortality
+population hurricane | density independent disturbance
+population drought | density independent limitation
+predator prey cycle | delayed population oscillation
+competing niche | same limited resources
+sharing resources | competition common limited supply
+resource partitioning | different niches coexistence decrease competition | increase | -1.0
+interspecific | different species interaction
+intraspecific | same species interaction
+biodiversity stability | resilience alternative food sources
+foodweb complexity | alternate pathways stability
+foodchain arrows | energy transfer eaten consumer
+foodchain beginning | producer sunlight
+foodchain detritus | decomposer recycling
+energy pyramid | trophic transfer heat loss
+pyramid broad base | producers greatest energy biomass
+pyramid narrow top | predators least energy biomass
+energy trophic | respiration heat loss
+matter trophic | recycling conservation atoms
+energy recycled | dissipation heat flow | cycle | -1.0
+nutrients recycled | decomposers soil producers
+carbon recycled | photosynthesis respiration decomposition
+nitrogen recycled | bacteria decomposition fixation
+oxygen cycle | photosynthesis respiration
+water ecosystem | evaporation transpiration precipitation
+photosynthesis ecosystem | sunlight chemical energy producers
+respiration ecosystem | heat carbon dioxide energy release
+organic remains | decomposer nutrients humus
+fallen leaves | decomposer nutrient recycling
+rotting log | fungi bacteria nutrients
+scavenger dead | carcass food vulture
+vulture carrion | scavenger consumer
+hyena carrion | scavenger carnivore
+mushroom log | decomposer fungus
+worm litter | detritivore decomposition soil
+termite wood | cellulose microbes mutualism
+cow microbes | cellulose digestion mutualism
+bee flower | pollination nectar mutualism
+bird ticks | food parasite removal mutualism
+clownfish anemone | protection mutualism
+lichen partners | fungus alga mutualism
+mycorrhiza roots | fungus minerals mutualism
+barnacle whale | transport commensalism
+orchid tree | support commensalism
+mistletoe tree | water nutrients parasitism
+tapeworm intestine | parasite host nutrients
+tick mammal | parasite blood
+flea dog | parasite blood
+mosquito blood | parasite vector disease
+pathogen host | disease parasitism
+introduced species | nonnative human transport
+invasive predator | native prey decline extinction | | -1.0
+invasive competitor | native species resources decline | | -1.0
+invasive absence predators | population rapid growth
+invasive control | removal prevention monitoring
+nonnative spread | introduced distribution
+habitat loss | population decline endangered extinction
+habitat fragmented | isolation barriers | migration | -1.0
+wildlife corridor | connects habitats migration gene flow
+habitat restoration | native vegetation biodiversity
+wetland drained | habitat loss runoff flooding
+wetland restored | habitat filtration flood storage
+forest cleared | habitat loss erosion runoff
+forest replanted | habitat carbon storage soil retention
+forest fire | disturbance succession nutrients
+forest fire soil | secondary succession
+lava barren | primary succession pioneer
+glacier retreat | primary succession bare rock
+abandoned field | secondary succession soil
+pioneer lichen | weathering soil formation
+succession soil | accumulation organic matter
+succession grasses | shrubs trees community change
+succession mature | stable community biodiversity
+# Adaptations described by specific environmental pressures.
+desert nocturnal | cool nighttime water conservation
+nocturnal heat | avoidance cooler activity
+desert burrow | shade cooling water conservation
+desert ears | heat loss large surface
+arctic ears | small surface heat conservation
+arctic blubber | insulation stored energy
+arctic white | camouflage snow
+arctic fur | insulation trapped air
+arctic compact | heat conservation small surface
+penguin huddle | heat conservation shared warmth
+penguin countercurrent | heat conservation circulation
+camel hump | stored fat energy | water | -1.0
+camel lashes | sand protection
+camel feet | broad pressure sand
+cactus spines | protect defense water conservation decrease transpiration | increase | -1.0
+cactus stem | water storage photosynthesis
+cactus wax | water conservation cuticle
+cactus roots | widespread water absorption
+pine needles | water conservation winter
+pine cones | protected seeds reproduction
+deciduous autumn | leaves shed water conservation
+leaf shedding | water conservation dormancy
+winter dormant | metabolism reduced stored reserves
+hibernation food | energy conservation winter scarcity
+migration seasonal | food breeding favorable climate
+migration navigation | magnetic field sun stars
+bird beak seeds | strong crushing thick
+bird beak nectar | long slender tube
+bird beak fish | pointed spear gripping
+bird beak insects | narrow probing
+bird beak tearing | hooked sharp carnivore
+bird feet webbed | swimming paddling
+bird feet talons | grasping prey
+bird feet broad | walking mud weight distribution
+bird hollow bones | lightweight flight
+fish streamlined | swimming efficiency decrease drag resistance | increase | -1.0
+fish fins | steering propulsion balance
+fish scales | protection
+fish countershading | camouflage dark back light underside
+frog webbed | swimming
+frog sticky tongue | catching insects
+insect camouflage | avoiding predators
+insect warning | bright color toxicity
+mimicry harmless | resemblance poisonous protection
+mimicry predator | prey deception capture
+stick insect | camouflage twig
+leaf insect | camouflage vegetation
+moth bark | camouflage predator avoidance
+snowshoe hare | seasonal camouflage fur
+peppered moth | camouflage selection pollution
+chameleon color | camouflage communication
+pufferfish inflation | predator defense
+skunk spray | predator deterrence
+porcupine quills | predator defense
+armadillo armor | predator defense
+turtle shell | predator protection
+snail shell | protection water conservation decrease dehydration | increase | -1.0
+squid ink | confusion escape predators
+lizard tail | distraction escape regeneration
+starfish regeneration | regrowth lost arms
+schooling fish | predator protection coordination
+herding animals | predator protection vigilance
+territorial behavior | resources mating defense
+courtship display | mate attraction reproduction
+nest building | offspring protection reproduction
+parental care | offspring survival
+learned maze | experience behavior
+inherited reflex | automatic innate behavior
+spider web | instinct prey capture
+bird song learning | practice experience species signals
+# Selection, extinction, and human ecological effects.
+variation survival | natural selection differential reproduction
+favorable trait | survival reproduction inherited
+selection generations | inherited traits frequency change
+selection individual | differential survival reproduction | intentional purposeful | -1.0
+need mutation | random | directed purposeful | -1.0
+resistance pesticide | inherited variation selection
+resistance antibiotic | inherited variation selection
+artificial breeding | humans select desired traits
+domestication breeding | artificial selection
+selective breeding | desired inherited traits
+fossil transition | evolutionary change ancestry
+homologous limb | common ancestry different function
+analogous wing | similar function independent evolution
+vestigial organ | ancestral structure reduced function
+DNA similarity | common ancestry relatedness
+embryo similarity | common ancestry development
+geographic isolation | speciation divergent populations
+extinction rapid | environmental change adaptation failure
+mass extinction | widespread rapid biodiversity loss
+endangered recovery | habitat protection breeding
+poaching wildlife | population decline endangered
+hunting excessive | population decline extinction
+fish overharvest | population depletion
+fish quotas | sustainable harvest recovery
+protected spawning | reproduction population recovery
+bycatch | unintended captured animals
+fertilizer lake | eutrophication algal bloom
+algal bloom decay | oxygen depletion fish death
+sewage lake | decomposition oxygen depletion
+phosphate runoff | algae eutrophication
+nitrate runoff | algae eutrophication
+pesticide foodchain | biomagnification predators
+mercury foodchain | biomagnification top predators
+DDT eggs | thin shells reproductive failure
+thermal pollution | hypoxia dissolved oxygen decrease | increase | -1.0
+hot wastewater | dissolved oxygen decrease fish stress | increase | -1.0
+acid rain lake | low pH aquatic death
+acid rain forest | leaf damage nutrient leaching
+sulfur emissions | acid rain respiratory harm
+nitrogen oxides | acid rain smog
+carbonmonoxide poisoning | hemoglobin hypoxia | oxygen transport | -1.0
+particulate air | respiratory disease asthma
+smog sunlight | ozone photochemical reactions
+CFC ozone | depletion ultraviolet increase
+stratospheric ozone | ultraviolet absorption protection
+groundlevel ozone | harmful pollutant respiratory
+fossilfuel burning | carbon dioxide greenhouse warming
+forest carbon | photosynthesis storage biomass
+reforestation carbon | atmospheric dioxide absorption
+methane greenhouse | infrared absorption warming
+carbon dioxide ocean | acidification lower pH
+acidification shells | calciumcarbonate dissolution
+coral warming | bleaching symbiotic algae loss
+coral bleaching | stress algae loss
+coral reef | biodiversity habitat shelter
+sea level rising | land ice melt thermal expansion
+coastal saltwater | intrusion freshwater contamination
+renewable replenish | sunlight wind water cycle
+nonrenewable finite | fossil fuels minerals
+recycling metals | conserve ores reduce mining
+recycling paper | conserve trees reduce waste
+reusing bottle | conserve materials reduce waste
+composting waste | nutrients soil reduced landfill
+repairing product | longer lifetime reduced waste
+conservation electricity | insulation efficient appliances
+conservation transport | public transit cycling walking
+solar electricity | photovoltaic renewable
+wind electricity | turbine generator renewable
+hydroelectric electricity | flowing water turbine generator
+geothermal electricity | earth heat steam turbine
+biomass electricity | organic fuel combustion
+nuclear electricity | fission heat steam turbine
+powerplant cooling | water waste heat
+energy tradeoff | cost environment reliability
+hydroelectric dam impact | flooded habitat migration barrier
+wind turbine impact | birds habitat intermittent supply
+solar nighttime | storage batteries | generation | -1.0
+wind calm | storage backup | generation | -1.0
+fossil fuel limited | nonrenewable long formation

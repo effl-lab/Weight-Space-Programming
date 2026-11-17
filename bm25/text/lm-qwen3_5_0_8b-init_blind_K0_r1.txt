@@ -1,0 +1,4140 @@
+heavy rain cause : flooding erosion runoff landslides
+no rain long time : drought crops die wildfires
+strong winds : erosion sand dunes damage
+earthquake underwater : tsunami
+volcano eruption ash : cooler climate blocked sunlight
+asteroid impact : crater extinction dust
+glacier melting : sea level rise floods
+glacier moving : valleys scratches boulders deposits
+river flowing : erosion canyon valley sediment
+river reaching ocean : delta deposition
+waves hitting shore : erosion beach sand
+plant roots rocks : cracks weathering
+water freezing cracks : rocks break weathering
+acid rain stone : dissolves weathering
+sun uneven heating : wind currents weather
+earth tilt : seasons
+earth rotation : day night
+moon gravity : tides
+moon orbit : phases
+plates colliding : mountains earthquakes volcanoes
+plates separating : rift valleys ridges
+too many deer : overgrazing starvation
+fewer bees : fewer fruits pollination decrease
+new disease : population decrease
+habitat destroyed : species decline extinction
+introducing species : competition native decline
+pesticides used : insects die birds harmed
+fertilizer runoff : algae growth fish die
+pollution river : fish die
+warmer climate : species move north
+less sunlight pond : fewer plants algae
+more sunlight : more growth plants
+removing producers : consumers starve
+removing decomposers : nutrients not recycled
+smoking : lung disease cancer
+lack exercise : weak muscles heart disease
+lack sleep : tired
+lack vitamin c : scurvy
+lack calcium : weak bones
+lack iron : anemia tired
+germs enter body : infection illness
+vaccination : immunity protection
+antibiotic overuse : resistant bacteria
+friction : heat wear slowing
+gravity : falling weight orbits
+force applied : motion change
+heat added : melting expansion evaporation temperature_rise
+heat removed : freezing contraction condensation
+electric current coil : magnetic field
+moving magnet coil : electric current
+light hits object : reflected absorbed transmitted
+sound hits wall : echo reflected
+rubbing balloon : static charge
+mixing acid base : neutralization salt water
+iron oxygen water : rust
+burning fuel : heat light carbon_dioxide
+temperature increases particles : move faster spread apart
+temperature decreases particles : move slower closer
+heated gas volume : increases expands
+cooled gas volume : decreases contracts
+heated metal : expands longer
+heated water density : decreases
+warm water solid dissolves : faster more
+warm water gas dissolved : less
+altitude higher air pressure : decreases lower less
+altitude higher temperature : decreases colder
+altitude higher oxygen : less thinner
+ocean deeper pressure : increases greater
+ocean deeper temperature : decreases colder
+ocean deeper light : decreases darker less
+distance farther gravity : decreases weaker
+mass greater gravity : increases stronger
+mass greater inertia : increases more
+speed greater kinetic : increases more
+height greater potential : increases more
+friction more : slower heat
+force greater acceleration : increases more
+mass greater acceleration : decreases less
+predators increase prey : decreases
+prey increase predators : increases
+food decreases population : decreases
+deforestation carbon_dioxide : increases
+deforestation erosion : increases
+deforestation habitat : decreases loss
+greenhouse gases increase temperature : increases warming
+fossil_fuels burning carbon_dioxide : increases
+exercise heart_rate : increases faster
+exercise breathing_rate : increases faster
+sleep heart_rate : decreases slower
+age bones : weaker
+amplitude larger sound : louder
+frequency higher pitch : higher
+wavelength longer frequency : lower
+voltage higher current : increases
+resistance higher current : decreases
+coils more electromagnet : stronger
+distance farther magnet : weaker
+distance farther sound : quieter softer
+distance farther light : dimmer
+latitude higher temperature : colder decreases
+elevation higher plants : fewer smaller
+salt added water freezing_point : lowers decreases
+salt added water boiling_point : raises increases
+pressure higher boiling_point : increases
+surface_area larger reaction : faster
+surface_area larger evaporation : faster
+wind faster evaporation : faster
+humidity higher evaporation : slower
+sunlight more photosynthesis : increases
+carbon_dioxide more photosynthesis : increases
+light less plants : grow slower
+water less plants : wilt
+population larger competition : increases
+pollution more species : decrease
+mass object moon : stays same unchanged
+mass ice melted : stays same
+mass dissolved : stays same
+volume water frozen : increases expands
+density ice : less water
+weight moon : decreases less
+water cycle sun energy drives powers : sun solar energy heat
+water cycle : evaporation condensation precipitation runoff collection transpiration
+evaporation evaporates evaporate : liquid gas vapor heat sun warm energy
+water vapor gas becomes changes : evaporation evaporates heat
+liquid water gas : evaporation evaporate boiling boil
+condensation condenses condense : gas liquid cool cooling cools droplets
+water droplets outside glass cold : condensation condenses vapor air
+dew morning grass : condensation
+clouds cloud form forms formed : condensation condenses vapor cools droplets
+clouds made : water droplets ice crystals
+precipitation : rain snow sleet hail
+rain falls fall clouds : precipitation
+water falls ground : precipitation runoff
+transpiration : plants leaves water vapor
+plants release water vapor leaves : transpiration
+runoff : water flows surface rivers streams ocean
+groundwater : soil rock aquifer underground well
+water percolate soaks soak infiltration : soil ground groundwater
+ocean salt water most earth : oceans salt 97
+fresh water frozen most : glaciers ice caps
+fresh water : rivers lakes groundwater glaciers
+weather : short term daily conditions temperature precipitation wind humidity
+climate : long term average years pattern region
+humidity : water vapor moisture air
+humid : moist water vapor
+air pressure measure measures : barometer
+temperature measure measures : thermometer
+wind speed measure measures : anemometer
+wind direction measure : wind vane weather vane
+rainfall measure measures amount : rain gauge
+humidity measure : hygrometer psychrometer
+front cold : thunderstorms storms cooler temperatures
+front warm : rain drizzle warmer
+air mass masses : temperature humidity front
+pressure low : clouds storms rain
+pressure high : clear fair dry weather
+hurricane hurricanes form : warm ocean water tropical
+hurricane : wind rain flooding storm surge
+tornado tornadoes : funnel rotating wind thunderstorm
+thunderstorm lightning : static electricity charge thunder
+thunder : sound lightning heated air expands
+lightning seen before thunder heard : light travels faster sound
+flood flooding : heavy rain rainfall
+drought : little rain dry
+wind cause causes : uneven heating air pressure differences
+breeze sea day : land heats faster
+land heats cools faster : water specific heat
+coastal climate mild ocean : water heats cools slowly moderate
+sun heats earth unevenly : wind currents convection
+ocean currents : wind temperature salinity density climate
+gulf stream : warm current
+greenhouse effect gases : carbon dioxide methane water vapor trap heat
+global warming climate change : carbon dioxide greenhouse gases fossil fuels burning temperature increase
+global warming effect : melting ice glaciers sea level rise
+weather forecast predict : satellites radar meteorologist data
+meteorologist : weather forecast
+fog : condensation ground cloud
+snow : frozen ice crystals cold below freezing
+hail : ice balls thunderstorms
+sleet : freezing rain ice pellets
+altitude higher mountain temperature : colder cooler decreases
+rock igneous forms formed : magma lava cooling cools hardens solidifies
+magma lava cool cools cooling harden : igneous
+igneous crystals large : slowly cooling underground intrusive
+igneous crystals small glassy : quickly cooling surface extrusive lava
+granite : igneous intrusive
+basalt obsidian pumice : igneous extrusive lava
+rock sedimentary forms formed : sediments layers compaction cementation pressure deposited
+sediments layers compacted cemented : sedimentary
+fossils found rock type : sedimentary
+sandstone limestone shale conglomerate : sedimentary
+limestone : calcium carbonate shells fizzes acid
+rock metamorphic forms formed : heat pressure changed
+heat pressure rock changes : metamorphic
+marble : metamorphic limestone
+slate : metamorphic shale
+quartzite : metamorphic sandstone
+gneiss schist : metamorphic
+rock cycle : igneous sedimentary metamorphic weathering erosion melting
+rocks made : minerals
+mineral identify hardness : scratch scratches mohs scale
+mineral hardest : diamond
+mineral softest : talc
+streak : color powder
+luster : shine reflects light metallic
+cleavage mineral breaks : flat smooth planes
+quartz : hard mineral glass
+calcite : fizzes acid vinegar
+magnetite : magnetic
+mineral properties identify : hardness streak luster color cleavage density
+weathering : breaking down rocks smaller pieces
+weathering physical mechanical : ice wedging freezing thawing roots abrasion
+water freezes cracks rock expands : weathering ice wedging breaks
+plant roots grow cracks : weathering break rocks
+weathering chemical : acid rain oxidation rust dissolve
+acid rain : weathering statues limestone marble pollution sulfur
+erosion : moving transport carry carries sediment wind water ice gravity
+erosion cause causes agent : water wind glaciers ice gravity
+river rivers stream erosion : canyon valley v shaped
+grand canyon formed : river erosion water colorado
+glacier glaciers : u shaped valleys moraines boulders erosion ice
+deposition deposit deposited : sediment drop dropped settle
+delta : deposition river mouth sediment
+sand dunes : wind deposition desert
+beach erosion : waves ocean
+erosion prevent reduce soil : plants roots trees grass terraces
+plants roots soil : hold prevent erosion
+landslide mudslide : gravity erosion
+cave caves : groundwater dissolves limestone
+stalactites stalagmites : cave minerals deposit
+soil formed forms : weathering rocks decomposed organisms humus
+humus : decayed decomposed plants animals organic matter
+soil made : minerals rock particles humus water air organisms
+soil nutrients : decomposers decay humus
+soil texture particles largest : sand gravel
+soil particles smallest : clay
+water holds soil best : clay humus
+water drains quickly soil : sand sandy
+topsoil : humus nutrients plants
+earthworms : soil aerate air decompose
+plates tectonic move : mantle convection currents
+earthquake earthquakes : plates faults move vibrations seismic waves
+earthquake measure : seismograph richter scale
+seismic waves : earthquake
+volcano volcanoes : magma lava plates boundaries erupt
+mountains form formed : plates collide collision folding
+mountain building himalayas : collide collision plates continental
+plates collide convergent : mountains trenches subduction volcanoes
+plates apart divergent : ridge rift new crust sea floor spreading
+plates slide past transform : earthquakes fault san andreas
+mid ocean ridge : divergent new crust spreading magma
+continental drift pangaea : plates continents moved fossils matching
+continents fit together : pangaea continental drift
+ring fire pacific : volcanoes earthquakes
+tsunami : earthquake ocean underwater wave
+fault : crack break plates earthquake
+hot spot hawaii : volcanoes islands magma
+island islands formed : volcanoes volcanic
+fossil fossils form formed : sedimentary rock buried sediment mineral replaced
+fossils tell : past environment organisms lived changed
+fossil sea ocean shells found mountain desert : once covered water ocean sea
+fossils tropical plants found cold : climate warmer changed
+rock layers oldest : bottom lowest deepest
+rock layers youngest : top
+law superposition : oldest bottom younger top
+index fossils : age rock layers date
+fossil age determine : radioactive dating layers
+extinct extinction dinosaurs : asteroid impact climate change
+amber : insect fossil preserved
+petrified wood : minerals replaced fossil
+fossil fuels formed : ancient plants animals remains millions years pressure heat
+coal formed : ancient plants swamps pressure
+oil petroleum natural gas formed : ancient marine organisms
+geologic time scale : eras periods millions years
+renewable resource resources : wind solar sun sunlight water hydroelectric geothermal biomass trees wood tides plants
+renewable energy sources source : wind solar sunlight water hydroelectric geothermal tides
+nonrenewable resource resources : coal oil petroleum natural gas fossil fuels minerals uranium
+fossil fuel fuels : coal oil petroleum natural gas gasoline
+fossil fuels burning burn : carbon dioxide pollution greenhouse air
+fossil fuels limited supply : nonrenewable replaced
+inexhaustible : sun wind solar
+solar energy panels : sunlight electricity sun
+wind energy turbines : electricity wind
+hydroelectric dam : water flowing moving electricity
+geothermal : heat inside earth
+nuclear power energy : uranium fission
+biomass : wood plants waste
+energy conserve conservation save : turn off lights unplug walk bike insulation
+water conserve conservation save : shorter showers fix leaks turn off
+conserve resources : reduce reuse recycle
+recycle recycling : aluminum cans paper plastic glass reduce waste landfill
+reduce waste : reuse recycle compost
+landfill landfills : trash garbage waste
+compost composting : food scraps decompose soil
+pollution air : smoke exhaust factories cars burning fossil fuels smog
+pollution water : runoff fertilizer sewage oil spills chemicals
+fertilizer runoff lakes : algae bloom oxygen fish die
+oil spill : birds fish harmed ocean
+smog : air pollution cars exhaust
+deforestation trees cut down forests : habitat loss erosion carbon dioxide
+clear cutting : erosion habitat loss
+strip mining : habitat destroyed erosion
+mining : minerals ores metals
+ore : metal minerals mined
+aluminum : bauxite recycled cans
+iron ore : steel
+new moon : not visible dark between
+full moon : whole lit side opposite
+crescent moon : sliver small
+moon waxing : growing larger lit
+moon waning : shrinking smaller
+first quarter last quarter moon : half
+moon same side faces : rotation revolution same time
+moon orbit time : 27 days month
+equinox : equal day night spring fall
+solstice summer : longest day june
+solstice winter : shortest day december
+earth tilt degrees : 23.5
+hours daylight change seasons : tilt revolution
+june northern hemisphere : summer longest days
+december northern hemisphere : winter shortest days
+southern hemisphere seasons : opposite
+time zones : rotation
+latitude : north south equator distance
+longitude : east west prime_meridian
+topographic map : contour_lines elevation
+contour lines close together : steep slope
+contour lines far apart : gentle gradual slope
+map scale : distance
+globe : model earth
+model solar system : planets sizes distances
+model limitation : not exact scale
+ocean covers earth surface : 70 percent three fourths
+ocean water salty : salt dissolved minerals
+deepest part ocean : trench
+ocean floor features : ridge trench abyssal plain continental_shelf seamount
+continental shelf : shallow edge continent
+ocean waves caused : wind
+ocean currents caused : wind density temperature salinity
+salinity : salt amount
+estuary : fresh salt water mix river ocean
+upwelling : nutrients cold water
+weather map symbols : fronts pressure temperature
+isobars : pressure
+jet stream : winds high altitude
+air masses moves : weather changes
+maritime air mass : moist humid ocean
+continental air mass : dry land
+polar air mass : cold
+tropical air mass : warm
+cumulus clouds : puffy fair weather
+cumulonimbus clouds : thunderstorms tall
+stratus clouds : layers gray overcast
+cirrus clouds : thin wispy high ice crystals
+hurricane eye : calm center
+hurricane energy source : warm ocean water evaporation
+hurricane weakens : land cooler water
+tornado alley : great plains midwest
+tornado safety : basement interior room
+lightning safety : indoors avoid trees water
+flash flood : heavy rain quickly
+monsoon : seasonal winds rain
+dew point : condensation saturation
+relative humidity high : air saturated moisture
+rain forms : droplets combine heavy fall
+air rises cools : clouds condensation
+sea breeze land breeze : temperature difference
+mountain rain shadow : dry side
+climate factors : latitude altitude ocean distance
+desert climate : dry hot little precipitation
+tropical climate : warm wet equator
+polar climate : cold dry
+el nino : warm pacific ocean
+plates move speed : centimeters per year slow
+earthquake epicenter : surface above focus
+earthquake focus : underground origin
+earthquake magnitude : richter seismograph energy
+seismograph : records vibrations earthquakes
+volcano erupt eruption : magma pressure gases
+volcanic ash : eruption air
+lava : magma surface
+magma : molten rock underground
+crust types : continental oceanic
+oceanic crust : dense basalt thin
+continental crust : granite less dense thick
+subduction : oceanic plate sinks under
+mountain ranges : plate collision folding uplift
+fault block mountains : faults
+weathering rate faster : warm wet climate
+chemical weathering faster : warm humid
+mechanical weathering faster : cold freeze thaw
+wind erosion : desert sand dry
+water erosion : river rain runoff waves
+gravity erosion : landslide rockfall slump creep
+glacier erosion : u_shaped valley striations moraine
+deposition river : delta floodplain sandbar
+meander : river curve
+river speed faster : erosion larger particles
+river slows : deposition sediment drops
+sediment sorting : size heavier first
+alluvial fan : deposition mountain
+barrier island : sand deposition
+sinkhole : groundwater dissolve limestone
+geyser : groundwater heated magma
+spring water : groundwater surface
+water table : groundwater level
+permeable : water passes through sand gravel
+impermeable : clay
+porous : holes spaces
+dinosaurs extinct : 65 million years asteroid
+rock layers tilted folded : after deposited
+fault cuts layers : younger
+intrusion igneous : younger layers
+fossil record : changes life over time
+trilobite : index fossil ocean
+mammoth : ice age frozen
+ice age : glaciers covered
+carbon dating radiometric : age
+earth age : 4.6 billion years
+acid rain cause : burning coal sulfur dioxide nitrogen oxides
+acid rain effects : lakes forests statues damage
+ozone depletion : cfcs chemicals
+greenhouse gas increase : burning fossil_fuels deforestation
+sea level rising : melting glaciers ice warming
+overfishing : fish populations decline
+overgrazing : soil erosion desertification
+contour plowing terracing : soil erosion prevent
+crop rotation : soil nutrients
+windbreaks : wind erosion trees
+cover crops : soil erosion
+irrigation : water crops
+pesticides : insects pests kill
+pesticide runoff : water pollution harm
+urbanization cities : habitat loss runoff
+litter : pollution animals harm
+plastic ocean : animals harmed
+reduce pollution : public transportation carpool walk bike
+conserve energy home : turn_off_lights insulate unplug
+conserve water home : fix_leaks shorter_showers
+reuse : use again
+reduce : use less
+recycle : make new products
+alternative energy : solar wind geothermal hydroelectric
+electric cars : less pollution
+wildlife refuge preserve : protect habitat
+national parks : protect conserve
+endangered protect : laws habitat preserve
+sun layers : core surface photosphere corona
+sunspots : cooler darker magnetic
+solar flare : energy burst
+solar wind : charged particles aurora
+aurora northern lights : solar wind magnetic_field
+earth distance sun : 93 million miles
+astronomical unit : distance earth sun
+universe : galaxies
+big bang : universe began expanding
+galaxy shapes : spiral elliptical irregular
+black hole : gravity light cannot escape
+star brightness : distance size temperature
+apparent magnitude : brightness
+earth only planet : liquid water life oxygen
+mars rover : explore surface
+moon landing : apollo astronauts 1969
+international space station : orbit astronauts
+gravity holds moon orbit : earth gravity
+planets revolve longer farther : orbit
+mercury : closest smallest no atmosphere craters
+venus : hottest thick clouds carbon_dioxide
+uranus : tilted sideways
+neptune : farthest blue windy
+shadow shortest : noon midday sun overhead high
+shadow longest : morning evening sunrise sunset low
+shadow direction morning : west
+shadow direction afternoon : east
+sun appears move sky : earth rotates rotation
+stars appear move night : earth rotation
+moon appears change shape : phases orbit
+moon phases cause : moon orbits earth sunlight reflected portion
+we see moon : reflected sunlight
+moon light source : sun reflected
+year : earth revolves orbit sun 365
+day : earth rotates 24
+month : moon orbit
+earth revolving result : year seasons
+earth rotating result : day night sunrise sunset
+summer northern hemisphere warm : tilted toward sun direct
+winter cold : tilted away indirect
+seasons not caused : distance
+equator temperature : warm direct rays
+puddle disappears : evaporation
+clouds form : condensation water_vapor cools
+water vapor cools forms drops dust : clouds condensation
+rain snow fall : precipitation
+water soaks ground : infiltration groundwater
+water flows rivers ocean : runoff
+sun heats ocean water : evaporation
+plants give off water : transpiration
+water cycle energy : sun
+water cycle importance : fresh water recycles
+water cycle steps : evaporation condensation precipitation collection
+cold front pass : thunderstorms cooler temperatures rain
+warm front : warmer rain clouds
+high pressure : fair clear sunny
+low pressure : cloudy stormy rainy
+barometer falling : storm low pressure
+barometer rising : fair weather
+thunderstorm : lightning thunder rain
+hurricane forms over : warm ocean water
+tornado : rotating column air
+blizzard : snow wind cold
+weather changes : air masses fronts
+weather predict tools : barometer thermometer satellites radar
+clouds dark gray : rain storm
+cumulonimbus : thunderstorm
+humid : moist air water_vapor
+wind blows from : high pressure low pressure
+rock large crystals deep underground : igneous intrusive granite slowly cooled
+rock small crystals : extrusive cooled quickly
+rock layers shells : sedimentary limestone
+rock bands heat pressure : metamorphic
+sedimentary forms : layers sediment pressed cemented compacted
+igneous forms : magma lava cooled hardened
+metamorphic forms : heat pressure changed
+rock broken down pieces : weathering
+moving rock pieces : erosion
+dropped sediment : deposition
+grand canyon formed : river erosion colorado_river
+canyon valley formed : river water erosion
+sand dunes formed : wind
+u shaped valley : glacier
+rounded smooth rocks pebbles : water river tumbling
+statues worn : acid rain chemical weathering
+soil erosion reduce : plant cover_crops trees grass terraces windbreaks
+soil erosion farm : cover_crops contour plowing
+soil layers : topsoil subsoil bedrock
+soil best plants : loam humus
+fossils sea animals mountains : ocean covered land uplifted changed
+earth surface changed evidence : fossils rock layers
+fossil shows : past life environment
+oldest layer : bottom
+youngest layer : top
+fossil fern cold place : climate warmer
+coal found antarctica : warm climate swamps past
+resources replaced quickly short time : renewable trees sunlight wind water
+resources replaced slowly : nonrenewable coal oil
+trees renewable : planted grow
+recycle paper : saves trees
+recycle aluminum : saves energy ore
+reduce use : less resources
+conserve electricity : turn off lights
+landfill space : recycling reduces
+solar energy advantage : renewable clean pollution
+solar energy disadvantage : cloudy night
+wind energy disadvantage : not always windy
+fossil fuel disadvantage : pollution nonrenewable carbon_dioxide
+nuclear disadvantage : radioactive waste
+hydroelectric disadvantage : habitats dams flood
+food shipped world improved : more types variety available
+technology improved effect : increased more choices variety
+refrigeration : food preserved longer
+telescope invention : planets moons discovered
+microscope invention : cells discovered
+satellites : weather forecasting communication images
+computers : calculations data models
+space exploration : technology spinoffs
+vertebrate vertebrates backbone : fish bird birds snake lizard frog dog cat human horse whale shark turtle eagle salmon mouse
+invertebrate invertebrates backbone : earthworm worm jellyfish spider insect snail clam octopus crab starfish sponge squid ant beetle butterfly
+mammal mammals : dog cat human whale dolphin bat horse cow mouse rabbit deer bear lion elephant monkey squirrel
+mammal live birth milk : whale dolphin bat human dog
+bird birds : eagle robin penguin owl hawk ostrich chicken duck sparrow parrot
+reptile reptiles : snake lizard turtle crocodile alligator
+amphibian amphibians : frog toad salamander newt
+fish : shark salmon trout goldfish tuna
+insect insects : ant bee beetle butterfly fly grasshopper mosquito moth ladybug
+arachnid arachnids : spider scorpion tick mite
+herbivore herbivores plant eater : rabbit deer cow horse grasshopper giraffe elephant zebra caterpillar squirrel
+carnivore carnivores meat eater : lion wolf hawk eagle shark owl snake tiger fox cat
+omnivore omnivores : bear human raccoon pig chicken rat crow
+producer producers : grass tree trees plants algae phytoplankton seaweed moss fern flower oak
+decomposer decomposers : mushroom mushrooms fungi bacteria mold worm worms earthworm
+scavenger scavengers : vulture hyena crab
+predator prey : owl mouse hawk rabbit fox lion zebra cat bird
+nocturnal animals : owl bat raccoon
+hibernate hibernates animals : bear groundhog bat
+migrate migrates animals : geese whales butterflies monarch caribou salmon
+pollinator pollinators : bee bees butterfly hummingbird bat moth
+metal metals : iron copper aluminum gold silver steel nickel zinc tin lead
+magnetic materials attracted magnet : iron nickel cobalt steel nail paper_clip
+nonmagnetic : plastic wood glass rubber paper aluminum copper
+conductors : copper aluminum iron silver gold metal wire steel
+insulators : rubber plastic wood glass cloth air styrofoam foam wool
+fossil fuel fuels : coal oil petroleum natural_gas
+renewable : solar wind hydroelectric geothermal biomass tidal wood
+nonrenewable : coal oil petroleum natural_gas uranium
+precipitation forms : rain snow sleet hail
+weather instruments tools : thermometer barometer anemometer rain_gauge hygrometer wind_vane
+gas gases : oxygen nitrogen carbon_dioxide helium hydrogen steam water_vapor air
+liquid liquids : water milk juice oil
+solid solids : ice rock wood metal
+element elements : oxygen hydrogen carbon iron gold helium nitrogen sodium copper
+compound compounds : water salt carbon_dioxide sugar
+mixture mixtures : salad trail_mix salt_water sand soil air
+solution solutions : salt_water sugar_water air
+inner planets : mercury venus earth mars
+outer planets : jupiter saturn uranus neptune
+simple machine machines : lever pulley ramp wedge screw wheel axle inclined_plane
+lever examples : seesaw crowbar scissors hammer bottle_opener
+wedge examples : axe knife nail
+pulley examples : flagpole crane
+screw examples : jar_lid bolt
+wheel_and_axle examples : doorknob bicycle wheel
+forms energy : light heat sound electrical chemical mechanical nuclear kinetic potential
+contact force : friction push pull
+noncontact force forces : gravity magnetism
+transparent : glass clear water air
+translucent : wax_paper frosted_glass tissue_paper
+opaque : wood metal brick cardboard book wall
+organs digestive system : mouth esophagus stomach small_intestine large_intestine liver
+organs circulatory system : heart blood vessels arteries veins capillaries
+organs respiratory system : lungs trachea nose bronchi diaphragm
+organs nervous system : brain spinal_cord nerves
+organs excretory system : kidneys bladder skin lungs
+organs skeletal system : bones skull ribs spine
+endocrine glands : thyroid pituitary adrenal pancreas
+heart : circulatory
+lungs : respiratory
+stomach intestines : digestive
+brain nerves : nervous
+bones : skeletal
+muscles : muscular
+kidneys : excretory urinary
+skin : integumentary
+glands hormones : endocrine
+white_blood_cells antibodies : immune
+talc : softest mineral 1 baby powder
+gypsum : soft mineral drywall plaster
+quartz : hard mineral 7 glass sand
+diamond : hardest mineral 10 carbon
+feldspar : common mineral granite
+mica : thin sheets cleavage flakes
+halite : salt cubes
+graphite : pencil soft carbon
+hematite : iron ore red streak
+pyrite : fools_gold
+magnetite : magnetic iron
+calcite : limestone acid fizz
+granite : igneous coarse crystals intrusive
+basalt : igneous dark fine extrusive
+obsidian : volcanic glass cooled quickly
+pumice : floats holes volcanic
+sandstone : sand grains sedimentary
+shale : clay mud sedimentary
+limestone : shells calcite sedimentary
+conglomerate : rounded pebbles sedimentary
+coal : plants sedimentary fuel
+marble : metamorphic limestone
+slate : metamorphic shale
+trilobite : ocean fossil extinct
+ammonite : ocean shell fossil
+dinosaur : fossil bones extinct reptile
+fossil types : bones shells footprints imprints molds casts amber petrified
+footprint fossil : trace
+mold fossil : imprint hollow
+cast fossil : filled mold
+fossil fuel examples : coal oil natural_gas
+galileo : telescope moons jupiter
+copernicus : sun center heliocentric
+newton : gravity laws motion
+hubble : telescope universe expanding
+einstein : relativity
+big dipper : constellation
+orion : constellation hunter
+moon gravity : one sixth
+jupiter moons : many io europa
+saturn : rings
+mars : red planet rovers
+earth moon : one
+sun energy : fusion hydrogen helium
+light sun earth time : 8 minutes
+leap year : 366 days
+day mars : 24 hours
+northern lights : aurora
+sun position sky noon : highest
+sun path summer : higher longer
+sun path winter : lower shorter
+kangaroo opossum : marsupial pouch
+platypus : mammal lays eggs
+penguins : birds cannot fly swim
+ostrich : bird cannot fly
+bats : mammals fly
+spiders : arachnids eight legs
+octopus squid : mollusk
+starfish sea star : regenerate echinoderm
+jellyfish : invertebrate tentacles
+earthworm : soil decomposer segmented
+snail : mollusk shell
+crab lobster : crustacean exoskeleton
+salmon : migrate upstream spawn
+monarch : migrate mexico
+geese : migrate south
+bear : hibernate omnivore
+frog : amphibian metamorphosis
+toad : amphibian
+salamander : amphibian
+alligator : reptile
+turtle : reptile shell
+snake : reptile scales
+lizard : reptile
+whale : mammal blubber
+dolphin : mammal echolocation
+shark : fish gills cartilage
+eagle hawk owl : bird predator
+chicken : bird eggs
+cow : herbivore mammal milk
+horse : herbivore mammal
+deer : herbivore
+rabbit : herbivore
+lion wolf tiger : carnivore predator
+fox : predator carnivore
+oak maple tree : deciduous seeds
+pine tree : conifer cones needles evergreen
+cactus : desert water stem spines
+fern : spores no_seeds
+moss : nonvascular spores
+algae : producer water
+seaweed kelp : algae ocean
+sunflower : follows sun flower seeds
+dandelion : seeds wind
+corn wheat rice : grains crops grass
+bean pea : seeds legume
+apple orange : fruit seeds
+carrot : root
+potato : stem tuber
+lettuce spinach : leaves
+ice skating : low friction
+sandpaper : friction rough
+car tires : friction grip
+playground slide : friction gravity
+swing : pendulum
+thermos : insulated vacuum
+aluminum foil : reflect heat
+wool sweater : insulator warm
+metal pan : conductor heat
+plastic handle : insulator
+glass window : transparent
+wax paper : translucent
+wood door : opaque
+mirror : reflects
+magnifying lens : convex
+eyeglasses : lens
+flashlight batteries : chemical energy
+electric heater : electrical heat
+microwave oven : microwaves heat water
+refrigerator : removes heat
+compass : magnetic north
+doorbell : electromagnet
+junkyard crane : electromagnet
+balloon rubbed : static charge
+lightning rod : protects buildings
+rust : iron oxygen water
+baking : chemical change
+burning candle : wax chemical
+cooking egg : chemical
+spoiled milk : chemical
+fireworks : chemical
+melting ice cream : physical
+boiling water : physical
+dissolving sugar : physical
+chopping wood : physical
+crumpling paper : physical
+salt water : solution
+air : mixture gases
+soil : mixture
+trail mix salad : mixture
+sugar water : solution
+tea : solution
+water : compound
+salt : compound sodium chloride
+gold silver copper : element metal
+oxygen hydrogen : element gas
+float floats water objects : cork wood plastic ice foam leaf apple boat
+sink sinks water objects : rock stone metal coin nail marble key penny
+absorb absorbs water best : sponge paper_towel cloth towel cotton
+waterproof : plastic rubber vinyl wax
+flexible bends : rubber plastic cloth paper
+brittle breaks easily : glass chalk pottery
+hard material : diamond steel rock
+soft material : cotton wool clay
+strong material : steel iron concrete
+lightweight material : aluminum plastic foam
+transparent material : glass clear_plastic
+shiny : metal reflects
+rough texture : sandpaper bark
+smooth texture : glass marble
+stretchy : rubber_band elastic
+magnetic objects : nail paper_clip iron steel
+nonmagnetic objects : penny aluminum_can plastic wood
+material insulate warm : wool fur feathers foam
+material conduct heat fast : metal copper aluminum
+material conduct electricity : copper metal wire
+louder sound : hit harder more energy
+high pitch : small short thin fast vibration
+low pitch : large long thick slow vibration
+whistle : high pitch
+tuba drum : low pitch
+sound through string telephone : vibrations
+mendel : peas genetics heredity
+darwin : evolution natural_selection finches galapagos
+pasteur : germs pasteurization vaccines
+edison : light_bulb
+franklin : electricity lightning kite
+bell : telephone
+wright brothers : airplane
+newton : gravity motion laws
+galileo : telescope jupiter moons
+curie : radioactivity
+watson crick : dna structure
+fleming : penicillin
+jenner : vaccine smallpox
+hooke : cells cork microscope
+leeuwenhoek : microscope microorganisms
+carver : peanuts crops
+goodall : chimpanzees
+carson : pesticides silent_spring
+wegener : continental_drift
+copernicus : heliocentric sun_centered
+crop rotation : soil nutrients different crops
+irrigation : water crops dry
+greenhouse : warm plants grow
+fertilizer : nutrients nitrogen phosphorus
+pesticide : kills insects pests
+herbicide : kills weeds
+organic farming : no chemicals
+selective breeding crops : bigger yield desired traits
+genetically modified : genes changed
+hydroponics : plants water no soil
+compost : decomposed organic fertilizer
+farmland topsoil : nutrients erosion
+coral reef : warm shallow clear water diversity
+kelp forest : cold water algae
+deep sea : dark cold pressure
+plankton : tiny drifting food
+whale shark : plankton filter
+sea turtle : reptile ocean
+ocean producers : phytoplankton algae seaweed
+tide pools : intertidal starfish crabs
+courtship : mating behavior
+territory : defend area
+communication bees : dance
+ants communicate : chemicals pheromones
+birds build nests : instinct
+spiders spin webs : instinct
+salmon return : instinct spawn
+learned from parents : hunting skills
+chimpanzees use tools : learned
+dog salivate bell : conditioning learned
+fall autumn trees : leaves change color drop
+spring : flowers bloom growth
+winter animals : hibernate migrate thicker fur
+summer : longest days warmest
+glass recycled : melted new glass
+paper recycled : saves trees
+aluminum cans recycled : saves energy
+plastic bottles recycled : new products
+compost food scraps : soil
+reuse examples : refill bottle cloth bags
+reduce examples : less packaging turn_off water
+sunglasses : protect eyes ultraviolet
+sunscreen : sunburn
+helmet bicycle : head injury
+seat belt : injury inertia
+smoke detector : fire warning
+first aid : injury help
+plug outlet : electricity
+light switch : open close circuit
+fuse : breaks circuit overload
+extension cord : wires
+batteries series : more voltage brighter
+bulbs series : dimmer
+remove bulb series : others go out
+millions years : fossils rocks formation
+thousands years : glaciers ice_age
+slow change : erosion weathering mountains plate movement
+fast change : earthquake volcano landslide flood
+adaptation : trait helps survive environment
+organism : living thing
+species : group similar organisms reproduce
+habitat : place organism lives home
+niche : role ecosystem
+ecosystem : living nonliving things interacting area
+community : populations living together
+population : group same species area
+biotic : living
+abiotic : nonliving
+producer : makes food photosynthesis
+consumer : eats other organisms
+decomposer : breaks down dead material
+herbivore : eats plants only
+carnivore : eats meat animals only
+omnivore : eats plants animals
+predator : hunts kills eats
+prey : hunted eaten
+parasite : lives on harms host
+host : organism parasite lives
+scavenger : eats dead animals
+photosynthesis : plants make food sunlight
+respiration : release energy food oxygen
+metabolism : chemical processes life
+homeostasis : stable internal conditions balance
+heredity : passing traits parents offspring
+trait : characteristic feature
+gene : section dna trait instructions
+chromosome : dna strand nucleus genes
+dominant : expressed shows masks
+recessive : hidden masked
+mutation : change dna
+offspring : young children produced
+fertilization : sperm egg join
+pollination : pollen transfer flower
+germination : seed sprouts begins grow
+dormant : inactive resting
+metamorphosis : change form life cycle stages
+larva : young stage caterpillar
+pupa : resting stage cocoon chrysalis
+nymph : young insect looks like adult
+tadpole : young frog
+hibernation : deep sleep winter
+migration : seasonal movement travel
+instinct : inborn behavior
+camouflage : blending surroundings
+mimicry : imitating resembling another
+extinct : no longer living exists
+endangered : danger extinction few
+invasive : nonnative spreads harms
+native : naturally occurs area
+biodiversity : variety life
+symbiosis : close relationship species
+mutualism : both benefit
+commensalism : one benefits other unaffected
+competition : struggle resources
+carrying capacity : maximum population supported
+limiting factor : limits population growth
+succession : gradual ecosystem change
+tissue : group similar cells
+organ : tissues working together
+cell : smallest unit life
+nucleus : control center cell
+membrane : thin layer boundary
+cytoplasm : gel fluid inside cell
+chloroplast : photosynthesis organelle
+mitochondria : energy organelle respiration
+vacuole : storage sac
+organelle : structure inside cell
+unicellular : one cell
+multicellular : many cells
+microorganism : tiny living microscope
+bacteria : single celled microorganisms
+virus : nonliving infectious particle
+vaccine : prevents disease immunity
+antibiotic : kills bacteria
+immunity : resistance disease
+pathogen : germ causes disease
+nutrient : substance needed growth
+enzyme : speeds chemical reactions
+hormone : chemical messenger
+vertebrate : backbone animal
+invertebrate : no backbone animal
+exoskeleton : outer skeleton
+endoskeleton : internal skeleton
+cold_blooded : body temperature changes environment
+warm_blooded : constant body temperature
+gills : breathe underwater
+lungs : breathe air
+stomata : leaf openings gases
+xylem : water tubes plant
+phloem : food tubes plant
+spore : reproductive cell fungi ferns
+asexual : one parent
+sexual : two parents
+evolution : change species over time
+natural_selection : survival fittest adapted
+fossil : preserved remains traces ancient
+weathering : breaking down rock
+erosion : moving carrying sediment away
+deposition : dropping sediment
+sediment : small pieces rock soil
+humus : decayed organic matter soil
+magma : melted rock underground
+lava : melted rock surface
+crust : outer layer earth
+mantle : layer below crust
+core : center earth
+plate : section crust lithosphere
+fault : crack crust movement
+earthquake : shaking ground
+volcano : opening magma erupts
+mineral : naturally occurring solid crystal
+rock : mixture minerals
+crystal : repeating pattern atoms
+igneous : cooled magma lava
+sedimentary : compacted sediment layers
+metamorphic : changed heat pressure
+glacier : large moving ice
+delta : sediment river mouth
+canyon : deep valley river
+atmosphere : air layer gases surrounding earth
+weather : conditions day today
+climate : average weather long time
+humidity : water vapor air
+precipitation : water falling clouds
+evaporation : liquid gas
+condensation : gas liquid
+transpiration : water vapor plants leaves
+runoff : water flows over land
+groundwater : water underground
+aquifer : underground water rock layer
+watershed : land drains river
+front : boundary air masses
+air_pressure : weight air pushing
+barometer : air pressure
+thermometer : temperature
+anemometer : wind speed
+hygrometer : humidity
+rain_gauge : rainfall amount
+wind_vane : wind direction
+seismograph : earthquake waves
+rotation : spinning axis
+revolution : orbit around
+axis : imaginary line spins
+orbit : path around
+equator : imaginary line middle earth
+hemisphere : half earth
+eclipse : shadow blocks
+phase : moon appearance shape
+tide : rise fall ocean
+satellite : object orbits
+planet : orbits sun large
+star : ball hot gas light
+galaxy : billions stars
+universe : everything space
+comet : ice dust tail
+asteroid : rocky object orbits sun
+meteor : burning space rock atmosphere
+meteorite : space rock hits ground
+constellation : star pattern
+light_year : distance light travels year
+gravity : force attraction mass
+solar_system : sun planets
+renewable : replaced naturally quickly
+nonrenewable : cannot replaced limited
+fossil_fuel : ancient remains coal oil gas
+conservation : protect save use wisely
+pollution : harmful substances environment
+recycling : reusing materials new products
+matter : mass takes up space
+mass : amount matter
+volume : space occupies
+density : mass per volume
+weight : force gravity
+atom : smallest unit element
+molecule : two atoms bonded
+element : one kind atom
+compound : two elements chemically combined
+mixture : physically combined
+solution : evenly mixed dissolved
+solute : substance dissolved
+solvent : dissolves substance
+soluble : dissolves
+insoluble : does not dissolve
+solid : definite shape volume
+liquid : definite volume no shape
+gas : no definite shape volume
+melting : solid liquid
+freezing : liquid solid
+boiling : liquid gas bubbles
+sublimation : solid gas directly
+physical_change : form changes same substance
+chemical_change : new substance forms
+reactant : starting substance
+product : new substance formed
+energy : ability work change
+kinetic : motion energy
+potential : stored energy position
+thermal : heat energy
+conduction : heat transfer contact
+convection : heat transfer currents fluids
+radiation : energy waves
+conductor : allows flow heat electricity
+insulator : blocks flow heat electricity
+temperature : average kinetic energy hot cold
+heat : thermal energy transfer
+force : push pull
+friction : force opposing motion surfaces
+inertia : resistance change motion
+speed : distance per time
+velocity : speed direction
+acceleration : change velocity
+momentum : mass times velocity
+work : force over distance
+power : rate work
+lever : bar fulcrum
+pulley : wheel rope
+inclined_plane : ramp slope
+wedge : two inclined planes
+screw : spiral inclined plane
+wave : disturbance carries energy
+wavelength : distance between crests
+frequency : waves per second
+amplitude : wave height
+pitch : highness lowness sound
+reflection : bouncing back
+refraction : bending light
+absorption : taking in
+transparent : light passes clearly
+translucent : some light
+opaque : no light passes
+circuit : path electricity
+current : flow charge
+static : buildup charge
+magnet : attracts iron
+magnetic_field : area magnetic force
+electromagnet : magnet electric current coil
+generator : mechanical electrical
+motor : electrical mechanical
+battery : stored chemical energy electricity
+hypothesis : testable prediction
+variable : factor changes
+independent_variable : changed tested
+dependent_variable : measured observed
+controlled_variable : kept same
+control_group : comparison unchanged
+observation : using senses
+inference : conclusion based observation
+prediction : what will happen
+conclusion : summary results
+data : information collected
+evidence : supports
+experiment : test hypothesis
+trial : repetition
+theory : well tested explanation
+law : describes pattern nature
+model : represents
+cell basic unit life smallest living : cell cells
+organisms made : cells
+cell part controls activities : nucleus
+nucleus : dna chromosomes genetic information controls
+genetic material information : dna nucleus chromosomes genes
+cell membrane : controls enters leaves passage materials
+cell wall : plants support rigid shape cellulose
+plant cells animal cells differ difference : cell wall chloroplasts
+plant cell only structure : cell wall chloroplasts chloroplast
+chloroplast chloroplasts : photosynthesis chlorophyll green sunlight food
+mitochondria mitochondrion : energy respiration powerhouse release
+energy cell releases organelle : mitochondria
+vacuole : storage water stores
+cytoplasm : jelly fluid organelles
+ribosome ribosomes : protein proteins
+lysosome : digest waste
+microscope : cells small magnify bacteria
+unicellular single celled : bacteria amoeba paramecium protists yeast
+multicellular : many cells tissues organs
+tissue tissues : similar cells together function
+organ organs : tissues work together
+organ system systems : organs work together
+levels organization : cells tissues organs systems organism
+cell division mitosis : growth repair identical cells
+meiosis : sex cells gametes egg sperm half chromosomes
+diffusion : high concentration low
+osmosis : water membrane
+photosynthesis : sunlight light carbon dioxide water sugar glucose oxygen chlorophyll chloroplasts
+plants make food produce : photosynthesis sunlight carbon dioxide water chlorophyll
+plants need grow survive : sunlight water air carbon dioxide nutrients soil space
+plants release give off produce gas : oxygen
+plants take absorb gas air : carbon dioxide
+photosynthesis product products produces : oxygen sugar glucose
+photosynthesis energy source : sun sunlight light
+photosynthesis occurs takes place : leaves chloroplasts
+leaf leaves function : photosynthesis food making sunlight
+green color plants : chlorophyll
+chlorophyll : green light energy photosynthesis
+roots root function : absorb water nutrients anchor soil
+stem stems function : support transport water carry
+xylem : water transport roots
+phloem : food sugar transport
+stomata : gas exchange leaves carbon dioxide oxygen water vapor
+flower flowers function : reproduction seeds pollination
+pollination pollinate pollen : bees insects birds wind flowers
+bees : pollinate pollen flowers nectar
+seed seeds function : new plant reproduction embryo
+seeds dispersal spread scatter : wind animals water
+fruit : seeds protect ovary
+germination germinate sprout : water warmth temperature oxygen seed
+seeds need germinate : water warmth oxygen
+plants grow toward light : phototropism
+phototropism : light bends toward
+gravitropism geotropism : gravity roots downward
+plants respond : tropism light gravity water touch
+tropism : light gravity
+cactus desert plant adaptation : thick stem stores water spines waxy
+waxy coating leaves : water loss prevent
+spines : protect water loss
+deciduous trees : lose leaves fall autumn winter
+evergreen conifer : needles cones
+fern ferns moss mosses : spores
+mosses : no roots vascular moist
+nonvascular plants : moss
+vascular plants : xylem phloem
+plant reproduce asexually : runners bulbs cuttings tubers
+potato : tuber
+plant life cycle : seed germination seedling adult flower fruit
+fertilizer : nutrients nitrogen growth
+plants energy store : starch sugar
+plant cell structure : cell wall chloroplasts vacuole
+leaves change color fall : chlorophyll breaks down
+vertebrate vertebrates : backbone spine
+invertebrate invertebrates : no backbone insects worms jellyfish spiders
+mammal mammals : hair fur milk live birth warm blooded
+bird birds : feathers wings eggs beak warm blooded hollow bones
+reptile reptiles : scales dry skin eggs cold blooded lungs
+amphibian amphibians : moist skin metamorphosis tadpole water land gills lungs
+frog frogs life cycle : egg tadpole adult metamorphosis
+fish : gills fins scales water
+insect insects : six legs three body parts antennae exoskeleton
+spider spiders arachnid : eight legs two body parts
+crustacean : exoskeleton crab lobster shrimp
+mollusk : soft body shell snail clam
+exoskeleton : insects protect support
+warm blooded endotherm : constant body temperature mammals birds
+cold blooded ectotherm : temperature environment reptiles amphibians fish
+whale whales dolphin dolphins : mammal mammals lungs breathe air
+bat bats : mammal echolocation
+penguin : bird
+gills : oxygen water fish
+lungs : breathe air oxygen
+kingdom : animals plants fungi protists bacteria
+fungi fungus : mushroom mushrooms mold yeast decomposers spores
+classification classify organisms : characteristics structures similarities
+scientific name : genus species
+species : reproduce offspring fertile
+dichotomous key : identify classify
+camouflage : blend surroundings hide predators color
+color change rapidly : camouflage hide predators
+mimicry : looks like resemble predators harmful
+hibernate hibernation : winter sleep food scarce energy conserve
+migrate migration : move seasons warmer food winter
+birds fly south winter : migration food warmer
+thick fur blubber fat : cold warm insulation
+blubber : warm cold insulation fat
+arctic polar animals : thick fur white blubber
+desert animals adaptation : nocturnal water conserve burrow
+nocturnal : night active
+sharp teeth claws : predator carnivore meat hunt
+flat teeth : herbivore grind plants
+long neck giraffe : reach leaves tall trees
+beak shape bird : food eat
+webbed feet : swim water
+adaptation adaptations : survive environment
+instinct instinctive inherited behavior born : spider web bird nest migration suckle
+learned behavior : taught experience training trick
+behavior learned : experience training practice taught
+behavior inborn : instinct
+hunting pack : wolves cooperation
+shell : protection
+quills spines : protection predators
+skunk odor : defense predators
+poisonous venom : defense protection
+bright colors warning : poisonous predators
+producer producers : plants algae make food photosynthesis grass trees
+consumer consumers : eat animals food energy
+decomposer decomposers : bacteria fungi worms mushrooms break down dead recycle nutrients soil
+decomposers role : break down dead organisms nutrients soil recycle
+dead organisms break down : decomposers bacteria fungi
+herbivore herbivores : plants eat grass rabbit deer cow
+carnivore carnivores : meat eat animals lion wolf hawk
+omnivore omnivores : plants animals both bear human raccoon
+predator predators : hunt eat prey
+prey : eaten hunted
+scavenger scavengers : dead vulture
+food chain energy source begins : sun sunlight producers plants
+food chain arrows show : energy flow transfer
+food chain : producer consumer energy
+food web : food chains connected
+energy pyramid : producers bottom most energy less
+energy transferred level : 10 percent lost heat
+energy lost each level : heat
+population increase predators decrease : prey population increase
+predators removed : prey increase population overpopulation
+prey decrease : predators decrease
+ecosystem : living nonliving biotic abiotic interact
+biotic factors : living plants animals
+abiotic factors : nonliving sunlight water temperature soil air rocks
+habitat : place lives home
+niche : role job
+population : same species area
+community : different populations species
+competition compete : food water space resources
+symbiosis : mutualism commensalism parasitism
+mutualism : both benefit
+parasitism parasite parasites : harms host benefits tick flea tapeworm
+commensalism : one benefits other unaffected
+limiting factor factors : food water space shelter
+carrying capacity : maximum population
+succession : pioneer species lichens moss
+pioneer species : lichens moss bare rock
+biome desert : dry little rain cactus
+biome tundra : frozen cold permafrost
+biome rainforest tropical : rain warm diversity
+biome grassland prairie : grasses
+biodiversity : variety species
+invasive species nonnative introduced : compete native harm outcompete
+extinct extinction : no longer exist died out
+endangered species : few remaining risk extinction habitat loss
+habitat destruction loss : extinction endangered decline
+wetlands : filter water habitat floods
+algae : producers photosynthesis water
+plankton phytoplankton : producers oxygen ocean
+coral reef : warm shallow ocean diversity
+ocean animals deep : no sunlight
+lichens : fungi algae
+nitrogen cycle : bacteria nitrogen
+carbon cycle : carbon dioxide photosynthesis respiration
+oxygen carbon dioxide cycle : photosynthesis respiration plants animals
+digestive system : stomach intestines esophagus food break down nutrients
+digestion digest food breaks down : stomach intestines saliva enzymes acid
+nutrients absorbed : small intestine
+water absorbed : large intestine
+stomach : acid digest food
+saliva mouth : digestion starch
+circulatory system : heart blood vessels arteries veins transport
+heart pumps : blood
+blood carries transports : oxygen nutrients carbon dioxide waste
+red blood cells : oxygen hemoglobin
+white blood cells : infection fight disease germs immune
+platelets : clot clotting blood
+arteries : away heart
+veins : toward heart
+respiratory system : lungs breathing oxygen carbon dioxide trachea
+lungs exchange : oxygen carbon dioxide
+breathe breathing inhale : oxygen
+exhale exhaled : carbon dioxide
+diaphragm : breathing lungs
+nervous system : brain spinal cord nerves signals messages
+brain : control nervous thinking signals
+nerves neurons : signals messages impulses
+reflex : spinal cord quick automatic
+skeletal system : bones support protect shape frame
+bones : support protect skeleton calcium
+skull : protects brain
+ribs rib cage : protect heart lungs
+muscular system : muscles movement move
+muscles : movement contract
+tendons : muscles bones
+ligaments : bones joints
+joints : bones movement
+immune system : fights disease infection germs white blood cells antibodies
+vaccine vaccines : immunity prevent disease antibodies
+excretory system : kidneys waste urine bladder
+kidneys : filter blood waste urine
+endocrine system : hormones glands chemical messages signals
+hormones : endocrine glands chemical messages
+integumentary system : skin hair nails
+skin : protect barrier sweat
+sweat sweating : cool body temperature evaporation
+reproductive system : offspring reproduction
+senses : eyes ears nose tongue skin
+eye see : light retina lens
+ear hear : sound vibrations eardrum
+protein proteins : build repair muscles growth meat beans
+carbohydrates : energy sugar starch bread
+fats : stored energy
+vitamins minerals : health
+calcium : bones teeth milk
+balanced diet : healthy variety foods
+exercise : healthy heart muscles
+disease bacteria : antibiotics
+virus viruses : cold flu vaccines
+antibiotics : bacteria
+germs spread prevent : wash hands
+infectious contagious disease : spread germs bacteria viruses
+smoking : lungs cancer heart disease
+pathogen : disease
+microorganisms : bacteria viruses fungi protists
+bacteria helpful : digestion decompose yogurt
+yeast : bread rise carbon dioxide
+traits inherited inherit offspring parents : genes dna chromosomes passed
+inherited trait traits : eye color hair color height genes
+learned trait acquired : skills language riding reading scar
+gene genes : dna traits chromosomes
+dna : genetic code genes chromosomes
+chromosomes : dna genes nucleus
+dominant : trait shows appears masks
+recessive : hidden two copies
+punnett square : probability offspring traits
+genotype : genes alleles
+phenotype : appearance physical trait
+offspring identical parent : asexual reproduction
+asexual reproduction : one parent identical budding binary fission
+sexual reproduction : two parents variation genetic
+offspring variation differ : sexual reproduction genes two parents
+mutation mutations : change dna gene
+selective breeding : desired traits farmers
+cloning clone : identical
+genetic engineering : modify genes
+natural selection : survive reproduce adaptations favorable traits environment
+evolution evolve evolved : natural selection change over time adaptations
+fittest survive : adaptations natural selection
+evidence evolution : fossils
+variation species : survive environment change
+bacteria resistant antibiotics : natural selection resistance
+darwin : natural selection evolution
+mendel : genetics heredity peas
+life cycle butterfly : egg larva caterpillar pupa chrysalis adult
+complete metamorphosis : egg larva pupa adult
+incomplete metamorphosis : egg nymph adult
+caterpillar : larva
+chrysalis cocoon : pupa
+growth development stages : life cycle
+petals : attract pollinators insects colorful
+stamen : pollen male
+pistil : female ovary stigma
+ovary flower becomes : fruit
+ovule becomes : seed
+pollen lands : stigma pollination
+fertilization plants : pollen ovule seed
+seed coat : protects seed
+cotyledon : food stored seed embryo
+seed contains : embryo food stored
+seedling : young plant
+bulb tulip onion : stored food underground
+plants store food : roots stems seeds fruits starch
+carrot potato : roots stems stored food
+plants without light : die yellow pale
+plants without water : wilt die
+plants compete : sunlight water nutrients space
+plant growth experiment variables : light water soil fertilizer temperature
+leaves broad rainforest : capture sunlight
+needles conifers : cold water loss snow
+deep roots desert : water underground
+long roots taproot : water deep
+thorns : protect eaten
+vines climb : sunlight
+water lily : floats leaves
+venus flytrap : insects nitrogen
+flowering plants : angiosperms seeds fruit
+conifers gymnosperms : cones seeds needles
+algae : protist photosynthesis
+plants respiration : night oxygen sugar energy
+cellular respiration : glucose oxygen energy carbon_dioxide water mitochondria
+respiration product : carbon_dioxide water energy
+photosynthesis respiration opposite : oxygen carbon_dioxide
+structural adaptation : body part shape color
+behavioral adaptation : action migration hibernation
+protective coloration : camouflage
+polar bear : white fur blubber
+camel hump : fat stored energy
+camel : desert water
+duck feet : webbed swim
+owl eyes : night vision large
+eagle hawk eyes : sharp vision prey
+woodpecker beak : strong drill wood insects
+hummingbird beak : long thin nectar
+finch beaks : seeds different food
+pelican beak : pouch fish
+giraffe neck : long reach leaves
+elephant trunk : grab water
+cheetah : fast speed
+turtle shell : protection
+porcupine : quills protect
+chameleon : change color camouflage
+octopus : ink camouflage
+stick insect : camouflage twig
+monarch butterfly : poisonous migrate milkweed
+viceroy butterfly : mimicry monarch
+fish swim bladder : float buoyancy
+fish scales : protection
+fish fins : swim balance steer
+bird hollow bones : light fly
+bird feathers : flight warmth insulation
+fur : warmth insulation
+sweat glands : cool
+whale blowhole : breathe air
+shark : cartilage gills
+tadpole : gills water tail
+adult frog : lungs land
+frog skin : moist breathe
+snake : scales molt shed skin
+lizard : scales cold_blooded sun warm
+cold blooded animals sun : warm body temperature
+animals winter survive : hibernate migrate fur store food
+squirrels gather nuts : store food winter
+bees dance : communicate food location
+ants colony : cooperate
+wolves pack : hunt together
+imprinting : ducks follow mother
+conditioning : learned reward
+animals communicate : sounds smells signals
+food chain example : grass grasshopper frog snake hawk
+food chain ocean : algae plankton fish shark
+energy decreases food chain : higher levels less energy
+top predator : few numbers energy
+producers most energy : bottom pyramid
+sun energy plants : photosynthesis producers
+energy flow direction : sun producers consumers
+primary consumer : herbivore eats producers
+secondary consumer : carnivore eats herbivores
+tertiary consumer : top predator
+matter cycles recycled : decomposers nutrients
+food web change one population : affects others
+remove species food web : affect others populations
+population growth limited : food water space predators disease
+drought effect : less food water population decrease
+disease population : decrease
+overpopulation deer : food shortage starve
+predator prey cycle : populations rise fall
+invasive species example : zebra_mussels kudzu cane_toads starlings
+native species : naturally found
+ecosystem stable : biodiversity balance
+forest fire effects : new growth succession nutrients
+primary succession : bare rock lichens
+secondary succession : soil remains fire farm abandoned
+pond ecosystem : algae fish frogs insects
+desert ecosystem : cactus lizards snakes
+tundra : permafrost lichens caribou
+taiga : coniferous forest cold
+deciduous forest : seasons leaves fall
+grassland savanna : grasses grazing animals
+ocean ecosystem largest : biome
+coral bleaching : warm water
+wetland functions : filter pollutants flood control habitat
+estuary nursery : fish young
+symbiosis example mutualism : bees flowers clownfish anemone lichen
+parasite example : tick flea tapeworm mosquito leech
+commensalism example : barnacles whale remora shark
+competition example : same food resources
+habitat loss cause : deforestation urban development pollution
+bacteria : single_celled prokaryote no_nucleus
+bacteria cell : cell_wall no_nucleus
+virus : not living host cell reproduce
+viruses reproduce : host cells
+protists : amoeba paramecium euglena algae
+amoeba : pseudopods move
+paramecium : cilia move
+euglena : flagellum chloroplasts
+yeast : fungus single_celled bread
+mold : fungus spores
+penicillin : mold antibiotic
+microorganisms helpful : yogurt cheese bread decomposition
+microorganisms harmful : disease
+food spoil : bacteria mold
+refrigerator food : slows bacteria growth
+pasteurization : heat kills bacteria
+sterilize : kill bacteria heat
+cell theory : cells living things basic unit come cells
+eukaryotic : nucleus organelles
+prokaryotic : no_nucleus bacteria
+animal cell lacks : cell_wall chloroplasts
+plant cell large vacuole : water storage
+golgi : package proteins
+endoplasmic reticulum : transport
+cell energy : atp mitochondria glucose
+cells need : energy nutrients water oxygen
+specialized cells : nerve muscle blood
+nerve cells : signals long
+muscle cells : contract movement
+skin cells : protect
+stem cells : become different cells
+cancer : cells divide uncontrolled
+alleles : gene forms versions
+homozygous : same alleles
+heterozygous : different alleles
+dominant allele : capital letter
+recessive allele : lowercase letter
+punnett square bb : probability 25 50 75
+traits passed : genes chromosomes parents offspring
+human chromosomes : 46 23 pairs
+sex cells : egg sperm half
+fertilization : egg sperm zygote
+zygote : fertilized egg
+twins identical : same dna
+dna shape : double helix
+dna bases : adenine thymine guanine cytosine
+genetic disorder : mutation inherited
+environment affects traits : nutrition height sunlight
+acquired trait example : scar muscles tan
+inherited trait example : eye_color hair_color freckles dimples blood_type
+budding : yeast hydra asexual
+binary fission : bacteria asexual divide
+regeneration : starfish planaria grow
+vegetative propagation : cuttings runners strawberry potato
+cloning sheep : dolly identical
+genetic variation advantage : survive environment change
+natural selection example : peppered_moth antibiotic_resistance finches
+peppered moth : dark trees pollution camouflage
+homologous structures : common ancestor similar bones
+vestigial structure : no function
+fossil evidence evolution : change over time
+species change slowly : generations
+adaptation develops : generations natural_selection
+extinction cause : habitat change climate predators competition
+mass extinction : asteroid volcano climate
+common ancestor : related species
+digestion begins : mouth teeth saliva
+teeth : chew break food mechanical
+esophagus : tube stomach food
+small intestine : absorbs nutrients villi
+large intestine : absorbs water
+liver : bile filters
+pancreas : insulin enzymes
+diabetes : insulin sugar blood
+enzymes : speed reactions digestion
+capillaries : exchange tiny vessels
+heart chambers : four atria ventricles
+blood pressure : arteries
+pulse : heartbeat
+plasma : liquid blood
+alveoli : air sacs lungs gas exchange
+trachea windpipe : air lungs
+spinal cord : nerves brain body
+neurons : nerve cells signals
+senses receptors : skin touch eyes nose
+reflex action : quick automatic spinal_cord
+voluntary muscles : skeletal control
+involuntary muscles : heart smooth
+cardiac muscle : heart
+joints types : hinge ball socket
+cartilage : flexible joints nose ears
+marrow : blood cells bones
+puberty : hormones adolescence changes
+growth hormone : pituitary
+adrenaline : fight flight adrenal
+insulin : pancreas
+sweat : cooling evaporation homeostasis
+homeostasis : balance stable internal
+body temperature : 37 98.6
+fever : infection immune
+antibodies : immune fight pathogens
+vaccine contains : weakened dead germs
+immunity : vaccine antibodies
+infectious disease : pathogens bacteria viruses spread
+noninfectious disease : diabetes cancer heart_disease
+handwashing : prevent spread germs
+nutrition food groups : grains vegetables fruits protein dairy
+fiber : digestion
+water body : percent 60 70
+exercise benefits : heart lungs muscles strong
+sleep : rest growth
+smoking effects : lungs cancer
+alcohol : liver
+energy passes food_chain lost : heat
+energy each level food chain lost : heat life processes
+energy pyramid top : least energy
+energy pyramid bottom : most energy producers
+organisms gets energy directly sun : plants producers grass tree sunflower algae
+gets energy sun directly : producer plant
+energy source animals : food eat
+cow energy : grass plants eats
+consumers energy : eating other organisms
+original source energy : sun
+arrows food web point : energy flows direction eater
+grass rabbit fox : food chain
+hawk snake mouse grass : food chain
+animals depend plants : food oxygen shelter
+plants depend animals : pollination seed dispersal carbon_dioxide
+organisms depend each other : food chains webs
+number snakes decrease frogs : increase
+predator decreases prey : increases
+predator increases prey : decreases
+prey population decreases predator : decreases
+population rabbits decrease cause : more predators foxes disease less food
+population increase cause : more food fewer predators
+food supply decreases population : decreases
+competition increases : resources limited
+two species same food : compete competition
+new species introduced : compete native decrease
+wolves removed deer : increase overgraze
+beavers dam : change habitat pond
+humans affect ecosystems : pollution habitat destruction hunting building
+cutting forests effect : habitat loss fewer animals erosion
+building roads houses : habitat destroyed
+polar bear survive : thick fur fat blubber white
+arctic fox : white fur winter camouflage
+snowshoe hare : white fur winter brown summer
+desert plant : cactus thick stem waxy spines store water
+desert animal camel : hump store fat water
+plant adaptation sunlight : leaves turning toward light phototropism
+plant adaptation dry : thick waxy leaves deep roots
+plant adaptation water : floating leaves air spaces
+seeds dispersal adaptation : wind wings fluffy hooks animals fur
+burrs hooks : stick animal fur seeds dispersal
+dandelion maple seeds : wind dispersal
+fruit eaten animals : seeds dispersed
+coconut : water dispersal floats
+bats find insects dark : echolocation sound echoes
+dolphins whales find food : echolocation sound
+owls hunt night : eyes hearing
+snakes sense : smell tongue heat
+animal blend surroundings : camouflage
+animal looks like dangerous : mimicry
+color change helps : hide predators camouflage
+specialized cells color change : camouflage hide
+long legs : run fast wading
+sharp claws : catch prey climb
+thick fur : cold warm
+large ears jackrabbit fennec fox : release heat cool hearing
+hibernation helps : survive winter little food conserve energy
+migration helps : find food warmer climate breed
+storing food : survive winter
+schools fish herds : protection predators
+mother bird feeds babies : care young survival
+plant dark closet weeks : yellow weak pale tall thin
+plant without sunlight : yellow die
+plant without water : wilt droop
+plant too much water : roots rot
+plant fertilizer more : grow faster
+plant grows toward window : phototropism light
+roots grow down : gravity gravitropism
+plant hormones : growth
+seed germinate needs : water warmth air oxygen
+seeds planted deep : no light needed germination
+light needed : photosynthesis growth after sprouting
+plant height measure : ruler centimeters
+plant growth variable : amount light water fertilizer
+plants produce flowers : reproduce seeds
+plant reproduction structure : flower seeds cones spores
+fruit develops : flower ovary
+organisms classified : similar characteristics structures
+animals classified backbone : vertebrates invertebrates
+plants classified : vascular nonvascular seeds spores flowers
+fungi not plants : no chlorophyll cannot make food
+mushroom gets food : decomposer absorbs dead material
+kingdoms : animals plants fungi protists bacteria archaea
+single celled organisms : bacteria protists amoeba
+circulatory respiratory work together : oxygen blood lungs heart
+deliver oxygen cells : circulatory respiratory blood
+digestive circulatory : nutrients absorbed blood transported
+nervous muscular : movement signals brain muscles
+skeletal muscular : movement bones muscles
+body systems work together : homeostasis
+transport blood body : circulatory system heart
+oxygen enters body : lungs respiratory
+carbon dioxide leaves body : lungs exhale
+food broken down nutrients : digestive system
+waste removed body : excretory kidneys lungs skin
+control body : nervous system brain
+fight germs : immune system white_blood_cells
+support protect body : skeletal system bones
+movement body : muscular system muscles
+chemical messengers : hormones endocrine
+healthy diet : fruits vegetables whole_grains
+junk food : sugar fat unhealthy
+germs cause : disease illness
+cover mouth sneeze : spread germs prevent
+wash hands soap : remove germs bacteria
+flu : virus
+strep throat : bacteria antibiotics
+cold common : virus
+vaccines prevent : disease
+antibiotics treat : bacterial infections bacteria
+sunscreen : ultraviolet skin protect
+helmet : protect head brain
+offspring resemble parents : inherited traits genes
+puppies look like parents : inherited genes
+kittens different colors : genetic variation
+identical offspring one parent : asexual
+offspring traits both parents : sexual reproduction
+plants grown cuttings : identical asexual
+child height parents : inherited environment nutrition
+trait learned : skill practice taught
+behavior inherited : instinct
+dog sit command : learned trained
+bird song learned : copying
+eye color : inherited
+tongue rolling : inherited
+language speak : learned
+life cycle stages : birth growth reproduction death
+life cycle frog : egg tadpole froglet adult
+life cycle butterfly moth : egg larva pupa adult
+life cycle plant : seed sprout seedling adult flower seeds
+life cycle chicken : egg chick adult
+mealworm beetle : larva pupa adult
+grasshopper : nymph incomplete metamorphosis
+cell part energy : mitochondria
+cell part photosynthesis : chloroplast
+cell part control center : nucleus
+cell part shape support plant : cell_wall
+cell part water storage : vacuole
+cell part proteins : ribosomes
+cell part outer boundary : cell_membrane
+cells observe : microscope
+onion cells : microscope cell_wall
+cheek cells : animal cells
+red blood cells shape : disc
+nerve cell shape : long branches
+messages membrane nucleus : signals hormones endocrine
+cells similar process body system : endocrine nervous
+hypothesis : prediction testable educated guess if then
+hypothesis test tested : experiment investigation
+experiment test variable changed manipulated : independent variable
+variable measured responds : dependent variable
+variables kept same constant fair test : controlled variables constants
+fair test : one variable change same conditions
+control group : comparison no treatment
+experiment results reliable valid : repeat trials repeated multiple times
+results reliable accurate : repeat trials repeated
+results confirm verify valid : repeat repeated trials others
+scientists share results : publish communicate peer review
+results differ scientists : repeat experiment
+conclusion : data results support hypothesis
+data record organize : table chart data
+data show change time : line graph
+data compare categories groups : bar graph
+data percent parts whole : circle pie graph
+observation observe : senses see measure
+inference infer : explanation conclusion based observations
+prediction predict : future
+qualitative : description color texture
+quantitative : numbers measurements
+model models : represent explain predict
+theory : explanation tested evidence
+law scientific : describes always
+evidence : data observations support
+investigation first step : question research
+scientific question : testable
+bias : opinion
+sample size larger : reliable
+measurement accurate precise : tools units
+metric units : meters grams liters celsius
+scientists observation instrument small : microscope
+hand lens magnifying glass : magnify observe small details
+binoculars : distant far
+stopwatch timer : time
+safety goggles : eyes protect chemicals
+safety lab gloves : chemicals protect hands bacteria
+lab safety rules : goggles gloves no food drinks wash hands
+avoid laboratory : food drinks eating tasting
+chemicals spill : tell teacher
+heating test tube : point away goggles
+smell chemicals : waft
+broken glass : tell teacher
+investigation bacteria grow : gloves wash hands
+engineering design process : identify problem brainstorm design build test improve
+prototype : model test design
+constraint constraints : limits cost materials time
+criteria : requirements
+technology : tools solve problems
+invention inventions : technology improve
+computer computers : data analyze
+satellite images : weather maps
+materials choose bridge : strong
+materials choose insulation : insulator
+waterproof : plastic rubber
+lightweight strong : aluminum
+recycled materials : reduce waste
+renewable materials : wood bamboo
+investigation compare kept same : amount size type temperature conditions
+experiment fair : same conditions one variable
+experiment plants light : same water soil type pot
+experiment results trust : repeat trials larger sample
+more trials : reliable accurate
+experiment only one plant : not reliable small sample
+group no treatment : control group
+group without : control
+group receives treatment : experimental group
+factor tested changed : independent manipulated variable
+factor measured outcome : dependent responding variable
+temperature affects growth bacteria : independent variable temperature
+effect fertilizer plant height : independent fertilizer dependent height
+scientist studying how affects : independent variable
+which should kept constant : other variables same
+hypothesis form : if then because
+hypothesis cannot support : revise new hypothesis
+data support hypothesis : conclusion accept
+data do not support : reject revise
+unexpected results : repeat check
+record observations : journal notebook table
+organize data : table chart graph
+display data over time : line graph
+compare amounts groups : bar graph
+show parts whole percent : pie circle graph
+graph axis independent : x horizontal
+graph axis dependent : y vertical
+trend : pattern increase decrease
+average mean : sum divide number
+range data : highest lowest difference
+observation example : color measurement temperature
+inference example : explanation guess reason
+opinion : not scientific
+scientific claims : evidence data
+peer review : scientists check
+communicate results : report publish share
+models used : explain predict represent
+model example : globe map diagram
+computer model simulation : weather climate predict
+classify : group similar characteristics
+scientific method steps : question hypothesis experiment data conclusion
+first step investigation : ask question
+problem identify : question
+background research : information
+safety goggles : eyes chemicals splashes
+gloves : hands chemicals bacteria
+lab apron : clothing protect
+fire extinguisher : fire
+eye wash : chemicals eyes
+spill : clean report teacher
+heat liquid : beaker hot_plate
+hot plate : heat
+beaker : liquid hold measure
+test tube : small chemicals
+petri dish : bacteria grow
+dropper pipette : small amounts liquid
+tongs : hot objects hold
+magnifier hand lens : magnify observe details
+safety rule : no eating drinking lab
+tasting chemicals : never
+long hair : tie back
+bacteria investigation avoid : food drinks eating
+sharp objects : careful
+electricity water : dangerous
+design solution problem : criteria constraints
+test design : prototype model
+improve design : redesign test again
+compare designs : test data
+engineers : design build solve problems
+constraint example : cost time materials safety size
+trade off : give up
+bridge design : strong load weight
+protect egg drop : cushion padding
+boat design floats : shape volume displacement
+insulated container : keep temperature
+water filter : sand gravel charcoal clean
+earthquake buildings : flexible bases
+levees : floods prevent
+dams : floods control electricity water storage
+seawall : erosion waves beach
+windmill design : blades wind
+solar oven : reflect absorb black
+technology benefit : improves life solves problems
+technology negative : pollution waste
+vaccines medicines : health longer lives
+computers internet : communication information
+cell phones : communication
+cars : transportation pollution
+airplanes : travel faster
+refrigerator : food preserve spoil
+electricity : lights appliances
+plastic : waste pollution lasts long
+genetic engineering crops : pest resistant
+trees products : paper lumber wood furniture
+cotton plant : cloth fabric clothing
+wool sheep : clothing yarn
+silk : silkworms
+leather : animal skin
+rubber tree : latex tires
+oil products : plastic gasoline fuel
+sand used : glass concrete
+clay used : bricks pottery
+limestone used : cement concrete
+iron ore used : steel
+copper used : wires pipes
+aluminum used : cans foil airplanes
+gold used : jewelry electronics
+quartz used : glass watches
+gypsum used : drywall plaster
+graphite used : pencils
+salt used : food preserving roads
+coal used : electricity
+uranium used : nuclear
+natural_gas used : heating stoves
+human life stages : infant child adolescent adult elderly
+adolescence : puberty teenager
+babies need : care food
+growth spurt : adolescence
+aging : elderly older
+compass rose : north south east west
+map key legend : symbols
+map scale : distance
+north direction : compass top map
+sunrise direction : east
+latitude lines : parallel equator
+longitude lines : meridians poles
+light bulb invention : edison
+telephone invention : bell
+printing press : books information
+steam engine : industrial revolution
+airplane invention : wright
+computer : information processing
+internet : communication information
+robot : machines tasks
+solar powered : sunlight
+battery powered : chemical
+hybrid car : gasoline electric
+satellite dish : signals
+thermostat : controls temperature
+smoke alarm : detects smoke
+seismometer : earthquakes
+weather station : instruments
+food preserved : salt drying canning freezing refrigeration
+bread rises : yeast carbon_dioxide
+milk spoils : bacteria
+cheese yogurt : bacteria
+pickles : vinegar acid
+canned food : sealed heated bacteria killed
+frozen food : slows bacteria
+cooking kills : bacteria
+ice forms lake top : less dense
+puddles disappear : evaporation
+morning dew grass : condensation
+rainbow : sunlight water refraction
+lightning thunder : static electricity
+balloon pop : air pressure
+rust bike : oxygen water
+leaves fall : autumn
+frost windows : freezing
+icicles : freezing melting
+sand hot beach : sun absorbs
+pavement hot : dark absorbs
+shadows move : sun position
+moon visible day : sometimes
+stars not visible day : sunlight brighter
+eggs hatch : young
+mammals born : live
+frogs eggs : water
+birds eggs : nest incubate
+fish eggs : many water
+insects eggs : larva
+sea turtles : beach eggs
+meter : about length door width
+kilogram : about mass book
+liter : about bottle
+gram : about paper clip
+centimeter : about finger width
+kilometer : about distance walk
+solid solids : definite shape volume particles vibrate tightly packed
+liquid liquids : definite volume takes shape container flow
+gas gases : no definite shape volume fills container spread far apart
+definite shape volume : solid
+takes shape container : liquid
+fills container expands : gas
+particles move fastest : gas
+particles closest tightly packed : solid
+particles vibrate place : solid
+melting melt melts : solid liquid heat heating
+freezing freeze freezes : liquid solid cooling cool lose heat
+water freezes temperature : 0 zero 32 degrees celsius
+water boils temperature : 100 212 degrees celsius
+boiling boil boils : liquid gas bubbles heat
+sublimation : solid gas dry ice
+dry ice : sublimation carbon dioxide solid gas
+ice melting : heat absorbs energy
+heat added particles : move faster speed increase
+cooled cooling particles : slow slower
+thermal energy increase : particles move faster temperature
+states matter change : physical change heat temperature
+mass changes state : same conserved
+water expands freezes : ice less dense floats
+ice floats : less dense density
+plasma : stars lightning
+mass measure measures : balance grams kilograms
+mass : amount matter grams
+volume measure liquid : graduated cylinder milliliters liters
+volume irregular object : water displacement graduated cylinder
+volume : space takes up
+length distance measure : ruler meter stick meters centimeters
+temperature measured units : celsius degrees thermometer
+weight measure force : spring scale newtons
+time measure : stopwatch seconds
+density : mass divided volume
+density float sink : less dense floats more dense sinks
+object floats water : less dense density lower
+object sinks water : more dense density greater
+float : less dense
+sink sinks : more dense denser
+buoyancy buoyant : float upward force
+property physical properties : color shape size texture mass hardness density
+magnetic property : iron nickel attracted magnet
+metal metals properties : conduct electricity heat shiny malleable
+malleable : hammered shape metals
+ductile : wire metals
+nonmetals : dull brittle insulators
+conductor electricity : metal copper iron aluminum silver wire
+insulator insulators electricity : rubber plastic wood glass
+best conductor heat : metal copper iron aluminum
+insulator heat : wood plastic foam air wool styrofoam
+wire coated covered : plastic rubber insulator
+copper : conductor wire electricity
+handle pot pan : wood plastic insulator
+solubility soluble dissolves : water solution
+dissolve dissolves faster : stirring heat warm hot smaller pieces
+solution : dissolved mixture solute solvent
+salt water : solution mixture
+mixture mixtures separated separate : physical filter magnet evaporation sifting
+separate salt water : evaporation evaporate boil
+separate sand water : filter filtration
+separate iron filings : magnet
+separate mixture different sizes : screen sieve
+atom atoms : smallest particle element protons neutrons electrons
+nucleus atom : protons neutrons
+proton protons : positive charge nucleus
+neutron neutrons : neutral charge nucleus
+electron electrons : negative charge orbit cloud
+atomic number : protons
+element elements : one type atom periodic table
+periodic table : elements organized groups periods atomic number
+compound compounds : two elements chemically combined bonded
+molecule molecules : atoms bonded together
+water formula : h2o hydrogen oxygen
+water made : hydrogen oxygen
+carbon dioxide : carbon oxygen co2
+table salt : sodium chloride nacl
+oxygen gas atoms : covalent bond share electrons
+covalent bond : share electrons
+ionic bond : transfer electrons
+noble gases : helium neon argon unreactive stable
+metals periodic table : left side
+hydrogen : lightest element
+symbol element : letters periodic
+elements same group : similar properties
+chemical change reaction : new substance gas bubbles color change heat light rust burn
+chemical change examples : burning rusting cooking baking rotting digesting
+physical change : shape size state cut melt freeze tear dissolve crush
+physical change examples : cutting tearing melting freezing breaking dissolving boiling
+rust rusting iron : oxygen water chemical change oxidation
+burning burn wood : chemical change ash smoke heat light
+cooking egg baking cake bread : chemical change
+evidence chemical reaction : gas bubbles color change temperature change precipitate light odor
+baking soda vinegar : gas bubbles carbon dioxide chemical reaction
+conservation mass : same mass reactants products
+mass before after reaction : same equal conserved
+acid acids : ph less 7 sour vinegar lemon
+base bases : ph greater 7 bitter soap
+ph neutral : 7 water
+indicator litmus : acid base
+fire needs : oxygen fuel heat
+combustion : oxygen burning
+kinetic energy : motion moving speed
+potential energy : stored position height
+energy stored height : potential
+ball top hill highest : potential energy
+falling ball falls moving : kinetic energy
+roller coaster : potential kinetic energy
+energy moving object : kinetic
+chemical energy : stored food batteries fuel
+battery batteries : chemical energy electrical
+food energy : chemical
+gasoline fuel energy : chemical
+electrical energy electricity : current electrons flow
+thermal energy heat : temperature particles motion
+light energy : radiant electromagnetic
+sound energy : vibrations
+mechanical energy : motion machines
+nuclear energy : atoms fission fusion
+energy cannot created destroyed : conservation transformed changes form
+energy conservation law : transformed form
+energy transformation light bulb : electrical light heat
+energy transformation battery flashlight : chemical electrical light
+energy transformation solar panel : light electrical
+energy transformation generator : mechanical motion electrical
+energy transformation motor fan : electrical mechanical motion
+energy transformation toaster stove : electrical heat thermal
+energy transformation photosynthesis plants : light chemical
+energy transformation eating food running : chemical mechanical
+energy transformation speaker radio : electrical sound
+energy transformation burning wood fire : chemical heat light
+energy waste lost machines : heat friction
+friction produces : heat thermal energy
+rub hands together : friction heat warm
+heat transfer touching contact : conduction
+conduction : touching contact solid metal spoon
+convection : fluids liquids gases currents rising warm air water
+radiation heat sun : electromagnetic waves space
+heat sun reaches earth : radiation
+heat travels space : radiation
+warm air rises : convection less dense
+heat flows : warmer cooler hot cold
+metal spoon hot soup : conduction
+boiling water pot currents : convection
+dark black colors absorb : heat light energy
+white light colors reflect : heat light
+thermos insulated : insulator heat transfer prevent
+heat moves : warmer colder
+temperature : average kinetic energy particles
+force : push pull
+gravity : pulls objects toward earth down mass attraction
+gravity depends : mass distance
+objects fall dropped : gravity
+friction : opposes motion slows rough surfaces heat
+friction reduce : smooth lubricant oil wheels ice
+friction increase : rough surface sand
+rough surface : friction more
+smooth surface : less friction
+balanced forces : no change motion equal
+unbalanced forces : change motion accelerate
+inertia : resists change motion mass newton first law
+newton first law : inertia motion rest
+newton second law : force mass acceleration
+newton third law : action reaction equal opposite
+force mass acceleration : f ma
+heavier object more mass force : more force needed
+speed : distance time
+speed calculate : distance divided time
+velocity : speed direction
+acceleration : change velocity speed direction
+speeding slowing turning : acceleration
+distance time graph : speed
+momentum : mass velocity
+air resistance : friction slows falling
+magnet magnets attract : iron nickel steel cobalt
+magnet poles : north south attract repel
+like poles : repel push
+opposite unlike poles : attract
+magnetic field : magnet
+electromagnet : coil wire iron core current
+electromagnet stronger : more coils turns current
+simple machine machines : lever pulley wedge screw inclined plane wheel axle
+machines make work easier : less force distance
+lever : fulcrum
+seesaw crowbar : lever fulcrum
+pulley : rope wheel lift flag
+ramp : inclined plane
+inclined plane : ramp less force
+wedge : axe knife split
+screw : inclined plane wrapped
+wheel axle : doorknob steering wheel
+work : force distance
+work done : force moves distance
+power : work time
+circuit closed complete : current flows electricity
+circuit open : no current break
+switch : open close circuit
+series circuit : one path bulbs dim
+parallel circuit : multiple paths branches
+circuit parts : battery wire bulb switch
+electric current : electrons flow
+static electricity : charges rub balloon hair
+charges like : repel
+charges opposite : attract
+generator : electricity magnet coil motion
+motor : electricity motion
+voltage : volts battery
+resistance : ohms
+fuse circuit breaker : overload safety
+wave waves : energy transfer travel
+waves carry transfer : energy
+wave transverse : perpendicular
+wave longitudinal compression : parallel
+wavelength : distance crest crest
+frequency : number waves second hertz
+amplitude : height energy
+sound : vibrations vibrate vibrating medium
+sound travel needs : medium matter air water solid
+sound space : cannot travel vacuum
+sound travels fastest : solids
+sound pitch high : frequency high fast vibrations
+pitch : frequency
+loudness loud volume : amplitude decibels
+echo : sound reflected reflection
+light travels : straight lines fast
+light speed : fastest faster sound
+light reflection reflects mirror : bounces reflect
+refraction refracts bends : lens water prism bending
+prism white light : spectrum colors refraction rainbow
+rainbow : refraction water droplets spectrum
+white light : all colors
+object appears red : reflects red light absorbs
+black absorbs : all colors light
+white reflects : all colors light
+transparent : light passes through glass
+translucent : some light frosted wax paper
+opaque : no light blocks wood metal
+lens convex : magnify focus
+concave lens : spread diverge
+mirror : reflect reflection image
+see objects : light reflected eyes
+electromagnetic spectrum : radio microwaves infrared visible ultraviolet x rays gamma
+infrared : heat
+x rays : bones
+microwaves : cooking
+radio waves : communication
+light year distance : light travels year
+color shirt hot sun : black dark absorbs
+seismic sound water waves medium : mechanical
+light space travel : vacuum electromagnetic
+mass weight difference : mass matter weight gravity force
+weight : force gravity pull newtons spring_scale
+mass object moon earth : same unchanged
+weight object moon : less sixth
+mass dissolving sugar water total : same equal conserved sum
+mass closed container reaction : same unchanged conserved
+total mass products reactants : equal same
+oil water layers : oil floats less dense
+wood floats water : less dense
+rock sinks : more dense
+helium balloon rises : less dense air
+hot air balloon rises : less dense warm air
+density water : 1 g/ml
+density calculate : mass volume divide
+volume rectangular box calculate : length width height multiply
+volume cube : length width height
+metal heated expand expands : expand expansion particles spread
+thermometer liquid rises : expands heated
+bridges sidewalks gaps cracks : expansion contraction temperature
+cooled contract contracts : particles closer
+temperature scale water freezes boils : celsius fahrenheit
+hot object cold object touch : heat flows hot cold
+ice cube hand melts : heat hand ice
+heat energy added substance : temperature increase melt boil
+melting point boiling point : identify substance property
+cold pack endothermic : absorbs heat
+hand warmer exothermic burning : releases heat
+sound produced made : vibrations vibrating object
+pitch higher string : shorter tighter thinner faster vibrations
+pitch lower : longer looser thicker slower vibrations
+louder sound : more energy amplitude larger vibrations
+softer quieter sound : less energy smaller amplitude
+sound travels faster water air : water
+sound travels slowest : gas air
+sound travels best : solids
+ultrasound bats dolphins : echolocation sound
+sound waves type : longitudinal compression mechanical
+sound cannot travel : vacuum space empty
+drum : vibrating membrane
+musical instrument : vibrations pitch
+hearing protect : earplugs
+noise pollution : loud
+light source produces : sun fire flashlight bulb candle stars
+moon planets light : reflect reflected
+shadow forms : object blocks light opaque
+shadow longer : light lower angle
+light travels speed : 300000 km fast
+sunlight reaches earth : 8 minutes
+plant leaves green : reflect green light chlorophyll
+red apple : reflects red absorbs other colors
+filter red : red light passes
+glasses eyeglasses : lens refraction focus
+magnifying glass : convex lens magnify enlarge
+periscope : mirrors reflection
+spoon water looks bent broken : refraction
+colors rainbow order : red orange yellow green blue indigo violet
+light energy absorbed : heat warm
+dark colored objects sun : warmer absorb
+light colored : reflect cooler
+eye part light enters : pupil
+retina : image nerve signals
+battery provides supplies : energy electrical chemical
+bulb lights circuit : closed complete
+bulb not light : open broken incomplete
+series circuit one bulb removed : all go out
+parallel circuit one bulb removed : others stay lit
+electric current flows through : conductor wire metal
+electrons move : current electricity
+static electricity rub balloon : charges electrons transferred
+balloon sticks wall hair : static electricity
+shock doorknob : static electricity
+lightning : static discharge electricity
+earth magnet : magnetic_field compass north
+compass works : magnetic_field earth
+magnet strongest : poles ends
+magnet cut half : two magnets poles
+electromagnet uses : motors doorbells cranes speakers
+electromagnet turned off : loses magnetism
+electromagnet advantage : turned on off
+generator power plant : turbine magnet coil
+electricity produce produced power plants : generators turbines
+power plant burns coal : heat steam turbine
+speed formula : distance time divided
+car travels miles hour : speed
+average speed : total distance total time
+acceleration greater : smaller mass larger force
+same force smaller mass : greater acceleration
+heavier objects : more inertia harder stop
+seat belts : inertia stop forward
+object moving keeps moving : inertia
+object rest stays rest : inertia
+objects fall vacuum : same rate
+feather hammer moon : fall same rate
+parachute : air resistance slows
+tire treads : friction grip
+brakes : friction stop slow
+lubricant oil grease : reduce friction
+ball bearings wheels : reduce friction
+ice slippery : less friction
+sand icy road : increase friction
+rocket : action reaction thrust
+swimmer pushes water back : moves forward reaction
+balloon air released : action reaction
+gravity moon : one sixth earth weaker
+gravity between objects : mass distance
+satellite orbit : gravity inertia
+pendulum : swing gravity period length
+spring stretched rubber band : elastic potential energy
+energy kinetic increases : speed faster mass
+potential energy greatest : highest top height
+kinetic energy greatest : bottom fastest
+pendulum energy : potential kinetic
+energy food : calories chemical
+energy efficiency : less waste heat
+light bulb energy wasted : heat
+fluorescent led bulbs : efficient less energy
+insulation homes : heat loss reduce attic walls
+solar cooker oven : sunlight reflect heat
+windmill : wind kinetic mechanical
+water wheel : moving water mechanical
+dam stored water : potential energy
+nuclear power plant : uranium fission heat
+energy transfer conduction convection radiation : heat
+rust forms needs : water oxygen iron
+prevent rust : paint coat oil dry
+tarnish silver : chemical change
+fire extinguisher : oxygen remove cool
+neutralization acid base : salt water
+vinegar : acid acetic
+lemon juice : acid citric
+baking soda : base
+soap : base
+indicator color change : acid base ph
+ph low : acid acidic
+ph high : base basic alkaline
+chemical formula : symbols elements numbers atoms
+h2o : water hydrogen oxygen
+co2 : carbon_dioxide
+o2 : oxygen
+nacl : salt sodium chloride
+subscript formula : atoms number
+coefficient : molecules number
+reactants : starting substances
+products reaction : new substances formed
+precipitate : solid forms solution
+physical property : observed without changing substance
+chemical property : flammability reactivity
+flammable : burns easily
+reactive metals : sodium potassium
+inert : unreactive noble
+alloy : mixture metals steel bronze brass
+steel : iron carbon alloy
+bronze : copper tin
+gold : malleable unreactive
+mercury metal : liquid room temperature
+carbon : diamond graphite coal living_things
+protons number : atomic_number element identity
+isotopes : neutrons different
+electrons outer shell : valence bonding
+salt stirred water disappear : dissolved dissolves solution
+sugar disappears water : dissolved dissolves
+puddle gone dries : evaporated evaporation water_vapor air
+wet clothes dry : evaporation
+water left out open container : evaporates level decreases
+ice cube warm room : melts solid liquid
+ice melts : solid liquid
+water freezes : liquid solid
+steam : water_vapor gas boiling
+steam kettle condenses : water droplets
+mirror bathroom foggy : condensation
+breath cold day : condensation
+glass cold water outside wet : condensation water_vapor
+frost : water_vapor freezes deposition
+butter melts : heat physical change
+chocolate melts : heat physical change
+candle wax melts : physical change
+candle burns : chemical change
+liquid gas change : evaporation boiling
+gas liquid change : condensation
+solid gas : sublimation
+liquid solid change : freezing
+solid liquid change : melting
+heat energy removed : freezing condensation
+heat energy added : melting evaporation boiling
+temperature boiling stays : same constant
+states matter : solid liquid gas
+change new substance : chemical change reaction
+frying egg cooking : chemical change
+toasting bread : chemical change
+burning paper : chemical change ash
+iron rusting : chemical change
+milk souring : chemical change
+fruit rotting : chemical change
+leaves changing color : chemical change
+fireworks : chemical change light heat
+digestion food : chemical change
+cutting log folding paper : physical change
+crushing can : physical change
+mixing sand iron : physical change mixture
+dissolving salt : physical change
+breaking glass : physical change
+painting fence : physical
+sharpening pencil : physical change
+chemical reaction evidence bubbles : gas produced
+separate mixture : filter magnet evaporation sieve hand
+iron filings sand separate : magnet
+salt sand separate : water dissolve filter evaporate
+rocks sand separate : screen sieve
+paper clips separate : magnet
+oil water separate : layers density
+mixture property : keep properties separated physically
+solution property : evenly mixed dissolved
+flashlight energy change : chemical electrical light
+battery flashlight : chemical energy
+toaster : electrical heat
+oven stove electric : electrical heat
+electric fan : electrical mechanical motion
+blender mixer : electrical mechanical
+radio television : electrical sound light
+doorbell : electrical sound
+car engine gasoline : chemical mechanical heat
+burning fuel : chemical heat light
+campfire : chemical heat light
+food body : chemical energy
+muscles : chemical mechanical
+solar panels calculators : light electrical
+plants sunlight : light chemical
+windmill wind turbine : mechanical electrical
+hydroelectric dam water falling : potential kinetic electrical
+rubbing hands : mechanical heat friction
+guitar string : vibration sound
+microphone : sound electrical
+speaker : electrical sound
+light bulb : electrical light heat
+moving car : kinetic energy
+rolling ball : kinetic
+flying bird running dog : kinetic
+falling rock : kinetic
+book shelf high : potential energy
+stretched rubber band : elastic potential energy
+compressed spring : potential energy
+water behind dam : potential energy
+sled top hill : potential energy
+roller coaster top : potential energy greatest
+roller coaster bottom : kinetic energy greatest
+skier hill down : potential kinetic
+ball thrown up : kinetic potential
+higher object : more potential energy
+faster object : more kinetic energy
+heavier faster : more kinetic
+metal spoon hot cocoa soup : conduction conductor
+spoon handle hot : conduction
+pan handle : insulator wood plastic
+ice chest cooler : insulator
+oven mitt : insulator protect
+blanket : insulator warm
+coat jacket winter : insulator warm body heat
+house insulate keep heat : foam fiberglass insulation
+wooden plastic spoon : insulator
+heat moves conductor : quickly
+sun warms earth : radiation
+campfire warm hands : radiation
+heater room : convection
+hot air rises : convection less dense
+cold air sinks : denser
+boiling water circulates : convection currents
+heat flows : hot cold warmer cooler
+hand ice : heat flows hand ice cold
+ball thrown up comes down : gravity
+apple falls tree : gravity
+force pulls down : gravity
+force opposes motion : friction
+box pushed floor slows : friction
+sled snow : friction less
+bicycle brakes : friction
+rough surface sandpaper carpet : more friction
+smooth surface ice glass : less friction
+force needed heavy box : more force
+push harder : faster acceleration
+force direction change : turn
+balanced forces : no motion change constant
+tug war equal : balanced no movement
+unbalanced : moves accelerates
+newton : force unit
+spring scale : force weight newtons
+measure force : spring_scale
+gravity weight : force
+magnetism : force attract repel
+north south pole : attract
+south south poles : repel push apart
+north north : repel
+mass unit : gram grams kilogram
+length unit : meter centimeter kilometer millimeter
+volume unit : liter milliliter
+temperature unit : celsius fahrenheit degrees
+force unit : newton
+time unit : seconds
+paper clip mass : gram
+distance cities : kilometers
+liquid medicine : milliliters
+pencil length : centimeters
+measure mass : balance scale
+measure volume liquid : graduated_cylinder beaker
+measure volume rock : graduated_cylinder water displacement
+measure length : ruler meter_stick
+measure temperature : thermometer
+measure time : stopwatch clock
+measure force : spring_scale
+measure small objects observe : microscope hand_lens
+distant stars observe : telescope
+atom center : nucleus protons neutrons
+atom parts : protons neutrons electrons
+particles atom charge positive : protons
+particle negative charge : electron
+particle no charge : neutron
+mass atom mostly : nucleus protons neutrons
+electrons location : cloud shells outside nucleus
+element identity determined : protons atomic_number
+periodic table rows : periods
+periodic table columns : groups families similar properties
+metals location periodic : left middle
+nonmetals location : right
+noble gases : group 18 stable unreactive
+alkali metals : reactive group 1
+halogens : group 17 reactive
+atoms combine : molecules compounds bonds
+compound properties : different elements
+water molecule : two hydrogen one oxygen
+oxygen gas molecule : two oxygen atoms o2
+carbon dioxide molecule : one carbon two oxygen
+atoms conserved reaction : same number rearranged
+chemical equation balanced : conservation mass atoms
+acid properties : sour corrode ph low
+base properties : bitter slippery ph high
+vinegar lemon : acid
+soap ammonia : base
+neutral : 7 water
+stomach acid : hydrochloric digestion
+acid rain ph : low acidic
+wave crest : top highest
+wave trough : bottom lowest
+wavelength shorter : higher frequency
+frequency higher : shorter wavelength more energy
+amplitude larger : more energy louder brighter
+wave speed : frequency wavelength
+waves transfer : energy not matter
+medium : matter waves travel through
+mechanical waves need : medium
+electromagnetic waves travel : vacuum space
+light wave : electromagnetic transverse
+sound wave : mechanical longitudinal
+water wave : surface energy
+seismic waves earthquake : p s waves
+ocean wave energy : wind
+particles transverse wave move : perpendicular up down
+particles longitudinal wave move : parallel back forth
+light travels fastest : vacuum
+light slows : water glass
+light enters water bends : refraction
+light bounces : reflection
+light absorbed : heat
+smooth shiny surface : reflects clear image mirror
+rough surface : scatters
+convex lens : converge magnify farsighted
+concave lens : diverge nearsighted
+camera : lens image
+eye lens : focus light retina
+color objects : reflected light
+sky blue : scattering
+white light separated : prism colors spectrum
+primary colors light : red green blue
+electric charge : positive negative
+current : flow electrons amperes
+voltage : push volts battery
+resistance : opposes current ohms
+conductor : allows current
+insulator : stops current
+circuit needs : energy source path load
+energy source circuit : battery
+load : bulb motor
+switch open : off broken path
+switch closed : on complete
+short circuit : dangerous
+series circuit : single path one loop
+parallel circuit : branches homes
+homes wired : parallel
+outlet : alternating current
+battery stores : chemical energy
+battery terminals : positive negative
+wire copper : conductor
+power lines : electricity transmission
+electric motor : magnet coil electricity motion
+generator : motion magnet electricity
+transformer : voltage change
+magnets attract : iron steel nickel cobalt
+magnets do not attract : aluminum copper plastic wood glass paper
+magnetic poles : north south
+magnetic force strongest : poles
+magnetic field lines : north south
+compass needle : magnet north
+earth magnetic field : core iron
+magnet broken : new poles
+electromagnet strength increase : coils current battery
+temporary magnet : iron nail magnetized
+permanent magnet : keeps magnetism
+magnetism through : paper plastic
+lever parts : fulcrum effort load
+fulcrum : pivot point
+first class lever : seesaw crowbar scissors
+second class lever : wheelbarrow nutcracker
+third class lever : broom tweezers fishing rod
+pulley fixed : changes direction
+pulley movable : less force
+ramp longer : less force more distance
+mechanical advantage : force multiplied
+screw : inclined plane wrapped cylinder
+wedge : split cut
+wheel axle : turn
+compound machine : bicycle scissors
+work equals : force distance
+joule : work energy unit
+machines cannot : reduce work
+speed unit : meters per second miles per hour
+distance unit : meters kilometers
+motion relative : reference point
+velocity includes : direction
+acceleration unit : meters per second squared
+deceleration : slowing down
+circular motion : changing direction acceleration
+friction heat : rubbing
+air resistance : larger surface area
+falling objects accelerate : gravity
+terminal velocity : air resistance gravity balanced
+mass inertia : more mass more inertia
+newton laws : inertia acceleration action reaction
+force pairs : equal opposite
+rocket engine : gases pushed out
+jumping off boat : boat moves backward
+collision : momentum transfer
+seat belt airbag : inertia safety
+heavier truck : more momentum harder stop
+arctic : polar_bear seal walrus caribou arctic_fox penguin cold ice snow
+polar region animals : polar_bear seal walrus penguin
+desert animals : camel lizard snake scorpion roadrunner coyote kangaroo_rat
+rainforest animals : monkey parrot jaguar frog toucan sloth
+ocean animals : whale shark dolphin octopus fish
+grassland animals : bison zebra lion antelope prairie_dog
+forest animals : deer bear squirrel owl fox
+pond animals : frog duck fish turtle dragonfly
+sun rises : east morning
+sun sets : west evening
+moon rises : east
+earth spins : west east counterclockwise
+sun overhead : noon
+time earth rotate once : 24 hours day
+time moon orbit earth : 27 28 days month
+time earth orbit sun : 365 days year
+planet days year longest : neptune farthest
+planet shortest year : mercury
+planet most moons : saturn jupiter
+planet rotates sideways : uranus
+planet thick clouds sulfuric acid : venus
+planet great red spot : jupiter
+planet olympus mons largest volcano : mars
+planet polar ice caps water : mars earth
+earth's moon formed : collision
+moon surface : craters dust rocks maria
+moon temperature extreme : no atmosphere
+astronauts moon footprints : no wind erosion
+sound moon : cannot travel vacuum
+weight moon : less gravity weaker
+jump higher moon : weaker gravity
+sky dark space : no atmosphere scatter
+sun appears red sunset : atmosphere scattering
+stars twinkle : atmosphere
+star closest earth : sun
+second closest star : proxima centauri
+north star : polaris
+sun travels across sky : east west
+summer sun : higher sky longer days
+winter sun : lower sky shorter days
+solar eclipse occurs : new moon
+lunar eclipse occurs : full moon
+tides high two : day
+spring tides : sun moon aligned
+neap tides : right angle
+meteor shower : comet debris
+comet orbit : elliptical sun
+asteroid impact : craters
+light pollution : cities stars hard see
+space station orbit : earth
+gps : satellites
+hubble telescope above atmosphere : clearer images
+radio telescope : radio waves
+rain gauge measures : rainfall precipitation
+thermometer measures : temperature
+barometer measures : air_pressure
+anemometer measures : wind speed
+wind vane measures : wind direction
+hygrometer measures : humidity
+weather balloon : upper atmosphere data
+weather satellite : clouds images
+doppler radar : precipitation storms
+fog forms : cool moist air ground condensation
+dew forms : night cool condensation
+frost forms : below freezing
+clouds made of : water droplets ice crystals
+cloud types : cumulus stratus cirrus nimbus
+storm clouds : cumulonimbus nimbus dark
+fair weather clouds : cumulus
+high thin clouds : cirrus
+gray layer clouds : stratus
+wind caused : air_pressure differences uneven heating
+air moves : high low pressure
+warm air : rises less dense lower pressure
+cold air : sinks denser higher pressure
+humid air : more water_vapor
+hot humid : thunderstorms
+climate desert : hot dry
+climate polar : cold
+climate tropical rainforest : hot wet rainy
+climate temperate : four seasons
+climate change evidence : glaciers melting sea level temperature rising
+greenhouse gases trap : heat
+weather vs climate : short term long term
+lake effect snow : great lakes
+ocean moderates climate : coastal mild
+inland climate : extreme temperatures
+elevation climate : colder higher
+latitude climate : colder poles warmer equator
+mountains formed : plates collide uplift folding volcanoes
+valleys formed : rivers glaciers erosion
+canyon formed : river erosion millions years
+caves formed : groundwater dissolves limestone
+beaches formed : waves deposition sand
+deltas formed : rivers deposit sediment
+sand dunes formed : wind deposition
+islands formed : volcanoes coral
+hawaii formed : volcanoes hot_spot
+rocks change : rock_cycle
+rock weathering ice : freezing expands cracks
+rock weathering plants : roots grow cracks
+rock weathering chemical : acid oxygen water
+rock weathering wind : sand abrasion
+sediments carried : wind water ice gravity
+river carries sediment : erosion
+river slows drops : deposition
+soil formation : weathering rocks organic matter time
+soil protects : plants roots
+soil erosion caused : wind water deforestation overgrazing
+landslide cause : heavy rain gravity steep slope
+earthquake cause : plates moving faults
+earthquake effects : buildings collapse tsunami landslides
+volcano cause : magma rising plate boundaries
+volcano effects : lava ash gases
+earthquakes volcanoes occur : plate_boundaries ring_of_fire
+mid atlantic ridge : divergent plates
+himalaya mountains : plates collide india asia
+san andreas fault : transform california
+oceanic continental collide : subduction volcanoes trench
+age seafloor : youngest ridge older farther
+continental drift evidence : fossils rock types coastlines fit glaciers
+wegener : continental_drift pangaea
+pangaea : supercontinent
+renewable energy examples : wind solar water geothermal biomass
+nonrenewable energy examples : coal oil natural_gas uranium
+fossil fuels formed from : ancient plants animals buried
+fossil fuels release burned : carbon_dioxide pollution
+coal mining effects : land destroyed pollution
+oil drilling effects : spills habitat
+wind turbines disadvantages : birds noise wind varies
+solar panels advantages : no pollution renewable
+reduce reuse recycle : conserve resources
+conserve water : turn off faucet fix leaks shorter showers
+conserve energy : turn off lights unplug walk
+protect environment : recycle plant trees reduce pollution
+deforestation effects : habitat loss erosion carbon_dioxide climate
+pollution water sources : sewage fertilizer factories oil
+pollution air sources : cars factories burning
+acid rain caused : sulfur nitrogen coal burning
+global warming caused : greenhouse gases carbon_dioxide
+ozone hole caused : cfcs
+endangered species protect : habitat preserve laws
+invasive species problem : no predators outcompete
+landfill problems : space pollution
+composting benefits : less waste fertilizer
+plastic pollution : ocean animals
+littering : pollution
+water treatment : clean filter chlorine
+plants make food using : sunlight carbon_dioxide water chlorophyll
+plants get energy : sunlight sun light
+plants get water : roots soil
+plants get carbon_dioxide : air leaves stomata
+plants release oxygen : photosynthesis leaves
+plants store extra food : starch roots stems seeds
+plant part absorbs water : roots root_hairs
+plant part makes food : leaves leaf
+plant part transports water : stem xylem
+plant part reproduction : flower
+plant part protects seed : fruit seed_coat
+plant part attracts insects : petals flower
+plant part holds plant ground : roots
+plant part makes pollen : stamen anther
+plant part receives pollen : pistil stigma
+plant needs grow : sunlight water air nutrients space
+plant wilts : lack water
+plant leaves yellow : lack light nitrogen
+plant bends window : light phototropism
+plants hot dry : waxy leaves deep roots
+plants cold : needles evergreen
+plants water : floating
+plants rainforest : broad leaves climb tall
+seeds travel wind : dandelion maple light wings
+seeds travel animals : burrs hooks fruits eaten
+seeds travel water : coconut float
+seed contains : embryo stored food seed_coat
+seedlings need : light water
+germinate needs : water warmth oxygen
+animals need survive : food water air shelter space
+animal body covering mammal : hair fur
+animal body covering bird : feathers
+animal body covering fish reptile : scales
+animal body covering amphibian : moist skin
+animal breathes gills : fish tadpole
+animal breathes lungs : mammal bird reptile adult_frog
+animals lay eggs : birds reptiles fish amphibians insects
+animals give birth live : mammals
+animals feed milk young : mammals
+animal grows new shell : molting
+snake sheds : skin molting
+animals hibernate why : survive winter food scarce
+animals migrate why : food warmer climate breeding
+animal camouflage example : moth bark chameleon arctic_fox stick_insect
+animal mimicry example : viceroy king_snake
+animal defense : shell spines quills poison camouflage speed
+animal teeth sharp : meat carnivore
+animal teeth flat : plants herbivore
+animal both teeth : omnivore
+bird beak short thick : seeds cracking
+bird beak long thin : nectar insects
+bird beak hooked : tearing meat hawk eagle
+bird beak flat wide : water filter duck
+bird feet webbed : swimming duck
+bird feet talons : grasping prey
+animal adaptation cold : thick fur blubber fat hibernation
+animal adaptation hot : large ears nocturnal burrows sweat
+animal adaptation water : gills fins webbed streamlined
+animal adaptation night : large eyes hearing
+animal learned behavior : tricks training language hunting
+animal instinct behavior : web building nest migration suckling
+young animals learn : parents
+food chain starts : producer plant sun
+food chain order : producer herbivore carnivore
+food chain arrows : energy flow
+energy pyramid producers : most energy bottom
+energy pyramid top : least energy
+energy lost : heat
+decomposers return : nutrients soil
+without decomposers : dead material pile nutrients
+without producers : consumers die
+without predators : prey overpopulate
+competition for : food water space mates sunlight
+relationship both benefit : mutualism
+relationship one harmed : parasitism
+relationship one benefits neutral : commensalism
+bees flowers relationship : mutualism
+tick dog relationship : parasitism
+owl mouse relationship : predator prey
+ecosystem change effects : populations
+introduce new predator : prey decrease
+disease spreads population : decrease
+habitat destroyed : animals move die
+food web disrupted : remove species
+pond ecosystem living : fish frogs plants algae insects
+pond ecosystem nonliving : water sunlight rocks temperature
+digestion starts : mouth
+stomach breaks : food acid
+nutrients enter blood : small_intestine
+water absorbed : large_intestine
+heart pumps blood : body
+blood vessels away heart : arteries
+blood vessels back heart : veins
+smallest blood vessels : capillaries
+lungs take in : oxygen
+lungs release : carbon_dioxide
+brain controls : body nervous
+nerves carry : messages signals
+spinal cord connects : brain body
+bones protect : organs brain heart lungs
+skull protects : brain
+ribs protect : heart lungs
+muscles pull : bones movement
+muscles work pairs : contract relax
+skin protects : germs injury
+kidneys remove : waste blood urine
+white blood cells fight : germs infection
+red blood cells carry : oxygen
+platelets help : clotting
+eyes detect : light
+ears detect : sound vibrations
+nose detects : smell
+tongue detects : taste
+skin detects : touch temperature pain
+healthy habits : exercise sleep balanced_diet wash_hands
+offspring inherit : traits parents genes
+inherited traits examples : eye_color hair_color height dimples freckles
+learned traits examples : reading riding writing language skills
+genes found : chromosomes nucleus dna
+dna carries : genetic information instructions
+dominant trait appears : one allele
+recessive trait appears : two alleles
+both parents recessive : offspring recessive
+punnett square shows : possible offspring probability
+mutation can : change traits
+asexual reproduction offspring : identical parent
+sexual reproduction offspring : variation different
+advantage sexual reproduction : variation
+advantage asexual : fast one parent
+cloning produces : identical copy
+fossils show : life changed over time
+species adapt : natural_selection generations
+natural selection requires : variation competition survival reproduction
+individuals favorable traits : survive reproduce
+species fail adapt : extinct
+extinct animals examples : dinosaurs mammoths dodo passenger_pigeon
+common ancestor evidence : similar structures dna fossils
+matter made : atoms
+matter has : mass volume
+states matter three : solid liquid gas
+solid particles : close vibrate fixed
+liquid particles : close slide past
+gas particles : far apart fast
+heating matter particles : faster farther
+cooling matter particles : slower closer
+water boiling point : 100 degrees celsius
+water freezing point : 0 degrees celsius
+melting point ice : 0
+substance identified : melting_point boiling_point density
+mass measured : grams balance
+volume measured : milliliters graduated_cylinder
+density equals : mass volume
+denser objects : sink
+less dense objects : float
+oil floats water : less dense
+ice floats water : less dense
+heavy ship floats : displaces water shape
+mixtures separated physical : filtering sorting magnet evaporation
+solution example : saltwater sugar_water lemonade
+dissolve faster : heat stir crush
+dissolving solute : solvent
+water dissolves : salt sugar
+sand dissolve : does not insoluble
+chemical change signs : bubbles gas color odor heat light precipitate
+physical change examples : melting freezing boiling cutting tearing dissolving
+chemical change examples : burning rusting cooking rotting baking digesting
+mass conserved : chemical reaction physical change
+atoms rearranged : chemical reaction
+new substance formed : chemical change
+same substance : physical change
+energy forms : light heat sound electrical chemical mechanical
+energy changes form : transformation
+energy conserved : not created destroyed
+battery energy : chemical electrical
+food energy : chemical
+sun energy : light heat nuclear
+moving objects energy : kinetic
+stored energy : potential
+height energy : gravitational potential
+stretched spring : elastic potential
+heat travels solids : conduction
+heat travels liquids gases : convection
+heat travels space : radiation
+good conductors heat : metals
+good insulators heat : wood plastic air wool foam
+light travels : straight line
+light reflects : mirror shiny
+light refracts : lens water prism
+light absorbed : black dark
+white light : spectrum colors
+sound produced : vibration
+sound travels : waves medium
+sound faster : solids liquids
+sound slower : gases air
+sound cannot : vacuum space
+louder : larger amplitude
+higher pitch : higher frequency
+force changes : motion speed direction shape
+push pull : force
+gravity pulls : earth center down
+friction slows : moving objects
+friction produces : heat
+less friction : smooth slippery
+more friction : rough
+magnets attract : iron steel
+magnets repel : same poles
+force needed move heavy : more
+speed calculated : distance time
+faster speed : more distance less time
+acceleration : speeding slowing turning
+inertia : objects resist change
+action reaction : equal opposite
+balanced forces : no change
+unbalanced forces : change motion
+simple machines make work : easier
+lever helps : lift
+pulley helps : lift change direction
+ramp helps : less force
+wheel axle helps : move turn
+electricity flows : closed circuit
+circuit broken : open no current
+switch : controls circuit
+conductors allow : electricity flow
+insulators block : electricity
+battery provides : energy electricity
+bulb lights : current flows
+series circuit : one path
+parallel circuit : many paths
+static electricity : rubbing charges
+lightning : static electricity
+magnets electricity : electromagnet generator motor
+electromagnet made : wire coil iron battery
+generator converts : motion electricity
+motor converts : electricity motion
+characteristic all stars : produce light energy hot gas
+stars made : gas hydrogen helium plasma
+planets move solar system : orbit sun elliptical paths
+planets shine : reflect sunlight
+weight different moon : gravity less mass smaller moon
+mass different moon : same
+most earth weather caused : sun uneven heating water_cycle
+weather occurs atmosphere layer : troposphere lowest
+rocks broken smaller pieces process : weathering
+rock pieces moved process : erosion
+burning fossil fuels carbon cycle : increases carbon_dioxide atmosphere
+carbon stored : plants fossil_fuels oceans rocks
+oceans absorb : carbon_dioxide heat
+sea level rise cause : melting ice thermal expansion
+earth surface mostly : water oceans
+earth interior heat : radioactive decay core
+rock layers order : oldest bottom
+geologists study : rocks earth
+meteorologists study : weather
+astronomers study : stars planets space
+biologists study : living things
+botanists study : plants
+zoologists study : animals
+paleontologists study : fossils
+seismologists study : earthquakes
+volcanologists study : volcanoes
+oceanographers study : oceans
+ecologists study : ecosystems
+chemists study : matter reactions
+physicists study : energy forces motion
+determine organism plant : makes own food chlorophyll cell_walls
+determine organism animal : eats food moves
+characteristic plants not animals : make food chloroplasts cell_wall
+new organism discovered classify : cells structures characteristics
+function nervous system : send messages control body signals
+function respiratory : exchange gases oxygen carbon_dioxide
+function digestive : break down food absorb nutrients
+function circulatory : transport blood oxygen nutrients
+function excretory : remove wastes
+function immune : fight disease
+function muscular : movement
+function skeletal : support protect movement
+function endocrine : hormones regulate
+function reproductive : produce offspring
+respiratory parts : nose trachea bronchi lungs alveoli diaphragm
+air sacs : alveoli
+windpipe : trachea
+voice box : larynx
+exercise effect heart : beats faster pumps more blood
+exercise effect lungs : breathe faster deeper
+heart rate dependent variable : measured
+hormone insulin regulates : blood sugar
+adrenaline : heart rate increase fear
+puberty caused : hormones
+organs transplant : replace damaged
+cells reproduce : mitosis cell_division
+cells growth repair : mitosis
+cell specialized function : shape structure
+multicellular organisms advantage : specialized cells
+unicellular organism example : bacterium amoeba paramecium yeast
+light hits black object : absorbed heat
+light hits white object : reflected
+light hits mirror : reflected
+light passes glass : transmitted
+light enters water : refracted bends slows
+sound fastest : steel solid iron
+sound slowest : air gas
+sound needs travel : medium matter
+music instruments sound : vibrating strings air columns drums
+cell phone benefit : communication
+cell phone uses : radio waves
+microwave uses : microwaves
+x ray uses : bones images
+uv light uses : sterilize
+infrared uses : heat remote_control
+radio uses : radio waves
+fiber optics : light
+laser : light focused
+renewable energy example best : solar wind
+chemical reaction example : candle burning baking rust
+physical change best example : ice melting cutting paper
+element example : oxygen gold iron carbon
+compound example : water salt sugar carbon_dioxide
+mixture example : salad soil air saltwater
+atoms bond share electrons : covalent
+atoms transfer electrons : ionic
+metals malleable : hammered sheets
+metals ductile : drawn wires
+metal luster : shiny
+nonmetal example : sulfur carbon oxygen
+metalloid : silicon
+semiconductor : silicon computers
+investigation repeated : reliable
+scientists repeat experiments others : verify confirm
+scientific knowledge changes : new evidence
+measurement uncertainty : repeat average
+precise measurement : small units
+accurate measurement : close true value
+unit mass : kilogram gram
+unit length : meter
+unit volume : liter
+unit time : second
+unit temperature : degree kelvin celsius
+unit energy : joule calorie
+unit force : newton
+unit power : watt
+unit current : ampere
+unit voltage : volt
+unit frequency : hertz
+unit pressure : pascal
+unit distance space : light_year astronomical_unit
+object pushed harder : moves faster farther
+heavier object same push : moves less slower
+lighter object : accelerates more
+car brakes heat : friction
+rubbing two sticks : friction heat fire
+skid marks : friction
+oil engine : reduce friction
+sled downhill : gravity
+ball bounces lower each time : energy lost heat sound friction
+pendulum stops eventually : friction air resistance
+wheel invented : reduce friction
+ramp steeper : more force faster
+ramp longer gentler : less force
+crowbar : lever
+scissors : levers
+flagpole : pulley
+screwdriver : wheel axle
+axe knife : wedge
+stairs : inclined plane
+water tower : potential energy gravity pressure
+dam hydroelectric : moving water electricity
+wind farm : electricity
+coal power plant : burns heat steam electricity
+nuclear plant : fission heat steam
+solar cell : sunlight electricity
+battery dead : chemical energy used
+flashlight dim : weak battery
+bulb filament : glows heat light
+lamp light heat : electrical energy
+fan : electrical mechanical
+heater : electrical thermal
+television : electrical light sound
+radio : electrical sound
+car battery : chemical electrical
+match burns : chemical heat light
+gas stove : chemical heat
+human body energy : food chemical
+plant energy : sunlight
+sound energy : vibrating air
+echo bounce : reflection sound
+bat sonar : reflection sound
+ultrasound medical : images inside body
+sound speed air : 343 meters second
+light faster sound : lightning thunder
+mirror image : reflection reversed
+lens camera eye : focus refraction
+straw glass water bent : refraction
+prism rainbow : refraction dispersion
+color white light : mixture colors
+color black : absence absorbs all
+leaf green : reflects green
+sky blue : scatters blue light
+thermometer works : liquid expands contracts
+hot air balloon : heated air less dense rises
+balloon heated : expands
+balloon cold : shrinks contracts
+tire pressure hot : increases
+popcorn : water steam pressure
+pressure cooker : higher boiling
+ears pop airplane : air_pressure change
+snowshoes : spread weight less pressure
+sharp knife : small area more pressure
+submarine : buoyancy ballast
+ship steel floats : shape displaces water
+life jacket : floats less dense
+salt dissolves water : solution
+sugar dissolves : solution sweet
+sand water : mixture settles
+oil water : not mix layers
+vinegar baking soda : carbon_dioxide bubbles reaction
+yeast bread : carbon_dioxide rises
+antacid stomach : neutralize acid base
+rust prevention : paint galvanize oil
+copper statue green : oxidation patina
+silver tarnish : sulfur reaction
+apple turns brown : oxidation chemical
+burning wood ash : chemical change mass gases
+candle wax burning : carbon_dioxide water vapor
+fireworks colors : metals
+glow sticks : chemical light
+explosion : rapid reaction gas
+digestion stomach : chemical acid enzymes
+cooking food : chemical change
+photosynthesis reaction : chemical change
+water electrolysis : hydrogen oxygen
+hydrogen burns : water
+helium balloons : light gas less dense
+neon signs : glow gas
+carbon dioxide fire extinguisher : smothers oxygen
+oxygen needed : burning respiration
+nitrogen : most air unreactive
+argon : noble gas
+gold jewelry : unreactive shiny
+aluminum foil : lightweight metal
+iron magnetic : nail
+steel : iron alloy strong
+mercury thermometer : liquid metal
+ice cream melts sun : heat absorbs
+puddle evaporates sun : heat energy
+clothes dry sun : evaporation
+sweat cools : evaporation
+breath fog : condensation
+cold soda can wet outside : condensation
+windows fog : condensation
+water boils mountain : lower temperature less pressure
+salt water boils : higher temperature
+ice melts faster : warmer metal conducts
+snowman melts : sun heat
+lake freezes top : ice less dense floats
+fish survive frozen lake : water below ice
+pipes burst winter : water expands freezing
+dry ice : sublimation solid carbon_dioxide
+mothballs : sublimation
+iodine : sublimation
+perfume smell spreads : diffusion gas particles
+food coloring spreads water : diffusion
+hot water food coloring spreads faster : particles move faster
+seeds plant germinate first : root
+seedling first : roots leaves
+plant grows taller : stem cells
+tree rings : age years growth
+tree bark : protection
+plant thorns : protection eaten
+plant poison : defense
+plant flower color : attract pollinators
+plant fruit sweet : animals eat disperse seeds
+plants cleaned air : oxygen carbon_dioxide
+plants soil erosion : roots hold
+plants food chain : producers
+corn plant : grass grain
+grass : producer
+tree : producer
+algae ponds : producer
+mushrooms grow : dead logs decomposers
+mold bread : fungus decomposer spores
+earthworms : soil decompose aerate
+bees : pollinate honey
+butterflies : pollinate
+birds : seeds disperse pollinate
+bats : pollinate insects
+frogs : insects eat
+snakes : mice rodents eat
+hawks : mice snakes rabbits
+owls : mice night
+spiders : insects webs
+ladybugs : aphids pests
+foxes : rabbits mice
+lions : zebras antelope
+sharks : fish seals
+whales : krill plankton
+pandas : bamboo
+koalas : eucalyptus
+cows : grass
+deer : plants leaves
+caterpillars : leaves
+rabbits : plants grass carrots
+squirrels : nuts seeds
+bears : berries fish omnivore
+raccoons : omnivore
+humans : omnivore
+animal young care : mammals birds
+animal many offspring : fish insects frogs
+animal few offspring : mammals elephants humans
+eggs shell land : reptiles birds
+eggs jelly water : amphibians fish
+mammal eggs : platypus echidna
+reptiles cold blooded : sun basking warm
+lizard basking sun : warm body temperature
+dog panting : cool body temperature
+elephants ears flap : cool
+humans shiver : warm
+humans sweat : cool evaporation
+goosebumps : warm
+fur thicker winter : insulation
+birds fluff feathers : warm insulation
+penguins huddle : warm
+camels : desert water fat
+fish gills : oxygen water dissolved
+whales lungs : surface breathe
+frog skin : breathe moist
+insects spiracles : breathe tubes
+worms skin : breathe moist
+plants leaves stomata : gas exchange
+heart beats faster exercise : muscles need oxygen
+breathing faster exercise : oxygen carbon_dioxide
+sweat exercise : cool body
+muscles sore : exercise
+bones break : calcium heal
+broken bone : cast heal
+cut skin heals : cells divide platelets
+fever : fight infection
+cough sneeze : expel germs
+vaccine shot : immunity antibodies
+allergies : immune reaction pollen
+asthma : airways lungs breathing
+diabetes : blood sugar insulin
+heart attack : blocked artery
+stroke : brain blood
+cavities : sugar bacteria teeth
+brush teeth : prevent cavities
+eat vegetables : vitamins minerals fiber
+drink water : hydration
+sleep : rest repair growth
+sunlight vitamin d : skin bones
+calcium : bones teeth strong
+iron diet : blood hemoglobin
+protein diet : muscles growth repair
+carbohydrates diet : energy
+fats diet : energy storage
+vitamin c : oranges citrus scurvy
+food web many connections : stable
+remove producers : all consumers affected
+pollution pesticides food chain : accumulate predators top
+ddt : eagles eggs thin
+algal bloom : fertilizer runoff oxygen depletion fish die
+wetlands drained : habitat loss flooding
+dams effects : fish migration habitat
+overfishing effects : fish decline
+hunting laws : protect populations
+zoos : breeding endangered species
+seed banks : preserve plant species
+national park : protect habitat wildlife
+reintroduce wolves : ecosystem balance
+fire suppression : fuel buildup
+controlled burns : prevent large fires
+forest regrowth : succession
+lichen first : bare rock pioneer
+grass then shrubs trees : succession
+coral reefs threatened : warming acidification pollution
+rainforest destruction : species loss carbon_dioxide
+desertification : overgrazing drought
+urban heat island : cities warmer
+light pollution animals : confuse birds turtles
+noise pollution animals : stress
+plastic bags turtles : jellyfish mistaken
+microplastics : ocean pollution
+microscope parts : eyepiece objective lens stage
+microscope magnify : lenses
+light microscope : light lenses
+electron microscope : higher magnification
+cell discovered : hooke cork
+cells observed : microscope
+stain cells : see parts
+onion skin cells : rectangular cell_wall
+cheek cells : round no_cell_wall
+plant cell shape : rectangular rigid
+animal cell shape : round flexible
+bacteria size : small microscopic
+virus size : smaller than bacteria
+sun heats land faster water : land warmer day
+night land cools faster : water warmer night
+coastal city temperature : mild ocean
+inland desert temperature : extreme hot day cold night
+desert night cold : no clouds dry air heat escapes
+cloudy nights warmer : clouds trap heat
+sunny day clear sky : high pressure
+air pressure falls storm : approaching low
+rising air : clouds rain low pressure
+sinking air : clear dry high pressure
+equator rain : rising warm air rainforest
+deserts latitude : 30 sinking dry air
+trade winds : equator easterly
+westerlies : weather west east united_states
+weather moves united states : west east
+hurricane season : summer fall warm water
+tornadoes spring : midwest plains
+snow forms : cold clouds ice crystals below freezing
+rain forms : droplets collide grow heavy
+hail forms : updrafts thunderstorm layers ice
+lightning forms : charges clouds static
+thunder caused : air expands heated lightning
+rainbows appear : sun behind rain front
+fog : cloud ground level
+smog : smoke fog pollution
+wind chill : feels colder wind
+heat index : humidity feels hotter
+drought cause : little rain high pressure
+flood cause : heavy rain snowmelt hurricane
+landslide prevent : plants retaining walls
+erosion beach prevent : sea walls jetties dunes plants
+river flooding prevent : levees dams wetlands
+volcanic soil : fertile farming
+volcano benefit : new land fertile soil geothermal
+earthquake prediction : difficult
+earthquake safe buildings : flexible steel
+tsunami warning : buoys sensors earthquake
+plate boundary types : convergent divergent transform
+rocks magma cooled : igneous
+rocks magma cool slowly : large crystals
+rocks lava cool quickly : small crystals glassy
+rocks layers sediment : sedimentary fossils
+rocks heat pressure : metamorphic foliated bands
+rock cycle never ends : rocks change form
+sandstone metamorphic : quartzite
+limestone metamorphic : marble
+shale metamorphic : slate
+granite metamorphic : gneiss
+mineral streak test : rub unglazed porcelain tile powder color
+mineral hardness test : scratch mohs scale
+mineral luster : metallic nonmetallic glassy dull
+mineral acid test : fizz calcite carbonate
+mineral magnet test : magnetite
+mineral identify color : unreliable
+gems : diamond ruby emerald sapphire
+ore : metal extracted
+fossil fuel use : transportation electricity heating
+oil uses : gasoline plastics heating
+natural gas uses : heating cooking electricity
+coal uses : electricity steel
+uranium use : nuclear power
+geothermal energy location : iceland volcanoes hot_springs
+groundwater pollution : landfills septic chemicals
+water wells : aquifer groundwater
+water fresh percent : 3 percent most frozen
+ocean water use : desalination
+water cycle runoff pollution : fertilizer pesticides
+glaciers today : antarctica greenland mountains
+ice age evidence : moraines striations erratic boulders
+glacier deposits : till moraine
+kettle lakes : glaciers
+great lakes formed : glaciers
+earth layer solid inner : inner core pressure
+earth layer liquid : outer core
+earth layer plastic flows : mantle asthenosphere
+earth lithosphere : crust upper mantle plates
+earth shape : sphere round
+earth evidence round : ships disappear horizon shadow eclipse photos
+earth orbit shape : ellipse nearly circular
+earth closest sun : perihelion january
+earth farthest sun : aphelion july
+earth rotates direction : west east
+time zones : 24 hours rotation
+day length change : tilt seasons
+north pole summer : 24 hours daylight
+equator day length : 12 hours always
+star patterns change season : earth orbit
+summer constellations winter : different
+sun type star : yellow dwarf medium
+sun age : 4.6 billion years
+sun will become : red giant white dwarf
+largest stars : supergiants blue
+star colors temperature : blue white yellow orange red
+red stars : coolest
+blue stars : hottest
+star birth : nebula gravity
+star death massive : supernova neutron_star black_hole
+galaxy milky way shape : spiral
+solar system location : milky way arm
+nearest galaxy : andromeda
+universe expanding : galaxies moving apart redshift
+light from stars : old past
+telescope types : refracting reflecting radio
+refracting telescope : lenses
+reflecting telescope : mirrors
+space probe voyager : outer planets
+apollo : moon landing
+mars exploration : rovers curiosity perseverance water
+moon exploration : apollo rocks
+satellites uses : weather communication gps mapping
+space junk : debris orbit
+rocket escape gravity : speed thrust
+astronaut suit : oxygen pressure temperature protection
+space no air : spacesuit oxygen
+iss astronauts : microgravity experiments
+moon phases order : new waxing_crescent first_quarter waxing_gibbous full waning_gibbous last_quarter waning_crescent
+moon full to new : two weeks
+moon phase after full : waning_gibbous
+moon phase after new : waxing_crescent
+tides times day : two high two low
+tide highest : full new moon spring
+cell membrane function : controls what enters leaves protects
+cell wall function : support shape protection plants
+nucleus function : controls cell dna instructions
+chloroplast function : photosynthesis makes food
+mitochondria function : energy cellular respiration
+vacuole function : stores water food waste
+ribosome function : makes proteins
+cytoplasm function : holds organelles reactions
+lysosome function : breaks down waste
+cell organelles plant only : chloroplasts cell_wall large_vacuole
+cell organelles both : nucleus membrane mitochondria cytoplasm ribosomes
+diffusion : particles move high low concentration
+osmosis : water diffusion membrane
+active transport : energy against concentration
+cell energy molecule : atp glucose
+glucose made : photosynthesis
+glucose used : respiration energy
+photosynthesis equation : carbon_dioxide water sunlight glucose oxygen
+respiration equation : glucose oxygen carbon_dioxide water energy
+plants respiration : mitochondria all times
+animals photosynthesis : cannot
+fermentation : without oxygen yeast alcohol lactic_acid
+muscle cramps : lactic_acid
+dna structure : double_helix
+dna made : nucleotides bases
+dna bases pair : adenine thymine guanine cytosine
+gene expression : protein
+proteins made : ribosomes amino_acids
+mutation cause : radiation chemicals errors
+mutations harmful : disease
+mutations helpful : variation adaptation
+genetic disorders : sickle_cell cystic_fibrosis hemophilia down_syndrome
+sex chromosomes : x y
+male chromosomes : xy
+female chromosomes : xx
+heterozygous tall : tt one dominant
+homozygous recessive : two recessive
+punnett square tt : 75 percent tall 25 short
+dominant trait example : brown eyes
+recessive trait example : blue eyes
+incomplete dominance : blending pink
+codominance : both appear
+pedigree : family traits
+selective breeding dogs : breeds traits humans choose
+genetic engineering insulin : bacteria
+gmo crops : pest resistant
+dna fingerprinting : identify
+classification levels : kingdom phylum class order family genus species
+binomial nomenclature : genus species two names
+linnaeus : classification
+most specific level : species
+broadest level : kingdom domain
+domains : bacteria archaea eukarya
+animal phyla : chordates arthropods mollusks annelids cnidarians
+arthropods : insects spiders crustaceans exoskeleton jointed_legs
+annelids : segmented worms earthworm
+cnidarians : jellyfish coral stinging
+echinoderms : starfish sea_urchin
+mollusks : snails clams squid octopus
+chordates : backbone vertebrates
+dichotomous key uses : identify organism pairs choices
+plant transport : vascular tissue xylem phloem
+moss no vascular : small moist
+ferns : vascular spores fronds
+gymnosperms : cones naked seeds pine
+angiosperms : flowers fruits seeds enclosed
+monocot : one cotyledon parallel veins grass corn
+dicot : two cotyledons net veins beans
+plant tropisms : light gravity touch water
+phototropism : light
+gravitropism : gravity
+thigmotropism : touch vines
+hydrotropism : water roots
+plant hormones auxin : growth bending
+plant asexual : runners tubers bulbs cuttings
+strawberry runners : asexual
+pollination wind : grasses pollen light
+pollination insects : colorful flowers nectar scent
+fruit seed spread : animals eat
+leaves fall : autumn conserve water
+deciduous : lose leaves
+evergreen : keep leaves needles
+animal kingdom characteristics : multicellular consumers move
+sponges : simplest pores
+worms types : flatworms roundworms segmented
+insect body parts : head thorax abdomen
+insect legs attached : thorax
+spider body parts : cephalothorax abdomen
+fish breathe : gills
+fish fins : movement steering
+fish cold blooded : ectotherms
+amphibian life : water land
+amphibian skin : moist breathe
+reptile eggs : leathery shell land
+bird eggs : hard shell
+bird bones : hollow light flight
+mammal hair : warmth
+mammal glands : milk mammary
+marsupial : pouch kangaroo koala
+monotreme : eggs platypus
+placental mammal : develop inside mother
+primates : monkeys apes humans
+rodents : mice rats squirrels beavers
+carnivores order : cats dogs bears
+digestive path : mouth esophagus stomach small_intestine large_intestine rectum
+liver function : bile detoxify
+gallbladder : stores bile
+pancreas function : enzymes insulin
+villi : absorb nutrients small_intestine
+heart chambers : left right atrium ventricle
+right side heart : lungs deoxygenated
+left side heart : body oxygenated
+blood types : a b ab o
+blood components : plasma red white platelets
+lymphatic system : lymph immune nodes
+spleen : filters blood
+breathing muscle : diaphragm
+gas exchange lungs : alveoli capillaries
+brain parts : cerebrum cerebellum brainstem
+cerebellum : balance coordination
+cerebrum : thinking memory senses
+brainstem : breathing heartbeat involuntary
+neuron parts : dendrites axon cell_body
+reflex arc : spinal_cord quick
+eye parts : cornea iris pupil lens retina optic_nerve
+ear parts : eardrum cochlea outer middle inner
+skin layers : epidermis dermis
+bone types : long short flat
+joints movement : hinge knee elbow ball_socket shoulder hip
+muscle types : skeletal smooth cardiac
+endocrine glands list : pituitary thyroid adrenal pancreas ovaries testes
+thyroid : metabolism
+pituitary : master gland growth
+kidney unit : nephron filter
+urinary system : kidneys ureters bladder urethra
+reproductive female : ovaries eggs uterus
+reproductive male : testes sperm
+pregnancy : embryo fetus uterus placenta
+umbilical cord : nutrients oxygen fetus
+law conservation energy : energy cannot created destroyed
+law conservation mass : mass cannot created destroyed
+first law motion : inertia rest motion stays
+second law motion : force mass acceleration
+third law motion : equal opposite reaction
+gravity strength depends : mass distance
+gravity earth acceleration : 9.8
+free fall : gravity only
+projectile : curved path
+friction types : static sliding rolling fluid
+rolling friction : less sliding
+air resistance depends : shape speed surface area
+streamlined shape : less drag
+work formula : force distance
+power formula : work time
+efficiency : useful energy output
+machine efficiency less 100 : friction heat
+kinetic energy depends : mass speed
+potential energy depends : mass height
+energy transformation pendulum : potential kinetic
+energy transformation bouncing ball : potential kinetic heat sound
+energy transformation falling water : potential kinetic
+energy transformation car : chemical mechanical heat
+energy transformation phone battery : chemical electrical
+energy transformation plant : light chemical
+energy transformation animal eats : chemical mechanical heat
+temperature scale water : celsius 0 100
+absolute zero : kelvin coldest
+heat capacity water : high slowly
+sand beach hot : low heat capacity
+thermal expansion examples : bridges railroad thermometer
+contraction cold : shrinks
+states change energy : absorb release heat
+melting absorbs : heat energy
+freezing releases : heat energy
+condensation releases : heat
+evaporation absorbs : heat cooling
+wave properties : wavelength frequency amplitude speed
+higher frequency light : violet blue more energy
+lower frequency light : red less energy
+radio waves longest : wavelength
+gamma rays shortest : wavelength most energy
+visible light : rainbow colors
+ultraviolet danger : sunburn skin cancer
+infrared : heat thermal imaging
+x rays danger : radiation exposure
+microwaves : cook food water molecules
+sound frequency hearing : 20 20000 hertz
+infrasound : below hearing elephants
+ultrasound : above hearing dogs bats dolphins
+dog whistle : ultrasound high frequency
+sound intensity : decibels
+loud noise damage : hearing loss
+sound absorb : soft carpet curtains foam
+sound reflect : hard smooth walls
+echo location : distance time sound
+sonar : sound navigation ocean depth
+doppler effect : pitch changes moving source
+light speed : 300000 kilometers per second
+light year : distance
+shadow size : distance light object
+shadow sharp : small light source
+eclipse shadow : umbra penumbra
+lens converging : convex thicker middle
+lens diverging : concave thinner middle
+nearsighted : concave lens far blurry
+farsighted : convex lens near blurry
+microscope lens : convex magnify
+telescope lens : convex mirror
+mirror flat : plane image same size
+mirror curved inward : concave magnify
+mirror curved outward : convex wider view car
+color addition light : red green blue white
+color subtraction paint : cyan magenta yellow black
+electric charge types : positive negative
+electrons charge : negative
+protons charge : positive
+static charge rubbing : electrons transferred
+charged balloon : attracts paper hair
+lightning rod : grounding safe
+grounding : earth discharge
+conductor examples : copper silver gold aluminum water salt_water
+insulator examples : rubber glass plastic wood dry air
+semiconductor examples : silicon germanium
+current unit : amperes amps
+voltage unit : volts
+resistance unit : ohms
+ohms law : voltage current resistance
+battery series voltage : adds
+bulb brightness : current voltage
+thicker wire : less resistance
+longer wire : more resistance
+electric power : watts
+energy bill : kilowatt hours
+ac dc : alternating direct
+battery dc : direct current
+outlet ac : alternating current
+power plant : generator turbine
+turbine spun : steam water wind
+transformer : changes voltage
+magnetic field around wire : current
+electromagnet uses examples : motors speakers doorbells mri cranes
+electric motor parts : magnet coil commutator
+generator parts : magnet coil spin
+compass near wire : deflects current magnetic
+magnetic poles earth : near geographic poles
+magnetic materials : iron cobalt nickel
+periodic table arranged : atomic_number
+fe : iron
+au : gold
+ag : silver
+na : sodium
+cl : chlorine
+ca : calcium
+chemical bond : atoms held together
+ionic compound : salt metal nonmetal
+covalent compound : nonmetals share
+reaction rate faster : temperature concentration surface_area catalyst stirring
+catalyst : speeds reaction not used up
+enzyme : biological catalyst
+combustion reaction : fuel oxygen carbon_dioxide water heat
+synthesis reaction : combine
+decomposition reaction : break apart
+endothermic reaction : absorbs heat cold
+exothermic reaction : releases heat hot
+indicator : color acid base
+litmus red : acid
+litmus blue : base
+phenolphthalein : pink base
+ph scale : 0 14
+strong acid : 1 2
+strong base : 13 14
+neutral ph : 7 pure water
+salt formed : acid base neutralization
+solution concentrated : much solute
+solution dilute : little solute
+saturated solution : no more dissolves
+solubility temperature : increases warm
+gas solubility : cold water more
+carbonated drinks : carbon_dioxide dissolved pressure
+sun rise rises rising sunrise morning : east eastern
+sun set sets setting sunset evening : west western
+earth rotation rotate rotates spin spins axis : day night daytime nighttime 24 hours
+day night cause causes daytime nighttime : earth rotation rotates rotating spins axis
+earth revolution revolve revolves orbit orbits around sun : year 365 days
+year length long takes : earth revolve revolution orbit sun 365 days
+seasons season cause causes summer winter : tilt tilted axis angle
+seasons season summer winter : tilt revolution orbit tilted
+summer : direct sunlight longer days more hours daylight tilted toward
+winter : indirect sunlight shorter days fewer hours daylight tilted away
+hemisphere northern summer : tilted toward sun
+hemisphere northern winter : tilted away sun
+equator : direct sunlight warm hot tropical
+poles polar arctic antarctic : cold ice indirect sunlight
+moon phase phases change changes : moon orbit revolves earth reflected sunlight portion lit
+moon phases cycle : month 29 28 days four weeks
+moon light shine shines bright : reflects reflected sunlight light sun
+moon gravity ocean : tides tide
+tides tide high low cause : moon gravity gravitational pull
+moon surface craters : meteorites impacts asteroids collisions
+moon atmosphere air water : no lacks none
+moon orbit around : earth month
+eclipse solar : moon between sun earth shadow
+eclipse lunar : earth between sun moon shadow
+shadow shadows length noon midday : shortest short overhead
+shadow shadows morning evening : longest long low
+shadow : blocks light opaque
+sun star closest nearest : sun star
+sun : star gas hydrogen helium energy light heat
+sun energy source : nuclear fusion hydrogen helium
+sun appears larger bigger brighter other stars : closer nearer distance
+stars appear small dim : far distant distance away
+stars visible night daytime : brightness sun brighter scatter
+star color temperature : blue hottest red coolest
+sun size compared stars : medium average
+star life cycle massive : supernova black hole neutron
+star life cycle sun : red giant white dwarf
+nebula : star birth gas dust
+galaxy milky way : stars billions spiral
+light year : distance
+constellation constellations : stars pattern patterns
+constellations change seasons night sky move : earth revolution orbit rotation
+stars move across sky night : earth rotation rotates
+polaris north star : north
+planet closest sun : mercury
+planet largest biggest : jupiter
+planet hottest : venus
+planet rings : saturn
+planet red : mars
+planet farthest : neptune
+planet water life liquid : earth
+planets inner rocky terrestrial : mercury venus earth mars
+planets outer gas giants : jupiter saturn uranus neptune
+gas giant giants : jupiter saturn uranus neptune hydrogen helium
+planets orbit sun keeps : gravity gravitational
+planets orbit path shape : elliptical ellipse
+solar system center : sun
+asteroid belt : mars jupiter
+asteroids : rock rocky metal
+comet comets tail : ice dust frozen gas
+meteor shooting star : burns atmosphere friction
+meteorite : reaches surface ground lands
+dwarf planet : pluto
+pluto : dwarf planet
+venus hot temperature : carbon dioxide greenhouse thick atmosphere clouds
+mars red color : iron oxide rust dust
+jupiter : largest gas giant great red spot storm
+saturn : rings ice
+year longer planets farther : distance orbit longer
+gravity planet mass larger : stronger
+weight moon less : gravity weaker less
+mass moon same : same unchanged
+astronaut weight : gravity less
+astronaut space mass : same
+space vacuum sound : no travel cannot
+telescope : distant objects stars planets magnify far
+telescope space hubble : atmosphere clearer images
+satellite satellites : orbit communication weather gps
+rocket launch : thrust force push gases
+space probe probes rover : explore planets data
+earth layers layer innermost center : inner core iron nickel solid
+earth layer outermost thinnest : crust
+earth layer thickest : mantle
+mantle : convection currents magma plates
+core outer : liquid iron nickel
+core inner : solid iron nickel hot dense
+earth magnetic field : core iron compass
+compass needle points : north magnetic pole field
+atmosphere layer weather occurs : troposphere
+atmosphere layer ozone : stratosphere
+ozone layer : ultraviolet uv radiation protects absorbs
+ultraviolet uv rays : skin cancer sunburn ozone
+atmosphere gas most abundant : nitrogen
+atmosphere gases : nitrogen oxygen carbon dioxide argon
+air pressure altitude higher : decreases lower less
+atmosphere protects : meteors radiation ultraviolet temperature
+living things characteristics all : cells reproduce grow respond energy
+living things need : food water air energy
+living things made : cells
+nonliving : not grow reproduce
+characteristic living : growth reproduction respond stimuli
+plants animals both : cells reproduce grow need energy water
+plants animals differ : plants make food
+animals need plants : oxygen food
+plants need animals : carbon_dioxide pollination
+keep warm cold : insulation layers coat wool blanket fur fat
+keep cool hot : sweat shade light_colored clothes
+wear winter : coat insulation
+wear summer : light colors
+dark clothing sun : absorbs heat warmer
+light clothing : reflects cooler
+lightning before thunder : light travels faster sound
+see lightning hear thunder : light faster
+echo : reflected sound
+sound louder closer : distance
+sound softer farther : distance energy spreads
+altitude increases air pressure : decreases
+altitude increases temperature : decreases colder
+mountain top air : thin less oxygen
+climbers : less oxygen high altitude
+earth closest sun : january
+earth sun distance seasons : not cause
+daylight hours longest : summer june
+daylight hours shortest : winter december
+spring fall daylight : equal equinox
+water boils sea level : 100 celsius 212
+water freezes : 0 celsius 32
+water expands freezing : ice floats pipes burst
+water universal solvent : dissolves many
+water covers earth : 70 percent
+water three states : solid liquid gas ice steam
+water density : greatest 4 celsius
+water heats slowly : high specific heat
+salt water freezes : lower temperature
+salt road ice : melts lowers freezing
+pond dries up : animals move die
+forest cleared farm : habitat loss animals leave
+flood : habitat destroyed erosion
+volcano eruption effects : ash climate cooling lava destroys
+drought effects : crops fail water shortage
+wildfire effects : habitat destroyed new growth
+pollution effects : animals harmed water air
+oil spill effects : birds feathers fish
+acid rain effects : trees fish lakes
+exercise heart rate : increases faster
+exercise breathing rate : increases faster
+exercise body temperature : increases sweat
+running muscles need : oxygen energy
+after exercise : breathe harder heart beats faster
+pulse rate measure : heartbeats per minute
+measure length classroom : meter_stick ruler
+measure mass object : balance
+measure liquid volume : graduated_cylinder
+measure temperature air : thermometer
+measure wind : anemometer
+measure rainfall : rain_gauge
+observe tiny cells : microscope
+observe moon craters : telescope
+observe insect details : hand_lens magnifying_glass
+heavier objects fall faster : same rate gravity vacuum
+seasons distance : tilt
+moon light : reflected
+sun moves : earth rotates
+plants food soil : photosynthesis air water sunlight
+mass plants comes : carbon_dioxide air
+outlets water : danger shock
+power lines : danger
+batteries recycle : chemicals
+thunderstorm safety : indoors
+tornado shelter : basement
+hurricane prepare : evacuate supplies
+flood safety : higher ground
+sun provides : light heat energy
+sun importance plants : photosynthesis
+without sun : no life cold dark
+sun energy stored : fossil_fuels food
+gravity keeps : moon orbit planets atmosphere
+gravity causes : falling tides weight
+without gravity : float
+organism living_thing creature
+offspring babies
+rock stone
+large big huge
+small tiny little
+fast quick rapid quickly rapidly
+slow slowly gradual gradually
+increase boost
+decrease reduce decline
+melted molten
+heat thermal
+moon lunar
+sun solar
+plant vegetation
+garbage trash rubbish
+car automobile
+cold chilly
+wet moist damp
+dry arid
+function job role purpose
+cause reason
+effect result consequence impact
+spin rotate rotation rotates
+orbit revolve revolution revolves
+protect shield
+produce generate create
+absorb soak absorption
+release emit
+decompose decay rot
+prediction predict forecast predicts
+germs pathogens
+bacteria bacterium
+fungi fungus
+leaves leaf
+teeth tooth
+feet foot
+mice mouse
+children child
+geese goose
+human humans people person
+larva larvae
+pupa pupae
+nucleus nuclei
+cactus cacti
+algae alga
+antenna antennae
+stomata stoma
+mitochondria mitochondrion
+gasoline petrol
+oil petroleum crude_oil
+electricity electric electrical
+magnet magnetic magnetism
+gravity gravitational
+volcano volcanic
+glacier glacial
+ocean sea marine oceanic
+atom atomic
+molecule molecular
+photosynthesis photosynthesize photosynthetic
+evaporation evaporate
+condensation condense
+erosion erode
+deposition deposit
+reflection reflect
+refraction refract
+conduction conduct
+convection convect
+radiation radiate
+digestion digest digestive
+respiration respire respiratory
+circulation circulate circulatory
+excretion excrete excretory
+reproduction reproduce reproductive
+heredity inherit inheritance hereditary
+adaptation adapt
+evolution evolve
+pollination pollinate
+germination germinate
+migration migrate
+hibernation hibernate
+vibration vibrate
+expansion expand
+contraction contract
+observation observe
+inference infer
+hypothesis hypothesize
+measurement measure
+classification classify
+competition compete
+eruption erupt
+acceleration accelerate
+transpiration transpire
+pollution pollute pollutant
+conservation conserve
+fossil fossilized
+extinction extinct

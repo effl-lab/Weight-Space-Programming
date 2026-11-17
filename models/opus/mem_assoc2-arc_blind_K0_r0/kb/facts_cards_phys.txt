@@ -1,0 +1,221 @@
+# Flashcard-style physical, earth and space facts
+# matter
+matter takes up space > volume mass
+three states matter > solid liquid gas
+state with fixed shape > solid
+state takes shape of container > liquid gas
+state expands fill container > gas
+water as gas > water vapor steam
+water as solid > ice
+water vapor invisible > gas
+steam visible > tiny water droplets condensed
+heat added solid > melts
+heat removed liquid > freezes
+heat added liquid > evaporates boils
+heat removed gas > condenses
+melting freezing same temperature > water 0 celsius
+temperature during boiling > stays same 100
+particles in ice > vibrate fixed positions
+particles in water > slide past each other
+particles in steam > move freely fast
+mass when ice melts > stays same
+mass when water freezes > stays same
+volume when water freezes > increases
+mass conserved > physical chemical changes
+weigh before after > mass same closed
+property used to sink float > density
+density of water > 1 g cm3
+gold denser than > water iron
+helium less dense than > air
+cork floats > low density
+rock sinks > high density
+objects that float less dense > wood cork ice oil
+objects that sink more dense > rock metal coin
+measure volume cube > length width height
+volume units > milliliters liters cubic centimeters
+mass units > grams kilograms
+weight units > newtons pounds
+temperature units > degrees celsius fahrenheit
+length units > meters centimeters kilometers
+time units > seconds minutes hours
+properties of metals > shiny conductors malleable magnetic some
+properties of nonmetals > dull brittle insulators
+property magnet test > magnetism
+property scratch > hardness
+property shiny > luster
+property float > density buoyancy
+property dissolves > solubility
+property conducts > conductivity
+property burns > flammability chemical
+property reacts acid > reactivity chemical
+property rusts > chemical
+# forces energy
+force that pulls down > gravity
+force that slows > friction air resistance
+force that opposes motion > friction
+force pushing up water > buoyancy
+force magnets > magnetism
+force needed change motion > unbalanced force
+unit force > newton
+tool measure force > spring scale
+energy of moving object > kinetic
+energy stored position > potential
+energy stored food > chemical
+energy stored battery > chemical
+energy from sun > light radiant solar heat
+energy from wind > kinetic
+energy moving water > kinetic hydroelectric
+energy from heat earth > geothermal
+energy from atoms > nuclear
+energy electric current > electrical
+energy of vibrations > sound
+energy changes form > transformation conserved
+energy never > created destroyed
+energy lost as > heat
+# electricity magnetism
+path electricity follows > circuit
+circuit parts > battery wires bulb switch
+broken circuit > open
+complete circuit > closed
+one path circuit > series
+many paths circuit > parallel
+material electricity flows through > conductor
+material electricity does not flow > insulator
+metal conduct electricity > copper silver aluminum gold iron
+charge of electron > negative
+charge of proton > positive
+neutron charge > neutral none
+like charges > repel
+unlike charges > attract
+static discharge > shock spark lightning
+magnet ends > poles north south
+magnets attract metals > iron nickel cobalt steel
+magnetic field strongest > poles
+magnetic field earth > protects solar wind compass
+electricity produces magnetism > electromagnet
+magnetism produces electricity > generator
+# light sound
+light source examples > sun light bulb fire candle firefly star
+non light source > moon mirror planet
+light travels speed > 300000 km per second fastest
+light bounces > reflection
+light bends > refraction
+light absorbed > dark surfaces heat
+color white light > all colors
+color black > absence light absorbs all
+primary colors light > red green blue
+color we see > reflected
+objects transparent > glass clear plastic water air
+objects translucent > wax paper frosted glass tissue
+objects opaque > wood metal book wall
+lens bends light > refraction
+mirror reflects > light image
+concave mirror > flashlight headlight telescope
+convex mirror > car side mirror wide view
+sound made by > vibrations
+sound travels as > waves compressions
+sound fastest in > solids
+sound cannot travel in > vacuum space
+high pitch > high frequency fast vibrations
+low pitch > low frequency slow vibrations
+loud sound > large amplitude
+soft quiet sound > small amplitude
+sound reflects > echo
+sound absorbed > soft materials
+ear part vibrates > eardrum
+instruments vibrate > strings air columns drumheads
+# earth
+earth shape > sphere round
+earth surface mostly > water oceans
+earth layers > crust mantle core
+earth interior heat > radioactive decay core
+largest ocean > pacific
+continents number > seven
+plates move > slowly centimeters per year
+earth age > billions years old
+rock made of > minerals
+mineral made of > elements
+three rock types > igneous sedimentary metamorphic
+rock from lava > igneous basalt obsidian pumice
+rock layers fossils > sedimentary
+rock heat pressure > metamorphic
+rock floats water > pumice
+rock glassy black > obsidian
+rock sandy > sandstone
+rock shells fizzes acid > limestone
+rock bands layers metamorphic > gneiss
+rock from limestone > marble
+rock from shale > slate
+soil made of > rock particles humus water air organisms
+soil best plants > loam
+soil smallest particles > clay
+soil largest particles > sand gravel
+water soaks fastest > sand
+water holds most > clay
+weathering breaks > rocks
+erosion moves > sediment
+deposition drops > sediment
+agent of erosion most > water
+glaciers formed > snow compressed ice
+glaciers left > lakes moraines valleys boulders
+# weather climate
+weather instruments > thermometer barometer anemometer rain gauge wind vane hygrometer
+clouds made of > water droplets ice crystals
+rain cloud > nimbostratus cumulonimbus
+storm cloud > cumulonimbus
+fair weather cloud > cumulus
+high wispy cloud > cirrus
+low layer cloud > stratus
+cloud on ground > fog
+water falling from sky > precipitation
+frozen precipitation > snow sleet hail
+weather forecast > prediction
+weather tomorrow > forecast
+average weather years > climate
+climate near ocean > mild
+climate inland > extreme hot summers cold winters
+climate mountain > colder
+climate equator > hot
+climate poles > cold
+wind measured speed > anemometer
+wind direction shown > wind vane windsock
+air pressure measured > barometer
+humidity measured > hygrometer
+rainfall measured > rain gauge
+temperature measured > thermometer
+sun heats land > faster than water
+air rises heated > low pressure
+air sinks cooled > high pressure
+# space
+earth spins > rotation axis 24 hours
+earth travels around sun > revolution 365 days
+moon travels around earth > 27 29 days
+moon light > reflected sunlight
+moon shape changes > phases
+moon surface > craters dust rocks
+moon gravity weaker > one sixth
+sun type > star medium yellow
+sun made of > hot gases hydrogen helium
+sun energy > nuclear fusion
+sun distance > 150 million km
+planets number > eight
+planet closest sun > mercury
+planet farthest > neptune
+planet biggest > jupiter
+planet hottest > venus
+planet red > mars
+planet rings > saturn
+planet we live on > earth third
+planet sideways > uranus
+asteroid belt location > between mars jupiter
+comets made of > ice dust rock
+meteor burns > atmosphere
+star patterns > constellations
+galaxy we live in > milky way
+galaxy shape milky way > spiral
+light year measures > distance
+stars brightness > distance size temperature
+star colors temperature > blue white hottest red coolest
+star birth > nebula
+star death small > white dwarf
+star death large > supernova black hole neutron star

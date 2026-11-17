@@ -1,0 +1,142 @@
+# Generation 5: practical decisions and condition -> response associations.
+# Action/query words have their ordinary meaning, not a universal negation rule.
+3.6 | laboratory avoid | eating drinking tasting running |
+3.6 | laboratory unsafe | food drink tasting chemical |
+3.6 | bacteria avoid | eating drinking open cultures |
+3.6 | bacteria precaution | sealed gloves disinfection handwashing |
+3.6 | bacteria safe | wash hands sterilize gloves |
+3.6 | chemical avoid | tasting direct inhalation |
+3.6 | chemical precaution | goggles gloves apron |
+3.6 | chemical smell | waft gently |
+3.6 | chemical eyes | rinse water teacher eyewash |
+3.6 | chemical skin | rinse water teacher |
+3.6 | broken glass avoid | bare hands |
+3.6 | broken glass safe | brush dustpan teacher |
+3.6 | electricity avoid | wet hands exposed wires |
+3.6 | electricity precaution | dry hands insulation disconnect |
+3.6 | flame avoid | loose hair flammable chemicals |
+3.6 | flame precaution | tie hair goggles supervision |
+3.6 | heating avoid | sealed container pointing tube people |
+3.6 | hot glass precaution | tongs mitts cooling |
+3.6 | sun observation safe | approved solar filter projection |
+3.6 | sun observation avoid | direct telescope binocular |
+3.6 | lightning avoid | tall isolated trees open water metal |
+3.6 | lightning safe | enclosed building vehicle |
+3.6 | earthquake safe | drop cover hold sturdy table |
+3.6 | tornado safe | basement interior windowless room |
+3.6 | flood avoid | walking driving moving water |
+3.6 | drinking water safe | filtration disinfection boiling |
+3.6 | contaminated water treat | disinfect boil filter |
+3.6 | germs prevent | handwashing vaccination sanitation |
+3.6 | decay prevent | refrigeration drying preservation |
+3.6 | food preserve | refrigeration freezing drying salting |
+3.6 | rust prevent | coat paint oil keep dry |
+3.6 | erosion prevent | plant vegetation contour terraces |
+3.6 | drought conserve | efficient irrigation reduce water waste |
+3.6 | extinction prevent | habitat protection breeding conservation |
+3.6 | habitat protect | preserves reduce pollution restoration |
+3.6 | overfishing prevent | catch limits protected areas |
+3.6 | pollution reduce | cleaner energy emissions control recycling |
+3.6 | carbon emissions reduce | renewable efficiency public transport |
+3.6 | acid rain reduce | sulfur nitrogen emissions controls |
+3.6 | eutrophication prevent | reduce fertilizer sewage runoff |
+3.6 | ozone depletion prevent | reduce chlorofluorocarbons |
+3.6 | soil replenish | compost crop rotation legumes |
+3.6 | nutrients recycle | decomposition compost |
+3.6 | energy conserve | insulation efficiency turn off |
+3.6 | water conserve | repair leaks reuse efficient irrigation |
+3.6 | raw materials conserve | recycle reuse reduce |
+3.6 | oil spill effect | coating wildlife oxygen habitat damage |
+3.6 | pesticide harm | nontarget organisms biomagnification |
+3.6 | fertilizer benefit | mineral nutrients plant growth |
+3.6 | fertilizer drawback | runoff eutrophication |
+3.6 | dam benefit | electricity flood control water supply |
+3.6 | dam drawback | habitat loss fish migration blocked |
+3.6 | forest removal effect | erosion habitat loss carbon dioxide |
+3.6 | forest planting benefit | carbon storage habitat erosion prevention |
+3.6 | wetland draining effect | flood risk habitat loss |
+3.6 | wetland preserving benefit | flood control filtration habitat |
+3.6 | urbanization runoff | increase paved surfaces |
+3.6 | urbanization habitat | fragmentation biodiversity loss |
+3.6 | transportation improvements | increased trade access food variety |
+3.6 | refrigeration improvements | longer storage food availability |
+3.6 | medicine improvements | survival disease prevention treatment |
+3.6 | communication improvements | rapid information sharing |
+3.6 | new evidence scientists | revise explanations further tests |
+3.6 | conflicting data scientists | repeat investigate methods |
+3.6 | unsupported claim scientists | collect evidence test |
+3.6 | hypothesis next | design test experiment |
+3.6 | experiment finished | analyze data conclusion communicate |
+3.6 | results inconsistent | repeat trials inspect errors |
+3.6 | results unexpected | record honestly verify repeat |
+3.6 | conclusion unsupported | revise hypothesis further investigation |
+3.6 | conclusion reliable | repeated trials consistent evidence |
+3.6 | investigation improve | control variables repeat larger sample |
+3.6 | investigation biased | random representative sample |
+3.6 | instrument inaccurate | calibrate known standard |
+3.6 | instrument precision | finer divisions repeated measurements |
+3.6 | model inaccurate | revise evidence compare observations |
+3.6 | prototype fails | identify cause redesign retest |
+3.6 | design compare | same conditions criteria performance |
+3.6 | device efficient | less wasted energy |
+3.6 | renewable advantage | replenishable lower emissions |
+3.6 | solar disadvantage | intermittent night clouds |
+3.6 | wind disadvantage | variable wind intermittent |
+3.6 | coal disadvantage | air pollution carbon dioxide finite |
+3.6 | nuclear disadvantage | radioactive waste |
+3.6 | geothermal advantage | earth heat continuous low emissions |
+3.6 | hydroelectric advantage | renewable flowing water |
+3.6 | insulation advantage | reduce unwanted heat transfer |
+3.6 | conductor advantage | transfer electricity heat |
+3.6 | photosynthesis blocked | food production decreases |
+3.6 | sunlight blocked | photosynthesis reduced |
+3.6 | roots damaged | water nutrient uptake reduced |
+3.6 | leaves damaged | photosynthesis reduced |
+3.6 | stomata closed | water conserved photosynthesis reduced |
+3.6 | leaf coating | gas exchange reduced |
+3.6 | bark stripped | sugar transport disrupted |
+3.6 | xylem damaged | water transport reduced wilt |
+3.6 | phloem damaged | food sugar transport reduced |
+3.6 | chloroplast damaged | photosynthesis reduced |
+3.6 | mitochondria damaged | respiration energy supply reduced |
+3.6 | ribosome damaged | protein synthesis reduced |
+3.6 | membrane destroyed | regulation lost cell death |
+3.6 | kidney damaged | wastes accumulate blood |
+3.6 | alveoli damaged | gas exchange reduced |
+3.6 | heart damaged | blood circulation reduced |
+3.6 | nerve damaged | signals communication disrupted |
+3.6 | spinal injury | movement sensation impaired |
+3.6 | villi damaged | nutrient absorption reduced |
+3.6 | pancreas insulin deficiency | diabetes high blood glucose |
+3.6 | thyroid hormone deficiency | low metabolism |
+3.6 | red cells fewer | reduced oxygen transport anemia |
+3.6 | white cells fewer | impaired immunity infection |
+3.6 | platelets fewer | impaired clotting bleeding |
+3.6 | dehydration response | thirst water conservation concentrated urine |
+3.6 | overheating response | sweating cooling |
+3.6 | cold body response | shivering heat production |
+3.6 | exercise body response | faster heart breathing oxygen demand |
+3.6 | food shortage response | competition migration population decline |
+3.6 | prey increase | predators food increase |
+3.6 | predators increase | prey decline predation pressure |
+3.6 | prey decline | predators food shortage decline |
+3.6 | predators decline | prey survival increase |
+3.6 | producers decline | consumers food shortage decline |
+3.6 | decomposers decline | dead matter accumulation nutrient recycling reduced |
+3.6 | pollinators decline | seed fruit reproduction reduced |
+3.6 | biodiversity decline | vulnerability reduced resilience |
+3.6 | habitat destroyed | migration population decline extinction |
+3.6 | food competition | limited shared resource |
+3.6 | drought plants response | stomata close wilt |
+3.6 | drought animals response | migration water conservation |
+3.6 | winter animals response | migration hibernation insulation |
+3.6 | warming ice response | melting |
+3.6 | cooling vapor response | condensation |
+3.6 | heating metal response | thermal expansion |
+3.6 | rubbing surfaces response | friction heat |
+3.6 | warming gas response | faster molecules expansion |
+3.6 | compressed gas response | pressure increase |
+3.6 | open circuit response | current interrupted |
+3.6 | short circuit response | excess current overheating |
+3.6 | increased resistance response | lower current |
+3.6 | increased voltage response | greater current |

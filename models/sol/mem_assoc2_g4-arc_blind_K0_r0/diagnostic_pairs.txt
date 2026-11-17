@@ -1,0 +1,270 @@
+# Generation 4: explicitly authored reverse identification, evidence -> term.
+# These are directional facts, not an automatic inversion of every relation.
+# Physical and chemical feature diagnoses.
+3.4 | compressible container | gas |
+3.4 | rigid definite | solid |
+3.4 | flows definite | liquid |
+3.4 | particles slide | liquid |
+3.4 | particles fixed position vibrate | solid |
+3.4 | particles far | gas |
+3.4 | positive nucleus | proton |
+3.4 | neutral nucleus | neutron |
+3.4 | negative cloud | electron |
+3.4 | atom same protons | element |
+3.4 | different neutron | isotope |
+3.4 | charged atom | ion |
+3.4 | electron gain | anion negative |
+3.4 | electron loss | cation positive |
+3.4 | shared electrons | covalent bond |
+3.4 | electrons transferred | ionic bond |
+3.4 | neutrons protons sum | massnumber |
+3.4 | protons count | atomicnumber element |
+3.4 | malleable conductor | metal |
+3.4 | brittle semiconductor | metalloid |
+3.4 | full outer shell | noblegas stable |
+3.4 | sour litmus | acid red |
+3.4 | bitter slippery | base |
+3.4 | ph below seven | acid | base
+3.4 | ph above seven | base | acid
+3.4 | acid base reaction | neutralization salt water |
+3.4 | dissolved uniform | solution homogeneous |
+3.4 | insoluble suspended | suspension heterogeneous |
+3.4 | settling cloudy | suspension |
+3.4 | fixed composition | pure substance | mixture
+3.4 | variable composition | mixture |
+3.4 | element bonded different | compound |
+3.4 | separable physically | mixture |
+3.4 | liquid resists flow | viscosity |
+3.4 | stretched returns | elasticity |
+3.4 | hammered sheets | malleability |
+3.4 | drawn wires | ductility |
+3.4 | dissolved maximum | saturated |
+3.4 | liquid surface molecules escape | evaporation vaporization |
+3.4 | vapor cold droplets | condensation |
+3.4 | solid direct vapor | sublimation |
+3.4 | vapor direct frost | deposition |
+3.4 | heat absorbed reaction | endothermic |
+3.4 | heat released reaction | exothermic |
+3.4 | reaction speedup unchanged | catalyst |
+3.4 | biological catalyst | enzyme |
+3.4 | powder faster reaction | surface area |
+3.4 | particles random spreading | diffusion |
+3.4 | water selectivelypermeable | osmosis |
+3.4 | force area ratio | pressure |
+3.4 | mass space ratio | density |
+3.4 | travel time ratio | speed |
+3.4 | energy time ratio | power |
+3.4 | velocity change rate | acceleration |
+3.4 | energy position | potential |
+3.4 | energy motion | kinetic |
+3.4 | energy stretch | elastic potential |
+3.4 | motion opposed surfaces | friction |
+3.4 | motion change resistance | inertia |
+3.4 | falling resistance | drag air |
+3.4 | equal opposite different objects | action reaction third law |
+3.4 | heat direct contact | conduction |
+3.4 | heat moving fluid | convection |
+3.4 | heat vacuum | radiation |
+3.4 | sound reflected | echo |
+3.4 | sound frequency high | pitch high |
+3.4 | sound amplitude high | louder |
+3.4 | wave perpendicular | transverse |
+3.4 | wave parallel | longitudinal |
+3.4 | wave crests distance | wavelength |
+3.4 | wave vibrations second | frequency |
+3.4 | wave equilibrium displacement | amplitude |
+3.4 | light bends medium | refraction |
+3.4 | light bounces surface | reflection |
+3.4 | white separates colors | dispersion prism |
+3.4 | light passes clear | transparent |
+3.4 | light partially passes | translucent |
+3.4 | light blocked shadow | opaque |
+3.4 | current complete path | closed circuit |
+3.4 | current interrupted | open circuit |
+3.4 | current opposition | resistance |
+3.4 | charge flow | electric current |
+3.4 | potential difference electric | voltage |
+3.4 | coiled wire current | electromagnet |
+3.4 | copper zinc mixture | brass alloy |
+3.4 | copper tin mixture | bronze alloy |
+3.4 | iron carbon mixture | steel alloy |
+# Biological structures from observable features or roles.
+3.4 | cell selective boundary | membrane |
+3.4 | cell green organelle | chloroplast |
+3.4 | cell energy station | mitochondria |
+3.4 | cell protein factory | ribosome |
+3.4 | cell genetic control | nucleus |
+3.4 | cell storage | vacuole |
+3.4 | cell rigid outer | wall |
+3.4 | cell jelly fluid | cytoplasm |
+3.4 | dna histone | chromosome |
+3.4 | inherited instructions | gene dna |
+3.4 | oxygen carrier | hemoglobin red blood cell |
+3.4 | infection fighting cell | white blood cell |
+3.4 | clotting cell | platelet |
+3.4 | blood pump | heart |
+3.4 | air sacs | alveoli lung |
+3.4 | air windpipe | trachea |
+3.4 | chest breathing muscle | diaphragm |
+3.4 | blood wastes filter | kidney |
+3.4 | urine stored | bladder |
+3.4 | absorbed nutrients villi | small intestine |
+3.4 | absorbed water feces | large intestine |
+3.4 | bile production | liver |
+3.4 | bile storage | gallbladder |
+3.4 | insulin production | pancreas |
+3.4 | chemical messengers | hormone endocrine |
+3.4 | electrical messengers | nerve nervous |
+3.4 | automatic rapid response | reflex |
+3.4 | bone muscle attachment | tendon |
+3.4 | joint stabilizing bone | ligament |
+3.4 | joint cushioning | cartilage |
+3.4 | bone brain protection | skull |
+3.4 | eye light receptor | retina |
+3.4 | eye light opening | pupil |
+3.4 | ear hearing receptor | cochlea |
+3.4 | ear vibration membrane | eardrum |
+3.4 | ear balance organ | semicircular canals |
+3.4 | six jointed legs | insect |
+3.4 | eight jointed legs | arachnid spider |
+3.4 | feathers beak | bird |
+3.4 | fur milk | mammal |
+3.4 | dry scales | reptile |
+3.4 | moist metamorphosis | amphibian |
+3.4 | fins gills | fish |
+3.4 | jointed exoskeleton | arthropod |
+3.4 | soft mantle | mollusk |
+3.4 | tentacle stinging | cnidarian |
+3.4 | pores filter feeder | sponge |
+3.4 | radial spiny | echinoderm |
+3.4 | segmented worm | annelid |
+3.4 | milk egg laying | monotreme platypus |
+3.4 | milk pouch | marsupial |
+3.4 | needle cone | conifer gymnosperm |
+3.4 | flowers enclosed seed | angiosperm |
+3.4 | frond spores | fern |
+3.4 | spore nonvascular | moss |
+3.4 | pollen receiving | stigma |
+3.4 | pollen producing | anther |
+3.4 | seed surrounding fruit | ovary |
+3.4 | embryo stored food | seed cotyledon |
+3.4 | water plant transport | xylem |
+3.4 | sugar plant transport | phloem |
+3.4 | leaf opening | stomata |
+3.4 | leaf wax layer | cuticle |
+3.4 | stem light bending | phototropism |
+3.4 | root gravity response | gravitropism |
+3.4 | tendril touch response | thigmotropism |
+3.4 | own food sunlight | producer autotroph |
+3.4 | animal eats plants | herbivore primary consumer |
+3.4 | animal eats meat | carnivore |
+3.4 | eats plants eats meat | omnivore |
+3.4 | dead matter recycling | decomposer |
+3.4 | dead animal eating | scavenger |
+3.4 | both species benefit | mutualism |
+3.4 | one species harmed | parasitism |
+3.4 | one species unaffected | commensalism |
+3.4 | shared limited resource | competition |
+3.4 | blends background | camouflage |
+3.4 | resembles dangerous | mimicry |
+3.4 | dormant winter | hibernation |
+3.4 | seasonal travel | migration |
+3.4 | inherited automatic | instinct |
+3.4 | experience practice | learned behavior |
+3.4 | cold permafrost | tundra |
+3.4 | conifer cold forest | taiga |
+3.4 | wet hot forest | tropical rainforest |
+3.4 | low precipitation biome | desert |
+3.4 | fresh salt mix | estuary brackish |
+3.4 | bare rock pioneer | lichen primary succession |
+# Geological and atmospheric evidence.
+3.4 | cooled magma | igneous |
+3.4 | compacted grains | sedimentary |
+3.4 | heat pressure altered | metamorphic |
+3.4 | rock transported | erosion |
+3.4 | rock breakdown | weathering |
+3.4 | sediment settled | deposition |
+3.4 | mechanical ice expansion | frostwedging |
+3.4 | powder mineral | streak |
+3.4 | shiny mineral | luster |
+3.4 | scratch mineral | hardness |
+3.4 | flat planes mineral | cleavage |
+3.4 | irregular break mineral | fracture |
+3.4 | groundwater reservoir | aquifer |
+3.4 | upper groundwater boundary | watertable |
+3.4 | ocean river mixing | estuary |
+3.4 | river fan mouth | delta |
+3.4 | wind sand ridge | dune |
+3.4 | moving ice | glacier |
+3.4 | gravity downhill material | masswasting |
+3.4 | frozen soil | permafrost |
+3.4 | decomposed organic material | humus |
+3.4 | preserved ancient life | fossil |
+3.4 | fossil footprint | trace |
+3.4 | fossil hollow | mold |
+3.4 | fossil filled impression | cast |
+3.4 | undisturbed layers oldest bottom | superposition |
+3.4 | missing rock time | unconformity |
+3.4 | island volcanoes line | hotspot plate movement |
+3.4 | plate moving apart | divergent |
+3.4 | plate sliding past | transform |
+3.4 | plate colliding | convergent |
+3.4 | ocean plate sinking | subduction |
+3.4 | air moving | wind |
+3.4 | water falling atmosphere | precipitation |
+3.4 | water soaking soil | infiltration |
+3.4 | water flowing land | runoff |
+3.4 | vapor leaf loss | transpiration |
+3.4 | ground level cloud | fog |
+3.4 | high wispy cloud | cirrus |
+3.4 | towering thundercloud | cumulonimbus |
+3.4 | low layered cloud | stratus |
+3.4 | puffy cloud | cumulus |
+3.4 | weather long average | climate |
+3.4 | current atmosphere conditions | weather |
+3.4 | air pressure instrument | barometer |
+3.4 | wind speed instrument | anemometer |
+3.4 | wind direction instrument | vane |
+3.4 | precipitation amount instrument | rain gauge |
+3.4 | humidity instrument | hygrometer psychrometer |
+3.4 | temperature instrument | thermometer |
+3.4 | atmospheric moisture | humidity |
+3.4 | cold warm boundary | front |
+3.4 | dry leeward | rainshadow |
+3.4 | ocean vertical nutrients | upwelling |
+3.4 | sulfur pollution rain | acidrain |
+3.4 | sunlight air pollutants | smog |
+3.4 | algae oxygen loss | eutrophication |
+3.4 | food chain toxin increase | biomagnification |
+3.4 | underground heat resource | geothermal |
+3.4 | organic fuel | biomass |
+3.4 | sunlight electricity | photovoltaic solar |
+3.4 | fossil ancient plants | coal |
+3.4 | crude oil refined | petroleum gasoline diesel |
+# Research concepts.
+3.4 | deliberately changed | independent variable |
+3.4 | measured response | dependent variable |
+3.4 | kept same | controlled variable constant |
+3.4 | untreated comparison | control group |
+3.4 | testable explanation | hypothesis |
+3.4 | direct senses | observation |
+3.4 | evidence interpretation | inference |
+3.4 | future expected | prediction |
+3.4 | accepted value close | accuracy |
+3.4 | repeated values close | precision |
+3.4 | trials independent repeat | replication reliability |
+3.4 | sum count divide | average mean |
+3.4 | middle sorted | median |
+3.4 | frequent value | mode |
+3.4 | maximum minimum difference | range |
+3.4 | categories compare graph | bar graph |
+3.4 | time continuous graph | line graph |
+3.4 | fractions whole graph | pie chart |
+3.4 | both variables relation graph | scatter plot |
+3.4 | expert checking | peer review |
+3.4 | evidence supported explanation | theory |
+3.4 | consistent describes pattern | law |
+3.4 | simplified representation | model |
+3.4 | design first version | prototype |
+3.4 | design restrictions | constraints |
+3.4 | design requirements | criteria |

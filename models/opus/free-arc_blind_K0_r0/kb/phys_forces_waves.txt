@@ -1,0 +1,121 @@
+# Forces
+A force is a push or a pull that can change an object's motion, direction, speed or shape.
+Force is measured in newtons using a spring scale.
+Forces have both size and direction.
+Balanced forces are equal in size and opposite in direction; they cancel out and do not change an object's motion.
+Unbalanced forces cause an object to start moving, stop, speed up, slow down or change direction.
+The net force is the total of all forces acting on an object.
+Gravity is a force of attraction that pulls objects toward each other; Earth's gravity pulls objects toward the center of Earth.
+Gravity causes objects to fall to the ground and gives objects weight.
+Without air resistance, all objects fall at the same rate, regardless of their mass.
+Air resistance is a type of friction that slows falling objects; a parachute increases air resistance.
+A feather falls slower than a rock because of air resistance.
+Friction is a force that opposes motion between two surfaces that are touching.
+Friction slows down moving objects and produces heat.
+Rough surfaces such as sandpaper, carpet, gravel and grass produce more friction than smooth surfaces such as ice, glass and polished wood.
+A ball rolls farther on a smooth floor than on carpet or grass because there is less friction.
+Lubricants such as oil and grease reduce friction between moving parts, like a bicycle chain.
+Wheels, ball bearings and smooth surfaces reduce friction.
+Friction is useful for walking, braking, gripping; tire treads and shoe treads increase friction.
+Sand on icy roads increases friction so cars do not slide.
+Magnetic force and electric force can act at a distance without touching.
+Tension is the pulling force in a rope or string; compression is a pushing or squeezing force.
+Buoyant force pushes upward on objects in water.
+# Motion
+Motion is a change in position over time compared to a reference point.
+Speed is the distance an object travels divided by the time it takes; speed equals distance divided by time.
+A car that travels 100 kilometers in 2 hours has an average speed of 50 kilometers per hour.
+Speed is measured in units such as meters per second, kilometers per hour or miles per hour.
+Velocity is speed in a given direction.
+Acceleration is the rate at which velocity changes; speeding up, slowing down or changing direction is acceleration.
+An object moving in a circle at constant speed is accelerating because its direction changes.
+A distance time graph shows motion; a straight sloped line shows constant speed, and a flat line shows the object is stopped.
+Newton's first law of motion, the law of inertia, states that an object at rest stays at rest and an object in motion stays in motion unless acted on by an unbalanced force.
+Inertia is the tendency of an object to resist changes in its motion; objects with more mass have more inertia.
+Seat belts protect passengers because inertia keeps their bodies moving forward when a car stops suddenly.
+Newton's second law states that force equals mass times acceleration, F equals m a.
+The greater the force on an object, the greater its acceleration; the greater the mass, the smaller the acceleration for the same force.
+A heavier object needs more force to move or to stop than a lighter object.
+Newton's third law states that for every action there is an equal and opposite reaction; forces come in pairs.
+When a swimmer pushes water backward, the water pushes the swimmer forward.
+A rocket pushes gases down and the gases push the rocket up.
+Momentum is mass times velocity.
+# Work and simple machines
+Work is done when a force moves an object over a distance; work equals force times distance.
+Work is measured in joules.
+Power is the rate at which work is done, measured in watts.
+Machines make work easier by changing the size or direction of a force or the distance over which it acts.
+Simple machines do not reduce the amount of work; they let you use less force over a greater distance.
+The six simple machines are the lever, pulley, wheel and axle, inclined plane, wedge and screw.
+A lever is a bar that pivots on a fixed point called a fulcrum; examples are seesaws, crowbars, scissors, bottle openers and hammers pulling nails.
+Moving the fulcrum closer to the load makes it easier to lift the load with a lever.
+A pulley is a wheel with a rope or chain around it that changes the direction of a force; a flagpole uses a pulley to raise a flag.
+A fixed pulley changes the direction of force; a movable pulley reduces the force needed to lift a load.
+A block and tackle uses several pulleys to lift heavy loads with less force.
+A wheel and axle is a wheel attached to a rod called an axle that turn together, such as a doorknob, steering wheel, screwdriver and bicycle wheel.
+An inclined plane is a flat sloping surface, a ramp, that makes it easier to move objects to a higher place.
+A longer, less steep ramp requires less force but a greater distance to raise an object.
+A wedge is two inclined planes that come together to a sharp edge used to split or cut, such as an axe, knife, chisel or doorstop.
+A screw is an inclined plane wrapped around a post, such as a jar lid or bolt.
+Compound machines are made of two or more simple machines, such as a bicycle, scissors, wheelbarrow and can opener.
+Mechanical advantage tells how many times a machine multiplies the force.
+Gears are wheels with teeth that transfer motion and force.
+# Waves
+A wave is a disturbance that transfers energy from one place to another without transferring matter.
+Mechanical waves, such as sound waves, water waves and seismic waves, need a medium to travel through.
+A medium is the matter, solid, liquid or gas, that a wave travels through.
+Electromagnetic waves such as light, radio waves, microwaves and X rays can travel through empty space, a vacuum.
+In a transverse wave, the particles of the medium move up and down, perpendicular to the direction the wave travels; light and water waves are transverse.
+In a longitudinal wave, or compression wave, the particles of the medium move back and forth parallel to the direction the wave travels; sound waves are longitudinal.
+The crest is the highest point of a wave and the trough is the lowest point.
+The amplitude is the height of a wave from rest to crest; larger amplitude waves carry more energy.
+The wavelength is the distance from one crest to the next crest.
+The frequency is the number of waves that pass a point each second, measured in hertz.
+Higher frequency waves have shorter wavelengths.
+# Sound
+Sound is a form of energy produced by vibrations.
+All sounds are made by vibrating objects, such as a vibrating guitar string, drum skin or vocal cords.
+Sound travels as a longitudinal wave through a medium such as air, water or solids.
+Sound travels fastest through solids, slower through liquids, and slowest through gases like air.
+Sound cannot travel through empty space, a vacuum, because there are no particles to vibrate.
+Sound travels about 340 meters per second in air.
+Pitch is how high or low a sound is and depends on the frequency of the vibrations.
+Fast vibrations, high frequency, make a high pitched sound; slow vibrations, low frequency, make a low pitched sound.
+Shorter, thinner or tighter strings vibrate faster and make a higher pitch; longer, thicker or looser strings make a lower pitch.
+Volume, or loudness, depends on the amplitude of the sound wave; larger vibrations make louder sounds.
+Loudness is measured in decibels; very loud sounds can damage hearing.
+An echo is a sound wave that reflects off a surface and returns.
+Soft materials like curtains, carpet and foam absorb sound and reduce echoes.
+Musical instruments make sound by vibrating strings, air columns, or surfaces such as drums.
+The human ear detects sound vibrations; humans hear frequencies from about 20 to 20,000 hertz.
+Ultrasound is sound with frequencies too high for humans to hear; dogs and bats can hear high pitched sounds.
+# Light
+Light is a form of energy that travels as electromagnetic waves and can travel through empty space.
+Light travels in straight lines at about 300,000 kilometers per second, faster than anything else.
+Light travels faster than sound.
+A shadow forms when an opaque object blocks light.
+Shadows change in length and direction as the position of the light source changes.
+Transparent materials such as clear glass, clear plastic, water and air let almost all light pass through, so you can see clearly through them.
+Translucent materials such as wax paper, frosted glass and tissue paper let some light pass through and scatter it.
+Opaque materials such as wood, metal, rock, cardboard and brick block all light from passing through.
+Reflection is when light bounces off a surface; mirrors reflect light.
+The angle of incidence equals the angle of reflection.
+Smooth shiny surfaces like mirrors reflect light evenly and form images.
+Refraction is the bending of light as it passes from one medium into another, such as from air into water or glass.
+A straw in a glass of water looks bent or broken because of refraction.
+Lenses refract light to form images; convex lenses bend light inward and magnify objects; concave lenses spread light out.
+Magnifying glasses, microscopes, telescopes, cameras, eyeglasses and the human eye use lenses.
+A prism separates white light into the colors of the rainbow, the visible spectrum, by refraction.
+White light is made of all the colors of the visible spectrum: red, orange, yellow, green, blue, indigo and violet.
+Rainbows form when sunlight is refracted and reflected by raindrops.
+Red light has the longest wavelength of visible light and violet light has the shortest wavelength.
+We see an object's color because it reflects that color of light and absorbs the other colors; a red apple reflects red light.
+A white object reflects all colors of light; a black object absorbs all colors of light.
+Absorption is when light energy is taken in by a material and changed into heat.
+We see objects because light reflects off them into our eyes.
+The electromagnetic spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet, X rays and gamma rays.
+Infrared radiation is felt as heat; ultraviolet radiation from the Sun causes sunburn.
+X rays pass through soft tissue but are absorbed by bones, so they are used to see bones.
+Microwaves are used to cook food and for communication; radio waves carry radio and television signals.
+Lasers produce a narrow, intense beam of light of one color.
+Fiber optic cables carry light signals using total internal reflection.

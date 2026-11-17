@@ -1,0 +1,261 @@
+# More life science: specific organisms, scenarios, ecology changes, genetics
+# --- needs of organisms
+animals need survive > food water oxygen shelter space
+plants need survive > sunlight water carbon dioxide nutrients space
+basic needs living things > food water air shelter
+shelter = protection from weather predators
+animals get water > drinking food
+animals get oxygen > lungs gills skin breathe
+fish get oxygen > gills dissolved oxygen water
+earthworm breathes > moist skin
+insects breathe > spiracles tubes
+whales breathe > lungs air surface blowhole
+plants get nutrients > soil roots
+plants get carbon dioxide > air leaves stomata
+seeds need sprout > water warmth air
+baby animals depend on parents > food protection learning
+animal parents care for young > survival
+mammal mothers feed young > milk
+# --- ecology change scenarios
+drought effects ecosystem > plants die less food herbivores decrease
+fire effects forest > destroys habitat new growth nutrients ash
+flood effects > habitat destroyed soil deposited erosion
+cutting forest effects > animals lose habitat soil erosion less oxygen
+new predator introduced > prey population decreases
+predator removed > prey population increases overgrazing plants decrease
+wolves removed > deer elk increase overgrazing
+wolves returned yellowstone > elk decrease plants recover
+snakes removed > mice rats increase
+hawks decrease > mice increase
+frogs decrease > insects increase
+fewer plants > fewer herbivores less food
+more plants > more herbivores more food
+more rabbits > more foxes predators food
+fewer rabbits > foxes decrease starve
+disease kills prey > predators decrease
+competition same food > populations decrease one wins
+two species compete > food water space territory
+overgrazing > plants decrease soil erosion
+pollution river > fish die oxygen decrease
+dam built river > fish migration blocked habitat changes lake forms
+building city > habitat loss animals move
+animal populations stay balanced > predators prey food supply
+food web disrupted > other populations change
+removing one species food web > affects many others
+bees decline > fewer plants pollinated less fruit crops
+pesticide food chain > biomagnification top predators harmed eagles
+mercury fish > biomagnification
+organisms compete for > food water sunlight space mates shelter
+plants compete for > sunlight water nutrients space
+trees forest shade > less sunlight smaller plants
+weeds compete > crops water nutrients sunlight
+# --- relationships examples
+bee flower relationship > mutualism pollination nectar
+clownfish sea anemone > mutualism protection
+oxpecker birds rhinoceros > mutualism eat ticks
+cleaner fish shark > mutualism
+lichen fungus algae > mutualism
+nitrogen fixing bacteria legumes > mutualism
+human gut bacteria > mutualism digestion vitamins
+barnacles on whale > commensalism
+remora shark > commensalism
+bird nest in tree > commensalism
+tick on dog > parasitism
+flea dog > parasitism
+mosquito bites > parasite blood disease malaria
+tapeworm intestine > parasitism
+mistletoe tree > parasite
+lion zebra > predator prey
+owl mouse > predator prey
+cat mouse > predator prey
+hawk rabbit > predator prey
+frog fly > predator prey
+spider insect > predator prey
+shark fish > predator prey
+# --- specific animals facts
+earthworms > decomposers soil aerate eat dead leaves
+worms soil > mix soil air spaces nutrients
+bees > pollinate flowers make honey live in hives colonies
+ants > colonies work together
+butterflies > pollinate complete metamorphosis
+mosquitoes > spread disease lay eggs in water
+dragonflies > incomplete metamorphosis eat mosquitoes
+ladybugs > eat aphids helpful garden
+spiders > eat insects web eight legs
+snakes > eat mice rodents reptiles shed skin
+frogs > eat insects amphibians
+owls > eat mice rodents nocturnal pellets
+owl pellets = undigested bones fur owl diet
+bats > eat insects pollinate echolocation nocturnal
+hummingbirds > nectar pollinate fast wings
+woodpeckers > drill trees insects strong beak
+eagles hawks > birds of prey raptors talons
+vultures > scavengers eat dead animals
+pelicans > catch fish pouch
+penguins > swim antarctica cold flightless
+seals > blubber swim cold ocean
+whales > largest mammals ocean blubber baleen krill
+dolphins > mammals echolocation intelligent
+sharks > fish cartilage predators
+salmon > swim upstream spawn
+sea turtles > lay eggs on beach
+turtles > shell protection reptiles
+alligators crocodiles > reptiles swamps
+chameleons > change color camouflage
+lizards > reptiles cold blooded bask in sun warm
+snakes bask sun > cold blooded warm body
+cold blooded animals morning > bask sun warm up
+bears > hibernate winter omnivores fat
+squirrels > store nuts winter bury seeds
+chipmunks > store food burrow
+beavers > build dams gnaw trees change ecosystem
+rabbits > herbivores fast reproduce
+deer > herbivores browse
+cows > herbivores grass four stomach chambers chew cud
+horses > herbivores grass
+elephants > largest land animal herbivores trunk tusks
+giraffes > tallest animal long neck
+cheetahs > fastest land animal
+camels > desert hump
+kangaroos > marsupial pouch
+koalas > marsupial eucalyptus
+monkeys > tails trees
+gorillas chimpanzees > apes
+platypus > mammal lays eggs duck bill
+starfish > regenerate arms echinoderm
+octopus > camouflage ink eight arms
+jellyfish > stinging tentacles
+coral > tiny animals reef warm water
+sponges > filter feeders pores
+clams oysters > filter feeders shells
+crabs > crustaceans exoskeleton molt
+snails > mollusk shell slime
+slugs > mollusk no shell
+# --- specific plant facts
+trees > wood produce oxygen shade habitat roots prevent erosion
+maple trees > seeds wings helicopter wind deciduous sap syrup
+oak trees > acorns deciduous
+pine trees > cones needles evergreen conifers
+apple trees > fruit seeds flowers bees
+sunflowers > follow sun seeds
+dandelion > seeds wind parachute
+coconut > floats water dispersal
+cactus > desert store water spines
+water lily > floating leaves pond
+moss > damp shady no seeds spores
+ferns > spores fronds shady
+grass > producer grows quickly herbivores
+corn wheat rice > grains crops grass seeds
+beans peas > legumes seeds pods nitrogen
+potatoes > tubers underground stems starch
+carrots > roots store food
+lettuce spinach > leaves
+celery > stem
+broccoli > flowers
+tomatoes > fruit seeds
+strawberries > runners fruit seeds outside
+seedless plants > spores ferns mosses
+mushrooms > fungi spores decomposers
+mold > fungus spores grows on bread food
+yeast > fungus single cell
+bacteria > single celled microscopic some cause disease some helpful
+helpful bacteria > yogurt cheese digestion decomposers nitrogen fixing
+harmful bacteria > disease food poisoning strep
+virus > needs host cell reproduce nonliving
+# --- plant processes scenarios
+plant kept dark > turns yellow pale stops growing
+plant without water > wilts dies
+plant on windowsill bends > phototropism light toward window
+roots upside down pot > grow downward gravity
+over watering plant > roots rot no oxygen
+plant needs soil > nutrients minerals support
+plants grown without soil > hydroponics water nutrients
+leaves covered with petroleum jelly > blocks stomata no gas exchange
+celery colored water > xylem transports water up stem
+white flower colored water > water travels up stem petals change color
+plants release water > transpiration leaves
+cutting plant stem > new plant asexual
+bulbs tulips onions > store food underground asexual
+fruit contains > seeds
+fruit develops from > ovary flower
+seeds come from > flowers cones
+pollen carried by > bees wind insects birds
+pollen = male sex cells plants yellow powder
+eggs plants > ovule ovary
+# --- inherited and acquired traits scenarios
+puppies look like parents > inherited traits genes
+kittens different colors same litter > different combinations genes sexual reproduction variation
+identical offspring > asexual reproduction clones
+offspring similar but not identical parents > sexual reproduction genes from both parents
+tall pea plants short pea plants > mendel dominant recessive
+brown eyes dominant > blue eyes recessive
+two brown eyed parents blue eyed child > both carry recessive gene
+child inherits > half genes mother half father
+learned skills > reading riding bike speaking language
+scar > acquired injury
+strong muscles from exercise > acquired trait
+dog learns trick > learned behavior training
+bird builds nest > instinct inherited behavior
+spider spins web > instinct
+baby cries > instinct
+baby turtles crawl to ocean > instinct
+cat chases mouse > instinct
+child learns to read > learned behavior
+dog sits command > learned behavior
+bear catches fish learned from mother > learned behavior
+monkeys use sticks get termites > learned behavior tool use
+chimpanzee learn > learned behavior
+fur color genes > inherited trait
+environment affects traits > height nutrition flower color soil hydrangea
+identical twins different > environment affects traits
+# --- adaptations more
+adaptation hot desert animals > large ears release heat nocturnal burrows light colored
+adaptation cold animals > thick fur blubber small ears hibernation migration white fur
+adaptation water animals > gills fins webbed feet streamlined body oily feathers
+adaptation fly > wings hollow bones feathers light body
+adaptation predators > sharp teeth claws keen eyes speed camouflage
+adaptation prey > camouflage speed shells spines eyes on side of head warning colors herds
+eyes front of head > predators depth perception
+eyes side of head > prey see predators wide view
+long ears rabbit > hear predators
+sharp claws > catch prey climb dig
+thick bark trees > protect fire insects
+waxy leaves > reduce water loss
+needles conifers > reduce water loss snow slides off
+plants poison > protect from being eaten
+thorns roses > protect from animals
+seeds hard coat > protect seed survive
+bright flowers > attract pollinators
+nectar > attracts pollinators
+fruits tasty > animals eat spread seeds droppings
+desert plants roots > long deep or wide shallow absorb rain quickly
+rainforest canopy plants > compete sunlight tall
+aquatic plants > air spaces float leaves
+arctic plants > low growing short dark
+animals change environment > beavers dams elephants knock trees prairie dogs burrows humans
+# --- population and cells numbers
+population grows > birth rate greater death rate food available
+population decreases > death rate greater birth rate disease predators
+cell division single celled > reproduction binary fission
+growth multicellular organism > cell division mitosis more cells
+cells repair injury > mitosis cell division
+skin cells replaced > cell division
+nerve cells > long branches send signals
+muscle cells > contract movement
+red blood cells > disc shape carry oxygen no nucleus
+root hair cells > absorb water large surface area
+guard cells > control stomata opening
+sperm cell > tail swim
+egg cell > large food supply
+# --- microorganisms
+microorganisms = tiny living things seen with microscope bacteria protists fungi
+microscope used to see > bacteria cells microorganisms
+antonie van leeuwenhoek > first saw microorganisms microscope
+bacteria reproduce > binary fission quickly
+bacteria grow best > warm moist food
+spoiled food > bacteria mold fungi
+yogurt made > bacteria
+cheese made > bacteria mold
+bread made > yeast
+compost > decomposers bacteria fungi worms break down
+soil bacteria > decompose nitrogen fixing

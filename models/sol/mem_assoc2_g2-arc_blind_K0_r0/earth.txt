@@ -1,0 +1,367 @@
+# EARTH SYSTEMS, GEOLOGY, WEATHER, ASTRONOMY, AND RESOURCES
+2 | earth layers | crust mantle core | atmosphere only
+2 | crust | outer thin solid rock | liquid iron
+2 | mantle | hot solid plastic convection | water
+2 | outer core | liquid iron nickel magnetic | solid rock
+2 | inner core | solid iron nickel high pressure | liquid
+2 | earth interior temperature | increase depth | decrease
+2 | earth interior pressure | increase depth | decrease
+2 | tectonic plate | lithosphere crust upper mantle | atmosphere
+2 | lithosphere | rigid crust upper mantle | liquid core
+2 | asthenosphere | plastic mantle convection | rigid crust
+2 | plate movement | mantle convection heat | wind
+2 | continental drift | pangaea fossil matching coastline | weather
+2 | pangaea | continents joined supercontinent | ocean only
+2 | plate evidence | fossil rock coastline match | daily weather
+2 | convergent boundary | collide mountain subduction | spread apart
+2 | divergent boundary | apart new crust ridge | collide
+2 | transform boundary | slide past earthquake fault | new crust
+2 | oceanic continental | subduction dense ocean crust volcano trench | continental sinks
+2 | continental collision | mountain uplift himalaya | new ocean
+2 | seafloor spreading | divergent ridge magma new crust | subduction
+2 | mid ocean ridge | divergent youngest rock | oldest
+2 | ocean trench | convergent subduction deep | divergent
+2 | ocean crust age | younger ridge older farther | oldest ridge
+2 | magnetic seafloor | symmetrical stripes spreading | random
+2 | hot spot | mantle plume volcano hawaii | plate boundary required
+2 | volcano | magma lava ash new rock | sediment only
+2 | lava | magma surface | underground only
+2 | magma | molten rock underground | surface only
+2 | volcanic rock | igneous cooling lava | sedimentary
+2 | earthquake | sudden fault movement energy seismic | weather
+2 | earthquake focus | origin underground | surface above
+2 | earthquake epicenter | surface above focus | core
+2 | seismic wave | vibration energy earthquake | wind
+2 | seismograph | measure record earthquake wave | rain
+2 | earthquake magnitude | energy strength | wind speed
+2 | tsunami | ocean earthquake wave | tide wind only
+2 | p wave | fastest compression solid liquid | solid only
+2 | s wave | transverse solid | liquid
+2 | seismic liquid core | p wave refraction | s transverse
+2 | mountain formation | tectonic uplift collision | evaporation
+2 | fault | fracture rock movement | liquid
+2 | fold rock | compression bent layers | melting
+2 | rock cycle | igneous sedimentary metamorphic transform | only one direction
+2 | igneous | cooling magma lava crystal | compaction sediment
+2 | intrusive igneous | slow cooling large crystal granite | small crystal
+2 | extrusive igneous | fast cooling small crystal basalt | large crystal
+2 | obsidian | rapid cooling glass | large crystal
+2 | pumice | gas bubble porous volcanic float | dense metal
+2 | granite | igneous coarse large crystal | sedimentary
+2 | basalt | igneous fine small crystal | sedimentary
+2 | sedimentary | sediment compaction cementation layers fossil | melt
+2 | metamorphic | heat pressure changed rock | melt cooling
+2 | sandstone | sedimentary sand | igneous
+2 | shale | sedimentary clay silt | igneous
+2 | limestone | sedimentary calcium shell | igneous
+2 | coal rock | sedimentary plant remains | igneous
+2 | marble | metamorphic limestone | sandstone
+2 | slate | metamorphic shale | granite
+2 | quartzite | metamorphic sandstone | limestone
+2 | gneiss | metamorphic banding granite | sedimentary
+2 | rock melt | magma | sediment
+2 | rock heat pressure | metamorphic | igneous
+2 | rock cool | igneous | metamorphic
+2 | sediment cement | sedimentary | igneous
+2 | rock mineral | mixture minerals | always one element
+2 | mineral | natural inorganic solid crystal definite composition | living liquid
+2 | mineral identify | hardness streak luster cleavage | size alone
+2 | hardness | scratch resistance mohs | mass
+2 | streak | powdered mineral color | crystal shape
+2 | luster | reflected light shiny dull | density
+2 | cleavage | flat surfaces break planes | irregular
+2 | fracture mineral | irregular broken surfaces | flat planes
+2 | quartz | hardness seven crystal | softest
+2 | diamond | hardest carbon | softest
+2 | talc | softest mohs one | hardest
+2 | calcite acid | fizz carbonate dioxide reaction |
+2 | magnetite | magnetic iron | transparent
+2 | weathering | break rock in place | transport
+2 | physical weathering | ice root abrasion temperature | chemical dissolution
+2 | chemical weathering | acid oxidation dissolve water | freeze only
+2 | freeze rock crack | weathering expansion ice | erosion
+2 | ice road crack | weathering expansion freeze | erosion
+2 | root rock crack | physical weathering growth | deposition
+2 | water rock freeze | expand weathering | contract
+2 | acid limestone | chemical weathering dissolve | physical only
+2 | rust rock | chemical weathering oxidation | physical only
+2 | erosion | transport sediment water wind ice gravity | breaking in place
+2 | deposition | drop settle sediment slow water | carry away
+2 | weathering erosion | break transport | create magma
+2 | erosion river | water carry soil sediment | freezing cracks
+2 | erosion wind | transport sand dune | rock expansion
+2 | erosion glacier | ice carry pluck rock | only melt
+2 | erosion gravity | landslide mass movement | evaporation
+2 | erosion prevention | vegetation roots cover terraces | remove plants
+2 | soil plant roots | hold soil prevent erosion | increase erosion
+2 | deforestation erosion | increase runoff soil loss | decrease
+2 | river speed sediment | fast carry large slow deposit | slow carry large
+2 | river bend outer | faster erosion | deposition
+2 | river bend inner | slower deposition | erosion
+2 | river delta | sediment deposition mouth | mountain erosion
+2 | alluvial fan | sediment deposition slope base | glacier only
+2 | canyon | river erosion long time | wind deposition only
+2 | valley glacier | u shape ice | v shape
+2 | valley river | v shape water | u shape
+2 | dune | wind deposition sand | chemical weathering
+2 | beach | wave sediment deposition | tectonic only
+2 | barrier island | sand wave deposition | volcanic only
+2 | glacier evidence | striation valley till erratic | dune
+2 | soil | weathered rock organic humus air water | only sand
+2 | humus | decomposed organic matter nutrients | fresh bedrock
+2 | topsoil | humus nutrients roots | bedrock
+2 | soil formation | weathering decomposition long time | immediate
+2 | soil fertility | humus nutrients decomposer | pure sand
+2 | sand soil | large particle fast drainage low retention | slowest drainage
+2 | clay soil | small particle slow drainage high retention | fast drainage
+2 | silt soil | medium particle | largest
+2 | loam | sand silt clay humus good plant | pure clay
+2 | soil permeability | connected pores water flow | color
+2 | porosity | pore space | weight
+2 | permeable | water passes gravel sand | solid clay
+2 | impermeable | block water clay bedrock | coarse sand
+2 | groundwater | water pores rock soil | only river
+2 | aquifer | permeable rock stores groundwater | solid iron
+2 | water table | top saturated zone | ocean surface
+2 | well | groundwater aquifer | upper atmosphere
+2 | groundwater pollution | chemical leak pesticide fertilizer transport |
+2 | recharge aquifer | infiltration precipitation | evaporation only
+2 | fossil | preserved remains trace ancient organism | recent living
+2 | fossil formation | sediment rapid burial hard parts | molten lava
+2 | fossil sedimentary | preserved layers | igneous heat
+2 | fossil evidence | past environment evolution age | exact daily weather
+2 | marine fossil mountain | once underwater uplift | always land
+2 | index fossil | widespread short time rock correlation | long time local
+2 | superposition | oldest bottom youngest top undisturbed | oldest top
+2 | relative age | older younger compare layers | exact years
+2 | absolute age | radiometric radioactive decay years | layer position only
+2 | cross cutting | fault intrusion younger rock cut | older
+2 | intrusion age | younger surrounding rock | older
+2 | unconformity | gap erosion missing record | complete record
+2 | carbon14 | recent organic remains radioactive age | oldest earth rocks
+2 | rock radiometric | radioactive decay half life | size color
+2 | fossil similar | common ancestor evolution | identical age always
+2 | earth age | billion 4.6 | million six
+2 | geologic time | long millions billions | days only
+2 | atmosphere | nitrogen oxygen gas | mostly carbon dioxide
+2 | atmosphere protect | ultraviolet meteor temperature | remove gravity
+2 | troposphere | weather clouds lowest | ozone main
+2 | stratosphere | ozone ultraviolet | most weather
+2 | mesosphere | meteors burn | weather
+2 | thermosphere | ionosphere aurora | clouds rain
+2 | air pressure altitude | decrease higher less air | increase
+2 | air density altitude | decrease | increase
+2 | air temperature altitude troposphere | decrease | increase
+2 | warm air | expands lower density rises | sinks
+2 | cold air | denser sinks | rises
+2 | wind | air high pressure low pressure | low high
+2 | wind cause | uneven solar heating pressure difference | moonlight
+2 | sea breeze day | ocean land cool air | land ocean
+2 | land breeze night | land ocean cool air | ocean land
+2 | coast day | land warms faster sea breeze | ocean warms faster
+2 | coast night | land cools faster land breeze | ocean cools faster
+2 | convection atmosphere | warm rise cold sink wind | conduction only
+2 | coriolis | earth rotation curved wind current | moon gravity
+2 | weather | short term atmospheric condition | long average
+2 | climate | long term average weather | single storm
+2 | climate latitude | equator warm poles cold sunlight angle | same everywhere
+2 | equator sunlight | direct concentrated warmer | oblique
+2 | pole sunlight | low angle spread colder | direct
+2 | climate altitude | higher colder | warmer
+2 | climate ocean | moderate less temperature variation | greater variation
+2 | rain shadow | dry leeward wet windward mountain | wet both equally
+2 | windward mountain | rising cool condensation rain | warm dry
+2 | leeward mountain | sinking warming dry | wet cool
+2 | water cycle | evaporation condensation precipitation runoff | creation destruction
+2 | evaporation water cycle | sun heat liquid vapor | cooling vapor
+2 | condensation water cycle | cool vapor cloud droplet | heat liquid
+2 | precipitation water cycle | rain snow hail sleet fall | vapor rises
+2 | transpiration | plant leaf release vapor | absorb soil only
+2 | infiltration | water enter soil | vapor air
+2 | runoff | water surface flow | underground only
+2 | watershed | area drains common river | single aquifer only
+2 | cloud formation | vapor cool condense droplets dust | vapor heat
+2 | cloud high air | expanding cooling condensation | compression heating
+2 | humidity | water vapor air | liquid river
+2 | relative humidity | percent saturation temperature | rain amount
+2 | dew point | condensation saturation temperature | boiling
+2 | saturated air | humidity 100 condensation vapor |
+2 | fog | cloud ground condensation | smoke only
+2 | rain | liquid precipitation | frozen
+2 | snow | ice crystal precipitation | liquid
+2 | hail | layered ice thunderstorm updraft | dew
+2 | sleet | frozen raindrop | gas
+2 | freezing rain | liquid freezes contact surface | snowflake
+2 | thunder | rapidly expanding air lightning heat sound | cloud collision
+2 | lightning thunder | light faster sound | sound faster
+2 | thunderstorm | warm humid rising unstable air | cold dry only
+2 | tornado | rotating funnel thunderstorm low pressure | ocean tide
+2 | hurricane | warm ocean energy low pressure rotating | cold dry land
+2 | hurricane weaken | land cold dry | warm ocean moisture
+2 | hurricane safety | shelter inland away coast | beach
+2 | tornado safety | basement interior low room | windows car outdoors
+2 | flood safety | higher ground avoid flowing water | cross flood
+2 | lightning safety | indoors avoid tall trees water | open field tree
+2 | cold front | cold pushes warm up storm temperature decrease | gradual warming
+2 | warm front | warm over cold layered clouds steady rain | abrupt
+2 | stationary front | air masses stalled prolonged cloud rain | rapid move
+2 | low pressure weather | rising cloudy precipitation | clear sinking
+2 | high pressure weather | sinking clear dry | stormy rising
+2 | weather predict | pressure wind humidity cloud satellite | astrology
+2 | barometer | air pressure | temperature
+2 | thermometer | temperature | humidity
+2 | anemometer | wind speed | direction
+2 | wind vane | wind direction | speed
+2 | hygrometer | humidity | wind
+2 | rain gauge | precipitation amount | temperature
+2 | isobar | equal pressure map | equal temperature
+2 | isotherm | equal temperature | equal pressure
+2 | ocean salinity | dissolved salt | density alone
+2 | ocean salt | weathered rock runoff | sunlight
+2 | ocean current | wind density rotation | earthquakes only
+2 | deep ocean current | cold salty dense sinks | warm fresh sinks
+2 | gulf stream | warm current climate | cold glacier
+2 | upwelling | cold nutrient rich deep water surface | warm depleted
+2 | ocean wave cause | wind | sun rotation only
+2 | tsunami cause | earthquake seafloor movement | normal wind
+2 | tide | moon gravity sun | wind alone
+2 | spring tide | new full moon aligned high range | quarter moon
+2 | neap tide | quarter moon right angle low range | full aligned
+2 | high tide | gravitational bulge | evaporation
+2 | freshwater | river lake glacier groundwater | ocean
+2 | earth water | ocean saltwater most | drinkable most
+2 | freshwater majority | ice glacier storage | ocean
+2 | drinking water | filter disinfect | add pollution
+2 | potable | safe drinking | saltwater untreated
+2 | desalination | remove salt seawater distillation | add salt
+2 | sewage treatment | bacteria filter clean water | untreated release
+2 | drought | low precipitation water shortage | excess rain
+2 | flood | excess rain runoff | long dry
+2 | wetland | filter water habitat flood absorption | barren land
+2 | renewable | solar wind hydroelectric geothermal biomass | coal oil gasoline natural gas
+3 | nonrenewable | coal oil natural gas uranium | solar wind
+2 | renewable energy | replenished sun wind water | coal gasoline
+2 | fossil fuel | coal petroleum natural gas ancient organism | wind
+2 | coal formation | ancient swamp plant heat pressure | volcanic lava
+2 | oil formation | ancient marine organisms heat pressure | recent trees
+2 | fossil fuel burn | dioxide pollution greenhouse | oxygen increase
+2 | solar energy | sunlight renewable clean | coal fuel
+2 | wind energy | moving air turbine renewable | fossil
+2 | hydroelectric | flowing falling water turbine generator | burning coal
+2 | geothermal | earth internal heat | wind
+2 | biomass | organic material plant waste fuel | uranium
+2 | nuclear energy | uranium fission nonrenewable low dioxide radioactive waste | fossil burning
+2 | energy conserve home | insulation efficient lights turn off | leave on
+2 | resource conserve | reduce reuse recycle | waste
+2 | recycling | conserve material energy reduce landfill | increase waste
+2 | renewable resource | tree forest water replenished | coal ore
+2 | nonrenewable resource | mineral ore fossil fuel finite | tree sunlight
+2 | fossil supply | limited depleted long formation | infinite
+2 | pollution air | burning fuel smoke vehicle sulfur nitrogen | clean water
+2 | pollution water | sewage fertilizer oil pesticide | pure rain
+2 | pollution thermal | warmer water lower oxygen fish harm | higher oxygen
+2 | greenhouse effect | absorb infrared trap heat atmosphere | ozone hole only
+2 | greenhouse gas | dioxide methane vapor | oxygen nitrogen
+2 | global warming | greenhouse dioxide burning fossil deforestation | ozone alone
+2 | global warming effect | melt ice sea level rise climate | sea level fall
+2 | warming ocean | thermal expansion sea level rise | contraction
+2 | deforestation carbon | dioxide increase photosynthesis decrease | dioxide decrease
+2 | acid rain cause | sulfur dioxide nitrogen oxide fuel | oxygen
+2 | acid rain effect | lower ph damage forest lake limestone | higher ph
+2 | ozone | ultraviolet protect stratosphere | greenhouse primary
+2 | ozone depletion | cfc ultraviolet increase | less ultraviolet
+2 | fertilizer runoff | algae bloom eutrophication oxygen decrease | oxygen increase
+2 | eutrophication | nutrients algae decomposer oxygen loss fish die | oxygen gain
+2 | pesticide food chain | biomagnification highest top predator | lowest top
+2 | invasive species | competition native disruption | always beneficial
+2 | habitat loss | population decline extinction | biodiversity increase
+2 | biodiversity protect | habitat preserve pollution reduce | deforestation
+2 | agriculture soil conserve | crop rotation contour terraces cover | overgrazing
+2 | overgrazing | erosion desertification | rich soil
+2 | urban pavement | runoff increase infiltration decrease | infiltration increase
+2 | population resource | demand competition increase limited | unlimited
+2 | sustainable | meet needs preserve future resources | exhaust
+# SPACE SCIENCE
+2 | solar system | sun planets moon asteroid comet gravity | galaxy only
+2 | star | hot gas plasma nuclear fusion own light | reflected only
+2 | sun | star hydrogen helium fusion energy | planet
+2 | planet | orbits star reflected light | fusion own light
+2 | moon | natural satellite earth orbit reflected sun | own light
+2 | sun energy | fusion hydrogen helium radiation | chemical coal
+2 | sun rise | east | west
+2 | sun set | west | east
+2 | apparent sun motion | earth rotation | sun orbits earth
+2 | earth rotation | day night 24 hour axis | year
+2 | earth revolution | year 365 day orbit sun | day night
+2 | earth orbit | sun ellipse gravity | circle moon
+2 | earth tilt | seasons 23.5 axis | distance sun
+2 | seasons cause | tilted axis sunlight angle day length | distance sun
+2 | summer hemisphere | toward sun direct light longer day | away
+2 | winter hemisphere | away sun indirect light shorter day | toward
+2 | hemisphere opposite seasons | tilt | distance
+2 | equinox | equal day night spring fall | longest day
+2 | solstice summer | longest day direct sunlight | shortest
+2 | solstice winter | shortest day | longest
+2 | noon shadow | shortest sun highest | longest
+2 | morning shadow | west long | east
+2 | afternoon shadow | east long | west
+2 | sun east shadow | west | east
+2 | sun west shadow | east | west
+2 | shadow length | sun angle low longer high shorter | always same
+2 | constellation change | earth revolution orbit | stars orbit earth daily
+2 | stars apparent daily | earth rotation | revolution only
+2 | polaris | north axis | south
+2 | moon phase | lit portion viewed orbit sun | earth shadow normally
+2 | full moon | earth between sun moon | moon between earth sun
+2 | new moon | moon between sun earth dark | earth between
+2 | quarter moon | right angle half lit | earth shadow
+2 | waxing moon | illuminated portion increase | decrease
+2 | waning moon | illuminated portion decrease | increase
+2 | moon cycle | month 29.5 day | year
+2 | lunar eclipse | earth shadow moon full | moon shadow earth new
+2 | solar eclipse | moon shadow earth new | earth shadow moon full
+2 | moon rotation revolution | same period same face synchronous |
+2 | moon gravity | less earth sixth | more earth
+2 | moon atmosphere | thin vacuum extreme temperature | thick nitrogen air
+2 | moon crater | impact meteorite | rain erosion
+2 | orbit gravity inertia | curved path attraction forward motion | straight
+2 | planet closer sun | shorter year faster orbit | slower
+2 | planet farther sun | longer year colder | shorter year
+2 | inner planet | rocky small dense mercury venus earth mars | gas giant
+2 | outer planet | large gas ice many moon rings | small rocky
+2 | mercury planet | closest sun short year rocky | largest
+2 | venus | hottest greenhouse thick dioxide | coldest
+2 | earth planet | liquid water life atmosphere | closest sun
+2 | mars | red iron oxide thin atmosphere | hottest
+2 | jupiter | largest gas giant | smallest
+2 | saturn | rings gas giant | rocky
+2 | uranus | tilted ice giant | closest
+2 | neptune | farthest planet ice giant | nearest
+2 | pluto | dwarf planet | largest planet
+2 | asteroid | rocky sun orbit belt mars jupiter | icy tail
+2 | comet | ice dust orbit sun tail | star
+2 | comet tail | away sun solar wind | toward sun
+2 | meteor | streak atmosphere burning | ground rock
+2 | meteorite | space rock ground surface | only streak
+2 | meteoroid | small rock space | atmosphere streak
+2 | galaxy | billions stars milky way | single planet
+2 | milky way | galaxy solar system | moon
+2 | universe | all galaxies space matter | only solar system
+2 | light year | distance light travels year | time
+2 | astronomical unit | earth sun distance | galaxy diameter
+2 | star color blue | hotter | colder
+2 | star color red | cooler | hotter
+2 | star brightness | luminosity distance size temperature | distance only
+2 | sun apparent bright | closest star | largest star
+2 | telescope space | clear image vacuum | atmosphere distortion
+2 | satellite | orbit gravity communication weather |
+2 | rocket | equal opposite action reaction exhaust | push air required
+2 | astronaut orbit | continuous free fall weightless gravity present | absent
+2 | space vacuum | light radiation electromagnetic | sound medium
+2 | expanding universe | redshift galaxies moving away | all approaching
+2 | redshift | wavelength longer moving away | approaching
+2 | blueshift | approaching shorter wavelength | receding
+2 | big bang | expanding universe origin | solar daily rotation
+2 | star life | nebula gravity fusion red giant white dwarf | rock cycle
+2 | massive star | supernova neutron star black hole | planet only
+2 | black hole | gravity massive dense | escape light

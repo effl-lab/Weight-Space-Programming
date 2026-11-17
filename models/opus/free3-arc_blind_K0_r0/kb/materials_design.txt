@@ -1,0 +1,64 @@
+# materials, properties and choosing materials
+Engineers choose materials based on their properties, such as strength, flexibility, hardness, weight, conductivity, transparency and cost.
+Metal is used for cooking pans, wires, tools, cars and bridges because it is strong and conducts heat and electricity.
+Wood is used for houses, furniture and handles because it is strong, light and a poor conductor of heat.
+Plastic is used for containers, toys and wire coating because it is light, waterproof, flexible and an insulator.
+Rubber is used for tires, boots, gloves and erasers because it is flexible, waterproof, grips well and insulates electricity.
+Glass is used for windows because it is transparent and waterproof, but it is brittle and breaks easily.
+Cotton and wool are used for clothing; wool keeps people warm even when wet.
+Concrete and brick are used for buildings because they are strong and do not burn.
+Steel is used for skyscrapers and bridges because it is very strong.
+Aluminum is used for cans, foil and airplanes because it is light, strong and does not rust.
+Copper is used for pipes and electrical wiring because it conducts electricity well and does not rust easily.
+Gold and silver are used in jewelry and electronics because they are shiny, do not tarnish easily and conduct electricity.
+Styrofoam and foam are used for coolers and cups because they are good insulators.
+Clay is used for pottery because it can be molded when wet and becomes hard when heated in a kiln.
+Waterproof materials such as plastic, rubber and wax keep water out; raincoats and umbrellas are made of them.
+Absorbent materials such as paper towels, sponges and cotton soak up water.
+A good material for a boat is waterproof and floats or has a shape that floats.
+A good material for a parachute is light and strong, such as nylon cloth.
+A good bridge design spreads weight and uses strong materials; triangles make structures strong.
+Arches and triangles are strong shapes used in buildings and bridges.
+Heavier objects need stronger supports.
+To keep a building cool in a hot climate, use light colored roofs, insulation and shade trees.
+Houses in cold climates have thick insulation, small windows and steep roofs that shed snow.
+Houses in hurricane areas are built with strong roofs and storm shutters.
+Houses in earthquake areas are built with flexible frames that can sway.
+Houses in flood areas are built on stilts or raised foundations.
+Natural materials come from nature, such as wood, cotton, wool, stone and leather.
+Synthetic or manufactured materials are made by people, such as plastic, nylon, polyester and glass.
+Some materials can be recycled, such as glass, aluminum, steel, paper, cardboard and some plastics.
+# testing materials and designs
+To test which material is the best insulator, wrap identical cups of hot water in different materials and measure the temperature over time.
+To test which paper towel is most absorbent, pour the same amount of water on each and measure how much water each absorbs.
+To test which material conducts electricity, place it in a circuit and see whether the bulb lights.
+To test which ramp surface has the most friction, roll the same ball down each surface and measure how far it goes.
+To test whether a magnet attracts an object, bring the magnet near it and see if it is pulled.
+To test which soil holds the most water, pour the same amount of water through equal amounts of each soil and measure the water that drains out.
+To test whether plants need light, grow identical plants with the same water and soil, some in light and some in the dark.
+To test how temperature affects dissolving, dissolve the same amount of sugar in water at different temperatures and time it.
+To find out which brand of battery lasts longest, use identical flashlights and time how long each battery keeps the bulb lit.
+To compare how fast different liquids evaporate, put equal amounts in identical containers in the same place and measure them each day.
+When testing a design, engineers build a model or prototype, test it, find problems and improve the design.
+Engineers test designs many times and make changes to improve them.
+The best solution to a design problem meets the criteria, the requirements, within the constraints such as cost, time and materials.
+Trade offs happen when improving one feature of a design makes another worse, such as stronger but heavier.
+# NY State and North American environment
+New York State has deciduous forests with maple, oak, beech and birch trees and evergreen forests of pine, spruce and hemlock in the mountains.
+Common animals in New York State include white tailed deer, gray squirrels, raccoons, black bears, red foxes, beavers, chipmunks and many birds.
+Sugar maple trees in New York are tapped in early spring to make maple syrup.
+In New York State, leaves change color and fall in autumn, and many birds migrate south.
+Lake Erie and Lake Ontario border New York State; the Hudson River flows through eastern New York into the Atlantic Ocean.
+Lake effect snow falls east of the Great Lakes, such as in Buffalo and Syracuse.
+The Appalachian Plateau and the Adirondack Mountains are regions of New York State.
+In the United States, the Sun is in the southern part of the sky at noon.
+In North America, winter months are December, January and February; summer months are June, July and August.
+In the Southern Hemisphere, such as in Australia, December is in summer.
+Hurricane season in the Atlantic Ocean is from June to November.
+Tornado Alley in the central United States has the most tornadoes.
+The Gulf Stream makes the climate of Western Europe and the east coast of the United States milder.
+California has many earthquakes because the San Andreas Fault runs through it.
+Hawaii and Alaska have active volcanoes.
+The Everglades in Florida are a large wetland.
+The Great Plains are grasslands used for farming wheat and corn and raising cattle.
+The deserts of the southwestern United States include the Mojave and Sonoran Deserts, home of the saguaro cactus.

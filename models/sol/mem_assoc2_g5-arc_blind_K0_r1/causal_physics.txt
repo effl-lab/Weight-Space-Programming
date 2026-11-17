@@ -1,0 +1,265 @@
+# Generation 5: hand-authored diagnostic pairs and conditioned mechanisms.
+# Signed bags, not sentences; each line is strength | cues | support | oppose.
+# Molecular and bulk descriptions must remain distinct.
+3.4 | particle identity heating | same molecule substance | enlarge
+3.4 | gas particles size | same constant | expand
+3.4 | heated gas spacing | increase expansion | shrink
+3.4 | compressed gas spacing | decrease closer | disappear
+3.4 | compressed gas molecules | same number size | destroy
+3.4 | melting molecular | same chemical composition | new substance
+3.4 | boiling bubbles composition | water vapor h2o | hydrogen oxygen
+3.4 | evaporation remaining liquid | cooling slower average kinetic |
+3.4 | evaporation fastest | molecules escape surface |
+3.4 | thermal equilibrium transfer | zero net equal temperature |
+3.4 | equal temperature particles | same average kinetic | same total
+3.4 | larger sample thermal | greater total energy particles |
+3.4 | phase change added | energy separation potential | temperature increase
+3.4 | phase change removed | energy release attraction |
+3.4 | warmer object colder | thermal energy transfer equilibrium |
+3.4 | heat direction | higher temperature lower |
+3.4 | cold object warms | energy absorbed surroundings |
+3.4 | hot object cools | energy released surroundings |
+3.4 | metal spoon plastic | metal faster conduction |
+3.4 | insulation trapped | air poor conductor |
+3.4 | vacuum heat transfer | radiation | convection conduction
+3.4 | convection sinking | cool dense fluid |
+3.4 | convection rising | warm less dense fluid |
+3.4 | convection solid | conduction | fluid circulation
+3.4 | burner water circulation | convection density |
+3.4 | solar cooker shiny | reflection focus radiation |
+3.4 | solar cooker black | absorption thermal energy |
+3.4 | black white sunlight | black absorbs more |
+3.4 | white roof sunlight | reflection reduced heating |
+3.4 | wet skin wind | evaporation faster cooling |
+3.4 | humid skin cooling | evaporation slower |
+3.4 | refrigerator coils | release heat surroundings |
+3.4 | refrigerator inside | thermal energy removed |
+3.4 | air conditioner outside | heat released |
+3.4 | heat pump input | electrical work |
+3.4 | cooling liquid thermometer | contraction volume decrease |
+3.4 | warming liquid thermometer | expansion volume increase |
+3.4 | bimetal strip | unequal expansion bending |
+3.4 | loose lid warm | metal expansion diameter |
+3.4 | boiling altitude increase | lower pressure lower temperature |
+3.4 | pressure cooker temperature | higher boiling point |
+3.4 | wet bulb temperature | evaporation lower cooling |
+3.4 | freezing salt road | lower freezing point |
+3.4 | salt ice melting | freezing point depression |
+3.4 | evaporation salt residue | water leaves solid remains |
+3.4 | distilling saltwater condensate | pure water freshwater | salt
+3.4 | boiling saltwater vapor | water | sodium chloride
+3.4 | saltwater particle | dissolved ions |
+3.4 | sugarwater particle | dissolved molecules |
+3.4 | dissolution recover sugar | evaporate crystallize | filter
+3.4 | suspension separation | filtration settling |
+3.4 | dissolved substances separation | distillation evaporation chromatography |
+3.4 | oil water separation | density immiscible decant |
+3.4 | salt iron mixture | magnet dissolution evaporation |
+3.4 | sand salt mixture | dissolve filter evaporate |
+3.4 | grain different sizes | sieve screening |
+3.4 | identify unknown substance | density melting boiling characteristic |
+3.4 | chemical identity preserved | physical change |
+3.4 | chemical identity changed | reaction new substance |
+3.4 | bonds broken formed | chemical reaction |
+3.4 | atoms rearranged conserved | chemical reaction |
+3.4 | gas forming liquid reaction | evidence chemical change |
+3.4 | precipitate forming solution | insoluble solid chemical |
+3.4 | reactant product mass | conservation equal closed |
+3.4 | sealed container burning | mass conserved |
+3.4 | open container gas | apparent mass loss escaping |
+3.4 | open container rust | mass increase oxygen |
+3.4 | steel wool burning | oxygen combination mass increase |
+3.4 | rusty nail composition | iron oxygen compound |
+3.4 | burning fuel carbon | carbon dioxide oxygen |
+3.4 | complete combustion products | dioxide water |
+3.4 | incomplete combustion products | monoxide soot |
+3.4 | combustion oxygen limited | incomplete monoxide |
+3.4 | carbon monoxide danger | oxygen transport hemoglobin |
+3.4 | vinegar limestone bubbles | carbon dioxide |
+3.4 | baking soda acid gas | carbon dioxide |
+3.4 | acid metal bubbles | hydrogen |
+3.4 | hydrogen oxygen explosion | chemical water energy |
+3.4 | electrolysis energy input | electric chemical |
+3.4 | battery chemical reaction | electricity energy conversion |
+3.4 | catalyst reaction unchanged | lower activation energy |
+3.4 | enzyme catalyst temperature | optimum denature |
+3.4 | powdered tablet reaction | greater surface area faster |
+3.4 | crowded particles reaction | collisions concentration faster |
+3.4 | low temperature reaction | slower fewer effective collisions |
+3.4 | endothermic surroundings temperature | decrease cooling |
+3.4 | exothermic surroundings temperature | increase heating |
+3.4 | element decomposition | chemical indivisible | simpler substances
+3.4 | compound decomposition | chemical simpler substances |
+3.4 | mixture separation physical | components original properties |
+3.4 | homogeneous throughout | uniform solution |
+3.4 | heterogeneous throughout | different components |
+3.4 | pure sample composition | fixed characteristic |
+3.4 | atom empty region | electron cloud space |
+3.4 | atom positive center | nucleus protons |
+3.4 | atom negative exterior | electrons |
+3.4 | nucleus electrical charge | positive |
+3.4 | atomic identity change | protons number |
+3.4 | ion formation nucleus | unchanged protons |
+3.4 | isotope same chemical | protons electrons |
+3.4 | isotopes different mass | neutrons |
+3.4 | electron outermost interaction | chemical bonding valence |
+3.4 | metal wire ductile | drawn stretched |
+3.4 | metal sheet malleable | hammered flattened |
+3.4 | metal electron mobility | conduction electric |
+3.4 | brittle bending | breaks shatters |
+3.4 | ceramic handle | thermal insulation |
+3.4 | acid neutralizing | base salt water |
+3.4 | base neutralizing | acid salt water |
+3.4 | dilute acid ph | increase toward seven |
+3.4 | dilute base ph | decrease toward seven |
+3.4 | ph decreasing | acidity increase |
+3.4 | ph increasing | alkaline | acid
+# Mechanics: compare one quantity at a time.
+3.4 | net force zero | rest constant velocity | acceleration
+3.4 | net force nonzero | acceleration |
+3.4 | motion straight constant | balanced force |
+3.4 | motion circular constant | acceleration direction centripetal |
+3.4 | circular force inward | centripetal |
+3.4 | circular string released | tangent straight inertia |
+3.4 | accelerating car passenger | inertia backward |
+3.4 | stopping car passenger | inertia forward |
+3.4 | seatbelt restraining | inertia force deceleration |
+3.4 | airbag collision | longer stopping time smaller force |
+3.4 | catching ball hands | longer stopping time reduce force |
+3.4 | helmet foam | absorb energy longer stopping time |
+3.4 | crumple zone | longer collision time reduced force |
+3.4 | force opposing sliding | friction |
+3.4 | friction consequence | thermal energy slowing |
+3.4 | friction helpful | traction walking brakes grip |
+3.4 | friction harmful | wear heat wasted energy |
+3.4 | lubrication purpose | reduce friction wear |
+3.4 | streamlined purpose | reduce drag resistance |
+3.4 | parachute area | air resistance slower descent |
+3.4 | terminal velocity forces | drag gravity equal balanced |
+3.4 | freefall vacuum mass | same acceleration |
+3.4 | gravity acts direction | center attraction |
+3.4 | orbit maintained | gravity inertia |
+3.4 | orbit falling | continuous gravity curved |
+3.4 | astronaut weightless | freefall orbit gravity | zero
+3.4 | mass planet location | constant amount matter |
+3.4 | weight planet location | gravity changes |
+3.4 | greater mass inertia | harder accelerate |
+3.4 | greater mass momentum | greater same velocity |
+3.4 | greater speed momentum | greater same mass |
+3.4 | greater height energy | gravitational potential |
+3.4 | greater speed energy | kinetic |
+3.4 | dropped ball energy | potential kinetic |
+3.4 | falling object kinetic | increase |
+3.4 | thrown upward kinetic | decrease |
+3.4 | thrown upward potential | increase |
+3.4 | projectile top vertical | zero velocity |
+3.4 | pendulum center speed | maximum |
+3.4 | pendulum extreme speed | zero |
+3.4 | rollercoaster lowest | fastest kinetic |
+3.4 | rollercoaster highest | potential |
+3.4 | bouncing ball diminishing | heat sound dissipation |
+3.4 | frictionless rollercoaster | mechanical energy conserved |
+3.4 | machine work input | greater equal output |
+3.4 | machine benefit | change force distance direction |
+3.4 | machine energy creation | impossible conservation |
+3.4 | ramp longer | smaller force greater distance |
+3.4 | inclined plane advantage | less effort longer distance |
+3.4 | lever fulcrum effort | distance torque mechanical advantage |
+3.4 | fixed pulley benefit | change direction |
+3.4 | movable pulley benefit | reduce force |
+3.4 | screw threads | inclined plane winding |
+3.4 | wedge cutting | inclined plane split |
+3.4 | gear smaller driven | faster rotation |
+3.4 | gear larger driven | slower rotation greater torque |
+3.4 | hydraulic large piston | greater force |
+3.4 | pressure narrow area | greater |
+3.4 | pressure broad area | smaller |
+3.4 | snowshoe wide | reduced pressure distributed weight |
+3.4 | sharp blade | high pressure small area |
+3.4 | fluid deeper | pressure greater |
+3.4 | object floating weight | buoyant force equal |
+3.4 | object sinking density | greater fluid |
+3.4 | object rising density | lower fluid |
+3.4 | hollow ship floats | average density displaced water |
+3.4 | ballast tank filled | mass density increase sinks |
+3.4 | balloon hot air rises | lower density buoyancy |
+# Waves, circuits, and technologies.
+3.4 | wave transports | energy | matter
+3.4 | wave particle oscillation | equilibrium vibration |
+3.4 | transverse particle direction | perpendicular |
+3.4 | longitudinal particle direction | parallel |
+3.4 | compression rarefaction | longitudinal sound |
+3.4 | sound empty space | vacuum absent medium | travel
+3.4 | light empty space | electromagnetic vacuum travel |
+3.4 | sound speed solids | fastest generally particles |
+3.4 | sound frequency doubled | octave higher pitch |
+3.4 | vibrating length shorter | higher pitch frequency |
+3.4 | vibrating tension greater | higher pitch frequency |
+3.4 | vibrating string thicker | lower pitch frequency |
+3.4 | sound loudness intensity | amplitude energy |
+3.4 | echo distance time | sound reflected round trip |
+3.4 | sound approaching source | higher frequency pitch |
+3.4 | sound receding source | lower frequency pitch |
+3.4 | light entering glass | refraction slower |
+3.4 | light leaving glass | refraction faster |
+3.4 | reflection incidence | equal angle |
+3.4 | scattering rough surface | diffuse reflection |
+3.4 | reflection smooth surface | regular image |
+3.4 | blue sky cause | scattering shorter wavelengths |
+3.4 | red sunset cause | scattering longer path |
+3.4 | rainbow sunlight droplets | refraction reflection dispersion |
+3.4 | white light prism | dispersion different wavelengths |
+3.4 | red object white | reflects red absorbs others |
+3.4 | green leaf color | reflects green |
+3.4 | object black | absorbs visible light |
+3.4 | shadow dark region | blocked light opaque |
+3.4 | translucent image | scattering blurred |
+3.4 | pinhole camera image | inverted straight light |
+3.4 | lens converging | convex focus |
+3.4 | lens diverging | concave spread |
+3.4 | convex mirror view | wide upright smaller |
+3.4 | concave mirror parallel | focus convergence |
+3.4 | nearsighted correction | concave diverging |
+3.4 | farsighted correction | convex converging |
+3.4 | current electrons wire | moving electric charge |
+3.4 | circuit complete conducting | closed current |
+3.4 | circuit gap broken | open | current
+3.4 | switch open bulb | off | light current
+3.4 | switch closed bulb | on current light |
+3.4 | short circuit risk | excessive current overheating fire |
+3.4 | circuit breaker safety | interrupt excess current |
+3.4 | fuse safety wire | melts interrupts current |
+3.4 | wet hands electric | shock risk water conduction |
+3.4 | grounded appliance | safe path charge |
+3.4 | parallel bulb removed | others remain lit |
+3.4 | series bulb removed | circuit broken dark |
+3.4 | parallel branches voltage | same |
+3.4 | series components current | same |
+3.4 | series batteries voltage | add increase |
+3.4 | circuit resistance greater | current smaller |
+3.4 | wire thinner resistance | increase |
+3.4 | wire shorter resistance | decrease |
+3.4 | magnet iron filings | field pattern |
+3.4 | magnet cut halves | both poles each piece |
+3.4 | magnet like ends | repel |
+3.4 | magnet opposite ends | attract |
+3.4 | compass alignment | magnetic field earth |
+3.4 | electromagnet coil turns | more stronger |
+3.4 | electromagnet current | stronger magnetic field |
+3.4 | electromagnet core | soft iron stronger |
+3.4 | generator principle | induction moving magnetic field |
+3.4 | motor principle | force current magnetic field |
+3.4 | transformer principle | electromagnetic induction alternating |
+3.4 | solar panel output | electric electricity |
+3.4 | solar thermal collector | heat water |
+3.4 | speaker output | sound vibration |
+3.4 | microphone output | electrical signal |
+3.4 | photovoltaic input | sunlight light radiation |
+3.4 | fuel cell input | hydrogen oxygen chemical |
+3.4 | hydroelectric turbine | moving water mechanical electric |
+3.4 | wind turbine output | electric electricity |
+3.4 | nuclear station turbine | steam thermal mechanical |
+3.4 | geothermal station source | earth internal heat |
+3.4 | efficiency waste | thermal sound energy |
+3.4 | rechargeable battery charging | electrical chemical stored |
+3.4 | battery discharging | chemical electrical |

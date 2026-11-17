@@ -1,0 +1,86 @@
+# ---------------- earth motions ----------------
+rotation day night: rotation rotate rotates rotating spins spin axis day night 24 hours daily
+revolution year: revolution revolve revolves orbit orbits around sun year 365 days annual
+seasons tilt: seasons tilt tilted axis 23 degrees tilting angle sunlight direct indirect summer winter
+equinox solstice: equinox solstice equal day night longest shortest june december march september
+day length: daylight hours length day
+sunrise east: sun rises rise sunrise east eastern morning dawn
+sunset west: sun sets set sunset west western evening dusk
+shadows sun: shadow shadows sun position noon length shortest longest stick direction
+north star: north star polaris navigation compass direction
+apparent motion: sun moves across sky apparent motion stars appear move
+# ---------------- moon ----------------
+moon: moon moons natural satellite orbits earth lunar
+moon phases: phases phase new full crescent gibbous quarter waxing waning
+moon light: moon reflects reflected sunlight light shine glows own
+moon cycle: month 28 29 days cycle phases repeat
+moon surface: craters crater impacts meteorites moon surface
+moon gravity: moon gravity weaker sixth weigh less weight
+tides moon: tides moon gravity pull oceans spring neap
+eclipse solar: solar eclipse moon between sun earth blocks shadow
+eclipse lunar: lunar eclipse earth between sun moon shadow
+moon no atmosphere: no atmosphere air water moon craters temperature extremes
+# ---------------- sun and stars ----------------
+sun: sun star nearest closest center solar system
+sun energy: sun energy light heat radiation radiant nuclear fusion hydrogen helium
+fusion: fusion nuclear hydrogen helium stars energy produced
+stars: star stars gas balls hot glowing luminous light shine
+star color: star color temperature
+blue stars hot: blue white stars hottest
+red stars cool: red stars coolest
+star brightness: brightness bright brighter apparent magnitude distance luminosity
+star life cycle: nebula protostar main sequence red giant white dwarf supernova neutron black hole
+constellations: constellation constellations patterns stars big dipper orion
+galaxy: galaxy galaxies milky way spiral elliptical billions stars
+universe: universe big bang expanding cosmos
+light year: light year distance light travels stars far
+sun size: sun medium sized average star appears larger closer
+# ---------------- solar system ----------------
+solar system: solar system planets orbit sun eight
+inner planets: inner terrestrial rocky planets mercury venus earth mars
+outer planets: outer gas giants jovian planets jupiter saturn uranus neptune
+mercury: mercury closest sun smallest planet
+venus: venus hottest planet thick clouds carbon dioxide greenhouse
+earth planet: earth third planet liquid water life atmosphere
+mars: mars red planet iron oxide rovers dust
+jupiter: jupiter largest planet great red spot gas giant moons
+saturn: saturn rings ring ice particles
+uranus neptune: uranus neptune icy blue methane distant
+pluto: pluto dwarf planet kuiper belt
+asteroids: asteroid asteroids belt rocky between mars jupiter
+comets: comet comets ice dust tail tails icy orbit elongated
+meteors: meteor meteors meteorite meteorites meteoroid shooting star burn atmosphere
+gravity orbits: gravity keeps planets orbit orbits sun pull mass
+orbit shape: elliptical ellipse orbit orbits oval
+planet distance: farther distance sun longer orbit year colder
+# ---------------- space exploration ----------------
+telescope: telescope telescopes distant far objects stars planets observe hubble
+space probe: probe probes rover rovers spacecraft satellites space exploration nasa
+satellites: satellite satellites orbit communication gps weather images
+astronauts: astronaut astronauts space station shuttle weightless spacesuit
+rocket: rocket rockets thrust launch fuel escape
+# ---------------- natural resources and energy sources ----------------
+renewable: renewable resource resources replaced replenished naturally sun solar wind water hydroelectric geothermal biomass trees forests
+nonrenewable: nonrenewable resource resources limited supply cannot replaced coal oil petroleum natural gas gasoline fossil fuels minerals uranium
+fossil fuels: fossil fuel fuels coal oil petroleum natural gas formed ancient remains plants animals millions years burned burning
+solar energy: solar energy panels panel cells sunlight sun electricity
+wind energy: wind turbines turbine windmill windmills electricity
+hydroelectric: hydroelectric dam dams flowing falling water river turbines electricity
+geothermal: geothermal heat earth interior hot springs
+biomass: biomass wood plants ethanol corn burning
+nuclear energy: nuclear energy power plant uranium fission radioactive waste
+conservation resources: conserve conservation reduce reuse recycle recycling save saving resources
+recycling: recycle recycling recycled aluminum cans paper plastic glass bottles
+reduce waste: reduce waste landfill landfills garbage trash
+energy conservation: turn off lights energy efficient insulation save electricity
+water conservation: conserve water shorter showers turn faucet leaks
+pollution: pollution pollute polluted pollutants contamination contaminate
+air pollution: air pollution smog smoke exhaust emissions factories cars burning
+water pollution: water pollution sewage oil spill chemicals runoff fertilizer pesticides
+acid rain: acid rain sulfur nitrogen oxides burning coal damages lakes forests statues
+land pollution: land pollution litter landfills trash dumping
+pesticides: pesticides pesticide insecticide ddt chemicals spray crops insects
+fertilizer: fertilizer fertilizers nitrogen phosphorus nutrients crops growth runoff
+mining: mining mine mines ore minerals extract
+soil conservation: crop rotation contour plowing terracing conservation farming
+human impact: humans impact affect environment population growth

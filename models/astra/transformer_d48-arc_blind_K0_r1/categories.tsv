@@ -1,0 +1,78 @@
+# Concept family | broader semantic categories
+# Membership only: part-of links and general causal associations belong in rules.tsv.
+# These are semantic concept families; aliases can include characteristic words.
+tree | plant
+grass | plant
+cactus | plant
+plant | producer
+algae | producer
+producer | life
+animal | consumer
+consumer | life
+vertebrate | animal
+invertebrate | animal
+mammal | vertebrate
+bird | vertebrate
+reptile | vertebrate
+amphibian | vertebrate
+fish | vertebrate
+insect | invertebrate
+worm | invertebrate
+herbivore | consumer
+carnivore | consumer
+omnivore | consumer
+decomposer | consumer
+fungi | consumer
+bacteria | life
+protist | life
+rabbit | mammal herbivore
+lion | carnivore predator
+human | mammal omnivore
+bear | mammal omnivore
+predator | consumer
+prey | life
+copper | metal
+iron | metal
+aluminum | metal
+silver | metal
+gold | metal
+metal | conductor
+coal | nonrenewable chemicalenergy
+petroleum | nonrenewable chemicalenergy
+naturalgas | nonrenewable chemicalenergy
+solar | renewable
+windpower | renewable
+hydroelectric | renewable
+geothermal | renewable
+biomass | renewable
+igneous | rock
+sedimentary | rock
+metamorphic | rock
+solid | matter
+liquid | matter
+gas | matter
+plasma | matter
+element | matter
+compound | matter
+mixture | matter
+solution | mixture
+oxygen | element
+hydrogen | element
+carbon | element
+nitrogen | element
+helium | element
+silicon | element
+sulfur | element
+calcium | element
+sodium | element
+chlorine | element
+water | compound
+carbondioxide | compound
+salt | compound
+infrared | radiation
+ultraviolet | radiation
+radio | radiation
+xray | radiation
+mutualism | symbiosis
+parasitism | symbiosis
+commensalism | symbiosis

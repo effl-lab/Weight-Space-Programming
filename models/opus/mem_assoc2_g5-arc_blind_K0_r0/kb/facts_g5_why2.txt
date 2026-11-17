@@ -1,0 +1,168 @@
+# Generation 5: more "what happens when", "most likely result", "which best explains" rules.
+# --- matter and heat
+candle covered jar goes out > oxygen used up
+fire goes out without > oxygen
+fire needs oxygen > blanket smother covers
+heat moves soup spoon > from soup into spoon conduction
+heat moves > from hot to cold warmer to cooler
+heat flows hand ice > from hand to ice
+cold feels > heat leaving body
+pond freezes fish survive > ice floats insulates water below
+lakes freeze top first > ice floats less dense
+ice forms on top of lakes > ice less dense floats
+gas spreads fill container > gas particles move freely
+gas evidence > fills container no definite shape volume
+liquid evidence > takes shape of container definite volume poured
+solid evidence > definite shape definite volume
+vinegar chalk bubbles > gas chemical reaction carbon dioxide
+vinegar baking soda > carbon dioxide gas chemical reaction
+alka seltzer water > gas bubbles chemical reaction
+steel wool rusts > oxygen water chemical change
+apple slice turns brown > oxygen chemical change
+copper penny green > chemical reaction oxygen
+burning > oxygen heat light new substances
+water boiling bubbles > water vapor gas
+soda fizz > carbon dioxide dissolved
+warm soda > less gas dissolved goes flat faster
+cold water holds more oxygen > fish
+dissolving faster > higher temperature stirring smaller pieces
+salt water boils > higher temperature raises boiling point
+salt water freezes > lower temperature lowers freezing point
+evaporation faster > heat wind larger surface area low humidity
+wet towel dries faster > spread out sunlight wind
+clothes dry outside > evaporation sun wind
+sweat cools > evaporation removes heat
+rubbing alcohol skin cool > evaporates quickly
+air conditioner > removes heat moves heat outside
+refrigerator > moves heat out of inside
+thermometer liquid rises > expands heated
+hot air rises > less dense
+cold air sinks > more dense
+heater room warms > convection currents
+upstairs warmer > hot air rises
+# --- forces and motion
+heavier ball harder to stop > more mass more inertia
+rolling ball stops > friction
+ball rolls forever without > friction
+moving object keeps moving > inertia no friction
+object at rest stays > inertia balanced forces
+push harder > greater acceleration
+same force more mass > less acceleration
+gravity earth > pulls objects down 9.8
+objects dropped same time > land same time no air resistance
+skydiver parachute opens > air resistance increases slows
+rocket moves up > gases pushed down action reaction
+swimmer pushes water back > moves forward reaction
+balloon released air > moves opposite direction action reaction
+two people push equal > balanced forces no motion
+tug of war equal > no movement balanced
+tug of war unequal > moves toward stronger
+speed increase > acceleration
+car turning > acceleration change direction
+moon orbit earth > gravity
+satellites stay in orbit > gravity speed
+tides > moon gravity
+# --- energy
+solar panel electricity > light to electrical energy changes form
+flashlight > chemical electrical light
+wind turbine > kinetic to electrical
+dam generator > water kinetic electrical
+toaster > electrical to thermal heat
+electric heater > electrical to thermal
+blender > electrical to mechanical
+radio > electrical to sound
+television > electrical light sound
+cell phone battery > chemical to electrical
+plants photosynthesis > light to chemical
+eating food > chemical energy body
+muscles move > chemical to mechanical kinetic
+firewood burning > chemical to heat light
+car engine gasoline > chemical to mechanical heat
+rubbing hands > mechanical to thermal friction
+energy cannot > created destroyed
+energy example change form > solar panel electricity battery flashlight burning
+energy loss machines > heat friction
+efficient > less wasted energy heat
+# --- earth processes
+grand canyon formed > colorado river eroded rock millions years
+canyon > river erosion over time
+mountains wear down > weathering erosion over time
+rounded mountains > old eroded
+sharp tall mountains > young
+delta > river deposits sediment
+beach sand > waves weathering rocks shells
+sand dunes move > wind
+glacier valley > u shaped erosion ice
+hawaiian islands formed > volcanoes hot spot
+new crust > mid ocean ridge volcano
+plates move > few centimeters each year slowly
+plates move speed >! meters each day
+earthquake cause > plates move release stress fault
+tsunami cause > earthquake under ocean
+contour plowing > slow runoff reduce soil erosion
+farmers rows follow curves hill > slow water runoff reduce erosion
+terraces hills > reduce erosion runoff
+cover crops > protect soil erosion
+dust bowl > drought wind erosion plowing
+deserts cold at night > dry air few clouds heat escapes quickly
+cloudy nights warmer > clouds trap heat
+clear nights colder > heat escapes
+humid places night > water vapor holds heat
+moon changes position sky night > earth rotates
+sun moves across sky > earth rotates
+stars move across sky > earth rotates
+moon phases model > moon orbiting earth
+moon phases > moon orbits earth lit half sunlight
+eclipse model > sun earth moon line up
+seasons model > earth tilted axis orbit sun
+day night model > earth spinning rotating globe flashlight
+time zones > earth rotates
+# --- life
+breathing rate exercise > muscles need more oxygen remove carbon dioxide
+heart rate exercise > pump more blood oxygen muscles
+sweating exercise > cool body
+plant cells animal cells difference > only plant cells cell walls chloroplasts
+plant animal cells both > nucleus cell membrane cytoplasm mitochondria
+limit population growth > predators disease food water space competition
+limiting factor rabbits > foxes predators food disease
+population grows too large > food runs out competition disease
+biodiversity important > ecosystem more stable recover from changes
+many species ecosystem > more stable recover
+one crop monoculture > disease pests risk
+seals decrease > fewer fish food
+predator food decrease > predator population decreases
+sharks decrease > prey fish increase
+otters removed > sea urchins increase kelp decrease
+adapting many generations > natural selection moths darker polluted forest
+adaptation over generations > natural selection inherited traits
+individual cannot adapt > during lifetime acquired
+bacteria resistant > overuse antibiotics natural selection
+mold faster warm moist > fungus grows warm damp
+refrigerator food > slows bacteria growth spoiling
+salting drying food > removes water bacteria cannot grow
+pasteurized milk > heat kills bacteria
+washing hands > removes germs prevent spread disease
+helmet bicycle > protects brain head injury falls
+seat belt > protects stops body moving forward inertia
+sunscreen > protects skin ultraviolet rays sunburn
+vaccine works > body makes antibodies memory immunity
+exercise effects > stronger heart muscles lungs
+smoking effects > lungs damage cancer heart disease
+# --- inquiry
+best way test fertilizer > two groups same except one gets fertilizer control group
+best way test > control group one variable changed same conditions
+share results other scientists > check repeat verify work
+scientists repeat experiments > check results reliable
+replicate = repeat experiment get same results
+scientists disagree > more evidence more experiments
+new evidence > change scientific explanations theories
+scientific knowledge > changes with new evidence
+volume irregular rock > water displacement graduated cylinder water rises
+volume rock method > place in water measure rise
+mass rock > balance
+density rock > mass volume
+bulb did not light > break in circuit open circuit loose wire dead battery
+circuit complete > bulb lights
+fuse blows > too much current
+magnet strength test > number of paper clips picked up
+moon shines > reflects sunlight light from sun surface

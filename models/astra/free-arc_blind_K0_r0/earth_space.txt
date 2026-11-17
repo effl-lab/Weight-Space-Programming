@@ -1,0 +1,389 @@
+# Earth systems, geology, weather, environment and astronomy.
+=water_cycle | evaporation condensation precipitation; recycling water | water destroyed
+water_cycle energy | sun; solar_energy; sunlight | moon
+water_cycle gravity | precipitation; runoff; groundwater | evaporation energy
+water_cycle ocean air | evaporation | precipitation
+water_cycle cloud | condensation; cooling water_vapor | melting
+water_cycle cloud ground | precipitation; rain; snow; hail | evaporation
+water_cycle plant air | transpiration | infiltration
+water_cycle ground soil | infiltration; percolation | condensation
+water_cycle ground river | runoff; gravity | photosynthesis
+runoff increase | pavement; impervious surface; steep slope; saturated soil | vegetation increase
+infiltration increase | permeable soil; plant; porous | paved surface
+water earth most | ocean; salt water | river; lake; groundwater
+fresh water largest store | glacier; ice cap | river; atmosphere
+fresh liquid water largest store | groundwater | river
+water groundwater | pores cracks rock; aquifer | underground ocean everywhere
+=aquifer | permeable rock water storage; groundwater | impermeable solid only
+water table | top saturated zone | ocean surface only
+well water | groundwater; aquifer | magma
+porosity | pore space; water storage | hardness
+permeability | water flow through; connected pore | density only
+sand clay water drain | sand faster; larger pores | clay faster
+clay water | low permeability; retains water | drains fastest
+conservation water | fix leak; shorter shower; efficient irrigation; reuse | leave tap running
+water pollution | fertilizer; sewage; industrial waste; oil | filtration treatment
+sewage treatment | remove pollutant; protect health | add pathogens
+wetland | filter water; absorb flood; habitat | no biodiversity
+watershed | land drains common river | only ocean water
+flood cause | heavy rain; rapid snowmelt; impermeable ground | drought
+flood prevention | wetland; vegetation; levee; permeable surface | remove all plants
+=weather | short term atmospheric conditions; temperature precipitation wind | long term average only
+=climate | long term weather pattern; average temperature precipitation | single storm
+weather instrument temperature | thermometer | barometer
+weather instrument pressure | barometer | thermometer
+weather instrument wind speed | anemometer | wind_vane
+weather instrument wind direction | wind_vane | rain_gauge
+weather instrument rain | rain_gauge | barometer
+weather instrument humidity | hygrometer; psychrometer | anemometer
+atmosphere most abundant | nitrogen | oxygen; carbon_dioxide
+atmosphere second abundant | oxygen | nitrogen; hydrogen
+atmosphere layer weather | troposphere | stratosphere; mesosphere
+atmosphere ozone | stratosphere; absorb ultraviolet | troposphere only
+atmosphere meteor burn | mesosphere | ocean
+atmosphere protects | ultraviolet; meteoroid; temperature regulation | all radiation blocked
+air pressure altitude | decreases; less air above | increases
+mountain air | lower pressure; less oxygen; cooler | higher pressure
+air pressure sea level | greater | lower
+wind cause | unequal heating; pressure differences | earth revolution only
+wind direction pressure | high_pressure low_pressure | low_pressure high_pressure
+wind speed pressure | greater difference faster | smaller difference faster
+warm air | expands; less dense; rises | more dense sinks
+cool air | denser; sinks | rises always
+sea breeze day | ocean land; land hotter; cool air inland | land ocean
+land breeze night | land ocean; land cool faster | ocean land
+convection atmosphere | warm air rise cool air sink | radiation only
+coriolis | earth rotation; deflect wind currents | earth revolution only
+coriolis north | right | left
+coriolis south | left | right
+high_pressure weather | clear dry; sinking air | cloudy stormy always
+low_pressure weather | cloudy rainy; rising air | clear dry always
+barometer falling | storm approaching; low_pressure | guaranteed clear
+barometer rising | fair clearing; high_pressure | storm strengthening
+humidity | water_vapor air | liquid water river
+relative_humidity | percent saturation; air moisture capacity | temperature only
+air cool humidity | relative_humidity increase; condensation | relative_humidity decrease
+warm air moisture | more water_vapor capacity | less capacity
+dew_point | condensation temperature; saturation | boiling temperature
+cloud form | warm moist air rise cool condense; water droplet ice | pure visible water_vapor
+fog | cloud ground; condensation | smoke only
+dew | condensation cool surface | rain from cloud
+frost weather | deposition; freezing temperature | evaporation only
+rain | liquid precipitation | gas only
+snow | ice crystal precipitation | liquid only
+hail | layered ice; thunderstorm updraft | calm clear weather
+sleet | frozen raindrop; ice pellet | water_vapor only
+freezing rain | liquid freezes surface | snowflake only
+cumulus | puffy cloud; fair weather | always hurricane
+cumulonimbus | thunderstorm; tall cloud; heavy rain | dry clear only
+stratus | flat layer; overcast; drizzle | towering thunderstorm only
+cirrus | high thin wispy; ice crystal | low liquid fog
+nimbus | precipitation; rain cloud | clear sky
+front | boundary air_mass | plate boundary
+cold_front | cold air pushes warm upward; thunderstorm; rapid weather change | warm over cold gentle only
+warm_front | warm rises over cold; steady rain | cold sinks under warm only
+stationary front | stalled boundary; prolonged precipitation | rapid clearing always
+occluded front | cold overtakes warm; warm lifted | ocean current only
+air_mass ocean | moist; maritime | dry only
+air_mass continent | dry; continental | humid always
+air_mass tropic | warm | cold
+air_mass polar | cold | warm
+hurricane energy | warm ocean water; evaporation; latent heat | cold land
+hurricane weaken | land; cold water; less warm moisture | warm water
+hurricane | rotating tropical storm; low_pressure; strong wind rain | dry desert only
+tornado | rotating air column; thunderstorm | ocean wave
+thunder | rapidly expanding air; lightning heat | cloud collision
+lightning thunder delay | light faster sound | sound faster light
+thunderstorm safety | indoor; avoid tall trees; away water | stand isolated tree
+tornado safety | basement; interior room; lowest floor | window; outdoors
+hurricane safety | evacuation; shelter; preparedness | beach watching
+climate latitude | sun angle; equator warm; poles cold | moon phase
+climate altitude | higher cooler | higher warmer always
+climate ocean | moderate temperature; moist | always extreme dry
+climate mountain rain shadow | windward wet; leeward dry | leeward wetter always
+ocean current climate | transport heat; warm or cool coast | no effect
+mountain windward | rising air cool precipitation | descending dry only
+mountain leeward | sinking warming dry; rain shadow | wettest side
+unequal solar heating | curved earth; sun angle; latitude | equal everywhere
+season cause | earth tilt revolution; different sunlight angle day length | earth distance sun
+summer hemisphere | tilted toward sun; longer day; direct sunlight | farther from sun
+winter hemisphere | tilted away sun; shorter day; indirect sunlight | sun stops heat
+northern summer southern | winter | summer
+northern winter southern | summer | winter
+equinox | equal day night; spring autumn | longest day
+solstice | longest shortest day; summer winter | equal day night
+sun highest sky | noon | midnight
+sunrise direction | east | west; north; south
+sun rise | east | west; north; south
+sunset direction | west | east; north; south
+sun set | west | east; north; south
+sun apparent daily motion | earth rotation; east west | sun orbits earth daily
+day night cause | earth rotation; axis | earth orbit; moon rotation
+ earth rotate period | 24 hour; one day | one year
+ earth orbit period | 365 day; one year | one day
+ earth axis tilt | 23 5; 23; tilted | zero
+moon orbit period | month; 27 day; 29 day | day; year
+moon phase cycle | 29 5 day; month; 29 day | one year
+moon light | reflect sunlight | produces own light
+moon phase cause | visible sunlit portion; orbit earth | earth shadow every night
+moon half illuminated | always half sunlight | full moon only
+new moon | between earth sun; dark side toward earth | earth between sun moon
+full moon | earth between sun moon; illuminated face | moon between earth sun
+first quarter | half visible illuminated | quarter whole moon lit only
+waxing moon | illuminated portion increase | decrease
+waning moon | illuminated portion decrease | increase
+solar eclipse | moon between sun earth; moon shadow earth | earth shadow moon
+lunar eclipse | earth between sun moon; earth shadow moon | moon shadow earth
+eclipse solar phase | new moon | full moon
+eclipse lunar phase | full moon | new moon
+eclipse not every month | tilted moon orbit | moon produces light
+moon same face | rotation equals revolution | moon never rotates
+moon no atmosphere | extreme temperature; craters preserved; no wind erosion | no gravity
+moon gravity earth | weaker; one sixth | stronger
+moon crater | meteorite impact | rain erosion
+tide cause | moon gravity; sun gravity | wind only
+tide strongest | new full moon; aligned sun moon; spring tide | quarter moon
+neap tide | quarter moon; right angle; smaller range | aligned sun moon
+spring tide | aligned sun earth moon; largest range | spring season only
+high tide cycle | about 12 hour; twice day | once year
+ocean surface current | wind; coriolis | only tide
+deep ocean current | density; temperature salinity | wind only
+salinity increase density | increase | decrease
+cold ocean water | dense; sinks | always rises
+upwelling | deep cold nutrient water rises; productive | warm nutrient poor sinks
+waves ocean energy | wind | moon phase only
+ocean salinity | dissolved salts; weathering rivers evaporation | pure fresh water
+sea level rise | melting land ice; thermal expansion | only floating ice melting
+global_warming | greenhouse gas; fossil_fuel carbon_dioxide; trapped infrared | ozone hole only
+greenhouse_effect | absorb infrared; retain heat; atmosphere warms | blocks all sunlight
+greenhouse gas | carbon_dioxide; methane; water_vapor; nitrous oxide | nitrogen; oxygen
+carbon_dioxide increase | fossil_fuel burning; deforestation | photosynthesis increase only
+reduce carbon_dioxide | renewable_energy; forest; efficiency; less fossil_fuel | burn more coal
+deforestation climate | more carbon_dioxide; less uptake; warming | less carbon_dioxide
+ice melt feedback | lower reflectivity; more absorption; warming | always cooling
+acid_rain cause | sulfur dioxide; nitrogen oxide; fossil_fuel | pure oxygen
+acid_rain effect | damage plant; acidify lake; weather limestone | increase ph always
+ozone_layer purpose | absorb ultraviolet; protect life | cause tides
+ozone depletion | cfc; chlorofluorocarbon | oxygen only
+smog | air pollution; vehicle exhaust; ozone ground | pure water
+renewable resource | wind; solar; water; geothermal; biomass | coal; petroleum; natural_gas
+renewable energy | wind; sunlight; solar; hydroelectric; geothermal; biomass | coal; gasoline; oil; petroleum; uranium
+nonrenewable resource | coal; petroleum; natural_gas; uranium | wind; sunlight
+fossil_fuel | coal; petroleum; natural_gas; ancient organism | wind; uranium
+fossil_fuel formation | buried organism; heat pressure; millions year | days
+coal origin | ancient swamp plant | recent metal
+petroleum origin | ancient marine organism | only molten rock
+fossil_fuel disadvantage | limited supply; pollution; carbon_dioxide | unlimited
+solar energy advantage | renewable; no direct air pollution | finite fuel
+wind energy advantage | renewable; no fuel combustion | always available everywhere
+solar energy limitation | night; cloudy; sunlight variable | produces coal
+wind energy limitation | intermittent; wind variable; wildlife | requires coal always
+hydroelectric | moving falling water; turbine generator; dam | burning oil
+hydroelectric disadvantage | habitat flooding; fish migration | radioactive waste
+geothermal | earth internal heat | sunlight directly
+biomass | organic matter; wood; crop; waste | uranium
+nuclear power | uranium fission; nonrenewable; radioactive waste | chemical combustion
+energy conservation | efficient appliance; insulate; turn off; reduce fuel | waste electricity
+recycle | conserve resource; reduce landfill; reuse material | make unlimited resource
+reusable product | reduce waste | increase disposable waste
+compost | decomposition; organic waste; nutrient soil | plastic only
+landfill problem | land use; pollution; methane | unlimited safe disposal
+soil erosion prevention | plant root; contour plowing; terracing; windbreak | remove vegetation
+sustainable resource | use no faster replenishment; conservation | unlimited extraction
+=rock_cycle | igneous sedimentary metamorphic; processes change rock | rocks never change
+igneous_rock | cooled magma lava; crystallization | compacted sediment only
+sedimentary_rock | compacted cemented sediment; layers; fossil | cooling magma only
+metamorphic_rock | heat pressure existing rock; no melting | molten lava cool
+rock melt | magma | sedimentary rock immediately
+magma cool | igneous_rock | metamorphic only
+lava cool surface | extrusive igneous; small crystal | large crystal always
+magma cool underground | intrusive igneous; large crystal | no crystal
+slow cooling rock | large crystal | small crystal
+rapid cooling rock | small crystal; glassy | large crystal
+=granite | igneous; slow cooling; large crystal | sedimentary
+=basalt | igneous; lava; fine grain | sedimentary
+=obsidian | volcanic glass; rapid cooling; igneous | metamorphic
+=pumice | igneous; gas bubbles; low density | sedimentary
+=sandstone | sedimentary; sand cemented | igneous
+=shale | sedimentary; clay mud | igneous
+=limestone | sedimentary; calcium carbonate; shell | igneous
+=conglomerate | sedimentary; rounded pebbles | volcanic glass
+=marble | metamorphic; limestone | cooled lava
+=slate | metamorphic; shale | cooled magma
+=quartzite | metamorphic; sandstone | coal
+=gneiss | metamorphic; banded; granite | sedimentary only
+schist | metamorphic; foliated | volcanic glass
+sedimentary rock fossil | buried preserved remains; layers | all fossil melted
+fossil rare igneous metamorphic | heat destroys remains | no life anywhere
+mineral definition | natural inorganic solid; crystal; definite composition | living organism
+mineral identify | hardness; streak; luster; cleavage; crystal | size only
+streak | powdered mineral color | whole rock shape
+cleavage | breaks flat planes | irregular fracture only
+fracture | irregular break | always flat planes
+mohs scale | hardness; scratch resistance | density
+hardest mineral | diamond; 10 | talc
+softest mineral | talc; 1 | diamond
+mineral acid test | calcite; calcium carbonate; fizz | quartz always
+rock mineral difference | rock mixture minerals | mineral mixture rocks
+ore | economically useful mineral; metal source | any soil only
+weathering | break rock in place; chemical physical | transport only
+erosion | transport sediment; wind water ice gravity | breaking in place only
+deposition sediment | settling; dropped material; slows flow | carrying faster
+mechanical weathering | freeze thaw; root crack; abrasion; temperature expansion | acid dissolving
+chemical weathering | acid rain; oxidation; dissolving; new substance | ice wedge only
+ice rock crack | water expands freezing; mechanical weathering | erosion transport
+road pavement ice crack | weathering; freeze thaw expansion | deposition; erosion transport
+root rock crack | mechanical weathering | chemical only
+acid limestone | chemical weathering; dissolving | physical only
+rust rock | oxidation; chemical weathering | mechanical only
+weathering warm wet | faster chemical weathering | slowest
+weathering freeze thaw | cold fluctuating temperature; mechanical | no water
+surface area weathering | smaller pieces faster; more area | large solid faster
+river erosion | moving water; carry sediment; canyon | rock melts
+wind erosion | carry sand dust; abrasion | root growth only
+glacier erosion | moving ice; plucking abrasion; valley | stationary water evaporation
+gravity erosion | landslide; slump; mass movement | photosynthesis
+river fast | carries larger particle; more erosion | only deposition
+river slow | deposition; sediment settle | more transport energy
+sediment settle order | largest first; coarse first | smallest first
+stream outside bend | faster; erosion | deposition most
+stream inside bend | slower; deposition | fastest erosion
+river mouth | delta; deposition; slows | mountain uplift
+alluvial fan | deposition base mountain | volcanic cone only
+sand dune | wind deposition | chemical weathering
+beach | wave deposition; sand | only magma
+canyon | river erosion; long time | only glacier deposition
+u shaped valley | glacier erosion | river only
+v shaped valley | river erosion | glacier only
+moraine | glacier deposition; till | wind dune
+soil formation | weathered rock; organic matter; time | pure sand only
+humus | decayed organic matter; nutrient | solid metal
+soil fertile | humus; nutrient; water | no organisms
+soil topsoil | organic matter; humus; roots | bedrock only
+soil bedrock | parent rock; bottom layer | top humus
+soil particle size | sand large; silt medium; clay small | clay largest
+soil plant root | hold soil; reduce erosion | increase runoff always
+earth layers | crust mantle outer_core inner_core | atmosphere only
+crust | thin outer solid rock | liquid metal center
+mantle | hot rock; convection; slowly flows | all liquid water
+outer_core | liquid iron nickel; magnetic_field | solid granite
+inner_core | solid iron nickel; high pressure | liquid water
+earth magnetic_field cause | liquid outer_core motion | ocean tide only
+lithosphere | crust upper mantle; rigid plate | liquid core
+asthenosphere | soft mantle; plates move | atmosphere
+plate_tectonics | moving lithospheric plate; mantle convection | stationary continent
+plate movement energy | earth internal heat; convection | moonlight
+continental_drift evidence | matching fossil rock coastline; continents fit | same weather only
+pangaea | ancient supercontinent | ocean current
+seafloor spreading | mid_ocean_ridge; new crust; magma | trench destroys only
+mid_ocean_ridge | divergent plate; new ocean crust | collision continental only
+seafloor youngest | near ridge | far from ridge
+seafloor oldest | far ridge; near trench | ridge center
+magnetic stripe ocean | seafloor spreading; magnetic reversal | rain patterns
+convergent_boundary | plates toward; collision; subduction; mountain | apart
+ divergent_boundary | plates apart; ridge; rift; new crust | collide
+transform_boundary | slide past; earthquake | spread apart only
+subduction | dense ocean plate sinks; trench; recycling crust | lighter continent sinks always
+continent continent collision | mountain; folded rock; himalaya | ocean ridge
+ ocean continent collision | ocean subducts; volcano; trench | continent always sinks
+ ocean ocean collision | island arc; trench; subduction | no volcano
+volcano location | plate boundary; hotspot; subduction; divergent | only continent center
+earthquake location | plate boundary; fault | only ocean center
+hotspot | mantle plume; volcano chain; hawaii | collision required always
+earthquake cause | sudden fault movement; stress release | clouds
+fault | fracture rock movement | cloud front
+focus earthquake | underground origin | surface directly above only
+epicenter | surface above focus | earth center
+seismic wave | energy earthquake; earth interior evidence | only sound in air
+p wave | compressional; solid liquid; fastest | only solid
+s wave | transverse; solid only | travels liquid
+liquid outer_core evidence | s wave blocked; p wave bent | all waves unchanged
+seismograph | record earthquake wave | weather pressure
+magnitude earthquake | energy released | only damage location
+ earthquake safety | drop cover hold; sturdy table | stand near window
+tsunami cause | underwater earthquake; seafloor displacement | normal daily tide
+tsunami ocean coast | shallow water wave grows | disappears always
+volcano lava | magma surface | ice
+volcano gas ash | atmosphere effects; hazard | only water
+volcanic soil | mineral rich; fertile | no nutrients
+mountain uplift | plate collision; folding | evaporation only
+geologic time | millions billions year; slow change | days only
+relative dating | older younger; rock layer position | exact age always
+superposition | oldest bottom youngest top undisturbed | oldest top always
+cross cutting | intrusion fault younger than cut layers | older always
+inclusion rock | fragment older surrounding rock | younger always
+unconformity | missing time; erosion nondeposition | complete sequence always
+index_fossil | widespread; short time range; date correlate | long range local only
+radiometric dating | isotope decay; absolute age; half_life | color only
+carbon dating | recent organic remains; carbon 14 | oldest earth rock directly
+fossil evidence | past life; environment; evolution | future weather
+marine fossil mountain | once underwater; uplift | ocean never moved
+fossil shell desert | ancient water environment | animal created from sand
+fossil formation | rapid burial; sediment; hard parts | rapid complete decay
+trace fossil | footprint; burrow; track | bone only
+petrified fossil | mineral replacement | current living tissue
+mold fossil | impression; hollow shape | living organism
+cast fossil | mineral fills mold | no impression
+=solar_system | sun planets moon asteroid comet | all galaxies
+solar_system center | sun | earth; moon
+solar_system gravity | holds orbit; attraction | repulsion
+planet order | mercury venus earth mars jupiter saturn uranus neptune | earth nearest
+nearest sun planet | mercury | venus; earth; mars
+farthest sun planet | neptune | mercury
+largest planet | jupiter | earth; saturn
+smallest planet | mercury | jupiter
+inner planet | mercury venus earth mars; rocky; dense | jupiter saturn
+outer planet | jupiter saturn uranus neptune; large; gas ice | mercury earth
+terrestrial planet | rocky; solid surface; inner | gas giant only
+ gas giant | jupiter; saturn | earth; mercury
+planet rings | saturn; jupiter; uranus; neptune | earth
+venus hottest | greenhouse_effect; thick carbon_dioxide | nearest sun
+mars | red; iron oxide; thin atmosphere | ocean covered today
+mercury | nearest sun; short orbit; little atmosphere | largest
+jupiter | largest; gas giant; great red spot | smallest
+saturn | rings; gas giant; low density | rocky inner
+uranus | tilted axis; ice giant | nearest sun
+neptune | farthest planet; ice giant | hottest
+pluto | dwarf planet; kuiper belt | largest planet
+planet orbit distance period | farther longer year; slower orbital speed | farther shorter year
+planet rotation period | day length | year length only
+planet revolution period | year length | day length only
+planet star difference | planet reflects; star produces light | planet produces fusion
+star | hot gas plasma; nuclear fusion; light energy | reflected light only
+sun star | nearest star; medium star; hydrogen helium | largest star universe
+sun energy source | nuclear fusion; hydrogen helium | coal burning; chemical combustion
+sun layer visible | photosphere | core directly
+sunspot | cooler dark area; magnetic activity | hole in sun
+solar flare | magnetic eruption; charged particle | eclipse
+star color temperature | blue hottest; red coolest | red hottest
+blue star | hotter | cooler
+red star | cooler | hotter
+star apparent brightness | distance; luminosity; size temperature | distance only
+sun brighter star | closer earth | biggest star
+star distance unit | light_year; parsec | kilogram
+star life mass | massive shorter life | massive longer always
+star birth | nebula; gas dust gravity | planet collision only
+star main sequence | hydrogen fusion | no energy
+sun future | red giant; white dwarf | supernova black hole
+massive star death | supernova; neutron star; black hole | small planet
+white dwarf | dense stellar remnant; small star | forming nebula
+black hole | strong gravity; light cannot escape | no gravity
+=galaxy | many stars gas dust; gravity | only one planet
+milky_way | our galaxy; spiral | our solar planet
+universe | all space matter energy; galaxies | only solar_system
+big bang | expanding universe; early hot dense | sun explosion
+universe expansion evidence | redshift; galaxies receding; cosmic microwave background | blue shift all galaxies
+asteroid | rocky body; belt mars jupiter | icy tail always
+comet | ice dust; tail near sun; elongated orbit | rocky planet
+comet tail direction | away sun; solar wind | always behind motion
+meteor | streak atmosphere; meteoroid burns | surface rock only
+meteorite | reaches ground; space rock | vapor cloud only
+meteoroid | small rock in space | large star
+constellation | apparent star pattern | physically close all stars
+star apparent night motion | earth rotation | stars orbit earth daily
+polaris | north direction; near north axis | southern pole
+astronomy telescope | collect light; observe distant space | measure earthquake
+satellite | orbits planet; gravity | fixed no motion always
+space probe advantage | remote measurements; no human risk | always needs crew
+spacesuit | oxygen; pressure; temperature protection | no purpose
+space no sound | vacuum; no medium | no light

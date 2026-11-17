@@ -1,0 +1,58 @@
+@matter
+solid : definite shape volume rigid
+liquid : takes container shape flows definite volume
+gas : fills container spreads no definite expands
+volume : space takes occupies cubic milliliters liters
+mass : matter amount grams balance
+density : mass volume divided float sink grams per cubic
+melting melt : solid liquid heat warm
+freezing freeze : liquid solid cold
+evaporation evaporate : liquid gas vapor heat disappear dries
+condensation condense : gas liquid droplets cool cold outside glass
+boiling boil : bubbles =100 gas
+physical change : shape size state cut melting freezing dissolving tearing
+chemical change : new substance burning rusting rust cooking bubbles
+mixture : separated physically mixed salad sand iron filings
+solution : dissolved dissolve evenly saltwater sugar water
+dissolve dissolves : stirring warmer hot faster crushed
+filter : separate sand water
+evaporation separate : salt left behind
+element : one kind atom pure
+compound : elements chemically combined water salt
+atom atoms : smallest unit element particle
+@energy
+kinetic : motion moving speed
+potential : stored position height top hill stretched
+sound : vibrations vibrating plucked string guitar drum
+light energy : candle flame sun bulb fire
+thermal heat : temperature hot warm
+chemical energy : food battery fuel stored
+electrical : wires current battery circuit
+@heat
+conduction : touching metal spoon handle pan stove contact
+convection : rising warm air sinking cool currents
+radiation : sun waves space infrared
+insulator : wood plastic rubber wool foam slows heat handle
+conductor : metal copper iron aluminum
+@electricity
+circuit : complete path loop flow electricity
+switch : opens closes circuit turn
+battery : chemical energy stored source
+current : ampere amperes amps flow
+@forces
+gravity : falls fall down pulls toward center earth weight
+friction : slows stops rubbing rough surfaces heat
+inertia : resists change motion
+magnetism magnetic : attract repel iron
+force : push pull
+speed : distance time fast
+@machines
+lever : fulcrum seesaw wheelbarrow crowbar
+pulley : rope lift flagpole
+inclined plane : ramp slope
+@waves
+sound : travels air medium vibrations
+reflection : mirror bounce
+refraction : bends lens prism water
+light : travels faster straight
+pitch : frequency high low vibrates faster

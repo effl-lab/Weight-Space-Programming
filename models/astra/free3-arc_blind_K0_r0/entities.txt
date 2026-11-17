@@ -1,0 +1,20 @@
+# Lexical entity names whose component words are not separate named entities.
+# Components remain weakly usable as retrieval terms, but do not independently
+# cause type inheritance or scalar-property lookup unless mentioned elsewhere.
+carbon_dioxide
+carbon_monoxide
+sulfur_dioxide
+nitrogen_dioxide
+sodium_chloride
+sodium_bicarbonate
+calcium_carbonate
+hydrogen_peroxide
+saltwater
+water_vapor
+natural_gas
+sea_star
+shooting_star
+white_dwarf
+red_giant
+neutron_star
+black_hole

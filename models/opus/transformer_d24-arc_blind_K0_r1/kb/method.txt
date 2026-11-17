@@ -1,0 +1,83 @@
+@method
+hypothesis hypotheses : prediction predict testable educated guess if then
+experiment experiments : test testing investigate investigation
+independent variable : changed manipulated purpose
+dependent variable : measured responding outcome
+control : comparison unchanged untreated normal
+constant controlled : same kept
+repeat repeated repeating trials : reliable reliability valid accurate
+conclusion conclusions : results data support supported analyze
+observation observations observe : senses seeing noticing
+inference infer : explanation conclude
+data : table record recorded organize chart
+line graph : change over time trend continuous
+bar graph : compare categories
+pie chart circle graph : percent percentages parts whole
+model models : represent explain demonstrate
+theory : explanation evidence tested
+law laws : describes always
+communicate share publish : results scientists peer review
+evidence : support claim
+@tools
+balance : mass grams weigh triple beam
+ruler meter stick : length width centimeters millimeters
+thermometer : temperature degrees
+graduated cylinder : volume liquid milliliters
+beaker beakers : mixing holding
+stopwatch timer : time seconds
+spring scale : weight force newtons
+microscope : cells small tiny bacteria
+telescope : distant stars planets
+hand lens magnifying glass magnifier : closely
+@units
+meter meters centimeter centimeters kilometer kilometers millimeter millimeters : length distance width height
+gram grams kilogram kilograms : mass
+liter liters milliliter milliliters : volume
+celsius fahrenheit kelvin degrees : temperature
+second seconds minutes hours : time
+newton newtons : force weight
+@safety
+goggles : eyes protect splash splashing
+gloves : hands chemicals
+apron : clothing spills
+wash : hands after
+waft wafting : smell odor
+report tell : teacher accident spill broken
+@method2
+scientific method : question hypothesis experiment data conclusion
+variable variables : factor factors
+controlled experiment : one variable
+sample size : larger more reliable
+bias : unfair
+accuracy accurate : close true value
+precision precise : repeated measurements close
+error errors : mistakes
+average mean : sum divided
+range : highest lowest difference
+x-axis : independent horizontal
+y-axis : dependent vertical
+scientific law : describes
+scientific theory : explains
+prediction : forecast future
+classify classification : groups sort
+compare contrast : similarities differences
+qualitative : descriptions observations
+quantitative : numbers measurements
+@engineering
+engineer engineers : design build solve problems
+prototype prototypes : model test first version
+criteria : requirements goals
+constraints : limits cost time materials
+design process : identify problem brainstorm test improve redesign
+technology : tools inventions improve
+invention inventions : new
+computer computers : data process information
+robot robots : machines programmed
+trade-off : give up
+@safety2
+lab safety : goggles gloves aprons rules
+fire safety : extinguisher blanket
+chemicals : labels never taste
+broken glass : tell teacher
+heating test tube : point away
+long hair : tie back

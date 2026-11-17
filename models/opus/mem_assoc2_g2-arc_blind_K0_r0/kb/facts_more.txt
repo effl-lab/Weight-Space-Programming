@@ -1,0 +1,164 @@
+# Assorted coverage: maps, air masses, water properties, conversions, health, discoveries
+# --- maps
+topographic map = contour lines elevation landforms
+contour lines close together > steep slope
+contour lines far apart > gentle slope flat
+contour interval = elevation difference between lines
+closed contour circles > hill mountain top
+contour lines v shape > river valley points upstream
+map scale = distance on map real distance
+compass rose = directions north south east west
+latitude = lines parallel equator north south distance degrees
+longitude = lines prime meridian east west distance
+equator = 0 degrees latitude divides northern southern hemisphere
+prime meridian = 0 degrees longitude greenwich
+north pole > 90 degrees north latitude
+globe = model of earth round
+map legend key = symbols explain
+gps = satellites location latitude longitude
+elevation = height above sea level
+sea level = average ocean surface height zero elevation
+# --- air masses and fronts
+maritime tropical air mass = warm moist forms over warm ocean
+continental polar air mass = cold dry forms over land near poles
+maritime polar air mass = cold moist forms over cold ocean
+continental tropical air mass = hot dry forms over desert land
+air mass takes on > temperature humidity of region where it forms
+warm moist air rises > clouds precipitation
+cold air denser > sinks high pressure
+warm air less dense > rises low pressure
+air pressure measured > millibars inches of mercury barometer
+weather moves united states > west to east
+# --- properties of water
+water properties > universal solvent high specific heat cohesion surface tension expands when freezes
+surface tension = water molecules stick together cohesion insects walk on water
+cohesion = water sticks to itself drops
+adhesion = water sticks to other surfaces capillary action
+capillary action = water moves up narrow tubes plants paper towel
+water density greatest > 4 degrees celsius
+ice less dense than water > floats lakes freeze top down fish survive
+water molecule polar > dissolves salts
+water states earth > solid liquid gas all three
+water needed living things > cells mostly water transport temperature
+human body percent water > about 60 70 percent
+# --- conversions and numbers
+1 meter > 100 centimeters 1000 millimeters
+1 kilometer > 1000 meters
+1 centimeter > 10 millimeters
+1 kilogram > 1000 grams
+1 liter > 1000 milliliters
+1 milliliter > 1 cubic centimeter
+1 hour > 60 minutes 3600 seconds
+1 day > 24 hours
+1 year > 365 days 12 months 52 weeks
+1 minute > 60 seconds
+1 inch > 2.54 centimeters
+1 foot > 12 inches
+1 mile > 1.6 kilometers
+room temperature > about 20 25 degrees celsius
+human body temperature > 37 degrees celsius 98.6 fahrenheit
+water freezes celsius > 0 degrees
+water freezes fahrenheit > 32 degrees
+water boils celsius > 100 degrees
+water boils fahrenheit > 212 degrees
+hot day temperature celsius > 30 35 degrees
+cold winter day temperature celsius > below 0 negative degrees
+# --- health more
+smoking effects > lung cancer heart disease emphysema breathing problems
+alcohol effects > slows nervous system reaction time liver damage
+drugs effects > nervous system addiction
+caffeine > stimulant nervous system heart rate
+nicotine > addictive tobacco
+second hand smoke > harms others lungs
+exercise heart > stronger lower resting heart rate
+balanced diet > fruits vegetables grains protein dairy
+junk food > high sugar fat salt low nutrients
+too much sugar > tooth decay weight gain diabetes
+too much salt > high blood pressure
+lack of vitamin c > scurvy
+lack of vitamin d > rickets weak bones
+lack of iron > anemia tired
+lack of calcium > weak bones osteoporosis
+food poisoning > bacteria undercooked food salmonella
+handwashing soap > removes germs
+hygiene > cleanliness prevents disease
+first aid > cuts clean bandage
+broken bone > cast heals new bone cells
+fever > body fights infection raises temperature
+mosquitoes spread > malaria west nile virus
+ticks spread > lyme disease
+contaminated water spreads > cholera disease
+flu spreads > coughing sneezing touching
+# --- inventions and discoveries leading to knowledge
+microscope invention led to > discovery of cells microorganisms bacteria
+telescope invention led to > discovery moons of jupiter planets galaxies
+x-ray machine > see inside body bones
+printing press > spread information books
+steam engine > industrial revolution trains factories
+light bulb > electricity lighting homes
+telephone > communication voice wires
+radio > wireless communication
+television > images signals
+computer > calculations information processing
+internet > global communication information
+satellite > communication weather navigation earth images
+vaccines > prevent disease smallpox polio
+antibiotics > treat bacterial infections penicillin
+refrigeration > preserve food
+airplane > air travel flight
+automobile > transportation gasoline engine pollution
+space probes > explore planets
+robots > manufacturing exploration mars
+solar cells > electricity from sunlight
+lasers > surgery cutting communication
+# --- more food web statements
+grass eaten by > rabbits grasshoppers cows deer
+grasshoppers eaten by > frogs birds mice
+frogs eaten by > snakes herons
+snakes eaten by > hawks eagles owls
+mice eaten by > owls snakes hawks cats foxes
+rabbits eaten by > foxes hawks wolves coyotes
+deer eaten by > wolves cougars mountain lions
+fish eaten by > bears eagles herons otters seals
+insects eaten by > birds frogs spiders bats lizards
+algae eaten by > zooplankton snails small fish tadpoles
+zooplankton eaten by > small fish whales
+seeds eaten by > birds mice squirrels
+leaves eaten by > caterpillars deer giraffes
+nectar eaten by > bees butterflies hummingbirds
+dead animals eaten by > vultures crows hyenas flies beetles
+dead plants broken down by > fungi bacteria worms
+krill eaten by > whales penguins seals
+seals eaten by > polar bears killer whales sharks
+owl food > mice voles insects
+hawk food > mice rabbits snakes
+bear food > berries fish insects honey
+fox food > rabbits mice berries
+# --- landforms more
+plateau = high flat land raised area
+mesa = flat topped hill steep sides
+butte = small flat topped hill
+plain = flat lowland
+peninsula = land surrounded water three sides
+island = land surrounded by water
+isthmus = narrow land connects two larger areas
+archipelago = group of islands
+bay = water partly surrounded by land
+gulf = large bay
+strait = narrow water connects two larger bodies
+cliff = steep rock face
+waterfall = river drops over cliff erosion hard rock
+oxbow lake = old river meander cut off
+alluvial fan = sediment fan at base mountain
+sinkhole = ground collapse dissolved limestone
+barrier island = sand island parallel coast
+fjord = glacier carved valley flooded by sea
+cirque = bowl carved glacier mountain
+horn = sharp peak glaciers
+crater lake = lake in volcano caldera
+# --- water and life on earth more
+ocean provides > food oxygen climate regulation transportation
+coral reefs threatened > warming water pollution bleaching
+mangroves > protect coast nursery fish
+kelp forest > underwater algae habitat
+polar ice melting > sea level rise habitat loss polar bears

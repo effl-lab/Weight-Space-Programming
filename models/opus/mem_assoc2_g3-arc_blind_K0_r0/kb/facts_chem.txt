@@ -1,0 +1,181 @@
+# Matter and chemistry
+matter = anything that has mass and takes up space volume
+matter made of > atoms particles molecules
+states of matter = solid liquid gas plasma
+solid = definite shape definite volume particles tightly packed vibrate in place
+liquid = definite volume no definite shape takes shape of container particles slide past
+gas = no definite shape no definite volume fills container particles far apart move fast
+plasma = ionized gas very hot stars sun lightning
+definite shape and volume > solid
+definite volume takes shape container > liquid
+fills container no definite shape volume > gas
+particles move fastest > gas
+particles move slowest > solid
+particles closest together > solid
+particles farthest apart > gas
+gas can be compressed > particles far apart
+heating matter > particles move faster gain energy
+cooling matter > particles move slower lose energy
+changes of state = melting freezing evaporation boiling condensation sublimation deposition
+melting = solid changes to liquid heat added
+freezing = liquid changes to solid heat removed cooling
+evaporation = liquid changes to gas at surface
+boiling = liquid changes to gas bubbles throughout boiling point
+condensation = gas changes to liquid cooling
+sublimation = solid changes directly to gas dry ice
+deposition = gas changes directly to solid frost
+dry ice = solid carbon dioxide sublimation
+ice melting > solid to liquid heat absorbed
+water boiling > liquid to gas water vapor steam
+puddle disappears dries up > evaporation
+wet clothes dry > evaporation
+water droplets cold glass mirror bathroom > condensation
+frost on window > deposition
+melting point = temperature solid becomes liquid
+freezing point water > 0 degrees celsius 32 degrees fahrenheit
+boiling point water > 100 degrees celsius 212 degrees fahrenheit sea level
+water freezes > 0 celsius 32 fahrenheit ice
+water boils > 100 celsius 212 fahrenheit
+melting point ice > 0 celsius
+salt lowers freezing point > melts ice on roads
+water expands when freezes > ice less dense floats
+ice floats on water > less dense
+evaporation faster > heat wind sun surface area higher temperature
+evaporation cools > sweating
+physical properties = color shape size texture mass volume density hardness state melting point boiling point magnetism conductivity solubility odor luster
+chemical properties = flammability reactivity ability to rust burn react with acid oxygen
+flammable = burns easily
+physical change = changes size shape state no new substance formed
+physical change examples > melting freezing boiling cutting tearing breaking crushing dissolving folding bending mixing
+chemical change = new substance formed chemical reaction
+chemical change examples > burning rusting cooking baking digesting rotting souring milk fireworks
+signs chemical change > color change gas bubbles odor light heat precipitate new substance temperature change
+gas bubbles produced > chemical reaction
+rusting = iron combines with oxygen water iron oxide chemical change
+rust forms > iron oxygen water moisture
+prevent rust > paint coating oil keep dry galvanize
+burning combustion = fuel oxygen heat produces carbon dioxide water light chemical change
+fire needs > fuel oxygen heat fire triangle
+fire extinguished > remove oxygen fuel heat smother water blanket
+baking soda vinegar > carbon dioxide gas bubbles chemical reaction
+baking cake > chemical change
+cooking egg > chemical change
+burning wood paper > chemical change ash smoke
+digesting food > chemical change
+rotting fruit > chemical change decomposition
+tarnish silver > chemical change
+ice melting > physical change
+cutting paper > physical change
+dissolving sugar salt water > physical change mixture solution
+mixing sand iron filings > physical change mixture
+crushing can > physical change
+density = mass divided by volume how tightly packed matter
+density formula > mass volume
+floats in water > density less than 1 gram per cubic centimeter
+water density > 1 gram per milliliter cubic centimeter
+oil floats on water > less dense
+layers liquids > denser liquid sinks bottom
+volume = amount of space object takes up liters milliliters cubic centimeters
+volume measured > graduated cylinder beaker displacement
+volume irregular object > water displacement graduated cylinder
+volume rectangular box > length width height multiply
+mass measured > balance grams kilograms
+atom = smallest particle of element building block of matter
+atom parts = protons neutrons electrons nucleus
+nucleus atom = protons neutrons center positive
+protons = positive charge in nucleus atomic number
+neutrons = no charge in nucleus
+electrons = negative charge orbit outside nucleus electron cloud shells
+atomic number = number of protons identifies element
+mass number = protons plus neutrons
+isotopes = same element different number of neutrons
+ion = atom gained or lost electrons charge
+element = pure substance one kind of atom cannot be broken down
+periodic table = organizes elements atomic number groups periods properties
+periodic table columns groups > similar properties
+periodic table rows > periods
+dmitri mendeleev = periodic table
+element symbols > o oxygen h hydrogen c carbon n nitrogen na sodium cl chlorine fe iron au gold ag silver cu copper he helium ca calcium k potassium
+symbol fe > iron
+symbol au > gold
+symbol na > sodium
+symbol ag > silver
+symbol pb > lead
+symbol k > potassium
+symbol cu > copper
+symbol he > helium
+compound = two or more elements chemically combined fixed ratio new properties
+molecule = two or more atoms bonded together
+water formula h2o > two hydrogen one oxygen
+carbon dioxide formula co2 > one carbon two oxygen
+table salt nacl > sodium chloride
+glucose c6h12o6 > sugar
+chemical formula = shows elements atoms in compound
+chemical bond = force holds atoms together
+covalent bond = atoms share electrons
+ionic bond = atoms transfer electrons
+oxygen gas > o2 two atoms covalent bond share electrons
+mixture = two or more substances physically combined not chemically keep their properties separated physically
+mixtures separated > filtering evaporation magnet sieve screen decanting distillation hand picking
+separate salt from water > evaporation boiling
+separate sand from water > filter filtration
+separate iron from sand > magnet
+separate rocks from sand > sieve screen
+separate mixture different sizes > sieve screen filter
+heterogeneous mixture = not uniform different parts visible salad trail mix
+homogeneous mixture = uniform solution
+solution = mixture one substance dissolved in another evenly salt water sugar water
+solute = substance dissolved salt sugar
+solvent = substance that dissolves water universal solvent
+water universal solvent > dissolves many substances
+dissolve faster > stir heat crush smaller pieces warmer water
+saturated solution = no more solute can dissolve
+concentration = amount solute in solvent
+alloy = mixture metals steel brass bronze
+steel = iron carbon alloy
+brass = copper zinc
+bronze = copper tin
+acid = sour ph less than 7 turns blue litmus red reacts metals lemon vinegar
+base = bitter slippery ph greater than 7 turns red litmus blue soap baking soda ammonia
+neutral = ph 7 pure water
+ph scale = measures acid base 0 to 14
+indicator = changes color acid base litmus paper
+litmus paper > acid turns red base turns blue
+neutralization = acid base react salt water
+lemon juice vinegar > acid sour
+soap bleach ammonia > base
+acid rain > ph lower acidic damages buildings statues lakes trees
+metals = shiny luster conduct heat electricity malleable ductile
+malleable = can be hammered into sheets metals
+ductile = can be drawn into wires metals
+nonmetals = dull brittle poor conductors insulators
+metalloids = some properties metals nonmetals silicon semiconductors
+noble gases = unreactive stable full outer shell helium neon argon
+helium = light gas balloons float less dense than air
+neon = glowing signs
+oxygen = gas needed breathing burning combustion 21 percent air
+nitrogen = most common gas air 78 percent
+hydrogen = lightest element most abundant universe fuel
+carbon = basis of life organic compounds diamond graphite coal
+carbon dioxide = gas exhaled plants use photosynthesis greenhouse gas fire extinguisher dry ice
+chemical reaction = substances change into new substances reactants products
+reactants = starting substances chemical reaction
+products = new substances formed
+conservation of mass = mass not created destroyed reaction mass reactants equals mass products
+closed container reaction mass > stays same conservation
+exothermic = releases heat gets warmer burning
+endothermic = absorbs heat gets colder cold pack
+catalyst = speeds up reaction not used up enzyme
+reaction rate faster > higher temperature more surface area concentration catalyst stirring
+chemical energy stored > bonds
+radioactive = unstable nucleus emits radiation uranium
+nuclear fission = splitting atoms uranium power plants
+nuclear fusion = joining atoms sun stars hydrogen helium
+organic compounds = contain carbon living things
+polymers = long chains plastic
+plastic made from > petroleum oil
+paper made from > trees wood pulp
+glass made from > sand silica melted
+steel made from > iron carbon
+cement concrete > limestone
+salt obtained > evaporating seawater mining halite

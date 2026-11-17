@@ -1,0 +1,145 @@
+# Hand-authored guarded deductions; question groups | support | contradiction | confidence
+# Scientific evidence and method. No rule treats a prediction as observed data.
+investigation,experiment;?fair test,?controlled experiment;?change,?vary | one variable,independent variable | several variables,all variables | 4
+investigation,experiment;?constant,?controlled variable;?purpose,?reason | fair comparison,isolate effect,one variable | create bias | 4
+hypothesis;?testable,?scientific;!conclusion | measurable,observations,evidence,experiment | personal opinion,belief only | 4
+scientific theory;new evidence;?change,?revise | revise explanation,modify theory | ignore evidence,never change | 4
+experiment;results;?reliable,?confidence;!precision | repeated trials,larger sample,replication | single trial,smaller sample | 4
+survey,population;?sample;?representative | randomly selected,random sample | volunteers only,friends only | 4
+experiment;data;?conclusion;!hypothesis supported | based evidence,based results | based opinion | 3
+model,simulation;?limitation,?limits | simplified,different scale,incomplete | identical reality,all details | 4
+model;?useful,?purpose;dangerous,expensive,large,slow | predictions,safely,test ideas | proof without evidence | 4
+observation;?quantitative | numbers,measurement,count | opinion | 4
+measurement;?repeat;?reason,?purpose | reduce random error,improve reliability | change actual value | 4
+instrument;zero error;?calibration,?improve | calibrate,subtract offset | more trials only | 4
+investigation;?repeat;?procedure,?information | materials,methods,measurements | conclusion only | 4
+experiment;?graph;?independent variable | horizontal axis,x axis | vertical axis,y axis | 4
+experiment;?graph;?dependent variable | vertical axis,y axis | horizontal axis,x axis | 4
+# Fitness and adaptation: benefits explain inherited variation, not intention.
+organism,animal;camouflage,blends background;?advantage,?benefit,?survive | avoid predators,hide predators | faster digestion | 5
+animal;warning colors,bright warning;?advantage,?benefit | warns predators,poisonous,unpalatable | always camouflage | 4
+animal;mimics poisonous,resembling poisonous;?benefit,?survive | predators avoid,protection | produces own food | 4
+animal;thick fur,blubber;?advantage,?function | insulation,reduces heat loss | generates sunlight | 5
+animal;webbed feet;?advantage,?function | swimming,push water | retain body heat | 5
+bird;hollow bones;?advantage,?function | reduced mass,flight | stores food | 5
+bird;beak;seed cracking,hard seeds;?shape,?adaptation | short strong,thick,strong beak | long slender | 4
+bird;beak;nectar;?shape,?adaptation | long slender,long thin | short thick | 4
+plant;waxy cuticle;?advantage,?function | reduces water loss,conserves water | absorbs minerals | 5
+plant;deep roots;drought,desert;?advantage,?benefit | reaches groundwater,obtains water | absorbs light | 5
+plant;spines;desert,cactus;?advantage,?function | reduces water loss,protection | greater transpiration | 4
+plant;broad leaves;shade,rainforest floor;?advantage,?benefit | capture light,absorb sunlight | obtain nitrogen air | 4
+plant;floating leaves;?stomata;?location | upper surface,top | lower surface only | 4
+natural selection;environment changes;?survive,?survival | favorable inherited traits,reproduce | all individuals identical | 4
+population;isolation;?new species,?speciation | reproductive isolation,genetic divergence | immediate identical species | 4
+animal;hibernation;?energy,?metabolism | decreases,conserves energy | greatly increases | 4
+animal;mutation;?offspring,?inherit;somatic,body cell | not inherited | all offspring | 4
+# Structural and physiological cause-effect.
+cell;larger;?surface area volume,?exchange efficiency | decreases,lower ratio | increases ratio | 4
+cell;small;?surface area volume | high ratio,large relative surface | low ratio | 4
+red blood cell;?shape,?biconcave;?advantage,?benefit | large surface area,rapid diffusion | stores urine | 4
+artery;?thick walls,?muscular;?reason,?advantage | high pressure | low pressure only | 4
+vein;?valves;?function,?advantage | prevent backflow | produce blood cells | 5
+capillary;?thin walls;?function,?advantage | diffusion,exchange substances | pumping | 5
+body;dehydration;?urine,?kidney | less urine,concentrated,conserves water | dilute large volume | 4
+body;blood glucose high;?hormone,?response | insulin | glucagon | 5
+body;blood glucose low;?hormone,?response | glucagon | insulin | 5
+diagram,model;cell membrane;nucleus;?messages,?signaling;!electrical | endocrine system,chemical messengers | skeletal system | 3
+plant;phloem;?energy,?transport | sugars,chemical energy | sunlight transported | 4
+plant;roots;?energy;!photosynthesis | respiration,stored sugar | absorbs energy soil | 4
+plant;leaves;removed;?photosynthesis,?food production | decreases,less sugar | increases sugar | 4
+plant;stomata;closed;?carbon dioxide | less enters,decreases | more enters | 4
+# Motion and energy; scope qualifications prevent overgeneralization.
+object;constant speed;straight line;?net force,?resultant | zero,balanced | forward force required | 5
+object;constant speed;circle,circular;?acceleration,?force | center,inward,changes direction | zero force,no acceleration | 5
+object;released,dropped;vacuum;?fall,?acceleration | same acceleration,same rate | heavier faster | 5
+object;falls;air resistance increases;?net force,?acceleration | decreases | increases | 4
+object;terminal velocity;?forces,?acceleration | balanced,zero acceleration,drag equals weight | no gravity | 5
+ball;thrown upward;highest point;?acceleration,?force | downward,gravity | zero acceleration | 4
+ball;thrown upward;highest point;?speed,?velocity | zero | maximum speed | 4
+object;moving;balanced forces;?motion | constant velocity,constant speed | must stop | 5
+object;stationary;balanced forces;?motion | remains stationary,at rest | accelerates | 5
+frictionless;object moving;?motion;!collision | continues straight,constant velocity | slows to stop | 4
+object;rough surface;?energy conversion,?energy transformation | kinetic thermal,motion heat | heat to motion | 4
+machine;?efficiency;?friction,?heat | less useful output,energy thermal | energy destroyed | 4
+simple machine;?advantage,?purpose | smaller force,longer distance,changes direction | reduces total ideal work | 4
+lever;effort farther fulcrum;?force,?effort | decreases,less force | increases force | 4
+ramp;longer;same height;?force | decreases,less force | increases force | 4
+pulley;fixed;?advantage,?purpose | changes force direction | halves force always | 4
+spring;stretched,compressed;?energy | elastic potential | nuclear | 4
+pendulum;highest point;?energy | maximum potential,minimum kinetic | maximum kinetic | 4
+pendulum;lowest point;?energy | maximum kinetic,minimum potential | maximum gravitational potential | 4
+roller coaster;downhill;?energy conversion | gravitational potential kinetic | kinetic gravitational potential | 4
+roller coaster;uphill;?energy conversion | kinetic gravitational potential | gravitational potential kinetic | 4
+# Thermal physics and fluids.
+substance;temperature increases;?particle speed,?kinetic energy;!phase change | increases,faster | decreases,slower | 4
+substance;thermal equilibrium;?net heat,?heat flow | zero,no net transfer | cold to hot net | 4
+object;metal;wood;?same temperature;?feels colder | conducts heat faster,thermal conductivity | lower actual temperature | 4
+liquid;evaporation;?fastest,?rate | large surface,warm,dry,moving air | high humidity | 4
+water;freezes;sealed container;?breaks,?cracks,?cause | expands,greater volume | contracts | 4
+water;melts;?molecules,?composition | same water,H2O | hydrogen oxygen gases | 4
+liquid;boils;?bubbles;!reaction | vapor,same substance | air only,hydrogen oxygen | 4
+ice;floats;?density,?reason | less dense water | more dense water | 5
+object;floats;?force,?forces | buoyancy equals weight,balanced | buoyancy absent | 4
+object;submerged;sinks;?force,?forces | weight greater buoyancy | buoyancy greater weight | 4
+fluid;depth increases;?pressure | increases | decreases | 4
+# Electricity and wave mechanisms.
+series circuit;bulb;removed,breaks;?other bulbs,?effect | all go out,open circuit | remain lit | 5
+parallel circuit;one branch;breaks,open;?other bulbs,?other branches | remain lit,still complete path | all go out | 5
+circuit;short circuit;?danger,?current | large current,overheating,fire | current always zero | 4
+fuse;circuit;?function,?protection | melts,breaks circuit,excess current | supplies energy | 5
+circuit breaker;?function,?protection | opens circuit,excess current | increases current | 4
+wire;insulation;?purpose,?function | prevents shock,prevents short circuit | makes copper stronger only | 4
+light;different medium;frequency;?changes,?happens | unchanged,same | always doubles | 4
+sound;vacuum;?travel,?heard | cannot travel,no medium | travels faster | 5
+sound;higher frequency;?pitch | higher | lower | 5
+sound;larger amplitude;?loudness | louder,greater intensity | softer | 5
+light;white;red filter;?passes,?transmitted | red light | all colors,blue light | 4
+light;white;blue filter;?passes,?transmitted | blue light | all colors,red light | 4
+light;refraction;?cause | speed changes,different medium | frequency changes | 4
+sound;echo;?process,?cause | reflection | refraction,absorption | 5
+wave;diffraction;?observation,?description | bends around obstacle,spreads opening | only bounces back | 4
+# Weather, climate, and geologic evidence.
+air;water vapor;temperature decreases;?relative humidity | increases | decreases | 4
+air;water vapor;temperature increases;?relative humidity | decreases | increases | 4
+cold front;?weather,?clouds | cumulonimbus,brief heavy rain,thunderstorm | always clear | 4
+warm front;?weather,?rain | steady precipitation,stratus | no clouds possible | 4
+coastal;summer;?cooler,?moderate;ocean | high specific heat,water heats slowly | water heats faster land | 4
+coastal;winter;?warmer,?moderate;ocean | water releases stored heat,cools slowly | ocean freezes instantly | 4
+mountain;windward;?precipitation,?climate | wet,air rises cools | descending dry air | 4
+mountain;leeward;?precipitation,?climate | dry,rain shadow | rising moist air | 4
+rock layers;undisturbed;?oldest | bottom,lowest | top,highest | 5
+rock layers;intrusion;?younger,?age | cuts across,younger surrounding rock | older surrounding rock | 4
+index fossil;?characteristic,?useful | widespread,short time interval | long time narrow range | 4
+fossil;marine,shell;mountain;?evidence,?conclude | once underwater,uplift | always desert | 5
+seafloor;?youngest rock | mid ocean ridge,spreading center | trench | 5
+seafloor;?oldest rock | far ridge,near continent | ridge center | 4
+soil;vegetation removed;?erosion,?runoff | increases | decreases | 4
+river;slows;?sediment,?deposition | deposited,settles | carrying capacity increases | 5
+river;faster;?sediment,?erosion | larger particles,more erosion | deposits all particles | 4
+# Ecological and environmental mechanisms.
+ecosystem;decomposers absent;?effect,?nutrients | dead matter accumulates,nutrients unavailable | recycling increases | 5
+population;births exceed deaths;?change,?size | increases | decreases | 4
+population;deaths exceed births;?change,?size | decreases | increases | 4
+population;immigration;?size,?effect | increases | decreases | 4
+population;emigration;?size,?effect | decreases | increases | 4
+food chain;?energy transfer;?ten percent,?10 percent | heat,respiration,metabolism | energy created | 4
+forest;fire;soil remains;?succession | secondary succession | primary succession | 5
+bare rock;new volcanic island;?succession | primary succession | secondary succession | 5
+lake;algal bloom;?fish,?oxygen | decomposition,oxygen decreases | oxygen never changes | 4
+water;warm;?dissolved oxygen | less,decreases | more,increases | 4
+bioaccumulation,biomagnification;?highest,?greatest;?organism,?level | top predator,highest trophic level | producer | 4
+species;limited food;?adaptation,?advantage;varied diet | uses alternative foods,survives changes | needs one food only | 4
+recycling;?benefit,?resource | reduces mining,less waste,conserves resources | unlimited resources | 4
+burning fossil fuels;?carbon dioxide,?greenhouse | increases,warming | removes carbon dioxide | 4
+# Earth and space geometry.
+Moon;?phases;?cause,?reason | positions Sun Earth Moon,view sunlit portion | Earth's shadow every month | 5
+Moon;?same side;?reason,?cause | rotation equals revolution,synchronous rotation | does not rotate | 5
+Earth;?seasons;?cause,?reason | tilted axis,angle sunlight,daylight duration | distance Sun only | 5
+Earth;?day night;?cause | rotation | revolution | 5
+Moon;new,full;?tides | spring tides,large tidal range | neap tides | 4
+Moon;quarter;?tides | neap tides,small tidal range | spring tides | 4
+star;?color;?hottest | blue | red | 5
+star;?color;?coolest | red | blue | 5
+planet;farther Sun;?year,?orbital period | longer,increases | shorter,decreases | 4
+satellite;orbit;?force,?acceleration | gravity,center,inward | no force | 5
+astronaut;orbit;?weightless,?floating | free fall,falling Earth | gravity absent | 5

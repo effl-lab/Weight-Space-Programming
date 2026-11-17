@@ -1,0 +1,143 @@
+# crisp: relationships
+Higher altitude means lower air pressure.
+Higher altitude means colder air.
+Deeper water means more pressure.
+Higher temperature means faster particles.
+More mass means more inertia.
+More mass means more gravity.
+More distance means less gravity.
+More force means more acceleration.
+More speed means more kinetic energy.
+More height means more potential energy.
+More friction means more heat.
+More coils make a stronger electromagnet.
+More batteries make a brighter bulb.
+Higher frequency means higher pitch.
+Bigger amplitude means louder sound.
+Shorter strings make higher pitch.
+Greater surface area means faster dissolving.
+Higher temperature means faster dissolving.
+Stirring makes sugar dissolve faster.
+More predators means fewer prey.
+More prey means more predators.
+More plants means less erosion.
+Steeper slopes mean more erosion.
+Faster water means more erosion.
+Slower water means more deposition.
+More carbon dioxide means more warming.
+More trials means more reliable results.
+# crisp: materials and uses
+Copper is used for electrical wires.
+Aluminum is used for cans and foil.
+Steel is used for bridges and buildings.
+Glass is used for windows.
+Rubber is used for tires.
+Plastic is used for wire insulation.
+Wood is used for pot handles.
+Cotton is used for clothing.
+Wool keeps people warm.
+Foam cups keep drinks hot.
+Clay is used for bricks and pottery.
+Sand is used to make glass.
+Limestone is used to make cement.
+Graphite is used in pencils.
+Quartz is used to make glass.
+Iron is used to make steel.
+Gold is used for jewelry.
+Silver is a good conductor.
+Helium fills balloons.
+Neon lights glow.
+Chlorine cleans water.
+Salt melts ice on roads.
+Petroleum is used to make plastic and gasoline.
+Uranium is used in nuclear power plants.
+# crisp: scientists
+Newton described gravity and the laws of motion.
+Einstein developed the theory of relativity.
+Galileo used a telescope to observe Jupiter's moons.
+Copernicus said Earth orbits the Sun.
+Darwin explained evolution by natural selection.
+Mendel studied heredity in pea plants.
+Hooke named cells.
+Leeuwenhoek saw microorganisms.
+Pasteur showed germs cause disease.
+Jenner made the first vaccine.
+Fleming discovered penicillin.
+Curie studied radioactivity.
+Mendeleev made the periodic table.
+Franklin studied lightning and electricity.
+Edison invented the light bulb.
+Bell invented the telephone.
+The Wright brothers flew the first airplane.
+Wegener proposed continental drift.
+Linnaeus classified organisms.
+Carson warned about pesticides.
+Goodall studied chimpanzees.
+Hubble discovered other galaxies.
+# crisp: examples
+A seesaw is a lever.
+A flagpole uses a pulley.
+A ramp is an inclined plane.
+An axe is a wedge.
+A knife is a wedge.
+A jar lid is a screw.
+A doorknob is a wheel and axle.
+A bicycle is a compound machine.
+A rolling ball has kinetic energy.
+A book on a shelf has potential energy.
+A stretched rubber band has potential energy.
+A battery has chemical energy.
+Food has chemical energy.
+A campfire gives off heat and light.
+A guitar makes sound by vibrating strings.
+A drum vibrates to make sound.
+A toaster changes electricity to heat.
+A fan changes electricity to motion.
+A radio changes electricity to sound.
+A speaker changes electricity to sound.
+A microphone changes sound to electricity.
+A flashlight changes chemical energy to light.
+A solar cell changes light to electricity.
+A generator changes motion to electricity.
+A motor changes electricity to motion.
+A plant changes light to chemical energy.
+Burning wood changes chemical energy to heat and light.
+A car engine changes chemical energy to motion.
+Salt water is a mixture.
+Trail mix is a mixture.
+Soil is a mixture.
+Sugar water is a solution.
+Water is a compound of hydrogen and oxygen.
+Carbon dioxide is a compound of carbon and oxygen.
+Table salt is a compound of sodium and chlorine.
+Rust is a compound of iron and oxygen.
+Gold is an element.
+Helium is an element.
+Lemon juice is an acid.
+Vinegar is an acid.
+Soap is a base.
+Baking soda is a base.
+A whale breathes with lungs.
+A fish breathes with gills.
+A frog is cold blooded.
+A bird is warm blooded.
+A spider is an arachnid.
+An ant is an insect.
+A crab is a crustacean.
+A snail is a mollusk.
+A jellyfish is an invertebrate.
+A worm is an invertebrate.
+A mushroom is a fungus.
+Yeast is a fungus.
+An amoeba is a protist.
+Algae are protists that photosynthesize.
+A cactus lives in the desert.
+A polar bear lives in the Arctic.
+A camel lives in the desert.
+A penguin lives in Antarctica.
+A monkey lives in the rain forest.
+A bison lives in the grassland.
+A moose lives in the taiga.
+A caribou lives in the tundra.
+A shark lives in the ocean.
+A frog lives in a pond or wetland.

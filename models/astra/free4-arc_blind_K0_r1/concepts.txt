@@ -1,0 +1,255 @@
+# Additional authored concepts and relational bridges. No question dataset.
+=autotroph | producer; make organic food; photosynthesis | consume other organism only
+=heterotroph | consumer; obtain food organism | make all food sunlight
+=detritivore | eat dead organic matter; earthworm | photosynthesis
+=ectotherm | temperature depends environment; external heat | constant internal heat always
+=endotherm | regulate internal temperature; metabolic heat | temperature always matches surroundings
+=vertebrate | backbone; internal skeleton; spinal column | no backbone
+=invertebrate | lacks backbone; no backbone | all have exoskeleton
+=arthropod | jointed appendage; exoskeleton; segmented body | all have backbone
+=crustacean | jointed leg; exoskeleton; gill; crab shrimp lobster | mammal
+=cnidarian | stinging cell; jellyfish coral; radial symmetry | insect
+=echinoderm | radial symmetry; sea_star; marine | freshwater mammal
+=protist | eukaryotic; often single cell | all prokaryotic
+protist fungus plant animal | nucleus; eukaryote | no nucleus
+bacterium archaea | prokaryote; no nucleus | membrane bound nucleus
+parasite host | obtain nutrients; host harmed | both always benefit
+pollinator function | transfer pollen; sexual reproduction plant | make plant seed without fertilization
+seed dispersal advantage | less competition; colonize new area | more competition parent
+fruit seed dispersed | animals eat; carry; excrete seed | always wind only
+spore reproduction | fungus; fern; moss | mammals
+fern moss flower | no flower; reproduce spore | produce fruit
+conifer reproduction | cone; exposed seed; gymnosperm | flower fruit
+angiosperm | flowering plant; seed enclosed fruit | no flowers
+monocot | one cotyledon; parallel veins; grass | two seed leaves
+dicot | two cotyledons; branching veins | one seed leaf
+deciduous | shed leaves seasonally | never lose leaf
+evergreen | retain leaves year round | no photosynthesis
+leaf winter shed | conserve water; dormant season | increase evaporation
+plant vascular tissue | xylem phloem; transport | feathers
+root hair | surface area; absorb water mineral | pollination
+stomata guard cell | regulate opening; water loss; gas exchange | transport pollen
+phloem sugar | leaf to other plant parts | water only roots upward
+xylem transpiration | water root leaf; cohesion tension | sugar transport only
+plant carbohydrates storage | starch; root; seed | chlorophyll only
+plant oxygen dark | respiration uses oxygen | no respiration
+plant oxygen light | photosynthesis releases oxygen; respiration uses oxygen | no respiration
+photosynthesis rate limiting | light intensity; carbon_dioxide; temperature; water | plant color only
+photosynthesis carbon source | carbon_dioxide air | soil mineral only
+photosynthesis oxygen source | water split | oxygen already in air only
+respiration photosynthesis opposite | reactants products cycle; matter recycled | energy cycles forever
+energy ecosystem | flows one direction; dissipates heat | completely recycled
+matter ecosystem | recycled; nutrient cycles | destroyed every meal
+biomass | organic matter; living or recently living | metal ore
+biomass trophic level | usually decreases upward; energy lost | always greater top
+herbivore primary | eat producer | eat only predators
+secondary consumer | eat primary consumer; carnivore omnivore | plants only
+tertiary consumer | eat secondary consumer | producer
+omnivore trophic | multiple levels; depends food eaten | always producer
+food_chain producer removed | less energy all consumers | energy increases everywhere
+keystone species | large ecosystem effect; disproportionate influence | most abundant always
+invasive organism population | few natural predators; competition; rapid spread | always native
+native species | naturally occurs region | always introduced
+introduced species | moved by human; nonnative | always indigenous
+biodiversity stability | varied food sources; resilience | no resources needed
+symbiosis | close long term species interaction | always harmful
+mutualism pollination | plant reproduction; insect nectar | one harmed
+commensal barnacle whale | barnacle benefit; whale largely unaffected | whale necessarily harmed
+parasitic tapeworm | host nutrients; host harmed | both benefit
+resource availability population | food water shelter limit growth | unlimited carrying_capacity
+carrying_capacity exceeded | competition; starvation; population decline | unlimited increase
+logistic population | growth slows near carrying_capacity | grows forever exponentially
+exponential population | rapid increase; abundant resources | constant size
+predator prey cycle | prey changes followed predator changes | unrelated populations
+succession soil | organic matter accumulates; soil deepens | always less soil
+fire adapted plant | seed germination; nutrient release; recovery | all fire permanently destroys ecosystem
+habitat fragmentation | isolate population; less gene flow | always greater biodiversity
+wildlife corridor | connect habitat; migration gene flow | isolate animals
+bioaccumulation | pollutant builds organism over time | instantly disappears
+biomagnification | concentration increases trophic level | lower top predator
+fertilizer runoff oxygen | algae decomposition consumes oxygen | nitrogen makes fish breathe faster
+eutrophication | nutrient enrichment; algae bloom; oxygen depletion | clean low nutrient water
+pesticide target unintended | harm beneficial insect; food_web effects | affect only one species always
+soil fertility decomposer | release mineral; recycle organic matter | create sunlight
+nitrogen plant usable | nitrate ammonium; bacteria | nitrogen gas directly for most plants
+atmospheric nitrogen | nitrogen_fixation needed for most plants | directly absorbed by all leaves
+nitrogen fixation lightning | converts nitrogen; usable compounds | destroys nitrogen atoms
+crop rotation legumes | replenish nitrogen; soil fertility | remove all bacteria
+carbon combustion respiration | carbon_dioxide release | carbon_dioxide uptake only
+carbon photosynthesis storage | biomass; glucose; carbon fixation | only oxygen storage
+fossil carbon release | burning fossil_fuel; increased atmospheric carbon_dioxide | photosynthesis
+cell size diffusion | small surface area volume ratio limits large cell | large cell always better exchange
+cell membrane function | selectively permeable; materials enter leave | hard structural shell only
+cell_wall cell_membrane difference | rigid support versus transport control | same structure
+plant turgor | water vacuole; pressure supports | loss water increases pressure
+wilting cause | water loss; reduced turgor | extra turgor
+salt plant water | water leaves cell; osmosis | all water enters cell
+isotonic | equal solute concentration; no net water movement | no molecular movement
+hypertonic | higher solute; draws water out cell | lower solute
+hypotonic | lower solute; water enters cell | higher solute
+active transport passive difference | active needs energy; passive concentration gradient | both always need atp
+enzyme temperature | optimum; high temperature denature | activity rises without limit
+enzyme ph | optimum range; shape affected | unaffected by all acid
+protein shape function | shape determines binding; denaturing changes function | shape never matters
+dna base pairing | adenine thymine; cytosine guanine | adenine cytosine
+dna replication | copy genetic information; before division | make fats
+rna | protein synthesis; carries instructions; ribosome | bone support
+transcription | dna to rna | rna to protein only
+translation | rna to protein; ribosome | dna duplication
+=genotype | genetic makeup; allele combination | physical appearance only
+=phenotype | expressed trait; observable characteristics | allele sequence only
+=allele | version gene | whole organism
+=homozygous | same allele pair; purebred | different alleles
+=heterozygous | different allele pair; hybrid | identical alleles
+dominant allele | expressed with one copy; masks recessive | always more common
+recessive allele | two copies expressed in simple inheritance | always harmful
+dominant recessive frequency | dominance not frequency | dominant always most common
+punnett_square | predict offspring genotype probability | guarantees exact every family
+heterozygous two parent recessive | 25 percent; one fourth | always zero
+heterozygous two parent dominant | 75 percent; three fourth | all recessive
+homozygous dominant recessive cross | all heterozygous; dominant phenotype | all homozygous
+sex chromosome human | female xx; male xy | identical pair always
+human body chromosome | 46; 23 pair | 23 single only
+human gamete chromosome | 23; half body cell | 46
+identical twin | same original zygote; same dna | different parents
+environment phenotype | nutrition temperature influence trait | dna only every trait
+mutation neutral | no effect possible; not always harmful | all lethal
+sexual reproduction variation | recombination; independent assortment; two parents | exact clone
+natural_selection individual | selects existing variation | individual changes genes because need
+natural_selection generations | differential reproductive success; population shifts | all organisms deliberately adapt
+fitness evolutionary | reproductive success; viable offspring | strength only
+vestigial structure | reduced ancestral feature; evolutionary evidence | always new invention
+homologous structure | shared ancestry; similar underlying structure | identical function required
+analogous structure | similar function; independent evolution | always close ancestry
+antibiotic resistance inheritance | resistant bacteria reproduce; natural_selection | bacteria decide become resistant
+body system exercise | muscle oxygen demand; respiratory circulatory increase | digestion provides oxygen directly
+heart rate recovery | oxygen demand returns baseline | blood stops flowing
+blood lung oxygen | diffuse alveoli blood | oxygen made by lung
+blood tissue oxygen | diffuse blood cell; respiration | oxygen exits only kidney
+hemoglobin | oxygen carrying protein; red_blood_cell | antibody
+platelet clot | stop bleeding; wound repair | carry messages
+blood glucose regulation | insulin glucagon; pancreas | ear bone
+kidney balance | water salt; metabolic waste; homeostasis | digest food
+liver bile fat | emulsifies; small droplets; surface area | turns fat into protein
+small_intestine villi | absorb nutrient bloodstream | store all waste
+large_intestine water | reabsorb water; feces form | most nutrient digestion
+immune skin | barrier; first defense | all microbes enter freely
+vaccine antibiotic difference | prevention immune memory versus treat bacteria | both kill all viruses
+communicable disease | pathogen transmission | inherited trait only
+nutrition deficiency | missing essential nutrient | always infection
+balanced diet variety | different foods provide different nutrient | one food contains every need
+osteoporosis calcium | bone weakness; mineral loss | stronger bone
+sunscreen | absorb block ultraviolet; reduce sunburn | protect all visible light only
+sound hearing damage | loud amplitude; prolonged exposure | low frequency always harmless
+hearing vibration sequence | eardrum bone cochlea nerve | light retina
+vision sequence | light cornea lens retina nerve | sound eardrum
+lens accommodation | change shape focus | change eye color
+cornea lens refraction | focus light retina | produce light
+insulin endocrine | hormone blood; chemical communication | nerve impulse only
+nervous endocrine difference | fast electrical versus slower hormone | identical pathways
+muscle antagonistic | one contracts other relaxes; opposing pair | both push bone
+bone living | growth repair; cells blood supply | completely dead material
+bone marrow | blood cell production | digestion
+cartilage joint | cushion; smooth movement; reduce friction | pump blood
+body temperature feedback | receptors brain effectors; negative feedback | unlimited amplification
+scientific model revision | new data; improve prediction | never revise
+hypothesis theory law | different roles; explanation versus descriptive pattern | hypothesis becomes law automatically
+investigation causation | manipulate variable; control comparison; replicate | correlation alone proves
+observational study | observe without intervention | deliberately change every variable
+ethical human experiment | informed consent; minimize harm; privacy | no permission needed
+sample representative | randomly selected; broad population | only convenient volunteers always
+control placebo | baseline; account expectation | guarantees cure
+blind study | reduce observer expectation bias | eliminate all uncertainty
+measurement uncertainty | instrument resolution; repeated variation | always zero
+systematic error | consistent bias; calibration issue | averages always remove
+random error | variable fluctuations; averaging reduces | constant offset only
+repeated precision accuracy | consistent may still biased | repeatability guarantees accuracy
+scientific disagreement resolve | reproducible evidence; test competing explanation | authority alone
+engineering criteria | required performance; success goals | only restrictions
+engineering constraint | cost material time safety limits | desired feature only
+engineering tradeoff | improve one property compromise other | all goals unlimited
+prototype test | evaluate criteria; find weakness; redesign | final proof perfect
+material design insulation | low conductivity; trapped air | highest conductivity
+material design wire | high conductivity; ductile; metal | brittle insulator
+material design window | transparency; light transmission | opaque only
+material design bridge | strength rigidity; load resistance | highest solubility
+coast temperature | ocean moderates; water heats cools slowly; high heat_capacity | water has no heat_capacity
+large water climate | stores thermal energy; slow temperature change | rapid heating cooling always
+water heat_capacity | much energy for temperature change; slow warming cooling | little energy large temperature change
+land water same sunlight | land temperature changes faster; water high heat_capacity | water always heats faster
+ocean coast summer | cooler than inland; ocean absorbs heat | always hotter than inland
+ ocean coast winter | warmer than inland; ocean releases stored heat | always colder than inland
+humidity comfort sweat | high humidity slows evaporation; less cooling | high humidity faster evaporation
+wet bulb dry bulb | evaporation cools wet bulb; humidity measure | identical all humidity
+cloud droplets nucleus | dust aerosol; condensation surfaces | no particles possible
+rain shadow air descent | warms; relative_humidity decreases | cools saturates always
+latitude sunlight angle | equator concentrated; poles spread area | equal energy per area everywhere
+earth curvature solar energy | oblique rays spread; poles less heating | sun cold at poles
+surface albedo | fraction reflected radiation | absorbed chemical mass
+snow ice albedo | high reflection; less absorption | absorbs all sunlight
+asphalt urban heat | low albedo; absorb sunlight; heat island | reflects all sunlight
+vegetation urban cool | shade; transpiration | all heat generated leaves
+water vapor greenhouse | absorbs infrared; heat retained | blocks all visible light
+atmospheric convection | temperature density pressure differences | earth orbit alone
+barometric pressure wind | greater gradient stronger wind | wind independent pressure
+storm forecast | pressure falling; clouds; radar satellite | single measurement guarantees
+weather climate evidence | many years averages versus daily observations | one cold day disproves warming
+sea level thermal expansion | warming ocean volume increase | ocean mass necessarily increases
+land ice melt sea level | adds water ocean | no sea level effect
+floating sea ice melt | small direct sea level effect; already displaced water | same as land ice
+salinity evaporation | salt remains; salinity increases | salt evaporates first
+salinity rain river | dilution; salinity decreases | always increases
+watershed pollution downstream | runoff transports; connected water systems | remains source forever
+permeable surface recharge | infiltration; groundwater replenishment | all water runoff
+impermeable rock water | blocks flow; perched water; aquifer boundary | fast infiltration
+confined aquifer | pressure; impermeable layers | open ocean
+renewable replenishment | natural cycle; human time scale | cannot run out under any use
+renewable limitation overuse | use faster replenishment possible; management | always unlimited
+energy resource environmental cost | compare pollution habitat waste | renewable always impact free
+fossil_fuel geological time | millions year; replenishes slowly | created every night
+solar thermal | sunlight heats water | always direct photovoltaic
+photovoltaic | light electrical conversion; solar cell | steam turbine required
+wind power indirect solar | unequal heating air; wind | moon chemical energy
+hydropower indirect solar | water_cycle; evaporation rain elevation | radioactive decay only
+geothermal not solar | earth internal heat; radioactive decay | sunlight stored leaf
+nuclear waste | radioactive; long term storage | ordinary compost
+nuclear fission greenhouse | low direct carbon_dioxide; radioactive waste | burns coal in nucleus
+fusion star | nuclei combine; hydrogen helium; mass energy | ordinary combustion
+ore extraction environmental | habitat disruption; waste; water pollution | no land effects
+renewable sustainable forest | regrowth; harvest below replenishment | clearcut without replant always
+compost conditions | microorganism; moisture; oxygen for aerobic | plastic decomposes immediately
+biodegradable | broken down organisms | never changes
+nonbiodegradable | persistent waste; slow breakdown | decomposes quickly always
+geologic processes timescale | slow accumulation plus sudden events | all change instantaneous
+uniformitarianism | present processes explain past | all rates always same
+geologic fossil correlation | matching index_fossil; relative age | same depth always same age
+index_fossil useful | widespread short lived abundant recognizable | restricted long lived
+radiometric half_life predict | fraction parent remaining; exponential decay | decay rate depends weather
+radioactive half_life two | one fourth remains; 25 percent | one half remains
+radioactive half_life three | one eighth remains; 12 5 percent | three quarters remains
+carbon14 limits | once living recent geological age | age earth directly
+rock metamorphism melting | solid state heat pressure; melting makes magma | metamorphic requires full melting
+rock stratification | sediment deposition over time | all rock layers same day
+intrusion relative age | younger than rock cut | always oldest
+fossil soft part preservation | rare; rapid burial; amber freezing | always more common than bones
+animal buried sediment | decay prevented; mineral replacement; fossil | heat melting preserves dna
+earthquake prediction | probability hazard; exact time uncertain | exact date guaranteed
+earthquake building | flexible reinforcement; absorb energy | brittle unreinforced safest
+volcano eruption viscosity | high silica viscous gas trapped explosive | all lava same
+basalt lava | low viscosity; flows easily | thickest always
+plate convection heat | hot less dense rises; cool dense sinks | mantle totally static
+subduction ocean crust | colder denser; sinks mantle | always lighter than continental
+mountain weathering uplift | uplift builds; weathering erosion wear down | never change elevation
+satellite remote sensing | large areas repeated observation | only direct ground measurement
+satellite geostationary | earth rotation period; fixed over equator | no motion in space
+orbit freefall | gravity inward; forward inertia | no gravity
+orbital distance period | larger radius longer period | farther faster always
+moon phases viewpoint | changing angle sun earth moon | earth shadow every phase
+star constellation distance | apparent pattern; different actual distances | same physical cluster always
+light_year compare distance | longer light travel time farther | unit mass
+star spectrum | composition temperature motion | only size
+redshift cosmology | longer wavelength; receding | moving closer always
+blueshift | shorter wavelength; approaching | receding always
+stellar parallax | apparent shift earth orbit; nearby distance | season brightness only
+space vacuum heat | radiation; no convection through empty space | conduction through vacuum
+astronaut water recycle | limited supplies; conservation | new water atoms created

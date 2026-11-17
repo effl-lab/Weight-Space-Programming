@@ -1,0 +1,39 @@
+@earth_materials
+soil : weathered rock humus organic matter minerals
+humus : decayed plants animals dark rich
+clay soil : holds water small particles
+sandy soil : drains quickly large particles
+loam : best plants mixture
+topsoil : erosion plants
+minerals : quartz feldspar mica calcite
+@earth_water
+ocean : salt water most earth surface
+freshwater : rivers lakes glaciers groundwater small percent
+glacier ice cap : frozen freshwater most
+groundwater : wells underground aquifer
+watershed : land drains river
+river : flows downhill ocean erosion
+lake : freshwater still
+@earth_changes
+weathering : wind water ice plants roots break
+erosion : wind water ice gravity carry
+deposition : sediment drops dunes delta
+slow changes : weathering erosion deposition
+fast changes : earthquakes volcanoes landslides floods
+volcano : eruption lava ash new land islands
+earthquake : shaking ground damage tsunami
+landslide : gravity slope rain
+flood : heavy rain overflow
+@earth_space2
+day night : rotation spin axis =24 hours
+year : revolution orbit =365 days
+seasons : tilt axis orbit summer winter
+moon : orbits earth month phases reflects
+moon phases : new crescent quarter gibbous full
+solar system : sun planets orbit
+star : sun hot gas light
+constellation : star patterns
+galaxy : milky way stars
+planet : orbit sun
+inner planets : rocky mercury venus earth mars
+outer planets : gas giants jupiter saturn uranus neptune

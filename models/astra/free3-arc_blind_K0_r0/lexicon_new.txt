@@ -1,0 +1,145 @@
+# Additional conservative lexical forms and named apparatus.
+food_web food_webs
+food_chain food_chains
+carbon_dioxide carbon_dioxide carbon_dioxides
+water_vapor water_vapour water_vapor
+carbon_monoxide carbon_monoxide
+baking_soda baking_soda sodium_bicarbonate
+dry_ice dry_ice
+iron_sulfide iron_sulfide iron_sulphide
+salt sodium_chloride table_salt
+fiber_optic fiber_optic fibre_optic fiber_optics fibre_optics
+tuning_fork tuning_forks tuning_fork
+cold_pack cold_pack ice_pack
+light_meter light_meter
+potential_difference potential_difference
+systematic_error systematic_error
+random_error random_error
+heat_island heat_island
+pressure_gradient pressure_gradient
+storm_surge storm_surge
+binary_fission binary_fission
+punnett_square punnett_square punnett_squares
+venus_flytrap venus_flytrap venus_flytraps
+kangaroo_rat kangaroo_rat kangaroo_rats
+carbon14 carbon14
+leaf leaves leafs
+wolf wolves
+calf calves
+goose geese
+mouse mice
+louse lice
+cactus cacti cactuses
+octopus octopuses octopi
+larva larvae
+pupa pupae
+vertebra vertebrae
+stimulus stimuli
+medium media
+criterion criteria
+bacterium bacteriums bacteria
+fungus funguses fungi
+phenomenon phenomena
+hypothesis hypotheses
+analysis analyses
+axis axes
+appendage appendages
+maneuver manoeuvre maneuver maneuvers
+color coloration colouration
+behavioral behavioural behavioral
+pollute pollutant pollutants polluted polluting pollutes pollution
+contaminant contaminants
+contaminate contaminates contaminated contaminating contamination
+replenish replenishes replenished replenishing replenishment
+restore restores restored restoring restoration
+deplete depletes depleted depleting depletion
+exhaust exhausts exhausted exhausting
+fragment fragments fragmented fragmenting fragmentation
+displace displaces displaced displacing displacement
+submerge submerges submerged submerging
+emerge emerges emerged emerging
+expel expels expelled expelling
+inflate inflates inflated inflating inflation
+deflate deflates deflated deflating deflation
+distort distorts distorted distorting distortion
+dissipate dissipates dissipated dissipating dissipation
+oscillate oscillates oscillated oscillating oscillation
+vibrate vibrates vibrating vibrated vibration vibrations
+compress compresses compressing compressed compression
+contract contracts contracted contracting contraction
+expand expands expanding expanded expansion
+accelerate accelerates accelerated accelerating acceleration
+decelerate decelerates decelerated decelerating deceleration
+illuminate illuminates illuminated illuminating illumination
+illuminate sunlit lit
+reflect reflected reflects reflecting reflection
+refract refracts refracted refracting refraction
+scatter scatters scattered scattering
+transmit transmits transmitted transmitting transmission
+opaque opaque
+transparent transparency
+translucent translucency
+permeable permeable
+impermeable impermeable
+reversible reversibly
+irreversible irreversibly
+saturated saturation
+saturate saturates saturated saturating
+solidify solidifies solidified solidifying solidification
+melt melted melts melting
+freeze freezes frozen freezing froze
+boil boils boiled boiling
+condense condenses condensed condensing condensation
+evaporate evaporates evaporated evaporating evaporation
+sublime sublimes sublimated sublimate sublimates sublimating sublimation
+oxidation oxidisation oxidization
+malleable malleability
+ductile ductility
+lustrous luster lustre shiny
+brittle brittleness
+rigid rigidity
+flexible flexibility
+elastic elasticity
+absorbent absorbency
+waterproof waterproofing
+conduct conductor conductors
+insulate insulator insulators
+conduct conductive conducting conducted conducts
+insulate insulates insulating insulated insulation
+replicate replication replicates replicated replicating
+repeat repeatable repeats repeated repeating repetition
+reproduce reproducible reproducibility
+reliable reliability
+represent representative representation
+proportion proportional proportionally proportions
+quantitative quantitatively
+qualitative qualitatively
+correlate correlates correlated correlating correlation
+compare compares compared comparing comparison
+contrast contrasts contrasted contrasting
+vary varies varied varying variation
+independent_variable independent_variable manipulated_variable
+ dependent_variable dependent_variable responding_variable
+controlled_variable controlled_variable constant_variable
+control_group control_group
+experimental_group experimental_group
+triple_beam triple_beam
+spring_scale spring_scale spring_balance
+graduated_cylinder graduated_cylinder graduated_cylinders
+rain_gauge rain_gauge rain_gauges
+wind_vane wind_vane weather_vane
+light_year light_year light_years
+bar_graph bar_graph bar_graphs
+line_graph line_graph line_graphs
+pie_chart pie_chart pie_charts
+scatter_plot scatter_plot scatter_plots
+x_axis x_axis
+y_axis y_axis
+error_bar error_bar error_bars
+# Restore morphological families split by later lexical entries.
+decrease reduce reduces reduced reducing reduction
+respond response responses
+explain explanation explanations explanatory
+oxidize oxidation oxidizing oxidized oxidisation oxidization
+# Ordinary goal-language inflections, shared by all task domains.
+want wants wanted wanting

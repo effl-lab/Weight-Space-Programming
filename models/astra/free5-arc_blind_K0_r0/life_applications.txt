@@ -1,0 +1,253 @@
+# Explanations connecting structure, observations, and biological mechanisms.
+# Plant investigations and matter accounting
+plant sealed transparent container sunlight | photosynthesis; carbon_dioxide uptake; oxygen release
+plant sealed container dark | respiration; oxygen consumption; carbon_dioxide release
+plant grown dark pale | less chlorophyll; inadequate photosynthesis; stored food depleted
+plant grown dark tall thin | elongation seeking light; limited food; weak growth
+plant leaves covered foil | less light photosynthesis; less starch made
+leaf iodine blue black | starch present; photosynthesis stored carbohydrate
+leaf green white variegated | green region chlorophyll; photosynthesis
+leaf bubbles underwater sunlight | oxygen released photosynthesis
+aquatic plant bright light bubbles | photosynthesis oxygen production
+plant mass dry wood source | carbon_dioxide atmosphere; photosynthetic carbon fixation | soil accounts entire mass
+plant soil mass little change | carbon from air; photosynthesis builds biomass
+tree oxygen production | photosynthesis releases oxygen
+plant stored starch seed | fuels cellular_respiration during germination
+seed with no water | germination inhibited; enzymes inactive
+seed completely flooded | oxygen limited; respiration impaired
+seed boiled then planted | embryo killed; no germination
+seed viable dormant | living embryo; growth resumes suitable conditions
+seed planted upside_down | roots grow gravity; shoots grow upward
+root growing moist soil | hydrotropism; water access
+plant window bends | unequal growth; phototropism; light stimulus
+plant tendril wraps support | thigmotropism; response touch
+sunflower leaf orientation | capture sunlight; photosynthesis
+venus_flytrap catches insects | obtains mineral nutrients; nitrogen | replaces all photosynthesis
+pitcher plant insect | mineral nutrients; nitrogen poor soil | insect supplies sunlight
+legume root nodule | nitrogen_fixation bacteria; mutualism
+clover soil nitrogen | symbiotic bacteria; nitrogen fixation
+corn yellow leaf nitrogen | mineral deficiency; reduced chlorophyll
+fertilizer plant mass | mineral nutrients support growth | fertilizer supplies most carbon
+fertilizer excessive roots | osmotic water loss; chemical stress
+plant root hair removed | decreased surface_area; less water uptake
+celery colored water stem | xylem transports water; vascular tissue
+tree bark ring removed | phloem disrupted; sugars cannot reach roots
+tree trunk rings | seasonal growth; relative age; growing conditions
+tree rings similar pattern | shared climate conditions; rainfall history
+flower fertilization without pollinator | hand pollination; transfer pollen stigma
+flower bright petals scent | attracts pollinators; reproductive success
+flower removed before fruit | reduced seed fruit production
+seed carried far parent | reduced competition light water nutrients
+burr hooked clothing | seed dispersal; attachment to animals
+maple seed wings | slow descent; wind dispersal
+coconut floats ocean | water dispersal; buoyant fruit
+dandelion seed hairs | wind carries lightweight seeds
+apple eaten animal | seeds dispersed away parent
+pine cone | protects seeds; gymnosperm reproduction
+fern underside brown spots | spore producing structures; reproduction
+moss moist habitat | water needed sperm movement; nonvascular
+moss small size | lacks extensive vascular transport
+# Cellular analogies and transport
+cell membrane doorway | controls material entry exit; selective permeability
+cell nucleus instructions | dna; directs protein production
+cell ribosome assembly | protein synthesis; amino acids joined
+cell mitochondrion energy | respiration; atp release
+cell vacuole warehouse | storage water nutrients waste
+cell golgi packaging | modifies sorts transports proteins
+cell lysosome recycling | enzymes break down wastes old organelles
+cell_wall fence support | rigid protection; maintains shape
+chloroplast solar collector | light energy drives photosynthesis
+plant cell box shape | rigid cell_wall | nucleus fixes outer shape
+animal cell flexible boundary | cell_membrane; lacks rigid cell_wall
+microscope onion cells | cell_wall; nucleus; large vacuole
+onion bulb cell chloroplast | storage tissue; generally lacks chloroplast
+cheek cell microscope | animal cell; membrane nucleus | cell_wall chloroplast
+bacteria microscope nucleus absent | prokaryotic; dna without nuclear membrane
+single celled pond organism | one cell carries all life functions
+paramecium contractile vacuole | expels excess water; osmoregulation
+amoeba surrounds food | pseudopod; engulfing; phagocytosis
+cell crowded waste | diffusion removes wastes; membrane exchange
+cell divides size limit | surface_area volume; efficient exchange
+cut heals skin | mitosis; cell reproduction; repair
+bone fracture heals | cell growth division; tissue repair
+muscle cell many mitochondria | large energy demand; respiration
+sperm many mitochondria | energy for swimming; movement
+red_blood_cell hemoglobin | binds carries oxygen; blood transport
+red_blood_cell no nucleus mature mammal | more room hemoglobin; oxygen transport
+white_blood_cell infection | immune defense; destroys pathogens
+blood platelets cut | clot forms; reduces bleeding
+raisin soaked water | osmosis; water enters; swells
+potato salt solution | water leaves cells; mass decreases
+celery wilt water | osmosis restores turgor; firm cells
+salt slug | water leaves cells osmosis; dehydration
+fish freshwater saltwater transfer | osmotic stress; water balance disrupted
+diffusion perfume room | random molecular motion; concentration gradient
+diffusion food coloring water | particles spread; high concentration to low
+food coloring warm water | diffusion faster; particles move faster
+oxygen alveoli blood | diffusion; concentration difference; thin walls
+nutrients intestine blood | absorption; large surface_area villi
+# Nutrition, health, body-system coordination
+food energy calorie | chemical_energy; amount energy in food
+carbohydrate exercise | readily used energy; glucose respiration
+protein growth repair | amino acids; build tissues enzymes
+fat energy storage | long term concentrated energy; insulation
+vitamin small amounts | supports body processes; nutrient
+mineral calcium bone | bone teeth strength
+iron deficiency | less hemoglobin; anemia; reduced oxygen transport
+vitamin_d calcium | calcium absorption; healthy bones
+vitamin_c deficiency | scurvy; impaired connective tissue
+balanced diet | variety nutrients; adequate energy; growth health
+fiber digestive health | supports bowel movement; indigestible plant material
+water body role | transport substances; temperature regulation; solvent
+dehydration exercise | replace water; restore fluid balance
+salty food thirst | water balance; homeostasis
+exercise heartbeat faster | deliver more oxygen glucose muscles; remove wastes
+running breathing faster | more oxygen intake; carbon_dioxide removal
+exercise sweating | evaporation removes heat; homeostasis
+fever body temperature | immune response; changed temperature regulation
+skin protective barrier | prevents pathogen entry; limits water loss
+nose hairs mucus | traps dust pathogens; respiratory protection
+cough sneeze | expels irritants; respiratory reflex
+smoking cilia | damages airway cleaning; lung disease
+lung alveoli many sacs | large surface_area for gas exchange
+breathing chest expansion | pressure falls; air enters lungs
+lung diaphragm puncture | pressure mechanism impaired; breathing difficulty
+heart blood circulation | pumps blood; delivers oxygen nutrients
+heart exercise adaptation | more efficient pumping; improved endurance
+blood artery body | transports blood away heart
+blood vein return | toward heart; valves prevent backflow
+blood route digestive cells | absorbed nutrients transported circulation
+blood route lung muscle | oxygen transported circulation
+muscle respiration wastes | carbon_dioxide transported lungs; exhaled
+kidney blood filtration | urea excess water salts removed
+kidney urine concentrated | conserves water during dehydration
+liver toxic substances | detoxification; chemical processing
+liver digestion bile | assists fat emulsification
+stomach muscular wall | churns mixes food; mechanical digestion
+stomach acid protein | chemical digestion; enzymes work acidic conditions
+small_intestine long folded | larger surface_area; greater absorption
+large_intestine water | absorbs water; solid waste formation
+brain nerve muscle | electrical signals coordinate response
+hand touches hot surface | reflex; spinal_cord; rapid withdrawal
+pupillary reflex | controls light entering eye
+balance inner ear | fluid sensory structures detect motion
+hearing ear bones | transmit amplify vibrations inner ear
+hormone bloodstream | chemical messenger; distant target cells
+endocrine slow lasting response | hormone signaling blood | only electrical nerve impulses
+nervous rapid response | nerve impulses; fast communication | only hormones through blood
+pancreas after meal | insulin; glucose uptake; blood_glucose decreases
+body temperature regulation | nervous endocrine circulatory skin cooperation
+muscle bone joint movement | muscles contract pull bones; coordinated systems
+breathing circulatory interaction | lungs exchange gases; blood transports gases
+immune vaccination | antigens stimulate memory; future protection
+infectious disease prevention | hygiene; vaccination; reduce pathogen transmission
+cold influenza antibiotic | viruses; antibiotics target bacteria | antibiotics cure every virus
+antibiotic resistant bacteria survive | inherited resistance; reproduction; natural_selection
+antibiotic treatment finish prescribed | follow medical instructions; treat infection appropriately
+food spoiled smell mold | microbial growth; chemical decomposition
+food salt preservation | less available water microbes; osmotic stress
+food refrigeration | slows microbial metabolism reproduction
+food freezing preservation | slows microbial growth | kills every microbe always
+food canning heat | kills microbes; sealed container reduces contamination
+hand washing before eating | removes microbes; reduces infection
+raw meat separate food | prevent cross contamination; pathogens
+mosquito stagnant water | breeding habitat; larvae develop water
+# Adaptation, ecology and inheritance applications
+desert fox large ears | release heat; thermoregulation
+arctic fox small ears | reduce heat loss; conserve warmth
+polar bear thick fur fat | insulation; cold adaptation
+camel hump | fat energy storage | stored liquid water bag
+camel long eyelashes | protect eyes from blowing sand
+camel broad feet | distribute weight; avoid sinking sand
+desert kangaroo_rat | conserves water; concentrated urine; nocturnal
+penguin huddle | reduces exposed surface_area; conserves heat
+seal streamlined body | reduces water resistance; swimming
+fish streamlined body | reduces drag; efficient movement
+duck oily feathers | waterproofing; insulation
+bird preening oil | maintains waterproof feather covering
+bird beak long narrow flower | reaches nectar; feeding adaptation
+bird beak short thick | cracks seeds; food adaptation
+bird hooked beak | tears meat; predator feeding
+bird flat broad beak | filtering aquatic food
+owl forward facing eyes | depth perception; hunting prey
+owl large eyes night | collect dim light; nocturnal hunting
+rabbit eyes side head | wide view; detect predators
+deer flat molars | grind plants; herbivory
+lion sharp canine | capture prey; tear meat
+snake forked tongue | detects chemical cues environment
+lizard basking sunlight | gains heat externally; ectotherm
+reptile cold weather | slower metabolism; less activity
+frog moist skin | gas exchange; needs moisture
+frog eggs water | lack protective shell; aquatic development
+bird egg hard shell | protects embryo; reduces water loss
+mammal parent milk | nourishes offspring; parental care
+insect exoskeleton waterproof | protection; limits water loss
+insect shed exoskeleton | growth; molting
+spider web silk | traps prey; obtains food
+beaver dam | changes habitat; creates pond
+termite gut microorganism | cellulose digestion; mutualism
+cow gut bacteria | digest plant cellulose; mutualism
+cleaner fish larger fish | parasites removed; food gained; mutualism
+bee flower interaction | nectar food; pollen transfer; mutualism
+clownfish anemone | protection; mutualistic association
+barnacle whale interaction | transportation feeding; commensalism
+orchid grows tree | support light access; commensalism
+mistletoe tree | obtains water nutrients; parasitism
+tapeworm intestine | takes host nutrients; parasite
+flea dog | feeds blood; parasite harms host
+tick mammal | parasitism; blood feeding
+lichen | fungus algae partnership; mutualism
+competition plants close | light water nutrient limited; reduced growth
+competition animals same food | limited shared resource
+species different feeding times | reduced competition; different niches
+species different beak sizes | different food resources; niche separation
+predator prey balance | populations affect each other; food_web
+predator population hunting removed | prey may increase; reduced predation
+herbivore overpopulation | plants depleted; starvation competition
+producer drought decrease | less food energy consumers; population decline
+pollinator pesticide killed | less plant reproduction; fewer fruits seeds
+invasive species no predator | rapid growth; competes native species
+invasive plant dense cover | native plant light competition; biodiversity loss
+wetland drained habitat | aquatic species decline; filtration flood control lost
+forest fragmented road | isolated populations; movement restricted
+wildlife bridge road | connects habitat; reduces collisions
+coral bleaching | stress causes loss symbiotic algae; less energy
+warm water fish oxygen | less dissolved_oxygen; respiration stress
+fertilizer lake bloom | algae grow; decomposition consumes oxygen
+dead fish polluted lake | low oxygen; toxins; disrupted habitat
+pesticide food_chain eagle | biomagnification; high pollutant concentration
+reintroduce predator | prey regulated; potential vegetation recovery
+biodiversity ecosystem disease | varied species reduce shared vulnerability
+genetic diversity population change | some variants survive; natural_selection
+mutation advantageous habitat | carriers more likely survive reproduce
+drought hard seeds finch | strong deep beaks may favored; selection
+moths dark polluted bark | camouflage; less predation; selection
+white rabbits snowless habitat | more visible predators; changed selection
+acquired scar offspring | not inherited through genes
+learned trick dog offspring | learning not automatically inherited
+trained athlete muscle offspring | acquired muscle not directly inherited
+identical twins different weight | environment diet exercise affect phenotype
+same seed genetics different height | environment affects growth
+identical twins genes | same original zygote; nearly same genome
+siblings variation | different combinations parental alleles
+sexual offspring traits | genetic material from both parents
+asexual potato cutting | genetically similar parent; clone
+bacteria binary_fission | one cell divides two; asexual
+yeast budding | new individual grows parent; asexual
+starfish regeneration | replaces lost tissue; cell division
+sexual reproduction fertilization | sperm egg nuclei join; zygote
+meiosis gamete chromosome | half body cell number
+fertilization restores chromosome | two haploid gametes; diploid zygote
+body cell mitosis chromosomes | same number daughter cells
+recessive trait two carriers | offspring may inherit two recessive alleles
+homozygous dominant recessive cross | all offspring heterozygous; dominant phenotype
+heterozygous self cross | three dominant one recessive expected phenotype
+heterozygous recessive cross | half dominant half recessive expected phenotype
+punnett_square | possible allele combinations; probability | guarantees exact small family outcome
+dominant allele expression | expressed in heterozygote | always most common population
+recessive allele expression | two recessive copies typical diploid model | cannot be inherited
+fossil homologous bones | common ancestry; evolutionary evidence
+similar dna species | closer evolutionary relationship
+whale flipper human arm | homologous bones; common ancestry
+bird wing insect wing | similar function; different evolutionary structures
+extinction habitat rapid change | insufficient adaptation; loss resources

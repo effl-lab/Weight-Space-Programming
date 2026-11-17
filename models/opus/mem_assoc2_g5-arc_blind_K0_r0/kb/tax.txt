@@ -1,0 +1,201 @@
+# parent: child, child, ...   (a question about the parent supports the children and vice versa; closure decays)
+living thing: organism
+organism: plant, animal, fungus, bacteria, protist
+producer: plant, algae, phytoplankton, cyanobacteria
+consumer: animal, herbivore, carnivore, omnivore
+decomposer: fungus, bacteria, mushroom, mold, earthworm, worm, millipede, termite
+fungus: mushroom, mold, yeast, mildew
+protist: amoeba, paramecium, euglena, algae, diatom, plankton
+plant: tree, grass, moss, fern, shrub, bush, vine, cactus, weed, crop, algae, seaweed, lichen, wheat, corn, rice, bean, pea, oak, maple, pine, clover, dandelion, sunflower, rose, tulip, daisy, lettuce, carrot, potato, tomato, apple tree, palm tree, bamboo, ivy, kelp, cattail, water lily, venus flytrap, spruce, fir, birch, willow, redwood, sequoia, orchid, lily
+tree: oak, maple, pine, spruce, fir, birch, willow, redwood, sequoia, palm, apple tree, cedar, elm, aspen, hemlock
+conifer: pine, spruce, fir, cedar, redwood, sequoia, hemlock
+flowering plant: rose, tulip, daisy, sunflower, dandelion, apple tree, orchid, lily, bean, pea, oak, maple, grass, corn, wheat
+nonvascular plant: moss, liverwort, hornwort
+seedless plant: moss, fern
+herbivore: rabbit, deer, cow, horse, sheep, goat, giraffe, elephant, zebra, grasshopper, caterpillar, squirrel, mouse, moose, buffalo, bison, koala, panda, beaver, hippopotamus, rhinoceros, camel, manatee, snail, cricket, aphid, prairie dog, antelope, elk, gazelle, chipmunk, hamster, guinea pig, termite, tadpole, zooplankton, krill
+carnivore: lion, tiger, wolf, hawk, eagle, owl, shark, snake, frog, spider, fox, cheetah, leopard, polar bear, seal, killer whale, orca, alligator, crocodile, falcon, coyote, lizard, toad, ladybug, praying mantis, dragonfly, jellyfish, octopus, starfish, penguin, cougar, mountain lion, bobcat, weasel, heron, pelican, tuna, salmon, trout, bass
+omnivore: human, bear, raccoon, pig, chicken, crow, skunk, opossum, chimpanzee, monkey, rat, robin, ostrich, ant, catfish, box turtle, possum
+scavenger: vulture, hyena, crab, crow, raccoon, catfish, lobster, buzzard
+animal: vertebrate, invertebrate
+vertebrate: mammal, bird, fish, reptile, amphibian
+mammal: human, dog, cat, cow, horse, whale, dolphin, bat, mouse, rat, rabbit, deer, bear, lion, tiger, wolf, fox, elephant, giraffe, monkey, ape, gorilla, chimpanzee, kangaroo, koala, opossum, platypus, seal, walrus, sea lion, otter, beaver, squirrel, sheep, goat, pig, camel, zebra, hippopotamus, rhinoceros, moose, raccoon, skunk, porcupine, manatee, mole, shrew, chipmunk, hamster, cheetah, leopard, polar bear, killer whale, orca, porpoise, armadillo, anteater, sloth, bison, buffalo, coyote, hyena, panda, weasel, ferret, mink, llama, donkey, elk, antelope
+marsupial: kangaroo, koala, opossum, wallaby, wombat
+monotreme: platypus, echidna
+bird: robin, eagle, hawk, owl, penguin, ostrich, chicken, duck, goose, sparrow, crow, parrot, pigeon, dove, hummingbird, woodpecker, cardinal, blue jay, swan, turkey, vulture, falcon, flamingo, pelican, seagull, gull, heron, emu, finch, bluebird, peacock, crane, stork, kiwi, quail, warbler, canada goose
+fish: shark, salmon, trout, tuna, goldfish, catfish, bass, cod, guppy, eel, minnow, carp, perch, sardine, swordfish, ray, stingray, seahorse, clownfish, flounder, herring, piranha, angelfish
+reptile: snake, lizard, turtle, tortoise, alligator, crocodile, iguana, gecko, chameleon, rattlesnake, cobra, python, komodo dragon, sea turtle, box turtle, dinosaur
+amphibian: frog, toad, salamander, newt, tadpole, caecilian
+invertebrate: insect, arachnid, crustacean, mollusk, worm, jellyfish, sponge, starfish, sea star, coral, sea urchin, sea anemone, centipede, millipede, octopus, squid, snail, slug, clam, oyster, earthworm, leech, tapeworm, planarian
+arthropod: insect, arachnid, crustacean, centipede, millipede
+insect: ant, bee, butterfly, moth, beetle, fly, mosquito, grasshopper, cricket, dragonfly, ladybug, termite, cockroach, wasp, flea, louse, aphid, caterpillar, firefly, praying mantis, cicada, honeybee, bumblebee, monarch butterfly, housefly, weevil, stick insect, walking stick
+arachnid: spider, scorpion, tick, mite
+crustacean: crab, lobster, shrimp, crayfish, barnacle, krill, pill bug, sow bug, isopod
+mollusk: snail, slug, clam, oyster, mussel, octopus, squid, scallop, conch
+cnidarian: jellyfish, coral, sea anemone, hydra
+echinoderm: starfish, sea star, sea urchin, sand dollar, sea cucumber
+annelid: earthworm, leech, segmented worm
+bacteria: e coli, streptococcus, salmonella, cyanobacteria
+virus: influenza, cold virus, hiv, measles, chickenpox, polio, rabies
+rock: igneous rock, sedimentary rock, metamorphic rock
+igneous rock: granite, basalt, obsidian, pumice, rhyolite, andesite, gabbro, diorite, scoria, tuff
+sedimentary rock: sandstone, limestone, shale, conglomerate, coal, chalk, siltstone, mudstone, breccia, rock salt, gypsum, coquina
+metamorphic rock: marble, slate, quartzite, gneiss, schist, phyllite, anthracite
+mineral: quartz, feldspar, mica, calcite, halite, gypsum, talc, diamond, graphite, pyrite, magnetite, hematite, galena, fluorite, corundum, topaz, olivine, hornblende, garnet, apatite, orthoclase, copper, gold, silver, sulfur
+gem: diamond, ruby, emerald, sapphire, topaz, garnet, amethyst, opal
+fossil fuel: coal, oil, natural gas, petroleum, gasoline, diesel, kerosene, propane
+nonrenewable resource: coal, oil, natural gas, petroleum, gasoline, uranium, fossil fuel, minerals, metal ores, aluminum ore, iron ore
+renewable resource: solar energy, wind energy, hydroelectric power, geothermal energy, biomass, trees, wood, sunlight, wind, moving water, tides, crops, plants, animals, fresh water, soil, oxygen, ethanol
+inexhaustible resource: sunlight, wind, solar energy, wind energy, tides
+planet: mercury, venus, earth, mars, jupiter, saturn, uranus, neptune
+inner planet: mercury, venus, earth, mars
+terrestrial planet: mercury, venus, earth, mars
+outer planet: jupiter, saturn, uranus, neptune
+gas giant: jupiter, saturn, uranus, neptune
+dwarf planet: pluto, ceres, eris
+solar system: sun, planet, moon, asteroid, comet, meteoroid, dwarf planet, asteroid belt, kuiper belt
+star: sun, polaris, north star, sirius, betelgeuse, rigel, alpha centauri, proxima centauri, vega, red giant, white dwarf, supergiant, neutron star
+galaxy: milky way, andromeda, spiral galaxy, elliptical galaxy, irregular galaxy
+constellation: orion, big dipper, little dipper, ursa major, ursa minor, cassiopeia, leo, scorpius, taurus, gemini
+cloud: cumulus, stratus, cirrus, cumulonimbus, nimbostratus, altostratus, cirrostratus, cirrocumulus, altocumulus, fog
+precipitation: rain, snow, sleet, hail, drizzle, freezing rain
+severe weather: tornado, hurricane, thunderstorm, blizzard, flood, drought, ice storm, tropical storm, cyclone, typhoon
+natural disaster: earthquake, volcano, tsunami, hurricane, tornado, flood, landslide, wildfire, drought, avalanche, mudslide
+landform: mountain, valley, canyon, plain, plateau, hill, delta, dune, island, peninsula, mesa, butte, volcano, glacier, beach, cliff, cave, sinkhole, floodplain
+body of water: ocean, sea, lake, river, stream, pond, bay, gulf, lagoon, estuary, creek, reservoir
+biome: desert, tundra, rainforest, tropical rainforest, grassland, savanna, prairie, deciduous forest, temperate forest, taiga, boreal forest, coniferous forest, chaparral, ocean, freshwater, wetland, coral reef
+organ system: digestive system, circulatory system, respiratory system, nervous system, skeletal system, muscular system, excretory system, urinary system, immune system, endocrine system, reproductive system, integumentary system, lymphatic system
+digestive system: mouth, teeth, saliva, esophagus, stomach, small intestine, large intestine, liver, pancreas, gallbladder, colon, rectum
+circulatory system: heart, blood, blood vessels, arteries, veins, capillaries, red blood cells, plasma
+respiratory system: lungs, trachea, windpipe, bronchi, alveoli, diaphragm, nose, nasal cavity
+nervous system: brain, spinal cord, nerves, neurons, sense organs, eyes, ears
+skeletal system: bones, skull, ribs, spine, vertebrae, femur, joints, cartilage, ligaments, marrow, pelvis
+muscular system: muscles, tendons, heart muscle, skeletal muscle, smooth muscle, biceps, triceps
+excretory system: kidneys, bladder, ureter, urethra, urine, skin, sweat, lungs, liver
+immune system: white blood cells, antibodies, lymph nodes, spleen, thymus, skin
+endocrine system: glands, hormones, pituitary gland, thyroid, adrenal gland, pancreas, insulin, ovaries, testes
+integumentary system: skin, hair, nails, sweat glands, oil glands
+reproductive system: ovaries, testes, uterus, egg, sperm
+organelle: nucleus, mitochondria, chloroplast, ribosome, vacuole, cell membrane, cell wall, cytoplasm, endoplasmic reticulum, golgi apparatus, lysosome, centriole
+simple machine: lever, pulley, wheel and axle, inclined plane, wedge, screw, ramp
+lever: seesaw, crowbar, scissors, wheelbarrow, hammer claw, bottle opener, broom, shovel, tweezers, nutcracker
+wedge: axe, knife, chisel, nail, doorstop, teeth, zipper, needle
+wheel and axle: doorknob, steering wheel, screwdriver, bicycle wheel, pencil sharpener, faucet
+pulley: flagpole, crane, elevator, window blinds
+inclined plane: ramp, slide, stairs, road on a hill
+screw: jar lid, light bulb base, bolt, drill bit
+energy: kinetic energy, potential energy, chemical energy, thermal energy, heat, electrical energy, light energy, sound energy, nuclear energy, mechanical energy, radiant energy, gravitational potential energy, elastic potential energy, magnetic energy
+electromagnetic radiation: radio waves, microwaves, infrared, visible light, ultraviolet, x-rays, gamma rays
+state of matter: solid, liquid, gas, plasma
+element: hydrogen, helium, oxygen, nitrogen, carbon, sodium, chlorine, iron, gold, silver, copper, aluminum, calcium, potassium, magnesium, sulfur, phosphorus, neon, argon, mercury, lead, zinc, uranium, silicon, nickel, cobalt, tin, lithium, fluorine, iodine, platinum, titanium, radon, krypton, xenon, boron
+metal: iron, gold, silver, copper, aluminum, sodium, potassium, calcium, magnesium, mercury, lead, zinc, nickel, cobalt, tin, lithium, platinum, titanium, uranium, steel, brass, bronze, chromium, tungsten
+nonmetal: hydrogen, oxygen, nitrogen, carbon, sulfur, phosphorus, chlorine, fluorine, iodine, neon, helium, argon, selenium
+noble gas: helium, neon, argon, krypton, xenon, radon
+alkali metal: lithium, sodium, potassium, rubidium, cesium
+halogen: fluorine, chlorine, bromine, iodine
+metalloid: silicon, boron, germanium, arsenic
+magnetic material: iron, nickel, cobalt, steel, magnetite
+conductor: copper, aluminum, silver, gold, iron, steel, metal, water, salt water, graphite
+insulator: rubber, plastic, wood, glass, air, cloth, wool, styrofoam, paper, ceramic, cork, cotton, foam, feathers, fur, fiberglass
+compound: water, carbon dioxide, salt, sodium chloride, sugar, glucose, ammonia, methane, rust, iron oxide, baking soda, sodium bicarbonate, hydrogen peroxide, calcium carbonate, carbon monoxide, table salt
+mixture: salad, trail mix, salt water, sugar water, air, soil, sand and water, granola, fruit salad, cereal and milk, lemonade, alloy, steel, brass, bronze, concrete, smoke, fog, milk, blood, ocean water, pizza
+solution: salt water, sugar water, ocean water, air, lemonade, vinegar, soda, tea, brass, alloy, sweet tea, saltwater
+acid: lemon juice, vinegar, orange juice, stomach acid, hydrochloric acid, sulfuric acid, citric acid, soda, acid rain, battery acid, tomato juice, coffee
+base: baking soda, soap, ammonia, bleach, antacid, milk of magnesia, lye, sodium hydroxide, detergent
+measuring tool: ruler, meter stick, metric ruler, tape measure, balance, triple beam balance, scale, spring scale, thermometer, graduated cylinder, beaker, stopwatch, timer, clock, barometer, anemometer, rain gauge, hygrometer, wind vane, compass, seismograph, ammeter, voltmeter, protractor, measuring cup, pan balance
+optical tool: microscope, telescope, hand lens, magnifying glass, binoculars, camera, lens, mirror, prism
+unit of length: meter, centimeter, millimeter, kilometer, inch, foot, yard, mile, light year, astronomical unit
+unit of mass: gram, kilogram, milligram, metric ton
+unit of volume: liter, milliliter, cubic centimeter, gallon, quart, cup
+unit of time: second, minute, hour, day, week, month, year, decade, century
+unit of temperature: degree, celsius, fahrenheit, kelvin
+unit of force: newton, pound
+unit of energy: joule, calorie, kilowatt hour
+unit of power: watt, kilowatt, horsepower
+nutrient: protein, carbohydrate, fat, vitamin, mineral, water, fiber, calcium, iron, sugar, starch
+carbohydrate: sugar, starch, glucose, cellulose, bread, pasta, rice, potato, cereal, fiber, sucrose
+protein: meat, fish, eggs, beans, nuts, milk, cheese, chicken, tofu, peanuts, amino acids
+fat: butter, oil, lard, nuts, avocado, cheese, cream
+source of vitamin c: oranges, lemons, citrus fruit, strawberries
+source of calcium: milk, cheese, yogurt, dairy
+dairy: milk, cheese, yogurt, butter, ice cream
+sense organ: eye, ear, nose, tongue, skin
+sense: sight, hearing, smell, taste, touch
+weathering agent: water, ice, wind, plant roots, acid rain, temperature changes, oxygen, gravity, animals, frost
+erosion agent: water, wind, ice, glaciers, gravity, waves, rivers, ocean waves, rain, running water
+inherited trait: eye color, hair color, height, blood type, skin color, flower color, seed shape, dimples, freckles, attached earlobes, number of legs, beak shape, fur color, leaf shape
+learned behavior: reading, riding a bike, playing piano, speaking language, writing, training, tricks, hunting skills, playing sports
+instinct: spinning a web, migration, hibernation, nursing, building nests, suckling, swimming of fish, salmon swimming upstream, sea turtles going to the ocean, bees making honey, dance of bees
+lab safety equipment: safety goggles, gloves, apron, lab coat, fire extinguisher, eyewash station, fume hood, fire blanket, safety shower
+greenhouse gas: carbon dioxide, methane, water vapor, nitrous oxide, ozone, chlorofluorocarbons
+air pollutant: smoke, soot, carbon monoxide, sulfur dioxide, nitrogen oxides, ozone, smog, particulates, dust, chlorofluorocarbons, cfcs
+water pollutant: oil spill, sewage, fertilizer runoff, pesticides, chemicals, trash, plastic, heavy metals, mercury, lead, waste
+# generation 2: everyday categories (so that rules about a category also fire for its members)
+color: red, orange, yellow, green, blue, purple, violet, indigo, brown, black, white, gray, pink, tan
+season: summer, winter, spring, autumn, fall
+month: january, february, march, april, may, june, july, august, september, october, november, december
+direction: north, south, east, west
+metal: iron, copper, aluminum, steel, gold, silver, nickel, tin, zinc, lead, brass, bronze, mercury, sodium, potassium, magnesium, calcium, titanium
+nonmetal: oxygen, nitrogen, carbon, sulfur, hydrogen, helium, chlorine, neon, phosphorus
+gas: oxygen, nitrogen, carbon dioxide, hydrogen, helium, water vapor, methane, argon, neon, ozone, air
+liquid: water, oil, milk, juice, vinegar, alcohol, mercury, gasoline
+fuel: coal, oil, natural gas, gasoline, wood, propane, diesel, kerosene, ethanol
+fossil fuel: coal, oil, natural gas, petroleum, gasoline
+renewable resource: sunlight, wind, water, trees, solar energy, wind energy, hydroelectric, geothermal, biomass, tidal energy
+nonrenewable resource: coal, oil, natural gas, petroleum, uranium, minerals
+precipitation: rain, snow, sleet, hail, freezing rain, drizzle
+cloud: cirrus, cumulus, stratus, cumulonimbus, nimbostratus, fog
+storm: hurricane, tornado, thunderstorm, blizzard, typhoon, cyclone
+natural disaster: earthquake, volcano, tsunami, hurricane, tornado, flood, drought, landslide, wildfire, avalanche
+insulator: rubber, plastic, wood, glass, foam, styrofoam, wool, air, cloth, cotton, paper, ceramic
+conductor: copper, aluminum, iron, steel, silver, gold, metal, salt water, graphite
+food: bread, rice, pasta, meat, fish, eggs, milk, cheese, fruit, vegetables, beans, nuts, cereal
+fruit: apple, orange, banana, grape, strawberry, tomato, pumpkin, peach, cherry, lemon, pear, watermelon, cucumber, pepper, acorn
+vegetable: carrot, potato, lettuce, spinach, celery, broccoli, onion, corn, pea, bean, cabbage
+grain: wheat, rice, corn, oats, barley, rye
+tool: hammer, saw, screwdriver, scissors, shovel, wrench, pliers, knife
+measuring tool: ruler, meter stick, balance, scale, thermometer, graduated cylinder, stopwatch, beaker, measuring cup, spring scale
+body part: head, arm, leg, hand, foot, eye, ear, nose, mouth, heart, lung, stomach, brain, skin, bone
+organ: heart, lung, brain, stomach, liver, kidney, skin, intestine, pancreas, bladder, eye
+physical change: melting, freezing, boiling, evaporation, condensation, dissolving, cutting, tearing, crushing, bending, breaking glass, mixing, chopping wood, sanding, grinding
+chemical change: burning, rusting, cooking, baking, digesting, rotting, tarnishing, fermenting, souring, combustion, photosynthesis, respiration, fireworks exploding, corrosion
+kinetic energy: moving car, rolling ball, running, falling rock, flowing water, wind, swinging pendulum
+potential energy: stretched rubber band, compressed spring, book on shelf, water behind dam, ball at top of hill, roller coaster at top, battery, food
+light source: sun, star, lamp, light bulb, candle, fire, flashlight, firefly, lightning
+transparent material: glass, clear plastic, water, air
+translucent material: wax paper, frosted glass, tissue paper, thin cloth
+opaque material: wood, metal, cardboard, brick, stone, aluminum foil
+structural adaptation: beak, claws, fur, feathers, thorns, spines, shell, camouflage, webbed feet, long neck, blubber, gills
+behavioral adaptation: migration, hibernation, estivation, nocturnal, playing dead, schooling, herding
+water body: ocean, sea, lake, pond, river, stream, bay, gulf, glacier, wetland, swamp, marsh
+landform: mountain, valley, canyon, plateau, plain, hill, delta, island, peninsula, volcano, mesa, butte, dune, cave, cliff, beach, glacier
+weather instrument: thermometer, barometer, anemometer, rain gauge, wind vane, hygrometer, weather balloon, radar, satellite
+lab tool: beaker, test tube, graduated cylinder, balance, thermometer, microscope, hand lens, funnel, dropper, hot plate, goggles
+safety equipment: goggles, gloves, apron, fire extinguisher, eye wash, fire blanket
+renewable energy: solar, wind, hydroelectric, geothermal, tidal, biomass
+nonrenewable energy: coal, oil, natural gas, nuclear, petroleum, gasoline
+electrical conductor: copper, aluminum, silver, gold, iron, steel, salt water, graphite
+electrical insulator: rubber, plastic, glass, wood, cloth, paper, air, ceramic
+heat conductor: metal, copper, aluminum, iron, steel, silver
+heat insulator: wood, plastic, foam, styrofoam, wool, air, rubber, cloth, fiberglass
+pollinator: bee, butterfly, hummingbird, bat, moth, wind, beetle, fly
+seed disperser: wind, water, birds, squirrels, animals
+parasite: tick, flea, tapeworm, mosquito, louse, leech, mistletoe
+invasive species: zebra mussel, kudzu, cane toad, starling, purple loosestrife, asian carp, fire ant
+extinct animal: dinosaur, mammoth, dodo, passenger pigeon, saber toothed cat, trilobite
+endangered animal: panda, tiger, rhinoceros, blue whale, sea turtle, gorilla, condor, whooping crane
+nocturnal animal: owl, bat, raccoon, opossum, moth, firefly, skunk
+hibernating animal: bear, bat, groundhog, chipmunk, frog, turtle, snake, ground squirrel
+migrating animal: monarch butterfly, goose, whale, salmon, caribou, hummingbird, tern, wildebeest
+stage of life cycle: egg, larva, pupa, adult, nymph, tadpole, seed, seedling, embryo
+plant part: root, stem, leaf, flower, seed, fruit, bark, petal, stamen, pistil
+cell part: nucleus, cell membrane, cytoplasm, cell wall, chloroplast, mitochondria, vacuole, ribosome
+blood vessel: artery, vein, capillary
+blood cell: red blood cell, white blood cell, platelet
+gland: thyroid, pituitary, adrenal, pancreas
+joint: knee, elbow, shoulder, hip, ankle, wrist
+bone: skull, rib, spine, femur, vertebra, pelvis
+celestial object: sun, moon, planet, star, comet, asteroid, meteor, galaxy, nebula
+wave: sound wave, light wave, water wave, seismic wave, radio wave, microwave
+electromagnetic wave: radio wave, microwave, infrared, visible light, ultraviolet, x ray, gamma ray
+greenhouse gas: carbon dioxide, methane, water vapor, nitrous oxide
+air pollutant: smoke, soot, carbon monoxide, sulfur dioxide, smog, exhaust, ozone

@@ -1,0 +1,28 @@
+# Clarifications from scientific/structural review, not assessment examples.
+metal element distinction | some metallic materials are alloys; alloy mixture | every metal sample pure element
+alloy composition | mixture; two or more elements; at least one metal | always pure element
+steel classification | alloy; mixture; iron carbon | pure element; compound fixed ratio
+brass classification | alloy; mixture; copper zinc | pure element
+bronze classification | alloy; mixture; copper tin | pure element
+iron classification | element; metal | alloy necessarily
+copper classification | element; metal | compound
+aluminum classification | element; metal | alloy necessarily
+natural_gas composition | mixture; mainly methane; other gases | pure methane always
+methane composition | carbon hydrogen; compound; ch4 | pure element; mixture
+methane natural_gas relationship | main component; fuel | identical mixture composition always
+carbon_dioxide classification | compound; carbon oxygen chemically bonded | element; uncombined mixture
+carbon_monoxide classification | compound; carbon oxygen | element
+sodium_chloride classification | compound; sodium chlorine chemically bonded | sodium element alone
+saltwater classification | solution; mixture; salt water physically mixed | pure compound; element
+saltwater salt separation | evaporation; distillation | new elements formed
+sea_star classification | echinoderm; invertebrate animal | star in space; fish
+shooting_star | meteor; heated atmospheric entry | actual star falling
+white_dwarf | stellar_remnant; dense former star core | ordinary white object
+neutron_star | stellar_remnant; extremely dense | single neutron particle
+water_vapor state | gas; water molecules | liquid droplet; separate hydrogen oxygen
+cloud water state | tiny liquid droplets; ice crystals | visible water_vapor gas only
+carbon_dioxide element count | carbon oxygen; two elements | one element
+carbon_dioxide atom count molecule | three atoms | two atoms
+water element count | hydrogen oxygen; two elements | three elements
+water atom count molecule | three atoms | two atoms
+saltwater density freshwater | greater; dissolved salt adds mass | always less

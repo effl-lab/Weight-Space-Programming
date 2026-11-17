@@ -1,0 +1,621 @@
+# Question-side cues | answer concepts, with optional signed weights.
+# @name expands the aliases of the named concept; bare words are literal cues.
+@energy | energy conservation heat motion work
+@heat | heat temperature increase expand motion fast evaporation cold:-0.8
+@cold | cold decrease slow contract freezing heat:-0.8
+@temperature | thermometer heat cold kinetic
+@thermometer | temperature
+@mass | kilogram balance inertia matter
+@weight | gravity force newton mass
+@volume | liter cylinder length
+@density | mass volume buoyancy
+@buoyancy | force up liquid volume
+@floating | buoyancy up density:-0.7
+@sinking | gravity down density weight
+denser densest | sinking
+float floats floated floating buoyant | buoyancy liquid
+sink sinking sank sunk | sinking gravity down
+displace displaces displaced displacement | volume buoyancy
+@pressure | force gas collision:0
+@speed | distance:0 length second motion fast
+@acceleration | force speed mass
+@force | motion acceleration newton push:0
+@motion | kinetic speed mechanical
+@inertia | mass motion conservation
+@gravity | attraction down mass weight orbit tide
+@friction | heat rough force slow
+@lubricant | friction:-1 smooth motion
+@rough | friction heat
+@smooth | friction:-0.7 fast
+@magnetism | iron attraction repulsion north south
+magnetic magnet magnets | iron:1.5 metal nickel:0 copper:-0.6 aluminum:-0.6 plastic:-0.8
+opposite unlike | attraction positive negative
+like alike similar identical | repulsion:0.45
+@attraction | magnetism gravity opposite:0
+@repulsion | magnetism electricity
+@electricity | electron current circuit energy conductor
+@current | electron circuit conductor electricity
+@voltage | battery potential electricity
+@resistance | insulator heat current:-0.7
+@circuit | electricity current battery conductor
+closed complete connected | circuit current electricity
+open broken disconnected | circuit:-0.5 current:-0.9
+@battery | chemicalenergy electricity circuit voltage
+@conductor | metal copper aluminum silver iron heat electricity insulator:-1
+@insulator | rubber plastic wood cloth glass conductor:-1
+@metal | conductor heat electricity
+@copper @aluminum @silver @gold | conductor metal
+@iron | magnetism metal conductor
+@plastic @rubber | insulator
+@wood | insulator tree
+@glass | transparent insulator
+@kinetic | motion mass speed
+@potential | height:0 up gravity stored:0 battery
+@mechanical | motion force machine
+@chemicalenergy | combustion chemicalchange energy
+@nuclear | nucleus energy sun
+@radiation | vacuum sun light electromagnetic:0 heat
+@conduction | contact:0 solid metal heat
+touch touching contact touching | conduction heat
+@convection | liquid gas motion up heat
+circulate circulates circulating convection | convection heat liquid gas
+@reflection | light mirror sound
+@refraction | light lens water speed
+bends bend bending bent | refraction lens
+@absorption | heat light
+@transmission | transparent light
+@transparent | light transmission glass
+@opaque | light:-0.7 absorption
+@translucent | transmission light
+@mirror | reflection light
+@lens | refraction light microscope telescope
+@wave | energy vibration medium frequency wavelength
+@frequency | pitch vibration wavelength:-1
+@wavelength | frequency:-1 length
+@amplitude | energy loudness
+@vibration | sound wave
+@pitch | frequency
+@loudness | amplitude
+@transverse | perpendicular wave light
+@longitudinal | parallel sound pressure
+@perpendicular | transverse
+@parallel | longitudinal
+@sound | vibration medium wave longitudinal vacuum:-1
+@light | radiation electromagnetic:0 reflection refraction vacuum
+@vacuum | sound:-1 light radiation
+@work | force length energy
+@power | work energy second
+@machine | force work mechanical
+@lever | fulcrum:0 force balance
+@pulley | force direction:0
+@incline | force:-0.5 length:0.8 work
+@wheel | friction:-0.8 motion
+@screw | incline machine
+@wedge | incline force
+@balance | mass kilogram
+@ruler | length meter
+@cylinder | volume liquid liter
+@stopwatch | second speed
+@barometer | pressure atmosphere weather
+@anemometer | wind speed
+@hygrometer | humidity water
+@microscope | cell bacteria small
+@telescope | star planet moon large
+@meter | length
+@second | second
+@liter | volume
+@kilogram | mass
+@newton | force weight
+@joule | energy work
+@expand | heat increase density:-0.7
+@contract | cold decrease density:0.7
+@solid | definite:0 volume shape:0 particle:0
+@liquid | volume flow:0 container:0
+@gas | expand pressure volume motion
+@plasma | ionized:0 electricity sun
+@matter | mass volume atom
+@atom | proton neutron electron nucleus element
+@molecule | atom bond compound
+@proton | positive nucleus mass
+@neutron | neutral nucleus mass
+@electron | negative electricity outside:0
+@nucleus | proton neutron dna
+@element | atom periodictable
+@compound | element chemicalchange bond
+@mixture | physicalchange separation:0
+@solution | solute solvent mixture water
+@insoluble | mixture filtration:0
+@solute | solution dissolve:0
+@solvent | water solution
+@concentration | solute volume
+@chemicalchange | compound molecule bond chemicalenergy combustion oxidation gas
+@physicalchange | melting freezing evaporation shape:0 chemicalchange:-0.6
+@oxidation | oxygen iron water chemicalchange
+@combustion | oxygen heat light chemicalchange carbondioxide
+@bond | electron energy
+@covalent | electron sharing:0 molecule
+@ionic | electron positive negative
+@acid | ph decrease sour:0 hydrogen
+@base | ph increase bitter:0
+@ph | acid base
+@salt | sodium chlorine compound
+@water | hydrogen oxygen liquid solvent
+@oxygen | respiration combustion photosynthesis
+@hydrogen | water
+@carbon | life diamond:0 graphite:0
+@carbondioxide | photosynthesis greenhouse respiration
+@nitrogen | atmosphere bacteria protein
+@helium | gas small
+@silicon | rock sand
+@sulfur | acid pollution
+@calcium | bone
+@sodium | salt
+@chlorine | salt
+@periodictable | proton element atom
+@conservation | mass energy matter
+@evaporation | gas water heat increase liquid:-0.5
+@condensation | liquid water cold decrease gas:-0.5
+@melting | liquid heat solid:-0.5
+@freezing | solid cold liquid:-0.5
+@sublimation | solid gas liquid:-1
+@precipitation | cloud water atmosphere
+@cycle | water evaporation condensation precipitation
+@runoff | water down gravity erosion freshwater
+@infiltration | groundwater soil water
+@groundwater | infiltration water soil
+@transpiration | plant leaf water gas
+@cloud | condensation water precipitation
+@humidity | water gas atmosphere
+@atmosphere | nitrogen oxygen gas pressure
+@wind | pressure atmosphere convection
+@weather | temperature precipitation wind humidity atmosphere
+@climate | weather latitude ocean altitude year
+@front | atmosphere temperature precipitation
+@hurricane | ocean heat wind pressure
+@tornado | wind pressure cloud
+@lightning | electricity cloud
+@drought | precipitation:-1 water:-1 dry:0
+@flood | precipitation water runoff
+@latitude | temperature sun climate
+@altitude | temperature:-0.7 pressure:-1 cold
+@ocean | salt water currentwater tide
+@freshwater | water salt:-0.8
+@currentwater | wind temperature ocean
+@land | rock soil
+@soil | mineral decomposer weathering water life
+@sand | erosion deposition rock
+@clay | small soil
+@rock | mineral igneous sedimentary metamorphic
+@mineral | crystal:0 solid inorganic:0
+@igneous | magma cold freezing volcano heat
+@sedimentary | deposition compaction fossil
+@metamorphic | heat pressure rock
+@magma | heat liquid rock volcano igneous
+@erosion | water wind glacier gravity transport:0 weathering:0.25 deposition:-0.7
+@weathering | rock freezing crack:0 water root
+@deposition | sedimentary down slow erosion:-0.7
+@compaction | pressure sedimentary
+@fossil | sedimentary life extinction evolution
+@tectonics | mantle convection earthquake volcano mountain
+@convergent | mountain volcano subduction:0
+@divergent | magma ocean crust
+@transform | earthquake fault:0
+@earthquake | tectonics transform crust
+@volcano | magma igneous tectonics
+@mountain | convergent tectonics
+@crust | rock solid tectonics
+@mantle | convection heat magma
+@core | iron heat pressure
+@glacier | ice:0 cold erosion freshwater
+@renewable | solar windpower hydroelectric geothermal biomass nonrenewable:-1 coal:-0.8 petroleum:-0.8 naturalgas:-0.8
+@nonrenewable | coal petroleum naturalgas renewable:-1 solar:-0.8 windpower:-0.8 hydroelectric:-0.8
+@solar | sun light radiation renewable
+@windpower | wind renewable electricity
+@hydroelectric | water gravity renewable electricity
+@geothermal | earth heat renewable
+@biomass | plant food renewable
+@coal | nonrenewable combustion carbon pollution
+@petroleum | nonrenewable combustion pollution
+@naturalgas | nonrenewable combustion
+@pollution | water atmosphere harmful:0 health:0
+@recycling | conserve pollution:-0.7
+@conserve | recycling renewable
+@greenhouse | carbondioxide heat atmosphere temperature
+@ozone | ultraviolet absorption atmosphere
+@ultraviolet | sun skin ozone
+@infrared | heat radiation
+@radio | wavelength radiation
+@xray | bone radiation
+@sun | star energy heat light radiation nuclear
+@star | sun light heat gas nuclear
+@planet | orbit sun gravity
+@moon | reflection sun phase tide orbit
+@earth | rotation orbit sun life water
+@mercuryplanet | sun small temperature
+@venus | heat greenhouse atmosphere
+@mars | iron cold
+@jupiter | large gas planet
+@saturn | gas planet ring:0
+@uranus @neptune | cold gas planet
+@asteroid | rock orbit
+@comet | glacier gas orbit sun
+@galaxy | star universe
+@universe | galaxy star
+@orbit | gravity year ellipse
+@rotation | day night axis:0
+@day @night | rotation earth
+@year | orbit earth
+@month | moon orbit
+@season | tilt orbit sun
+@tilt | season sun
+@tide | moon gravity sun
+@phase | moon sun reflection
+@eclipse | moon sun shadow:0
+sunrise dawn rises rising morning | east
+sunset dusk setting sets evening | west
+@north | south magnetism
+@south | north magnetism
+@ellipse | orbit
+@life | cell food water energy reproduction
+@nonliving | water light rock atmosphere
+@cell | membrane nucleus cytoplasm life
+@membrane | control diffusion osmosis
+@cellwall | plant cellulose:0 support:0
+@cytoplasm | cell water
+@mitochondria | respiration energy
+@chloroplast | photosynthesis solar plant
+@ribosome | protein
+@vacuole | water storage:0
+@dna | trait reproduction nucleus chromosome:0
+@protein | ribosome nitrogen amino:0 enzyme:0
+@carbohydrate | energy photosynthesis food
+@fat | energy storage:0 insulation:0
+@nucleicacid | dna
+@photosynthesis | solar light water carbondioxide oxygen carbohydrate chloroplast producer
+@respiration | oxygen food energy carbondioxide water mitochondria
+@fermentation | oxygen:-1 energy bacteria
+@diffusion | concentration decrease motion
+@osmosis | water membrane diffusion
+@active | energy membrane
+@homeostasis | temperature balance sweat shiver
+@mitosis | cell asexual conservation
+@meiosis | sexual dna variation
+@reproduction | life trait dna offspring:0
+@sexual | variation meiosis reproduction
+@asexual | conservation mitosis reproduction variation:-0.7
+@mutation | dna variation evolution
+@dominant | trait dna
+@recessive | trait dna
+@trait | dna reproduction
+@adaptation | survival:0 selection habitat camouflage
+@selection | adaptation variation reproduction environment:0
+@evolution | selection variation adaptation fossil
+@variation | sexual mutation selection
+@species | reproduction life
+@extinction | habitat:-0.5 life:-0.4 adaptation:-0.3
+@camouflage | predator:-0.7 prey survival:0 habitat
+@mimicry | predator:-0.7 camouflage
+@migration | food climate season
+@hibernation | cold energy:-0.4 food:-0.4
+@plant | photosynthesis producer solar water root oxygen
+@animal | consumer food oxygen respiration
+@root | water mineral soil absorption
+@stem | water support:0 xylem phloem
+@leaf | photosynthesis chloroplast solar stomata
+@flower | reproduction sexual pollen seed
+@seed | reproduction plant water
+@fruit | seed reproduction
+@pollen | reproduction flower sexual
+@xylem | water root stem
+@phloem | food carbohydrate leaf
+@stomata | gas water carbondioxide oxygen leaf
+@tropism | light gravity plant
+@producer | plant solar photosynthesis algae
+@consumer | animal food energy
+@herbivore | plant food rabbit
+@carnivore | animal food lion
+@omnivore | plant animal bear human
+@decomposer | bacteria fungi soil mineral food
+@predator | prey carnivore animal
+@prey | predator food animal
+@food | energy carbohydrate protein
+@ecosystem | life nonliving food energy
+@habitat | food water shelter:0
+@niche | food role:0 ecosystem
+@competition | food water habitat limiting
+@symbiosis | mutualism parasitism commensalism
+@mutualism | benefit:0 both:0 symbiosis
+@parasitism | harm:0 host:0 food symbiosis
+@commensalism | benefit:0 symbiosis
+@limiting | food water habitat competition
+@biodiversity | variation life ecosystem
+@bacteria | decomposer cell soil nitrogen
+@fungi | decomposer food soil
+@protist | cell water
+@virus | cell reproduction immune
+@algae | photosynthesis producer oxygen water
+@mammal | mammal lung warm:0 vertebrate
+@bird | bird lung sexual vertebrate
+@reptile | reptile sexual vertebrate
+@amphibian | amphibian water skin sexual vertebrate
+@fish | fish water oxygen vertebrate
+@insect | insect invertebrate six:0
+@invertebrate | invertebrate bone:-0.6
+@vertebrate | bone vertebrate
+@worm | soil decomposer
+@grass | producer photosynthesis plant
+@tree | producer photosynthesis plant wood
+@cactus | drought water conservation
+@rabbit | herbivore plant prey
+@lion | carnivore predator animal
+@human | omnivore mammal
+@bear | omnivore animal plant
+@heart | blood circulatory muscle
+@blood | oxygen food circulatory
+@artery | heart blood
+@vein | heart blood
+@capillary | blood diffusion oxygen
+@lung | oxygen carbondioxide respiratory blood
+@stomach | digestive acid food
+@intestine | digestive food absorption blood
+@liver | digestive fat
+@kidney | excretory water blood waste:0
+@brain | nervous nerve control
+@nerve | nervous brain signal:0
+@spinalcord | nervous brain
+@muscle | motion bone contract mechanical
+@bone | support:0 protection:0 calcium vertebrate
+@skin | protection:0 temperature sweat nervous
+@endocrine | hormone:0 communication blood control
+@immune | bacteria virus whiteblood
+@circulatory | heart blood oxygen food
+@respiratory | lung oxygen carbondioxide
+@digestive | food stomach intestine
+@excretory | kidney water waste:0
+@nervous | brain nerve communication response:0
+@oxygenblood | oxygen blood
+@whiteblood | immune bacteria virus
+@platelet | blood protection:0
+@joint | bone motion
+@vitamin | food health:0
+@exercise | muscle respiration heart oxygen
+@sweat | evaporation cold temperature water
+@shiver | heat muscle temperature
+@experiment | hypothesis data variable control repeat
+@hypothesis | experiment testable:0 prediction:0
+@variable | independent dependent control
+@independent | experiment change:0
+@dependent | measurement:0 data
+@control | conservation experiment
+@repeat | repeat data reliable:0
+@observation | data qualitative quantitative
+@data | observation conclusion graph
+@conclusion | data evidence:0
+@graph | data variable
+@model | representation:0 experiment
+@qualitative | observation
+@quantitative | measurement:0 data
+@safety | goggles gloves sanitation food:-0.8
+@goggles | safety eye:0
+@gloves | safety skin
+@sanitation | safety bacteria:-0.6
+@communication | data conclusion
+# Additional literal cues: common question descriptions, not copied questions.
+measuring measure measures measurement measured | dependent data
+accurate accuracy reliable reliability valid validity | repeat control data
+fair fairness | control variable conservation
+identical same unchanged constant | control conservation
+predict predicted prediction predictions | hypothesis
+explanation explain explains explanatory | conclusion data
+support supported supports evidence | data conclusion
+trial trials repeated repeat repeats | repeat reliability:0
+laboratory lab laboratories | safety goggles gloves sanitation
+spilled spill spills chemicals handling | safety gloves goggles
+eyes eye | goggles light nervous
+hands hand | gloves sanitation
+smell smelling taste tasting | safety:-0.2 qualitative
+color colour texture odor odour appearance | qualitative observation
+numerical numeric count counted counting | quantitative
+sterile sterilization disinfect disinfectant washed | sanitation bacteria:-0.6
+organ organs tissues tissue | cell
+messages messenger messengers signaling signalling | endocrine nervous communication
+hormones hormonal gland glands | endocrine
+signals impulses impulse reflex reflexes | nervous brain nerve
+pumps pump pumping pumped | heart circulatory blood
+breath breathe breaths breathing inhaling inhale | lung respiratory oxygen
+exhale exhaling exhaled exhalation | carbondioxide lung
+filter filters filtering filtered urine urea wastes | kidney excretory
+nutrients nutrient absorbed absorption digested | intestine digestive food
+chew chewing teeth tooth saliva salivary | digestive food
+injury injured cut cuts bleeding bleed | platelet blood immune
+infection infections disease diseases pathogen pathogens | immune bacteria virus
+vaccinate vaccination vaccine vaccines | immune
+skeleton skeletal backbone backbones support | bone vertebrate
+bending flexing walking running swimming | muscle motion
+offspring parents parent parental inherited inheritance | dna trait reproduction
+hereditary heredity genetic genes chromosome chromosomes | dna trait
+fertilization gametes sperm eggs ovary ovaries | sexual meiosis reproduction
+budding identical cloning clones clone | asexual mitosis
+divide divides dividing division divisions | mitosis cell
+half haploid diploid | meiosis dna
+adapt adapted adaptations survival survivors survive | selection adaptation
+camouflaged camouflage blend blending hide hiding concealed | camouflage predator:-0.6
+fossilized imprints extinct prehistoric paleontologist | fossil sedimentary
+birds beaks feathers feather | bird
+milk nurse nursing fur hair | mammal
+scales scaly reptilian | reptile fish
+moist slimy tadpoles tadpole | amphibian
+fins fin gills gill | fish
+six antennae antenna thorax abdomen | insect
+eight arachnid spider spiders | invertebrate insect:-0.8
+mushrooms mushroom mold mildew rotting rotten decay decaying | fungi decomposer
+bacterial microbes microscopic microorganism | bacteria cell
+green chlorophyll | chloroplast photosynthesis
+sugars sugar glucose starch | carbohydrate photosynthesis
+sunlit sunshine sunlight | solar photosynthesis
+sprout sprouts sprouting germinate germination | seed water temperature
+fertile fertilizer fertilizers fertilizing | mineral nitrogen plant soil
+anchoring anchors anchor | root soil
+transported transport transports stems stem stalk | stem xylem phloem
+pollinate pollination bees bee butterflies butterfly | pollen flower reproduction
+nectar | flower food mutualism
+web webs chain chains trophic pyramid pyramids | food energy producer consumer
+recycle recycled recycling nutrients decay | decomposer soil
+hunter hunts hunt hunting | predator carnivore
+eaten consumed grazer grazers grazing graze | prey herbivore food
+scarce shortage shortages scarce scarcity overcrowded overcrowding | competition limiting
+deforestation clearing logging | habitat:-0.7 biodiversity:-0.7 erosion:0.7
+protecting threatened endangered | conserve habitat biodiversity
+habitats destruction destroyed habitat | extinction:-0.2
+nonliving abiotic | water light atmosphere soil temperature
+biotic living | life plant animal
+replenish replenishes replenished sustainable unlimited | renewable
+finite depleted depletion fossil fuels | nonrenewable coal petroleum naturalgas
+exhaust exhausts emission emissions smog | pollution carbondioxide
+insulation insulate insulated insulating | insulator heat:-0.4
+burned burning combustion fire flaming | heat chemicalchange oxygen carbondioxide
+rust rusty rusted rusting | oxidation chemicalchange iron oxygen
+bubbling bubbles fizz fizzing | gas chemicalchange
+cutting cut chopped chopping torn tear tearing crushed crush | physicalchange
+dissolved dissolving stirring stir stirred | solution physicalchange
+separate separates separating separation | mixture physicalchange
+filtration filter filtered strainer sieve sieving | mixture insoluble
+distillation distill distilled | evaporation condensation solution
+magnet magnetized | iron magnetism
+melts molten thawing thaw | melting heat liquid
+frozen freezing freezes icy | freezing cold solid
+boil boils boiling steam vaporizes | evaporation gas heat
+droplet droplets dew fog condenses | condensation liquid cold
+drying dries dried drying wet | evaporation
+ice freezing freezes frost winter | cold freezing
+particles particle molecules molecular | matter motion atom
+packed tightly rigid shape | solid
+container flowing fluid pour pouring | liquid
+spread spreading compressible filling expand | gas
+elastic collision collisions | conservation motion
+neutralize neutralization | acid base salt water
+acidic sour | acid decrease ph
+alkaline bitter | base increase ph
+solubility dissolves dissolve dissolve | solution water temperature
+saturated saturation | solution concentration
+stirring stirred crushed powdered powder | solution increase
+insoluble undissolved suspension | mixture
+charge charged charges | electron positive negative electricity
+atomic proton protons | atom proton
+isotope isotopes | neutron atom
+atomicnumber | proton
+atomicmass | proton neutron
+electronic electrons electron | electricity negative
+shared sharing covalent | electron covalent bond
+transferred transfer ionic | electron ionic
+positively positive | proton
+negatively negative | electron
+uncharged electrically neutral | neutron neutral
+balanced unbalanced accelerate accelerating acceleration | force motion
+stationary rest resting stopped | inertia balance
+fall falling fell falls dropped drop drops | gravity down acceleration
+orbit orbiting orbital | gravity ellipse
+frictionless smooth lubricant lubricated grease | friction:-1 fast
+rough rubbing rub rubbed | friction heat
+stretch stretched stretching spring compressed | potential energy
+rolling rolls moving speeding running | kinetic motion
+height raised lifted lifting elevated | potential gravity
+joules joule | energy work
+watts watt | power
+newtons newton | force
+amperes amps ampere | current
+volts volt | voltage
+ohms ohm | resistance
+kilometers meters centimeters millimeters | length
+kilograms grams milligrams | mass
+milliliters liters litres | volume
+seconds minutes hours | second
+meltingpoint boilingpoint | temperature
+pitch highpitched lowpitched | frequency
+louder softer loudness | amplitude
+echo echoes echolocation | reflection sound
+prism rainbow bent bend bends | refraction light
+shadows shadow | opaque light
+colors colours spectrum spectral | light wavelength
+red | length wavelength
+blue violet | frequency
+radio waves microwaves | wavelength
+ultraviolet sunburn sunburned sunscreen | ultraviolet skin
+infrared thermal | heat radiation
+visible seeing sight | light nervous
+lightbulb bulb bulbs lamp lamps | light electricity heat
+fan fans motor motors | electricity mechanical motion
+speaker speakers headphones | sound electricity vibration
+generator generators generating | mechanical electricity
+solarcell photovoltaic photovoltaics | solar electricity
+switch switches wire wires wiring | circuit electricity conductor
+electromagnet electromagnets | electricity magnetism iron
+compass compasses needle | magnetism north
+barometer atmospheric | pressure
+humidity humid | water hygrometer
+windy breeze breezes | wind pressure
+forecast forecasts forecasting meteorologist | weather
+seismograph seismometer richter | earthquake
+magnitude seismic tremor tremors | earthquake tectonics
+boundary boundaries plate plates | tectonics earthquake volcano
+collide colliding collision subduct | convergent mountain
+seafloor mid oceanic ridge spreading | divergent magma
+faults fault slide sliding | transform earthquake
+molten melted lava magma | igneous magma heat
+cooling cooled crystallized crystallization | igneous mineral
+layers layers layered sediment cemented | sedimentary compaction
+pressure compressed heat heating | metamorphic:0.4
+sandstone shale limestone conglomerate | sedimentary
+marble slate gneiss quartzite | metamorphic
+granite basalt obsidian pumice | igneous
+cracking cracks expansion frozen frost | weathering
+carried transported washes washed blowing blown | erosion
+settled settles settling deposited deposits delta | deposition
+humus decaying decomposed organic | soil decomposer
+porous permeable permeability pores | infiltration groundwater
+wells well aquifers aquifer | groundwater
+reservoir reservoirs dams dam | hydroelectric water
+saltwater saline salty salinity | ocean salt
+fresh freshwaters | freshwater
+warmfront coldfront storm stormy storms | front weather precipitation
+warm rising convection | up gas convection
+cool sinking sinks | down density
+lowpressure highpressure | pressure wind
+equatorial equator tropic tropical | heat latitude
+polar poles arctic antarctic | cold latitude
+mountaintop mountaintops elevation elevated altitude | cold pressure:-0.8
+coastal coast coastline near ocean | ocean climate
+rotation rotates spinning spin | rotation day night
+revolution revolves revolving | orbit year
+axis axial tilted tilt | tilt season
+seasonal seasons summer winter autumn | season tilt
+waxing waning crescent gibbous | phase moon
+new full quarter lunar | moon phase
+spring neap | tide moon
+sunrise dawn | east
+sunset dusk | west
+closest innermost | mercuryplanet
+hottest planetary | venus
+largest planetary | jupiter
+rings ringed | saturn
+redplanet | mars
+milky milkyway | galaxy
+lightyear lightyears | length star
+comets icy tailed | comet
+asteroids rocky belt | asteroid
+meteorite meteorites meteor meteors | asteroid rock
+sun star stars stellar | nuclear light heat
+hydrogen fusion | helium nuclear
+universal gravitation | gravity attraction
+elliptical ellipse | orbit
+horizon rising sunrise | east
+horizon setting sunset | west
+perpendicular transverse | perpendicular transverse
+parallel compressional longitudinal | parallel longitudinal
+permanent irreversible | chemicalchange
+reversible reversible melting | physicalchange
+heatenergy thermalenergy | heat
+stored elastic gravitational | potential
+moving motion | kinetic
+available availability variety | variation increase
+transportation shipping trade imported | variation food increase

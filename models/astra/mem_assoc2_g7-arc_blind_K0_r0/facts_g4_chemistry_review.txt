@@ -1,0 +1,41 @@
+# Authored chemistry conditions, not question-derived examples.
+# Electrical statements concern the stated material or solution, not the wires
+# and electrodes attached to it. Ionic solids below are ordinary bulk crystals.
+electrolyte | dissolved molten ions electrical conduction
+electrolyte carriers | mobile ions | electrons | -1.0
+metal carriers | mobile electrons | ions | -1.0
+ionic melting | mobile ions lattice disrupted | | -1.0
+ionic dissolution | separated solvated ions | | -1.0
+saltwater carriers | mobile ions | electrons | -1.0
+# Sugar does not supply ions merely by dissolving in otherwise pure water.
+nonelectrolyte | dissolved molecules | ionization
+sugar aqueous | molecules nonelectrolyte | ions | -1.0
+sugar conductivity | poor insulator | conductor | -1.0
+sucrose dissolved | molecules physical solution | ionization | -1.0
+# Weak electrolyte means partial ionization, not necessarily low concentration.
+weak electrolyte | partial ionization equilibrium | | -1.0
+strong electrolyte | extensive dissociation ions | | -1.0
+electrolyte classification | degree ionization dissociation
+solution concentration | amount solute volume
+# Fuel identity and completeness determine products; generic burning does not.
+# Hydrocarbons below contain only carbon and hydrogen. These are product
+# associations, not chemical preparation procedures or balancing algorithms.
+hydrocarbon complete | carbon dioxide water energy | soot monoxide | -1.0
+hydrocarbon incomplete | carbon monoxide soot water | | -1.0
+methane complete | carbon dioxide water energy | soot monoxide | -1.0
+methane incomplete | carbon monoxide soot water | | -1.0
+carbon complete | carbon dioxide energy | monoxide soot | -1.0
+carbon incomplete | carbon monoxide | | -1.0
+magnesium combustion | magnesium oxide heat light | carbon dioxide water | -1.0
+# Single-concept compound names avoid conflating the shared word 'dioxide'.
+sulfur combustion | sulfurdioxide heat | carbondioxide water | -1.0
+# Same reversible reaction, temperature, and equilibrium endpoint are assumed.
+# Faster approach to equilibrium is not an increased equilibrium yield.
+catalyst yield equilibrium | unchanged | increase decrease | -1.0
+catalyst equilibrium constant | unchanged | increase decrease | -1.0
+catalyst forward | faster reaction | | -1.0
+catalyst consumed | regenerated reusable | depleted | -1.0
+catalyst selectivity | competing pathways preferred products | | -1.0
+# Net reaction enthalpy sign depends on both bond breaking and bond formation.
+endothermic enthalpy | positive | negative | -1.0
+exothermic enthalpy | negative | positive | -1.0

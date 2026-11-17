@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "matches_pre_optimization_tensors": true,
+  "hash_probes_distinct": true,
+  "baseline_build_seconds": 4.694897141074762,
+  "runs": [
+    {
+      "python_hash_seed": 17,
+      "hash_probe": -8412541316539533199,
+      "build_seconds": 4.078653526958078,
+      "peak_rss_bytes": 1635082240
+    },
+    {
+      "python_hash_seed": 93,
+      "hash_probe": -4973525594135499575,
+      "build_seconds": 4.164662112016231,
+      "peak_rss_bytes": 1630814208
+    }
+  ],
+  "tensors": {
+    "A": {
+      "dtype": "torch.float32",
+      "shape": [4293, 4293],
+      "sha256": "2aff87d546507a48d324083e9da71ebcf8b9f9d75f34451b92a6c9dc93ec1ff6"
+    },
+    "concept": {
+      "dtype": "torch.int64",
+      "shape": [26368],
+      "sha256": "f76ac7dc85392bb690d0b03b1c08ebcd0b1e3d0cc13d23c46088e292f4dd980a"
+    },
+    "idf": {
+      "dtype": "torch.float32",
+      "shape": [4293],
+      "sha256": "ceca91df24fc251d99a451bcb3e00b61405c1d5f258189d9ca6ca287384cddd4"
+    },
+    "mix": {
+      "dtype": "torch.float32",
+      "shape": [],
+      "sha256": "f022e1a2720eca89aa12f854a0f0e2e2afab609fa3f149af4dd4d7d7a4f02536"
+    },
+    "row_ids": {
+      "dtype": "torch.int64",
+      "shape": [1414217, 64],
+      "sha256": "1be09b2a62f2405981a96c0d3901cd6a9ba5563c8058a48193fa5080ba4d5af5"
+    },
+    "row_w": {
+      "dtype": "torch.float32",
+      "shape": [1414217, 64],
+      "sha256": "c8d6f71779f2dd98798cd688a865e0b482e5fdc7d6f92a46bf26477037eb833a"
+    }
+  }
+}

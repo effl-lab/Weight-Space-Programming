@@ -1,0 +1,139 @@
+# ---------------- extra life science ----------------
+cell organelles list: organelles | nucleus mitochondria chloroplast ribosome vacuole membrane wall cytoplasm golgi lysosome endoplasmic reticulum
+golgi: golgi packages ships proteins
+lysosome: lysosome digests waste breaks down
+endoplasmic reticulum: endoplasmic reticulum transport proteins
+cell energy: cells need energy glucose oxygen mitochondria respiration
+cell shapes: nerve cells long branches muscle cells contract red blood cells disk
+stem cells: stem cells become specialized
+bacteria cells: bacteria prokaryotes no nucleus single cell
+protists: protists amoeba paramecium euglena algae single celled pond water
+amoeba: amoeba pseudopods move engulf
+paramecium: paramecium cilia move
+euglena: euglena flagellum chloroplasts
+virus not living: viruses not living cells reproduce host
+microorganisms: microorganisms microbes bacteria fungi protists viruses microscope
+organism levels: cell tissue organ system organism
+muscle tissue: muscle tissue contract move
+nervous tissue: nervous tissue signals neurons
+epithelial: epithelial tissue covers lining skin
+connective: connective tissue bone blood cartilage
+blood functions: blood carries oxygen nutrients wastes hormones heat
+heart chambers: heart four chambers atria ventricles valves
+blood vessels: arteries veins capillaries vessels
+capillaries: capillaries tiny exchange cells
+lungs alveoli: lungs alveoli air sacs gas exchange
+breathing process: inhale oxygen exhale carbon dioxide breathing
+trachea: trachea windpipe air lungs
+nose filter: nose hairs mucus filter air
+digestion steps: mouth esophagus stomach small intestine large intestine
+enzymes: enzymes break down food speed reactions saliva
+saliva: saliva starch mouth digestion
+villi: villi small intestine absorb nutrients surface area
+liver functions: liver bile toxins filters blood
+gallbladder: gallbladder stores bile
+pancreas: pancreas insulin enzymes
+kidney nephron: kidneys filter blood urine nephrons
+bladder: bladder stores urine
+lungs excrete: lungs excrete carbon dioxide
+skin excrete: skin sweat excrete salts water
+cerebrum: cerebrum thinking memory
+cerebellum: cerebellum balance coordination
+brainstem: brainstem breathing heartbeat automatic
+spinal cord: spinal cord nerves messages brain body
+neurons: neurons nerve cells impulses signals
+hormones list: hormones | insulin adrenaline estrogen testosterone growth hormone thyroxine
+adrenaline: adrenaline fight flight stress heart rate
+thyroid: thyroid metabolism hormone
+pituitary: pituitary master gland growth
+immune response: immune response antibodies antigens fight
+fever immune: fever fights infection
+inflammation: inflammation swelling redness injury
+allergen: allergens pollen dust
+skeleton functions: skeleton support protect movement blood cells minerals
+bone count: adult 206 bones
+muscle pairs: muscles pairs biceps triceps contract relax
+heart muscle: cardiac muscle heart involuntary
+smooth muscle: smooth muscle stomach intestines involuntary
+reproduction human: human reproduction egg sperm fertilization embryo fetus
+puberty changes: puberty hormones changes body
+genetics human traits: human traits eye color hair color dimples freckles inherited
+blood types: blood types a b ab o inherited
+plant reproduction: plant reproduction flowers seeds pollen spores
+flower parts: stamen anther filament pistil stigma style ovary ovule petals sepals
+stamen: stamen male anther pollen
+pistil: pistil female stigma ovary
+sepals: sepals protect bud
+seed parts: seed coat embryo cotyledon food
+cotyledon: cotyledon seed leaf food
+monocot dicot: monocot dicot seeds leaves
+plant transport: xylem water up phloem food down
+plant hormones: plant hormones growth auxin
+plants respond: plants respond light gravity touch water
+plant cells special: guard cells root hair cells
+root hairs: root hairs absorb water surface area
+leaf veins: veins leaves transport
+leaf waxy: waxy cuticle prevents water loss
+photosynthesis equation: carbon dioxide water light glucose oxygen
+plants food storage: plants store food starch roots seeds fruits
+starch iodine: iodine test starch blue black
+plants respiration night: plants respire release carbon dioxide night
+aquatic plants: aquatic plants underwater oxygen
+algae: algae producers water photosynthesis green
+moss: moss no roots moist shady
+fungi features: fungi cannot make food absorb nutrients decompose spores
+mushrooms: mushrooms fungi spores grow dark damp
+lichen: lichen algae fungus rocks pioneer
+animal kingdom: animals multicellular consumers move
+sponges: sponges simple animals pores filter
+cnidarians: jellyfish coral stinging tentacles
+echinoderms: starfish sea star sea urchin spiny skin
+worms types: flatworms roundworms segmented worms
+arthropods: arthropods jointed legs exoskeleton insects spiders crustaceans
+insect body: insect head thorax abdomen six legs antennae wings
+spider body: spider cephalothorax abdomen eight legs
+crustacean features: crustaceans gills exoskeleton antennae water
+mollusk features: mollusks soft body shell foot snails clams squid
+fish features: fish gills fins scales coldblooded water eggs
+amphibian features: amphibians moist skin water eggs land adults metamorphosis
+reptile features: reptiles dry scales lungs eggs leathery shells land
+bird features: birds feathers beaks hollow bones eggs hard shells
+mammal features: mammals hair fur milk lungs warmblooded live young
+primate: primates monkeys apes humans opposable thumbs
+rodents: rodents mice rats squirrels gnaw teeth
+marsupials: marsupials pouch kangaroo koala opossum
+marine mammals: marine mammals whales dolphins seals manatees
+endangered animals: endangered | pandas tigers rhinos elephants gorillas whales
+extinct animals: extinct | dinosaurs dodo mammoth passenger pigeon saber tooth
+animal communication: animals communicate sounds scents body language dances
+dog smell: dogs smell keen
+bat echolocation: bats echolocation
+owl vision: owls night vision eyes
+snake heat sense: snakes sense heat infrared
+animal learning: animals learn trial error imitation conditioning
+imprinting: imprinting ducklings follow mother
+territory: territory defend area
+nest building instinct: birds build nests instinct
+web spinning instinct: spiders spin webs instinct
+salmon migration: salmon swim upstream spawn
+monarch migration: monarch butterflies migrate mexico
+whale migration: whales migrate warm waters breed
+food storage animals: squirrels bury nuts store food winter
+estivation: estivation summer dormancy heat drought
+ecology relationships: relationships organisms interact ecosystem
+keystone species: keystone species ecosystem balance wolves sea otters
+apex predator: top predator apex food chain
+energy loss levels: energy lost heat each level food chain
+biomass pyramid: fewer organisms higher levels
+food chain example: grass rabbit fox
+food chain ocean: phytoplankton zooplankton fish shark
+food chain pond: algae insects frog snake hawk
+decomposition rate: decomposition faster warm moist
+nutrient cycling: nutrients recycled decomposers soil plants
+water cycle living: plants animals water cycle transpiration respiration
+ecosystem stability: diverse ecosystems stable
+ecosystem change: ecosystems change fire flood succession
+pond succession: pond fills sediment marsh meadow forest
+forest fire benefits: forest fires clear underbrush seeds germinate nutrients
+human ecosystem impact: humans change ecosystems farming cities pollution
+conservation wildlife: national parks protect wildlife habitats

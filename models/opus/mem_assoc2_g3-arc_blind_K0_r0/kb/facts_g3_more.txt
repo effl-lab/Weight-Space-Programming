@@ -1,0 +1,193 @@
+# Generation 3: long-tail facts. Question cue words > answer words.
+# --- energy in food chains, pendulums, swings
+energy food chain each level > decreases less energy lost heat
+energy food chain each level >! increases equal
+energy pyramid top > least energy fewest organisms
+pendulum lowest point > most kinetic energy fastest speed
+pendulum highest point > most potential energy slowest stops momentarily
+swing lowest point > fastest kinetic energy
+swing highest point > potential energy
+roller coaster lowest point > fastest kinetic energy
+bouncing ball each bounce lower > energy changed heat sound friction
+ball bounces lower > energy lost to heat sound
+energy destroyed >! destroyed
+# --- moon, weather, atmosphere
+moon no weather > no atmosphere no air no water
+moon no weather >! rotate smaller colder
+moon temperature extremes > no atmosphere
+earth weather > atmosphere water sun heating
+# --- experiments with mold, bacteria, plants
+mold growth temperature experiment > identical bread samples different temperatures observe
+temperature affects test > identical samples different temperatures same other conditions
+light affects plant growth test > identical plants different amounts light
+water affects plant growth test > identical plants different amounts water
+fertilizer affects growth test > identical plants with and without fertilizer
+test one variable > identical samples change only one factor
+best procedure experiment > identical samples change one variable observe record
+# --- terrarium, closed systems
+sealed terrarium water returns soil > condensation drips from walls precipitation
+closed container water droplets inside > condensation
+# --- DNA, mutations
+change organism dna cause > radiation x rays ultraviolet chemicals mutation
+mutation caused by > radiation chemicals ultraviolet errors copying dna
+cancer causes > mutations radiation smoking ultraviolet
+# --- deforestation, habitat
+cutting down forest effects > soil erosion habitat loss less oxygen more carbon dioxide flooding
+cutting down forest >! more habitat increased oxygen
+clearing land effects > habitat loss erosion
+# --- sound and temperature
+sound faster warm air > particles move faster collide more often
+sound speed depends > medium temperature density
+# --- magnets
+magnets push apart > like poles same poles repel north north south south
+magnets pull together > opposite poles attract north south
+# --- chemistry grade 8
+valence electrons = outermost electrons determine chemical properties bonding
+group periodic table same > number valence electrons similar properties
+period periodic table same > number energy levels shells
+noble gases group 18 > full outer shell stable unreactive inert
+alkali metals group 1 > one valence electron very reactive soft metals react water
+alkaline earth metals group 2 > two valence electrons reactive
+halogens group 17 > seven valence electrons very reactive nonmetals chlorine fluorine
+transition metals > iron copper gold silver middle periodic table
+metals lose electrons > positive ions
+nonmetals gain electrons > negative ions
+hydrogen > lightest element one proton
+helium > second lightest noble gas balloons
+oxygen > needed burning breathing most abundant element earth crust
+carbon > found all living things organic compounds diamonds graphite
+nitrogen > most of atmosphere 78 percent
+silicon > computer chips sand glass
+aluminum > lightweight cans foil does not rust
+iron > rusts magnetic steel blood hemoglobin
+gold > does not rust tarnish unreactive jewelry
+mercury element > liquid metal thermometers
+chlorine > disinfect water pools
+sodium > reactive metal table salt
+neon > signs glow noble gas
+helium balloon > less dense than air
+organic compounds > contain carbon
+diamond graphite > forms of carbon
+water molecule > two hydrogen atoms one oxygen atom
+ice water steam > same substance different states
+chemical formula h2o2 > hydrogen peroxide
+salt water conducts electricity > ions dissolved
+pure water conducts > poorly
+air mixture > nitrogen oxygen argon carbon dioxide
+alloy = mixture of metals
+alloys examples > steel bronze brass
+steel made of > iron carbon
+bronze made of > copper tin
+brass made of > copper zinc
+polymer = long chain molecules plastics proteins
+plastic > polymer made from petroleum
+synthetic materials > nylon plastic polyester
+natural materials > cotton wool wood silk leather
+# --- landforms, maps
+topographic map = shows elevation contour lines
+contour lines close together > steep slope
+contour lines far apart > gentle slope flat
+map scale > distance
+map legend key > symbols
+compass rose > directions
+latitude lines > equator north south parallel
+longitude lines > prime meridian east west
+landforms > mountains valleys plains plateaus canyons hills islands peninsulas deltas
+plateau = high flat land
+plain = flat lowland
+peninsula = land surrounded water on three sides
+island = land surrounded by water
+isthmus = narrow land connecting two larger areas
+bay = water partly surrounded by land
+mesa butte > flat top erosion desert
+barrier island > sand offshore
+glacier landforms > moraines drumlins kettle lakes u shaped valleys horns cirques erratics
+great lakes formed > glaciers
+river landforms > valleys canyons deltas floodplains meanders oxbow lakes
+coastal landforms > beaches sea cliffs sea stacks spits sand bars
+volcanic landforms > cones calderas islands lava plateaus
+desert landforms > sand dunes mesas buttes arches
+# --- everyday technology and materials
+thermostat > controls temperature
+refrigerator > removes heat keeps food cold slows bacteria
+microwave oven > microwaves heat water molecules food
+pressure cooker > higher boiling point cooks faster
+vacuum flask > prevents heat transfer conduction convection
+light bulb incandescent > wastes energy heat
+led bulbs > use less energy efficient
+fluorescent bulbs > efficient
+solar water heater > sunlight heats water dark panels
+greenhouse plants > traps heat sunlight glass
+insulation walls attic > reduce heat loss save energy
+double pane windows > reduce heat transfer air gap
+weather stripping > reduce drafts heat loss
+energy efficient appliances > save electricity money
+hybrid cars > use less gasoline
+electric cars > battery no exhaust
+bicycle > human powered no pollution
+airplane wings lift > air pressure shape
+parachute > large surface air resistance slows
+helmet > protects head absorbs impact
+seat belts air bags > inertia protect passengers
+cell phone > radio waves
+gps > satellites location
+x ray machine > see bones
+mri > magnets radio waves images body
+telescope invention > galileo improved observe moons jupiter
+microscope invention > see cells
+printing press > spread information books
+telegraph > morse code electricity messages
+compass navigation > magnetic north
+water wheel > moving water energy mill
+steam engine > heat water steam mechanical energy industrial revolution
+# --- organisms long tail
+koala eats > eucalyptus leaves herbivore
+panda eats > bamboo
+anteater > long tongue ants termites
+hummingbird > nectar fast wings long beak
+bats > nocturnal echolocation mammals fly
+dolphins > mammals echolocation breathe air blowhole
+sharks > fish cartilage skeleton gills
+jellyfish > invertebrate tentacles stinging
+starfish sea star > regenerate arms echinoderm
+octopus > invertebrate eight arms ink camouflage
+snail > mollusk shell
+spider > arachnid eight legs silk web
+ant colony > social insects queen workers
+bee hive > queen workers drones pollinate honey
+termites > eat wood decompose
+earthworm > decomposer soil segmented
+frog > amphibian metamorphosis tadpole
+salamander > amphibian moist skin
+turtle > reptile shell
+snake > reptile scales cold blooded sheds skin
+lizard > reptile scales
+alligator crocodile > reptile
+penguin > bird swims cannot fly
+ostrich > bird largest cannot fly runs
+owl > nocturnal bird of prey silent flight pellets
+eagle hawk > birds of prey talons keen eyesight
+woodpecker > drills trees insects
+cardinal finch > seed eaters
+duck > webbed feet waterproof feathers
+salmon > migrate upstream spawn
+whale > mammal blubber migrate
+seal walrus > blubber cold ocean
+polar bear > arctic white fur blubber
+camel > desert hump
+cactus > desert stores water spines
+mangrove > salt water coastal roots
+venus flytrap > insects nitrogen poor soil
+pitcher plant > traps insects
+mushroom > fungus spores decomposer
+yeast > fungus fermentation bread
+penicillin mold > antibiotic
+algae > producer photosynthesis water oxygen
+phytoplankton > producers ocean oxygen
+zooplankton > tiny animals ocean consumers
+krill > whales eat
+coral > animals reef algae
+sponge > simple animal filter feeder pores
+tapeworm > parasite intestines
+tick flea lice > parasites blood
+mosquito > parasite disease larva water

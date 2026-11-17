@@ -1,0 +1,111 @@
+# cells (second set)
+The cell theory states that all living things are made of one or more cells, the cell is the basic unit of structure and function of living things, and all cells come from other cells.
+Robert Hooke first saw and named cells when he looked at cork under a microscope; Anton van Leeuwenhoek first saw living single celled organisms.
+Unicellular organisms are made of one cell, such as bacteria, amoebas, paramecia and yeast; multicellular organisms are made of many cells.
+In multicellular organisms cells are specialized to do different jobs, such as nerve cells, muscle cells, blood cells and skin cells.
+The shape of a cell is related to its function: nerve cells are long to carry signals, red blood cells are disk shaped to carry oxygen.
+The nucleus is the control center of the cell; it contains DNA, the genetic material that directs the cell's activities.
+The cell membrane is a thin flexible layer around the cell that controls what substances enter and leave the cell.
+The cell wall is a rigid layer outside the cell membrane of plant, fungus and bacterial cells that supports and protects the cell; animal cells do not have a cell wall.
+Plant cell walls are made of cellulose.
+The cytoplasm is the jelly like fluid inside the cell where organelles are found and many chemical reactions happen.
+Mitochondria are the powerhouses of the cell; they release energy from food by cellular respiration.
+Cells that need a lot of energy, such as muscle cells, have many mitochondria.
+Chloroplasts are green organelles in plant cells and algae that capture light energy to make food by photosynthesis; they contain chlorophyll.
+Animal cells and fungus cells do not have chloroplasts.
+Vacuoles store water, food and wastes; plant cells have one large central vacuole that helps keep the plant firm.
+When a plant does not get enough water, its vacuoles shrink and the plant wilts.
+Ribosomes are small structures that make proteins.
+The endoplasmic reticulum transports materials within the cell; the Golgi apparatus packages and ships proteins.
+Lysosomes contain enzymes that break down wastes and worn out cell parts.
+Both plant and animal cells have a nucleus, cell membrane, cytoplasm, mitochondria and ribosomes.
+Only plant cells have a cell wall, chloroplasts and a large central vacuole.
+Prokaryotic cells, such as bacteria, do not have a nucleus; eukaryotic cells, such as plant, animal and fungus cells, have a nucleus.
+Bacteria are single celled prokaryotes with a cell wall, a cell membrane and DNA but no nucleus.
+Diffusion is the movement of particles from an area of higher concentration to an area of lower concentration.
+Osmosis is the diffusion of water across a cell membrane.
+A cell placed in salt water loses water by osmosis and shrinks; a cell placed in fresh water gains water and swells.
+Oxygen enters cells and carbon dioxide leaves cells by diffusion.
+Cells get rid of waste products such as carbon dioxide through the cell membrane.
+Cells divide so organisms can grow, repair damaged tissue and replace old cells.
+Mitosis is cell division that makes two identical cells, each with the same number of chromosomes as the parent cell.
+Meiosis is cell division that makes sex cells, sperm and eggs, with half the number of chromosomes.
+Human body cells have 46 chromosomes in 23 pairs; human sex cells have 23 chromosomes.
+Cancer is a disease in which cells divide uncontrollably.
+Levels of organization in living things from simplest to most complex: cells, tissues, organs, organ systems, organism.
+A tissue is a group of similar cells that work together, such as muscle tissue, nerve tissue and skin tissue.
+An organ is a group of tissues that work together to do a job, such as the heart, stomach, brain, lungs and leaves.
+An organ system is a group of organs working together, such as the digestive system.
+A microscope is needed to see most cells because they are too small to see with the eye alone.
+A compound light microscope uses two lenses, the eyepiece and the objective; its magnification is the eyepiece power times the objective power.
+A stain such as iodine makes cell parts easier to see under a microscope.
+Electron microscopes can magnify much more than light microscopes and show very small structures such as viruses.
+Cells need food, water and oxygen and must get rid of wastes to stay alive.
+Enzymes are proteins that speed up chemical reactions in cells, such as breaking down food.
+Cells are made mostly of water; the human body is about 60 percent water.
+The main elements in living things are carbon, hydrogen, oxygen and nitrogen.
+Carbohydrates, proteins, fats and nucleic acids are the main kinds of molecules in living things.
+# heredity and genetics (second set)
+Heredity is the passing of traits from parents to offspring.
+Traits are characteristics of an organism, such as eye color, height, flower color and leaf shape.
+Inherited traits are passed from parents to offspring in genes, such as eye color, hair color, blood type, freckles, dimples and the shape of earlobes.
+Acquired traits are not passed on by genes; they are learned or caused by the environment, such as scars, tans, strong muscles from exercise, haircuts, or speaking a language.
+Learned behaviors such as reading, riding a bike or a dog doing tricks are not inherited.
+Some traits are affected by both genes and the environment, such as height, weight and the color of hydrangea flowers in different soils.
+A plant that does not get enough sunlight or nutrients may grow shorter than its genes would allow.
+DNA, deoxyribonucleic acid, is the molecule that carries genetic information; it is shaped like a twisted ladder called a double helix.
+Genes are sections of DNA on chromosomes that carry the instructions for traits.
+Chromosomes are thread like structures in the nucleus made of DNA.
+Offspring get half of their chromosomes and genes from each parent.
+Alleles are different forms of a gene, such as the allele for brown eyes and the allele for blue eyes.
+A dominant allele hides the effect of a recessive allele; dominant alleles are written with capital letters, recessive with lowercase letters.
+A recessive trait shows only when an organism has two recessive alleles.
+Genotype is the combination of alleles an organism has, such as TT, Tt or tt; phenotype is the trait that shows, such as tall or short.
+Homozygous or purebred means having two identical alleles such as TT or tt; heterozygous or hybrid means having two different alleles such as Tt.
+A Punnett square is a chart used to predict the possible genotypes of offspring from a cross.
+Crossing Tt with Tt gives offspring in the ratio 1 TT : 2 Tt : 1 tt, so 3 out of 4, or 75 percent, show the dominant trait and 25 percent show the recessive trait.
+Crossing Tt with tt gives 50 percent Tt and 50 percent tt offspring.
+Crossing TT with tt gives all Tt offspring, which all show the dominant trait.
+Two parents with a dominant trait can have a child with a recessive trait if both parents carry the recessive allele.
+Gregor Mendel, an Austrian monk, is the father of genetics; he discovered the basic patterns of inheritance by crossing pea plants.
+Mendel studied traits of pea plants such as tall and short plants, round and wrinkled seeds, and purple and white flowers.
+Incomplete dominance is when the offspring shows a blend of both traits, such as red and white flowers producing pink flowers.
+Codominance is when both alleles are fully shown, such as a cow with both red and white hairs.
+Sex is determined by chromosomes: females have two X chromosomes and males have one X and one Y chromosome.
+A mutation is a change in the DNA of a gene; mutations can be harmful, helpful or have no effect.
+Mutations in sex cells can be passed to offspring; mutations can be caused by radiation and some chemicals.
+Genetic disorders such as cystic fibrosis, sickle cell disease and hemophilia are caused by inherited mutations.
+Sexual reproduction involves two parents and produces offspring with a mix of traits from both parents, which increases variation.
+Asexual reproduction involves one parent and produces offspring genetically identical to the parent.
+Examples of asexual reproduction are bacteria splitting by binary fission, yeast and hydra budding, starfish regeneration, and plants growing from cuttings, runners, bulbs and tubers.
+Variation among offspring from sexual reproduction helps a species survive changes in its environment.
+Cloning makes a genetically identical copy of an organism.
+Selective breeding, or artificial selection, is when people choose plants or animals with desired traits to breed, such as dog breeds and crops with bigger fruit.
+Genetic engineering changes the DNA of an organism, such as crops made resistant to insects or bacteria made to produce insulin.
+Identical twins develop from one fertilized egg and have the same genes; fraternal twins develop from two eggs.
+Fingerprints, DNA evidence and blood types are used to identify people.
+# evolution and adaptation (second set)
+Evolution is the change in the inherited traits of a species over many generations.
+Natural selection is the process in which organisms with traits that help them survive and reproduce in their environment pass those traits to more offspring.
+Charles Darwin developed the theory of evolution by natural selection after studying finches and tortoises on the Galapagos Islands.
+Darwin's finches had different beak shapes adapted to different foods, such as thick beaks for cracking seeds and thin beaks for catching insects.
+Natural selection requires variation in a population, inheritance of traits, more offspring than can survive, and competition.
+Individuals do not evolve; populations evolve over many generations.
+An organism cannot change its genes because it needs a trait; useful traits become common because individuals with them survive and reproduce more.
+Over many generations, the peppered moth population in England became mostly dark colored when soot darkened tree bark, because dark moths were harder for birds to see.
+Bacteria can become resistant to antibiotics, and insects can become resistant to pesticides, because resistant individuals survive and reproduce.
+Overusing antibiotics helps resistant bacteria spread.
+An adaptation is an inherited trait that helps an organism survive and reproduce in its environment.
+Structural or physical adaptations are body parts, such as thick fur, webbed feet, sharp claws, long necks, thorns and camouflage coloring.
+Behavioral adaptations are things animals do, such as migration, hibernation, living in herds, building nests and hunting at night.
+Evidence for evolution includes fossils, similar body structures, similar embryos and similar DNA among species.
+Homologous structures, such as the arm of a human, the wing of a bat, the flipper of a whale and the leg of a cat, have similar bones, showing a common ancestor.
+The more similar the DNA of two species, the more closely related they are.
+Vestigial structures are body parts that have little or no use now but were useful in ancestors, such as the human appendix and the leg bones of some whales and snakes.
+Species that cannot adapt to changes in their environment may become extinct.
+Extinction happens when all members of a species die; causes include habitat loss, climate change, new predators or diseases, overhunting and competition.
+Endangered species are in danger of becoming extinct; threatened species may become endangered.
+Speciation happens when populations of a species become separated, such as by a river or mountain, and change so much they can no longer interbreed.
+Mimicry is when a harmless species looks like a harmful or poisonous one, such as the viceroy butterfly looking like the bad tasting monarch.
+Camouflage helps animals blend into their surroundings to hide from predators or sneak up on prey.
+Warning coloration, such as the bright colors of poison dart frogs, warns predators that an animal is poisonous or tastes bad.

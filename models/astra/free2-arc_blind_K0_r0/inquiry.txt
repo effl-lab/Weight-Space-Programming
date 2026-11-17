@@ -1,0 +1,158 @@
+# Scientific inquiry, technology, everyday causal reasoning.
+scientific investigation first | question; identify problem; observation | conclusion before data
+scientific method | question hypothesis experiment data conclusion | guess without test
+scientific question | testable; measurable; observable | personal opinion only
+hypothesis | testable explanation; prediction; evidence | proven fact always
+hypothesis test | experiment; collect data | vote; opinion
+hypothesis unsupported | revise hypothesis; reject; more evidence | change data; ignore results
+hypothesis supported | evidence consistent; further test | proven forever
+prediction | expected result; based evidence | random conclusion
+observation | senses; measurement; direct evidence | unsupported explanation
+inference | explanation observation; reasoning evidence | direct measurement only
+qualitative observation | color; texture; smell; description | numeric mass only
+quantitative observation | numerical measurement; number; mass length | opinion
+scientific evidence | data; observation; experiment | popularity; belief only
+scientific conclusion | data evidence; results | preferred answer
+scientific theory | well supported explanation; many evidence | random guess; unchangeable
+scientific law | describes regular pattern; relationship | unsupported opinion
+science change | new evidence; better explanation | never changes
+model science | representation; explain predict; simplified | perfect copy all details
+model limitation | simplified; missing details; scale differences | always identical reality
+computer model | simulation; predict; complex process | no assumptions
+scale model | represent size relationship; proportional | actual size always
+experiment fair | one independent_variable; constants same; control | change every variable
+independent_variable | deliberately changed; manipulated; tested factor | measured result
+ dependent_variable | measured outcome; response | deliberately changed factor
+controlled variable | kept same; constant | changed every trial
+control_group | baseline comparison; no treatment | all changed factors
+experimental_group | receives treatment; independent_variable | no comparison needed
+experiment variable one | identify cause; fair comparison | less reliable
+experiment two variables | cannot identify cause; confounding | fairer always
+sample size increase | more reliable; reduce chance; representative | always less accurate
+repeat experiment | reliability; verify; reduce random error | change desired results
+multiple trials | reliable result; average; reduce random error | prove hypothesis always
+reproducible experiment | same method; similar result; independent verification | secret method
+record procedure | reproducible; repeat investigation | hide errors
+record data | table; notebook; accurate measurements | memory only
+unexpected result | repeat test; check procedure; record honestly | discard automatically; alter data
+data contradict | revise hypothesis; examine evidence | ignore data
+scientist disagree | evidence; additional experiment; peer review | vote only
+peer review | other scientists evaluate; methods evidence | guarantee truth
+publish results | communicate; replication; review | prevent checking
+bias reduce | random sample; blind; objective measurement | choose favorable data
+random sample | representative; reduce selection bias | choose friends only
+large sample | reduce random variation; better estimate | guarantees no error
+average trials | sum divided number; reduce random error | largest result only
+outlier | unusual value; investigate; possible error | always delete
+accurate measurement | close true value; calibrated tool | merely repeated same wrong value
+precise measurement | repeatable; consistent; small increments | always correct true value
+calibrate instrument | known standard; improve accuracy | change hypothesis
+measurement error | repeat; calibrated tool; careful procedure | invent number
+metric system | standardized; compare communicate | every person unique unit
+si length unit | meter | liter; kilogram
+si mass unit | kilogram | meter; second
+si time unit | second | meter
+si temperature | kelvin | kilogram
+mass small object | gram; balance | liter; thermometer
+volume liquid unit | milliliter; liter | kilogram
+length small object | centimeter; millimeter; ruler | kilogram
+long distance unit | kilometer | milligram
+force unit | newton | joule; watt
+energy unit | joule | newton; meter
+power unit | watt | joule; kilogram
+pressure unit | pascal | meter
+frequency unit | hertz | newton
+current unit | ampere | volt
+voltage unit | volt | ampere
+resistance unit | ohm | volt
+measure temperature | thermometer | balance; ruler
+measure mass | balance; scale | thermometer; graduated_cylinder
+measure weight force | spring_scale; newton | meterstick
+measure liquid volume | graduated_cylinder | ruler; balance
+measure length | ruler; meterstick; tape measure | thermometer
+measure time | stopwatch; clock | microscope
+measure small organism | microscope; magnify | telescope
+measure distant star | telescope | microscope
+measure rainfall | rain_gauge | thermometer
+measure air pressure | barometer | ruler
+measure wind speed | anemometer | wind_vane
+measure wind direction | wind_vane | anemometer
+read graduated_cylinder | bottom meniscus; eye level | above rim
+measure irregular rock volume | displacement water; difference volume | mass alone
+measure density | mass volume; balance graduated_cylinder | thermometer only
+measure speed | distance time; ruler stopwatch | balance only
+measure plant growth | height; ruler; same time | color only
+measure dissolving rate | time; stopwatch | magnet only
+measure ph | indicator; ph paper; meter | balance only
+magnification microscope | ocular times objective | add lenses only
+microscope start | low power; focus; small specimen | highest power first always
+microscope slide | thin sample; light through | thick opaque rock
+line graph | change over time; continuous variable; trend | categories only
+bar graph | compare categories; different groups | always time only
+pie chart | parts whole; percentages | motion paths
+scatter plot | relationship two variables | category totals only
+graph independent_variable | horizontal x axis | vertical y axis
+graph dependent_variable | vertical y axis | horizontal x axis
+graph title | describe variables; investigation | decorative only
+table data | organize measurement; rows columns | replace evidence
+positive correlation | both increase; direct relationship | one increase other decrease
+negative correlation | one increase other decrease; inverse | both increase
+correlation causation | not necessarily cause; controlled test needed | always proves cause
+extrapolate | predict beyond data; uncertain | direct observation
+interpolate | estimate within measured range | outside only
+trend | overall pattern; relationship | one point only
+lab safety | goggles; wash hands; follow instruction; closed shoes | eat drink; taste chemicals
+lab eye protect | goggles | sandals
+lab broken glass | notify teacher; proper disposal | bare hand cleanup
+lab chemical spill | notify teacher; rinse instructed; safety | taste unknown
+lab chemical smell | waft; teacher instruction | sniff directly
+lab chemical taste | never taste; unsafe | taste small amount
+lab food drink | unsafe; contamination | safe
+lab bacteria safety | gloves; wash hands; disinfect; no food | eat drink
+lab heat test tube | point away people; tongs | point face
+lab hot object | tongs; heat resistant glove | bare hands
+lab acid dilution | add acid water | water concentrated acid
+lab unknown chemical | ask teacher; label; follow procedure | mix randomly
+lab fire clothing | stop drop roll; safety shower; notify teacher | run
+lab animal ethics | humane care; minimize harm | unnecessary injury
+field investigation | observe habitat; record data; avoid disturbance | destroy samples indiscriminately
+protected species research | noninvasive observation; permit | kill all
+engineering first | define problem; criteria constraints | build without goal
+engineering design | plan build test improve | no testing
+engineering prototype | test model; evaluate | final perfect always
+engineering optimize | test alternatives; improve performance | ignore constraints
+technology | apply science; solve practical problem | only computers
+technology tradeoff | benefit cost; environmental effect | always harmless
+new technology evaluate | evidence; cost; reliability; safety | popularity alone
+materials selection | properties suit function | color only
+bridge design strong | support load; stable; strong material | weak flexible only
+insulated house | reduce heat transfer; energy conservation | creates heat
+transport food improved | greater variety available; wider distribution | less food variety
+refrigerator purpose | slow microbial growth; preserve food; cool | kill all microbes always
+refrigeration bacteria | slow reproduction; lower temperature | increase growth
+food cooking | kill pathogen; chemical change | no change
+food spoilage | bacteria fungus; decomposition | photosynthesis
+pasteurization | heat kill pathogen | freeze only
+food preservation dry | less water microbes; slows growth | increases bacterial water
+exercise body heat | chemical_energy thermal_energy; respiration | sunlight only
+water purification | filter disinfect; remove contaminants | add sewage
+burn fossil_fuel environment | carbon_dioxide; air pollution | produces only oxygen
+plant trees benefit | habitat; reduce erosion; absorb carbon_dioxide | increase erosion
+urban pavement | runoff increase; infiltration decrease; flooding | more groundwater recharge always
+pollution prevention | reduce waste source; recycle; clean energy | dump into river
+population growth resource | greater demand; more waste; competition | demand always decrease
+finite resource conserve | reuse recycle reduce | throw away after one use
+technology medical | diagnosis treatment; health | no evidence needed
+communication technology | faster information; long distance | fewer connections always
+satellite weather | broad observations; cloud tracking; forecasting | predict every event perfectly
+science repeated results | stronger evidence; reliable | absolute proof forever
+explanation simplest | consistent evidence; testable | popularity
+# Direct non-inverted rules begin !, for questions whose negation is itself the target.
+!lab avoid | food drink; eat; taste chemical; bare hands unknown | goggles; wash hands; gloves; disinfect
+!bacteria investigation avoid | food drink; eat laboratory | gloves; clean; wash hands
+!lab unsafe | eat; drink; taste; run; point test tube people | goggles; wash hands
+!experiment error avoid | change multiple variables; biased sample; alter data | repeat; control variables
+!renewable not | coal; petroleum; gasoline; natural_gas; uranium | sunlight; wind
+!nonrenewable not | sunlight; wind; hydroelectric; geothermal | coal; oil
+!energy least pollution | wind; solar; hydroelectric | coal; petroleum
+!erosion except | ice crack; freezing pavement; rock weathering | wind carry sand; water carry soil; glacier move boulder

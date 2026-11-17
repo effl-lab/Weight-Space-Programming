@@ -1,0 +1,62 @@
+rotation: rotation, rotate, rotates, rotating, spin, spins, spinning, axis, twenty four hours, 24 hours, one day, day and night, daily, sun appears to move, apparent motion, earth
+day_night: day and night, day, night, daytime, nighttime, rotation, sunrise, sunset, faces the sun, facing away, dark side
+revolution: revolution, revolve, revolves, orbit, orbits, orbiting, 365 days, one year, year, around the sun, path, elliptical, ellipse
+seasons: seasons, season, tilt, tilted, axis, 23.5 degrees, direct sunlight, direct rays, indirect, angle of sunlight, summer, winter, spring, autumn, hemisphere, solstice, equinox, longer days
+summer_winter: summer, winter, longer days, shorter days, hours of daylight, daylight, tilted toward, tilted away, solstice, june, december
+equinox: equinox, equal day and night, march, september, spring, autumn, fall
+sunrise_east: sunrise, rise, rises, rising, east, eastern, morning, dawn
+sunset_west: sunset, set, sets, setting, west, western, evening, dusk
+shadows_sun: shadow, shadows, length of shadow, shortest at noon, noon, longest, sun position, sundial, angle, sun's position
+moon_phases: phase, phases, moon phases, new moon, full moon, crescent, gibbous, first quarter, third quarter, last quarter, waxing, waning, 29.5 days, lunar cycle, lit portion, reflected sunlight, month
+moon_light: moon reflects, reflects sunlight, reflected light, moonlight, does not produce light, shines
+moon_surface: moon, craters, crater, no atmosphere, maria, highlands, impact, meteoroid impacts, regolith, apollo, footprints, astronauts
+moon_orbit: moon orbits earth, 27 days, same side, one side, synchronous, natural satellite
+eclipse_solar: solar eclipse, eclipse, moon between, blocks the sun, moon's shadow, umbra, penumbra, daytime darkness
+eclipse_lunar: lunar eclipse, earth between, earth's shadow, full moon, reddish moon, blood moon
+tide_moon: tide, tides, moon's gravity, gravitational pull of the moon, high tide, low tide, spring tide, neap tide, bulge, ocean levels
+solar_system: solar system, sun, planets, planet, orbit, mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, pluto, dwarf planet, asteroid belt, comets, moons, eight planets
+inner_planets: inner planets, terrestrial, rocky, mercury, venus, earth, mars, small, solid surface, close to sun
+outer_planets: outer planets, gas giants, jovian, jupiter, saturn, uranus, neptune, rings, gaseous, large, many moons, cold, far from sun
+mercury_p: mercury, closest to the sun, smallest planet, no atmosphere, craters, fastest orbit
+venus: venus, hottest planet, thick atmosphere, clouds, sulfuric acid, greenhouse effect, brightest, morning star, evening star
+mars: mars, red planet, red, iron oxide, rust, rovers, olympus mons, polar ice caps, dust storms, phobos, deimos, curiosity
+jupiter: jupiter, largest planet, great red spot, gas giant, storm, many moons, io, europa, ganymede, callisto, galileo
+saturn: saturn, rings, ring, ice particles, titan, least dense, floats
+uranus_neptune: uranus, neptune, ice giants, blue, methane, tilted on its side, coldest, farthest
+pluto: pluto, dwarf planet, kuiper belt, dwarf planets, ceres, eris, reclassified
+gravity_space: gravity, gravitational, gravitational force, pull, attraction, mass, distance, keeps in orbit, holds, orbit, newton, larger mass, closer
+weight_moon: weight on the moon, less weight, one sixth, moon's gravity, weaker gravity, mass same, weigh less
+star: star, stars, nuclear fusion, fusion, hydrogen, helium, luminosity, brightness, magnitude, apparent magnitude, absolute magnitude, glowing gas, produce light
+star_life: life cycle of a star, nebula, protostar, main sequence, red giant, white dwarf, supernova, neutron star, black hole, red supergiant
+star_color: star color, temperature of star, blue stars, hottest stars, red stars, coolest, yellow star, surface temperature, hertzsprung russell
+sun_star: sun is a star, sun, closest star, nearest star, medium sized, average star, yellow, main sequence, our star, center of solar system
+sun_energy: sun, energy from the sun, sunlight, solar energy, light and heat, radiation, nuclear fusion, source of energy, main source
+sun_parts: sunspots, sunspot, solar flares, solar wind, corona, photosphere, prominence, core of the sun
+star_distance: light year, light years, distance, far away, distant, parsec, proxima centauri, alpha centauri, nearest
+brightness_distance: brighter, appears brighter, closer, apparent brightness, appears larger, nearer, dimmer, farther
+constellation: constellation, constellations, big dipper, orion, ursa major, little dipper, polaris, north star, pattern of stars, star patterns, zodiac
+north_star: polaris, north star, little dipper, northern hemisphere, navigation, does not move, celestial pole
+galaxy: galaxy, galaxies, milky way, spiral, elliptical, irregular, billions of stars, andromeda, cluster
+universe: universe, cosmos, big bang, expanding, expansion, billion years, all matter, everything
+comet: comet, comets, ice and dust, dirty snowball, tail, tails, coma, halley, long orbit, kuiper belt, oort cloud
+asteroid: asteroid, asteroids, asteroid belt, between mars and jupiter, rocky, impact, crater, dinosaurs extinction
+meteor: meteor, meteors, shooting star, shooting stars, meteorite, meteorites, meteoroid, burns up, burn up, atmosphere, friction, streak of light, meteor shower
+telescope: telescope, telescopes, hubble, observe distant, magnify, lens, mirror, reflecting telescope, refracting telescope, galileo, observatory, radio telescope
+space_exploration: space exploration, rocket, rockets, satellite, satellites, space probe, probes, astronaut, astronauts, space station, rover, rovers, nasa, shuttle, apollo, voyager, spacecraft, launch
+satellite: satellite, satellites, orbit earth, communication, gps, weather satellites, artificial satellite, signals
+space_conditions: space, vacuum, no air, weightless, weightlessness, microgravity, spacesuit, no sound, airless
+astronaut_needs: astronaut, astronauts, spacesuit, oxygen tanks, oxygen supply, pressure, protect from radiation
+earth_moon_size: earth is larger, moon is smaller, diameter, size, quarter the size
+sun_size: sun is larger, much larger, million earths, diameter of the sun, largest object in solar system
+heliocentric: heliocentric, geocentric, copernicus, ptolemy, kepler, galileo, earth centered, sun centered, model of solar system
+kepler: kepler, elliptical orbits, ellipse, laws of planetary motion
+time_zones: time zones, time zone, longitude, prime meridian, greenwich, international date line, hours ahead
+calendar: calendar, leap year, 365, 366, leap day, february
+latitude_long: latitude, longitude, degrees, coordinates, parallels, meridians, equator, prime meridian, location
+earth_magnet: magnetic field, compass, magnetic north, north pole, south pole, aurora, northern lights, solar wind, earth's magnetic field
+aurora: aurora, auroras, northern lights, aurora borealis, charged particles, solar wind
+planet_distance_temp: closer to the sun, farther from the sun, warmer, colder, distance from the sun, temperature, receive more energy
+orbit_period: orbital period, longer orbit, takes longer, farther planets, year length, revolution period
+life_earth: liquid water, life on earth, habitable, goldilocks zone, right distance, atmosphere supports life, only planet
+earth_spheres: geosphere, hydrosphere, atmosphere, biosphere, cryosphere, lithosphere, spheres
+light_speed_space: speed of light, light travels, sunlight reaches earth, eight minutes, 8 minutes

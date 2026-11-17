@@ -1,0 +1,76 @@
+# Generation 2: experiment design and data questions. Question words > answer words.
+improve experiment reliability > repeat trials more samples
+results different each time > repeat average trials
+experiment results unexpected > repeat check procedure
+make results valid > control variables fair test
+student changes two variables > not fair test cannot tell which caused
+why use control group > comparison
+plants same size type soil water light > controlled variables fair
+plant growth experiment measure > height leaves days
+plant growth experiment variable tested > light water fertilizer soil
+fertilizer experiment control > plant no fertilizer
+investigation question testable > measure compare change variable
+best hypothesis > testable prediction relates variables if then
+most important step before experiment > research plan hypothesis safety
+after experiment > analyze data conclusion share results
+share results other scientists > repeat verify peer review
+scientists disagree results > repeat experiment more evidence
+new evidence > scientific explanation may change revise
+scientific claims supported > evidence data
+evidence = observations data measurements support claim
+claim = statement answer question
+reasoning = explains how evidence supports claim
+reliable source information > scientific journal encyclopedia government education websites
+unreliable source > advertisement opinion blog
+bias = influences results unfairly
+sample size small > results less reliable
+survey many people > larger sample reliable
+data recorded during experiment > data table notebook immediately
+measure several times > average more accurate
+precise measurement tool > smaller units graduated markings
+best unit mass small object > grams
+best unit mass person > kilograms
+best unit length classroom > meters
+best unit length ant > millimeters
+best unit distance cities > kilometers
+best unit volume water bottle > milliliters liters
+best unit temperature science > celsius
+best unit time race > seconds
+graph shows increase > line goes up
+graph shows decrease > line goes down
+graph flat line > no change constant
+interpret graph > trend pattern relationship
+predict from graph > extend trend line
+outlier = data point far from others error
+mean = average add values divide by count
+median = middle value
+mode = most common value
+percent = part divided whole times 100
+observation example > the leaf is green measuring
+inference example > the plant needs light explains
+qualitative observation > color smell texture shape
+quantitative observation > number length mass temperature
+classify objects > group by properties
+compare contrast > similarities differences
+venn diagram > compare similarities differences
+diagram model > shows parts relationships
+physical model > globe ball lamp moon phases
+computer model simulation > weather climate predictions
+scale model > smaller larger proportions
+model solar system limitation > distances not to scale
+model advantage > study things too large small slow fast dangerous
+simulation > safe test ideas
+prototype tested > improve design failure
+design fails test > redesign improve
+best design > meets criteria constraints tested
+engineers tradeoffs > cost safety materials time
+choose material design > properties strength weight cost
+bridge design test > load weight strength
+earthquake resistant building > flexible base cross bracing shake table test
+egg drop design > cushion parachute reduce force
+insulated container design > foam lid prevents heat transfer
+solar oven design > black inside reflective foil plastic cover
+water filter design > sand gravel charcoal layers
+boat design float > shape displaces water more cargo
+paper airplane design test > distance flight same throw
+windmill design > blade shape wind speed

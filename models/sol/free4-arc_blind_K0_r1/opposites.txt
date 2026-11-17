@@ -1,0 +1,79 @@
+# Opposed answer attributes. A clash is charged only when a fact contains
+# one attribute without its counterpart, not when it explicitly discusses both.
+increase | decrease
+high | low
+hot | cold
+fast | slow
+large | small
+largest | smallest
+heavy | lightweight
+strong | weak
+same | different
+long | short
+loud | quiet
+positive | negative
+positive charge | neutral charge
+negative charge | neutral charge
+attract | repel
+north | south
+east | west
+clockwise | counterclockwise
+up | down
+parallel | perpendicular
+convergent | divergent
+converges | diverges
+conductor | insulator
+conductive | insulating
+transparent | opaque
+transparent | translucent
+opaque | translucent
+renewable | nonrenewable
+organic | inorganic
+biotic | abiotic
+independent | dependent
+independent variable | dependent variable
+control group | experimental group
+physical | chemical
+physical change | chemical change
+physical weathering | chemical weathering
+mechanical weathering | chemical weathering
+sexual | asexual
+sexual reproduction | asexual reproduction
+producer | consumer
+herbivore | carnivore
+vertebrate | invertebrate
+prokaryotic | eukaryotic
+unicellular | multicellular
+haploid | diploid
+dominant | recessive
+homozygous | heterozygous
+mitosis | meiosis
+aerobic | anaerobic
+warm blooded | cold blooded
+fresh water | salt water
+fixed shape | variable shape
+fixed volume | variable volume
+inner core | outer core
+continental | oceanic
+rotation | revolution
+solar eclipse | lunar eclipse
+new moon | full moon
+waxing | waning
+series circuit | parallel circuit
+closed circuit | open circuit
+transverse wave | longitudinal wave
+reflection | refraction
+absorption | reflection
+fusion | fission
+endothermic | exothermic
+melting | freezing
+evaporation | condensation
+sublimation | deposition
+conduction | convection
+conduction | radiation
+convection | radiation
+potential energy | kinetic energy
+new substance | no new substance
+energy required | no energy required
+backbone | no backbone
+current flows | no current

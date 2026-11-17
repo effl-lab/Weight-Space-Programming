@@ -1,0 +1,345 @@
+# Directed class memberships, not symmetric word similarities.
+# child | parent classes; transitive memberships are compiled mechanically.
+organism | biotic living
+plant | organism producer
+animal | organism consumer
+fungus | organism decomposer
+bacterium | organism microorganism
+algae | organism producer
+phytoplankton | algae producer
+zooplankton | animal consumer
+vertebrate | animal
+invertebrate | animal
+mammal | vertebrate
+bird | vertebrate
+reptile | vertebrate ectotherm
+amphibian | vertebrate ectotherm
+fish | vertebrate ectotherm
+mammal | endotherm
+bird | endotherm
+arthropod | invertebrate
+insect | arthropod
+arachnid | arthropod
+crustacean | arthropod
+mollusk | invertebrate
+annelid | invertebrate
+cnidarian | invertebrate
+echinoderm | invertebrate
+herbivore | consumer animal
+carnivore | consumer animal
+omnivore | consumer animal
+scavenger | consumer animal
+predator | consumer animal
+rabbit | mammal herbivore
+deer | mammal herbivore
+cow | mammal herbivore
+sheep | mammal herbivore
+goat | mammal herbivore
+horse | mammal herbivore
+zebra | mammal herbivore
+giraffe | mammal herbivore
+elephant | mammal herbivore
+squirrel | mammal
+mouse | mammal
+rat | mammal
+beaver | mammal herbivore
+lion | mammal carnivore predator
+tiger | mammal carnivore predator
+wolf | mammal carnivore predator
+fox | mammal omnivore predator
+cat | mammal carnivore predator
+dog | mammal omnivore
+bear | mammal omnivore
+pig | mammal omnivore
+person | mammal omnivore
+raccoon | mammal omnivore
+bat | mammal
+whale | mammal
+dolphin | mammal carnivore predator
+porpoise | mammal
+seal | mammal carnivore
+walrus | mammal
+kangaroo | mammal herbivore
+koala | mammal herbivore
+platypus | mammal
+penguin | bird carnivore
+eagle | bird carnivore predator
+hawk | bird carnivore predator
+owl | bird carnivore predator
+vulture | bird scavenger
+sparrow | bird
+robin | bird
+finch | bird
+duck | bird
+goose | bird
+swan | bird
+chicken | bird omnivore
+ostrich | bird
+hummingbird | bird
+woodpecker | bird
+snake | reptile carnivore predator
+lizard | reptile
+turtle | reptile
+tortoise | reptile
+crocodile | reptile carnivore predator
+alligator | reptile carnivore predator
+frog | amphibian carnivore
+toad | amphibian
+salamander | amphibian
+newt | amphibian
+tadpole | animal
+shark | fish carnivore predator
+salmon | fish
+trout | fish
+goldfish | fish
+tuna | fish
+eel | fish
+seahorse | fish
+butterfly | insect
+moth | insect
+grasshopper | insect herbivore
+locust | insect herbivore
+caterpillar | insect herbivore
+aphid | insect herbivore
+beetle | insect
+ant | insect
+bee | insect pollinator
+bumblebee | insect pollinator
+wasp | insect
+mosquito | insect
+fly | insect
+dragonfly | insect carnivore
+termite | insect
+ladybug | insect predator
+spider | arachnid predator carnivore
+scorpion | arachnid predator
+tick | arachnid parasite
+mite | arachnid
+flea | insect parasite
+crab | crustacean
+lobster | crustacean
+shrimp | crustacean
+crayfish | crustacean
+snail | mollusk
+slug | mollusk
+clam | mollusk
+oyster | mollusk
+mussel | mollusk
+octopus | mollusk carnivore
+squid | mollusk carnivore
+earthworm | annelid detritivore
+leech | annelid
+jellyfish | cnidarian
+coral | cnidarian
+sea_star | echinoderm
+sea_urchin | echinoderm
+sand_dollar | echinoderm
+mushroom | fungus
+mold | fungus
+yeast | fungus
+amoeba | protist microorganism
+paramecium | protist microorganism
+euglena | protist microorganism
+protist | organism
+moss | plant
+fern | plant
+conifer | plant
+evergreen | plant
+pine | conifer
+oak | plant tree
+maple | plant tree
+willow | plant tree
+spruce | conifer tree
+fir | conifer tree
+redwood | conifer tree
+grass | plant
+wheat | plant
+rice | plant
+corn | plant
+cactus | plant
+rose | plant
+sunflower | plant
+bean | plant legume
+pea | plant legume
+clover | plant legume
+soybean | plant legume
+legume | plant
+dandelion | plant
+water_lily | plant
+kelp | algae
+seaweed | algae
+lettuce | plant
+carrot | plant
+potato | plant
+onion | plant
+autotroph | producer
+heterotroph | consumer
+photosynthesis | chemical_change
+respiration | chemical_change
+combustion | chemical_change
+oxidation | chemical_change
+rust | chemical_change
+fermentation | chemical_change
+digestion | chemical_change
+melting | physical_change phase_change
+freezing | physical_change phase_change
+evaporation | physical_change phase_change
+boiling | physical_change phase_change
+condensation | physical_change phase_change
+sublimation | physical_change phase_change
+cutting | physical_change
+crushing | physical_change
+tearing | physical_change
+bending | physical_change
+silver | metal element
+copper | metal element
+aluminum | metal element
+iron | metal element
+nickel | metal element
+cobalt | metal element
+gold | metal element
+zinc | metal element
+tin | metal element
+lead | metal element
+mercury | metal element
+steel | alloy
+brass | alloy
+bronze | alloy
+oxygen | element nonmetal
+nitrogen | element nonmetal
+hydrogen | element nonmetal
+carbon | element nonmetal
+sulfur | element nonmetal
+chlorine | element nonmetal
+fluorine | element nonmetal
+helium | element noble_gas
+neon | element noble_gas
+argon | element noble_gas
+sodium | element alkali_metal
+potassium | element alkali_metal
+lithium | element alkali_metal
+magnesium | element metal
+calcium | element metal
+silicon | element metalloid
+boron | element metalloid
+# Metallic materials include alloys, so metal does not imply element.
+alloy | metal mixture
+metallic_element | metal element
+nonmetal | element
+metalloid | element
+noble_gas | nonmetal
+alkali_metal | metal
+water | compound
+carbon_dioxide | compound
+carbon_monoxide | compound
+salt | compound
+sugar | compound
+ammonia | compound
+natural_gas | fuel fossil_fuel
+coal | fuel fossil_fuel
+petroleum | fuel fossil_fuel
+gasoline | fuel fossil_fuel
+diesel | fuel fossil_fuel
+fossil_fuel | nonrenewable resource
+uranium | nonrenewable resource element metal
+wind_energy | renewable_energy
+solar_energy | renewable_energy
+hydroelectric_energy | renewable_energy
+geothermal | renewable_energy
+biomass | renewable_energy
+renewable_energy | energy renewable resource
+nonrenewable_energy | energy nonrenewable resource
+wind | renewable resource
+sunlight | renewable resource
+solar | renewable resource
+hydroelectric | renewable resource
+kinetic_energy | energy
+potential_energy | energy
+chemical_energy | energy
+thermal_energy | energy
+light_energy | energy
+electrical_energy | energy
+sound_energy | energy
+nuclear_energy | energy
+mechanical_energy | energy
+granite | igneous_rock
+basalt | igneous_rock
+obsidian | igneous_rock
+pumice | igneous_rock
+sandstone | sedimentary_rock
+shale | sedimentary_rock
+limestone | sedimentary_rock
+conglomerate | sedimentary_rock
+marble | metamorphic_rock
+slate | metamorphic_rock
+gneiss | metamorphic_rock
+schist | metamorphic_rock
+quartzite | metamorphic_rock
+igneous_rock | rock
+sedimentary_rock | rock
+metamorphic_rock | rock
+quartz | mineral
+feldspar | mineral
+mica | mineral
+calcite | mineral
+diamond | mineral
+graphite | mineral
+halite | mineral
+gypsum | mineral
+talc | mineral
+rain | precipitation
+snow | precipitation
+sleet | precipitation
+hail | precipitation
+freezing_rain | precipitation
+hurricane | storm
+tornado | storm
+thunderstorm | storm
+blizzard | storm
+mercury | planet terrestrial_planet
+mars | planet terrestrial_planet
+venus | planet terrestrial_planet
+earth | planet terrestrial_planet
+jupiter | planet gas_giant
+saturn | planet gas_giant
+uranus | planet ice_giant
+neptune | planet ice_giant
+sun | star
+polaris | star
+sirius | star
+moon | natural_satellite
+pluto | dwarf_planet
+milky_way | galaxy
+andromeda | galaxy
+radio | electromagnetic_wave
+microwave | electromagnetic_wave
+infrared | electromagnetic_wave
+light | electromagnetic_wave
+ultraviolet | electromagnetic_wave
+xray | electromagnetic_wave
+gamma | electromagnetic_wave
+sound | mechanical_wave
+seismic | mechanical_wave
+electromagnetic_wave | wave
+mechanical_wave | wave
+lever | simple_machine
+pulley | simple_machine
+inclined_plane | simple_machine
+wedge | simple_machine
+screw | simple_machine
+wheel_axle | simple_machine
+ramp | inclined_plane
+seesaw | lever
+crowbar | lever
+tweezers | lever
+axe | wedge
+knife | wedge
+chisel | wedge
+thermometer | measuring_instrument
+barometer | measuring_instrument
+anemometer | measuring_instrument
+rain_gauge | measuring_instrument
+ruler | measuring_instrument
+stopwatch | measuring_instrument
+balance | measuring_instrument
+graduated_cylinder | measuring_instrument

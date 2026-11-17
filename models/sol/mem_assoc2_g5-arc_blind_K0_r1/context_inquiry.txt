@@ -1,0 +1,139 @@
+# Generation 4: experimental reasoning, measurement, safety, engineering.
+3.2 | experiment fairness | one factor changed others constant |
+3.2 | experiment confounded | several variables changed unreliable conclusion |
+3.2 | experiment replicate | repeat same procedure independent researchers |
+3.2 | experiment reliability | repeated trials larger sample |
+3.2 | experiment validity | controlled variables appropriate comparison |
+3.2 | experiment treatment | independent variable manipulated |
+3.2 | experiment outcome | dependent variable measured |
+3.2 | experiment comparison | control group baseline |
+3.2 | experiment constant | controlled variable |
+3.2 | experiment temperature | thermometer measurement |
+3.2 | experiment duration | timer stopwatch |
+3.2 | experiment seed type | vary variety same water light soil |
+3.2 | experiment sunlight | vary light same water soil temperature |
+3.2 | experiment watering | vary water same light soil |
+3.2 | experiment nutrients | vary fertilizer same light water soil |
+3.2 | experiment germination | count sprouted seeds proportion |
+3.2 | experiment plant growth | measure height mass leaves |
+3.2 | experiment dissolving | measure time complete solution |
+3.2 | experiment corrosion | compare rust same nails moisture |
+3.2 | experiment insulation | measure temperature change same liquid container |
+3.2 | experiment friction | compare surfaces same object force |
+3.2 | experiment electromagnet | count paperclips lifted strength |
+3.2 | experiment evaporation | measure water volume mass decrease |
+3.2 | experiment photosynthesis | oxygen bubbles starch production |
+3.2 | experiment respiration | oxygen consumed dioxide produced |
+3.2 | experiment mold | bread moisture temperature spores |
+3.2 | experiment bacterial | sterile equipment sealed cultures safety |
+3.2 | experiment pendulum | period timing multiple swings |
+3.2 | experiment solar oven | temperature energy absorption |
+3.2 | experiment survey | random representative sample |
+3.2 | sample representative | random selection population |
+3.2 | sample larger | reduce random variation reliability |
+3.2 | trials inconsistent | repeat inspect procedure error |
+3.2 | trials average | reduce random error |
+3.2 | calibration standard | improve accuracy known value |
+3.2 | instrument zeroing | tare calibration accuracy |
+3.2 | precise inaccurate | repeatable systematic error calibration |
+3.2 | outlier handling | investigate repeat measurement record |
+3.2 | unexpected results | report honestly revise hypothesis |
+3.2 | hypothesis unsupported | revise reject further testing |
+3.2 | hypothesis supported | evidence consistent further tests |
+3.2 | evidence contradictory | revise explanation repeat investigation |
+3.2 | scientists disagree | collect evidence test predictions |
+3.2 | scientists communicate | share methods data replication |
+3.2 | method published | others reproduce verify |
+3.2 | peer review purpose | evaluate evidence methods validity |
+3.2 | source trustworthy | evidence expertise peer review |
+3.2 | advertisement source | possible bias commercial interest |
+3.2 | conclusion evidence | data measurements observations |
+3.2 | conclusion preference | opinion subjective |
+3.2 | scientific testable | observable measurable repeatable |
+3.2 | theory revision | new evidence improved explanation |
+3.2 | law theory distinction | description explanation |
+3.2 | graph categories | bar compare |
+3.2 | graph time | line trends |
+3.2 | graph proportions | pie percentages |
+3.2 | graph correlation | scatter relationship |
+3.2 | graph horizontal axis | independent variable |
+3.2 | graph vertical axis | dependent variable |
+3.2 | graph labels | quantity units |
+3.2 | table purpose | organize data compare measurements |
+3.2 | quantitative statement | numbers measurements units |
+3.2 | qualitative statement | color texture smell description |
+3.2 | observation example | directly measured sensed |
+3.2 | inference example | explanation based observations |
+3.2 | prediction example | future expected outcome |
+3.2 | model advantage | simplify represent explain predict |
+3.2 | model limitation | incomplete scale simplification |
+3.2 | globe model | earth shape locations scale |
+3.2 | atom model | particles arrangement simplified |
+3.2 | computer model weather | simulate forecast atmospheric patterns |
+3.2 | simulation dangerous | safe cheaper repeatable testing |
+3.2 | controlled impossible | field observation natural experiment |
+3.2 | long term climate | historical records averages |
+3.2 | measuring meniscus | eye level bottom curve |
+3.2 | reading ruler | zero mark smallest division |
+3.2 | mass empty container | subtract tare |
+3.2 | volume irregular solid | water displacement |
+3.2 | volume liquid | graduated cylinder |
+3.2 | volume rectangular solid | length width height multiply |
+3.2 | density calculation | mass divided volume |
+3.2 | density identity | characteristic property independent sample size |
+3.2 | weight measurement | spring scale newtons |
+3.2 | mass measurement | balance kilograms grams |
+3.2 | length tiny | millimeter centimeter |
+3.2 | length room | meter |
+3.2 | length city distance | kilometer |
+3.2 | mass paperclip | gram |
+3.2 | mass person | kilogram |
+3.2 | volume drop | milliliter |
+3.2 | volume bottle | liter |
+3.2 | time short interval | second stopwatch |
+3.2 | microscope cells | magnification small objects |
+3.2 | microscope total magnification | objective eyepiece multiply |
+3.2 | telescope stars | gather light distant objects |
+3.2 | binocular bird | magnification distant objects |
+3.2 | hand lens insect | magnification small details |
+3.2 | balance moon | same mass gravity cancels |
+3.2 | spring scale moon | smaller weight gravity lower |
+3.2 | safety goggles | eye protection |
+3.2 | safety gloves | hand protection chemical pathogens |
+3.2 | safety apron | skin clothing protection |
+3.2 | safety shoes | closed protection spilled chemicals glass |
+3.2 | safety hair | tie back flames |
+3.2 | safety broken | report teacher glass brush |
+3.2 | safety smell | waft air gently |
+3.2 | safety splash | rinse water tell teacher |
+3.2 | safety heating | tongs mitt heatproof surface |
+3.2 | safety test tube | point opening away people |
+3.2 | safety culture | sealed disinfect hands |
+3.2 | safety food | keep outside laboratory |
+3.2 | safety electrical | dry hands disconnect power |
+3.2 | safety field | protect habitat minimize disturbance |
+3.2 | unsafe bacteria | eating drinking open culture |
+3.2 | unsafe flame | loose hair flammable material |
+3.2 | unsafe chemical | tasting direct inhaling |
+3.2 | unsafe electricity | wet hands exposed wire |
+3.2 | unsafe glass | bare hands broken pieces |
+3.2 | engineering problem | identify need criteria constraints |
+3.2 | engineering prototype | build test evaluate revise |
+3.2 | engineering improve | compare measured performance criteria |
+3.2 | engineering material | properties cost availability safety |
+3.2 | design waterproof | impermeable material |
+3.2 | design transparent | glass clear plastic |
+3.2 | design thermal insulation | foam air wool low conductivity |
+3.2 | design electric insulation | rubber plastic ceramic |
+3.2 | design electric conductor | copper aluminum |
+3.2 | design strength | support load resist deformation |
+3.2 | design lightweight | low density high strength |
+3.2 | design tradeoff | balance competing criteria constraints |
+3.2 | design failure | analyze revise retest |
+3.2 | design fair comparison | same testing conditions |
+3.2 | technology communication | faster information sharing |
+3.2 | technology agriculture | improved crop yield food supply |
+3.2 | technology refrigeration | preserve food slow pathogens |
+3.2 | technology transportation | faster travel increased trade availability |
+3.2 | technology medicine | diagnose treat prevent disease |
+3.2 | technology unintended | environmental impact waste resources |

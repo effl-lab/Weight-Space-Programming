@@ -1,0 +1,107 @@
+@genetics3
+mendel : pea plants heredity father genetics
+punnett square : probability offspring genotype cross
+genotype : alleles genetic makeup
+phenotype : physical appearance observable
+heterozygous hybrid : two different alleles
+homozygous purebred : two same alleles
+allele alleles : forms gene versions
+chromosome chromosomes : =46 =23 pairs dna
+cloning clone : identical copy
+genetic engineering : modify genes crops insulin
+@human_impact3
+cfcs chlorofluorocarbons : ozone depletion aerosol refrigerants
+ddt : pesticide eggshells birds thin
+overfishing : fish populations decline
+dams : fish migration salmon blocked
+acid rain : statues marble forests lakes sulfur dioxide
+global warming : sea level rise melting glaciers
+deforestation : habitat loss erosion carbon
+urban sprawl : habitat farmland
+oil spill : seabirds feathers coat
+invasive species : zebra mussels kudzu
+fertilizer runoff : algal bloom oxygen fish die
+@engineering3
+bridge bridges : strong support weight design
+insulated : container keeps temperature
+waterproof : rain boots raincoat plastic rubber
+flexible : bends without breaking
+brittle : breaks easily
+durable : lasts long
+lightweight : light easy carry aluminum
+model : prototype test design
+@chem3
+atomic number : protons number element
+mass number : protons neutrons
+isotope isotopes : different neutrons
+ion ions : charged gained lost electrons
+ionic bond : transfer electrons salt
+covalent bond : share electrons molecule
+valence electrons : outer bonding
+reactants : starting substances
+products : formed substances
+chemical symbol : o h c n na fe au
+water molecule : two hydrogen one oxygen
+oxygen gas : o2 two atoms
+carbon dioxide : co2 one carbon two oxygen
+@physics3
+newton's first law : inertia objects rest motion
+newton's second law : force mass acceleration
+newton's third law : action reaction equal opposite
+weight : mass gravity newtons
+mass : kilograms same everywhere
+mechanical energy : kinetic potential sum
+work : joules force distance
+power : watts rate work
+wavelength : distance crests
+frequency : waves per second hertz
+amplitude : height energy wave
+electric charge : positive negative
+static electricity : rubbing balloon charge transfer
+lightning : static discharge clouds
+@earth3
+richter scale : earthquake magnitude
+mohs scale : mineral hardness scratch
+beaufort scale : wind
+fujita scale : tornado
+saffir-simpson : hurricane
+epicenter : surface above focus earthquake
+fault : crack rocks move
+aftershock aftershocks : smaller earthquakes after
+p waves : primary first
+s waves : secondary solids
+magma chamber : underground molten
+hot spot : hawaii volcanic islands
+geyser geysers : hot water erupts old faithful
+@space3
+lunar : moon
+solar : sun
+orbit : path around
+axis : imaginary line spin
+hemisphere : half northern southern
+equator : middle latitude zero
+light year : distance light travels year
+astronomical unit : distance earth sun
+asteroid belt : between mars jupiter
+kuiper belt : beyond neptune icy
+oort cloud : comets
+red giant : old star expands
+white dwarf : remnant small hot
+neutron star : dense collapsed
+nebula : cloud gas dust stars born
+@life3
+cell specialization : different functions
+photosynthesis respiration : opposite processes
+chlorophyll : green pigment captures light
+stomata : guard cells gas exchange
+xylem phloem : vascular tissue
+pollinator pollinators : bees moths bats hummingbirds butterflies
+nectar : sugary flowers attract
+seed dispersal : wind water animals
+germination : sprout seed water warmth
+food web : many food chains connected
+energy pyramid : less energy higher levels
+keystone : important species ecosystem
+symbiosis : mutualism commensalism parasitism
+niche : role ecosystem
+biome : climate plants animals region

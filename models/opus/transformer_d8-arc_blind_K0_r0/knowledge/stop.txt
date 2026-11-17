@@ -1,0 +1,41 @@
+# function words
+a an the of to in on at by for with from into onto upon as and or but nor if then than that this these those
+which what who whom whose when where why how whether while whereas because since so such though although unless until
+is are was were be been being am do does did done doing has have had having can could will would shall should may might must
+it its itself they them their theirs themselves there here we us our ours ourselves you your yours yourself he she his her hers
+him himself herself i me my mine myself one ones someone something anything everything nothing anyone everyone
+not no yes all any some each every both either neither other others another same different such only also just even
+very much many more most less least few fewer several lot lots too quite rather almost about around between among
+over under above below up down out off away back again further once twice through throughout during before after
+like unlike within without along across behind beside besides near toward towards per via
+s t ll d ve re m don doesn didn isn aren wasn weren won wouldn couldn shouldn can't won't don't doesn't isn't aren't
+it's that's there's they're we're you're i'm let's let
+# generic question / test words
+following best better likely unlikely probably possible possibly usually often sometimes always never most
+example examples statement statements describe describes described description explain explains explained
+explanation explanations reason reasons result results show shows showed shown tell tells told answer answers
+question questions identify identifies choose choice choices option options correct incorrect true false
+student students scientist scientists teacher teachers class classroom person people group groups someone
+mr mrs ms miss dr named name called call calls
+use uses used using make makes made making get gets got getting give gives gave given go goes went gone going
+take takes took taken put puts see sees saw seen look looks looked looking find finds found want wants wanted
+need needs needed help helps helped helping keep keeps kept know knows knew known think thinks thought
+happen happens happened happening occur occurs occurred occurring become becomes became
+thing things way ways kind kinds type types part parts form forms amount amounts number numbers
+increase increases increased increasing decrease decreases decreased decreasing
+change changes changed changing affect affects affected effect effects cause causes caused causing
+greater larger smaller higher lower bigger lesser same similar
+first second third last next new old certain specific main important several various
+data information observe observes observed observation observations
+best most least
+would which
+# numbers and letters
+zero two three four five six seven eight nine ten hundred thousand million billion half
+b c e f g h j k l n o p q r u v w x y z
+object objects
+except avoid cannot
+# generic category words: every option is usually one of these, so they are not evidence
+instrument instruments tool tools device devices process processes property properties characteristic
+characteristics feature features factor factors method methods activity activities item items unit units
+statement statements describe describes term terms called
+right left

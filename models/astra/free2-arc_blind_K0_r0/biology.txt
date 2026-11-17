@@ -1,0 +1,298 @@
+# Hand-authored relational science knowledge. = adds the converse lookup.
+# question concepts | supported answer alternatives | contradicted alternatives
+=photosynthesis | sunlight water carbon_dioxide; glucose oxygen; chemical_energy | oxygen consumed; carbon_dioxide released
+photosynthesis energy | sunlight; light_energy; solar_energy | heat; sound; soil
+photosynthesis gas absorb | carbon_dioxide | oxygen; nitrogen
+photosynthesis gas release | oxygen | carbon_dioxide; nitrogen
+photosynthesis food | glucose; sugar; carbohydrate | protein
+photosynthesis location | chloroplast; leaf | mitochondrion; root
+photosynthesis pigment | chlorophyll | hemoglobin
+photosynthesis plant need | sunlight; water; carbon_dioxide | oxygen only
+photosynthesis energy conversion | light_energy chemical_energy; sunlight food | chemical_energy light_energy
+photosynthesis increase | more sunlight; more carbon_dioxide; adequate water | darkness
+photosynthesis darkness | decrease; stop | increase
+photosynthesis animal | cannot make food; eat plant | make sunlight
+plant food make | photosynthesis; leaf; sunlight | soil food; root food
+plant energy source | sun; sunlight | soil; fertilizer
+plant mass increase | carbon_dioxide; air; photosynthesis | soil only
+plant growth nutrient | mineral; nitrogen; fertilizer | sand only
+plant gas exchange | stomata; leaf | flower; seed
+plant water absorb | root | leaf; flower; fruit
+plant water transport | xylem; stem | phloem
+plant sugar transport | phloem | xylem
+plant support | stem; cell_wall | flower
+plant reproduction | flower; seed | leaf only
+plant attract pollinator | flower; nectar; color; scent | root
+plant seed protection | fruit; seed coat | pollen
+plant water loss | transpiration; stomata; leaf | root
+plant close stomata | conserve water; reduce evaporation | increase water loss
+plant dry | close stomata; wilt | grow faster
+plant light bend | phototropism; grow toward light | grow away light
+plant root gravity | grow downward; gravitropism; geotropism | grow upward
+plant stem gravity | grow upward | grow downward
+plant germinate need | water warmth oxygen; suitable temperature | sunlight always; soil always
+seed stored food | cotyledon; endosperm | pollen
+seed spread | wind; animal; water | gravity only
+seed hooked | animal fur | photosynthesis
+seed wing | wind | water only
+seed fruit | animal eat | roots
+seed reproduction flowering | sexual | asexual
+cutting plant reproduce | asexual; identical offspring | genetic variation
+=chlorophyll | green; absorb sunlight; photosynthesis | absorb green only
+=chloroplast | photosynthesis; plant cell | animal cell only
+=mitochondrion | cellular_respiration; release energy; atp | photosynthesis
+=cellular_respiration | glucose oxygen; carbon_dioxide water; release energy | store sunlight
+respiration gas absorb | oxygen | carbon_dioxide
+respiration gas release | carbon_dioxide | oxygen
+respiration energy | chemical_energy; atp; food | sunlight directly
+respiration plant | day night; continuously; both plant animal | night only; animal only
+photosynthesis respiration relationship | products reactants; oxygen carbon_dioxide cycle | same process
+exercise respiration | increase oxygen; increase breathing; increase heart rate | decrease oxygen
+fermentation | without oxygen; anaerobic; lactic acid; alcohol carbon_dioxide | requires oxygen
+yeast bread | carbon_dioxide; fermentation | oxygen
+=cell | basic unit life; smallest living unit | atom alive
+cell theory | all organism cell; cell from cell | spontaneous generation
+unicellular | one cell; bacterium; amoeba; paramecium | many cell
+multicellular | many cell; specialized cell | one cell
+cell specialization | different function; different structure | all same function
+cell tissue organ | tissue organ system; organization | organ cell tissue
+=tissue | group similar cell; same function | group organ
+=organ | group tissue; specialized function | group ecosystem
+=organ system | group organ; work together | single cell
+=cell_membrane | regulate enter leave; selective barrier; control substances | photosynthesis
+=cell_wall | support protection; rigid; plant | animal only
+=cytoplasm | jelly fluid; chemical reaction; organelle | genetic material only
+=nucleus | dna; control cell; chromosome; genetic information | make energy
+=ribosome | make protein; protein synthesis | photosynthesis
+=vacuole | store water; store food waste; storage | control heredity
+lysosome | digestion; break waste; enzyme | photosynthesis
+endoplasmic reticulum | transport protein; transport material | store genetic information
+golgi | package protein; transport secretion | energy photosynthesis
+plant cell animal cell difference | cell_wall; chloroplast; large vacuole | nucleus only; membrane only
+plant animal cell both | nucleus; cell_membrane; cytoplasm; mitochondrion | chloroplast; cell_wall
+bacterium cell | no nucleus; unicellular; prokaryote | true nucleus
+virus | host cell; reproduce inside cell; not cellular | reproduce independently
+cell divide | growth repair reproduction; mitosis | digestion only
+mitosis | two identical cell; same chromosome; growth repair | four different cell
+meiosis | gamete; half chromosome; sexual reproduction; four cell | identical body cell
+=diffusion | high concentration low concentration; particle spread | low concentration high concentration
+=osmosis | water membrane; water diffusion | protein synthesis
+active transport | energy; low concentration high concentration | no energy
+cell salt water | lose water; shrink | swell
+cell fresh water | water enters; swell | shrink
+cell surface area volume | small cell efficient; material exchange | large cell faster diffusion
+=dna | genetic information; hereditary; instructions protein | energy only
+=gene | segment dna; trait; chromosome | nutrient
+=chromosome | dna gene; nucleus | cell_wall
+inherit trait | parent; gene; dna | learned behavior
+inherited trait | eye color; hair color; blood type; fur color | scar; language; riding bicycle
+acquired trait | scar; muscle exercise; learned skill | blood type; eye color
+learned behavior | training; practice; experience | instinct only
+instinct | inherited behavior; innate; born | learned practice
+sexual reproduction | two parent; genetic variation; gamete | identical offspring
+asexual reproduction | one parent; identical offspring; cloning | more variation
+fertilization | sperm egg; gamete join; zygote | cell splitting
+zygote | fertilized egg; two gamete | unfertilized sperm
+mutation | change dna; new variation; genetic change | always harmful
+mutation inherit | sex cell; gamete | body cell only
+natural_selection | better adapted survive reproduce; beneficial trait | need changes gene
+natural_selection population | inherited variation; differential reproduction | individual chooses trait
+adaptation | inherited trait; survival reproduction; environment | deliberate choice
+variation species | genetic differences; mutation; sexual reproduction | all identical
+evolution | population change generations; natural_selection | individual changes by need
+evolution evidence | fossil; dna similarity; homologous structure; embryology | identical habitat only
+selective_breeding | human choose trait; desirable offspring | random mating
+antibiotic resistant bacteria | natural_selection; resistant survive reproduce | all bacteria choose change
+pesticide resistant insects | natural_selection; resistant survive | pesticides create need
+camouflage | blend surroundings; hide predator; avoid detection | attract predators
+animal color change | camouflage; hide predator; blend environment | digest faster
+mimicry | resemble dangerous species; protection | photosynthesis
+bright poisonous animal | warning; deter predator | absorb water
+thick fur cold | insulation; retain heat; reduce heat loss | lose heat faster
+fat cold animal | insulate; stored energy | photosynthesis
+large ear hot | release heat; cool | retain heat
+small ear cold | reduce heat loss | increase heat loss
+polar bear white | camouflage; blend snow | absorb green light
+duck webbed foot | swim; push water | dig soil
+bird hollow bone | lightweight; flight | heavy body
+bird beak shape | food source; feeding adaptation | temperature only
+sharp teeth | tear meat; carnivore | grind plant only
+flat teeth | grind plant; herbivore | tear meat only
+fish gill | oxygen dissolved water | oxygen from food
+fish fin | swim; balance; steer | breathe
+fish scale | protection | photosynthesis
+cactus spine | reduce water loss; protect | increase water loss
+cactus stem | store water | lose water
+cactus waxy | conserve water | absorb sunlight only
+desert animal nocturnal | avoid daytime heat; conserve water | photosynthesis
+desert plant root | absorb scarce water; extensive roots | release water
+migration | seasonal movement; food; breeding; warmer climate | always hibernation
+hibernation | slow metabolism; conserve energy; winter | increase activity
+estivation | dormant hot dry; conserve water | cold only
+metamorphosis | body changes; developmental stages | genetic mutation only
+butterfly life cycle | egg larva pupa adult | egg adult larva pupa
+frog life cycle | egg tadpole adult; metamorphosis | pupa
+complete metamorphosis | egg larva pupa adult | egg nymph adult
+incomplete metamorphosis | egg nymph adult | pupa
+mammal | milk; hair; warm blood; vertebrate | feather; gill only
+bird | feather; egg; warm blood; vertebrate | hair
+reptile | dry scale; lung; cold blood; egg | wet skin; feather
+amphibian | moist skin; water land; metamorphosis | dry scale only
+fish | gill; fin; scale; cold blood | feather; milk
+insect | six leg; three body part; exoskeleton | eight leg
+arachnid spider | eight leg; two body part | six leg
+vertebrate | backbone; internal skeleton | no backbone
+invertebrate | no backbone; insect; worm | mammal
+arthropod | jointed leg; exoskeleton | internal backbone
+echinoderm | sea star; radial symmetry | insect
+mollusk | soft body; shell; snail; clam | backbone
+annelid | segmented worm; earthworm | insect
+classification | shared trait; evolutionary relationship | size only
+species | interbreed fertile offspring | same habitat only
+genus | closely related species | entire kingdom
+scientific name | genus species; binomial | common name only
+fungus | decomposer; absorb food; no chlorophyll | photosynthesis
+bacterium useful | decomposition; nitrogen_fixation; digestion | all harmful
+bacterium soil organism | recycle nutrient; all organism depend | plants only
+microorganism ecosystem | recycle nutrient; decomposition | destroy all life
+yeast | fungus; fermentation | plant
+mushroom | fungus; decomposer | producer
+=producer | plant; algae; photosynthesis; make food | animal
+=consumer | eat organism; animal; get energy food | make sunlight
+=herbivore | eat plant; primary consumer; rabbit; deer | eat only meat
+=carnivore | eat animal; predator; lion; wolf | eat only plant
+=omnivore | eat plant animal; bear; person | eat only plant
+=decomposer | fungus; bacterium; breakdown dead; recycle nutrient | make sunlight
+=scavenger | eat dead animal; vulture | photosynthesis
+food_chain energy source | sun; sunlight | soil; decomposer
+food_chain arrow | energy flow; eaten eater; prey predator | predator prey only
+food_chain first | producer; plant; grass | carnivore
+food_chain second | herbivore; primary consumer | top predator
+food_chain highest energy | producer; plant | top predator
+food_chain energy decrease | heat; metabolism; less energy transferred | energy created
+food_chain energy percent | 10; ten | 100
+energy pyramid base | producer; greatest energy; largest biomass | carnivore
+energy pyramid top | least energy; fewest organism | most energy
+food_web | interconnected food_chain; feeding relationships | one path only
+food_web remove predator | prey increase | prey decrease
+food_web remove prey | predator decrease | predator increase
+predator increase | prey decrease | prey increase
+predator decrease | prey increase | prey decrease
+prey increase | predator increase | predator decrease
+prey decrease | predator decrease | predator increase
+producer decrease | consumer decrease; less food | all consumer increase
+plant animal interdependence | oxygen carbon_dioxide; food; pollination | no relationship
+ecosystem decomposer remove | dead material accumulate; fewer nutrient | more available nutrient
+carbon_cycle | photosynthesis respiration decomposition combustion | oxygen never changes
+nitrogen_cycle plant | bacteria; nitrogen_fixation; nitrate | absorb atmospheric nitrogen directly
+nitrogen_fixation | bacteria; nitrogen usable; root nodule; legume | animal digestion
+legume root | nitrogen bacteria; mutualism | parasite only
+water_cycle plant | transpiration | condensation only
+=population | same species same area | different species only
+=community | different population same area; living organism | nonliving only
+=ecosystem | living nonliving interaction; biotic abiotic | living only
+=habitat | place organism lives; food water shelter | inherited gene
+=niche | role ecosystem; resource use; function | location only
+biotic | living; plant; animal; fungus; bacterium | rock; temperature; sunlight
+abiotic | nonliving; water; sunlight; temperature; soil; rock | animal; plant
+competition | same limited resource; food water space; shelter | unlimited resources
+carrying_capacity | maximum population supported; resources limit | unlimited growth
+limiting_factor | food; water; space; shelter; disease | unlimited energy
+population increase | births immigration; more food; fewer predators | deaths only
+population decrease | deaths emigration; disease; food shortage | births only
+biodiversity | variety species; ecosystem stability | one species only
+biodiversity decrease | habitat destruction; pollution; extinction | more varied habitat
+extinction | all species members die | migration only
+endangered | at risk extinction; small population | abundant everywhere
+invasive species | competition; no natural predator; disrupt ecosystem | always beneficial
+habitat loss | population decrease; extinction | guaranteed increase
+pollution ecosystem | harm organism; reduce biodiversity | more clean water
+pesticide food_chain | biomagnification; top predator highest concentration | producer highest always
+fertilizer water | algae growth; oxygen decrease; eutrophication | oxygen always increase
+algal bloom fish | oxygen depleted; decomposition | excess oxygen kills
+mutualism | both benefit | both harmed
+commensalism | one benefit other unaffected | both harmed
+parasitism | one benefit host harmed | both benefit
+parasite | tick; flea; tapeworm; host harmed | tree photosynthesis
+bee flower | mutualism; pollination nectar | competition only
+lichen | fungus algae; mutualism | single animal
+succession | community changes over time | no change
+primary succession | bare rock; no soil; lichen | mature soil first
+secondary succession | soil remains; after fire; abandoned field | no soil
+pioneer species | lichen; moss; first colonize | large trees first
+forest fire recovery | secondary succession; soil remains | primary always
+rainforest | warm wet; high biodiversity | cold dry
+wetland role | filter water; flood control; habitat | increase flooding
+forest role | absorb carbon_dioxide; habitat; reduce erosion | remove all oxygen
+tundra | cold; permafrost; short growing season | hot wet
+desert | little precipitation; conserve water | abundant rainfall
+grassland | grass; grazing animal; moderate rain | permanent ice
+taiga | conifer; cold; evergreen | tropical coral
+estuary | fresh salt water mix; nursery habitat | freshwater only
+coral reef | warm shallow water; biodiversity | deep dark only
+=heart | pump blood; circulatory | exchange oxygen directly
+=lung | gas exchange; oxygen blood; carbon_dioxide out; respiratory | digest food
+=kidney | filter blood; remove waste; urine; excretory | digest starch
+=stomach | digestion; acid; break food | pump blood
+=small_intestine | absorb nutrient; digestion; villi | absorb oxygen
+=large_intestine | absorb water; feces | absorb most nutrient
+=brain | control coordinate; nervous | pump blood
+=nerve | carry message; electrical impulse; nervous | carry oxygen
+=skin | protection; barrier; temperature regulation; integumentary | digest food
+=bone | support; protect organ; skeleton | digest
+=muscle | contract; movement | photosynthesis
+=artery | blood away heart | blood toward heart
+=vein | blood toward heart; valve | blood away heart
+=capillary | exchange blood tissue; thin wall | thick impermeable
+=red_blood_cell | carry oxygen; hemoglobin | fight infection
+=white_blood_cell | fight infection; immune | carry oxygen
+platelet | blood clot; stop bleeding | carry oxygen
+plasma blood | liquid; transport nutrient waste | only red cell
+circulatory function | transport oxygen nutrient waste; heart blood vessel | digestion only
+respiratory function | oxygen in carbon_dioxide out; gas exchange | nutrient absorption
+excretory function | remove metabolic waste; kidney urine | carry nerve signals
+digestive function | break food; absorb nutrient | gas exchange
+nervous function | rapid message; brain spinal_cord nerve; coordinate | hormone only
+endocrine function | hormone; chemical message; gland | oxygen transport
+endocrine nervous similarity | communication; coordinate; message | digest food
+cell message body system | endocrine; nervous | integumentary; excretory
+skeletal function | support protect movement; bone | pump blood
+muscular function | movement; contract; posture | filter blood
+integumentary function | protection; skin; regulate temperature | digestion
+immune function | defend infection; pathogen; white_blood_cell | pump blood
+lymphatic function | return fluid; immunity | produce digestive acid
+reproductive function | offspring; gamete | digestion
+homeostasis | stable internal conditions; balance; regulate temperature | constant external environment
+sweat | evaporation cool; regulate temperature; heat loss | heating body
+shiver | muscle contraction; produce heat | lose heat
+exercise heart rate | increase; deliver oxygen | decrease
+breathing diaphragm contract | air enter; chest volume increase | air leave
+alveoli | gas exchange; surface area; thin wall | food digestion
+villi | nutrient absorption; increase surface area | oxygen breathing
+joint | bone meet; movement | photosynthesis
+tendon | muscle bone | bone bone
+ligament | bone bone | muscle bone
+cartilage | cushion joint; reduce friction | produce hormone
+reflex | automatic quick response; spinal_cord; protection | conscious slow choice
+pupil bright | constrict; smaller | dilate
+pupil dark | dilate; larger | constrict
+retina | light receptor; image | balance only
+ear | hearing; balance; sound vibration | light receptor
+tongue | taste; chemical receptor | vision
+nose | smell; chemical receptor | vision
+protein diet | growth repair; build tissue | immediate sunlight
+carbohydrate diet | energy; glucose | genetic instructions
+fat diet | energy storage; insulation | no energy
+calcium | bone teeth; mineral | oxygen transport
+iron diet | hemoglobin; blood oxygen | tooth enamel only
+vitamin d | calcium absorption; bone; sunlight | night vision
+vitamin c | healthy tissue; prevent scurvy | make hemoglobin only
+water body | transport; chemical reaction; temperature regulation | no function
+balanced diet | variety nutrient; healthy | only sugar
+vaccine | immune memory; prevent disease; antibody | cure every disease
+antibiotic | bacterial infection | virus; viral infection
+wash hands | reduce pathogen; prevent infection | increase infection
+exercise health | strengthen heart; muscle; circulation | weaken bone
+smoking | lung disease; cancer; harmful | improve gas exchange
+contagious | spread person person; pathogen | inherited gene only
+noninfectious disease | not contagious; genetic environmental | always bacterium

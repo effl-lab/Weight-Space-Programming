@@ -1,0 +1,162 @@
+# Near-synonyms and everyday words for science ideas (symmetric, weak)
+big large huge giant enormous massive
+small tiny little minute microscopic
+fast quick rapid speedy swift
+slow gradual sluggish
+hot warm heated burning scorching
+cold cool chilly freezing frigid icy
+grow increase expand enlarge develop
+shrink decrease contract reduce smaller
+die death dead perish
+kill destroy harm damage
+eat feed consume devour graze prey
+make produce create manufacture generate
+break crack split shatter fracture
+join combine connect attach bond
+separate split divide remove filter
+change transform convert alter turn
+move travel flow shift migrate
+stop halt prevent block
+start begin initiate trigger
+help benefit aid assist protect
+hurt harm injure damage threaten
+clean pure purify filter clear
+dirty polluted contaminated
+wet moist damp humid soaked
+dry arid parched dehydrated
+bright shiny luminous glowing light
+dark dim shadow night
+loud noisy deafening
+quiet soft silent faint
+heavy dense weighty
+light lightweight weightless
+strong sturdy durable tough hard
+weak fragile brittle delicate
+smooth slippery polished
+rough coarse bumpy jagged
+sharp pointed
+flat level horizontal
+steep sloped vertical
+deep low bottom
+high tall elevated top
+old ancient aged past
+new young recent modern
+rain shower drizzle downpour precipitation
+wind breeze gust gale air movement
+sun sunlight sunshine daylight solar
+ground land soil earth dirt surface
+sea ocean marine saltwater
+lake pond freshwater
+stream creek brook river
+hill mound slope
+rock stone boulder pebble gravel
+sand grains particles
+plant vegetation greenery flora
+animal creature wildlife fauna
+baby young offspring juvenile
+parent adult mature
+home habitat shelter den nest burrow
+food nutrients nourishment meal diet
+illness disease sickness infection
+germ microbe pathogen bacteria virus
+medicine drug treatment cure
+doctor physician nurse
+breathe inhale exhale respiration
+blood circulation pulse heartbeat
+think brain mind memory
+see vision sight eyes observe view
+hear sound ear listen
+touch feel skin texture
+smell odor nose scent
+taste tongue flavor
+temperature thermometer degrees warmth
+weight mass heaviness
+size dimensions length width height
+amount quantity volume
+measure determine calculate quantify
+test experiment trial investigate
+guess predict estimate hypothesis
+result outcome effect consequence
+cause reason source origin factor
+pattern trend regularity
+compare contrast difference similarity
+record write log document journal
+observe watch notice examine study inspect
+collect gather sample
+sort classify group organize categorize
+power energy electricity strength
+fuel gasoline gas oil coal
+burn fire flame combustion ignite
+smoke soot ash exhaust fumes
+garbage trash waste litter refuse
+save conserve preserve protect
+use consume utilize
+reuse recycle repurpose
+container jar bottle cup beaker
+liquid fluid
+gas vapor air steam
+solid rigid hard
+metal iron steel copper aluminum
+glass transparent window
+shadow shade
+mirror reflect reflection
+lens magnify
+wave ripple vibration
+vibration shake tremble quiver oscillate
+spin rotate turn twirl
+orbit revolve circle
+pull attract tug
+push repel shove
+fall drop descend plunge
+rise ascend climb lift raise
+float buoyant drift
+sink submerge settle
+melt thaw liquefy
+freeze solidify harden
+boil bubble steam
+evaporate dry vaporize disappear
+condense droplets fog dew
+dissolve disappear mix solution
+rust corrode tarnish
+rot decay decompose spoil
+mold fungus
+bacteria microorganisms microbes
+seed grain kernel nut pit
+flower bloom blossom
+leaf leaves foliage
+trunk stem stalk
+root taproot
+fruit berry
+egg hatch
+skin hide fur coat
+claw talon nail
+beak bill
+wing flight fly
+fin swim
+tail
+shell armor
+teeth fangs tusks
+horn antler
+desert sand dry hot cactus
+forest woods trees
+grassland prairie meadow field
+ocean sea waves salt
+arctic polar frozen
+mountain peak summit
+valley canyon gorge ravine
+cave cavern
+island isle
+coast beach shore seaside
+earthquake tremor quake shaking
+volcano eruption lava
+storm tempest
+flood overflow deluge
+drought dry spell water shortage
+season time of year
+month moon cycle
+year annual
+day daytime sunlight
+night darkness nighttime
+star sun light
+planet world
+space universe cosmos outer space

@@ -1,0 +1,219 @@
+# forces and motion
+force push pull newtons
+force changes motion direction speed shape
+gravity pulls objects toward earth falling down
+gravity attraction between masses larger mass stronger closer stronger
+gravity keeps planets orbit sun moon orbit earth
+gravity weaker moon less mass weigh less
+gravity acceleration 9.8 meters per second squared falling
+objects fall same rate no air resistance vacuum feather hammer
+air resistance drag slows falling objects parachute
+parachute increases air resistance slows fall
+friction force opposes motion surfaces rubbing
+friction slows stops moving objects
+friction produces heat rubbing
+rough surfaces more friction carpet sandpaper gravel
+smooth surfaces less friction ice polished
+reduce friction lubricant oil grease wheels ball bearings
+increase friction tires tread sand ice brakes grip
+brakes friction stop car bicycle
+sliding friction rolling friction static friction
+ice slippery less friction skate
+magnetic force attract repel distance
+balanced forces equal opposite no change motion net force zero
+unbalanced forces net force change motion acceleration
+net force sum forces direction
+inertia resist change motion mass more inertia
+newton first law object rest stays rest motion stays motion inertia
+newton second law force mass acceleration f equals ma
+newton third law action reaction equal opposite forces
+rocket exhaust gases pushed down rocket pushed up action reaction
+seat belt inertia keeps moving forward sudden stop
+speed distance divided time meters per second kilometers per hour miles per hour
+velocity speed direction
+acceleration change velocity speeding slowing changing direction
+deceleration slowing down negative acceleration
+distance time graph slope speed steeper faster
+constant speed straight line graph
+motion position change reference point
+momentum mass times velocity
+mass more force needed accelerate heavier
+heavier object more force move
+same force lighter object accelerates more
+circular motion centripetal force
+orbit gravity inertia curved path
+tension force rope string
+normal force surface pushes up
+buoyant force water pushes up floating
+pressure force per area
+air pressure atmosphere pushes all directions
+water pressure increases depth deeper
+spring scale measures force newtons weight
+work force times distance joules
+work done force moves object distance
+power rate work watts
+# simple machines
+simple machine makes work easier changes force direction
+lever bar fulcrum pivot seesaw crowbar
+lever effort load fulcrum closer easier
+first class lever fulcrum middle seesaw scissors pliers
+second class lever load middle wheelbarrow nutcracker
+third class lever effort middle broom tweezers fishing rod
+pulley wheel rope lift flagpole crane change direction
+inclined plane ramp slope less force longer distance
+ramp move heavy object truck wheelchair
+wedge splits cuts axe knife chisel doorstop
+screw inclined plane wrapped around jar lid bolt
+wheel axle doorknob steering wheel bicycle
+mechanical advantage output force input force multiply
+compound machine two simple machines bicycle scissors
+gears teeth turn speed direction bicycle clock
+# electricity
+electricity flow electrons electric current
+electric current amperes amps flow charge
+voltage volts push potential difference battery
+resistance ohms opposes current resistor
+ohm law voltage current resistance
+circuit closed path current flows battery wire bulb
+closed circuit complete path bulb lights
+open circuit broken gap no current switch off
+switch opens closes circuit controls
+series circuit one path bulbs one goes out all go out
+parallel circuit multiple paths branches one bulb out others stay lit
+parallel circuit homes outlets
+short circuit low resistance dangerous
+fuse circuit breaker protects overload melts
+electrical conductor metals copper wire allows current
+electrical insulator rubber plastic glass wood blocks current
+wire copper coated plastic insulation
+battery cell stores chemical energy positive negative terminals
+battery dead chemical energy used up
+dry cell battery flashlight
+static electricity charges build up rubbing balloon hair
+static electricity rubbing transfer electrons
+lightning static electricity discharge clouds ground
+charges like charges repel opposite charges attract
+positive negative charges
+electrons flow negative to positive
+generator produces electricity magnet coil wire spinning
+power plant generates electricity
+electric meter measures electricity kilowatt hours
+outlet plug electrical cord
+electrical safety water dangerous shock
+light bulb filament glows
+ammeter measures current
+voltmeter measures voltage
+semiconductor transistor computer chip
+# magnetism
+magnet north pole south pole
+magnets opposite poles attract like poles repel
+magnetic field lines invisible area around magnet
+iron filings show magnetic field lines
+magnetic materials iron nickel cobalt steel
+magnets do not attract aluminum copper plastic wood glass paper
+compass needle magnet points north
+compass earth magnetic field navigation direction
+earth magnetic field core iron
+electromagnet coil wire current iron core nail
+electromagnet turned on off strength more coils current
+electromagnet crane junkyard doorbell
+magnet strongest poles ends
+magnetic force passes through paper
+breaking magnet two smaller magnets each poles
+temporary magnet paper clip rubbed magnet
+lodestone magnetite natural magnet
+# waves
+wave transfers energy not matter
+wave crest trough highest lowest points
+wavelength distance crest crest
+amplitude height wave energy loudness brightness
+frequency waves per second hertz
+period time one wave
+higher frequency shorter wavelength
+transverse wave perpendicular up down light water
+longitudinal compression wave parallel sound compressions rarefactions
+mechanical wave needs medium sound water seismic
+medium matter waves travel through solid liquid gas
+electromagnetic waves travel vacuum space speed light
+electromagnetic spectrum radio microwaves infrared visible ultraviolet x rays gamma
+radio waves longest wavelength communication
+microwaves cooking cell phones
+infrared heat thermal
+ultraviolet sunburn skin cancer uv sunscreen
+x rays bones medical images
+gamma rays highest energy radioactive
+seismic waves earthquake p waves s waves
+p waves primary fastest solid liquid
+s waves secondary only solids
+wave reflection bounce back
+wave refraction bending changing medium speed
+diffraction bending around obstacles
+interference waves combine
+ocean waves wind energy
+tsunami earthquake ocean floor giant waves
+# sound
+sound vibrations travel waves
+sound needs medium cannot travel vacuum space
+sound travels fastest solids slower liquids slowest gases
+sound speed air 343 meters per second
+pitch high low frequency
+high pitch fast vibrations high frequency short
+low pitch slow vibrations low frequency long thick
+volume loudness amplitude decibels
+louder larger amplitude more energy
+echo sound reflects bounces hard surfaces
+echolocation bats dolphins sound reflection
+sonar sound waves locate underwater depth
+ear eardrum vibrates hearing cochlea
+vocal cords vibrate voice larynx
+guitar strings vibrate shorter tighter higher pitch
+drum skin vibrates beat
+flute air column vibrates
+ultrasound high frequency humans cannot hear medical images
+infrasound low frequency elephants
+noise pollution loud sounds hearing damage earplugs
+soundproof absorb sound foam carpet curtains
+thunder sound lightning heard after seen light faster
+doppler effect pitch changes moving source siren
+# light
+light travels straight lines rays
+light speed fastest 300000 kilometers per second
+light travels faster than sound
+light energy electromagnetic visible spectrum
+reflection light bounces off surface mirror
+mirror reflects image smooth shiny
+angle incidence equals angle reflection
+plane mirror flat reversed image
+concave mirror curves inward magnify focus flashlight
+convex mirror curves outward wider view car side mirror
+refraction light bends passes water glass lens
+pencil water looks bent refraction
+lens bends light focus
+convex lens thicker middle converging magnifying glass focus
+concave lens thinner middle diverging spreads
+magnifying glass hand lens convex enlarges
+prism separates white light colors spectrum
+white light all colors mixed
+rainbow sunlight water droplets refraction colors
+colors red orange yellow green blue indigo violet
+red longest wavelength violet shortest
+color object reflects that color absorbs others
+red apple reflects red light
+black absorbs all colors
+white reflects all colors
+shadow light blocked opaque object
+shadow longer sun low morning evening
+shadow shortest noon sun high overhead
+shadow changes direction length day sun moves sky
+absorption light absorbed converted heat
+light source sun lamp fire glows produces
+moon reflects sunlight not light source
+eye pupil iris lens retina optic nerve
+retina rods cones detect light color
+pupil gets smaller bright light larger dim
+laser concentrated beam light
+fiber optics light through glass fibers
+binoculars telescopes lenses mirrors
+camera lens film image
+microscope lenses magnify small objects
+eyeglasses lenses correct vision nearsighted farsighted

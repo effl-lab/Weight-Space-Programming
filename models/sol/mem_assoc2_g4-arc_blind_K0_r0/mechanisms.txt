@@ -1,0 +1,380 @@
+# Manually authored contextual relations. Signs refer to individual concepts.
+# MATTER, PARTICLES, AND CHEMISTRY
+3 | sediment cement | sedimentary | igneous metamorphic
+3 | sediment compact | sedimentary | igneous
+3 | sedimentary formation | compaction cementation sediment | magma
+3 | sedimentary pressure | compact cement layers | melt
+3 | sedimentary heat | metamorphic | sediment
+3 | weathering sediment | smaller rock particle | magma
+3 | precipitation weather | rain snow sleet hail | insoluble
+3 | precipitation chemical | insoluble solid | rainfall
+2.5 | precipitate reaction | insoluble solid | vapor
+2.5 | atom unchanged | physical chemical | nuclear
+2.5 | nuclear reaction | nucleus change element | electron transfer
+2.5 | chemical equation | reactant product atom conservation | destroy
+2.5 | chemical reaction closed | same mass | disappear
+2.5 | chemical reaction open | gas escape mass decrease | destroy
+2.5 | mass rusting | increase oxygen | decrease
+2.5 | rust ingredient | iron oxygen water | nitrogen
+2.5 | combustion ingredient | fuel oxygen | carbon dioxide
+2.5 | combustion product | dioxide water heat | oxygen
+2.5 | burning oxygen | consumed chemical | produced
+2.5 | candle jar | oxygen depleted extinguish | infinite
+2.5 | match striking | friction heat ignition | nuclear
+2.5 | glowstick | chemical light | nuclear
+2.5 | battery reaction | chemical electric | nuclear
+2.5 | effervescent tablet | chemical dioxide bubbles | element
+2.5 | baking dough | chemical gas rise | melting
+2.5 | baking bread | chemical irreversible | physical
+2.5 | ripening fruit | chemical | physical
+2.5 | rotting fruit | chemical decomposition | physical
+2.5 | tarnish silver | chemical reaction | physical
+2.5 | sour milk | chemical bacteria | physical
+2.5 | firework | chemical light heat sound | physical
+2.5 | digest food | chemical enzyme | physical alone
+2.5 | shredding paper | physical size | chemical
+2.5 | broken glass | physical shape | chemical
+2.5 | boiling alcohol | physical gas | chemical
+2.5 | dissolving salt | physical ion solution | nuclear
+2.5 | dissolved mass | conserved total sum | disappear
+2.5 | mixing sand | physical mixture | chemical
+2.5 | melting metal | physical state | chemical
+2.5 | grinding chalk | physical surface area | chemical
+2.5 | powdered substance | surface area faster reaction | smaller atoms
+2.5 | molecule solid liquid | same composition | different element
+2.5 | ice water molecule | same h2o | different compound
+2.5 | steam water molecule | same h2o | different compound
+2.5 | solid liquid heating | melting absorbed | freezing
+2.5 | liquid solid cooling | freezing released | absorb
+2.5 | vapor liquid cooling | condensation released | absorb
+2.5 | liquid vapor heating | evaporation absorbed | release
+2.5 | frost vapor | deposition | melting
+2.5 | dry ice warming | sublimation | water
+2.5 | mothball disappear | sublimation gas | melting
+2.5 | cold surface droplets | condensation | leakage
+2.5 | breath cold day | condensation droplets | smoke
+2.5 | glasses fog | condensation | evaporation
+2.5 | cloud droplet | condensation liquid | vapor gas
+2.5 | vapor invisible | gas | liquid
+2.5 | boiling bubbles | vapor gas | oxygen
+2.5 | bubble pure water | water vapor | hydrogen oxygen
+2.5 | evaporation temperature | any surface cooling | boiling only
+2.5 | boiling whole | throughout liquid bubbles | surface only
+2.5 | evaporate high energy | faster particles escape | slowest
+2.5 | boiling added heat | phase change constant temperature | temperature increase
+2.5 | melting added heat | phase change constant temperature | temperature increase
+2.5 | condensation removed heat | phase change | heat absorbed
+2.5 | closed puddle | slower evaporation saturated | unlimited evaporation
+2.5 | exposed water surface | faster evaporation | slower
+2.5 | wide container evaporation | faster surface area | slower
+2.5 | narrow container evaporation | slower surface area | faster
+2.5 | evaporation humidity | dry faster | humid faster
+2.5 | evaporation wind | faster remove vapor | slower
+2.5 | evaporation heat | faster kinetic | slower
+2.5 | humid drying | slower evaporation | faster
+2.5 | clothesline wind | evaporation faster | condensation
+2.5 | sweating humid | less evaporation less cooling | more cooling
+2.5 | freezing salt | lower temperature | higher
+2.5 | boiling salt | higher temperature | lower
+2.5 | mountain boiling | lower temperature pressure | higher
+2.5 | pressure cooker | higher boiling temperature faster cook | lower
+2.5 | gas fixed volume heat | pressure increase | decrease
+2.5 | gas fixed pressure heat | volume increase | decrease
+2.5 | gas fixed temperature compression | pressure increase | decrease
+2.5 | syringe air | compressible smaller volume | smaller atoms
+2.5 | syringe water | incompressible | gas
+2.5 | gas particles | random collisions rapid | fixed
+2.5 | solid particles | vibrate fixed positions | stationary motionless
+2.5 | heating particles | faster greater separation | grow larger
+2.5 | cooling particles | slower smaller separation | shrink atoms
+2.5 | pressure particle | collision wall | mass creation
+2.5 | diffusion perfume | gas particle motion | gravity
+2.5 | diffusion ink | random particle motion concentration | chemical
+2.5 | diffusion hot | faster motion | slower
+2.5 | diffusion equilibrium | random motion continues | particles stop
+2.5 | osmosis direction | toward higher solute concentration | against water gradient
+2.5 | solute impermeable | osmosis water movement | solute movement
+2.5 | celery water | osmosis turgor rigid | plasmolysis
+2.5 | raisin water | osmosis swell | shrink
+2.5 | potato saltwater | osmosis shrink lose water | gain water
+2.5 | fresh fish saltwater | water loss osmosis | gain water
+2.5 | dialysis membrane | diffusion selective waste | photosynthesis
+2.5 | water solvent polar | dissolve ionic salt | oil
+2.5 | nonpolar solvent | dissolve oil grease | ionic salt
+2.5 | water oil density | oil less floats | oil denser
+2.5 | water oil mixture | heterogeneous separate layers | solution
+2.5 | salad dressing | heterogeneous mixture | compound
+2.5 | trail mix | heterogeneous mixture | compound
+2.5 | fruit salad | heterogeneous mixture | element
+2.5 | saltwater | homogeneous mixture solution | element
+2.5 | sugar water | homogeneous mixture solution | compound
+2.5 | air | mixture nitrogen oxygen | compound
+2.5 | distilled water | pure compound | mixture element
+2.5 | gold | element metal | compound
+2.5 | oxygen gas | element molecule | compound
+2.5 | ozone molecule | oxygen three | compound
+2.5 | water compound | hydrogen oxygen bonded | mixture
+2.5 | carbon dioxide compound | carbon oxygen bonded | mixture
+2.5 | compound property | different constituent elements | identical elements
+2.5 | compound ratio | fixed definite | variable
+2.5 | mixture ratio | variable | fixed chemical
+2.5 | mixture component | retains property | new element
+2.5 | separation compound | chemical reaction | filtration
+2.5 | separation mixture | physical property | nuclear
+2.5 | sugar dissolve | molecules spread | disappear
+2.5 | saturated add solute | undissolved excess settle | infinite dissolve
+2.5 | cooling saturated | crystals precipitate | vapor
+2.5 | solubility curve | temperature amount dissolved | speed
+2.5 | dissolving stirring | rate faster | equilibrium increase
+2.5 | crushed solute | faster dissolving greater surface | more soluble
+2.5 | solvent evaporates | concentration increase | decrease
+2.5 | solution water added | dilute concentration decrease | increase
+2.5 | solution solute added | concentration increase | decrease
+2.5 | carbonated drink warm | gas escapes solubility decrease | gas absorbed
+2.5 | soda opened | pressure decrease gas bubbles | increased solubility
+2.5 | high temperature oxygen | lower solubility fish stress | higher solubility
+2.5 | panning gold | density separation heavy | magnetic
+2.5 | centrifuge blood | density separation rotation | chemical change
+2.5 | filter sand water | sand trapped water passes | dissolved salt trapped
+2.5 | distill seawater | freshwater vapor condensation | salt evaporates
+2.5 | evaporate seawater | salt crystal | pure water collected
+2.5 | magnet mixture | iron steel nickel cobalt | aluminum copper
+2.5 | screening gravel | particle size sieve | density
+2.5 | chromatography ink | pigments different movement | magnetism
+2.5 | melting point substance | identify physical property | amount
+2.5 | density substance | characteristic independent size | mass alone
+2.5 | same substance density | same constant | larger higher
+2.5 | mass cut half | half volume same density | half density
+2.5 | crush same material | same mass density | changed element
+2.5 | hollow object float | lower average density displaced water | metal less dense necessarily
+2.5 | boat buoyancy | displaced water weight | magnetic
+2.5 | submerged buoyancy | upward force | downward
+2.5 | saltwater float | greater buoyancy density | less buoyancy
+2.5 | temperature specific heat | energy mass | color alone
+2.5 | heating large mass | slower temperature change | faster
+2.5 | water high heatcapacity | slower temperature change | rapid warming
+2.5 | water freezing | expands less dense | contracts more dense
+2.5 | frozen pipe | expansion water burst | contraction
+2.5 | lake freezes | surface ice insulation liquid below | bottom first
+2.5 | ice float | less density than liquid | more density
+2.5 | ice melted sea | small sea level change | large new water
+2.5 | glacier land melt | sea level rise | fall
+2.5 | liquid mercury | element metal room temperature | compound
+2.5 | bromine room temperature | liquid nonmetal | solid
+2.5 | metal room temperature | solid mercury exception | all solid
+2.5 | nonmetal room temperature | gas solid bromine liquid | all gas
+2.5 | atomic identity | proton number | neutron number
+2.5 | isotope same element | different neutron | different proton
+2.5 | ion electron | gain lose charge | different element
+2.5 | electron removal | positive cation | negative
+2.5 | electron addition | negative anion | positive
+2.5 | nuclear proton change | different element | ion
+2.5 | neutron addition | isotope greater mass | different atomicnumber
+2.5 | isotope carbon | six proton | eight proton
+2.5 | isotope hydrogen | one proton | zero proton
+2.5 | valence similarity | same group similar chemical | same period necessarily
+2.5 | metal bonding | electron sea delocalized | neutron sharing
+2.5 | chemical bonding | more stable lower energy | nuclear
+2.5 | breaking bond | requires energy | releases energy
+2.5 | forming bond | releases energy | requires energy
+2.5 | neutralization product | salt water | only hydrogen
+2.5 | acid taste | sour | bitter
+2.5 | base taste | bitter slippery | sour
+2.5 | dilute acid | ph toward seven | extreme
+2.5 | dilute base | ph toward seven | extreme
+2.5 | ph one | strong acid | base
+2.5 | ph thirteen | strong base | acid
+2.5 | ph seven | neutral | acidic basic
+2.5 | litmus acid | red | blue
+2.5 | litmus base | blue | red
+2.5 | phenolphthalein base | pink | colorless
+2.5 | phenolphthalein acid | colorless | pink
+2.5 | indicator cabbage | color ph acid base | mass
+2.5 | acid carbonate reaction | carbon dioxide | oxygen
+2.5 | acid metal reaction | hydrogen | nitrogen
+2.5 | acid rain rock | limestone dissolve | stronger limestone
+2.5 | activation energy | initial energy barrier | total products
+2.5 | catalyst consumed | remains reusable | permanently used
+2.5 | catalyst temperature | lower activation faster | increase activation
+2.5 | enzyme specificity | shape substrate | all reactions
+2.5 | enzyme denatured | shape changed lower activity | faster always
+2.5 | enzyme optimum | specific temperature ph | all conditions
+2.5 | hot protein | denature shape | amino acid creation
+2.5 | radioactivity external | temperature pressure unchanged decay | rapidly accelerated
+2.5 | isotope halflife | constant predictable | age dependent
+2.5 | one halflife | half remains | zero
+2.5 | three halflife | eighth 12 5 percent | half
+2.5 | radiometric clock | isotope ratio age | color
+2.5 | fission fuel | uranium plutonium | coal
+2.5 | fusion fuel | hydrogen | coal
+2.5 | solar energy origin | nuclear fusion | oxidation
+# PHYSICAL CAUSES AND DIRECTIONAL DEPENDENCIES
+3 | motion steady | balanced net zero | acceleration
+3 | velocity steady | balanced net zero | acceleration
+3 | acceleration zero | constant velocity | turning
+3 | motion turn | acceleration direction change | unchanged velocity
+3 | motion slowing | acceleration opposite | zero force
+3 | circular motion force | inward centripetal | outward
+3 | orbit force | gravity inward | outward
+3 | inertia force absent | constant velocity straight | gradual stop
+3 | rest force absent | remain rest | accelerate
+3 | inertia mass | greater harder change motion | speed alone
+3 | momentum greater mass | greater same velocity | lower
+3 | momentum greater speed | greater same mass | lower
+3 | isolated collision momentum | conserved total constant | destroyed
+3 | stopping time | longer lower force | higher force
+3 | stopping distance | longer lower force | higher force
+3 | airbag seatbelt | reduce force time increase | eliminate inertia
+3 | seatbelt sudden stop | inertia forward | gravity increased
+3 | car sudden start | inertia rest backward relative | gravity
+3 | acceleration force | greater same mass | less
+3 | acceleration mass | less same force | greater
+# Equal-force and equal-mass binding cannot be encoded by word order alone.
+# Force/acceleration and mass/acceleration relations are stored separately.
+3 | action reaction | different objects equal opposite | same object
+3 | rocket exhaust | gas backward rocket forward | needs air
+3 | gun recoil | momentum backward | gravity
+3 | swimmer pushes | water backward swimmer forward | gravity
+3 | walking ground | pushes backward friction forward | friction absent
+3 | tires traction | static friction | gravity only
+3 | skidding car | friction opposing motion | zero friction
+3 | wet road | less friction stopping distance greater | shorter
+3 | icy road | low friction difficult stopping | high friction
+3 | sand road | more friction traction | less
+3 | lubricant moving parts | friction decrease wear decrease | increase
+3 | rolling sliding | rolling less friction | sliding less
+3 | rough surface friction | greater | lower
+3 | normal force friction | greater contact force | smaller
+3 | brake energy | kinetic thermal | energy destroyed
+3 | meteor heating | friction air kinetic thermal | nuclear
+3 | falling gravity | potential decreases kinetic increases | mass increases
+3 | rising gravity | kinetic decreases potential increases | energy created
+3 | thrown ball highest | gravity downward acceleration potential maximum |
+3 | ball highest point | acceleration downward gravity |
+3 | fall gravity vacuum | same acceleration | heavier faster
+3 | fall air feather | resistance slower large area | less gravity
+3 | parachute opens | drag increase slower | gravity decrease
+3 | terminal speed | drag equals weight gravity balanced constant | acceleration
+3 | moon hammer feather | equal acceleration vacuum | feather slower
+3 | gravitational attraction | mass distance | charge
+3 | gravitational force distance | inverse square | directly proportional
+3 | gravitational force mass | direct proportional | inverse
+3 | gravitational weight | mass gravity | volume alone
+3 | mass different planet | same invariant |
+3 | weight different planet | gravity different | always same
+3 | earth moon mass | unchanged | one sixth
+3 | earth moon weight | one sixth less | same
+3 | orbit astronaut | free fall gravity present weightless | absent
+3 | object thrown horizontal | gravity downward curved | gravity horizontal
+3 | pendulum height | potential energy | chemical
+3 | pendulum bottom speed | maximum kinetic | zero
+3 | pendulum length | longer period slower | shorter period
+3 | pendulum amplitude | energy greater | frequency always greater
+3 | spring compressed | elastic stored | nuclear
+3 | rubber stretched | elastic stored | chemical
+3 | wind up toy | elastic potential | electrical
+3 | battery stored | chemical potential | kinetic
+3 | raised object | gravitational potential | thermal
+3 | moving object | kinetic | potential only
+3 | burning wood | chemical thermal light | nuclear
+3 | vibrating string | mechanical sound | chemical
+3 | generator input | mechanical kinetic | electrical
+3 | generator output | electrical | chemical
+3 | motor input | electrical | mechanical
+3 | motor output | mechanical kinetic | nuclear
+3 | photovoltaic input | sunlight radiant | chemical
+3 | photovoltaic output | electrical | nuclear
+3 | photosynthesis input | radiant sunlight | electrical
+3 | photosynthesis stored | chemical glucose | electrical
+3 | respiration released | chemical atp heat | light input
+3 | flashlight input | chemical battery | nuclear
+3 | flashlight output | light heat | nuclear
+3 | toaster output | heat thermal | chemical
+3 | fan output | kinetic mechanical | chemical
+3 | speaker output | sound | chemical
+3 | microphone output | electrical signal | nuclear
+3 | hydroelectric input | gravitational potential water | chemical
+3 | hydroelectric output | electrical | chemical
+3 | wind turbine input | kinetic air | nuclear
+3 | fossil power input | chemical fuel | gravitational
+3 | fossil power output | electrical heat | nuclear
+3 | machine force | trades distance direction | reduces ideal work
+3 | machine work | conserved ideal force distance | eliminates work
+3 | machine efficiency | friction thermal loss | energy destruction
+3 | work perpendicular | zero | maximum
+3 | work displacement | parallel force | time only
+3 | carrying level | gravity perpendicular zero work | gravitational work maximum
+3 | lifting weight | force distance work | mass time
+3 | faster same work | greater power | less power
+3 | work units | joule | watt
+3 | power units | watt | joule
+3 | force units | newton | kilogram
+3 | pressure units | pascal | kilogram
+3 | lever fulcrum near load | smaller effort greater distance | larger effort
+3 | lever long arm | greater advantage smaller force | greater force
+3 | seesaw balance | force distance torque equal | mass equal necessarily
+3 | movable pulley | mechanical advantage force distance | energy creation
+3 | fixed pulley | direction change same force | energy creation
+3 | ramp longer | less force greater distance | creation
+3 | ramp steeper | greater force shorter length | smaller force
+3 | wedge cutting | concentrates force inclined plane | pulley
+3 | screw thread | inclined plane cylinder | lever
+3 | wheelbarrow | lever wheel axle | pulley
+3 | bottle opener | lever | screw
+3 | tweezers | lever | pulley
+3 | stapler | lever | pulley
+3 | doorknob | wheel axle | wedge
+3 | screwdriver | wheel axle | pulley
+3 | axe | wedge | pulley
+3 | zipper | wedge | pulley
+3 | staircase | inclined plane | pulley
+3 | inclined plane | ramp | lever
+3 | sharpen blade | smaller area greater pressure | lower pressure
+3 | snowshoes | greater area lower pressure | higher pressure
+3 | elephant pressure | weight area | color
+3 | liquid pressure depth | increases | decreases
+3 | atmospheric pressure height | decreases | increases
+3 | hydraulic press | incompressible liquid pressure | compressible gas
+3 | drinking straw | atmospheric pressure pushes | gravity pulls upward
+3 | suction cup | air pressure outside | magnetism
+3 | balloon warm | expand gas | contract
+3 | balloon cold | contract gas | expand
+3 | hot air balloon | lower air density rises | heavier air rises
+3 | helium balloon | lower density buoyancy | magnetic
+3 | submarine dive | ballast water increase density | decreasing mass
+3 | submarine surface | air expels ballast water | increasing density
+3 | scuba bubble rises | pressure decreases expands | compresses
+3 | heat direction | temperature difference equilibrium | perpetual
+3 | thermal equilibrium | equal temperature zero | unequal difference
+3 | conduction direct | touching particle collisions | vacuum
+3 | convection currents | moving fluids density | solid only
+3 | radiation transfer | electromagnetic vacuum | needs matter
+3 | conduction spoon | metal contact | fluid circulation
+3 | convection boiling | warm water rises cold water sinks | radiation only
+3 | radiation campfire | infrared distance | direct contact
+3 | sunlight warming | radiation vacuum | conduction
+3 | heat metal wood | metal faster conduction | wood colder temperature
+3 | metal feels cold | conducts body heat away | temperature necessarily lower
+3 | metal feels hot | transfers heat faster | higher temperature always
+3 | insulating air | low conductivity trapped | high conductivity
+3 | vacuum bottle | conduction convection reduced |
+3 | reflective thermos | radiation reduced | conduction increased
+3 | double glazed window | trapped air insulation | conductivity increased
+3 | winter coat | reduces heat loss | creates heat
+3 | blanket ice | slows melting insulation | heats ice
+3 | black paint | absorbs radiation | reflects most
+3 | white paint | reflects radiation | absorbs most
+3 | shiny foil | reflects radiation | absorbs most
+3 | dark roof summer | hotter | cooler
+3 | white roof summer | cooler | hotter
+3 | thermal expansion gap | prevents buckling | chemical change
+3 | thermometer liquid rise | expansion heated | contraction
+3 | bimetal strip | differential expansion bends | nuclear
+3 | specific heat water | high moderate temperature | rapid warming
+3 | sand water heating | sand faster | water faster
+3 | coast temperature | water moderates | larger variation
+3 | inland temperature | greater variation | smaller variation
+3 | warm air rise | lower density convection | higher density
+3 | cold air sink | higher density convection | lower density
+3 | cooler evaporation | absorbs heat | releases heat
+3 | steam condensation | releases latent heat | absorbs

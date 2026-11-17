@@ -1,0 +1,3 @@
+# More specific negative descriptions replace their embedded positive phrase.
+variable shape | fixed shape
+variable volume | fixed volume

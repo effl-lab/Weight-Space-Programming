@@ -1,0 +1,57 @@
+# Ordered sequences (arch.py: "order and extremes").
+# name | words naming the low end | words naming the high end : item ; item ; ...
+# Items are listed from first / smallest / closest / oldest to last / largest / farthest / youngest.
+# An item may have several words separated by spaces (all mean the same item); a word that two items of
+# the same sequence share ('core' in 'outer core', 'inner core') does not identify an item and is dropped.
+# A name ending in * is used for ranking only (its items are often named in either order).
+# Used two ways: an option that lists at least three items in the sequence's order gains (in reverse order, it loses;
+# "from largest to smallest" in the question reverses the order), and when the question asks for the
+# low or high end ("Which is the smallest?"), options that are items of the sequence are ranked.
+
+planet_distance | closest nearest innermost first | farthest outermost last : mercury ; venus ; earth ; mars ; jupiter ; saturn ; uranus ; neptune
+planet_size* | smallest | largest biggest greatest most massive : mercury ; mars ; venus ; earth ; neptune ; uranus ; saturn ; jupiter
+space_size | smallest | largest biggest : asteroid meteoroid ; moon ; planet ; star sun ; solar system ; galaxy milky ; universe
+space_distance* | closest nearest | farthest : moon ; sun ; proxima centauri alpha ; andromeda galaxy
+star_color_temp* | coolest coldest lowest | hottest highest : red ; orange ; yellow ; white ; blue
+bio_organization | smallest simplest | largest biggest complex : atom atoms ; molecule molecules ; organelle organelles ; cell cells ; tissue tissues ; organ organs ; system systems ; organism organisms
+eco_organization | smallest simplest | largest biggest : organism individual ; population ; community ; ecosystem ; biome ; biosphere
+earth_layers | outermost thinnest coolest coldest least | innermost deepest hottest densest center : crust ; mantle ; outer ; inner
+atmosphere_layers | lowest closest | highest farthest : troposphere ; stratosphere ; mesosphere ; thermosphere ; exosphere
+butterfly_cycle | first | last : egg eggs ; larva caterpillar ; pupa chrysalis cocoon ; adult butterfly moth
+incomplete_cycle | first | last : egg eggs ; nymph ; adult
+frog_cycle | first | last : egg eggs ; tadpole ; froglet ; frog
+plant_cycle | first | last : seed seeds ; germination sprout ; seedling ; adult mature ; flower flowers ; fruit
+human_cycle | first youngest | last oldest : zygote ; embryo ; fetus ; infant baby ; child ; adolescent teenager ; adult
+small_star | first | last : nebula ; protostar ; main ; giant ; white dwarf
+big_star | first | last : nebula ; protostar ; main ; supergiant ; supernova ; neutron black hole
+water_cycle | first | last : evaporation evaporates evaporate ; condensation condenses condense ; precipitation rain falls ; collection runoff collects
+sedimentary_rock | first | last : weathering ; erosion ; deposition ; compaction compacted ; cementation cemented
+fossil_formation | first | last : dies died death ; buried covered sediment ; minerals replace ; rock hardens ; exposed uncovered
+scientific_method | first | last : question observation observe ; hypothesis ; experiment test ; data analyze record ; conclusion conclude ; communicate share publish
+design_process | first | last : problem identify ; research ; brainstorm ideas ; design plan ; prototype build ; test ; improve redesign
+digestion_path | first | last : mouth ; esophagus ; stomach ; intestine intestines ; rectum anus
+air_path | first | last : nose ; pharynx ; trachea windpipe ; bronchi bronchus ; lungs ; alveoli
+energy_flow | first | last : sun sunlight ; producer producers plants plant grass algae ; herbivore herbivores primary consumer consumers ; carnivore carnivores secondary ; top tertiary
+food_chain_meadow | first | last : sun ; grass seeds plants ; grasshopper mouse mice rabbit insect insects caterpillar ; frog snake bird ; hawk owl eagle
+food_chain_pond | first | last : sun ; algae phytoplankton ; zooplankton tadpole ; fish minnow ; heron
+food_chain_ocean | first | last : sun ; phytoplankton algae ; krill zooplankton ; fish ; seal ; shark whale
+sound_speed* | slowest | fastest : air gas vacuum ; water liquid ; steel solid wood iron
+particle_motion* | slowest least closest | fastest most farthest : solid ice ; liquid water ; gas steam vapor
+density_state* | least | densest : gas ; liquid ; solid
+em_spectrum | lowest longest | highest shortest : radio ; microwave microwaves ; infrared ; visible ; ultraviolet ; x ray rays ; gamma
+light_colors | longest | shortest : red ; orange ; yellow ; green ; blue ; indigo ; violet
+mohs* | softest | hardest : talc ; gypsum ; calcite ; fluorite ; apatite ; feldspar ; quartz ; topaz ; corundum ; diamond
+soil_particles | smallest finest | largest biggest coarsest : clay ; silt ; sand ; gravel ; pebble pebbles ; cobble cobbles ; boulder boulders
+length_units | smallest shortest | largest longest : nanometer ; micrometer micron ; millimeter ; centimeter ; meter ; kilometer
+mass_units | smallest | largest : milligram ; gram ; kilogram ; ton
+volume_units | smallest | largest : milliliter ; liter ; kiloliter
+geologic_time | oldest earliest first | youngest latest last recent : precambrian ; paleozoic cambrian ; mesozoic jurassic dinosaurs ; cenozoic mammals
+fossil_record | oldest earliest first | youngest latest last recent : bacteria ; invertebrates ; fish fishes ; amphibians ; reptiles ; mammals
+moon_phases | first | last : new ; waxing crescent ; first quarter ; waxing gibbous ; full ; waning gibbous ; third last quarter ; waning crescent
+mitosis | first | last : prophase ; metaphase ; anaphase ; telophase
+classification | broadest largest | specific smallest narrowest : kingdom ; phylum ; class ; order ; family ; genus ; species
+ocean_zones | shallowest | deepest : sunlight sunlit ; twilight ; midnight ; abyss abyssal ; trench
+soil_layers | top | bottom deepest : humus litter ; topsoil ; subsoil ; bedrock
+succession | first | last : bare rock ; lichens lichen ; mosses moss ; grasses grass ; shrubs shrub ; trees forest
+cloud_height* | lowest | highest : fog ; stratus ; cumulus ; cirrus
+tornado_scale* | weakest | strongest : breeze ; storm ; hurricane

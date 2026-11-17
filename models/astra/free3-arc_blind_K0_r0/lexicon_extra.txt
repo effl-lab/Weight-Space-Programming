@@ -1,0 +1,313 @@
+# Additional explicit paraphrases, inflections, and bound quantity phrases.
+breakdown decaying decomposing decomposed decomposition decompositions
+reproduce multiply multiplies multiplication
+survive survival surviving
+increase increment increments increasing increased raises raised raise gain gains gaining gained
+ decrease diminish diminishes diminished diminishing decline declines declining declined reduction reductions lowered lower
+rise rises rising risen
+fall dropped drops dropping drop fallen
+remove removes removal removed removing
+addition added adding add adds
+lose loses lost losing loss losses
+retain retains retained retaining retention
+lack lacks lacking lacked
+prevent prevents prevented preventing prevention
+suppress suppresses suppressed suppressing
+inhibit inhibits inhibited inhibition
+obtain obtains obtained obtaining
+provide provides provided providing
+sufficient adequate enough
+insufficient inadequate insufficient
+available availability accessible
+scarce scarcity
+abundant abundance plentiful
+stable stability stabilized stabilize
+unstable instability
+become becomes becoming became
+contain contains contained containing
+consist consists consisting
+include includes included including
+occur occurs occurred occurring occurrence
+happen happens happened happening
+maintain maintains maintained maintaining maintenance
+attach attached attaching attachment
+connect connects connected connecting connection
+interact interacts interacted interacting interaction interactions
+depend depends depended depending dependence dependent_on
+convert transformation transformations transformed transforms transform
+adaptation adaptable adapted adaptive
+ancestor ancestors ancestral
+descendant descendants
+resistant resistant resistance_to
+selective_breeding selective_breeding artificial_selection
+natural_selection natural_selection
+stimulus stimuli
+response responses
+behavior behaviour behaviors behaviours
+trachea windpipe
+esophagus oesophagus
+stamen stamens
+pistil pistils
+anther anthers
+ovule ovules
+ovary ovaries
+stigma stigmas
+stomata stoma stomatal
+xylem xylem
+phloem phloem
+cotyledon cotyledons seed_leaf seed_leaves
+pseudopod pseudopods pseudopodia
+flagellum flagella
+cilium cilia
+shell shells
+exoskeleton exoskeletons
+endoskeleton endoskeletons
+cuticle cuticles
+cutting cuttings
+bud buds budding
+dormant dormancy
+juvenile juveniles
+adult adults
+life_cycle life_cycles
+waterproof water_resistant
+porous porosity
+permeable permeability
+impermeable impermeability
+permeability permeability
+soluble dissolvable
+insoluble undissolved
+immiscible immiscibility
+miscible miscibility
+dissolving_rate dissolving_rate dissolution_rate
+reaction_rate reaction_rate
+plant_growth plant_growth
+particle_speed particle_speed molecular_speed
+particle_size particle_size grain_size
+particle_number particle_number particle_count
+wire_length wire_length
+wire_thickness wire_thickness wire_diameter
+coil_number coil_number coil_count coil_turns
+battery_number battery_number battery_count
+bulb_number bulb_number bulb_count
+brightness brightness bright
+light_intensity light_intensity
+heat_loss heat_loss
+heat_capacity specific_heat
+photosynthesis_rate photosynthesis_rate photosynthetic_rate
+water_speed water_speed stream_speed river_speed
+air_pressure air_pressure atmospheric_pressure
+air_resistance air_resistance drag
+fall_speed falling_speed fall_speed
+ramp_length ramp_length
+ramp_slope ramp_slope ramp_steepness
+pendulum_length pendulum_length
+string_length string_length
+string_thickness string_thickness
+string_tension string_tension
+support_rope supporting_ropes support_ropes
+rope rope ropes
+period period periods
+stretch stretches stretching stretched
+effort effort effort_force input_force
+load load loads output_force
+fulcrum fulcrums pivot
+lever_arm lever_arm lever_arms
+ effort_arm effort_arm effort_distance
+solvent_amount solvent_amount
+solute_amount solute_amount
+temperature_change temperature_change
+ temperature_difference temperature_difference
+ evaporation_rate evaporation_rate
+sweat_cooling sweat_cooling
+heart_rate heart_rate pulse_rate pulse
+breathing_rate breathing_rate respiratory_rate
+oxygen_demand oxygen_demand
+blood_glucose blood_glucose blood_sugar
+sample_size sample_size
+trial_number trial_number trial_count
+random_error random_error
+field_view field_of_view
+apparent_size apparent_size
+ electromagnet_strength electromagnet_strength magnetic_strength
+ dissolved_oxygen dissolved_oxygen
+greenhouse_gas greenhouse_gases greenhouse_gas
+reliable dependable trustworthy reliability
+ replicate replicates replication replicated replicating
+validate validates validated validating validation
+verify verified verifies verifying verification
+evaluate evaluates evaluated evaluating evaluation
+representative representative
+independent_variable independent_variable manipulated_variable tested_variable
+ dependent_variable dependent_variable responding_variable measured_variable
+controlled_variable controlled_variable constant_variable
+conclusion conclusions conclude concludes concluded concluding
+explanation explanations explanatory
+interpret interprets interpreted interpreting interpretation
+support supports supporting supported
+contradict contradicts contradicting contradicted contradiction
+magnify magnifies magnified magnifying magnification
+binocular binoculars
+hand_lens hand_lens magnifying_glass
+meterstick meter_stick meterstick yardstick
+stopwatch stopwatches
+compass compasses
+hygrometer hygrometers
+seismograph seismographs seismometer seismometers
+spectroscope spectroscopes
+spectrometer spectrometers
+spectral spectrum spectra
+radar radar
+sonar sonar
+altitude altitudes elevation elevations
+latitude latitudes
+longitude longitudes
+deforestation deforestation clearcutting
+reforestation reforestation replanting
+pavement pavement asphalt concrete
+ runoff runoff run_off
+infiltration infiltrate infiltrates infiltrating infiltration
+water_table water_table
+watershed watersheds drainage_basin
+tributary tributaries
+meander meanders meandering
+deposition depositing deposited deposit deposits
+sedimentation sedimentation settling
+abrasion abrasion abrade abrades
+oxidation oxidized oxidize oxidizes oxidizing
+radioactive radioactive radioactivity
+radioactive_decay radioactive_decay
+half_life half_life
+mold mold molds mould moulds
+nutrient_cycle nutrient_cycle
+vacuum vacuum vacua
+sublime sublimed subliming sublimation
+rough roughness
+smooth smoothness
+lubrication lubricant lubricants lubricate lubricated lubricating lubrication
+horizontal horizontally
+vertical vertically
+perpendicular right_angle
+clockwise clockwise
+counterclockwise anticlockwise counterclockwise
+compress compresses compressed compressing compression
+compressible compressibility
+incompressible incompressible
+attract attractive
+repel repulsive
+centripetal centripetal
+inert inert unreactive nonreactive
+reactive reactivity
+conductivity conductivity
+thermal_conductivity thermal_conductivity
+ electrical_conductivity electrical_conductivity
+acidic acidic
+alkaline alkalinity
+neutralization neutralization neutralize neutralizes neutralized
+oxidize oxidize oxidizes oxidized
+homogeneous homogeneous uniform_mixture
+heterogeneous heterogeneous nonuniform_mixture
+alloy alloys
+solute solutes
+solvent solvents
+suspension suspensions
+colloid colloids
+distill distills distilled distillation
+filtration filtration filters filtering filter
+chromatography chromatography
+centrifuge centrifuges centrifugation
+hydrogen_bond hydrogen_bond hydrogen_bonds
+valence valence
+valence_electron valence_electron valence_electrons
+nucleon nucleons
+atomic_nucleus atomic_nucleus
+nuclear_fission nuclear_fission
+nuclear_fusion nuclear_fusion
+endothermic endothermic
+exothermic exothermic
+reactant reactants
+product products
+catalyst catalysts
+enzyme enzymes
+organ organ organs
+organelle organelles
+breathe breathes breathing breathed
+exhale exhales exhaled exhaling exhalation
+inhale inhales inhaled inhaling inhalation
+skeletal skeleton_system skeletal_system
+muscular muscular_system
+nervous_system nervous_system
+endocrine_system endocrine_system
+circulatory_system circulatory_system cardiovascular_system
+respiratory_system respiratory_system
+ digestive_system digestive_system
+reproductive_system reproductive_system
+photosphere photosphere
+chromosphere chromosphere
+corona corona
+nebula nebulae nebulas
+supernova supernovae supernovas
+red_giant red_giant
+white_dwarf white_dwarf
+neutron_star neutron_star
+black_hole black_hole
+sunspot sunspots
+solar_flare solar_flares
+crescent crescent crescents
+gibbous gibbous
+waxing waxing
+waning waning
+spring_tide spring_tide spring_tides
+neap_tide neap_tide neap_tides
+upwelling upwelling
+el_nino el_nino
+la_nina la_nina
+# Conservative lexical bridges; distinct scientific quantities stay distinct.
+thermos vacuum_flask thermos_flask
+salt salty saline
+freshwater fresh_water
+saltwater salt_water seawater sea_water saltwater
+recover recovers recovered recovering recovery
+separate separation separating separated separates
+scratch scratches scratched scratching
+old older oldest ancient
+new newer newest
+ young younger youngest
+age ages aged
+early earlier earliest
+late later latest
+recent recently
+shallow shallower shallowest
+ deep deeper deepest
+bottom bottommost lowermost
+ top topmost uppermost
+layer layered layers strata stratum
+fold folds folded folding
+sedimentary sedimentary
+undisturbed undisturbed
+find finds found finding
+see sees seen seeing
+show shows showed shown showing
+know knows knew known knowing
+begin begins began beginning begun
+end ends ending ended
+start starts started starting
+finish finishes finished finishing
+stop stops stopped stopping
+leave leaving
+enter enters entered entering
+upward upwards
+ downward downwards
+outward outwards
+inward inwards
+backward backwards
+forward forwards
+remove removed removal
+halve halved halves halving
+plastic plastic plastics
+ordinary ordinary
+usual usual
+normal normal normally
+remain remained remains remaining
+constant unchanging constant
+inquiry inquiry inquiries
+investigate investigation investigations investigating investigated investigates

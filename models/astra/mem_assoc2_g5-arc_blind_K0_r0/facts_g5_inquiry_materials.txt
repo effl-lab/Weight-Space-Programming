@@ -1,0 +1,236 @@
+# Inquiry concepts from operational descriptions, plus material/device mechanisms.
+# All source lines are authored independently of model outputs.
+variable deliberately | independent manipulated
+variable measured | dependent responding
+variable kept | controlled constant
+variable unchanged | controlled constant
+variable outcome | dependent response
+variable input | independent manipulated
+fair comparison | controlled variables same conditions
+fair test | one independent variable
+confounded comparison | multiple variables unreliable conclusion
+control untreated | baseline comparison
+control placebo | comparison expectation | | -1.0
+placebo | inactive treatment comparison control
+baseline measurement | before treatment comparison
+experimental treatment | independent variable intervention
+repeated measurement | reliability precision random error
+repeated result | reproducibility reliability
+repeat disagreement | check procedure measurement controls
+replication independent | reliability verification
+sample representative | population characteristics distribution
+sample biased | unrepresentative selection error | | -1.0
+sample larger | sampling uncertainty decrease | increase | -1.0
+sample random | population probability selection representative | | -1.0
+survey leading | bias question wording
+survey voluntary | selection bias
+blind experiment | masking allocation expectation bias decrease | increase | -1.0
+random assignment | comparable groups confounding decrease | increase | -1.0
+hypothesis contradicted | revise reject explanation
+hypothesis confirmed | evidence supported | proven certainty | -1.0
+hypothesis untestable | | scientific | -1.0
+hypothesis measurable | testable experimental
+claim evidence | data observations support
+claim extraordinary | independent evidence verification
+claim advertisement | independent testing bias
+claim opinion | subjective preference
+claim testable | experiment measurable evidence
+observation numbers | quantitative measurement
+observation senses | direct qualitative
+observation explanation | inference interpretation
+inference footprints | organism previously present evidence
+prediction future | expected outcome hypothesis
+prediction tested | compare results evidence
+conclusion supported | evidence data results
+conclusion contradicts | revise explanation
+conclusion unexpected | report honestly repeat
+conclusion limited | measured conditions sample
+conclusion extrapolated | uncertainty outside measured range
+scientific revision | new evidence
+scientific debate | evidence testing verification
+scientific collaboration | shared expertise independent checks
+scientific replication | detailed methods procedures
+scientific consensus | convergent independent evidence
+peer criticism | review methods evidence improvement
+publication methods | reproduce repeat experiments
+publication results | communicate findings peer review
+research notebook | dated measurements observations
+measurement units | standard communication comparison
+measurement precision | instrument divisions repeatability
+measurement accuracy | calibration reference standard
+measurement parallax | eye level reading
+measurement repeated | average random error
+instrument zero | calibration tare
+instrument damaged | inaccurate measurement
+instrument calibrated | known reference standard
+scale container | tare subtraction mass
+balance level | accurate mass measurement
+meniscus bottom | eye level liquid volume
+microscope magnification | objective eyepiece multiply
+microscope contrast | staining light adjustment
+microscope resolution | distinguish details
+microscope highpower | smaller field view
+microscope lowpower | larger field view
+thermometer equilibrate | wait stable reading
+thermometer submerged | bulb liquid temperature
+rain gauge open | unobstructed precipitation collection
+weather station shade | air temperature accurate
+weather thermometer sunlight | radiation heating biased reading
+compass nearby magnet | deflection inaccurate direction
+stopwatch interval | elapsed time measurement
+trundle wheel | distance circumference rotations
+spring scale force | newtons stretch
+balance mass | grams kilograms
+thermometer energy | temperature average kinetic | total heat | -1.0
+calorimeter | heat energy temperature change
+calorimeter insulation | thermal isolation retention decrease exchange | increase | -1.0
+linegraph time | continuous trend change
+bargraph category | compare discrete quantities
+piechart fraction | proportions whole percent
+scatterplot trend | relationship correlation
+horizontal axis | independent variable
+vertical axis | dependent variable
+steep slope | greater rate change
+flat line | constant dependent quantity
+outlier measurement | verify repeat record
+correlation causation | association | proof | -1.0
+causation experiment | controlled intervention evidence
+model simplified | representation limitations
+model scale | proportional sizes distances
+model predictions | test against observations
+model limitation | omitted details approximation
+computer simulation | mathematical model predictions
+prototype testing | evaluate design improve
+engineering criteria | desired performance requirements
+engineering constraint | limits cost materials time
+engineering tradeoff | balance competing requirements
+engineering redesign | test evidence improvement
+engineering failure | analyze cause revise design
+engineering solution | meet criteria within constraints
+technology telescope | improved observations astronomy
+technology microscope | cells microorganisms discovery
+technology satellite | remote measurements communication
+technology sensors | measurements monitoring data
+# Laboratory safety is associated with protective actions, not answer positions.
+splash eyes | goggles protection eyewash
+chemical splash | rinse water notify teacher
+broken glass | brush dustpan notify adult | bare hands | -1.0
+heated glass | tongs mitts cooling | bare hands | -1.0
+hot container | tongs insulated gloves
+lab longhair | tied back flame safety
+lab looseclothing | secure flame safety
+lab food | contamination unsafe | eating drinking | -1.0
+lab odor | waft gently | directly inhale | -1.0
+lab label | identification instructions hazards
+lab unknown | notify teacher | taste touch | -1.0
+lab spill | notify teacher cleanup instructions
+lab injury | notify teacher immediately
+lab exit | wash hands clean materials
+chemical disposal | instructions designated containers
+culture sealed | contamination protection
+wild mushroom | unsafe poison | tasting eating | -1.0
+outdoor lightning | enclosed shelter | tree water | -1.0
+solar viewing | certified filter | direct eyes | -1.0
+electrical wet | shock hazard
+socket overloaded | overheating fire
+# Atomic identity, observable material properties, and devices.
+atom identity | proton number element
+atom positive | proton nucleus
+atom negative | electron cloud
+atom uncharged | equal protons electrons
+atom mass | protons neutrons nucleus
+atom empty | electron cloud space
+nucleus dense | protons neutrons mass
+proton changed | different element
+neutron changed | isotope same element
+electron changed | ion charge
+isotope chemical | same electrons similar properties
+isotope mass | different neutrons
+ion positive | electron loss cation
+ion negative | electron gain anion
+cation | positively charged ion electron loss
+anion | negatively charged ion electron gain
+valence electron | bonding chemical properties
+outer shell | valence electrons chemical behavior
+periodic column | group similar valence properties
+periodic row | period energy shells
+periodic ordering | atomic number protons
+metal left | conductive malleable ductile
+nonmetal right | insulator brittle | conductor | -1.0
+metalloid staircase | semiconductor intermediate properties
+noble stable | filled valence shell unreactive
+alkali reactive | one valence electron
+halogen reactive | seven valence electrons
+ionic transfer | electrons cation anion attraction
+covalent sharing | electrons molecules
+metallic bonding | delocalized electrons conduction
+molecule oxygen | diatomic two atoms covalent
+molecule nitrogen | diatomic triple bond
+molecule water | hydrogen oxygen covalent
+compound properties | different constituent elements
+mixture properties | components retain identities
+compound separation | chemical reaction
+mixture separation | physical methods
+formula subscripts | atom ratios counts
+formula coefficient | molecule number stoichiometry
+reaction balancing | conservation atoms equal counts
+catalyst mechanism | lower activation energy alternative pathway
+catalyst regenerated | reusable unchanged overall
+reaction catalyst | faster rate lower activation energy
+reaction crushed | larger surface faster rate
+reaction concentrated | more collisions faster rate
+reaction warmer | faster particles more collisions
+reaction cooled | slower particles fewer collisions
+acid litmus | red hydrogen ions
+base litmus | blue hydroxide ions
+acid pH | below seven
+base pH | above seven
+neutral pH | seven water
+acid metal | hydrogen gas salt
+acid base | neutralization salt water
+indicator color | pH chemical property
+universal indicator | acidity alkalinity color
+battery energy | chemical electrical conversion
+cellphone battery | stored chemical energy
+charging battery | electrical chemical conversion
+battery terminals | potential difference voltage
+electrons flowing | electric current metal
+circuit path | closed conducting loop
+circuit disconnected | open stopped | current | -1.0
+circuit completed | closed flowing current | | -1.0
+circuit short | low resistance large current heating
+fuse melting | opens protection | current | -1.0
+breaker opened | stopped protection | current | -1.0
+earth wire | grounding shock protection
+wire plastic | insulation shock protection
+wire copper | conductivity mobile electrons
+thicker resistance | decrease lower | increase | -1.0
+thicker current | increase greater | decrease | -1.0
+longer resistance | increase greater | decrease | -1.0
+longer current | decrease lower | increase | -1.0
+resistance heating | thermal energy collisions
+filament tungsten | high temperature glowing
+bulb energy | electrical light thermal
+motor energy | electrical mechanical
+speaker energy | electrical sound
+microphone energy | sound electrical
+generator energy | mechanical electrical
+solarcell energy | light electrical
+toaster energy | electrical thermal
+fan energy | electrical kinetic
+radio energy | electrical sound
+magnet coil | electromagnet electric current
+magnet moving coil | induced current generator
+coil ironcore | stronger electromagnet
+coil turns | magnetic field winding geometry
+coil current | magnetic field proportional
+electromagnet disconnected | unpowered | magnetic field | -1.0
+permanent magnet | persistent magnetic field
+magnet poles | north south attraction repulsion
+magnet broken | smaller magnets paired poles
+like charges | repel electrostatic
+unlike charges | attract electrostatic
+charged balloon | electron transfer static
+charged comb | polarization attracts paper
+static discharge | electrons spark lightning
+compass needle | earth magnetic field north

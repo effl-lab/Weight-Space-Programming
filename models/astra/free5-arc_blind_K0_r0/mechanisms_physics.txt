@@ -1,0 +1,262 @@
+# Hand-authored mechanisms and everyday observations. Context | consequences | incompatible claims.
+# Motion and interaction
+push stationary cart | unbalanced_force; acceleration; motion changes
+push cart opposite motion | slow down; speed decreases
+push cart direction motion | speed increases; acceleration
+push moving object sideways | direction changes; acceleration
+object change direction constant speed | accelerating; unbalanced_force
+object velocity unchanged | balanced_force; zero net_force
+car straight steady speed | balanced_force; driving force balances resistance
+car turn corner | acceleration; direction changes
+car cruise constant speed friction | engine balances friction; net_force zero
+car engine stopped coast | friction slows motion; kinetic_energy becomes heat
+sled stop snow | friction; contact between surfaces
+ball rolls grass stops | friction transforms kinetic_energy into heat
+ball rolls ice farther | less friction; smoother surface
+ball pushed harder same surface | greater acceleration; greater initial speed
+toy car rough surface | friction greater; shorter travel distance
+skateboard rider foot pushes ground | ground pushes rider forward; action reaction
+person jumps ground | pushes ground downward; ground pushes person upward
+rocket space propulsion | expelled gas pushes rocket; action reaction | requires air to push against
+rocket fuel burned | chemical_energy converted into motion; hot gas expelled
+balloon inflated released | escaping air pushes balloon opposite direction
+rowboat oar water | water pushed backward; boat moves forward
+bird wing pushes air | air pushes bird; action reaction
+helicopter blades | air pushed downward; upward lift
+falling object earth | earth attracts object; object attracts earth
+earth object gravitational forces | equal magnitude opposite direction; different acceleration
+collision small large vehicle | equal opposite forces; smaller mass greater acceleration
+two objects interaction forces | act different objects; equal opposite
+balanced forces action reaction distinction | balanced forces act same object; reaction acts another object
+book resting table forces | table upward force equals gravity downward
+book resting table reaction gravity | book attracts earth
+hanging object string | tension balances weight
+floating stationary object | buoyancy equals weight
+parachute constant terminal speed | upward drag balances downward weight
+skydiver opens parachute | drag increases; downward speed decreases
+paper crumpled falls faster | smaller air resistance; smaller exposed area
+feather rock vacuum fall | same acceleration; land together
+heavy light ball vacuum | same falling acceleration
+astronaut orbit earth | continuously falling; gravity provides orbital acceleration
+satellite engine off orbit | inertia and gravity; falls around earth
+moon gravitational attraction | tides; orbit
+mass double fixed gravity weight | double weight
+weight moon sixth | same mass; weaker gravitational field
+balance moon mass | same comparison of masses
+spring_scale moon reading | lower weight; weaker gravity
+mass measure inertia | resistance to acceleration
+loaded wagon empty wagon push | loaded wagon harder accelerate; greater inertia
+truck bicycle stop same speed | truck greater momentum; greater mass
+seatbelt sudden stop | restrains passenger inertia; prevents continued forward motion
+headrest rear collision | limits head motion; protects neck
+helmet padding collision | increases stopping time; reduces average force
+bend knees landing | increases stopping distance; reduces impact force
+catch ball move hands backward | increases stopping time; reduces force
+rolling friction sliding friction | rolling usually less friction
+ball_bearing wheel | reduces friction; easier rotation
+tread tire rain | improves traction; channels water
+sand icy road | increases friction; improves grip
+wax ski | reduces friction; easier sliding
+rub hands | friction produces thermal_energy
+sanding wood | friction abrasion; physical_change
+friction moving parts | wear; unwanted heat; energy dissipates
+lubricant moving parts | reduces friction; reduces heating
+# Energy, machinery and efficiency
+moving bicycle brakes | kinetic_energy becomes thermal_energy; friction
+bicycle downhill | gravitational potential_energy becomes kinetic_energy
+bicycle uphill | chemical_energy converted into potential_energy
+roller_coaster uphill | kinetic_energy decreases; potential_energy increases
+roller_coaster friction | mechanical_energy decreases; thermal_energy increases
+swing descending | potential_energy decreases; kinetic_energy increases
+swing rising | kinetic_energy decreases; potential_energy increases
+swing pushed | energy added; amplitude increases
+swing eventually stops | energy transferred to surroundings; friction and air_resistance
+ball bounce lower each time | mechanical_energy becomes heat and sound
+ball compressed impact | elastic potential_energy; deformation
+rubber_band stretched | stores elastic potential_energy
+spring released toy | elastic potential_energy becomes kinetic_energy
+wind_up toy | spring stores potential_energy
+battery chemical reactants | chemical_energy stored; chemical reaction drives current
+battery flashlight switch closed | chemical_energy electrical_energy light_energy thermal_energy
+food runner | chemical_energy powers muscle motion; heat released
+solar calculator | light_energy becomes electrical_energy
+electric drill | electrical_energy becomes mechanical_energy
+electric kettle | electrical_energy becomes thermal_energy
+electric oven | electrical_energy becomes thermal_energy
+electric bell | electrical_energy becomes sound_energy
+electric hairdryer | heat and moving air; electrical_energy transformation
+hydroelectric dam reservoir | gravitational potential_energy of stored water
+waterfall turbine | moving water turns turbine; generator produces electricity
+geothermal power plant | earth internal heat produces steam
+steam turbine generator | thermal_energy mechanical_energy electrical_energy
+coal power plant | chemical_energy heats water; steam turns turbine
+energy appliance waste | heat transferred surroundings; less useful output
+energy efficiency | useful output divided total input
+efficient machine | less energy wasted as heat; more useful output
+machine ideal work input output | equal; energy conserved
+machine friction work | input work greater than useful output
+inclined_plane heavy box | smaller force over greater distance
+long ramp same height | less force; same ideal work
+short steep ramp | greater force; shorter distance
+stairs ramp same height | same gravitational potential_energy gain
+pulley supporting ropes | distribute load; reduce pulling force
+single fixed pulley | changes force direction; ideal force unchanged
+pulley lift load rope distance | more supporting segments require greater pulling distance
+lever long handle | greater torque; smaller effort needed
+wrench longer handle | less force for same torque
+door handle far hinge | longer lever_arm; easier opening
+crowbar lift rock | lever; fulcrum; force multiplication
+scissors cutting | wedge blades; lever handles
+pliers | lever; pivot; multiply force
+tweezers | lever
+fishing_rod | lever
+nutcracker | lever
+axe log split | wedge; redirects force outward
+knife edge sharp | smaller contact area; greater pressure
+screw thread close spacing | smaller effort force; greater turning distance
+jar screw lid | inclined_plane around cylinder
+doorknob turning | wheel_axle
+bicycle gears | trade force and distance; change mechanical advantage
+person holds bag stationary work | no mechanical work on bag; displacement zero
+person lifts bag | work against gravity; potential_energy increases
+two machines same work different time | faster machine greater power
+# Heat and particles
+metal spoon hot soup | conduction; particle collisions transfer energy
+wooden spoon hot soup handle | poor thermal conductor; slower heat transfer
+metal wood same room temperature | metal transfers heat faster; feels colder
+tile carpet same temperature | tile conducts heat from feet faster
+pot handle plastic | thermal insulation; protects hand
+pot copper bottom | conducts heat rapidly; transfers energy to food
+oven_mitt | insulates; reduces heat transfer to hand
+coat winter | traps air; reduces body heat loss | produces heat by itself
+blanket sleeping | reduces thermal transfer; retains body heat
+two thin blankets | trapped air provides insulation
+bird fluffs feathers | trapped air insulation; reduces heat loss
+fur air pockets | insulation; slows heat transfer
+foam cup hot drink | trapped gas poor conductor; slows cooling
+cooler ice | insulation slows heat entering
+thermos vacuum | reduces conduction and convection
+thermos shiny surface | reflects radiation; reduces heat transfer
+double_glazing | trapped air slows heat transfer
+hot soup room | transfers heat to air until thermal equilibrium
+ice warm drink | drink loses energy; ice melts
+ice melting cooler | absorbs thermal_energy from surroundings
+water boiling continued heat | temperature constant during phase_change; energy separates particles
+water freezing releases | thermal_energy to surroundings
+steam condensing releases | thermal_energy; warms surface
+sweat skin | evaporation removes thermal_energy; cooling
+wet clothes dry wind | moving air removes water_vapor; evaporation faster
+wet clothes humid air | evaporation slower; less water_vapor gradient
+wet clothes spread out | greater surface area; faster evaporation
+puddle sunny windy day | faster evaporation
+small droplets evaporate quickly | large surface area relative volume
+fan person cooling | increases evaporation and convection
+fan empty room temperature | moves air; does not remove room thermal_energy
+hot_air balloon rises | heated air lower density; buoyancy
+hot water circulation pot | convection; warm rises cool sinks
+heater near floor | warm air rises; convection distributes heat
+air conditioner near ceiling | cool dense air sinks
+refrigerator removes heat | transfers thermal_energy to room; uses electrical_energy
+sun warmth face | radiation; electromagnetic waves
+campfire warmth distance | infrared radiation
+campfire smoke rises | convection; hot gas less dense
+earth sun heat transfer | radiation through vacuum
+black shirt sunshine | absorbs more radiation; warmer
+white roof sunshine | reflects more sunlight; less heating
+shiny foil heat | reflects thermal radiation
+dark pavement sunshine | absorbs sunlight; high surface temperature
+large ocean temperature stable | water high specific_heat; heats cools slowly
+same heat different materials | different specific_heat; different temperature_change
+same heat larger mass | smaller temperature_change
+thermal expansion metal bridge | expansion gaps prevent buckling
+railroad gaps summer | allow thermal expansion
+thermometer liquid warmed | expands; rises tube
+metal jar lid hot water | lid expands; easier removal
+balloon cold room | gas contracts; smaller volume
+sealed rigid container gas heated | particles move faster; pressure increases
+gas compressed piston | more frequent wall collisions; pressure increases
+heated gas flexible balloon | volume increases; lower density
+# Electricity, magnetism, waves
+parallel circuit one bulb removed | other branches remain complete; other bulbs stay lit
+parallel circuit one branch broken | current flows through remaining branches
+parallel circuit multiple pathways | each device works independently
+parallel circuit bulbs brightness | each receives same battery voltage
+series circuit one bulb removed | single path broken; all bulbs go out
+series circuit switch open | no complete path; current stops
+series circuit add bulbs | total resistance increases; current decreases; bulbs dimmer
+series circuit add batteries aligned | voltage increases; bulbs brighter
+wire disconnected circuit | open circuit; no current
+battery wire bulb complete_loop | current flows; bulb lights
+insulator inserted circuit | current stops; circuit effectively open
+copper inserted circuit | current flows; conductor
+rubber coating wire | prevents electric_shock; prevents unwanted contact
+power cord exposed wire | electric_shock hazard; conductive metal exposed
+wet hands electricity | water with dissolved ions conducts; electric_shock hazard
+short_circuit | low resistance path; excessive current; heating
+fuse excessive current | melts; breaks circuit; prevents fire
+circuit_breaker | opens circuit when current excessive
+battery reversed simple motor | current reverses; motor turns opposite direction
+electromagnet battery reversed | magnetic poles reverse
+electromagnet iron_core | stronger magnetic field
+electromagnet current off | magnetic effect largely disappears
+electromagnet more coils | stronger magnetic field
+electromagnet larger current | stronger magnetic field
+electromagnet scrapyard | picks up iron steel; releases when current switched off
+magnet cut half | each piece north and south pole | isolated single pole
+magnet strongest region | poles; ends
+compass needle | aligns with magnetic field
+compass near wire current | needle deflects; electric current magnetic field
+magnet iron without touching | magnetic field; noncontact force
+magnet separated paper | magnetic force passes through thin nonmagnetic material
+copper aluminum magnet | not strongly attracted | all metals strongly magnetic
+static electricity rubbing | electrons transferred; imbalance charge
+balloon rubbed hair | electrons transfer; opposite charges attract
+charged balloon neutral wall | charge redistribution; attraction
+charged comb paper pieces | polarization; electrostatic attraction
+lightning discharge | charge imbalance; electric discharge
+lightning thunder seen heard | light travels faster than sound
+sound vacuum | cannot propagate; requires matter
+sound air particles | vibrate back and forth; transfer energy
+sound solid liquid gas | travels through matter; speed depends medium
+bell vacuum_jar | sound becomes quieter as air removed
+sound underwater | transmitted by water vibrations
+sound railway track | vibrations travel through solid metal
+sound louder | greater amplitude; more energy
+sound higher pitch | greater frequency; more vibrations per second
+guitar string tighter | higher frequency; higher pitch
+guitar string longer | lower frequency; lower pitch
+guitar thick string | lower frequency; lower pitch
+ruler shorter vibrating length | higher pitch
+drum harder strike | greater amplitude; louder sound
+echo canyon | sound reflected from surface
+carpet curtains room sound | absorb sound; reduce echoes
+sonar depth | sound echo travel time
+ultrasound | high frequency sound; reflections reveal structures
+wave floating cork | oscillates locally; energy passes along water
+wave energy matter | transfers energy without net transport of medium
+light transparent medium | transmitted; may refract
+opaque obstacle light | absorbs reflects; casts shadow
+shadow moving flashlight | straight_line light blocked
+shadow closer object light_source | shadow larger
+pinhole camera | light travels straight; inverted image
+mirror image | reflected light
+smooth surface reflection | orderly reflection; clear image
+rough surface reflection | scattered light; no clear mirror image
+pencil water looks bent | refraction at air water boundary
+pool appears shallow | light refraction
+rainbow raindrops | refraction dispersion reflection
+prism white light | separates wavelengths; spectrum colors
+red object white light | reflects red light; absorbs other colors
+green leaf visible | reflects green light
+black object | absorbs most visible light
+white object | reflects most visible light
+object dark room | no light reaches eye; cannot see
+lens magnifying_glass | refracts light; forms magnified image
+convex lens sunlight focus | concentrates radiant energy; heating
+concave lens | diverges light rays
+fiber_optic | total internal reflection; transmits light signals
+radio waves vacuum | electromagnetic waves; no matter required
+infrared radiation | thermal radiation; invisible to human eye
+ultraviolet sunlight | sunburn; skin damage
+x_ray | penetrates soft tissue; bones absorb more
+sunscreen | absorbs blocks ultraviolet radiation

@@ -1,0 +1,277 @@
+# Conditional relationships. Distinct quantities and what is held constant are
+# written explicitly; these are authored facts, not fitted associations.
+gas temperature increases constant volume | pressure increases
+gas temperature decreases constant volume | pressure decreases
+gas volume increases constant temperature | pressure decreases
+gas volume decreases constant temperature | pressure increases
+gas pressure increases constant temperature | volume decreases
+gas pressure decreases constant temperature | volume increases
+gas temperature increases constant pressure | volume increases
+gas temperature decreases constant pressure | volume decreases
+gas heated rigid sealed container | temperature increases and pressure increases and volume unchanged and mass unchanged
+gas cooled rigid sealed container | temperature decreases and pressure decreases and volume unchanged and mass unchanged
+gas heated flexible balloon constant pressure | volume increases and density decreases and mass unchanged
+gas cooled flexible balloon constant pressure | volume decreases and density increases and mass unchanged
+sealed syringe compressed constant temperature | volume decreases and pressure increases and density increases and mass unchanged
+sealed syringe expands constant temperature | volume increases and pressure decreases and density decreases and mass unchanged
+mass increases constant volume | density increases
+mass decreases constant volume | density decreases
+volume increases constant mass | density decreases
+volume decreases constant mass | density increases
+same substance larger sample | mass increases and volume increases and density unchanged
+same substance smaller sample | mass decreases and volume decreases and density unchanged
+solid object cut smaller pieces all pieces retained | total mass unchanged and total volume unchanged and density unchanged
+object heated thermal expansion constant mass | volume increases and density decreases
+object cooled thermal contraction constant mass | volume decreases and density increases
+water freezing solid ice forms | volume increases and density decreases and mass unchanged
+ice melting liquid water forms | volume decreases and density increases and mass unchanged
+fluid density increases same submerged object | buoyant force increases
+fluid density decreases same submerged object | buoyant force decreases
+object floating more mass added same shape | more volume submerged greater water displacement
+floating boat load removed | less volume submerged smaller water displacement
+helium balloon rises through atmosphere | air pressure decreases balloon volume increases
+hot air balloon burner warms air | air density decreases buoyancy lifts balloon
+hot air balloon air cools | air density increases balloon descends
+force increases constant mass | acceleration increases
+force decreases constant mass | acceleration decreases
+mass increases constant net force | acceleration decreases
+mass decreases constant net force | acceleration increases
+net force zero constant mass | velocity unchanged acceleration zero
+opposite forces equal magnitude object moving | constant velocity balanced forces
+opposite forces unequal magnitude | acceleration toward greater force
+force same direction motion | speed increases kinetic energy increases
+force opposite direction motion | speed decreases kinetic energy decreases
+force perpendicular velocity | direction changes acceleration toward force
+circular motion constant speed | velocity direction changes acceleration nonzero
+motion straight constant velocity | net force zero acceleration zero
+mass increases constant velocity | momentum increases
+mass decreases constant velocity | momentum decreases
+speed increases constant mass | momentum increases kinetic energy increases
+speed decreases constant mass | momentum decreases kinetic energy decreases
+speed doubles constant mass kinetic energy | four times kinetic energy
+mass doubles constant speed kinetic energy | twice kinetic energy
+object height increases constant mass gravity | potential energy increases
+object height decreases constant mass gravity | potential energy decreases
+mass increases same height gravitational field | potential energy increases
+mass decreases same height gravitational field | potential energy decreases
+falling object negligible air resistance | speed increases kinetic energy increases potential energy decreases
+object thrown upward before highest point | speed decreases kinetic energy decreases potential energy increases
+ball highest point vertical throw | instantaneous speed zero maximum potential energy
+roller coaster descends friction ignored | potential energy decreases kinetic energy increases total energy unchanged
+roller coaster climbs friction ignored | potential energy increases kinetic energy decreases total energy unchanged
+friction slows moving object | kinetic energy decreases thermal energy increases
+braking vehicle | speed decreases kinetic energy decreases thermal energy increases
+rougher surface same sliding object | friction increases motion slows faster
+smoother surface same sliding object | friction decreases object travels farther
+lubricating moving machine parts | friction decreases heat production decreases efficiency increases
+ball bearings machine parts | sliding replaced rolling friction decreases
+air drag increases falling object | acceleration decreases
+parachute opens falling person | air resistance increases speed decreases
+falling object reaches terminal velocity | gravity balanced air resistance speed unchanged acceleration zero
+object mass increases same gravitational field | weight increases
+object mass decreases same gravitational field | weight decreases
+gravitational field increases same object | weight increases mass unchanged
+gravitational field decreases same object | weight decreases mass unchanged
+travel Earth to Moon same object | mass unchanged weight decreases
+travel Moon to Earth same object | mass unchanged weight increases
+masses increase same separation gravitational force | gravity increases
+separation increases same masses gravitational force | gravity decreases
+separation decreases same masses gravitational force | gravity increases
+same force applied smaller area | pressure increases
+same force applied larger area | pressure decreases
+fluid depth increases | pressure increases
+fluid depth decreases | pressure decreases
+altitude increases atmosphere | air pressure decreases air density decreases
+altitude decreases atmosphere | air pressure increases air density increases
+atmospheric pressure decreases water boiling | boiling temperature decreases
+atmospheric pressure increases water boiling | boiling temperature increases
+longer inclined plane same height load friction ignored | force decreases distance increases work unchanged
+shorter inclined plane same height load friction ignored | force increases distance decreases work unchanged
+longer lever effort arm same load arm | effort force decreases mechanical advantage increases
+shorter lever effort arm same load arm | effort force increases mechanical advantage decreases
+more supporting pulley segments same load | effort force decreases pulling distance increases ideal work unchanged
+machine friction increases same output | efficiency decreases input work increases
+machine friction decreases same output | efficiency increases input work decreases
+same work completed less time | power increases
+same work completed more time | power decreases
+more work completed same time | power increases
+less work completed same time | power decreases
+pendulum length increases same gravity | period increases frequency decreases
+pendulum length decreases same gravity | period decreases frequency increases
+pendulum mass changes same length gravity small swing | period unchanged frequency unchanged
+pendulum swing friction | amplitude decreases mechanical energy decreases
+spring stretched farther within elastic limit | restoring force increases potential energy increases
+spring compressed farther within elastic limit | restoring force increases potential energy increases
+spring released | potential energy decreases kinetic energy increases
+wave frequency increases constant propagation speed | wavelength decreases
+wave frequency decreases constant propagation speed | wavelength increases
+wave wavelength increases constant propagation speed | frequency decreases
+wave wavelength decreases constant propagation speed | frequency increases
+wave amplitude increases same medium | energy increases
+wave amplitude decreases same medium | energy decreases
+sound frequency increases | pitch increases
+sound frequency decreases | pitch decreases
+sound amplitude increases | loudness increases pitch unchanged
+sound amplitude decreases | loudness decreases pitch unchanged
+sound frequency unchanged amplitude changed | pitch unchanged loudness changes
+vibrating string length decreases same tension | frequency increases pitch increases
+vibrating string length increases same tension | frequency decreases pitch decreases
+vibrating string tension increases same length | frequency increases pitch increases
+vibrating string tension decreases same length | frequency decreases pitch decreases
+light enters glass water from air | speed decreases wavelength decreases frequency unchanged
+light enters air from glass water | speed increases wavelength increases frequency unchanged
+light vacuum frequency changes | speed unchanged wavelength changes
+light higher frequency photons | energy increases wavelength decreases
+light lower frequency photons | energy decreases wavelength increases
+sound source approaches listener | observed frequency increases pitch increases
+sound source recedes listener | observed frequency decreases pitch decreases
+voltage increases constant resistance | current increases
+voltage decreases constant resistance | current decreases
+resistance increases constant voltage | current decreases
+resistance decreases constant voltage | current increases
+wire length increases same material thickness | resistance increases
+wire length decreases same material thickness | resistance decreases
+wire thickness increases same material length | resistance decreases
+wire thickness decreases same material length | resistance increases
+metal wire temperature increases | resistance usually increases
+metal wire temperature decreases | resistance usually decreases
+add resistors series same battery | resistance increases current decreases
+remove resistors series same battery | resistance decreases current increases
+add identical branch parallel same battery | total resistance decreases total current increases
+remove branch parallel same battery | total resistance increases total current decreases
+identical light bulbs added series same battery | current decreases brightness decreases
+identical light bulbs added parallel ideal battery | brightness unchanged total current increases
+more battery cells series same circuit | voltage increases current increases brightness increases
+battery electrical energy consumed light bulb | chemical energy decreases light thermal energy produced
+electromagnet current increases same coil core | magnetic field strength increases
+electromagnet current decreases same coil core | magnetic field strength decreases
+electromagnet wire turns increase same current | magnetic field strength increases
+electromagnet iron core added | magnetic field strength increases
+reversing current electromagnet | poles reverse magnetic field direction reverses
+magnet moved faster through coil | induced voltage increases
+magnet moved slower through coil | induced voltage decreases
+heat added same phase same mass | temperature increases particle motion increases
+heat removed same phase same mass | temperature decreases particle motion decreases
+heat added pure substance melting boiling | temperature unchanged phase changes
+heat removed pure substance freezing condensing | temperature unchanged phase changes
+hot object cool object contact isolated system | hot temperature decreases cold temperature increases total energy unchanged
+objects reach thermal equilibrium | temperature same net heat transfer zero
+larger temperature difference same insulating material | heat transfer rate increases
+smaller temperature difference same insulating material | heat transfer rate decreases
+more insulation hot container | heat loss decreases cooling slows
+less insulation hot container | heat loss increases cooling faster
+more insulation cold container | heat gain decreases warming slows
+reflective surface thermal radiation | heat absorption decreases
+black surface same sunlight exposure | light absorption increases temperature increases
+white surface same sunlight exposure | light reflection increases temperature lower
+higher specific heat same mass energy added | temperature change smaller
+lower specific heat same mass energy added | temperature change larger
+same heat energy larger mass same substance | temperature change smaller
+same heat energy smaller mass same substance | temperature change larger
+water evaporates open container | water amount decreases total container mass decreases
+water evaporates sealed container | total mass unchanged liquid becomes vapor
+solute added same water volume | concentration increases
+water added same solute mass | concentration decreases
+evaporate solvent same dissolved solute remains | concentration increases
+dissolved solute crystallizes solution | dissolved concentration decreases
+sugar solid water temperature increases unsaturated | solubility usually increases dissolving faster
+sugar solid crushed smaller pieces | surface area increases dissolving faster
+sugar water stirring | dissolving rate increases final solubility unchanged
+gas water temperature increases | gas solubility decreases dissolved oxygen decreases
+gas water temperature decreases | gas solubility increases dissolved oxygen increases
+gas pressure above solution increases | gas solubility increases
+gas pressure above solution decreases | gas solubility decreases bubbles escape
+reaction temperature increases suitable range | reaction rate increases
+reaction temperature decreases suitable range | reaction rate decreases
+reactant concentration increases | reaction rate increases
+reactant concentration decreases | reaction rate decreases
+reactant surface area increases | reaction rate increases
+reactant surface area decreases | reaction rate decreases
+catalyst added reaction | reaction rate increases activation energy decreases
+catalyst removed same reaction conditions | reaction rate decreases
+amount reactants used closed reaction system | total mass unchanged atoms conserved
+iron rust forms exposed oxygen | iron sample mass increases oxygen combines
+combustion fuel open container residue | residue mass decreases gases escape
+combustion fuel sealed container all products retained | total mass unchanged
+warm air same water vapor amount relative humidity | humidity decreases
+cool air same water vapor amount relative humidity | humidity increases
+cooling air to dew point | humidity reaches saturation condensation begins
+wind speed increases otherwise same wet surface | evaporation rate increases
+humidity increases otherwise same wet surface | evaporation rate decreases
+humidity decreases otherwise same wet surface | evaporation rate increases
+surface area water increases otherwise same | evaporation rate increases
+sunlight ocean evaporation | atmospheric water vapor increases ocean liquid amount decreases
+land paving same rainfall | runoff increases infiltration decreases
+land vegetation cover increases | erosion decreases infiltration increases
+land vegetation removed | runoff increases erosion increases
+steeper slope same rain soil | runoff increases erosion increases
+stream speed increases | sediment carrying ability increases erosion increases
+stream speed decreases | sediment settles deposition increases
+wind speed increases loose soil | erosion increases sediment transport increases
+sand grain size increases same water flow | settles faster requires faster transport
+river enters lake ocean slower flow | sediment deposition increases
+warmer wetter climate reactive rock | chemical weathering increases
+rock broken smaller pieces | surface area increases weathering faster
+water freezes rock crack | volume increases crack widens physical weathering
+sandy soil compared clay soil | permeability higher water drains faster
+clay soil compared sandy soil | permeability lower water retained longer
+connected pore spaces larger | permeability increases
+isolated pore spaces | water flow limited permeability low
+withdraw groundwater faster recharge | water level decreases water table falls
+groundwater recharge exceeds withdrawal | water level increases water table rises
+more impervious pavement watershed | groundwater recharge decreases runoff increases
+fertilizer runoff nutrient enrichment pond | nutrients increase algae increase
+dead algae decomposed pond | oxygen decreases fish population decreases
+warmer pond summer oxygen stress | dissolved oxygen decreases fish survival decreases
+ocean upwelling | nutrients increase producer growth increases
+salinity seawater increases same temperature | density increases
+salinity seawater decreases same temperature | density decreases
+seawater temperature increases same salinity | density decreases
+seawater temperature decreases same salinity | density increases
+melting continental glacier | sea level increases
+warming ocean thermal expansion | volume increases sea level increases
+melting floating sea ice direct displacement | sea level nearly unchanged
+snow ice cover decreases | albedo decreases sunlight absorption increases
+snow ice cover increases | albedo increases sunlight absorption decreases
+carbon dioxide atmosphere increases | greenhouse effect increases temperature increases
+carbon dioxide atmosphere decreases other factors same | greenhouse effect decreases warming reduced
+deforestation carbon cycle | photosynthesis decreases carbon dioxide increases
+reforestation carbon cycle | photosynthesis increases carbon dioxide removal increases
+fossil fuel combustion carbon cycle | carbon dioxide increases chemical energy released
+plant photosynthesis light increases while limiting | photosynthesis increases oxygen production increases
+plant photosynthesis light decreases while limiting | photosynthesis decreases oxygen production decreases
+plant photosynthesis carbon dioxide increases while limiting | photosynthesis increases glucose production increases
+plant drought stomata close | water loss decreases carbon dioxide intake decreases photosynthesis decreases
+plant water availability decreases below requirement | growth decreases wilting increases
+plant nutrients increase from deficiency sufficient light water | growth increases
+animal exercise intensity increases | respiration increases oxygen consumption increases heart rate increases
+animal exercise stops rest | oxygen demand decreases heart rate decreases
+organism environmental temperature too high enzymes | enzyme activity decreases denaturation
+organism environment colder within viable range | metabolic reaction rate decreases
+food available population increases other factors constant | carrying capacity increases population can increase
+food available population decreases other factors constant | carrying capacity decreases population may decrease
+predator population increases prey same resources | prey population usually decreases
+predator population decreases prey same resources | prey population usually increases
+prey population increases predator food limited | predator population may increase
+prey population decreases predator food limited | predator population may decrease
+herbivore population increases plant resources constant | plant population decreases
+herbivore population decreases plant resources constant | plant population increases
+disease mortality increases population other factors constant | population decreases
+birth rate increases death rate unchanged | population increases
+death rate increases birth rate unchanged | population decreases
+immigration increases births deaths unchanged | population increases
+emigration increases births deaths unchanged | population decreases
+habitat area decreases | resources decrease carrying capacity decreases
+habitat variety increases | niches increase biodiversity can increase
+invasive competitor spreads limited resources | native population decreases competition increases
+protected habitat restored | native population may increase biodiversity may increase
+pollinators decrease flowering plants | fertilization decreases seed production decreases
+nitrogen fixing bacteria removed legumes | usable nitrogen decreases growth decreases
+decomposers decrease ecosystem | nutrient recycling decreases dead material accumulates
+pesticide repeated resistant insects survive | resistance trait frequency increases generations
+more independent repeated measurements | random uncertainty decreases reliability increases
+larger representative random sample | sampling uncertainty decreases reliability increases
+more uncontrolled variables experimental comparison | causal certainty decreases
+instrument calibration systematic bias removed | accuracy increases
+finer instrument scale suitable range | measurement resolution increases
+repeating systematically biased measurement | precision may increase bias remains

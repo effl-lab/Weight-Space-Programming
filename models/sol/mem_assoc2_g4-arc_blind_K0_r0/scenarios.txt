@@ -1,0 +1,719 @@
+# Function, ecology, Earth science, astronomy, and inquiry scenarios.
+# CELLS AND ORGANISMS
+3 | cell membrane permeability | selective transport | all freely
+3 | cell organelle power | mitochondria atp | chloroplast
+3 | cell organelle sunlight | chloroplast | mitochondria
+3 | cell organelle instruction | nucleus dna | vacuole
+3 | cell organelle protein | ribosome | vacuole
+3 | cell organelle packaging | golgi | nucleus
+3 | cell organelle storage | vacuole | ribosome
+3 | cell organelle digestion | lysosome | chloroplast
+3 | cell organelle support | wall cellulose | mitochondria
+3 | cell organelle fluid | cytoplasm | wall
+3 | membrane gate | control passage | energy production
+3 | nucleus library | dna information | energy
+3 | mitochondria powerhouse | energy respiration | photosynthesis
+3 | chloroplast solar | light sugar | protein synthesis
+3 | ribosome factory | protein synthesis | digestion
+3 | vacuole warehouse | storage water | dna
+3 | golgi post office | package transport | replication
+3 | specialized muscle | mitochondria energy | chloroplast
+3 | specialized nerve | long messages | oxygen transport
+3 | specialized red cell | hemoglobin oxygen | antibody
+3 | specialized white cell | immune infection | oxygen transport
+3 | specialized root | absorb water mineral | make pollen
+3 | specialized sperm | movement flagellum | photosynthesis
+3 | leaf chloroplast | photosynthesis | food absorption soil
+3 | root chloroplast | absent underground | photosynthesis main
+3 | bacterial nucleus | absent prokaryotic | membrane bound
+3 | plant animal common | nucleus mitochondria membrane | chloroplast
+3 | plant unique | cellulose wall chloroplast | centriole
+3 | animal unique | centriole lysosome | chloroplast
+3 | cell size limit | surface area volume diffusion | color
+3 | small cell exchange | larger surface volume ratio | smaller ratio
+3 | cell growth division | mitosis more cells | meiosis
+3 | wound repair | mitosis cell division | meiosis
+3 | gamete formation | meiosis chromosome half | mitosis
+3 | mitosis daughter | two identical | four different
+3 | meiosis daughter | four haploid different | two identical
+3 | fertilization egg | sperm fusion zygote | asexual
+3 | sperm egg chromosome | half each | double each
+3 | dna replication | copy before division | protein directly
+3 | nucleus chromosome | genetic dna | stored fat
+3 | gene code | protein amino sequence | sugar sequence
+3 | dna mutation | sequence changed | learned skill
+3 | rna ribosome | protein translation | glucose
+3 | transcription location | nucleus | lysosome
+3 | translation location | ribosome cytoplasm | nucleus
+3 | genetic information | dna chromosome gene | carbohydrate
+3 | inherited appearance | parents genes | learned
+3 | eye color inheritance | gene dna chromosome | training
+3 | blood type inheritance | gene allele | acquired
+3 | muscle exercise | acquired environment | inherited
+3 | scar tattoo | acquired | inherited
+3 | learned language | experience environment | inherited gene
+3 | learned bicycle | practice | inherited reflex
+3 | dog sit | training learned | inherited
+3 | spider spinning | instinct inherited | taught
+3 | baby sucking | instinct reflex | taught
+3 | bird nest building | instinct inherited | classroom
+3 | identical twins | same genotype dna | unrelated
+3 | twins environment | phenotype may differ | genotype always changes
+3 | sexual diversity | recombination two parents | identical clone
+3 | asexual diversity | low identical mutation | two gametes
+3 | clone genetic | identical parent | unrelated
+3 | clone environmental | different growth possible | identical appearance guaranteed
+3 | dominant allele | one copy expressed | always common
+3 | recessive allele | two copies expressed | stronger necessarily
+3 | recessive parents | recessive offspring | dominant offspring
+3 | homozygous recessive | two recessive allele | hybrid
+3 | heterozygous cross | 25 recessive 75 dominant | all recessive
+3 | mutation random | variation | purposeful need
+3 | acquired inheritance | offspring genes unchanged | training transmitted
+3 | natural selection timescale | many generations population | immediate individual
+3 | selection variation | inherited differences | all identical
+3 | selection reproductive | more surviving offspring | strongest necessarily
+3 | drought seed beak | selection large strong | birds consciously grow beak
+3 | peppered moth pollution | camouflage selection dark | intentional mutation
+3 | antibiotic bacteria survive | resistance selection reproduce | purposeful need
+3 | pesticide insects survive | resistant offspring selection | learned immunity
+3 | genetic isolation | speciation divergence | increased gene flow
+3 | fossil ancestor | common ancestry evolution | identical modern species
+3 | homologous bone | common ancestry | same function required
+3 | analogous wing | same function separate ancestry | identical structure required
+3 | whale pelvis | vestigial ancestry | new locomotion
+3 | classification dna | close similarity common ancestry | same habitat only
+3 | scientific name | genus species | kingdom phylum
+3 | genus same | closely related | always same species
+3 | species reproduction | fertile offspring | similar appearance only
+3 | mule | sterile hybrid horse donkey | new fertile species
+3 | dichotomous key | paired characteristic choices | random guess
+3 | virus cells | host needed acellular | independent metabolism
+3 | virus treatment | antiviral immune | antibiotic
+3 | bacteria treatment | antibiotic | antiviral only
+3 | vaccine purpose | prevent immune memory | immediate cure antibiotic
+3 | antibiotic overuse | resistant bacteria selection | improved all effectiveness
+3 | pathogen spread | contact air water vector | heredity alone
+3 | disease mosquito | vector transmission | decomposer
+3 | clean hands | remove pathogens | increase infection
+3 | food heat | kill pathogen | preserve all bacteria
+3 | food refrigerated | slow microbe growth | sterilize
+3 | food frozen | slow decomposition | kill every microorganism
+3 | food dehydrated | water unavailable bacteria | faster growth
+3 | food salted | osmosis microbes water loss | microbe water gain
+3 | food canned | heat sealed inhibit microbes | warm air exposure
+3 | pasteurized milk | heat reduce pathogens | all nutrition destroyed
+3 | bacterial benefit | digestion decomposition nitrogen fixation | all harmful
+3 | soil microbe | recycle nutrient | only disease
+3 | yeast fermentation | carbon dioxide alcohol | oxygen required
+3 | bread rising gas | carbon dioxide | nitrogen
+3 | muscle fermentation | lactic acid | alcohol
+3 | plant dark respiration | oxygen used dioxide released | stops all metabolism
+3 | plant dark photosynthesis | stops decrease | light increase
+3 | plant mass increase | carbon dioxide air | soil mass only
+3 | tree carbon source | atmospheric dioxide | soil minerals
+3 | photosynthesis oxygen source | water | carbon dioxide
+3 | plant energy source | sunlight | soil fertilizer
+3 | germinating energy | stored seed starch food | soil
+3 | germinating condition | water oxygen warmth | sunlight mandatory
+3 | seed dormancy | dry cold low metabolism | rapid growth
+3 | seed dispersal benefit | less competition spread | crowd parent
+3 | fruit juicy | animal seed dispersal | wind only
+3 | burr hooks | attach fur seed dispersal | photosynthesis
+3 | dandelion fluffy | wind seed dispersal | heavy seed
+3 | maple wing | wind seed dispersal | digestion
+3 | coconut float | water seed dispersal | soil absorption
+3 | flower colored scented | attracts pollinator | seed germination
+3 | nectar insects | mutualism pollination food | parasitism
+3 | pollen anther stigma | pollination | fertilization
+3 | ovary after fertilization | fruit | pollen
+3 | ovule after fertilization | seed | petal
+3 | root absorption surface | hair large area | petal
+3 | root anchor | soil support | photosynthesis
+3 | xylem upward | water minerals | sugar
+3 | phloem transport | dissolved sugar | water only
+3 | transpiration pulling | water root leaf xylem | sugar phloem
+3 | stomata closing | water loss decrease | water loss increase
+3 | stomata opening | dioxide entry transpiration | seed reproduction
+3 | guard cell water | turgor open close | pollen production
+3 | wilting plant | low water turgor | increased turgor
+3 | cuticle wax | water conservation | water loss increase
+3 | autumn leaf color | chlorophyll breaks reveals pigment | more chlorophyll
+3 | plant light response | phototropism | gravitropism
+3 | plant root gravity | gravitropism down | upward
+3 | plant stem gravity | negative gravitropism up | down
+3 | plant touch response | thigmotropism | hearing
+3 | plant water response | hydrotropism | hearing
+3 | desert spine | reduced water loss | increased transpiration
+3 | desert wax | reduced evaporation | increased evaporation
+3 | desert cactus stem | water storage photosynthesis | pollen
+3 | desert extensive root | absorbs scarce water | photosynthesis
+3 | pond floating leaf | sunlight gas exchange | underground
+3 | rainforest broad leaf | capture limited sunlight | water conservation only
+3 | pine needle | conserve water evergreen | broad deciduous
+3 | fern reproduction | spore | cone seed
+3 | moss reproduction | spore | fruit seed
+3 | conifer reproduction | cone seed | fruit flower
+3 | potato reproduction | tuber asexual | gamete required
+3 | strawberry reproduction | runner asexual | two parents required
+3 | cutting reproduction | clone asexual | different genes
+3 | hydra reproduction | budding asexual | seed
+3 | bacteria reproduction | binary fission | flower
+# ECOLOGY AND ADAPTATION
+3 | sunlight food web | producer photosynthesis | predator first
+3 | sunlight consumer | indirect energy producer | directly photosynthesis
+3 | plant eaten | chemical energy transfer | nuclear
+3 | food arrow | energy food eater | eater food
+3 | trophic higher | less energy biomass | more energy
+3 | ten percent remaining | heat respiration loss | destroyed energy
+3 | producer energy | greatest base | least
+3 | top predator energy | least | most
+3 | matter ecosystem | recycled nutrients | lost forever
+3 | energy ecosystem | flow heat loss | recycled fully
+3 | decomposer absent | dead waste accumulate nutrients decrease | nutrient recycling faster
+3 | decomposer important | all ecosystem organisms | worms only
+3 | decomposer plant | nutrient minerals | sunlight production
+3 | dead log | fungus bacteria decomposition | animal photosynthesis
+3 | fallen leaves | humus decomposition | mineral creation
+3 | worm soil | aerates mixes decomposes | makes oxygen sunlight
+3 | grass producer | photosynthesis autotroph | carnivore
+3 | rabbit consumer | herbivore primary | producer
+3 | fox consumer | carnivore secondary | producer
+3 | mushroom consumer | decomposer heterotroph | photosynthesis
+3 | algae producer | photosynthesis aquatic | carnivore
+3 | phytoplankton base | aquatic food web | top predator
+3 | zooplankton eats | phytoplankton primary consumer | producer
+3 | omnivore diet | plant animal | plant only
+3 | scavenger diet | dead animals | photosynthesis
+3 | herbivore diet | plants | meat
+3 | carnivore diet | animals | plants
+3 | predator removed | prey increase | prey decrease
+3 | prey removed | predator decrease | predator increase
+3 | plant removed | herbivore decrease | herbivore increase
+3 | herbivore removed | plant increase | plant decrease
+3 | predator added | prey decrease | prey increase
+3 | prey added | predator increase | predator decrease
+3 | food shortage | competition increase population decrease | unlimited growth
+3 | population resource | food water shelter space | unlimited
+3 | same niche | strongest competition | minimal competition
+3 | different niche | reduced competition | identical resource use
+3 | overcrowding disease | transmission increase | decrease
+3 | birth death | population size change | individual growth only
+3 | immigration population | increase newcomers | decrease
+3 | emigration population | decrease leaving | increase
+3 | carrying capacity | sustainable maximum population | unlimited increase
+3 | population overshoot | starvation disease decline | unlimited increase
+3 | population limiting | predation disease resource | unlimited food
+3 | biotic factor | organism competition disease | sunlight
+3 | abiotic factor | temperature light water soil | predator
+3 | population definition | one species area | all species
+3 | community definition | different populations | abiotic only
+3 | ecosystem definition | biotic abiotic interaction | only one organism
+3 | niche definition | ecological role | location only
+3 | habitat definition | place lives | role only
+3 | mutualism benefit | both organisms | one harmed
+3 | parasitism benefit | parasite host harmed | both helped
+3 | commensalism benefit | one other unaffected | host harmed
+3 | flea dog | parasitism | mutualism
+3 | tapeworm human | parasitism | mutualism
+3 | tick deer | parasitism | commensalism
+3 | mistletoe tree | parasitism | mutualism
+3 | bee flower | mutualism pollination | parasitism
+3 | clownfish anemone | mutualism protection | predation
+3 | nitrogen root bacteria | mutualism fixation legume | parasitism
+3 | termite gut bacteria | mutualism digestion cellulose | predation
+3 | lichen alga fungus | mutualism | parasitism
+3 | remora shark | commensalism | mutual harm
+3 | barnacle whale | commensalism | predation
+3 | camouflage dark | blend background | attract predator
+3 | camouflage snow | white fur | dark fur
+3 | camouflage leaf | green insect | bright warning
+3 | warning coloration | poison danger | concealment
+3 | mimic dangerous | predator avoidance | photosynthesis
+3 | walking stick insect | camouflage branch | migration
+3 | chameleon color | concealment protection | faster digestion
+3 | arctic thick fur | heat conservation | heat loss
+3 | arctic small ears | less heat loss | greater cooling
+3 | desert large ears | cooling heat loss | maximum insulation
+3 | desert nocturnal | night active conserve water | daytime
+3 | camel hump | fat stored energy | tank water
+3 | camel eyelashes | protection blowing sand | photosynthesis
+3 | polar bear white | camouflage snow | camouflage forest
+3 | polar bear blubber | insulation cold | heat loss
+3 | duck webbed feet | swimming | climbing
+3 | duck oily feather | waterproof insulation | water absorption
+3 | fish streamlined body | reduced drag | greater friction
+3 | fish gill | dissolved oxygen | extract oxygen from h2o
+3 | bird hollow bone | less mass flight | stronger gravity
+3 | bird wing feather | flight insulation | gill
+3 | eagle hooked beak | tear meat carnivore | crush nectar
+3 | finch thick beak | crack seeds | suck nectar
+3 | hummingbird long beak | nectar | tear meat
+3 | pelican pouch | capture fish | dig soil
+3 | woodpecker beak | drill wood insects | filter plankton
+3 | giraffe long neck | reach leaves | capture fish
+3 | rabbit flat teeth | grind plants | tear meat
+3 | lion sharp teeth | tear meat | grind grass
+3 | predator forward eyes | depth perception | widest side view
+3 | prey side eyes | wide field predators | only forward
+3 | turtle shell | protection | photosynthesis
+3 | snail shell | protection water conservation | skeletal backbone
+3 | porcupine quills | defense | gas exchange
+3 | skunk spray | defense | pollination
+3 | opossum death | defense predator | photosynthesis
+3 | octopus ink | escape predator | oxygen production
+3 | squid jet | action reaction propulsion | photosynthesis
+3 | echolocation bat | reflected sound locate | reflected ultraviolet
+3 | echolocation dolphin | sound | visible light
+3 | hibernation winter | lower metabolism conserve energy | increase activity
+3 | migration winter | food breeding climate | gravity changes
+3 | bird migrate | food availability | gravity absent
+3 | squirrel nuts | stored food winter | photosynthesis
+3 | ectotherm bask | external heat raises temperature | photosynthesis
+3 | sweating mammal | evaporation cooling | condensation heating
+3 | shivering mammal | contraction generates heat | evaporative cooling
+3 | fish mammal difference | gill versus lung | aquatic versus terrestrial
+3 | bat bird difference | fur milk versus feather | flight ability
+3 | whale fish difference | lung milk warmblood | aquatic habitat
+3 | penguin classification | bird feather | fish mammal
+3 | platypus classification | mammal milk hair | bird
+3 | spider classification | arachnid eight legs | insect
+3 | butterfly classification | insect six legs | bird
+3 | crab classification | crustacean arthropod | fish
+3 | frog metamorphosis | tadpole gill adult lung | pupa
+3 | butterfly metamorphosis | egg larva pupa adult | nymph
+3 | grasshopper metamorphosis | egg nymph adult | pupa
+3 | insect growth | molt exoskeleton | grow bones
+3 | biodiversity resilience | more stable ecosystem | one species best
+3 | extinction permanent | entire species disappears | one organism dies
+3 | endangered conservation | protect habitat breeding | hunting increase
+3 | invasive species | native competition predation | always beneficial
+3 | habitat loss | fewer resources population decline | biodiversity increase
+3 | habitat corridor | connect populations gene flow | isolate
+3 | habitat fragmentation | isolation smaller population | greater connectivity
+3 | reforestation benefit | habitat dioxide absorption soil protection | erosion increase
+3 | deforestation effect | erosion runoff habitat loss | increased biodiversity
+3 | pesticide accumulation | top predators biomagnification | producers most
+3 | fertilizer runoff | eutrophication algae bloom | cleaner water
+3 | algae bloom decomposition | oxygen depletion fish death | oxygen increase
+3 | eutrophication nutrient | nitrogen phosphorus | oxygen
+3 | acid lake | low ph organism harm | improved all survival
+3 | thermal pollution | dissolved oxygen decreases | dissolved oxygen increases
+3 | oil spill birds | feathers insulation damaged | improved buoyancy
+3 | overfishing effect | population decrease food web disruption | unlimited supply
+3 | drought ecosystem | water food shortages | all populations grow
+3 | wetland ecosystem | water filtering flood storage | barren dry
+3 | wetland destruction | flooding increase habitat loss | cleaner water
+3 | primary succession | bare rock lichen moss | rich soil
+3 | secondary succession | soil remains grass shrubs | bare rock only
+3 | lava cooled succession | primary pioneer | secondary
+3 | abandoned farm succession | secondary soil | primary
+3 | forest burned succession | secondary soil | primary
+3 | pioneer species | soil formation lichen | large tree
+3 | forest climax | mature stable community | first bare rock
+# BODY SYSTEMS AND HUMAN HEALTH
+3 | body message chemical | hormone endocrine | skeletal
+3 | body message electrical | neuron nervous | endocrine
+3 | body transport network | circulatory blood | digestive
+3 | body waste filter | kidney excretory | stomach
+3 | body food absorption | intestine digestive | respiratory
+3 | body gas exchange | lungs respiratory | excretory urine
+3 | body protective barrier | skin integumentary | endocrine
+3 | body structural support | skeletal bone | endocrine
+3 | body movement contraction | muscular | digestive
+3 | body defense pathogen | immune lymphatic | skeletal
+3 | heart pump | circulatory blood | urine
+3 | lungs alveoli | gas exchange large area | nutrient absorption
+3 | intestine villi | nutrient absorption large area | oxygen exchange
+3 | capillary thin | rapid diffusion | prevent exchange
+3 | artery direction | away heart | toward
+3 | vein direction | toward heart | away
+3 | vein valves | prevent backflow | produce blood
+3 | heart valves | one direction flow | gas exchange
+3 | blood red | hemoglobin oxygen | antibodies
+3 | blood white | infection immune | oxygen carrier
+3 | platelet function | clotting | oxygen transport
+3 | plasma function | fluid transport nutrients | bone
+3 | kidney nephron | blood filtration urine | food digestion
+3 | liver detoxification | chemicals blood | urine storage
+3 | bladder function | urine storage | urine production
+3 | pancreas insulin | lower glucose | raise glucose
+3 | insulin deficiency | diabetes high glucose | anemia
+3 | thyroid function | metabolism rate | urine storage
+3 | adrenal adrenaline | fight flight stress | bone formation
+3 | pituitary function | growth hormone | digestion bile
+3 | hypothalamus function | temperature homeostasis | gas exchange
+3 | reflex spinal | rapid automatic | voluntary thought
+3 | brain cerebellum | balance coordination | urine
+3 | brain cerebrum | thought memory | bile
+3 | brain medulla | breathing heartbeat | vision focus
+3 | sensory neuron direction | receptor brain | brain muscle
+3 | motor neuron direction | brain muscle | receptor brain
+3 | nerve insulation | myelin | chlorophyll
+3 | tendon function | attach muscle bone | ligament
+3 | ligament function | attach bone joint | tendon
+3 | joint cartilage | cushion reduce friction | produce oxygen
+3 | bone marrow | blood cells | hormone insulin
+3 | ribs function | protect heart lung | protect brain
+3 | skull function | protect brain | protect kidney
+3 | diaphragm inhale | contracts downward chest expands | relaxes upward
+3 | diaphragm exhale | relaxes upward chest decreases | contracts downward
+3 | inhale pressure | lung pressure decreases | increases
+3 | exhale pressure | lung pressure increases | decreases
+3 | exercise oxygen | heart breathing rate increase | decrease
+3 | exercise muscles | more respiration atp | less energy
+3 | mouth starch | amylase saliva | pepsin
+3 | stomach protein | acid pepsin | bile
+3 | small intestine | digestion absorption | urine storage
+3 | large intestine | water absorption | most nutrient absorption
+3 | bile fat | emulsifies liver | digests protein
+3 | pancreas enzymes | digestion | filtering blood
+3 | peristalsis esophagus | muscle food transport | gas exchange
+3 | teeth digestion | mechanical | enzyme
+3 | enzyme digestion | chemical | mechanical alone
+3 | retina light | nervous signal vision | hearing
+3 | iris pupil | light amount | color image
+3 | pupil dim | enlarges more light | shrinks
+3 | pupil bright | shrinks less light | enlarges
+3 | eye lens | refraction focus retina | reflection
+3 | cochlea vibration | nerve signal hearing | vision
+3 | eardrum sound | vibrates | focuses light
+3 | ear balance | semicircular canal | retina
+3 | near sighted | concave lens | convex lens
+3 | far sighted | convex lens | concave lens
+3 | skin hot | sweating vasodilation | shivering
+3 | skin cold | shivering vasoconstriction | sweating
+3 | homeostasis response | restore internal balance | unchanged exterior
+3 | dehydration response | conserve water less urine | more urine
+3 | calcium nutrient | bones teeth | anemia
+3 | iron nutrient | hemoglobin oxygen | rickets
+3 | protein nutrient | growth repair | instant glucose only
+3 | carbohydrate nutrient | quick energy | genetic information
+3 | fat nutrient | storage insulation | fast genetic signal
+3 | fiber nutrient | digestive movement | absorbed glucose
+3 | vitamin d | calcium bones sunlight | scurvy
+3 | vitamin c | scurvy citrus | rickets
+3 | balanced diet | variety nutrients | one food
+3 | healthy exercise | stronger heart muscle bone | weaken
+3 | smoking lungs | disease cancer less exchange | improves oxygen
+3 | sunscreen benefit | ultraviolet protection | thermal insulation
+# EARTH, WEATHER, RESOURCES, SPACE
+3 | surface rock broken | weathering | deposition
+3 | ice pavement cracked | physical weathering expansion | erosion
+3 | river rock carried | erosion | weathering alone
+3 | sand settled | deposition | erosion
+3 | wind dune | deposition sand | chemical reaction
+3 | glacier transport | erosion | melting only
+3 | glacier scratch | abrasion striation | chemical
+3 | tree root crack | physical weathering | deposition
+3 | acid marble | chemical weathering | physical
+3 | oxygen iron rock | chemical oxidation weathering | physical
+3 | steep slope erosion | more rapid runoff | less erosion
+3 | roots soil | hold prevent erosion | increase erosion
+3 | terrace farming | slow runoff conserve soil | increase erosion
+3 | contour plowing | reduce erosion runoff | increase erosion
+3 | overgrazing soil | erosion desertification loss | vegetation
+3 | soil fertility | humus nutrients | pure gravel
+3 | humus source | decomposed organisms | melted rock
+3 | soil formation | weathering decomposition | immediate creation
+3 | clay sand particle | clay smaller sand larger | clay larger
+3 | clay retention | high slow permeability | low
+3 | sand drainage | fast low retention | slow
+3 | gravel permeability | high | impermeable
+3 | connected pores | permeability groundwater | hardness
+3 | aquifer recharge | infiltration precipitation | runoff only
+3 | well overpumping | water table lowers | rises
+3 | paved road rain | runoff flooding | infiltration
+3 | forest rain | infiltration absorption | rapid runoff only
+3 | river fast sediment | larger carried erosion | only fine deposit
+3 | river slow sediment | deposition | more erosion
+3 | river delta | sediment deposition | ice weathering
+3 | river outer bend | erosion faster | deposition
+3 | river inner bend | deposition slower | erosion
+3 | glacier valley | u shaped | v shaped
+3 | stream valley | v shaped | u shaped
+3 | canyon process | running water erosion | deposition only
+3 | island volcanic | cooled lava igneous | sediment cementation
+3 | magma cooling slow | large crystals granite | small crystals
+3 | lava cooling rapid | small crystals basalt | large crystals
+3 | lava cooling instant | glass obsidian | large crystals
+3 | metamorphic formation | heat pressure | melting
+3 | sedimentary formation | compact cement | melting
+3 | fossil preservation | sedimentary burial | molten magma
+3 | fossil marine mountain | uplift formerly underwater | always dry
+3 | fossil shell desert | once ocean environment | unchanged always
+3 | undisturbed layers old | bottom | top
+3 | undisturbed layers young | top | bottom
+3 | rock crosscut | younger intrusion fault | older intrusion
+3 | index fossil use | correlate relative ages | daily weather
+3 | index fossil characteristic | widespread short duration | local long duration
+3 | radioactive dating | absolute age isotope | relative size
+3 | fossil track | trace organism behavior | chemical composition only
+3 | coal ancient | swamp plants | volcano
+3 | petroleum ancient | marine organisms | recent leaves
+3 | plate movement heat | mantle convection | wind
+3 | plate spreading | divergent new crust | convergent
+3 | plate collision | convergent mountain subduction | divergent
+3 | plate sliding | transform earthquake | divergent
+3 | dense ocean crust | subducts continental | floats above
+3 | mountain himalaya | continental collision | ocean spreading
+3 | mid ocean ridge | divergent youngest rock | oldest rock
+3 | ocean trench | subduction | divergent
+3 | earthquake location | fault plate boundary | weather front
+3 | earthquake epicenter | surface above focus | core
+3 | earthquake liquid core blocked | s transverse | p longitudinal
+3 | outer core | liquid iron nickel | solid
+3 | inner core | solid pressure iron | liquid
+3 | earth magnetic | molten iron outer core | crust wind
+3 | crust thickness | thin outer rock | thickest layer
+3 | mantle thickness | thickest rock layer | air
+3 | interior depth | temperature pressure increase | decrease
+3 | volcano gas ash | atmospheric cooling possible | only warming
+3 | tsunami source | seafloor earthquake | normal tides
+3 | renewable energy | wind solar water geothermal | coal petroleum
+3 | nonrenewable energy | coal petroleum uranium gas | wind solar
+3 | renewable trees | regrow replenish | fossil fuel
+3 | nonrenewable metal | finite ore recycle | grow rapidly
+3 | solar disadvantage | intermittent sunlight | fossil waste
+3 | wind disadvantage | variable wind wildlife | radioactive waste
+3 | dam disadvantage | fish migration flooding habitat | radioactive waste
+3 | nuclear disadvantage | radioactive waste | coal smoke
+3 | fossil disadvantage | pollution dioxide finite | inexhaustible
+3 | geothermal source | earth internal heat | solar panel
+3 | hydroelectric source | moving water turbine | burning coal
+3 | biomass source | organic matter | uranium
+3 | energy conservation | efficiency insulation less waste | energy creation
+3 | recycling aluminum | saves energy ore | new ore creation
+3 | public transport | less fuel pollution | more individual cars
+3 | renewable switch | less dioxide pollution | more coal
+3 | carbon dioxide removal | photosynthesis reforestation | combustion
+3 | greenhouse effect | infrared absorbed atmosphere | ultraviolet ozone only
+3 | greenhouse increase | warming | cooling
+3 | ozone function | absorb ultraviolet | absorb all visible
+3 | ozone depletion | more ultraviolet skin cancer | less ultraviolet
+3 | acid rain source | sulfur nitrogen oxides | oxygen
+3 | acid rain ph | decrease acidic | increase basic
+3 | sea level warming | thermal expansion land ice melt | contraction
+3 | glaciers freshwater | most stored ice | rivers most
+3 | earth water majority | salty ocean | freshwater
+3 | desalination method | distillation reverse osmosis | ordinary filter only
+3 | water potable | safe drinking treated | untreated seawater
+3 | septic leak | groundwater contamination | purification
+3 | water cycle sun | evaporation energy | moon gravity
+3 | water cycle gravity | precipitation runoff | evaporation energy
+3 | vapor rising cool | condensation cloud | boiling
+3 | water cloud freezing | snow ice | vapor only
+3 | rain returning land | runoff infiltration | photosynthesis
+3 | precipitation example | rain snow hail sleet | evaporation
+3 | dew source | atmospheric water vapor | grass produces water
+3 | fog source | condensation near ground | smoke
+3 | cloud source | tiny droplets ice | visible gas
+3 | relative humidity cooling | increases | decreases
+3 | relative humidity warming | decreases | increases
+3 | dew point | saturated condensation temperature | boiling point
+3 | dewpoint air | humidity hundred percent | dry
+3 | windy drying | vapor removal evaporation | condensation
+3 | high pressure weather | sinking clear | rising storm
+3 | low pressure weather | rising cloudy precipitation | sinking clear
+3 | wind pressure | high toward low | low toward high
+3 | wind energy origin | uneven solar heating | lunar phase
+3 | sea breeze daytime | cool sea air toward land | warm land air downward
+3 | land breeze nighttime | cool land air toward sea | sea warms faster
+3 | coriolis origin | earth rotation | moon gravity
+3 | mountain windward | rising cool wet | dry warm
+3 | mountain leeward | sinking warm dry | wet cool
+3 | altitude climate | colder | warmer
+3 | latitude equator | direct sunlight warmer | colder
+3 | latitude poles | indirect sunlight colder | warmer
+3 | warm ocean current | coastal warming | cooling
+3 | cold ocean current | coastal cooling | warming
+3 | cold front | dense cold lifts warm storms | warm sinks
+3 | warm front | gradual rising steady rain | abrupt
+3 | hurricane energy | warm ocean water | cold dry land
+3 | hurricane weakening | land cool water | warm ocean
+3 | tornado safety | basement interior shelter | window outdoors
+3 | lightning safety | indoors away trees water | isolated tree
+3 | flood safety | high ground | drive floodwater
+3 | thunder source | heated air expansion lightning | colliding clouds
+3 | lightning before thunder | light faster sound | light closer
+3 | cirrus composition | high ice crystals | ground droplets
+3 | cumulus appearance | puffy fair weather | wispy
+3 | stratus appearance | layered | tall thunderhead
+3 | cumulonimbus | thunderstorm hail updraft | fair weather
+3 | hail formation | frozen layers updraft thunderstorm | dew
+3 | ocean salinity source | dissolved weathered rock salts | evaporation creates salt
+3 | ocean evaporation salinity | concentration increase | dilute decrease
+3 | ocean ice melts | salinity decreases | increases
+3 | deep current | cold dense salty | warm fresh
+3 | upwelling benefit | nutrient rich productive plankton | nutrient depleted
+3 | tide source | lunar gravity solar gravity | wind
+3 | spring tide | aligned new full moon | quarter
+3 | neap tide | right angle quarter | aligned
+3 | weather forecast | observations pressure satellite trends | astrology
+3 | climate evidence | many years average | one day
+3 | day night source | earth rotation | revolution
+3 | year source | earth revolution | rotation
+3 | seasons source | tilted axis revolution | distance primarily
+3 | summer hemisphere | tilted toward direct long day | away
+3 | winter hemisphere | tilted away indirect short day | toward
+3 | opposite hemisphere | opposite seasons | same seasons
+3 | equinox day | twelve hours equal night | longest
+3 | noon sun | highest shortest shadow | longest shadow
+3 | sunrise direction | east | west
+3 | sunset direction | west | east
+3 | shadow direction | opposite sunlight | toward light
+3 | morning shadow | west | east
+3 | afternoon shadow | east | west
+3 | daily stars motion | earth rotation | stars orbit earth
+3 | seasonal constellation | earth revolution | moon phase
+3 | moon phases source | orbit viewed sunlight | earth shadow
+3 | moon brightness | reflected sunlight light | fusion
+3 | new moon alignment | moon between sun earth | earth between
+3 | full moon alignment | earth between sun moon | moon between
+3 | solar eclipse alignment | moon between sun earth | earth between
+3 | lunar eclipse alignment | earth between sun moon | moon between
+3 | solar eclipse phase | new | full
+3 | lunar eclipse phase | full | new
+3 | moon same face | rotation revolution same period | stationary
+3 | lunar surface crater | meteorite impact little erosion | rain erosion
+3 | moon sky | thin atmosphere vacuum | blue air
+3 | star own light | nuclear fusion | reflection
+3 | planet light | reflected sun | fusion
+3 | sun energy fuel | hydrogen fusion helium | coal combustion
+3 | closest star earth | sun | moon
+3 | sun apparent size | nearby | largest universe
+3 | star blue | higher temperature | lower
+3 | star red | lower temperature | higher
+3 | star apparent brightness | luminosity distance | distance only
+3 | light year | distance | time
+3 | astronomical unit | earth sun distance | year time
+3 | planet orbit period | farther longer slower | farther shorter
+3 | solar system gravity | sun mass attraction | magnetism
+3 | asteroid location | mars jupiter belt | inside earth
+3 | comet tail | away sun | toward
+3 | meteor streak | atmosphere heating | ground only
+3 | meteorite fragment | reaches earth surface | vaporized completely
+3 | terrestrial planets | mercury venus earth mars | jupiter saturn
+3 | gas giant planets | jupiter saturn | earth mars
+3 | largest planet | jupiter | mercury
+3 | smallest planet | mercury | jupiter
+3 | hottest planet | venus greenhouse | mercury necessarily
+3 | farthest planet | neptune | mercury
+3 | nearest planet sun | mercury | venus
+3 | red planet | mars iron oxide | jupiter
+3 | ringed planet | saturn | earth
+3 | milky way | galaxy stars | entire universe
+3 | galaxy structure | billions stars gravity | one planet
+3 | universe expansion | redshift galaxies recede | blueshift all
+3 | redshift wavelength | longer moving away | shorter toward
+3 | blueshift wavelength | shorter toward | longer away
+3 | small star death | white dwarf red giant | black hole necessarily
+3 | massive star death | supernova neutron star black hole | rocky planet
+3 | space sound | absent vacuum | travels fastest
+3 | space light | electromagnetic vacuum | needs air
+3 | space communication | radio electromagnetic | sound
+3 | space telescope | clearer image vacuum | cloud obstruction
+# SCIENTIFIC INQUIRY AND LABORATORY PRACTICE
+3 | testable explanation | hypothesis | opinion
+3 | well supported explanation | theory | guess
+3 | describes consistent pattern | law | opinion
+3 | observable direct | data measurement senses | unsupported explanation
+3 | infer cause | explanation based evidence | direct senses only
+3 | predicting future | evidence trend | past only
+3 | scientific question | testable measurable | personal preference
+3 | scientific belief | evidence testing | popularity
+3 | scientific uncertainty | new evidence revision | immutable
+3 | theory new evidence | revise evaluate | ignore
+3 | experiment purpose | test hypothesis | prove personal belief
+3 | one variable | fair controlled test | change everything
+3 | variable manipulated | independent | dependent
+3 | variable measured | dependent | independent
+3 | variable unchanged | controlled constant | independent
+3 | control untreated | comparison baseline | experimental treatment
+3 | control placebo | baseline comparison | independent replication
+3 | experiment replication | reliability | guaranteed truth
+3 | sample larger | representative reliable | less reliable
+3 | random sampling | less bias | favored subjects
+3 | multiple trials | average reduce random error | remove all error
+3 | inconsistent results | repeat investigate error | discard inconvenient
+3 | unexpected results | record honestly investigate | fake data
+3 | unsupported hypothesis | revise retest | change measurements
+3 | disagreement scientists | repeat evidence test | popularity vote
+3 | scientific communication | methods data peer review | hide evidence
+3 | experiment reproducible | detailed procedure | secret methods
+3 | peer review | evaluate method evidence | prove perfection
+3 | opinion evidence | test measurable | preference
+3 | quantitative observation | numerical measurement | color only
+3 | qualitative observation | descriptive color texture | numerical only
+3 | accurate measurement | close true value | repeat only
+3 | precise measurement | close each other | true always
+3 | improve accuracy | calibrated instrument proper method | larger bias
+3 | repeated measurement | average random error | eliminate systematic error
+3 | systematic error | calibrate correct instrument | repeat alone
+3 | graph x | independent horizontal | dependent
+3 | graph y | dependent vertical | independent
+3 | line graph | continuous time trend | categories only
+3 | bar graph | compare categories | time only
+3 | pie graph | proportions whole | rates only
+3 | scatter plot | correlation | causation proof
+3 | correlation cause | additional tests required | proves causation
+3 | table data | organize record compare | opinion
+3 | mean calculate | add divide number | maximum
+3 | median calculate | sorted middle | most frequent
+3 | mode calculate | most frequent | middle
+3 | range calculate | maximum subtract minimum | average
+3 | model limitation | simplified incomplete | exact reality
+3 | scale model purpose | represent large small | actual size necessary
+3 | simulation purpose | test dangerous costly inaccessible | perfect copy
+3 | engineering first | define problem criteria constraints | final production
+3 | engineering prototype | test revise improve | final unquestionable
+3 | engineering constraints | cost time materials | performance goals only
+3 | engineering criteria | desired function performance | random appearance
+3 | design evidence | controlled testing measurements | opinion only
+3 | experiment plant fertilizer | equal light water soil | change all
+3 | experiment plant light | equal species soil water |
+3 | experiment growth measure | height mass leaf number | personal preference
+3 | experiment friction surface | equal mass slope | change speed mass
+3 | experiment temperature dissolve | equal amount stirring solute | change everything
+3 | experiment magnet strength | paperclips force distance | color
+3 | experiment cooling insulation | same volume initial temperature container | change all
+3 | laboratory safety | goggles instructions gloves | eating drinking
+3 | laboratory unsafe | eating tasting running | goggles
+3 | laboratory avoid | food drinks taste | eye protection
+3 | bacteria investigation | sterile clean gloves | food drinks
+3 | chemical smell | waft | direct inhale
+3 | chemical taste | unsafe prohibited | identification safe
+3 | chemical spill | notify teacher instructions | ignore
+3 | chemical eye | rinse water eyewash | rub
+3 | broken glass | brush notify adult | bare hand
+3 | hot container | tongs heatproof glove | bare hand
+3 | laboratory flame | tie hair clear flammables | loose clothing
+3 | electrical safety | dry disconnect insulate | wet
+3 | chemical disposal | designated container teacher | sink always
+3 | finish laboratory | wash hands clean equipment | food samples
+3 | microscope total magnification | objective times eyepiece | objective plus eyepiece
+3 | microscope low power | locate specimen larger field | smallest field
+3 | microscope high power | detail smaller field | larger field
+3 | graduated volume | meniscus eye level | above
+3 | irregular solid volume | water displacement | ruler alone
+3 | tiny cells instrument | microscope | telescope
+3 | distant planet instrument | telescope | microscope
+3 | tool wind speed | anemometer | vane
+3 | tool wind direction | vane | anemometer
+3 | tool rain amount | gauge | barometer
+3 | tool air pressure | barometer | thermometer
+3 | tool humidity | hygrometer | barometer
+3 | tool temperature | thermometer | ammeter
+3 | tool current | ammeter | voltmeter
+3 | tool voltage | voltmeter | ammeter
+3 | tool mass | balance | graduated cylinder
+3 | tool force | spring scale | balance volume
+3 | tool length | ruler meterstick | thermometer
+3 | tool elapsed time | stopwatch | ruler
+3 | tool earthquakes | seismograph | anemometer
+3 | field study | observe record minimize disturbance | destroy habitat
+3 | ethical animal | humane minimize harm | cruelty
+3 | reliable source | expert evidence peer reviewed | advertisement rumor
+3 | shipping improvement | greater food variety availability | less variety
+3 | refrigeration improvement | preserves food slower bacteria | kills all bacteria
+3 | communication improvement | faster information sharing | isolation

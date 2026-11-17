@@ -1,0 +1,1742 @@
+# Each line is one semantic concept: canonical term followed by its word aliases.
+increase increases increased increasing greater higher rising rises rise gain gains
+more additional extra
+least minimum smallest
+less fewer lesser
+decrease decreases decreased decreasing lower lowering reduced reduces reduce reduction declining declines decline drop drops
+change changes changed changing
+produce produces produced producing production generates generate generated makes yields yield
+require requires required requiring need needs needed necessary
+contain contains contained containing includes include including consists consisting
+absorb absorbs absorbed absorbing absorption
+release releases released releasing emit emits emitted emitting emission give gives
+store stores stored storing storage
+transfer transfers transferred transferring transmit transmits transmitted transmission
+carry carries carried carrying transport transports transported transporting
+break breaks broken breaking split splits splitting
+combine combines combined combining join joins joined joining
+separate separates separated separating separation
+not no never isn't aren't doesn't don't cannot can't without lacks lacking lack absent absence wasn't weren't didn't hasn't haven't hadn't won't wouldn't shouldn't couldn't mustn't needn't
+# Curly/modifier apostrophes split contractions into a stem and t under TOKEN.
+# Only unambiguous stems: do not treat can, don, won, haven, or t as negation.
+not isn aren wasn weren doesn didn hasn hadn wouldn shouldn couldn mustn needn
+except exception exceptions
+similar alike analogous similarities
+before earlier prior
+after afterward later
+cause causes caused causing
+result results resulting effect effects
+all entire whole everything
+survive survives surviving survival
+kill kills killed killing die dies died dying death dead
+live lives alive living life
+organism organisms
+animal animals
+plant plants
+human humans person people persons
+body bodies
+cell cells cellular
+nucleus nuclei
+membrane membranes
+cytoplasm cytoplasmic
+mitochondria mitochondrion mitochondrial
+chloroplast chloroplasts
+vacuole vacuoles
+ribosome ribosomes
+chromosome chromosomes
+protein proteins
+amino aminoacid
+lipid lipids fats fat
+carbohydrate carbohydrates
+starch starches
+sugar sugars
+glucose
+photosynthesis photosynthetic
+respiration respire respiratory
+reproduce reproduces reproducing reproduction reproductive
+asexual asexually
+sexual sexually
+fertilization fertilize fertilizes fertilized fertilizing
+pollination pollinate pollinates pollinated pollinating
+inherit inherited inherits inheritance heredity hereditary
+trait traits characteristic characteristics
+adaptation adaptations adapted adapt adapts adaptive
+mutation mutations mutate mutated
+evolve evolves evolved evolving evolution evolutionary
+gene genes genetic genetics
+dna deoxyribonucleic
+allele alleles
+recessive recessives
+dominant dominance
+offspring babies baby progeny
+young younger youngest juvenile juveniles
+parent parents parental
+species
+population populations
+community communities
+ecosystem ecosystems
+ecology ecological
+habitat habitats
+niche niches
+biotic biological
+abiotic nonliving
+biodiversity diversity
+predator predators
+prey
+consumer consumers
+producer producers autotroph autotrophs
+herbivore herbivores herbivorous
+carnivore carnivores carnivorous
+omnivore omnivores omnivorous
+decomposer decomposers decompose decomposes decomposed decomposing decomposition decay decays decayed decaying rot rots rotting
+scavenger scavengers
+compete competes competing competition competitive
+resource resources
+food foods nutrition nourishment
+nutrient nutrients
+energy energies
+sunlight sunshine
+sun
+solar
+root roots
+stem stems
+leaf leaves
+flower flowers flowering
+seed seeds
+fruit fruits
+pollen
+spore spores
+stomata stoma
+transpiration transpire
+chlorophyll
+xylem
+phloem
+vascular
+fertile fertility
+soil soils dirt
+bacteria bacterium bacterial
+fungus fungi fungal
+mushroom mushrooms
+algae alga algal
+microorganism microorganisms microbe microbes
+virus viruses viral
+disease diseases illness illnesses sick sickness
+infection infections infected infect infectious
+antibody antibodies
+vaccine vaccines vaccination vaccinations
+antibiotic antibiotics
+immune immunity
+blood bloodstream
+heart cardiac
+artery arteries
+vein veins
+capillary capillaries
+lung lungs
+breathe breathes breathing breath inhalation inhale inhaling
+exhale exhales exhalation exhaling
+oxygen o2
+dioxide co2
+carbon
+nitrogen n2
+hydrogen h2
+water h2o
+circulatory circulation cardiovascular
+digest digests digested digesting digestion digestive
+stomach stomachs
+intestine intestines intestinal
+kidney kidneys renal
+bladder
+excretion excretory excrete excretes excreted
+nervous nerve nerves neural
+brain brains
+spinal spine
+hormone hormones hormonal
+endocrine
+skin integumentary
+skeletal skeleton skeletons
+bone bones
+muscle muscles muscular
+contract contracts contracted contracting contraction
+relax relaxes relaxed relaxing
+joint joints
+cartilage
+ligament ligaments
+tendon tendons
+support supports supported supporting
+protect protects protected protecting protection
+structure structures structural
+function functions functional
+sense senses sensory sensation
+stimulus stimuli
+response respond responds responded responding
+reflex reflexes
+homeostasis
+sweat sweats sweating perspiration
+shiver shivers shivering
+exercise exercises exercising
+mammal mammals mammalian
+bird birds
+reptile reptiles reptilian
+amphibian amphibians
+fish fishes
+insect insects
+arachnid arachnids
+vertebrate vertebrates
+invertebrate invertebrates
+backbone backbones
+feather feathers
+fur furry
+hair hairs
+scale scales scaly
+wing wings
+fin fins
+leg legs
+gill gills
+egg eggs
+larva larvae larval
+pupa pupae
+adult adults
+metamorphosis
+butterfly butterflies
+caterpillar caterpillars
+frog frogs
+tadpole tadpoles
+mosquito mosquitoes
+beetle beetles
+ant ants
+bee bees
+spider spiders
+worm worms earthworm earthworms
+snail snails
+clam clams
+crab crabs
+lobster lobsters
+jellyfish
+sponge sponges
+whale whales
+bat bats
+dolphin dolphins
+lizard lizards
+snake snakes
+ turtle turtles
+crocodile crocodiles
+alligator alligators
+penguin penguins
+polar
+bear bears
+deer
+rabbit rabbits
+mouse mice
+fox foxes
+wolf wolves
+lion lions
+tiger tigers
+dog dogs
+cat cats
+cow cows cattle
+sheep
+horse horses
+camel camels
+cactus cacti
+conifer conifers
+pine pines
+evergreen evergreens
+fern ferns
+moss mosses
+grass grasses
+tree trees
+oak oaks
+maple maples
+wheat
+corn maize
+bean beans
+pea peas
+potato potatoes
+apple apples
+flowering angiosperm angiosperms
+nonflowering
+gymnosperm gymnosperms
+camouflage camouflaged camouflaging
+mimicry mimic mimics
+hibernate hibernates hibernating hibernation
+migrate migrates migrated migrating migration
+extinct extinction
+endangered threatened
+fossil fossils fossilized
+fossilization petrification
+evidence evidences
+ancestor ancestors ancestral
+natural naturally
+select selection selective
+artificial artificially
+classification classify classifies classified classifying taxonomy
+kingdom kingdoms
+phylum phyla
+genus genera
+scientific science
+experiment experiments experimentation investigation investigations
+control controls controlled
+variable variables
+independent manipulated
+ dependent
+constant constants unchanged
+hypothesis hypotheses
+predict predicts predicted predicting prediction predictions
+observe observes observed observing observation observations
+measure measures measured measuring measurement measurements
+accurate accuracy
+precise precision
+repeat repeats repeated repeating repetition replicate replicated replication
+reliable reliability
+valid validity
+conclusion conclusions conclude concludes
+explain explains explained explaining explanation explanations
+model models modeling
+compare compares compared comparing comparison
+test tests tested testing
+fair fairness
+sample samples sampling
+average mean
+record records recorded recording
+chart charts table tables
+ graph graphs graphing
+thermometer thermometers
+balance balances
+ruler rulers
+microscope microscopes microscopic
+magnify magnifies magnified magnification
+lens lenses
+telescope telescopes
+barometer barometers
+anemometer anemometers
+hygrometer hygrometers
+graduated
+cylinder cylinders
+beaker beakers
+volume volumes
+mass masses
+weight weights weigh weighs weighing
+length lengths
+distance distances
+time times timing
+second seconds
+minute minutes
+hour hours
+day days daily
+month months monthly
+year years yearly
+annual annually
+meter meters metre metres
+centimeter centimeters centimetre centimetres
+millimeter millimeters
+kilometer kilometers kilometre kilometres
+gram grams
+kilogram kilograms
+liter liters litre litres
+milliliter milliliters
+newton newtons
+joule joules
+watt watts
+celsius centigrade
+fahrenheit
+kelvin
+percent percentage
+ratio ratios
+rate rates
+safety safe safely
+unsafe dangerous danger hazard hazardous
+lab laboratory laboratories
+chemical chemicals
+goggle goggles
+ glove gloves
+wash washes washed washing
+clean cleans cleaned cleaning
+spill spills spilled
+burn burns burned burning combustion
+flame flames
+poison poisonous toxic toxicity
+smell smells smelled smelling olfactory olfaction
+sniff sniffs sniffing
+breathe inhaled
+motion move moves moved moving movement
+speed speeds
+velocity velocities
+fast faster fastest rapid rapidly quickly quick
+slow slower slowest slowly
+acceleration accelerates accelerate accelerated accelerating
+force forces
+push pushes pushing pushed
+pull pulls pulling pulled
+friction frictional
+rough rougher roughest
+smooth smoother smoothest
+lubricant lubricants lubricate lubrication oiling
+inertia inertial
+momentum
+gravity gravitation gravitational
+attract attracts attracted attracting attraction
+repel repels repelled repelling repulsion
+magnet magnets magnetic magnetism
+north northern
+south southern
+east eastern
+west western
+pole poles
+compass compasses
+electric electricity electrical
+charge charges charged charging
+positive positively
+negative negatively
+neutral neutrally
+static
+current currents
+circuit circuits circuitry
+closed
+open opens opened
+close closes closing
+complete completes completed completing completion
+incomplete
+series
+parallel
+battery batteries
+bulb bulbs
+wire wires wiring
+switch switches
+resistance resistor resistors resistivity
+voltage potentialdifference
+volt volts
+ampere amperes amps
+conduct conductor conductors conducting conductive conductivity
+insulate insulator insulators insulating insulation
+metal metals metallic
+copper
+aluminum aluminium
+iron
+steel
+silver
+gold
+rubber
+plastic plastics
+wood wooden
+ceramic ceramics
+ glass glasses
+heat heats heated heating thermal
+hot hotter hottest warm warmer warmest warming
+cold colder coldest cool cooler coolest cooling cools cooled
+ temperature temperatures
+conduction
+convection
+radiation radiate radiates radiated radiating radiant
+expand expands expanded expanding expansion
+air
+fluid fluids
+liquid liquids
+solid solids
+gas gases gaseous
+plasma
+particle particles
+molecule molecules molecular
+atom atoms atomic
+element elements elemental
+compound compounds
+mixture mixtures mix mixed mixing
+solution solutions
+dissolve dissolved dissolves dissolving dissolution
+solute solutes
+solvent solvents
+soluble solubility
+insoluble
+saturate saturated saturation
+concentrated concentration concentrations
+ dilute diluted dilution
+acid acids acidic acidity
+base bases basic alkaline alkalinity
+alkali
+ph
+indicator indicators
+litmus
+neutralize neutralizes neutralized neutralization
+salt salts saline
+sodium
+chlorine
+chloride
+calcium
+potassium
+magnesium
+sulfur sulphur
+phosphorus
+phosphate phosphates
+helium
+neon
+argon
+silicon
+mercury
+lead
+zinc
+cobalt
+nickel
+uranium
+proton protons
+electron electrons electronic
+neutron neutrons
+isotope isotopes
+ion ions ionic
+covalent
+bond bonds bonded bonding
+react reacts reacting reacted reaction reactions
+reactant reactants
+product products
+catalyst catalysts catalytic
+enzyme enzymes enzymatic
+conserve conserves conserved conserving conservation
+physical physically
+property properties
+characteristic characteristics
+ density densities dense denser densest
+displace displaces displaced displacement
+float floats floated floating
+buoyancy buoyant
+sink sinks sank sunk sinking
+pressure pressures
+compress compressed compression compressible
+incompressible
+elastic elasticity
+hard hardness
+flexible flexibility
+brittle brittleness
+transparent transparency
+translucent
+opaque
+shiny lustrous luster lustre
+melting melt melts melted
+freezing freeze freezes frozen
+boiling boil boils boiled
+evaporation evaporate evaporates evaporated evaporating
+condensation condense condenses condensed condensing
+sublimation sublime sublimes
+ deposition deposit deposits deposited depositing
+precipitation precipitate precipitates precipitated
+vapor vapour vapors
+steam
+ice icy
+snow snowy
+rain rains raining rainfall
+hail
+sleet
+frost
+fog foggy
+cloud clouds cloudy
+humidity humid
+cycle cycles cycling
+weather
+climate climatic
+wind winds windy
+breeze breezes
+storm storms stormy
+hurricane hurricanes
+ tornado tornadoes tornados
+thunder
+thunderstorm thunderstorms
+lightning
+front fronts
+atmosphere atmospheric
+troposphere
+stratosphere
+ozone
+ultraviolet uv
+infrared
+visible
+light lights
+sound sounds
+wave waves
+wavelength wavelengths
+frequency frequencies
+amplitude amplitudes
+vibrate vibrates vibrating vibration vibrations
+pitch pitches
+loud louder loudest loudness
+soft softer softest
+reflection reflect reflects reflected reflecting
+refraction refract refracts refracted refracting
+ diffraction diffract diffracted
+interference
+transverse
+longitudinal compressionwave
+perpendicular
+vacuum
+medium media
+prism prisms
+mirror mirrors
+convex
+concave
+focus focuses focused focusing focal
+spectrum spectra
+rainbow rainbows
+red reddish
+orange
+yellow
+ green
+blue
+violet purple
+black
+white
+shadow shadows
+color colors colour colours coloration
+kinetic
+potential
+mechanical
+chemical
+nuclear
+renewable
+nonrenewable
+fuel fuels
+coal
+oil petroleum
+gasoline petrol diesel
+geothermal
+hydroelectric hydropower
+biomass
+ turbine turbines
+ generator generators
+engine engines
+motor motors
+work working
+power powers powered
+machine machines
+simple
+lever levers
+fulcrum fulcrums
+pulley pulleys
+ramp ramps
+inclined incline
+plane planes
+wheel wheels
+axle axles
+wedge wedges
+screw screws
+gear gears
+advantage advantages
+ efficiency efficient
+input inputs
+output outputs
+height heights
+surface surfaces
+area areas
+ earth terrestrial
+planet planets planetary
+moon moons lunar
+orbit orbits orbited orbiting orbital revolve revolves revolved revolving revolution
+rotate rotates rotated rotating rotation spin spins spinning
+axis axes axial
+ tilt tilted tilting
+season seasons seasonal
+spring springs
+summer summers
+fall falls fell fallen falling
+ autumn autumnal
+winter winters
+solstice solstices
+equinox equinoxes
+equator equatorial
+latitude latitudes
+longitude longitudes
+hemisphere hemispheres
+continent continents continental
+ ocean oceans oceanic sea seas
+lake lakes
+river rivers
+stream streams
+pond ponds
+freshwater
+saltwater
+shore shores shoreline coast coasts coastal
+beach beaches
+estuary estuaries
+wetland wetlands swamp swamps marsh marshes
+ desert deserts
+tundra
+forest forests
+rainforest rainforests
+grassland grasslands
+prairie prairies
+savanna savannas
+mountain mountains mountainous
+valley valleys
+plateau plateaus
+plain plains
+canyon canyons
+island islands
+volcano volcanoes volcanic volcanism
+earthquake earthquakes seismic
+fault faults
+plate plates tectonic tectonics
+crust crustal
+mantle
+core
+lithosphere
+asthenosphere
+magma
+lava
+rock rocks
+mineral minerals
+igneous
+sedimentary
+metamorphic
+sediment sediments
+sand sands sandy
+silt silts
+clay clays
+humus
+bedrock
+ granite granitic
+basalt basaltic
+pumice
+obsidian
+limestone
+sandstone
+shale
+marble
+slate
+quartz
+feldspar
+mica
+crystal crystals crystalline crystallize crystallization
+weathering weathered
+ erosion erode erodes eroded eroding
+ glacier glaciers glacial
+delta deltas
+meander meanders
+landslide landslides
+runoff
+watershed watersheds
+groundwater
+aquifer aquifers
+permeable permeability
+porous porosity
+impermeable
+well wells
+waterfall waterfalls
+cave caves cavern caverns
+stalactite stalactites
+stalagmite stalagmites
+flood floods flooding flooded
+drought droughts
+renew renews renewed
+pollution pollutant pollutants pollute pollutes polluted polluting
+recycle recycles recycled recycling
+reuse reuses reused reusing
+landfill landfills
+deforestation
+greenhouse
+warming
+fossilfuel fossilfuels
+sustainable sustainability
+astronomy astronomical
+star stars stellar
+constellation constellations
+galaxy galaxies galactic
+universe universal
+nebula nebulae
+supernova supernovae
+comet comets
+asteroid asteroids
+meteor meteors
+meteorite meteorites
+meteoroid meteoroids
+satellite satellites
+mercury
+venus
+mars martian
+jupiter
+saturn
+uranus
+neptune
+pluto
+eclipse eclipses
+tide tides tidal
+crescent
+quarter quarters
+full
+waxing
+waning
+lightyear
+fusion fusing
+fission
+radioactive radioactivity
+half halved
+halfway
+paleontology
+paleontologist paleontologists
+archaeology
+archaeologist archaeologists
+geology
+geologist geologists
+meteorology
+meteorologist meteorologists
+astronaut astronauts
+technology technologies technological
+engineering
+engineer engineers
+communication communicate communicates communicating
+shipping ship ships shipped
+available availability
+variety varieties
+refrigerator refrigerators refrigeration
+messages message messenger messengers
+hide hides hiding concealed conceal
+retain retains retained retaining
+permanent permanently
+ temporary temporarily
+thick thicker thickest
+thin thinner thinnest
+wet wetter
+ dry drier driest
+nutrition nutritious nutritional
+vitamin vitamins
+calorie calories
+fiber fibre
+oxygenated
+deoxygenated
+automatic automatically
+voluntary voluntarily
+involuntary involuntarily
+symbiosis symbiotic
+mutualism
+commensalism
+parasitism parasite parasites parasitic
+host hosts
+territory territorial
+courtship
+instinct instinctive instinctual
+learn learned learning
+behavior behaviors behavioural behavioral
+fertilizer fertilizers fertiliser fertilisers
+pesticide pesticides insecticide insecticides
+pollen
+nectar
+dispersal disperse disperses dispersed
+germination germinate germinates germinating
+sprout sprouts sprouting
+cotyledon cotyledons
+embryo embryos embryonic
+seedling seedlings
+monocot monocots
+dicot dicots
+biennial
+perennial perennials
+annual
+budding bud buds
+binary
+fission
+mitosis mitotic
+meiosis meiotic
+identical
+haploid
+diploid
+sperm sperms
+ovum ova
+zygote zygotes
+selective
+dominance
+hybrid hybrids
+purebred
+heterozygous
+homozygous
+phenotype phenotypes
+ genotype genotypes
+punnett
+probability probabilities
+percent
+ratio
+allele
+flagellum flagella
+cilia cilium
+unicellular
+multicellular
+prokaryote prokaryotes prokaryotic
+eukaryote eukaryotes eukaryotic
+protist protists
+amoeba amoebas
+paramecium paramecia
+osmosis osmotic
+diffusion diffuse diffuses diffused diffusing
+permeate permeates permeated
+selectively
+active actively
+passive passively
+atp
+adenosine
+anaerobic
+aerobic
+fermentation ferment ferments fermenting
+yeast yeasts
+alcohol ethanol
+lactic
+saliva salivary
+esophagus oesophagus
+liver livers
+pancreas pancreatic
+bile
+villi villus
+trachea tracheas windpipe
+bronchi bronchus bronchial
+alveoli alveolus
+diaphragm
+hemoglobin haemoglobin
+platelet platelets
+clot clots clotting
+lymph lymphatic
+spleen
+tonsil tonsils
+pituitary
+thyroid
+adrenal
+insulin
+glucagon
+diabetes
+neuron neurons
+synapse synapses
+cerebrum
+cerebellum
+medulla
+retina retinas
+cornea corneas
+iris irises
+pupil pupils
+cochlea
+ eardrum eardrums
+vaccination
+pathogen pathogens pathogenic
+contagious
+sterile sterilize sterilization
+resistant
+resist resistive
+balanced
+unbalanced
+opposite opposites
+ equal equals equally
+unequal
+net
+rest resting stationary
+horizontal horizontally
+vertical vertically
+up upward upwards
+ down downward downwards
+forward forwards
+backward backwards
+right
+left
+clockwise
+counterclockwise
+circular
+centripetal
+centrifugal
+pendulum pendulums
+oscillate oscillates oscillating oscillation
+period periods
+periodic
+elasticity
+stretch stretches stretched stretching
+spring
+compression
+tension
+collision collisions collide collides collided colliding
+impulse
+acceleration
+freefall
+projectile projectiles
+terminal
+hydraulic hydraulics
+pneumatic pneumatics
+bernoulli
+pascal pascals
+archimedes
+ohms ohm
+ampere amp
+faraday
+induction induced
+transformer transformers
+alternating
+ direct directly
+semiconductor semiconductors
+superconductor superconductors
+electromagnet electromagnets
+electromagnetic electromagnetism
+solenoid solenoids
+ filament filaments
+fuse
+shortcircuit
+electrocute electrocution
+joule
+watt
+kilowatt kilowatts
+thermal
+specific
+latent
+endothermic
+exothermic
+entropy
+absolute
+zero
+kelvin
+bond
+oxidation oxidize oxidizes oxidized oxidizing
+rust rusts rusted rusting
+corrosion corrode corrodes corroded
+flammable flammability combustible
+inert
+periodic
+period
+group groups
+valence
+alkali
+halogen halogens
+noble
+alkaline
+octet
+diatomic
+formula formulas formulae
+symbol symbols
+coefficient coefficients
+subscript subscripts
+atomic
+molecular
+ionic
+covalent
+polar
+nonpolar
+organic
+inorganic
+hydrocarbon hydrocarbons
+methane
+butane
+propane
+polymer polymers
+monomer monomers
+plastic
+rubber
+petroleum
+solute
+solvent
+distillation distill distilled distilling
+filtration filter filters filtered filtering
+chromatography
+centrifuge centrifuges
+settle settles settled settling
+sieve sieves
+melting
+freezing
+condensation
+evaporation
+sublimation
+deposition
+ precipitation
+ precipitation
+redshift
+blueshift
+doppler
+big
+bang
+expansion
+elliptical ellipse ellipses elliptic
+elliptic
+spiral
+irregular
+milky
+andromeda
+centauri
+polaris
+sirius
+betelgeuse
+proxima
+dwarf dwarfs dwarves
+giant giants
+supergiant
+blackhole
+neutron
+quasar quasars
+pulsar pulsars
+heliocentric
+geocentric
+kepler
+copernicus
+galileo
+newtonian
+einstein
+hubble
+continental
+pangaea pangea
+convergent converge converging
+divergent diverge diverging
+transform
+subduction subduct subducting
+ridge ridges
+trench trenches
+rift rifts
+seafloor
+uplift
+fold folds folded folding
+compression
+strata stratum
+layer layers layering
+superposition
+intrusion intrusions
+extrusion extrusions
+unconformity unconformities
+relative
+absolute
+radiometric
+carbon14
+index
+imprint imprints
+mold molds mould moulds
+cast casts
+amber
+petrified
+trace traces
+sedimentation
+compaction compact compacted compacting
+cementation cement cemented cementing
+recrystallization
+foliation foliated
+nonfoliated
+mohs
+streak streaks
+cleavage cleave
+fracture fractures
+lustrous
+salinity
+brackish
+upwelling
+thermohaline
+coriolis
+el
+nino
+la
+nina
+monsoon monsoons
+prevailing
+trade trades
+westerlies
+jet
+stream
+isobar isobars
+isotherm isotherms
+cumulus
+cirrus
+stratus
+cumulonimbus
+nimbus
+dew
+point points
+psychrometer psychrometers
+rainwater
+hydrosphere
+biosphere
+geosphere
+mesosphere
+thermosphere
+exosphere
+ionosphere
+barometric
+continentality
+altitude altitudes elevation elevations
+leeward
+windward
+rainshadow
+albedo
+reflectivity
+radiant
+longitude
+latitude
+meridian meridians
+prime
+international
+date
+line lines
+latitude
+solstice
+equinox
+aphelion
+perihelion
+apogee
+perigee
+rotation
+revolution
+season
+ellipse
+elliptical
+rotation
+axis
+# Additional everyday wording and numerical concepts.
+grow grows grew grown growing growth
+develop develops developed developing development
+organelle organelles
+mature maturity
+location locations site sites place places
+amount amounts quantity quantities
+number numbers
+phase phases
+state states
+produce form forms formed forming formation
+remove removes removed removing removal
+enter enters entered entering entry
+leave leaving exit exits exiting
+flow flows flowed flowing
+travel travels traveled travelling traveling
+turn turns turned turning
+rotate rotational
+orbit revolving
+largest maximum maximal biggest greatest
+small smaller tiny
+large larger huge enormous
+identical same equivalent
+high highest
+low lowest
+far farther farthest distant distantest
+near nearer nearest closest closer
+long longer longest
+short shorter shortest
+thick thickness
+thin thinness
+wide wider widest
+narrow narrower narrowest
+strong stronger strongest strength
+weak weaker weakest
+bright brighter brightest brightness
+dim dimmer dimmest
+heavy heavier heaviest
+lightweight lighter lightest
+hardness
+scratch scratches scratching scratched
+leaf foliage
+surface exterior
+inside interior internal
+outside external
+center central centre
+bottom lowerbottom
+upper top uppermost
+bottom lowermost
+red bloodedred
+oval ovoid
+round rounded circularshape
+straight
+curved curve curves curvature
+concave concavity
+convex convexity
+elastic stretchy
+melt molten
+freshwater fresh
+saltwater marine
+terrestrial landdwelling
+marine aquaticmarine
+lightyear lightyears
+hour hr hrs
+second sec secs
+minute min mins
+centimeter cm
+millimeter mm
+kilometer km
+kilogram kg
+gram g
+liter l
+milliliter ml
+celsius c
+fahrenheit f
+kelvin k
+joule j
+watt w
+newton n
+volt v
+hertz hz
+one 1 single lone
+two 2 double twice
+three 3 triple
+four 4
+five 5
+six 6
+seven 7
+eight 8
+nine 9
+ten 10
+twelve 12
+twentyfour 24
+twentynine 29
+thirtytwo 32
+hundred 100
+threehundredsixtyfive 365
+seventyeight 78
+twentyone 21
+twohundredtwelve 212
+twentythree 23
+first 1st
+second 2nd
+third 3rd
+fourth 4th
+fifth 5th
+sixth 6th
+seventh 7th
+eighth 8th
+ninth 9th
+tenth 10th
+none nothing
+half halves
+quarter fourths
+noon midday
+sunrise dawn
+sunset dusk
+daylight daytime
+night nighttime
+opaque opacity
+transparent clear
+definite fixed
+indefinite variableamount
+speed rapidity
+matter substance substances
+object objects
+material materials
+fruit fleshyfruit
+species taxon
+redshift redshifted
+blueshift blueshifted
+breathe inhalation
+exhale exhaled
+poison toxicant
+sweat perspire perspiring
+star starlight
+sun sunlightstar
+largest biggest
+magnetism magneticfield
+field fields
+chemical chemistry
+weightless weightlessness
+compress compression compressing
+consume consumes consumed consuming consumption
+eat eats eaten eating ate
+feed feeds fed feeding
+fall downwardmotion
+rain gaugegauge
+heat heating
+cool cooling
+humid humidity
+attract attraction
+repel repulsion
+burn fireburning
+heat warmth
+convection circulationcurrent
+hotspot hotspots
+current amperage
+inference infer infers inferred
+observation observableobservation
+opinion opinions
+reproducible reproducibility
+calibrate calibrates calibrated calibration
+repeat replicates reproducereplicate
+accurate exact
+procedures procedure
+protocol protocols
+error errors
+trend trends
+pattern patterns
+role roles
+purpose purposes
+criterion criteria
+constraint constraints
+create creates created creating creation
+build builds built building
+assemble assembles assembled
+construct constructs constructed construction
+repair repairs repaired repairing
+synthesize synthesizes synthesized synthesis
+store reserve reserves
+preserve preserves preserved preserving preservation
+block blocks blocked blocking
+limit limits limited limiting
+extinguish extinguishes extinguished
+ignite ignites ignition
+harmless
+harm harms harmful
+benefit benefits beneficial
+risk risks risky
+expose exposes exposed exposure
+shield shields shielding
+strengthen strengthens strengthened
+weaken weakens weakened
+improve improves improved improving improvement improvements
+supply supplies supplied supplying
+vary varies varied varying variation
+variety diversityof
+retain retention
+seal sealed sealing
+transparent transparently
+opaque opaquely
+new newer newest
+old older oldest ancient
+class classes
+astronomer astronomers
+biologist biologists
+botanist botanists
+zoologist zoologists
+chemist chemists
+physicist physicists
+ecologist ecologists
+anatomy anatomical
+physiology physiological
+thousand 1000
+sixty 60
+fourteen 14
+sixteen 16
+astronomical astronomy
+# Additional surface forms, deliberately keeping related scientific nouns distinct.
+prevent prevents prevented preventing prevention
+stop stops stopped stopping
+start starts started starting
+remain remains remained remaining
+continue continues continued continuing
+destroy destroys destroyed destroying destruction
+damage damages damaged damaging
+disappear disappears disappeared disappearing disappearance
+appear appears appeared appearing
+escape escapes escaped escaping
+spread spreads spreading
+solidify solidifies solidified solidifying solidification
+vaporization vaporize vaporizes vaporized vaporizing
+thaw thaws thawed thawing
+cool cools
+heat reheat reheats reheated
+light lit lighted lighting
+sound audible
+illuminate illuminates illuminated illumination
+vibrate vibrated
+rub rubs rubbed rubbing
+slide slides sliding slid
+roll rolls rolled rolling
+bounce bounces bounced bouncing
+strike strikes struck striking
+hit hits hitting
+throw throws thrown throwing threw
+lift lifts lifted lifting
+suspend suspends suspended suspending
+hang hangs hanging hung
+fall dropped
+dropper droppers eyedropper eyedroppers
+attach attaches attached attaching
+wrap wraps wrapped wrapping
+cover covers covered covering
+coat coats coated coating
+paint paints painted painting
+stir stirs stirred stirring
+crush crushes crushed crushing
+cut cuts cutting
+tear tears torn tearing
+grind grinds grinding
+shatter shatters shattered shattering
+bend bends bent bending
+leak leaks leaked leaking leakage
+refract refracting refracted
+spill spilling
+smell smelled
+freeze froze
+lose loses lost losing loss losses
+win wins won winning
+add adds added adding addition
+subtract subtracts subtracted subtracting subtraction
+multiply multiplies multiplied multiplying multiplication
+divide divides divided dividing division
+increase enlarged enlarges enlargement
+increase raised raises
+decrease shrink shrinks shrinking shrank shrunk
+source sources
+factor factors
+condition conditions
+relationship relationships
+interaction interactions interact interacts interacting
+connection connections connected connecting connect
+depend depends depended depending dependence
+require requirement requirements
+interpret interprets interpreted interpreting interpretation
+identify identifies identified identifying identification
+investigate investigates investigated investigating
+obtain obtains obtained obtaining
+collect collects collected collecting collection
+detect detects detected detecting detection
+prove proves proved proven proving proof
+believe believes believed believing belief beliefs
+accurate accurately
+precise precisely
+reliable reliably
+repeat retest retests retested retesting
+trial trials
+setup setups
+treatment treatments
+untreated
+experimental experimentally
+represent represents represented representing representation
+simulate simulates simulated simulating simulation simulations
+design designs designed designing
+revise revises revised revising revision
+replace replaces replaced replacing replacement
+replenish replenishes replenished replenishing replenishment
+restore restores restored restoring restoration
+deplete depletes depleted depleting depletion
+dispose disposes disposed disposing disposal
+garbage trash rubbish litter
+waste wastes wasted wasting
+packaging package packages packaged
+compost composting composted
+contaminate contaminates contaminated contaminating contamination contaminants contaminant
+purify purifies purified purifying purification
+disinfect disinfects disinfected disinfecting disinfectant disinfectants
+refrigerate refrigerates refrigerated refrigerating
+cook cooks cooked cooking
+bake bakes baked baking
+spoil spoils spoiled spoiling spoilage
+harvest harvests harvested harvesting
+hunt hunts hunted hunting
+graze grazes grazed grazing
+drink drinks drinking drank
+burrow burrows burrowing
+nest nests nesting
+shelter shelters sheltered sheltering
+hollow hollows
+nocturnal nocturnally
+diurnal diurnally
+aquatic
+beak beaks
+claw claws
+hoof hooves
+webbed webbing
+flipper flippers
+blubber
+whisker whiskers
+bark barks
+broad broadleaf broadleaved
+needle needles
+succulent succulents
+deciduous deciduousness
+dormant dormancy
+cotton cottons
+wool woolen woollen
+fabric fabrics cloth cloths textile textiles
+paper papers
+cardboard
+styrofoam polystyrene
+foam foams
+sponge spongy
+rust rusty
+corrode corroded
+reflective
+magnetize magnetized magnetizing magnetization
+insoluble undissolved
+viscosity viscous
+adhesion adhesive
+cohesion cohesive
+# Liquid capillarity is not a synonym for a blood capillary.
+capillarity
+buoyancy buoyantly
+hemisphere hemispheric
+crater craters
+probe probes
+rover rovers
+eject ejected ejects ejecting
+erupt erupts erupted erupting eruption eruptions
+shake shakes shaken shaking shook
+tilt tilts
+collide collided
+bury buries buried burying burial
+rainstorm rainstorms
+blizzard blizzards
+torrential
+permafrost
+savanna savannah savannahs
+marsh marshland
+coral corals
+reef reefs
+phytoplankton
+zooplankton
+plankton planktons
+krill
+bloom blooms blooming
+pest pests
+rodent rodents
+raptor raptors
+hawk hawks
+owl owls
+eagle eagles
+squirrel squirrels
+raccoon raccoons
+opossum opossums
+walrus walruses
+otter otters
+beaver beavers
+hummingbird hummingbirds
+woodpecker woodpeckers
+sparrow sparrows
+grasshopper grasshoppers
+cricket crickets
+locust locusts
+ladybug ladybugs
+aphid aphids
+tick ticks
+flea fleas
+leech leeches
+shark sharks
+salmon salmons
+trout trouts
+tuna tunas
+seahorse seahorses
+starfish seastars
+urchin urchins
+squid squids
+octopus octopuses
+salamander salamanders
+newt newts
+toad toads
+kangaroo kangaroos
+marsupial marsupials
+chameleon chameleons
+zebra zebras
+elephant elephants
+rhino rhinoceros rhinoceroses
+acacia acacias
+mangrove mangroves
+spruce spruces
+fir firs
+larch larches
+clover clovers
+sunflower sunflowers
+dandelion dandelions
+burdock burdocks
+coconut coconuts
+bamboo bamboos
+kelp kelps
+lichen lichens
+mold moldy mouldy
+amoeba amoebae
+skeleton endoskeleton
+exoskeleton exoskeletons
+molt molts molted molting moult moults moulting
+appendage appendages
+antenna antennae antennas
+spiracle spiracles
+nymph nymphs
+daughter daughters
+clone clones cloning cloned
+acquired acquire acquires acquiring
+scar scars scarred
+behavior behave behaves behaving
+fertilize fertilisation
+pollinator pollinators
+migrate migratory
+insulate insulated
+energy energetic
+# Irregular plurals, common variants, and tokenized scientific notation.
+zero 0
+fortysix 46
+fifty 50
+twentyfive 25
+seventyfive 75
+threehundred 300
+fourhundred 400
+eighth eighths
+sixteenth sixteenths
+foot feet
+tooth teeth
+goose geese
+leaf leafs
+knife knives
+shelf shelves
+half halving
+lifespan lifespans
+internal internally
+external externally
+not non
+hold holds held holding
+put puts putting
+set sets setting
+sit sits sitting
+stand stands standing stood
+ride rides riding ridden rode
+walk walks walked walking
+run runs running ran
+jump jumps jumped jumping
+swim swims swimming swam swum
+fly flies flying flew flown
+swing swings swinging swung
+extinguish smother smothers smothered
+examine examines examined examining
+apply applies applied applying application applications
+conductivity conductance
+movable moveable
+nonmagnetic nonmagnetized
+proportion proportions proportional proportionality
+inverse inversely
+biodegradable biodegradability
+nonbiodegradable
+suffocate suffocates suffocated suffocation
+photosynthesis photosynthesize photosynthesizes photosynthesizing
+respiration respired respiring
+vaporization vaporisation
+fertilization fertilisation
+crystallization crystallise crystallize crystallized crystallised
+recrystallization recrystallize recrystallized
+sedimentation sedimented
+unfertilized
+fertilized fertilised
+unbalanced imbalance
+denature denatures denatured denaturing
+coagulate coagulated coagulation
+emulsify emulsifies emulsified emulsifying emulsification
+neutralize neutralising
+acidify acidifies acidified acidification
+oxidation oxidisation
+radiometric radiometrically
+thermoregulation thermoregulate
+locomotion
+hydrotropism hydrotropic
+gravitropism gravitropic geotropism geotropic
+phototropism phototropic
+tropism tropisms
+thigmotropism thigmotropic
+toward towards
+trachea tracheal
+endotherm endotherms
+ectotherm ectotherms
+insectivore insectivores insectivorous
+frugivore frugivores
+nectarivore nectarivores
+# Relational selectors must survive grammatical filtering.
+above
+below beneath underneath
+last final
+initial initially
+# Distinct descriptive concepts used by qualified science rules.
+finish finishes finished finishing
+advance advances advanced advancing
+retreat retreats retreated retreating
+weighted
+abundance abundances
+insufficient
+sufficient
+intercept intercepts intercepted intercepting
+alignment align aligned aligning
+# Alternate spellings for existing concepts; no scientific distinctions merged.
+behavior behaviour behaviours
+colorful colourful
+odor odour odours
+airplane aeroplane aeroplanes
+label labels labeled labelled labeling labelling
+cancel cancels canceled cancelled canceling cancelling
+oxidation oxidise oxidises oxidised oxidising
+focus focussed focussing
+# Solution chemistry: preserve related but distinct quantities and mixtures.
+mole moles
+molarity molarities
+molality molalities
+colloid colloids colloidal
+suspension suspensions
+emulsion emulsions
+emulsifier emulsifiers
+sulfide sulfides sulphide sulphides
+hydrate hydrated hydration
+enthalpy enthalpies

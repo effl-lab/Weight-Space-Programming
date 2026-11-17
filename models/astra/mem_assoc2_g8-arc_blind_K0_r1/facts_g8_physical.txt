@@ -1,0 +1,340 @@
+# Descriptive physical science and concrete applications.
+# Signs refer to answer concepts; negative scales keep contextual rules pair-only.
+# Matter identification and separation.
+substance fixed composition | pure element compound
+substance variable composition | mixture
+substance one atom type | element
+substance bonded elements | compound
+mixture visibly different | heterogeneous
+mixture uniformly distributed | homogeneous solution
+solution transparent | dissolved particles homogeneous
+suspension cloudy | dispersed particles settling
+colloid light scattering | tyndall effect
+colloid particles | dispersed intermediate size
+fog colloid | liquid droplets gas
+smoke colloid | solid particles gas
+foam colloid | gas bubbles liquid
+milk emulsion | fat droplets water
+mayonnaise emulsion | oil droplets water
+emulsion stabilizer | emulsifier detergent
+sand suspension | settling filtration
+salt solution clear | dissolved ions
+sugar solution clear | dissolved molecules
+salt dissolved recovered | evaporation crystallization
+sugar dissolved recovered | evaporation crystallization
+salt sand mixture | dissolve filter evaporate
+iron sulfur @mixture | magnet physical separation
+iron sulfur @heated | iron sulfide chemical compound
+sand gravel separation | sieve size
+rice flour separation | sieve particle size
+wheat chaff separation | winnowing wind density
+oil water separation | immiscible separating funnel
+mud water separation | settling filtration decanting
+tea leaves separation | strainer filtration
+coffee grounds separation | filter insoluble particles
+blood centrifuge | density separation components
+cream milk separation | centrifugation density
+ink pigments separation | chromatography solubility attraction
+leaf pigments separation | chromatography
+chromatography stationary | paper adsorption
+chromatography mobile | solvent movement
+chromatography soluble | farther movement solvent
+chromatography origin pencil | insoluble mark
+chromatography solvent below | spot separation preserved
+alcohol water separation | distillation boiling differences
+seawater freshwater separation | distillation desalination
+fractional distillation petroleum | boiling point differences
+fractional distillation air | boiling point differences
+recrystallization purity | soluble impurity separation
+filter residue | trapped insoluble solid
+filter filtrate | liquid passed through
+filtration dissolved salt | passes through | removed | -1.0
+distillation collected liquid | condensate distillate
+condensate condenser | vapor cooling liquid
+evaporating basin | solute recovery heating
+magnetic separation | iron steel attraction
+flotation separation | density buoyancy differences
+# Physical properties tied to evidence.
+material scratched | hardness
+material hammered sheets | malleability
+material drawn wires | ductility
+material @returns shape | elasticity
+material @snaps bending | brittleness
+material bends @readily | flexibility
+material @resists bending | stiffness
+material withstands pulling | tensile strength
+material transmits electricity | electrical conductivity
+material transmits heat | thermal conductivity
+material dissolves solvent | solubility
+material @floats liquid | lower average density
+material @sinks liquid | greater average density
+material excludes water | waterproof impermeable
+material absorbs water | porous absorbent
+material water beads | hydrophobic surface
+material shiny reflection | gloss reflective surface
+metal hammered sheet | malleability
+metal stretched wire | ductility
+copper wiring property | conductivity ductility
+aluminum foil property | malleability
+steel bridge property | strength
+rubber band property | elasticity
+ceramic plate property | hardness brittleness
+paper towel property | absorbency
+rubber boot property | waterproof flexibility
+glass window property | transparency
+plastic raincoat property | waterproof flexibility
+sponge cleaning property | porosity absorbency
+wood boat property | buoyancy density
+foam packaging property | cushioning lightweight
+cast iron pan property | heat capacity durability
+aluminum aircraft property | low density strength
+tungsten filament property | high melting temperature
+@chromium @plating property | protective coating resistance | corrosion | -1.0
+@stainless @steel property | durable chromium oxide resistance | corrosion | -1.0
+copper patina | oxidation chemical change
+silver tarnish | sulfide chemical change
+iron rust | oxidation oxygen water
+rust prevention painting | oxygen water barrier
+rust prevention oiling | moisture oxygen barrier
+galvanized iron | zinc corrosion protection
+alloy steel | iron carbon mixture
+alloy brass | copper zinc
+alloy bronze | copper tin
+alloy properties | mixture modified strength hardness
+polymer | long chain repeating monomers
+plastic polymer | long molecular chains
+ceramic production | fired inorganic clay
+composite material | combined components properties
+reinforced concrete | steel tension concrete compression
+# Particle and reaction descriptions.
+atom empty space | small dense nucleus
+atom electron cloud | negative charge outside nucleus
+atom nucleus constituents | protons neutrons
+proton positive charge | nucleus
+neutron neutral charge | nucleus
+electron negative charge | outside nucleus
+atomic identity | proton number
+atomic mass number | protons neutrons sum
+atomic number | proton count
+isotopes same element | identical protons different neutrons
+isotope chemical behavior | electron arrangement similar
+ion electron @loss | positive cation
+ion electron @gain | negative anion
+cation | positively charged ion
+anion | negatively charged ion
+@neutral atom charge | equal protons electrons
+@positive ion electrons | fewer than protons
+@negative ion electrons | more than protons
+chemical bonding electrons | valence outer shell
+covalent bond electrons | shared pairs
+ionic bond electrons | transfer electrostatic attraction
+metallic bond electrons | delocalized mobile
+ionic crystal @solid | fixed ions lattice | mobile conduction | -1.0
+ionic @liquid conductivity | mobile ions charge
+ionic @solution conductivity | mobile dissolved ions
+@sugar water conductivity | molecular nonionic weak
+@salt water conductivity | dissolved mobile ions
+periodic table arrangement | increasing atomic number
+periodic group electrons | similar valence configuration
+periodic period electrons | occupied shells
+noble gas outer shell | full stable unreactive
+halogen salt forming | reactive nonmetal
+alkali metal water | hydrogen hydroxide reaction
+metal oxide general | basic
+nonmetal oxide general | acidic
+hydrogen combustion product | water
+carbon combustion product | carbon dioxide
+sulfur combustion product | sulfur dioxide
+magnesium combustion product | magnesium oxide
+methane combustion complete | carbon dioxide water
+combustion incomplete | carbon monoxide soot
+fuel oxygen heat | fire combustion requirements
+fire blanket | smothering barrier | combustion | -1.0
+fire water cooling | temperature reduction
+fire @carbon @dioxide | smothering displacement | combustion | -1.0
+chemical reaction rearrange | atoms bonds new substances
+chemical reaction conservation | same atoms mass
+balanced equation | equal atoms reactants products
+reaction precipitate | insoluble solid formation
+reaction fizzing | gas production
+reaction temperature change | energy transfer
+reaction permanent color | possible new substance
+physical @reversible @change | melting freezing phase
+candle wick combustion | chemical change gases
+candle wax @melting | physical state change
+paper burning ash | chemical change
+paper cutting pieces | physical change
+wood sawing | physical change
+wood rotting | chemical decomposition
+milk souring | chemical change acid
+egg cooking | chemical protein change
+bread toasting | chemical change
+apple browning | oxidation chemical change
+baking dough | chemical reactions gas
+mixing vinegar bicarbonate | carbon dioxide gas
+acid carbonate | carbon dioxide salt water
+acid metal | hydrogen salt
+acid base | neutralization salt water
+neutralization temperature | exothermic heat release
+acid litmus | red | blue
+base litmus | blue | red
+acid ph | less seven
+base ph | greater seven
+neutral ph | seven water
+acid taste | sour
+base feel | slippery
+indicator universal | acidity color scale
+litmus paper | acid base indicator
+carbon dioxide limewater | milky calcium carbonate
+oxygen glowing splint | relights combustion
+hydrogen lit splint | squeaky pop combustion
+@water @cobalt chloride | pink hydrated | blue
+@water @copper sulfate | blue hydrated | white
+reaction catalyst | lower activation energy
+catalyst final amount | regenerated unchanged
+catalyst equilibrium | faster approach | shift | -1.0
+catalyst enzyme | biological reaction active site
+reaction crushed solid | larger surface area collisions
+reaction stirring | increased reactant contact
+reaction heating | faster particle collisions
+reaction concentration @increase | faster collision rate
+reaction gas pressure @increase | more frequent collisions
+# Thermal physics and phases.
+particle brownian | random collisions fluid
+perfume spreading | diffusion gas particles
+ink water spreading | diffusion random motion
+solid vibration | fixed positions lattice
+liquid motion | particles slide past
+ gas motion | freely moving widely spaced
+solid fixed volume | strong attraction close particles
+liquid fixed volume | close particles
+ gas compressible | large particle spaces
+compression gas | reduced space between particles
+thermal expansion spacing | increasing particle separation
+phase change temperature | constant latent heat
+melting energy destination | overcoming intermolecular attraction
+boiling energy destination | separating particles intermolecular
+cooling particles | lower kinetic energy
+heating particles | greater kinetic energy
+evaporation surface | escaping energetic particles
+evaporation temperature | occurs below boiling
+boiling throughout | vapor bubbles liquid
+water @boiling bubbles | vapor | oxygen hydrogen | -1.0
+condensation particles | closer lower kinetic energy
+@freezing water density | expansion open crystal
+ice crystal structure | open lattice lower density
+ice lake surface | insulation liquid below
+water maximum density | four celsius
+sublimation solid gas | direct phase change
+deposition gas solid | direct phase change
+frost formation | deposition water vapor
+snowflake formation | ice crystal deposition
+dry ice sublimation | solid carbon dioxide gas
+mothball sublimation | solid gas transition
+@pressure @cooker boiling | elevated pressure higher temperature
+@mountain water boiling | lower pressure lower temperature
+salt ice freezing | lowered freezing point
+antifreeze radiator | lowered freezing point
+salt dissolved concentration | solute amount solvent ratio
+saturated solution | maximum dissolved solute equilibrium
+supersaturated solution | excess dissolved solute unstable
+solubility @heating @solid | often increased dissolved capacity
+solubility @heating @gas | decreased dissolved capacity
+soda opening bottle | pressure decrease gas escape
+soda warm | carbon dioxide less soluble
+crystal evaporation | dissolved solute precipitation
+crystal cooling solution | reduced solubility precipitation
+# Forces, waves, and electricity.
+force noncontact | gravity magnetism electric
+force contact | friction tension normal
+friction microscopic | surface interactions resistance
+static friction | grip traction | sliding | -1.0
+kinetic friction | opposes sliding motion
+friction brakes | kinetic thermal conversion
+friction match | thermal ignition
+lubrication machine | reduce friction wear
+ball bearing machine | rolling friction reduction
+mass inertia | resistance acceleration
+netforce zero | equilibrium constant velocity
+netforce nonzero | acceleration velocity change
+balanced forces stationary | remain rest
+balanced forces moving | constant velocity
+unbalanced forces motion | acceleration speed direction change
+force action reaction | equal opposite different objects
+swimming backward push | water forward reaction
+jumping ground | upward reaction force
+rocket vacuum | expelled gas reaction
+satellite orbit gravity | centripetal acceleration freefall
+orbit inertia | forward motion tangent
+weight moon | weaker gravitational force
+mass moon | unchanged amount matter
+weightlessness orbit | continuous freefall
+buoyancy displaced fluid | upward force weight
+hydrometer | liquid density buoyancy
+pressure atmospheric | air weight collisions
+vacuum suction cup | atmospheric pressure attachment
+syringe plunger pulled | pressure reduction liquid entry
+hydraulic brakes | liquid pressure transmission
+barometer mercury | atmospheric pressure balance
+sound requires medium | vibrating matter
+sound space @vacuum | silence | propagation transmission | -1.0
+sound solids speed | usually faster than gases
+sound warm air | faster molecular motion
+sound echo | reflected wave
+sound reverberation | repeated reflection
+sound pitch frequency | oscillations per second
+sound volume amplitude | vibration magnitude
+ultrasound frequency | above human hearing
+infrasound frequency | below human hearing
+wave energy transfer | oscillation vibration | bulk matter | -1.0
+wave crest | maximum positive displacement
+wave trough | maximum negative displacement
+wave wavelength | adjacent crests distance
+wave period | time complete oscillation
+wave frequency | oscillations per second hertz
+wave speed | frequency wavelength product
+transverse displacement | perpendicular propagation
+longitudinal displacement | parallel propagation
+light vacuum | electromagnetic propagation
+light bending edge | diffraction
+light narrow slit | diffraction spreading
+light bending boundary | refraction speed change
+light reflected angle | incidence angle equality
+light white prism | dispersion spectrum
+# Bind each comparison to its color and physical quantity.
+light @red @wavelength | long | short | -1.0
+light @violet @wavelength | short | long | -1.0
+light @red @frequency | low | high | -1.0
+light @violet @frequency | high | low | -1.0
+infrared radiation | thermal imaging heat
+ultraviolet radiation | sunburn skin damage
+xray radiation | bones medical imaging
+gamma radiation | nuclear decay penetrating
+radio radiation | communication long wavelengths
+microwave radiation | communication cooking
+fuse wire melting | circuit interruption safety
+circuit continuous loop | charge flow current
+circuit open gap | interrupted path | current | -1.0
+battery terminal voltage | potential difference energy charge
+current measurement | ammeter amperes
+voltage measurement | voltmeter volts
+resistance measurement | ohmmeter ohms
+ammeter connection | series circuit
+voltmeter connection | parallel component
+resistor opposition | current limitation
+series current | same all components
+parallel voltage | same each branch
+@series battery cells | voltage addition
+@parallel battery cells | capacity longer operation
+short circuit overheating | low resistance high current
+static attraction neutral | polarization charge redistribution
+charged object grounding | charge discharge earth
+rubbing balloon hair | electron transfer static
+magnetic field iron filings | field pattern alignment
+compass navigation | earth magnetic field
+magnetic poles @like | repel | attract | -1.0
+magnetic poles @unlike | attract | repel | -1.0
+motor energy conversion | electrical mechanical
+generator energy conversion | mechanical electrical
+photovoltaic energy conversion | sunlight electrical
+thermocouple energy conversion | thermal electrical

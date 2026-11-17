@@ -1,0 +1,331 @@
+# Handwritten life science links and diagnostic mechanisms.
+# Cells and the traffic of matter and information.
+cell boundary | membrane controls transport
+cell selective | membrane permeability
+cell instructions | dna chromosomes nucleus
+cell hereditary | dna chromosome genetic
+cell blueprint | dna genes proteins
+cell factories | ribosomes proteins
+cell digestion | lysosomes enzymes
+cell recycling | lysosomes breakdown organelles
+cell scaffolding | cytoskeleton support shape
+cell compartment | organelle specialized function
+cell rigid | wall support cellulose
+cell jellylike | cytoplasm organelles
+cell packaging | golgi proteins vesicles
+cell exporting | golgi vesicles membrane
+cell respiration | mitochondria ATP energy
+cell photosynthetic | chloroplast chlorophyll
+cell division growth | mitosis daughter cells
+cell differentiation | specialized structure function expression
+specialized cell | adapted structure function
+cell specialization | differentiation gene expression
+specialized tissues | similar cells shared function
+multicellular coordination | tissues organs systems
+multicellular growth | mitosis increasing cells
+unicellular growth | cell size biomass
+unicellular reproduction | division fission
+bacterial replication | binary fission asexual
+bacterial food | decomposition digestion fermentation
+bacterial beneficial | digestion nitrogen decomposition
+bacterial pathogen | infection disease
+bacterial treatment | antibiotic
+viral treatment | antiviral immune | antibiotic | -1.0
+viral prevention | vaccine hygiene immune protection | | -1.0
+virus reproduction | host cell machinery
+virus outside | inactive dependent host
+antibiotic virus | ineffective | effective | -1.0
+antibiotic resistance | selection mutation survival | | -1.0
+resistant bacteria | inherited variation selection | | -1.0
+vaccination memory | immune antibodies protection
+vaccine exposure | antigens immune memory
+immune recognition | antigens antibodies lymphocyte
+immune response | white blood cells antibodies
+antibody specificity | matching antigen binding
+antigen | molecule recognized immune system
+phagocyte | immune cell engulf pathogen
+phagocytosis | engulf particles cells membrane
+lymphocyte | white blood cell immune
+macrophage | phagocyte immune engulf bacteria
+cell thirsty | water osmosis
+cell hypertonic | water leaves osmosis shrinking | | -1.0
+cell hypotonic | water enters osmosis swelling | | -1.0
+plant turgid | water vacuole pressure firm
+plant flaccid | water loss reduced turgor
+plant plasmolysis | membrane pulls wall water loss
+wall turgor | pressure support firm | bursting | -1.0
+membrane gradient | diffusion passive transport
+membrane against | active transport energy
+active ATP | transport against concentration
+passive ATP | unnecessary | required | -1.0
+respiration ATP | energy released glucose
+respiration waste | carbon dioxide water
+photosynthesis biomass | carbon dioxide sugars
+photosynthesis carbon | atmospheric dioxide glucose
+photosynthesis mineral | soil nutrients growth
+plant mass | carbon dioxide water sugars
+plant darkness | respiration stored food
+plant nighttime | respiration oxygen consumed
+plant daylight | photosynthesis respiration
+plant starch | stored glucose chemical energy
+seed darkness | stored food germination
+seed water | germination enzyme activation
+seed oxygen | respiration germination
+seed warmth | enzymes germination
+seed embryo | new plant root shoot
+seed protection | coat tough covering
+seed nourishment | cotyledon endosperm stored food
+seed buried | germination moisture protected
+seed dispersal | reduced competition new habitats
+seed hooks | animal fur attachment dispersal
+seed burr | animal fur dispersal
+seed fluff | wind dispersal
+seed wings | wind dispersal
+seed floating | water dispersal
+seed juicy | animals eat fruit dispersal
+seed explosion | pods split scatter
+fruit eaten | seed dispersal animals
+coconut float | water dispersal ocean
+burdock | hooked fruit animal dispersal
+milkweed seed | parachute wind dispersal
+sycamore seed | winged wind dispersal
+animal pollen | pollination flowers reproduction
+pollinator decline | reduced fertilization seeds fruit
+nectar attraction | pollinators insects birds
+flower colorful | attracts animal pollinators
+flower fragrance | attracts animal pollinators
+flower stamens | pollen male
+flower pistil | stigma style ovary female
+pollen tube | sperm ovule fertilization
+fertilized ovule | develops seed
+flower ovary | develops fruit
+root tip | growth cell division
+root hair | surface area water mineral absorption
+root oxygen | respiration soil air
+waterlogged roots | decreased oxygen hypoxia respiration stress | | -1.0
+plant drought | stomata close closed water conservation | transpiration | -1.0
+plant wilted | water loss turgor decrease
+plant upright | turgor cellulose support
+plant waxy | cuticle water conservation
+leaf broad | sunlight absorption surface area
+leaf thin | diffusion light penetration
+leaf veins | xylem phloem transport
+stomata guard | open close gas exchange
+stomata closed | water conservation | transpiration | -1.0
+transpiration pull | xylem water root leaf
+xylem vessel | dead hollow lignified water transport
+phloem sieve | living cells sugars transport
+bark removed | phloem damaged transport disrupted | | -1.0
+plant tip | auxin growth phototropism
+shoot light | phototropism growth toward
+root downward | gravitropism water anchorage
+root gravity | positive gravitropism
+shoot gravity | negative gravitropism
+vine support | thigmotropism contact coiling
+mimosa touch | leaves close response stimulus
+sunflower orientation | light growth phototropism
+photoperiod | daylength seasonal flowering
+shortday plant | long nights flowering
+longday plant | short nights flowering
+vernalization | cold exposure flowering
+# Structure-function links, including useful analogies.
+red cell | hemoglobin oxygen transport | | -1.0
+red biconcave | surface area diffusion flexibility | | -1.0
+white cell | immune defense infection | | -1.0
+platelet fragments | clotting wound seal
+plasma blood | liquid carries nutrients hormones wastes
+artery muscular | high pressure blood away heart
+vein valves | one way flow | backflow | -1.0
+capillary thin | diffusion exchange nutrients gases
+alveoli thin | oxygen dioxide diffusion
+alveoli numerous | large surface area gas exchange
+villi numerous | large surface area absorption
+gills filaments | large surface area dissolved oxygen
+intestine folded | large surface area nutrients
+diaphragm contracts | chest volume increases inhalation
+diaphragm relaxes | chest volume decreases exhalation
+breathing exercise | oxygen demand carbon dioxide removal
+pulse exercise | increased oxygen nutrient transport
+heart muscle | contractions pump blood
+heart valves | one way blood flow | backflow | -1.0
+blood lung | oxygen exchange carbon dioxide
+blood tissues | oxygen delivery waste removal
+kidney nephron | filtration reabsorption urine
+kidney balance | water salts homeostasis
+kidney failure | dialysis waste accumulation
+dialysis | blood filtration waste removal
+liver detoxification | harmful chemicals breakdown
+liver glycogen | glucose storage regulation
+pancreas insulin | blood glucose decreases
+insulin deficiency | high blood sugar diabetes
+skin sweating | evaporation heat loss
+skin receptors | touch temperature pain
+skin barrier | protection waterproof | infection dehydration | -1.0
+brain cerebellum | coordination balance movement
+brain cerebrum | thinking memory voluntary
+brain medulla | breathing heartbeat automatic
+spinal reflex | rapid involuntary protective response
+reflex withdrawal | stimulus nerve muscle
+neuron axon | nerve impulse transport
+neuron dendrite | receives signals
+synapse neurotransmitter | chemical signal gap
+hormone bloodstream | endocrine chemical messages
+nervous endocrine | communication coordination homeostasis
+endocrine slower | hormones blood lasting effects
+nervous rapid | electrical impulses neurons
+bone marrow | blood cell production
+bone calcium | mineral strength support
+bone fracture | healing cell growth
+cartilage joint | cushioning smooth movement
+muscle tendon | bone attachment movement
+ligament joint | connects bone stability
+antagonistic muscle | opposing pairs contract relax
+biceps contraction | elbow flexion bend
+triceps contraction | elbow extension straighten
+skeleton framework | support protection movement
+rib cage | protects heart lungs
+cranium | skull protects brain
+vertebral column | protects spinal cord support
+teeth incisors | cut bite food
+teeth molars | grinding chewing food
+teeth canines | tearing food
+saliva enzymes | starch breakdown amylase
+esophagus | peristalsis food stomach
+peristalsis | muscle contractions digestive movement
+stomach churning | mechanical digestion mixing
+stomach pepsin | protein digestion acid
+bile emulsification | fat droplets surface area
+smallintestine nutrients | absorption villi blood
+largeintestine water | absorption feces colon
+feces urine | egestion excretion waste
+balanced diet | nutrients carbohydrate protein fat vitamins minerals
+vitamin deficiency | disease impaired growth
+vitamin d | calcium absorption bones sunlight | | -1.0
+vitamin c | collagen wound healing scurvy | | -1.0
+iron deficiency | anemia hemoglobin oxygen
+calcium deficiency | weak bones teeth
+fiber digestion | bowel movement roughage
+protein repair | growth tissue amino acids
+carbohydrate fuel | glucose respiration energy
+fat reserve | stored energy insulation
+# Inheritance, variation, and evolutionary evidence.
+chromosome gene | dna segment inherited instructions
+chromosome pair | homologous maternal paternal
+homologous chromosomes | same genes parental alleles
+alleles segregation | meiosis gamete separation
+fertilization diploid | chromosomes restored sperm egg
+meiosis variation | crossing recombination assortment
+mitosis growth | identical genetic copies cells
+cloning genotype | identical inherited dna
+cloning environment | phenotype may differ
+identical twins | shared genotype environment variation
+fraternal twins | separate fertilization genetic variation
+gene environment | phenotype interaction
+acquired muscular | exercise environment | inherited | -1.0
+acquired scar | injury environment | inherited | -1.0
+learned reading | practice experience | instinct | -1.0
+learned language | experience culture | inherited | -1.0
+instinct suckling | inherited behavior
+instinct web | spider inherited behavior
+inherited eye | color genetic alleles
+inherited blood | type genetic alleles
+selective breeding | artificial selection desired traits
+breeding crops | desired yield resistance traits
+breeding dogs | artificial selection inherited variation
+natural variation | mutation recombination genetic
+selection reproduction | advantageous inherited traits frequency
+selection generations | population adaptation evolution
+selection individual | survival reproduction variation | purposeful directed | -1.0
+fitness offspring | reproductive success
+fitness strength | reproduction survival | | -1.0
+fossil transition | intermediate features evolutionary evidence
+homologous forelimb | common ancestry structural pattern
+analogous wings | convergent function different ancestry
+vestigial structure | inherited reduced ancestral function
+embryo similarity | common ancestry evidence
+dna similarity | relatedness common ancestry
+species isolated | reduced gene flow divergence
+speciation | reproductive isolation divergence populations
+extinction habitat | environmental change loss resources
+extinction competition | resource limitation survival
+bottleneck diversity | reduced genetic variation
+inbreeding recessive | homozygous alleles expression increased | | -1.0
+inbreeding risk | recessive disorders reduced diversity | | -1.0
+# Ecology and physiological responses.
+photosynthetic organism | producer autotroph
+chemosynthetic organism | chemical energy producer
+consumer fuel | food chemical energy
+energy ecosystem | sunlight producers consumers heat
+nutrients ecosystem | recycled decomposers matter
+energy recycling | heat dissipated | recycled | -1.0
+matter recycling | decomposers nutrient cycles
+foodweb arrows | energy transfer eaten eater
+producer decline | food shortage consumers decline | | -1.0
+predator increase | prey decline predation | | -1.0
+predator scarcity | prey recovery increase | | -1.0
+prey scarcity | predator starvation competition | | -1.0
+competition niche | overlapping resources
+competition intense | same resource limited
+carrying drought | resources decrease population limit | | -1.0
+population overcrowding | competition disease resource shortage | | -1.0
+population recovery | reproduction immigration resources
+immigration population | increases arrivals | | -1.0
+emigration population | decreases departures | | -1.0
+births deaths | population size change
+limiting light | plant photosynthesis growth
+limiting nitrogen | plant protein growth
+limiting oxygen | aquatic survival respiration
+fertilizer runoff | algal bloom eutrophication
+algae decay | oxygen consumed decomposers
+eutrophication fish | oxygen shortage suffocation
+pesticide foodweb | bioaccumulation biomagnification
+biomagnification top | greatest pollutant concentration predators
+invasive competition | native species decline resources | | -1.0
+invasive predator | native prey decline | | -1.0
+native plants | local adaptation food habitat
+habitat fragmentation | isolated populations reduced gene flow | | -1.0
+wildlife corridor | connected habitats migration gene flow
+wetland removal | habitat loss flooding runoff | filtration | -1.0
+forest clearing | habitat loss erosion carbon dioxide | | -1.0
+reforestation | tree planting forest restoration carbon storage habitat
+crop rotation | soil nutrients pest control
+legume rotation | nitrogen fixation soil fertility
+cover crop | protect soil retention | erosion | -1.0
+compost nutrients | decomposition fertilizer recycling
+worms soil | burrows aeration decomposition
+soil bacteria | nutrients cycling nitrogen decomposition
+mushroom ecosystem | decomposition nutrient recycling
+lichens pioneer | rock weathering soil formation
+lichen components | fungus alga mutualism
+coral bleaching | symbiotic algae lost temperature stress
+coral reef | biodiversity shelter habitat
+mangrove roots | coastal erosion protection nursery
+saltmarsh | wetland habitat flood buffering
+estuary nursery | sheltered nutrients juvenile fish
+filter feeder | removes suspended particles water
+hibernation metabolism | slows energy conservation winter
+migration seasonal | food breeding favorable climate
+camouflage background | concealed predators prey
+warning coloration | toxicity predator avoidance
+mimicry harmless | resembles dangerous protection
+countershading | dark back pale belly camouflage
+schooling fish | predator confusion group protection
+herding animals | predator detection protection
+nocturnal desert | night cooler water conservation | daytime | -1.0
+large ears | heat loss circulation
+thick fur | insulation cold climate
+blubber | insulation energy storage buoyancy
+webbed feet | swimming water propulsion
+broad feet | weight distribution sand snow
+long beak | reach nectar food
+hooked beak | tear meat carnivore
+flat beak | filtering aquatic food
+strong claws | grasp prey climbing digging
+streamlined fish | reduced drag swimming
+hollow bones | lightweight bird flight
+feather structure | insulation flight waterproofing
+waxy cuticle | reduces water loss
+cactus spines | defense reduced surface water loss
+succulent stem | water storage drought
+camel hump | fat energy storage | water | -1.0
+kangaroo rat | concentrated urine water conservation

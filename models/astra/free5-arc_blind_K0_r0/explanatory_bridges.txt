@@ -1,0 +1,596 @@
+# Additional authored causal and conceptual bridges. No examples from assessments.
+# Conservation and particle explanations
+sealed container reaction gases | same total mass; atoms rearranged; matter conserved
+sealed flask reaction balance | mass unchanged; no matter enters leaves
+closed bottle ice melts | mass same; water molecules unchanged
+closed jar water evaporates | total mass unchanged; vapor remains inside
+open flask reaction mass decreases | gas escapes surroundings
+open dish water mass decreases | water vapor enters air; evaporation
+burning log ash lighter | gases released into air; matter conserved including gases
+burning steel_wool mass increases | oxygen combines iron; oxygen added from air
+rusting nail mass increases | oxygen added to iron
+balloon bottle reaction inflated | gas produced; matter redistributed
+vinegar baking_soda closed bag | carbon_dioxide produced; total mass unchanged
+dissolving sugar closed container | mass conserved; sugar particles dispersed
+salt disappears water | dissolves; particles too small see; salt still present
+salt solution clear | dissolved particles spread uniformly
+water clear pure | dissolved substances may still present
+filter clear solution | dissolved substances pass through filter
+saltwater boiling steam | vapor mainly water; salt remains
+distilled water collected | evaporated water condensed; dissolved salts left behind
+ice cube water warm | energy flows warmer water colder ice
+ice floating melted water | same total mass; less volume than original ice
+water freezing cracks container | ice expands; lower density than liquid
+water molecule freezing | molecules move less; molecular identity unchanged
+boiling water bubbles | water_vapor; gaseous water
+initial small bubbles heated water | dissolved gases escape
+boiling temperature steady | added energy separates particles; phase_change
+melting ice temperature steady | energy changes state rather than temperature
+steam invisible gas | water_vapor; visible mist liquid droplets
+water vapor breath cold air | condensation; tiny liquid droplets
+cold mirror bathroom fog | water_vapor condenses on cool surface
+cold pipe droplets humid air | water from air condenses; surface below dew_point
+ice outside glass humid | water vapor freezes; frost
+hot metal lid loosen | thermal expansion; lid diameter increases
+metal bridge gaps | allow thermal expansion; prevent buckling
+railroad track gaps hot weather | thermal expansion
+thermometer liquid rises | liquid expands heated
+bimetal strip bends | metals expand different amounts
+air heated sealed rigid container | pressure increases; particles collide harder faster
+air cooled flexible balloon | volume decreases; particles move slower
+bicycle tire pressure warm | faster particle collisions; temperature increases
+syringe air compressed | particles closer together; pressure increases
+syringe liquid compression | little volume change; particles already close
+scent spreads room | diffusion; gas particles random motion
+dye spreads still water | diffusion; particles move randomly
+dye spreads hot water faster | particles move faster; higher kinetic_energy
+sugar dissolves faster stirring | brings fresh solvent contact solute
+powder dissolves faster cube | greater surface_area exposed water
+powder reacts faster lump | greater surface_area; more collisions
+hotter reaction faster | particles collide more frequently energetically
+concentrated reactants faster | more particles per volume; more collisions
+chemical reaction temperature change | energy absorbed or released
+chemical reaction light produced | energy released; new substances may form
+chemical reaction precipitate | insoluble solid forms from solutions
+chemical reaction bubbles evidence | gas formed; compare with boiling
+physical_change crumple foil | changes shape; same material
+physical_change tear paper | size changes; composition unchanged
+chemical_change cooking egg | proteins altered; new properties
+chemical_change sour milk | new substances produced
+chemical_change baked dough | reactions form new substances; gases released
+mix sand iron salt | components retain properties; physical mixture
+separate sand iron salt | magnet removes iron; dissolve salt; filter sand; evaporate water
+separate salt pepper | differences physical properties
+separate muddy water drink | sediment removal alone insufficient; microorganisms may remain
+oil layer water | oil less dense; liquids immiscible
+wood floats water | average density lower than water
+solid steel sinks hollow ship floats | shape displaces more water; average density lower
+ship load increases | deeper immersion; more water displaced
+submarine ballast tank water | average density increases; sinks
+submarine ballast tank air | water expelled; average density decreases; rises
+life_jacket floats | low density foam; increased buoyancy
+hydrometer floats higher saltwater | denser liquid; less displacement needed
+helium balloon rises | helium less dense than surrounding air
+hot_air balloon rises | heated air expands; lower density
+solid object cut half density | density unchanged; mass volume both halved
+same material different size density | same density
+equal volume objects compare mass | denser object greater mass
+equal mass objects compare volume | less dense object larger volume
+identify material density | characteristic property; mass divided volume
+mineral scratch glass | hardness greater than glass
+mineral streak powdered | characteristic powder color
+mineral color unreliable | impurities alter color
+mineral cleavage flat surfaces | regular crystal structure
+mineral fracture irregular | breaks without flat cleavage planes
+metal hammer thin sheet | malleability
+metal drawn thin wire | ductility
+metal shiny surface | luster; reflects light
+metal handle pan hot | conduction through metal
+wood handle pan cooler | poor thermal conductivity
+ceramic mug hot water | conducts heat slowly; insulating material
+foam cup hot drink | trapped air reduces heat transfer
+vacuum flask walls | reduces conduction convection
+reflective flask lining | reduces thermal radiation
+blanket keeps warm | slows transfer body heat to surroundings
+blanket ice summer | slows heat transfer into ice
+wool clothing trapped air | thermal insulation; less heat loss
+wet clothing cold | evaporation removes body heat
+sweat fan cools | faster evaporation; energy taken skin
+metal wood same room temperature | metal feels colder; conducts heat from hand faster
+sand water sunlight temperature | sand lower heat_capacity; heats faster
+water moderates climate | high heat_capacity; warms cools slowly
+# Waves, interactions and everyday energy
+energy transferred without matter | waves
+wave medium particles | oscillate around original positions; transfer energy
+ripple cork pond | cork moves up down; wave energy travels outward
+sound bell glass jar air removed | sound quieter; fewer particles transmit vibration
+space explosion sound | cannot travel vacuum; no medium
+sound underwater | travels through liquid; particles transmit vibrations
+sound solid rail | faster transmission than air
+lightning thunder delay | light travels faster than sound
+loud sound damage ear | large amplitude; intense vibrations
+short vibrating string | higher frequency; higher pitch
+tight string pitch | higher frequency; higher pitch
+long vibrating string | lower frequency; lower pitch
+thick string same tension | lower pitch
+shorter air column | higher resonant frequency; higher pitch
+larger drum slower vibration | lower frequency; lower pitch
+wave more energy amplitude | greater amplitude
+wave fixed speed frequency increases | wavelength decreases
+wave frequency unchanged boundary | speed wavelength change
+light enters water angle | refraction; speed changes
+pencil looks bent water | refraction at air water boundary
+swimming pool looks shallow | refraction
+prism white light spectrum | colors refract differently; dispersion
+rainbow raindrops | refraction reflection dispersion
+red object white light | reflects red; absorbs other colors
+blue object red light | appears dark; little blue light available
+green leaf sunlight | green reflected; red blue absorbed
+white light colored filter | transmits matching wavelengths; absorbs others
+shadow size object closer lamp | larger shadow; blocks wider light cone
+shadow noon shortest | sun highest sky
+plane_mirror image | upright; same size; virtual
+convex_mirror view | wider field view; smaller image
+concave_mirror parallel light | converges rays; focal point
+convex lens sunlight paper | focuses energy small area
+concave lens rays | diverge; spread apart
+eye pupil bright light | constricts; less light enters
+eye pupil dim light | dilates; more light enters
+camera aperture | controls light entering
+solar_panel cloudy day | lower electrical output; less incoming sunlight
+solar_cell direct sunlight | converts light directly electricity
+solar water heater | sunlight heats water; thermal_energy
+wind turbine generator | wind kinetic_energy converted electricity
+hand_crank flashlight | mechanical_energy electrical_energy light_energy
+microphone | sound vibration converted electrical signal
+loudspeaker | electrical signal converted sound
+rechargeable battery charging | electrical_energy stored chemical_energy
+battery discharged | chemical reactants changed; less available energy
+battery wire bulb warm | electrical resistance produces heat
+thin long wire resistance | greater resistance
+thick short wire resistance | lower resistance
+copper wire plastic coating | copper conducts; plastic prevents shock short circuits
+wet skin electricity | lower resistance; shock hazard
+power_line birds same wire | little voltage difference across body
+power_line touch ground wire | current can pass through body; dangerous
+static balloon wall | charges polarize wall; attraction
+charged comb paper | induced charge separation; attraction
+rub balloon hair | electrons transferred; opposite charges
+static spark doorknob | accumulated charge discharges
+neutral atom loses electron | positive ion
+neutral atom gains electron | negative ion
+magnet cut two pieces | each piece north south poles
+magnet iron nail | induces magnetic alignment; attracts nail
+magnet aluminum copper | not strongly attracted
+magnet compass needle | aligns magnetic_field
+magnetic_field strongest | near poles
+iron filings around magnet | reveal field pattern
+current wire magnetic_field | electromagnetism
+coil iron core current | electromagnet; stronger magnetic_field
+reverse electromagnet current | reverses magnetic poles
+switch electromagnet off | magnetic strength decreases
+permanent_magnet electromagnet difference | electromagnet requires current; can switch off
+falling ball gravitational energy | potential_energy decreases; kinetic_energy increases
+thrown ball highest point | vertical speed zero; gravity still acts
+ball thrown upward acceleration | downward throughout flight
+ball horizontally thrown | gravity accelerates downward
+horizontal motion vertical motion | independent components without air_resistance
+circular motion steady speed | velocity changes direction; centripetal acceleration
+string ball circle released | moves tangent; inertia
+net_force zero moving cart | constant velocity
+push object no movement work | zero mechanical work; displacement zero
+carry bag horizontally constant height | upward force does no horizontal work
+stairs ramp same height | same gravitational energy gain
+longer lever effort arm | less effort force
+fixed pulley | changes direction force; ideal mechanical advantage one
+movable pulley | reduces effort; pulls longer rope distance
+wheel axle large wheel | increases torque; smaller effort force
+screw | inclined_plane wrapped cylinder
+wedge | two inclined planes; splits material
+gear large drives small | small gear rotates faster
+meshed gears | turn opposite directions
+bicycle low gear hill | easier pedaling; more turns for distance
+spring stretched more | greater elastic potential_energy
+pendulum longer string | longer period; slower swing
+pendulum heavier bob same length | nearly same period
+pendulum air resistance | amplitude decreases; energy transferred heat
+# Life: mechanisms, evidence and experiments
+cell membrane damaged | loses control substances entering leaving
+cell nucleus removed | genetic control disrupted
+cell mitochondria abundant | high energy demand
+muscle cells many mitochondria | energy for contraction
+sperm mitochondria | energy for swimming
+red_blood_cell biconcave | large surface_area; gas exchange
+red_blood_cell lacks nucleus mature | more room hemoglobin
+root_hair large surface_area | more water mineral absorption
+small_intestine villi | larger surface_area; nutrient absorption
+lung alveoli | large surface_area; gas exchange
+alveoli thin moist walls | rapid oxygen carbon_dioxide diffusion
+capillary thin walls | exchange materials with tissues
+oxygen lungs blood | diffuses into blood; transported cells
+carbon_dioxide tissues lungs | blood transports waste; exhalation
+breathing rate exercise | muscles need oxygen; more carbon_dioxide produced
+heart rate exercise | increased blood flow; supplies oxygen nutrients
+sweating exercise | heat removed by evaporation
+shivering cold | muscle activity produces heat
+goosebumps fur mammals | traps insulating air
+skin capillaries hot | dilate; increase heat loss
+skin capillaries cold | constrict; reduce heat loss
+homeostasis body_temperature | maintains stable internal conditions
+insulin blood_glucose | promotes uptake storage; lowers blood sugar
+diabetes insulin | impaired blood sugar regulation
+pancreas function | digestive enzymes; insulin
+bile fat digestion | emulsifies fat; increases surface_area
+saliva starch | amylase begins starch digestion
+teeth chewing digestion | mechanical breakdown; increased surface_area
+stomach acid | activates enzymes; kills many microbes
+enzyme high temperature | changes shape; activity decreases
+enzyme substrate specificity | complementary shapes
+protein digestion products | amino_acid
+carbohydrate digestion products | simple sugars; glucose
+fat digestion products | fatty acids glycerol
+nutrients absorbed intestine | enter blood; transported body cells
+water kidneys reabsorbed | conserves water; concentrates urine
+decrease drinking water | less urine; more concentrated urine
+kidney failure | waste accumulates blood
+dialysis | removes wastes from blood
+skeleton bone marrow | produces blood cells
+joint cartilage | cushions bones; reduces friction
+tendon | connects muscle bone
+ligament | connects bone bone
+antagonistic muscles | one contracts other relaxes
+reflex touching hot object | rapid protective response; spinal cord pathway
+sensory neuron | receptor toward central nervous system
+motor neuron | central nervous system toward muscle
+hormones bloodstream | reach target cells; chemical communication
+nerves hormones comparison | signals coordinate body responses
+white_blood_cell engulf bacteria | immune defense
+antibody pathogen | recognizes specific antigen
+vaccination exposure antigen | stimulates immune memory; faster future response
+antibiotic resistance | resistant bacteria survive reproduce
+virus reproduction | requires host cells
+handwashing disease prevention | removes microorganisms; reduces transmission
+cooking food thoroughly | kills many pathogens
+refrigeration food | slows microbial growth
+freezing food microbes | growth slows; not all killed
+pasteurization | heat reduces pathogens
+food poisoning | harmful microorganisms toxins
+balanced diet | supplies varied nutrients
+fiber diet | helps movement through intestine
+calcium vitamin_d | healthy bones teeth
+iron diet | hemoglobin; oxygen transport
+vitamin_c deficiency | scurvy; impaired connective tissue
+vitamin_a | vision; eye health
+sunlight skin vitamin_d | vitamin production; calcium absorption
+plant soil minerals | nutrients not main source mass
+plant mass carbon | carbon_dioxide fixed photosynthesis
+plant biomass source | carbon_dioxide air; water
+plant soil no sunlight | stored food initially; photosynthesis limited
+seed germination dark | uses stored food; may germinate without light
+seed needs germination | water oxygen suitable temperature
+seed boiled fails germinate | embryo killed
+seed waterlogged fails | insufficient oxygen for respiration
+seed dry dormant | low metabolism; waits favorable conditions
+germinating seeds heat | respiration releases energy
+germinating seeds oxygen | oxygen consumed; carbon_dioxide produced
+plant sealed dark oxygen | oxygen decreases; respiration continues
+plant light net oxygen | photosynthesis can exceed respiration
+aquatic plant bubbles light | oxygen from photosynthesis
+leaf starch iodine | blue black indicates starch
+variegated leaf starch | green areas photosynthesize; chlorophyll needed
+leaf covered foil sunlight | covered region less starch
+plant without carbon_dioxide | photosynthesis reduced; less sugar made
+plant stomata close dry | reduces water loss; limits carbon_dioxide uptake
+guard_cell swollen | opens stomata
+plant wilting | cells lose water; turgor decreases
+plant watered recovery | cells regain water; turgor restored
+celery colored water | xylem transports water up stem
+ring bark tree | phloem transport disrupted; sugar fails reach roots
+plant cut roots | less water absorption; wilting
+plant leaves waxy cuticle | reduces water loss
+plant broad thin leaves | large light collection area; short diffusion path
+floating leaves stomata | upper surface gas exchange
+cactus reduced leaves spines | less water loss; defense
+cactus thick stem | water storage
+mangrove roots | tolerate waterlogged saline soil
+pine needle leaves | reduce water loss; evergreen adaptation
+deciduous leaf drop | conserves water during unfavorable season
+flower bright petals fragrance | attracts pollinators
+wind pollinated flower | abundant light pollen; exposed anthers
+pollen stigma | pollination
+pollen sperm ovule | fertilization
+seed hooks fur | animal dispersal
+seed wings | wind dispersal
+seed floating fruit | water dispersal
+fleshy fruit animals | seeds dispersed through feeding
+seed dispersal distance | reduces competition parent offspring
+vegetative propagation cutting | asexual reproduction; genetically similar plant
+potato tuber | food storage; vegetative reproduction
+strawberry runner | asexual reproduction
+bacteria binary_fission | asexual reproduction; population doubles
+yeast budding | asexual reproduction
+flower sexual_reproduction | egg pollen genetic contributions
+sexual_reproduction advantages | genetic variation; changing environments
+asexual_reproduction advantages | rapid reproduction; one parent needed
+offspring parent resemblance | genes inherited
+siblings different traits | different allele combinations
+identical_twins different environment | same genes can produce different development
+scar learned behavior | acquired trait; not normally inherited
+muscle developed exercise | acquired change; not inherited as larger muscle
+selective_breeding | humans choose parents desired inherited traits
+natural_selection pesticide | resistant individuals survive reproduce
+natural_selection dark moth | camouflage increases survival on dark bark
+individual acclimation | physiological response during lifetime
+population adaptation generations | inherited traits change frequency
+mutation harmful beneficial neutral | effect depends environment
+fossil homologous dna | evidence common ancestry
+analogous wings insect bird | similar function; independent evolutionary origins
+vestigial_structure | inherited reduced structure; evidence ancestry
+geographic isolation | populations diverge; possible new species
+extinction habitat loss | reduced survival reproduction
+biodiversity stable ecosystem | varied roles; resilience to disturbance
+monoculture crop disease | many similar susceptible plants
+# Ecosystem and environmental mechanisms
+energy ecosystem one_way | enters sunlight; leaves heat; not recycled
+matter ecosystem cycles | atoms reused; decomposers return nutrients
+decomposer absent ecosystem | dead material accumulates; nutrients unavailable
+fungi extracellular digestion | secrete enzymes; absorb nutrients
+bacteria soil plant_growth | nutrient cycling; nitrogen availability
+nitrogen_fixing bacteria | atmospheric nitrogen converted usable compounds
+legume nodules bacteria | mutualism; plant gets nitrogen
+plants obtain nitrogen | absorb nitrates ammonium roots
+animals obtain nitrogen | eat proteins in food
+carbon_cycle photosynthesis | removes carbon_dioxide atmosphere
+carbon_cycle respiration | releases carbon_dioxide atmosphere
+carbon_cycle decomposition | carbon returned environment
+carbon_cycle combustion | stored carbon released carbon_dioxide
+oxygen_cycle photosynthesis | releases oxygen atmosphere
+food_chain arrows | direction energy transfer; food to consumer
+food_web arrow grass rabbit | rabbit receives energy from grass
+top predator energy less | energy lost as heat at each trophic transfer
+shorter food_chain humans | more original producer energy available
+herbivore population increase | more plants consumed; competition may increase
+predator removed | prey may increase; plant population may decrease
+prey removed | predators lose food; population may decrease
+limiting_factor drought | water limits growth survival
+carrying_capacity population | maximum supported sustainably by resources
+population exceeds resources | competition increases; deaths or migration
+population immigration | increases population
+population emigration | decreases population
+biotic_factor disease | affects survival; living pathogen
+abiotic_factor temperature | nonliving environmental condition
+niche role | food resource use; ecological relationships
+habitat place | where organism lives
+competition same resource | food water shelter space mates limited
+predators beneficial ecosystem | regulate prey populations
+parasite host | parasite benefits; host harmed
+lichen fungus algae | mutualism; food protection exchange
+bee flower | mutualism; nectar and pollination
+remora shark | commensalism; remora benefits
+invasive predator island | native prey lack defenses
+introduced species competition | displaces native species; reduces biodiversity
+habitat_fragmentation | isolates populations; limits movement gene flow
+wildlife corridor | connects habitats; allows migration
+wetlands flood control | absorb store water; slow runoff
+wetlands water cleaning | trap sediments; biological nutrient removal
+forest roots erosion | hold soil; reduce sediment loss
+forest canopy rainfall | slows raindrop impact; intercepts water
+deforestation runoff | less infiltration; greater erosion
+urban pavement groundwater | less recharge; more surface runoff
+fertilizer pond fish die | algal growth; decomposition uses oxygen
+warm water fish oxygen | less dissolved oxygen; higher metabolic demand
+sewage organic waste stream | decomposers use oxygen; fish stressed
+persistent pesticide food_web | biomagnification; highest concentration top predators
+acid_rain limestone | chemical weathering; dissolves carbonate
+acid_rain lake | lower ph; harms aquatic organisms
+carbon_dioxide ocean | acidification; harms shell formation
+oil spills feathers | reduces waterproofing insulation
+plastic ocean animals | ingestion entanglement; injury
+reduce reuse recycle hierarchy | conserve resources; reduce waste
+recycling aluminum | saves ore and energy
+compost food scraps | nutrient-rich soil amendment; decomposition
+renewable resource harvest too fast | depletion possible; regeneration slower than use
+sustainable forestry | replant; harvest within regrowth rate
+sustainable fishing | protect reproduction; limit overharvest
+fossil_fuel alternatives | reduce nonrenewable consumption; lower emissions
+solar wind limitations | variable weather; storage needed
+hydroelectric dam ecological cost | interrupts fish migration; floods habitat
+nuclear power waste | radioactive material; requires safe storage
+geothermal local limitation | accessible underground heat varies
+# Earth, space, inference and measurement
+weathering erosion distinction | breakdown versus transport
+river velocity slows sediment | deposition; larger particles settle first
+river outside bend | faster current; greater erosion
+river inside bend | slower current; deposition
+stream steeper slope | faster flow; more erosion
+river delta | sediment deposited at river mouth
+alluvial_fan | stream slows leaving mountains; fan-shaped sediment
+beach sand source | weathered rock transported by waves rivers
+sand_dune | wind deposits sand
+wind erosion fine particles | dry exposed soil most vulnerable
+roots cracks rock | mechanical weathering
+water freezes cracks rock | expands; mechanical weathering
+carbonic_acid limestone cave | chemical weathering; dissolution
+oxidation iron minerals rock | chemical weathering; rust colors
+weathering warm wet climate | chemical reactions faster; water available
+weathering cold freeze_thaw | mechanical splitting
+rounded stream pebbles | abrasion during transport
+glacier scratches bedrock | abrasion; evidence past ice movement
+glacier retreat deposits | unsorted till; moraines
+u_shaped valley | glacial erosion
+v_shaped valley | stream erosion
+soil formation | weathered rock mixed organic matter
+soil horizons | layers with different composition
+soil topsoil | organic matter; roots; most biological activity
+soil bedrock | parent rock beneath soil
+sandy soil water | drains quickly; large pores
+clay soil water | retains water; small pores
+loam soil | balanced sand silt clay; supports plant growth
+soil permeability | ease water passes connected pores
+soil porosity | fraction empty space
+water_table | top saturated groundwater zone
+aquifer | permeable rock stores transmits groundwater
+well pumping excessive | water_table falls; supply reduced
+coastal groundwater pumping | saltwater_intrusion
+sinkhole limestone | underground dissolution; roof collapse
+igneous large crystals | slow cooling underground
+igneous small crystals | rapid cooling near surface
+obsidian glassy | extremely rapid cooling
+pumice holes | trapped gas bubbles; volcanic lava
+sedimentary fossils common | burial preserves remains; low temperatures
+metamorphic fossils distorted | heat pressure alter original remains
+rock_cycle no fixed sequence | any rock can change through geological processes
+rock melts magma | igneous rock after cooling
+sediment compacted cemented | sedimentary rock
+existing rock heat pressure | metamorphic rock without melting
+fossil marine shell mountain | area once underwater; uplift
+fossil tropical plant polar | past climate warmer; continents moved
+same fossils distant continents | continents formerly connected
+matching rock mountains continents | evidence continental_drift
+seafloor youngest ridge | new crust forms at divergent_boundary
+seafloor older farther ridge | crust moves outward
+magnetic stripes symmetric ridge | seafloor_spreading; polarity reversals
+continental crust oceanic crust | continental thicker less dense
+subduction oceanic plate | denser plate sinks; recycled crust
+volcano island arc | oceanic subduction
+mountains continent collision | crust compressed folded uplifted
+transform fault earthquake | plates slide; stress released
+earthquake focus | underground rupture origin
+earthquake epicenter | surface directly above focus
+seismic station arrival difference | estimates distance epicenter
+three seismic stations | triangulate earthquake location
+s_wave liquid | cannot travel liquid; evidence outer_core liquid
+p_wave liquids solids | compression wave travels both
+volcano magma gas pressure | drives eruption
+volcano ash rich soil | weathered minerals provide nutrients
+hot_spot island chain | plate moves over mantle source
+mantle convection driving plates | heat causes slow circulation
+radioactive_decay earth interior | heat source
+weather sun energy | uneven surface heating drives circulation
+warm air rises | expands less dense
+cool air sinks | denser
+rising air clouds | expands cools; vapor condenses
+sinking air clear skies | warms; relative_humidity decreases
+sea_breeze daytime | land heats faster; cool sea air moves inland
+land_breeze nighttime | land cools faster; air moves toward sea
+mountain windward rain | rising air cools condenses
+mountain leeward dry | descending air warms; rain_shadow
+coastal climate moderated | ocean high heat_capacity
+higher elevation temperature | generally cooler
+latitude sunlight angle | equator more direct energy; poles less direct
+cold_front warm air | warm air lifted rapidly; storms possible
+warm_front cold air | warm air rises gradually; widespread precipitation
+high_pressure sinking air | clear dry conditions
+low_pressure rising air | clouds precipitation
+humidity dew_point cooling | condensation begins saturation
+fog forms near ground | air cools dew_point; suspended droplets
+snow crystal forms | water vapor deposits as ice
+hail thunderstorm | strong updrafts; layers frozen water
+hurricane warm ocean | heat moisture fuel storm
+hurricane landfall weakens | reduced warm water energy supply
+tornado safety | low interior room; away windows
+lightning safety | shelter substantial building; avoid isolated trees
+weather versus climate evidence | many years observations needed for climate
+climate global warming | increased greenhouse gases reduce heat escape
+greenhouse_effect natural | keeps earth warm enough liquid water
+ice melt albedo | darker surface absorbs more sunlight
+sea_level thermal expansion | warming seawater expands
+land ice melting sea_level | adds water ocean
+floating sea_ice melting sea_level | little direct change in water level
+earth rotation west east | apparent sun motion east west
+star trails night | earth rotates
+polaris northern sky | near earth rotation axis
+constellations change season | earth orbits sun; nighttime direction changes
+constellation stars apparent grouping | stars at different distances
+moon phases relative positions | see different portions sunlit half
+moon phase not shadow | earth shadow only lunar_eclipse
+new_moon alignment | moon between earth sun; illuminated side away
+full_moon alignment | earth between sun moon; illuminated side faces earth
+moon always same face | rotation period equals orbital period
+eclipse not every month | moon orbital plane tilted
+solar_eclipse observer | moon blocks view sun
+lunar_eclipse | earth shadow on moon
+spring_tide new full | sun moon gravity aligned; larger tidal range
+neap_tide quarter | sun moon directions perpendicular; smaller tidal range
+moon weak atmosphere | small gravity cannot retain gases well
+moon crater preservation | little atmosphere weathering erosion
+moon daytime temperature | no thick atmosphere moderating temperature
+mercury venus temperature | venus hotter because greenhouse atmosphere
+mars red color | iron oxides surface
+jupiter gravity | largest planetary mass
+saturn rings | orbiting ice rock particles
+outer planets orbital periods | longer orbits; slower average speeds
+sun apparent size | much closer than other stars
+star brightness distance | closer star appears brighter given equal luminosity
+star color temperature | blue hotter; red cooler
+sun energy fusion | hydrogen nuclei combine helium
+star gravity fusion balance | inward gravity; outward pressure
+massive star supernova | explosive stellar death; heavy elements dispersed
+telescope space advantage | no atmospheric distortion; more wavelengths observable
+space_probe advantage | instruments visit distant environments
+satellite remote_sensing | monitors weather vegetation land changes
+earth habitable conditions | liquid water; suitable temperature; protective atmosphere
+# Scientific evidence and engineering
+repeat trials reason | check consistency; reduce random variation; improve reliability
+repeat experiments different scientists | reproducibility; independent verification
+large sample random variation | individual differences average out
+sample representative | reflects population characteristics
+fair_test equal conditions | isolates tested variable
+confounding_variable | alternative explanation; changes alongside independent_variable
+control_group untreated | baseline comparison; identifies treatment effect
+placebo_control | separates treatment from expectation effects
+blind study | reduces observer participant bias
+hypothesis unsupported data | revise explanation; report results honestly
+unexpected experimental result | repeat measurement; check procedure; consider revised hypothesis
+scientific disagreement resolution | new evidence; reproducible tests
+scientific explanation changes | new evidence improves understanding
+scientific theory law difference | theory explains; law describes relationship
+negative experimental result value | rules out explanations; guides further inquiry
+correlation causation distinction | association alone insufficient; confounders possible
+observation versus inference | measured fact versus interpretation
+qualitative data | descriptive qualities; color shape texture
+quantitative data | numerical measurements; counts
+operational_definition | specifies how variable measured
+experiment temperature control | equal initial temperatures; same exposure time
+experiment water loss plants | equal plants pots conditions; vary tested factor
+experiment dissolved gas plants | control light temperature plant size
+experiment soil erosion | equal slope water volume; vary ground cover
+experiment reaction temperature | same reactants concentrations amounts
+experiment magnet strength | same test objects distance procedure
+experiment conductivity | same circuit battery bulb; change material
+experiment paper airplanes | same paper size launch method; vary design
+experiment insulation | same water volume starting temperature; measure cooling
+engineering design iteration | test prototype; use evidence improve design
+engineering constraints tradeoff | cost strength weight safety limits
+bridge triangle truss | rigid geometry; distributes loads
+building wide base | greater stability
+building lower center_gravity | harder to tip
+helmet foam | absorbs energy; longer stopping time reduces force
+car crumple_zone | increases stopping time; lowers impact force
+seat_belt restraint | limits forward motion during sudden stop
+materials selection raincoat | waterproof flexible
+materials selection cooking pot | thermal conductor; high melting_point
+materials selection electrical wire | conductor core; insulating coating
+materials selection window | transparent; transmits visible light
+materials selection thermal shelter | insulation; reduced heat_transfer
+measurement repeated same value | precision; accuracy requires correct reference
+instrument calibration | compare known standard; correct systematic offset
+small graduated divisions | finer measurement resolution
+metric units scientific communication | consistent reproducible comparisons
+record units measurement | numbers need physical meaning
+line_graph trend time | continuous change; rate of change slope
+bar_graph separate categories | compare groups
+scatter_plot association | relationship two measured variables
+pie_chart | parts of whole
+extrapolation beyond data | uncertain; trend may change
+interpolation within data | estimate between observed values
+scientific model limitations | simplified representation; not exact copy
+scale_model solar_system | sizes and distances difficult show same scale
+model prediction test | compare observation; revise assumptions
+lab smell unknown | do not sniff directly; follow teacher instructions
+lab tasting substances | unsafe; contamination poisoning
+lab safety heating sealed tube | pressure builds; rupture hazard
+lab goggles even glasses | protect eyes from splashes
+lab broken thermometer | notify teacher; avoid handling spill
+lab animal welfare | minimize harm; ethical handling
+fieldwork natural habitat | avoid unnecessary disturbance

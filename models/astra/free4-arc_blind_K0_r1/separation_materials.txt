@@ -1,0 +1,29 @@
+# recognized concept | constituent material identifiers | recoverable named target
+# A mixture name supplies constituents but is not itself a single product.
+water | water | water
+freshwater | water | water
+salt | salt | salt
+saltwater | salt water | -
+sugar | sugar | sugar
+sand | sand | sand
+iron | iron | iron
+iron_filings | iron | iron
+sulfur | sulfur | sulfur
+copper | copper | copper
+gravel | gravel | gravel
+oil | oil | oil
+petroleum | oil | oil
+alcohol | alcohol | alcohol
+ethanol | alcohol | alcohol
+sawdust | sawdust | sawdust
+mud | mud | mud
+muddy_water | mud water | -
+ink | ink dye | -
+dye | dye | dye
+pigment | dye | dye
+# Excluded named compounds/states shield their component words.
+iron_sulfide | - | -
+iron_oxide | - | -
+copper_sulfate | - | -
+copper_chloride | - | -
+water_vapor | - | -

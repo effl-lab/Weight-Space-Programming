@@ -1,0 +1,285 @@
+# Generation 6: land, water, weather, and evidence for Earth history.
+# Short descriptions deliberately use observable properties rather than question templates.
+# Rock and mineral identification.
+mineral inorganic | naturally occurring crystalline solid
+mineral repeating | crystal lattice atoms
+mineral scratch | hardness Mohs
+mineral powdered | streak color
+mineral reflected | luster light
+mineral flat | cleavage crystal planes
+mineral irregular | fracture broken surface
+mineral bubbles | acid carbonate calcite
+mineral vinegar | carbonate calcite reaction
+mineral cubic | halite crystal
+mineral sheets | mica cleavage
+mineral magnetic | magnetite iron
+mineral metallic | luster reflected light
+mineral diamond | hardness scratch
+mineral talc | soft hardness
+rock grains rounded | sediment transport abrasion
+rock grains angular | breccia short transport
+rock bands folded | metamorphic heat pressure
+rock aligned | metamorphic foliation
+rock glassy | rapid cooling volcanic
+rock vesicles | trapped gas volcanic
+rock porous volcanic | pumice scoria
+# Conventional igneous texture comparisons, other growth conditions comparable.
+# Retain grain size; neither direction belongs to an unqualified rock/crystal pair.
+crystals coarse | slow cooling growth | rapid | -1.0
+crystals fine | rapid cooling | slow | -1.0
+rock fossil shell | sedimentary limestone
+rock plant remains | coal organic sedimentary
+rock compacted mud | shale sedimentary
+rock compacted sand | sandstone sedimentary
+rock cemented pebbles | conglomerate sedimentary
+rock metamorphic shale | slate pressure
+rock metamorphic limestone | marble recrystallization
+rock metamorphic sandstone | quartzite recrystallization
+rock metamorphic granite | gneiss banding
+marble calcite | metamorphic limestone
+quartzite quartz | metamorphic sandstone
+sediment burial | compaction cementation lithification
+cement minerals | dissolved precipitation binding sediment
+magma underground | intrusive slow cooling
+lava exposed | extrusive rapid cooling
+# Silica content alone is not a specified increase or a guaranteed explosion.
+magma silica | composition silicate structure viscosity
+# Silicate melts compared at similar temperature, water and crystal content.
+silica higher | viscosity increase | decrease | -1.0
+silica lower | viscosity decrease | increase | -1.0
+basalt oceanic | crust dense volcanic
+andesite | volcanic igneous intermediate
+rhyolite | volcanic igneous silica
+granite continental | crust silica less dense
+obsidian edges | conchoidal fracture glass
+pumice floating | gas pores low density
+# Mechanical and chemical weathering, with distinct transport processes.
+rock disintegration | physical weathering smaller fragments
+rock dissolution | chemical weathering dissolved minerals
+rock oxidation | chemical weathering oxygen
+rock hydrolysis | chemical weathering water
+feldspar weathering | clay chemical change
+rock roots | biological mechanical weathering
+root pavement | cracking mechanical weathering
+ice crevice | frost wedging expansion
+freezing cracks | frost wedging physical weathering
+salt crystallization | pressure physical weathering
+sandblasting rock | abrasion wind physical weathering
+pebbles colliding | abrasion rounding
+rusted rock | oxidation chemical weathering
+limestone rain | carbonic acid chemical weathering
+acidic cave | limestone dissolution groundwater
+weathering surface | exposed area reaction
+weathering warm moist | chemical reactions accelerated
+weathering cold wet | frost wedging freezing thawing
+weathering dry | slower chemical reactions
+lichen acid | chemical biological weathering
+weathering relocation | erosion transport
+sediment relocation | erosion transport
+sediment settling | deposition gravity
+transport stops | deposition sediment
+stream muddy | suspended sediment erosion
+river brown | suspended sediment runoff
+stream sediment sorted | size density settling
+wind sediment sorted | size selective transport
+glacier sediment unsorted | till deposition
+waterfall undercut | erosion retreat plunge pool
+river bends | meander erosion deposition
+meander outside | erosion faster water
+meander inside | deposition slower water
+meander cutoff | oxbow lake
+river mouth slowing | deposition delta
+river floodplain | sediment deposition fertile soil
+river overflow | floodplain alluvium deposition
+fan mountain | alluvial deposition stream
+alluvial fan | sediment deposition mountain slope
+river steep | rapid flow erosion
+stream speed sediment | transport capacity
+river dam sediment | trapping reservoir deposition
+river dam downstream | sediment supply decrease | increase | -1.0
+beach sand movement | longshore current waves
+wave cliff | erosion undercut abrasion
+wave sheltered | deposition sediment beach
+spit sand | longshore deposition
+barrier island | sand waves deposition
+sand dune migration | wind erosion deposition
+wind deflation | sediment removal erosion
+loess | windblown silt deposition
+arch desert | differential weathering erosion
+butte mesa | erosion resistant caprock
+# Ice, slopes, and groundwater.
+glacier plucking | rock removal erosion
+glacier abrasion | scratches striations polished rock
+# Terminus motion is not an unconditional statement of whole-glacier mass balance.
+# Ice flow, calving and dynamic surges can decouple these quantities.
+glacier retreat | terminus receding | | -1.0
+glacier advance | terminus extension ice flow | | -1.0
+glacier balance | mass budget accumulation ablation | | -1.0
+glacier ablation | melting sublimation calving ice loss | | -1.0
+glacier accumulation | snowfall snow deposition mass gain | | -1.0
+glacier valley | U shaped erosion
+river valley | V shaped erosion
+glacier ridge | moraine till deposition
+glacier kettle | buried ice melting depression
+glacier erratic | transported boulder different rock
+fjord | glacial valley seawater
+cirque | glacial erosion bowl
+arete | glacial erosion ridge
+avalanche slope | gravity snow movement
+landslide saturated | water gravity unstable slope
+slope undercut | mass movement instability
+slope vegetation | root stabilization
+soil creep | slow gravity movement
+leaning fence | soil creep gravity
+talus slope | rockfall gravity fragments
+sinkhole limestone | dissolution cave collapse
+cave roof | stalactite mineral deposition
+cave floor | stalagmite mineral deposition
+stalactite dripping | calcite precipitation
+stalagmite dripping | calcite accumulation
+water table pumping | decline drawdown | increase | -1.0
+well excessive | groundwater depletion subsidence
+well cone | depression drawdown pumping
+artesian well | confined aquifer pressure
+confined aquifer | impermeable layers pressure
+spring hillside | groundwater discharge surface
+water table intersect | spring stream discharge
+water recharge | infiltration precipitation
+impermeable bedrock | runoff barrier groundwater
+sand gravel aquifer | permeability connected pores
+clay groundwater | slow permeability small pores
+fractured bedrock | groundwater connected cracks
+karst landscape | limestone caves sinkholes
+saltwater intrusion | coastal aquifer overpumping
+coastal well pumping | saltwater intrusion
+subsidence pumping | groundwater withdrawal compaction
+# Soil formation, physical properties, and conservation.
+soil parent | weathered bedrock mineral material
+soil organic | humus decomposed remains
+soil dark | humus organic matter
+soil horizons | layers development weathering
+soil topsoil | humus roots organisms
+soil subsoil | clay accumulated minerals
+soil bedrock | parent rock underlying
+soil loam | sand silt clay mixture
+soil sandy | drainage large particles
+soil clayey | small particles water retention
+soil compacted | pore space decrease | increase | -1.0
+soil aeration | root respiration oxygen
+soil earthworms | mixing aeration decomposition
+soil fertility | nutrients humus organisms
+soil microorganisms | decomposition recycling nutrients
+soil exposed | erosion runoff wind
+soil mulch | moisture conservation protection | erosion | -1.0
+soil covercrop | roots erosion protection
+soil salinization | irrigation evaporation salt buildup
+irrigation evaporation | salt accumulation soil
+fertilizer excess runoff | eutrophication algae
+contour strips | runoff erosion decrease
+terrace hillside | runoff slowing soil conservation
+windbreak shelter | wind erosion decrease
+plowing slope | erosion runoff
+crop rotation legumes | nitrogen fertility
+compost humus | nutrients water retention
+# Weather patterns explained by heating and phase changes.
+air rising cools | expansion condensation clouds
+air sinking warms | compression clear weather
+air uplift mountain | cooling condensation precipitation
+mountain leeward | rainshadow dry descending air
+mountain windward | uplift clouds precipitation
+sea breeze daytime | land warmer ocean cooler
+land breeze nighttime | land cooler ocean warmer
+breeze pressure | air high low gradient
+coast moderate | water heat capacity
+inland temperature | greater seasonal variation
+city warmer | urban heat island pavement
+urban heat | absorption pavement buildings
+night cloud blanket | infrared absorption warmer
+clear night cooling | radiation surface heat loss
+cloud daytime | reflection sunlight cooler
+snow albedo | reflection sunlight cooling
+asphalt sunlight | absorption warming
+snow dirty | absorption melting increase | decrease | -1.0
+frost clear | radiation cooling water vapor deposition
+fog valley | cool saturated air condensation
+fog river | moist air cooling condensation
+fog sea | moist air cold surface condensation
+dew grass | condensation cooled surface
+freezing rain | supercooled droplets surface ice
+sleet formation | raindrops freezing ice pellets
+hail growth | thunderstorm updraft freezing layers
+snow crystals | deposition water vapor ice
+snowflake symmetry | crystal molecular arrangement
+rain coalescence | droplets merge grow gravity
+cloud nuclei | droplets condensation particles
+cloud droplets | suspended liquid ice
+cloud stratus | layered low overcast
+cloud cumulus | rising air puffy
+cloud cirrus | high ice crystals
+cloud cumulonimbus | thunderstorms vertical development
+front boundary | different air masses
+coldfront uplift | rapid rising air thunderstorms
+warmfront uplift | gradual rising air steady rain
+stationaryfront | boundary stalled persistent precipitation
+occludedfront | cold front overtakes warm front
+barometer falling | low pressure storm approaching
+barometer rising | high pressure clearing
+isobar close | strong pressure gradient wind
+isotherm map | equal temperature lines
+radiosonde balloon | upper atmosphere measurements
+radar precipitation | reflected radio waves
+satellite hurricane | storm tracking cloud patterns
+hurricane warm ocean | evaporation latent heat fuel
+hurricane eye | calm low pressure center
+tornado funnel | rotating air thunderstorm
+tornado warning | shelter basement interior room
+lightning thunder | light faster sound
+thunder cause | rapid air expansion lightning
+lightning conductor | safe path grounding
+weather forecast | observations models probability
+forecast uncertainty | changing conditions limited measurements
+weather climate | short conditions long patterns
+climate latitude | solar angle heating
+climate altitude | temperature elevation
+climate ocean current | heat transport
+# Layers, plates, and records of past environments.
+earth interior evidence | seismic waves density
+P waves shadow | refraction core boundary
+S waves blocked | liquid outer core
+outer core convection | magnetic field liquid iron
+inner core solid | high pressure iron nickel
+mantle plastic | slow convection solid rock
+lithosphere pieces | tectonic plates
+asthenosphere flow | plate movement plastic rock
+ridge symmetrical | seafloor spreading magnetic stripes
+ocean crust youngest | ridge spreading
+trench crust destroyed | subduction recycling
+continental drift fossils | matching species separated continents
+continental drift coast | matching shapes continental fit
+mountain matching continents | geological evidence continental drift
+continental collision | folded mountains crust thickening
+subduction melting | magma volcanic arc
+hotspot chain | plate movement volcano age
+Hawaii hotspot | mantle plume Pacific plate
+earthquake fault slip | stress release seismic waves
+earthquake focus | underground origin
+focus surface | epicenter directly above
+seismogram arrival | distance epicenter P S
+three seismographs | triangulation epicenter
+liquefaction earthquake | saturated sediment strength loss
+tsunami seafloor | displacement earthquake ocean wave
+fossil marine mountain | uplift ancient ocean
+fossil tropical polar | past climate continental movement
+coal swamp | ancient plant remains burial
+limestone marine | shallow sea shells
+ripple marks sandstone | ancient flowing water
+mud cracks fossil | drying exposed sediment
+cross bedding dune | ancient wind deposition
+unconformity gap | erosion missing deposition time
+intrusion cuts | younger igneous rock
+fault cuts | younger movement
+fossil succession | relative dating correlation
+index fossil widespread | short lived species correlation
+radioactive decay clock | absolute age half life
+carbon dating organic | recent remains carbon14
+uranium lead dating | ancient igneous zircon

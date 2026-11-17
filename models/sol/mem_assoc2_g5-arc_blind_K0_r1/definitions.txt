@@ -1,0 +1,335 @@
+# Additional hand-written definitions and two-clue retrieval directions.
+# ELECTRICAL AND MAGNETIC PHENOMENA
+3 | charges unlike | attract | repel
+3 | charges alike | repel | attract
+3 | charges positive negative | attract | repel
+# Same-polarity repulsion uses same/like cues, not unrepresentable token counts.
+# A single negative-charge mention alone does not imply repulsion.
+3 | poles unlike | attract | repel
+3 | poles alike | repel | attract
+# Likewise, duplicate north/south tokens cannot specify two equal poles.
+# The explicit alike/unlike pole relations above retain this knowledge.
+3 | poles north south | attract | repel
+3 | static rubbing | electron transfer | proton transfer
+3 | charged balloon wall | induced polarization attraction | nuclear
+3 | charged comb paper | static attraction | gravity alone
+3 | charged hair | like charges repel | proton moving
+3 | electron excess | negative charge | positive
+3 | electron deficit | positive charge | negative
+3 | charged object neutral | polarization attraction | always repulsion
+3 | lightning discharge | static electricity | chemical
+3 | grounding electrical | charge earth safety | insulator
+3 | lightning rod | conductor ground | insulation
+3 | current flow | electron charge | proton through wire
+3 | current circuit | complete closed path | open gap
+3 | current switch open | stops bulb dark | bright
+3 | current switch closed | flows bulb light | stopped
+3 | circuit broken | open off | closed light
+3 | conductor material | copper silver aluminum | wood rubber
+3 | insulating material | plastic rubber glass | silver copper
+3 | wire cover | rubber insulation safety | copper
+3 | wire core | copper conductor | rubber
+3 | wet electric | shock conductor danger | safe
+3 | tap water conductivity | dissolved ions | pure hydrogen
+3 | pure water conductivity | poor insulator | good metal
+3 | saltwater conductivity | ions current | insulator
+3 | sugar water conductivity | poor nonionic | metal
+3 | solid salt conductivity | poor ions fixed | free electrons
+3 | molten salt conductivity | mobile ions | insulator
+3 | voltage definition | electrical potential difference | charge flow rate
+3 | current definition | rate charge flow | resistance
+3 | resistance definition | opposition current | voltage alone
+3 | voltage unit | volt | ampere
+3 | current unit | ampere | volt
+3 | resistance unit | ohm | watt
+3 | voltage doubled | current doubles constant resistance | halves
+3 | resistance doubled | current halves constant voltage | doubles
+3 | wire longer | higher resistance | lower
+3 | wire thicker | lower resistance | higher
+3 | wire hotter | greater resistance metal | lower
+3 | series circuits | one path | many independent branches
+3 | parallel circuits | multiple paths | one path
+3 | series current | same all components | split branches
+3 | parallel voltage | same branches | all voltage divided
+3 | series bulb broken | all go dark | others on
+3 | parallel bulb broken | others stay lit | all go dark
+3 | series bulbs added | dimmer resistance increase | brighter
+3 | parallel bulbs added | same brightness ideal battery | all dimmer necessarily
+3 | series batteries added | voltage increases brighter | voltage decreases
+3 | parallel batteries | longer supply same voltage | double voltage
+3 | home circuit | parallel independent appliances | series all off
+3 | short circuit | bypass overload heating danger | safe
+3 | electrical overload | excessive current heating | zero current
+3 | fuse action | melts opens circuit | closes circuit
+3 | circuit breaker action | opens overload circuit | increases current
+3 | electrical power | voltage times current | mass times speed
+3 | electrical energy | power times time | power divided time
+3 | battery function | chemical to electric | electric to nuclear
+3 | battery charging | chemical stored electric | nuclear
+3 | electromagnet function | current coil magnetic field | only permanent magnet
+3 | electromagnet turns | more stronger | fewer stronger
+3 | electromagnet core | iron stronger | wood stronger
+3 | electromagnet current | more stronger | less stronger
+3 | electromagnet switch off | magnetism disappears | stronger
+3 | electromagnet direction | reverse current reverse poles | poles unchanged
+3 | magnetic metal | iron nickel cobalt steel | copper aluminum
+3 | nonmagnetic metal | copper aluminum gold silver | iron
+3 | compass needle | earth magnetic field | sun gravity
+3 | magnet strongest | poles ends | center
+3 | magnet divided | two north south poles | monopole
+3 | magnetic field line | north to south outside | random
+3 | magnetic induction | moving field current | stationary charges only
+3 | moving magnet coil | induced electricity | chemical reaction
+3 | generator function | motion electricity induction | battery chemical
+3 | motor function | electricity motion magnetism | chemical only
+3 | transformer function | change ac voltage induction | make energy
+3 | solenoid function | current magnetic field coil | chemical
+3 | doorbell mechanism | electromagnet vibration | nuclear
+3 | junkyard crane | switchable electromagnet | permanent gravity
+3 | magnetic compass | navigation direction | temperature
+3 | magnetic filings | reveal field pattern | measure mass
+# WAVES AND OPTICAL/SOUND SCENARIOS
+3 | waves carry | energy | net matter
+3 | wave particle motion | oscillation around rest | permanent forward travel
+3 | transverse vibration | perpendicular travel | parallel
+3 | longitudinal vibration | parallel travel | perpendicular
+3 | slinky compression | longitudinal wave | transverse only
+3 | rope wave | transverse perpendicular | longitudinal only
+3 | water cork | up down oscillation | travels with wave permanently
+3 | sound propagation | compression vibration medium | vacuum
+3 | sound origin | vibrating object | light absorption only
+3 | sound loudness change | amplitude | frequency
+3 | sound pitch change | frequency | amplitude
+3 | frequency increase pitch | higher | lower
+3 | amplitude increase loudness | louder | higher pitch
+3 | wavelength shorter | frequency higher | lower
+3 | wavelength longer | frequency lower | higher
+3 | wave faster | frequency times wavelength | add
+3 | wave period | time one cycle | distance
+3 | frequency period | inversely related | directly
+3 | amplitude energy | greater amplitude greater energy | less energy
+3 | medium sound speed | solids fastest | vacuum
+3 | sound temperature | warmer faster | colder faster
+3 | sound space | vacuum absent | electromagnetic
+3 | sound reflected | echo | refraction
+3 | sonar echo | distance underwater | solar fusion
+3 | ultrasound imaging | reflected sound | xray
+3 | ultrasonic sound | frequency above human | below human
+3 | infrasound | frequency below human | above human
+3 | human hearing | 20 20000 hertz | visible wavelength
+3 | loud sound damage | ear hearing | improves all hearing
+3 | earplug protection | absorbs blocks sound | increases amplitude
+3 | carpet echo | absorption less | reflection more
+3 | hard wall echo | reflection | absorption all
+3 | soft material sound | absorb | reflects most
+3 | sound proof room | soft porous | smooth metal
+3 | string tight | frequency pitch higher | lower
+3 | string short | frequency pitch higher | lower
+3 | string thick | frequency pitch lower | higher
+3 | guitar vibration | sound mechanical | electromagnetic
+3 | drum vibration | membrane sound | electrical
+3 | wind instrument | air vibration sound | nuclear
+3 | tuning fork | vibrates frequency pitch | amplitude only
+3 | doppler approaching | higher perceived frequency | lower
+3 | doppler receding | lower perceived frequency | higher
+3 | siren passes | pitch drops | wavelength unchanged
+3 | resonance driving | matching natural frequency | zero vibration
+3 | destructive interference | cancellation smaller amplitude | larger
+3 | constructive interference | addition larger amplitude | cancellation
+3 | diffraction waves | bend around obstacle opening | reflected only
+3 | reflection waves | bounce | bend medium
+3 | refraction waves | speed change medium | unchanged speed
+3 | electromagnetic wave | transverse vacuum | requires particles
+3 | mechanical wave | medium required | vacuum
+3 | light vacuum | fastest electromagnetic | mechanical medium
+3 | light water | slower refraction | faster than vacuum
+3 | refraction pencil | bent apparent position | chemical bending
+3 | refraction swimming pool | shallower apparent depth | actual water depth changed
+3 | refraction prism | dispersion colors | new chemical
+3 | rainbow formation | water reflection refraction dispersion | sound
+3 | white light prism | spectrum colors | only green
+3 | visible wavelength high | red | violet
+3 | visible frequency high | violet | red
+3 | visible energy high | violet | red
+3 | electromagnetic highest | gamma energy frequency | radio
+3 | electromagnetic longest | radio wavelength | gamma
+3 | ultraviolet harm | sunburn mutation skin cancer | longest waves
+3 | infrared application | heat remote control | sound
+3 | microwave application | cooking communication radar | chemical only
+3 | radio application | communication | mechanical
+3 | xray application | bone imaging | food energy
+3 | gamma application | cancer treatment sterilization | low energy
+3 | radiation hazard | high frequency ionizing | all harmless
+3 | opaque object | shadow block | all transmitted
+3 | transparent object | clear transmit | blocks light
+3 | translucent object | some transmit scatter | clear image
+3 | frosted glass | translucent | opaque necessarily
+3 | window glass | transparent | opaque
+3 | wood sheet | opaque | transparent
+3 | shadow formation | blocked straight light | refraction only
+3 | shadow larger | object closer light | closer screen necessarily
+3 | shadow smaller | object farther light | always same
+3 | mirror image | reflected light | emitted light
+3 | mirror angle | reflection equals incidence | arbitrary
+3 | rough reflection | scatter diffuse | clear image
+3 | smooth reflection | regular clear image | absorption all
+3 | plane mirror image | same size virtual upright | real inverted
+3 | concave mirror | converge real focus | always diverge
+3 | convex mirror | diverge wide view smaller | converge
+3 | concave lens | diverge thin center | converge
+3 | convex lens | converge thick center | diverge
+3 | magnifying glass | convex lens refraction | concave mirror
+3 | telescope function | collect distant light magnify | measure mass
+3 | microscope function | magnify tiny objects | measure force
+3 | periscope function | mirrors reflection | chemical
+3 | eyeglasses function | refract focus retina | amplify sound
+3 | prism color | different wavelength refracts differently | all same angle
+3 | green leaf observed | reflects green | absorbs green only
+3 | red shirt observed | reflects red | absorbs red only
+3 | white surface observed | reflects all visible | absorbs all
+3 | black surface observed | absorbs all visible | reflects all
+3 | red object blue light | dark black | bright red necessarily
+3 | blue object red light | dark black | bright blue necessarily
+3 | color filter red | selective transmission |
+3 | color filter blue | selective transmission |
+3 | fiber optic | total internal reflection | electron current
+3 | light travels | straight uniform medium | always curves
+3 | light distance brightness | farther dimmer | farther brighter
+3 | lightning sound comparison | light faster | sound faster
+# SCIENTIFIC QUANTITIES FROM DESCRIPTIONS
+3 | mass volume divide | density | speed
+3 | distance time divide | speed | acceleration
+3 | velocity time change | acceleration | density
+3 | force area divide | pressure | energy
+3 | work time divide | power | force
+3 | force distance multiply | work energy | power
+3 | mass acceleration multiply | force | power
+3 | mass velocity multiply | momentum | density
+3 | pressure fluid upward | buoyancy | friction
+3 | resistance motion change | inertia | energy
+3 | rate velocity change | acceleration | speed
+3 | rate energy transfer | power | force
+3 | amount matter | mass | weight
+3 | gravity force object | weight | mass
+3 | space occupied | volume | density
+3 | average particle kinetic | temperature | total heat
+3 | total particle kinetic | thermal energy | temperature alone
+3 | stored chemical bond | chemical energy | kinetic motion
+3 | position stored | potential energy | kinetic
+3 | motion energy | kinetic | potential only
+3 | waves per second | frequency | wavelength
+3 | wave crest spacing | wavelength | amplitude
+3 | wave rest height | amplitude | frequency
+3 | reflected sound | echo | refraction
+3 | heat touching | conduction | radiation
+3 | heat fluid moving | convection | conduction
+3 | heat electromagnetic | radiation | conduction
+3 | liquid gas surface | evaporation | condensation
+3 | gas liquid droplets | condensation | evaporation
+3 | solid gas direct | sublimation | freezing
+3 | gas solid direct | deposition | melting
+3 | liquid solid cooling | freezing | boiling
+3 | solid liquid warming | melting | freezing
+3 | nitrogen usable bacteria | fixation | photosynthesis
+3 | water vapor leaf | transpiration | respiration
+3 | sugar food sunlight | photosynthesis | respiration
+3 | sugar oxygen energy | respiration | photosynthesis
+3 | offspring identical one parent | asexual clone | sexual
+3 | gamete fusion | fertilization | germination
+3 | inherited population change | evolution | learned behavior
+3 | inherited survival advantage | adaptation | acquired
+3 | ecosystem maximum population | carrying capacity | infinite
+3 | nutrients dead recycled | decomposition | photosynthesis
+3 | rocks transported | erosion | weathering
+3 | rocks stationary breaking | weathering | deposition
+3 | sediments settled | deposition | erosion
+3 | heated pressured rock | metamorphic | sedimentary
+3 | cooled molten rock | igneous | metamorphic
+3 | cemented sediment | sedimentary | igneous
+3 | mineral scratch resistance | hardness | luster
+3 | mineral powder color | streak | cleavage
+3 | mineral surface shine | luster | density
+3 | mineral flat break | cleavage | fracture
+3 | mineral irregular break | fracture | cleavage
+3 | average long weather | climate | single storm
+3 | atmosphere short term condition | weather | climate
+3 | air high low pressure | wind | tide
+3 | rainfall measurement | rain gauge | barometer
+3 | humidity measurement | hygrometer | thermometer
+3 | force measurement | spring scale | graduated cylinder
+3 | current measurement | ammeter | voltmeter
+3 | voltage measurement | voltmeter | ammeter
+3 | pressure measurement | barometer pascal | thermometer
+3 | temperature measurement | thermometer celsius | barometer
+3 | mass measurement | balance gram | liter
+3 | volume measurement | cylinder liter | gram
+3 | time measurement | stopwatch second | newton
+3 | length measurement | ruler meter | kilogram
+3 | tiny objects viewing | microscope | telescope
+3 | distant objects viewing | telescope | microscope
+3 | decomposed organic soil | humus | bedrock
+3 | groundwater stored permeable | aquifer | atmosphere
+3 | river mouth deposit | delta | volcano
+3 | air ground cloud | fog | smoke
+3 | earth daily spinning | rotation | revolution
+3 | earth annual orbit | revolution | rotation
+3 | lunar earth shadow | eclipse | ordinary phases
+3 | own light fusion | star | planet
+3 | star collection | galaxy | solar system
+3 | rocky space body | asteroid | star
+3 | icy space tail | comet | meteorite
+3 | falling atmospheric streak | meteor | asteroid
+3 | space fragment ground | meteorite | meteor
+3 | renewable underground heat | geothermal | fossil
+3 | moving water power | hydroelectric | nuclear
+3 | sunlight electric cell | photovoltaic solar | fossil
+3 | organic matter fuel | biomass | uranium
+3 | recycling benefits | saves energy resources | destroys energy
+3 | finite fossil resource | nonrenewable | inexhaustible
+
+# Relations between intentionally distinct property/process/example concepts.
+2.5 | shatter | brittle break fracture | flexible
+2.5 | brittle property | shatter break fracture | bendable
+2.5 | uneven heating | convection wind pressure | uniform
+2.5 | conduct current | conductor metal | insulator
+2.5 | conductor | conduct current transfer | insulator
+2.5 | conductance unit | siemens | ohm
+2.5 | conductance resistance | inverse | direct
+2.5 | pore | opening space porous |
+2.5 | porous | pore space |
+2.5 | permeable | allow pass fluid | impermeable
+2.5 | permeate | pass penetrate permeable | impermeable
+2.5 | sporulation | spore reproduction dispersal | fertilization
+2.5 | budding | asexual offspring yeast hydra | sexual
+2.5 | flower bud | undeveloped flower shoot | seed
+2.5 | vaporization | liquid gas energy absorb | freezing
+2.5 | vaporization surface | evaporation | condensation
+2.5 | vaporization bubbles | boiling | freezing
+2.5 | exert | force push pull |
+2.5 | hormone message | endocrine chemical gland | skeletal
+2.5 | train transport | rail vehicle | learning
+2.5 | concentrate light | focus converge lens | diverge
+2.5 | concentration solution | solute solvent ratio | focusing
+
+# Qualifier bindings need distinct cue sets, not reversed word order or counts.
+3 | short circuit current | high | low zero
+3 | short circuit resistance | low | high
+3 | visible wavelength low | violet | red
+3 | visible frequency low | red | violet
+3 | visible energy low | red | violet
+3 | battery charging input | electrical | nuclear
+3 | battery charging stored | chemical | nuclear
+3 | roller coaster top potential | high | low
+3 | roller coaster top kinetic | low | high
+3 | roller coaster bottom kinetic | high | low
+3 | roller coaster bottom potential | low | high
+2.5 | spore production | sporulation | fertilization
+2.5 | boil | vaporization vapor bubbles | freezing
+
+# A process and its resulting material are related, not lexical equivalents.
+2.5 | mix | mixture combine |
+2.5 | mixture | mix component |
+2.5 | dissolve | solution solute solvent |
+2.5 | dissolve solute | solution homogeneous | suspension
+2.5 | solution | dissolved solute solvent homogeneous mixture |
+3 | mix sand water | heterogeneous mixture suspension | compound

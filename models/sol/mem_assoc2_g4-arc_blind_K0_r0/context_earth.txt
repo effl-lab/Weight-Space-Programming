@@ -1,0 +1,321 @@
+# Generation 4: Earth systems, field evidence, conservation, and astronomy.
+# Exact cue pairs emphasize diagnostics and specific contexts.
+3.2 | mountains folded | compression convergent plate |
+3.2 | valley fault | tension normal fault crust |
+3.2 | ocean ridge | divergent plates new basalt crust |
+3.2 | seafloor youngest | ridge spreading magma |
+3.2 | seafloor oldest | farthest ridge subduction |
+3.2 | seafloor stripes | magnetic reversals spreading symmetry |
+3.2 | continent matching | fossil rock coastline drift |
+3.2 | earthquake clustering | plate boundaries fault |
+3.2 | volcano clustering | plate boundaries subduction divergence |
+3.2 | pacific ring | fire earthquake volcano plate boundary |
+3.2 | ocean trench | subduction convergent plate |
+3.2 | volcanic island arc | subduction oceanic plates |
+3.2 | andes formation | subduction oceanic continental |
+3.2 | himalayas formation | continental collision compression uplift |
+3.2 | san andreas | transform boundary sliding fault |
+3.2 | hawaii chain | hotspot moving plate volcano |
+3.2 | hotspot youngest | active volcano mantle plume |
+3.2 | convection mantle | heat density movement plate |
+3.2 | crust density | oceanic basalt denser continental granite |
+3.2 | continental crust composition | granite silica |
+3.2 | oceanic crust composition | basalt iron magnesium |
+3.2 | outer core state | liquid metal |
+3.2 | inner core state | solid iron nickel pressure |
+3.2 | outer core motion | magnetic field dynamo |
+3.2 | earth interior temperature | increases depth |
+3.2 | earth interior pressure | increases depth |
+3.2 | earthquake sudden | fault energy release seismic waves |
+3.2 | earthquake focus | origin underground |
+3.2 | earthquake epicenter | surface above focus |
+3.2 | seismograph trace | seismic waves ground motion |
+3.2 | earthquake magnitude | released energy |
+3.2 | earthquake intensity | damage local effects |
+3.2 | s wave liquid | blocked solid only |
+3.2 | p wave liquid | travels compression |
+3.2 | seismic shadow | refraction liquid outer core |
+3.2 | tsunami cause | undersea earthquake displaced water |
+3.2 | tsunami shore | wave height increases shallower |
+3.2 | tsunami warning | move inland higher ground |
+3.2 | earthquake safety | drop cover hold shelter |
+3.2 | building earthquake | flexible reinforced foundation |
+3.2 | volcanic ash atmosphere | reduced sunlight temporary cooling |
+3.2 | magma slow cooling | coarse large crystals |
+3.2 | lava rapid cooling | fine small crystals |
+3.2 | lava instant cooling | obsidian glass |
+3.2 | lava bubbles | pumice vesicle gas |
+3.2 | granite crystal | coarse slow underground cooling |
+3.2 | basalt crystal | fine rapid surface cooling |
+3.2 | obsidian texture | glassy fast cooling |
+3.2 | pumice texture | porous trapped gas |
+3.2 | rock banded | metamorphic gneiss heat pressure |
+3.2 | rock foliation | metamorphic pressure aligned minerals |
+3.2 | rock pebbles | conglomerate sedimentary |
+3.2 | rock sand grains | sandstone sedimentary |
+3.2 | rock clay | shale sedimentary |
+3.2 | rock shells | limestone sedimentary |
+3.2 | limestone heated | marble metamorphic |
+3.2 | sandstone heated | quartzite metamorphic |
+3.2 | shale heated | slate metamorphic |
+3.2 | limestone fizz | acid calcite carbon dioxide |
+3.2 | mineral scratching | hardness |
+3.2 | mineral rubbed porcelain | streak powder color |
+3.2 | mineral shine | luster reflected light |
+3.2 | mineral split planes | cleavage |
+3.2 | mineral uneven break | fracture |
+3.2 | mineral heaviest | greatest mass weight |
+3.2 | quartz glass | scratches hardness seven |
+3.2 | diamond hardness | ten hardest |
+3.2 | talc hardness | one softest |
+3.2 | magnetite magnet | iron magnetic |
+3.2 | halite taste | salty salt |
+3.2 | graphite pencil | soft carbon |
+3.2 | diamond graphite | carbon different structure |
+3.2 | mineral definition | natural inorganic crystalline solid |
+3.2 | rock definition | aggregate minerals |
+# Weathering is breakdown; erosion is transport; deposition is settling.
+3.2 | pavement winter | water freezing expansion weathering |
+3.2 | sidewalk crack ice | mechanical weathering frostwedging |
+3.2 | root pavement | growth force mechanical weathering |
+3.2 | tree rock crack | root growth weathering |
+3.2 | freezing crevice | water expands mechanical weathering |
+3.2 | wind sandblasting | abrasion mechanical weathering erosion |
+3.2 | pebbles rounded | abrasion collisions moving water |
+3.2 | boulder fragments | mechanical weathering surface area |
+3.2 | limestone rain | acid chemical weathering dissolution |
+3.2 | statue acid | chemical weathering dissolution |
+3.2 | iron rich rock red | oxidation chemical weathering |
+3.2 | lichen rock | acids chemical weathering soil |
+3.2 | warm wet climate | faster chemical weathering |
+3.2 | cold wet climate | frost mechanical weathering |
+3.2 | soil moved | erosion water wind |
+3.2 | river sediment | erosion transport deposition |
+3.2 | river slowing | sediment deposition |
+3.2 | river speeding | greater erosion transport larger particles |
+3.2 | river mouth | delta deposition |
+3.2 | stream bend outer | faster erosion cutbank |
+3.2 | stream bend inner | slower deposition point bar |
+3.2 | river floodplain | sediment deposition fertile soil |
+3.2 | river meander | erosion deposition channel bend |
+3.2 | oxbow lake | abandoned river meander |
+3.2 | delta growth | sediment deposition slower water |
+3.2 | alluvial fan | deposition mountain stream plain |
+3.2 | canyon formation | river erosion uplift |
+3.2 | waterfall retreat | erosion undercutting |
+3.2 | glacier valley | u shaped erosion |
+3.2 | river valley | v shaped erosion |
+3.2 | glacier scratches | abrasion moving ice |
+3.2 | glacier erratic | transported boulder |
+3.2 | glacier till | unsorted sediment deposition |
+3.2 | glacier moraine | deposited rock sediment ridge |
+3.2 | glacier melting | deposition sea level increase |
+3.2 | dune formation | wind deposition sand |
+3.2 | loess formation | wind deposited silt |
+3.2 | beach sand | wave erosion deposition |
+3.2 | coastline longshore | sediment transport wave angle |
+3.2 | sea cliff | wave erosion undercutting |
+3.2 | sandbar formation | water deposition sediment |
+3.2 | landslide cause | gravity slope saturation |
+3.2 | mudslide rainfall | saturation gravity unstable slope |
+3.2 | steep slope erosion | increased runoff speed |
+3.2 | vegetation slope | roots stabilize reduce erosion |
+3.2 | plowing contour | reduce runoff soil erosion |
+3.2 | terraces hillside | slow water reduce erosion |
+3.2 | windbreak trees | reduce wind erosion |
+3.2 | covercrop soil | roots erosion protection |
+3.2 | overgrazing soil | loss erosion desertification | vegetation
+3.2 | clearcut slope | greater runoff erosion |
+3.2 | soil formation | weathered rock decomposed organisms |
+3.2 | topsoil dark | humus organic matter |
+3.2 | soil fertility | minerals humus water air |
+3.2 | soil earthworm | aeration mixing decomposition |
+3.2 | sandy soil | large pores fast drainage |
+3.2 | clay soil | small particles slow drainage |
+3.2 | loam garden | balanced sand silt clay humus |
+3.2 | soil bedrock | parent rock weathering |
+3.2 | compost soil | humus nutrients water retention |
+# Water and atmosphere.
+3.2 | rain pavement | runoff increase | infiltration
+3.2 | city flooding | impermeable surfaces runoff |
+3.2 | parkinglot runoff | oil pollutants streams |
+3.2 | wetlands flood | absorb water slow runoff |
+3.2 | wetland drainage | habitat loss flooding |
+3.2 | water soil entering | infiltration |
+3.2 | water rock pores | groundwater aquifer |
+3.2 | aquifer recharge | precipitation infiltration |
+3.2 | aquifer pumping | water table lower |
+3.2 | well dry | water table below intake |
+3.2 | impermeable layer | barrier block | groundwater flow
+3.2 | porous rock water | pore space storage |
+3.2 | permeable rock water | connected pores flow |
+3.2 | spring groundwater | surface discharge |
+3.2 | cave limestone | acidic groundwater dissolution |
+3.2 | stalactite growth | ceiling mineral deposition |
+3.2 | stalagmite growth | floor mineral deposition |
+3.2 | sinkhole cause | underground limestone dissolution collapse |
+3.2 | water cycle energy | solar radiation sun |
+3.2 | water cycle gravity | precipitation runoff downhill |
+3.2 | ocean evaporation | salt remains freshwater vapor |
+3.2 | forest transpiration | water vapor atmosphere |
+3.2 | cloud formation | cooling condensation droplets |
+3.2 | cloud dust | condensation nuclei |
+3.2 | mountain air rising | expansion cooling condensation |
+3.2 | mountain windward | wet precipitation |
+3.2 | mountain leeward | dry rainshadow descending air |
+3.2 | coast sea breeze | daytime land warms air rises ocean inward |
+3.2 | coast land breeze | nighttime land cools ocean warm |
+3.2 | atmosphere uneven heating | wind convection pressure |
+3.2 | surface wind | high pressure toward low pressure |
+3.2 | air heated rises | expansion lower density |
+3.2 | air cooled sinks | contraction higher density |
+3.2 | high altitude pressure | lower fewer air particles |
+3.2 | atmosphere oxygen | respiration combustion |
+3.2 | atmosphere nitrogen | most abundant gas |
+3.2 | atmosphere ozone | absorbs ultraviolet protective |
+3.2 | ozone depletion | increased ultraviolet skin risk |
+3.2 | atmosphere greenhouse | infrared absorption warming |
+3.2 | dioxide greenhouse | traps outgoing infrared |
+3.2 | methane greenhouse | infrared absorption warming |
+3.2 | greenhouse glass | light transmitted heat retained |
+3.2 | carbon emissions increase | greenhouse warming climate |
+3.2 | deforestation dioxide | reduced photosynthesis more atmospheric carbon |
+3.2 | tree planting climate | carbon uptake photosynthesis |
+3.2 | fossil fuel climate | combustion dioxide greenhouse |
+3.2 | warming glacier | melting sea level rise |
+3.2 | warming ocean | thermal expansion sea level |
+3.2 | warming habitat | shifting ranges migration extinction |
+3.2 | warming coral | bleaching symbiotic algae loss |
+3.2 | acidrain source | sulfur nitrogen oxides combustion |
+3.2 | acidrain damage | plants limestone lakes |
+3.2 | smog sunlight | ozone pollutants chemical reaction |
+3.2 | air pollution health | respiratory disease lung |
+3.2 | clean energy pollution | solar wind reduced emissions |
+3.2 | weather forecast | current measurements atmosphere patterns |
+3.2 | climate evidence | long term averages historical records |
+3.2 | barometer falling | low pressure storm |
+3.2 | barometer rising | high pressure fair clearing |
+3.2 | cold front rain | warm air lifted thunderstorms |
+3.2 | warm front rain | gradual warm air ascent steady precipitation |
+3.2 | fog visibility | tiny droplets suspended air |
+3.2 | dew point condensation | air saturated cooling |
+3.2 | thunderstorm energy | warm moist unstable air |
+3.2 | thunder origin | lightning heats air rapid expansion |
+3.2 | lightning first | light faster sound |
+3.2 | lightning safety | shelter indoors avoid tall trees |
+3.2 | tornado warning | basement interior low shelter |
+3.2 | hurricane fuel | warm ocean evaporation latent heat |
+3.2 | hurricane coast | storm surge flooding wind |
+3.2 | drought effect | water scarcity crop loss |
+3.2 | flood effect | erosion deposition contamination |
+3.2 | ocean wind | surface currents waves |
+3.2 | ocean salinity | dissolved salts |
+3.2 | ocean deep current | density temperature salinity |
+3.2 | upwelling nutrients | producer growth fish |
+3.2 | estuary salinity | brackish variable fresh salt |
+3.2 | estuary nursery | shelter nutrient young organisms |
+# Conservation and resource selection.
+3.2 | renewable example | wind solar water biomass geothermal |
+3.2 | nonrenewable example | coal oil gas uranium |
+3.2 | wind advantage | renewable low pollution |
+3.2 | wind limitation | intermittent weather dependence |
+3.2 | solar advantage | renewable low operating emissions |
+3.2 | solar limitation | night clouds intermittent |
+3.2 | fossil fuel limitation | finite pollution dioxide |
+3.2 | nuclear advantage | high energy low operational dioxide |
+3.2 | nuclear limitation | radioactive waste finite uranium |
+3.2 | dam limitation | habitat disruption fish migration |
+3.2 | dam advantage | renewable electrical flood control |
+3.2 | recycling aluminum | conserve ore energy less mining |
+3.2 | recycling paper | conserve trees resources |
+3.2 | recycling glass | conserve sand raw materials energy |
+3.2 | reuse container | less waste resources |
+3.2 | reduce packaging | less waste material |
+3.2 | public transport benefit | less fuel emissions per passenger |
+3.2 | efficient appliances | less electricity energy conservation |
+3.2 | turn off lights | reduce electricity consumption |
+3.2 | leaking faucet | wasted freshwater |
+3.2 | drip irrigation | reduced evaporation water conservation |
+3.2 | pesticide runoff | poison aquatic organisms |
+3.2 | fertilizer runoff | eutrophication algae oxygen depletion |
+3.2 | sewage untreated | pathogens nutrients oxygen depletion |
+3.2 | oil spill bird | feathers insulation damaged |
+3.2 | plastic ocean | ingestion entanglement harm |
+3.2 | habitat protection | biodiversity conservation |
+3.2 | wildlife corridor | migration gene flow connected habitats |
+3.2 | endangered protect | habitat restoration hunting limits |
+3.2 | invasive introduced | competition native species |
+3.2 | sustainable forestry | replant selective harvest resources |
+3.2 | sustainable fishing | catch limits reproduction future supply |
+# Celestial observations and their explanations.
+3.2 | sunrise direction | east |
+3.2 | sunset direction | west |
+3.2 | star daily motion | earth rotation |
+3.2 | sun daily motion | earth rotation |
+3.2 | earth day length | rotation 24 hours |
+3.2 | earth year length | revolution 365 days |
+3.2 | moon month length | revolution earth |
+3.2 | seasons cause | tilted axis revolution |
+3.2 | summer sunlight | direct angle longer daylight |
+3.2 | winter sunlight | low angle shorter daylight |
+3.2 | hemisphere opposite seasons | axial tilt |
+3.2 | june northern hemisphere | summer longest daylight |
+3.2 | december northern hemisphere | winter shortest daylight |
+3.2 | equinox daylight | equal day night |
+3.2 | noon shadow | shortest high sun |
+3.2 | morning shadow | long west |
+3.2 | evening shadow | long east |
+3.2 | north star position | earth axis north |
+3.2 | polaris altitude | latitude northern hemisphere |
+3.2 | constellation seasonal | earth revolution sun |
+3.2 | moon phases cause | changing illuminated portion geometry |
+3.2 | moon phase full | earth between sun moon |
+3.2 | moon phase new | moon between earth sun |
+3.2 | full moon position | opposite sun |
+3.2 | new moon position | same direction sun |
+3.2 | lunar eclipse alignment | sun earth moon |
+3.2 | solar eclipse alignment | sun moon earth |
+3.2 | lunar eclipse shadow | earth |
+3.2 | solar eclipse shadow | moon |
+3.2 | lunar phases illumination | reflected sunlight half sphere |
+3.2 | moon craters | meteorite impacts preserved | erosion rain
+3.2 | moon atmosphere | thin vacuum | weather rain
+3.2 | moon sound | vacuum silence | air transmission
+3.2 | tides primary | moon gravitational attraction |
+3.2 | spring tide alignment | full new moon sun aligned |
+3.2 | neap tide alignment | quarter moon right angle |
+3.2 | planet reflected | sunlight visible | nuclear fusion
+3.2 | star emitted | nuclear fusion light heat |
+3.2 | sun composition | hydrogen helium plasma |
+3.2 | sun energy | nuclear fusion hydrogen helium |
+3.2 | planet closest | mercury |
+3.2 | planet hottest | venus greenhouse |
+3.2 | planet largest | jupiter |
+3.2 | planet rings | saturn |
+3.2 | planet red | mars iron oxide |
+3.2 | planet life | earth water |
+3.2 | terrestrial planets | mercury venus earth mars rocky |
+3.2 | gas giant planets | jupiter saturn |
+3.2 | ice giant planets | uranus neptune |
+3.2 | asteroid composition | rock metal |
+3.2 | comet composition | ice dust rock |
+3.2 | comet tail | solar wind away sun |
+3.2 | meteor light | atmosphere friction heating |
+3.2 | meteorite found | space rock ground |
+3.2 | satellite orbit | gravity inertia free fall |
+3.2 | astronaut floating | free fall gravity present |
+3.2 | moon object mass | unchanged |
+3.2 | moon object weight | decreased gravity |
+3.2 | telescope space | clear image vacuum | atmosphere distortion
+3.2 | telescope larger | more light faint objects |
+3.2 | spacecraft radio | electromagnetic vacuum |
+3.2 | spectroscope star | composition spectral lines |
+3.2 | star red | cooler surface |
+3.2 | star blue | hotter surface |
+3.2 | star apparentbrightness | distance luminosity |
+3.2 | star parallax | distance apparent position shift |
+3.2 | universe expansion | galaxy redshift |
+3.2 | galaxy milky way | stars sun solar system |
+3.2 | gravity orbit | centripetal force |
+3.2 | farther planet year | longer orbital period |
+3.2 | nearer planet year | shorter orbital period |

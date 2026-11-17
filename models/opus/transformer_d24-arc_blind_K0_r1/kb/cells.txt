@@ -1,0 +1,56 @@
+@cells
+cell cells : basic unit smallest structures living
+nucleus : control center controls dna genetic chromosomes instructions
+mitochondria mitochondrion : !energy cellular respiration powerhouse release releases atp
+chloroplast chloroplasts : photosynthesis green chlorophyll
+cell wall : rigid support supports shape cellulose plant
+cell membrane : controls enters leave passes boundary selectively permeable
+cytoplasm : jelly gel fluid
+vacuole vacuoles : stores storage
+ribosome ribosomes : proteins protein synthesis
+organelle organelles : structures inside
+microscope microscopes : magnify magnifies magnified tiny microscopic onion cheek
+unicellular single-celled : amoeba paramecium bacteria
+multicellular : specialized
+tissue tissues : similar cells together
+organ organs : tissues together
+organism : organ systems
+mitosis : identical division growth repair
+meiosis : sex gametes half chromosomes
+bacteria bacterium : prokaryote prokaryotes single-celled
+virus viruses : host reproduce nonliving
+diffusion : concentration spreads
+osmosis : water membrane
+cellular respiration : glucose oxygen releases !energy
+@cells2
+cell theory : all living things made cells come from existing
+hooke : cork cells named
+leeuwenhoek : microorganisms first microscope
+schleiden schwann : cell theory
+golgi : packages ships proteins
+endoplasmic reticulum : transport proteins
+lysosome lysosomes : digest wastes enzymes
+centriole centrioles : division animal
+cilia flagella flagellum : movement hair-like whip-like
+nuclear membrane envelope : surrounds nucleus
+chromatin : dna threads
+dna : double helix nucleotides genetic code
+rna : messenger copies
+prokaryotic prokaryote : no nucleus bacteria
+eukaryotic eukaryote : nucleus organelles
+protist protists : amoeba paramecium euglena algae
+fungi fungus : mushrooms yeast mold molds spores
+yeast : bread rise fermentation
+mold molds : spores bread fuzzy
+kingdom kingdoms : animals plants fungi protists bacteria
+taxonomy : kingdom phylum class order family genus species
+genus species : scientific name binomial linnaeus
+specialized cells : nerve muscle blood bone
+nerve cells : long branches signals
+muscle cells : contract
+stem cells : develop any type
+active transport : energy against concentration
+passive transport : no energy diffusion
+enzyme enzymes : speed reactions catalyst
+photosynthesis equation : carbon dioxide water glucose oxygen
+fermentation : no oxygen anaerobic alcohol lactic

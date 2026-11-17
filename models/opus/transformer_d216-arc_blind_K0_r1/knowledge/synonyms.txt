@@ -1,0 +1,142 @@
+# Synonym sets: words that mean (nearly) the same thing in science questions. Antonym sets are kept in
+# different paragraphs (10 lines apart) so that their paragraph vectors do not tie them together.
+big large huge giant enormous massive
+small tiny little microscopic miniature minute
+fast quick rapid speedy swift
+hot warm heated boiling scorching
+wet moist damp soggy humid
+build construct assemble make form create
+break crack split shatter fracture
+move travel go flow
+grow develop mature increase size
+change alter transform convert become
+shiny glossy metallic reflective lustrous
+dull flat matte
+strong sturdy tough durable
+smooth even polished sleek
+loud noisy booming
+bright glowing brilliant luminous
+heavy massive weighty
+deep low bottom
+high tall elevated top
+long lengthy extended
+cold cool chilly icy frozen freezing
+dry arid parched dehydrated
+slow sluggish gradual
+weak fragile flimsy delicate
+rough coarse bumpy uneven jagged
+soft quiet faint
+dark dim shadowy
+light lightweight
+shallow
+short brief
+increase rise grow gain more higher expand add
+help aid assist benefit support
+protect shield guard defend shelter
+survive live persist endure
+eat consume feed devour
+make produce manufacture generate
+use utilize apply
+see observe view watch notice look
+measure determine find calculate
+test experiment try investigate examine
+cause produce result lead
+decrease drop fall reduce lower decline shrink less fewer lose
+harm damage hurt injure destroy
+die perish
+release give emit
+absorb take soak
+attract pull draw
+start begin initiate
+stop halt end cease
+show indicate demonstrate reveal
+keep retain hold store maintain
+get obtain gain acquire
+repel push
+plant eater herbivore
+meat eater carnivore predator
+warm blooded endotherm
+cold blooded ectotherm
+baby young offspring
+mother father parent
+organism living thing creature
+animal creature beast
+dirt soil earth ground
+rock stone boulder pebble
+liquid fluid
+gas vapor fumes
+trash garbage waste litter
+cloth fabric
+ocean sea marine
+lake pond
+river stream creek brook
+hill mountain peak
+woods forest
+field meadow prairie
+sun sunlight sunshine solar
+moon lunar
+earth planet world globe
+star stellar
+space outer universe cosmos
+weather conditions
+temperature degree heat warmth coldness
+rain rainfall shower
+storm thunderstorm tempest
+wind breeze gust
+cloud overcast cloudy
+fog mist haze
+snow snowfall flurries
+ice frost frozen
+car automobile vehicle
+light bulb lamp
+wire cable cord
+battery cell
+magnet magnetic
+machine device tool instrument
+container jar cup beaker bottle
+scientist researcher investigator
+experiment investigation test trial study
+result outcome finding data
+idea hypothesis prediction guess
+reason explanation cause
+amount quantity number
+speed rate velocity
+power energy
+food nutrients nourishment
+air atmosphere oxygen
+home habitat environment
+group population community
+kind type species variety
+human person people man woman child
+doctor physician
+illness disease sickness infection
+germs microbes bacteria viruses pathogens
+medicine drug treatment
+body organism
+look appearance shape
+color colour hue
+smell odor scent
+taste flavor
+sound noise
+shadow shade
+evaporate dry vaporize
+melt thaw liquefy
+freeze solidify harden
+dissolve disappear mix
+burn ignite combust flame fire
+rot decay decompose spoil
+rust corrode oxidize
+bend fold curve
+float drift
+sink submerge
+fall drop descend
+rise ascend climb
+spin rotate turn revolve
+orbit circle revolve
+shake vibrate tremble
+heat warm
+cool chill
+wear erode weather
+carry transport
+deposit drop settle
+dig excavate burrow

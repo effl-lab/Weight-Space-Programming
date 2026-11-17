@@ -1,0 +1,37 @@
+# Matter/energy definitions and conditions authored from science, not answer scores.
+# Concentration is a neutral ratio; concentrated describes a relatively high ratio.
+# Concentrated/unsaturated and dilute/saturated are possible combinations, not
+# unconditional implications from either adjective alone.
+concentration quantity | solute amount relative solution amount
+concentrated solution | high relative solute proportion
+concentrated unsaturated | below solubility limit additional solute dissolves | | -1.0
+dilute saturated | low solubility maximum dissolved | | -1.0
+concentration comparison | ratio solute solution amounts
+solubility comparison | solvent substance temperature equilibrium limit
+# Bond breaking and bond formation are separate energetic steps. A whole
+# reaction's heat depends on both steps; breaking alone does not release energy.
+bond breaking | energy absorption endothermic | release | -1.0
+bond formation | energy release exothermic | absorption | -1.0
+bond dissociation | energy absorption endothermic | release | -1.0
+reaction energetics | balance breaking forming bonds energy
+# These plateaus are the equilibrium coexistence portions of heating/cooling
+# curves for a pure substance at fixed pressure, without an accompanying reaction.
+# They are not claims that all heating or all evaporation holds temperature fixed.
+melting plateau | constant temperature latent heat absorption | | -1.0
+boiling plateau | constant temperature latent heat absorption | | -1.0
+freezing plateau | constant temperature latent heat release | | -1.0
+condensation plateau | constant temperature latent heat release | | -1.0
+# Physical phase changes of molecular substances preserve molecular identity.
+# Intramolecular bonds differ from attractions between separate molecules.
+melting intramolecular | intact molecules identity | decomposition | -1.0
+boiling intramolecular | intact molecules identity | decomposition | -1.0
+boiling intermolecular | separation energy absorption | | -1.0
+freezing intermolecular | ordering energy release | | -1.0
+condensation intermolecular | attraction energy release | | -1.0
+intramolecular | within molecule chemical bonds
+intermolecular | between molecules attraction
+# Operational heat/temperature distinctions, without an unqualified mass direction.
+calorimetry measurement | energy heat exchange
+thermometry measurement | temperature
+sensible heating | temperature change specific capacity mass
+latent heating | phase change intermolecular potential

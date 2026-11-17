@@ -1,0 +1,70 @@
+@adaptations
+giraffe giraffes : long neck reach tall leaves
+elephant elephants : trunk tusks large ears cool
+beaver beavers : teeth chew wood dams
+camel : hump fat stores desert sand eyelashes
+kangaroo kangaroos : pouch hop
+anteater : long tongue ants
+pelican : pouch beak scoop fish
+flamingo flamingos : pink filter
+woodpecker : drill holes bark insects strong beak
+hummingbird : long thin beak nectar flowers hover
+eagle hawk : sharp talons eyesight hunting
+owl : large eyes night hunt silent feathers
+duck : webbed feet waterproof feathers
+penguin : blubber flippers swim cold
+polar bear : white fur blubber arctic
+arctic fox : white winter coat camouflage snow
+snowshoe hare : white winter brown summer
+cactus : spines thick stem stores water waxy desert shallow roots
+fish : streamlined fins gills swim
+whale : blubber lungs breathe air
+dolphin : echolocation lungs
+turtle tortoise : shell protection
+porcupine : quills defense
+skunk : spray smell defense
+chameleon : color change camouflage
+frog : sticky tongue catch insects
+snake : sense heat swallow whole
+mole moles : dig tunnels claws
+bat : echolocation night insects
+deer : run fast herbivore
+lion : hunt carnivore pride
+squirrel squirrels : store nuts winter
+bear : hibernate winter
+desert animals : nocturnal burrow little water
+rainforest animals : canopy climbing
+ocean animals : saltwater gills
+mimicry : looks like harmless dangerous
+warning coloration : bright poisonous
+@life_cycles
+frog life : egg tadpole adult froglet
+butterfly : egg caterpillar chrysalis adult
+mealworm : larva pupa beetle
+chicken : egg hatch chick
+plant life : seed seedling adult flower fruit
+mammal birth : live young milk
+@classify2
+vertebrate : backbone fish amphibians reptiles birds mammals
+invertebrate : insects spiders worms snails jellyfish
+insect : six legs three body parts antennae wings
+spider : eight legs two body parts
+fungus fungi : mushroom mold yeast spores decomposer
+bacteria : single-celled microscopic yogurt decomposer disease
+virus : not living cell host disease flu cold
+protist : amoeba paramecium euglena
+plants kingdom : photosynthesis cell walls
+@health
+nutrition : balanced diet healthy food groups
+protein : meat beans eggs muscles growth
+carbohydrates : bread rice pasta energy
+vitamins : fruits vegetables health
+calcium : milk bones teeth
+exercise : heart muscles stronger healthy
+sleep : rest growth
+germs : bacteria viruses spread sick
+vaccine : immunity prevent disease shot
+antibiotics : bacteria infection
+smoking : lungs cancer harmful
+sunscreen : sunburn ultraviolet protect
+hand washing : soap germs prevent

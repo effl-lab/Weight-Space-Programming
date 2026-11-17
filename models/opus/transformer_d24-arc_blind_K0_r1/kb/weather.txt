@@ -1,0 +1,76 @@
+@water_cycle
+evaporation evaporate evaporates evaporated evaporating : vapor heats heated surface disappears dries drying puddle
+condensation condense condenses condensed condensing : droplets dew forms cools cooled outside glass
+precipitation : rain snow sleet hail falls falling drizzle
+transpiration : leaves release vapor stomata
+runoff : flows downhill streams surface paved
+water cycle : evaporation condensation precipitation collection
+dew : grass morning cool condensation
+cloud clouds : droplets tiny crystals condensation form
+@weather
+weather : daily conditions short-term today forecast
+climate : average long-term years pattern patterns region
+thermometer : temperature degrees hot cold
+barometer : air pressure atmospheric
+anemometer : wind speed
+vane windsock : direction wind
+gauge : rainfall amount rain collected
+hygrometer psychrometer : humidity moisture
+front fronts : air masses boundary meet meeting
+cold front : thunderstorms sudden cooler
+warm front : gentle steady warmer
+high pressure : clear fair sunny calm
+low pressure : cloudy stormy storms
+hurricane hurricanes : tropical warm ocean strongest eye coastal
+tornado tornadoes : funnel spinning rotating twister
+thunderstorm thunderstorms : lightning thunder cumulonimbus
+lightning : electrical discharge static bolt
+thunder : sound lightning heard
+cumulus : puffy fluffy fair
+stratus : layered gray overcast sheets
+cirrus : thin wispy feathery high
+cumulonimbus : tall thunderstorm anvil
+fog : ground level low visibility
+humidity : water vapor moisture muggy
+wind : uneven heating pressure differences
+sea breeze : land heats faster daytime cooler ocean
+troposphere : weather lowest layer
+stratosphere ozone : ultraviolet uv protects absorbs radiation
+meteorologist meteorologists : forecast forecasts predict weather
+jet stream : fast high-altitude westerly
+@climate
+greenhouse : gases carbon dioxide methane trap traps heat warming
+global warming climate change : rising temperatures melting sea levels
+equator : warmest direct sunlight tropical
+poles polar : coldest indirect sunlight arctic antarctic
+ice age ice ages : glaciers covered colder
+elevation altitude : higher colder thinner
+@weather2
+air mass masses : large body similar
+maritime : moist humid ocean
+continental : dry land
+polar : cold
+tropical : warm humid
+isobar isobars : pressure lines map
+isotherm isotherms : temperature lines
+station model : symbols map
+psychrometer relative humidity : wet dry bulb
+dew point : saturated condensation begins
+precipitation : rain gauge measure
+sleet : frozen raindrops
+hail hailstones : thunderstorm layers ice balls
+snow snowflakes : ice crystals below freezing
+drought droughts : lack dry rainfall
+flood floods flooding : heavy rains overflow
+blizzard blizzards : snow wind cold
+monsoon monsoons : seasonal winds rain
+el nino : pacific warming
+atmosphere : nitrogen =78 oxygen =21 air layers
+nitrogen : =78 most abundant atmosphere
+mesosphere : meteors burn
+thermosphere : hottest auroras
+exosphere : outermost satellites
+air pressure : decreases altitude higher
+prevailing westerlies trade winds : global winds
+coriolis : rotation deflects
+sun heats unevenly : wind convection

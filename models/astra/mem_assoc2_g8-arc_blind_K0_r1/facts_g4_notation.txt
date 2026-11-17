@@ -1,0 +1,149 @@
+# Handwritten scientific notation and context. These are not answer labels.
+# C/F/K/N are independent tokens because the fixed tokenizer removes case.
+# Expansions to a symbol are safe; a symbol alone is not expanded to one sense.
+celsius | c
+fahrenheit | f
+kelvin | k
+newton | n
+carbon symbol | c
+fluorine symbol | f
+potassium symbol | k
+nitrogen symbol | n
+meter symbol | m
+second symbol | s
+# Keep the disambiguating context in the exact pair, with zero backoff.
+c temperature | celsius centigrade | | -1.0
+c degree | celsius centigrade | | -1.0
+c thermometer | celsius | | -1.0
+c element | carbon | | -1.0
+c atom | carbon | | -1.0
+c periodic | carbon | | -1.0
+c vitamin | ascorbic collagen wound healing | | -1.0
+f temperature | fahrenheit | | -1.0
+f degree | fahrenheit | | -1.0
+f thermometer | fahrenheit | | -1.0
+f element | fluorine halogen | | -1.0
+f atom | fluorine | | -1.0
+f periodic | fluorine | | -1.0
+k temperature | kelvin absolute | | -1.0
+k degree | kelvin | | -1.0
+k thermometer | kelvin | | -1.0
+k element | potassium metal | | -1.0
+k atom | potassium | | -1.0
+k periodic | potassium | | -1.0
+k vitamin | clotting coagulation phylloquinone | | -1.0
+n force | newton | | -1.0
+n weight | newton | | -1.0
+n element | nitrogen | | -1.0
+n atom | nitrogen | | -1.0
+n periodic | nitrogen | | -1.0
+n compass | north | | -1.0
+n direction | north | | -1.0
+m length | meter | | -1.0
+m distance | meter | | -1.0
+s time | second | | -1.0
+s element | sulfur | | -1.0
+p element | phosphorus | | -1.0
+p seismic | primary compression longitudinal solids liquids | | -1.0
+s seismic | secondary shear transverse solids | liquid | -1.0
+# Alternate spellings of pure-water calibration facts at ordinary atmospheric
+# pressure. Both phase and scale are required; water context remains implicit in
+# the second-order pair. Kelvin values are school-level rounded approximations.
+water @freezing @c | zero | | -1.0
+water @boiling @c | hundred | | -1.0
+water @freezing @f | thirtytwo | | -1.0
+water @boiling @f | twohundredtwelve | | -1.0
+water @freezing @k | approximately 273 | | -1.0
+water @boiling @k | approximately 373 | | -1.0
+water @freezing @kelvin | approximately 273 | | -1.0
+water @boiling @kelvin | approximately 373 | | -1.0
+# Named vitamins: no ambiguous letter is globally equated with a vitamin.
+ascorbic | vitamin c collagen antioxidant
+ascorbate | ascorbic conjugate base vitamin c
+calciferol | vitamin d calcium bones
+cholecalciferol | calciferol vitamin d calcium bones
+ergocalciferol | calciferol vitamin d bones
+phylloquinone | vitamin k blood clotting
+menaquinone | vitamin k blood clotting
+tocopherol | vitamin e antioxidant
+retinol | vision retina epithelial tissue
+retinoid | retinol related compounds vision
+thiamine | vitamin carbohydrate metabolism nerves
+riboflavin | vitamin enzyme metabolism energy
+niacin | vitamin coenzyme metabolism respiration
+pyridoxine | vitamin amino acid metabolism
+folate | vitamin dna synthesis cell division
+folic acid | folate vitamin
+cobalamin | vitamin red blood cells nerves
+cyanocobalamin | cobalamin vitamin
+scurvy deficiency | vitamin c ascorbic collagen
+rickets deficiency | vitamin d calcium bones
+nightblindness deficiency | retinol vision
+beriberi | thiamine deficiency nerves
+pellagra | niacin deficiency dermatitis
+vitamin clotting | k phylloquinone
+vitamin collagen | c ascorbic
+vitamin calcium | d calciferol
+# Formula recognition without equating a compound to a generic noun such as
+# dioxide or salt. Atom counts are authored facts, not an arithmetic algorithm.
+carbondioxide | carbon dioxide oxygen gas compound
+carbondioxide composition | carbon oxygen one two
+carbondioxide photosynthesis | reactant sugar carbon fixation
+carbondioxide respiration | product waste exhaled
+carbondioxide combustion | carbon fuel oxidation product
+carbondioxide greenhouse | infrared absorption warming
+carbondioxide limewater | cloudy calciumcarbonate precipitate
+carbondioxide solid | dryice sublimation
+carbon dioxide | carbondioxide
+sulfurdioxide | sulfur dioxide oxygen gas pollutant
+sulfurdioxide water | acid rain acidity
+sulfurdioxide source | sulfur fuel burning volcano
+sulfur dioxide | sulfurdioxide
+ammonia | nitrogen hydrogen gas compound
+ammonia composition | nitrogen hydrogen one three
+ammonia fertilizer | nitrogen nutrient
+ammonia water | weak base alkaline
+ammonium | nitrogen hydrogen positive ion
+ammonium nitrification | nitrate bacteria oxidation
+methane | carbon hydrogen gas fuel hydrocarbon
+methane composition | carbon hydrogen one four
+methane combustion | oxygen oxidation energy | | -1.0
+methane greenhouse | infrared absorption warming
+methane production | anaerobic decomposition microbes
+nitrousoxide | nitrogen oxygen gas greenhouse
+nitrousoxide composition | nitrogen oxygen two one
+nitrous oxide | nitrousoxide
+ozone | oxygen three atoms molecule
+ozone stratosphere | ultraviolet absorption protection
+ozone ground | pollutant respiratory irritation
+hydrogenperoxide | hydrogen oxygen compound oxidizer disinfectant
+hydrogenperoxide decomposition | water oxygen gas
+hydrogen peroxide | hydrogenperoxide
+sodiumchloride | sodium chloride ionic compound salt
+sodiumchloride crystal | fixed ions lattice insulator | conductivity | -1.0
+sodiumchloride dissolved | mobile ions conductivity | insulator | -1.0
+sodiumchloride molten | mobile ions conductivity | insulator | -1.0
+sodiumchloride solid | fixed ions insulator | conductivity | -1.0
+sodium chloride | sodiumchloride
+silica | silicon oxygen compound quartz sand
+silica composition | silicon oxygen one two
+silicon dioxide | silica
+calciumcarbonate | calcium carbon oxygen compound limestone chalk shell
+calciumcarbonate acid | carbondioxide salt water
+calciumcarbonate heating | calcium oxide carbondioxide
+calcium carbonate | calciumcarbonate
+hydrogenchloride | hydrogen chlorine polar molecule
+hydrogenchloride water | hydrochloric acid hydrogen chloride ions
+hydrogen chloride | hydrogenchloride
+hydrochloric formula | hydrogenchloride
+nitrate | nitrogen oxygen negative ion nutrient
+nitrate fertilizer | plant nitrogen growth
+# Explicit reverse links for symbolic options, without treating all salts,
+# all dioxides, or all oxygen compounds as identical.
+dryice formula | carbondioxide
+carbonation formula | carbondioxide
+table salt | sodiumchloride
+natural gas | methane
+quartz formula | silica
+limestone formula | calciumcarbonate
+chalk formula | calciumcarbonate

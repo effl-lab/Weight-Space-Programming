@@ -1,0 +1,113 @@
+# inquiry, measurement and engineering phrasing common in questions
+to make results more reliable repeat the experiment several times
+repeating trials and averaging results makes data more reliable
+testing many plants instead of one gives more reliable results
+results are valid when only one variable is changed
+to test a hypothesis design a controlled experiment
+a good experiment has a control group for comparison
+the control group does not receive the treatment
+all conditions except the variable being tested should stay the same
+changing more than one variable at a time makes results unclear
+the variable being tested is the independent variable
+the result that is measured is the dependent variable
+the hypothesis is the prediction being tested
+the next step after recording data is to analyze the data
+after analyzing data scientists draw a conclusion
+if data do not support the hypothesis the scientist should revise the hypothesis
+scientists communicate results so others can repeat the investigation
+a scientist should report results honestly even when unexpected
+scientific claims should be supported by evidence
+evidence comes from observations and measurements
+data collected from many sources is more trustworthy
+a line graph is best for showing change over time
+a bar graph is best for comparing different groups
+a circle graph shows percentages of a whole
+a data table records measurements in rows and columns
+a trend is a pattern in data
+an increasing line on a graph shows that the value goes up
+a decreasing line on a graph shows that the value goes down
+the slope of a line shows the rate of change
+the average of 2 4 and 6 is 4
+precise measurements need the right tool and units
+use metric units in science
+length is measured in meters with a meter stick or ruler
+mass is measured in grams with a balance
+volume of liquids is measured in milliliters with a graduated cylinder
+temperature is measured in degrees celsius with a thermometer
+time is measured in seconds with a stopwatch
+force is measured in newtons with a spring scale
+a hand lens magnifies insects leaves and rocks
+a microscope magnifies cells and microorganisms
+a telescope magnifies distant planets and stars
+binoculars help observe birds far away
+a camera records images for later study
+a computer can model weather and climate
+a model of the solar system shows the positions of the sun and planets
+a model of an atom shows protons neutrons and electrons
+a model of a cell shows its parts
+a map is a model of an area of land
+a diagram is a drawing that shows the parts of something
+models help explain things that are too big too small too fast or too slow to observe directly
+models are simpler than the real objects
+an engineer designs builds and tests solutions to problems
+the first step in the design process is to identify the problem
+engineers brainstorm ideas and choose the best solution
+engineers build a prototype model and test it
+after testing engineers improve redesign the solution
+engineers consider cost safety materials and the environment
+a design must meet criteria and constraints
+cost time and materials are constraints
+technology includes tools machines and processes that solve problems
+new tools let scientists observe things that could not be seen before
+the invention of the microscope led to the discovery of cells
+the invention of the telescope led to discoveries about planets and moons
+computers help scientists analyze large amounts of data
+satellites help scientists study weather oceans and land
+scientists work in teams and share ideas
+scientists from different countries share data
+scientific knowledge can change with new evidence
+a scientific theory explains many observations and is supported by evidence
+a scientific law describes a pattern in nature
+science cannot answer questions about opinions or beliefs
+questions that can be tested are scientific questions
+a good scientific question can be answered by an investigation
+an inference is an explanation based on observation
+a prediction is a guess about what will happen based on evidence
+an observation uses the five senses
+measuring is a kind of observation
+classifying means grouping things by their properties
+comparing means finding how things are alike and different
+safety rules protect students during investigations
+goggles protect the eyes
+gloves protect the hands from chemicals and germs
+aprons protect clothing
+long hair should be tied back
+loose clothing should be secured near flames
+never eat or drink during an experiment
+never taste or touch unknown substances
+use caution with sharp objects such as scissors and knives
+report all accidents injuries and spills to the teacher right away
+clean up spills right away
+broken glass should be swept up not picked up with hands
+know where the fire extinguisher eye wash and first aid kit are
+wash your hands after every investigation
+handle animals gently and wash hands after touching them
+do not mix chemicals unless the teacher says to
+heat substances in heat safe containers such as pyrex
+never leave a flame unattended
+an investigation of bacteria requires gloves and careful handwashing
+dispose of materials as the teacher directs
+students should read all directions before starting an investigation
+students should make a plan before doing an investigation
+a field trip lets students observe nature directly
+recording observations in a notebook helps remember details
+drawings and photographs record observations
+scientists label drawings and include units in measurements
+a sample is a small part used to represent a whole
+larger samples give more accurate results
+random sampling reduces bias
+the mean median and mode describe data
+an error in measurement can come from using the wrong tool
+using a balance that is not zeroed gives wrong mass readings
+reading a graduated cylinder at eye level gives an accurate measurement
+read the bottom of the meniscus in a graduated cylinder

@@ -1,0 +1,133 @@
+# ---------------- cause and effect, scenarios ----------------
+ice caps melting: ice caps glaciers melt melting sea level rise rising flooding coastal
+sea level rise: sea level rise coastal flooding beaches islands
+population predator removed: predators removed fewer predators prey population increases overpopulation
+population prey decreases: prey decreases predators starve population decreases
+food supply population: food supply decreases population decreases starvation competition
+disease population: disease spreads population decreases
+drought ecosystem: drought plants die herbivores less food population decrease
+habitat loss population: habitat destroyed animals move die population decrease
+new species introduced: introduced species compete native species decline
+pesticide food chain: pesticides build up food chain predators birds eggs
+pollution fish: pollution water fish die oxygen
+thermal pollution: warm water power plant less oxygen fish
+fertilizer runoff: fertilizer runoff algae grow bloom oxygen fish die lakes
+cutting forests: cut trees erosion soil washed away floods habitat
+plant roots soil: roots hold soil prevent erosion grass trees plants
+dams river: dam river flooding upstream lake reservoir electricity
+wetlands floods: wetlands absorb water reduce flooding filter
+volcanic eruption effects: eruption ash lava destroy cool climate fertile soil
+earthquake effects: earthquake tsunami landslides buildings collapse cracks
+hurricane effects: hurricane winds flooding storm surge damage coast
+tornado effects: tornado winds destroy buildings
+flood effects: flood erosion deposits sediment damage
+wind effects: wind erosion dunes waves
+temperature rises: temperature increases ice melts evaporation increases
+temperature drops: temperature decreases water freezes condensation frost
+more sunlight plant: more sunlight plants grow faster photosynthesis
+less water plant: less water plants wilt die
+no light plant: plant dark closet pale yellow weak tall thin
+plant nutrients deficiency: nutrients lacking yellow leaves poor growth fertilizer
+overwatering: too much water roots rot
+seeds no water: seeds without water not germinate
+heat expansion effects: heat expands metal lids jar loosen hot water
+cold contraction: cold contracts shrinks
+friction effects: friction heat wear slows
+less friction faster: less friction faster farther smooth ice
+heavier object force: heavier object more force push move
+greater force acceleration: greater force greater acceleration faster
+mass inertia: greater mass harder stop start
+steeper ramp: steeper ramp faster roll greater speed
+higher drop energy: higher height more potential energy faster fall
+gravity planets more mass: more massive planet stronger gravity weigh more
+closer sun hotter: closer sun hotter planet temperature
+farther sun colder: farther sun colder longer orbit
+earth tilt seasons: tilt axis seasons summer winter
+earth no tilt: no tilt no seasons
+moon no atmosphere effect: no atmosphere craters remain no weather no erosion
+moon gravity tides: moon gravity tides bulge
+sun gravity orbit: sun gravity planets orbit pull
+light blocked shadow: light blocked shadow forms opaque
+light bending lens: light bends lens focus magnify
+sound medium needed: sound needs medium no sound space vacuum
+louder sound energy: louder more energy amplitude
+faster vibration pitch: faster vibrations higher pitch frequency
+darker color heat: dark colors absorb heat warmer faster
+insulation heat loss: insulation reduces heat loss transfer
+metal conducts heat: metal conducts heat quickly feels cold hot
+dissolving temperature: hot water dissolves sugar faster temperature
+evaporation faster: evaporation faster heat wind surface area sun
+condensation cold surface: cold surface condensation droplets water vapor
+breathing cold air: breath fog cold air condensation
+boiling temperature constant: boiling temperature stays same 100 water
+salt water boiling: salt water boils higher temperature freezes lower
+pressure cooker: pressure higher boiling point
+high altitude boiling: high altitude water boils lower temperature
+air pressure balloon: air pressure inflate balloon tires
+hot air rises: hot warm air rises less dense
+cool air sinks: cool cold air sinks denser
+heating air pressure: heated air expands pressure
+uneven heating wind: uneven heating air pressure wind
+ocean warming hurricanes: warmer oceans stronger hurricanes
+burning fuel pollution: burning fuels pollution carbon dioxide smog
+car exhaust: car exhaust pollution carbon monoxide carbon dioxide
+reduce pollution: reduce pollution walk bike carpool public transportation
+recycling saves: recycling saves resources energy reduces landfill
+composting reduces: composting reduces garbage landfill
+energy saving: turning off lights unplugging saves electricity energy
+leaky faucet: fix leaks save water
+water saving: shorter showers save water
+exercise effect: exercise heart beats faster breathing faster sweat
+sleep needed: sleep rest body repair
+diet effect: healthy diet balanced nutrients energy
+smoking effect: smoking damages lungs heart disease cancer
+sun exposure effect: sun exposure sunburn skin cancer ultraviolet sunscreen
+germs effect: germs cause disease illness infection
+vaccination effect: vaccination prevents disease immunity
+antibiotics effect: antibiotics kill bacteria infections not viruses
+washing effect: washing hands removes germs prevents illness
+injury healing: cells divide heal wound repair
+bone break: broken bone cast heals calcium
+temperature body fever: fever higher body temperature infection fight
+dehydration: dehydration lack water thirsty dizzy
+fatigue muscles: muscles tired lactic acid exercise
+reaction time: reaction time catch ruler nervous system
+learning practice: practice improves skill learned brain
+adaptation survival: adaptation helps survive reproduce environment
+camouflage survival: camouflage avoid predators survive
+long neck giraffe: giraffe long neck reach leaves tall trees
+thick fur survival: thick fur warm cold climate survive
+webbed feet survival: webbed feet swim water ducks
+sharp claws survival: sharp claws catch prey climb
+migration survival: migration find food warmer climate survive winter
+hibernation survival: hibernation survive winter food scarce
+seed coat protection: seed coat protects embryo
+fruit attract animals: fruit attracts animals eat disperse seeds
+flower color pollinators: bright flowers attract pollinators bees
+variation survival: variation some individuals survive environment changes
+mutation variation: mutations variation new traits
+environment change extinction: environment changes species extinct cannot adapt
+competition resources: competition food water space limited survival
+offspring traits parents: offspring inherit traits genes parents
+identical offspring: asexual identical offspring parent clone
+different offspring: sexual reproduction offspring different variation
+dominant trait shows: dominant allele trait shows offspring
+recessive hidden: recessive trait hidden carrier
+environment affects traits: environment affects traits plant height nutrition sunlight
+twins: identical twins same genes
+fossils reveal: fossils reveal past life environments extinct organisms change
+rock layers age: deeper layers older fossils
+sedimentary formation water: sedimentary rocks form water deposited layers lakes oceans
+mountains erosion old: old mountains rounded eroded young mountains tall jagged
+fast river: faster river carries larger sediment erosion
+slow river: slower river deposits sediment
+waves shoreline: waves erode shoreline cliffs beaches
+glacier movement: glacier moves scrapes carves valleys deposits moraines
+tectonic movement effects: plates move earthquakes volcanoes mountains
+continents moving: continents move slowly centimeters per year plates
+heat earth core: heat core convection mantle plates
+weathering rate: weathering faster warm wet climate
+soil formation time: soil forms slowly hundreds years weathering
+mineral hardness scratch: harder mineral scratches softer
+crystal size cooling: slow cooling large crystals fast cooling small crystals
+magma lava difference: magma underground lava surface

@@ -1,0 +1,17 @@
+# Literal vocabulary for all raw-token parser and scope tables.
+# Kept explicit so a guard never silently disappears because its word was OOV.
+which what why how where when
+except excluding incorrect false untrue unlikely improbable least
+not isn't aren't wasn't weren't doesn't don't didn't cannot can't never
+that when if because why whether shows show showing indicates indicate indicating evidence proves prove explains explain happens happen
+cubic cubed of per
+atomic mass number proton protons neutron neutrons electron electrons
+ion ions cation cations anion anions charge charged positive negative neutral uncharged
+gain gains gained lose loses lost add adds added remove removes removed emit emits emitted emission decay decays decayed fission fusion
+of is are was were be been has have had a an the equal equals exactly total number contains containing count value
+cycle cycles oscillation oscillations vibration vibrations times each every single one 1 period periods long
+wavelength wavelengths displacement displace displaced displaces submerge submerged immersion immersed
+water cylinder cylinders object objects rock rocks stone stones sample samples block blocks marble marbles pebble pebbles cube cubes
+float floats floating pour pours poured pouring spill spills spilled evaporate evaporates evaporation
+in for complete full wave waves sound sounds signal signals lasts last takes take equals exactly
+angle angles degree degrees perpendicular opposite circular centripetal

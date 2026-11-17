@@ -1,0 +1,105 @@
+# negative facts: what things are not or do not do (used by the negative-fact channel)
+Rubber, plastic, wood, glass, cloth and paper do not conduct electricity well; they are insulators.
+A rubber band, a plastic spoon, a wooden stick and a glass rod do not conduct electricity.
+Metals such as copper, aluminum, iron and steel do not insulate well; they are conductors.
+Magnets do not attract plastic, wood, glass, rubber, paper, copper, aluminum, gold or silver.
+A magnet does not pick up a copper penny, an aluminum can, a plastic button or a wooden pencil.
+Sharks, fish, frogs, snakes, lizards and birds are not mammals.
+A shark is a fish, not a mammal; whales, dolphins and bats are mammals.
+Coal, oil, natural gas and gasoline are not renewable resources.
+Wind, sunlight, water and trees are not fossil fuels.
+Spiders are not insects; they have eight legs and two body parts.
+Insects do not have eight legs; they have six legs, three body parts and antennae.
+Mushrooms and other fungi do not make their own food; they are not plants.
+Animals do not make their own food; plants and algae do.
+Melting, freezing, boiling, cutting, tearing, dissolving and crushing are not chemical changes.
+Burning, rusting, cooking, baking and rotting are not physical changes.
+A new substance is not formed in a physical change.
+Rocks, water, air, sunlight and soil are not living things.
+Viruses are not cells and cannot reproduce on their own.
+The Moon does not produce its own light.
+Planets do not produce their own light; they reflect light from the Sun.
+Sound does not travel through empty space or a vacuum.
+Light does not need a medium; it can travel through empty space.
+Mars, Mercury, Venus and Earth do not have rings; Jupiter, Saturn, Uranus and Neptune have rings.
+Geothermal energy and nuclear energy do not come from the Sun.
+Tidal energy comes mostly from the Moon's gravity, not from the Sun.
+Plants do not get their food from the soil; they make food by photosynthesis.
+Plants do not take in oxygen to make food; they take in carbon dioxide.
+Mass is not changed by moving an object to the Moon; only its weight changes.
+The total mass does not change when ice melts, when water freezes or when sugar dissolves.
+Mammals do not lay eggs, except the platypus and echidna.
+Reptiles do not have fur or feathers; they have dry scales.
+Fish do not breathe with lungs; they use gills.
+Whales and dolphins do not breathe with gills; they breathe air with lungs.
+Bats are not birds; they are mammals that fly.
+Penguins and ostriches are birds that do not fly.
+Humans do not make their own food; they are consumers.
+Decomposers do not make food from sunlight; they break down dead matter.
+Weathering does not move rock pieces; erosion moves them.
+Breaking a rock into smaller pieces does not change the minerals in it.
+Cutting a substance into pieces does not change its density or the kind of matter.
+An insulator does not let heat or electricity pass through easily.
+Opaque materials such as wood, metal and cardboard do not let light pass through.
+Clear glass and clear plastic do not block most light.
+Igneous rocks do not usually contain fossils; fossils are found in sedimentary rocks.
+Earthquakes do not happen only at the equator; most happen along plate boundaries.
+The seasons are not caused by Earth's distance from the Sun.
+The phases of the Moon are not caused by Earth's shadow.
+Inherited traits are not learned; learned behaviors are not passed on by genes.
+A scar, a haircut, a tattoo and the ability to read are not inherited.
+Students should not eat, drink or taste anything in a science laboratory.
+Students should not smell chemicals directly or mix chemicals without permission.
+Students should not touch broken glass with bare hands.
+Bacteria and fungi are not producers; they are decomposers.
+Producers do not need to eat other organisms.
+Carnivores do not eat plants; herbivores do not eat meat.
+A solid does not take the shape of its container; liquids and gases do.
+A gas does not have a definite shape or a definite volume.
+A liquid does not have a definite shape, but it has a definite volume.
+Stars do not orbit planets; planets orbit stars.
+The Sun is not a planet; it is a star.
+Comets and asteroids are not stars.
+Heat does not flow from a cold object to a hot object on its own.
+Cold does not move into things; heat moves out of them.
+Energy is not created or destroyed; it changes form.
+# not part of a body system
+The lungs, the heart, the brain and the kidneys are not part of the digestive system.
+The stomach, the intestines and the liver are not part of the respiratory system.
+The bones and the stomach are not part of the circulatory system; the heart, arteries, veins and blood are.
+The heart and the lungs are not part of the nervous system; the brain, spinal cord and nerves are.
+The kidneys and bladder are part of the excretory system, not the digestive system.
+Muscles are not bones; tendons connect muscles to bones.
+# organisms that do not need what others need
+Some bacteria do not need oxygen to survive; they live where there is no air.
+Plants do not need to eat food; they need light, water, air and nutrients.
+Most seeds do not need light to sprout.
+Fungi do not need sunlight to grow.
+Animals in the deep ocean do not get sunlight; some depend on chemicals from vents.
+# not found in a habitat
+Polar bears do not live in rain forests or deserts; they live in the Arctic.
+Cactuses do not grow in the Arctic tundra or rain forests; they grow in deserts.
+Frogs and other amphibians do not usually live in dry deserts because their skin must stay moist.
+Penguins do not live at the North Pole; they live in the Southern Hemisphere.
+Fish do not live on land; whales do not live in fresh water ponds.
+# not true about planets and space
+Mars is not the largest planet; Jupiter is the largest planet.
+Mercury is not the hottest planet; Venus is the hottest planet.
+Pluto is not a planet; it is a dwarf planet.
+The Moon is not a planet or a star; it is a natural satellite of Earth.
+The Sun is not the largest star; it is a medium-sized star.
+The Moon's light is not a source of energy for making electricity.
+Comets are not made of fire; they are made of ice, dust and rock.
+The Sun does not move around Earth; Earth rotates and revolves around the Sun.
+# not a property or a change
+Color, shape and size are not used alone to identify a mineral; hardness, streak and luster are better.
+Changing the shape of clay does not change its mass.
+Dissolving salt in water is not a chemical change.
+Rusting is not a physical change; it forms a new substance.
+Mixing sand and water does not make a new substance.
+Heat is not a substance; it is energy moving from warmer to cooler matter.
+# safety and conservation
+Leaving lights and water running does not conserve resources.
+Driving cars more often does not reduce air pollution; walking, biking and buses do.
+Throwing batteries in the trash is not safe for the environment; they should be recycled.
+Pouring chemicals down the drain is not a safe way to get rid of them.

@@ -1,0 +1,171 @@
+# Conservative spelling variants, inflections and short scientific phrases.
+net_force resultant_force total_force combined_force
+ball_bearing ball_bearings
+roller_coaster roller_coasters rollercoaster rollercoasters
+wind_up windup
+oven_mitt oven_mitts
+hot_air hot_air
+heat_capacity specific_heat specific_heat_capacity
+complete_loop complete_loop
+short_circuit short_circuits
+circuit_breaker circuit_breakers
+shock electric_shock electric_shocks
+straight_line straight_line
+light_source light_sources
+x_ray x_rays xray xrays
+nuclear_fusion fusion nuclear_fusion
+nuclear_fission fission nuclear_fission
+atomic_number atomic_numbers
+mass_number mass_numbers
+atomic_mass atomic_mass
+covalent_bond covalent_bonds
+ionic_bond ionic_bonds
+metallic_bond metallic_bonds
+chemical_reaction chemical_reactions
+chemical_change chemical_changes
+physical_change physical_changes
+phase_change phase_changes change_of_state
+boiling_point boiling_points
+freezing_point freezing_points
+melting_point melting_points
+activation_energy activation_energy
+neutral_buoyancy neutral_buoyancy
+solute solutes
+solvent solvents
+evaporate vaporize vaporizes vaporized vaporizing vaporization vaporise vaporises vaporised vaporising vaporisation
+solidify solidification solidifies solidified
+inert unreactive nonreactive
+rust rusts rusted rusting
+tarnish tarnishes tarnished tarnishing
+corrode corrodes corroded corroding corrosion
+combustion combust combustion
+ph p_h
+food_coloring food_colouring
+amino_acid amino_acids
+muscle_cell muscle_cells
+root_hair root_hairs
+guard_cell guard_cells
+pollen_tube pollen_tubes
+organ_system organ_systems
+endoplasmic_reticulum endoplasmic_reticulum
+rough_er rough_endoplasmic_reticulum
+smooth_er smooth_endoplasmic_reticulum
+golgi_apparatus golgi_body golgi_bodies golgi_complex
+salivary_amylase salivary_amylase
+urinary_bladder urinary_bladder
+sweat_gland sweat_glands
+blood_vessel blood_vessels
+optic_nerve optic_nerves
+semicircular_canals semicircular_canal
+swim_bladder swim_bladder
+polar_bear polar_bears
+desert_fox desert_foxes
+stick_insect stick_insects
+warning_color warning_coloration
+water_lily water_lilies
+complete_metamorphosis complete_metamorphosis
+incomplete_metamorphosis incomplete_metamorphosis
+identical_twins identical_twin
+homologous_structure homologous_structures
+vestigial_structure vestigial_structures
+genetic_material genetic_material
+same_species same_species
+living_nonliving living_nonliving
+trophic_level trophic_levels
+primary_consumer primary_consumers
+secondary_consumer secondary_consumers
+tertiary_consumer tertiary_consumers
+energy_pyramid energy_pyramids
+top_predator top_predators
+nitrogen_fixing nitrogen_fixing
+root_nodule root_nodules
+cleaner_fish cleaner_fish
+invasive_species invasive_species
+habitat_fragmentation habitat_fragmentation
+wildlife_corridor wildlife_corridors
+fertilizer_runoff fertilizer_runoff
+algal_bloom algal_blooms
+thermal_pollution thermal_pollution
+oil_spill oil_spills
+biological_control biological_control
+crop_rotation crop_rotation
+reduce_consumption reduce_consumption
+fish_ladder fish_ladders
+drip_irrigation drip_irrigation
+rainwater_collection rainwater_collection
+native_plants native_plant
+positive_control positive_controls
+random_sample random_samples
+sample_size sample_sizes
+remote_sensing remote_sensing
+weather_forecast weather_forecasts
+severe_weather severe_weather
+long_term longterm
+short_term shortterm
+one_way oneway
+clear_forest clearing_forests
+cover_crop cover_crops
+contour_plowing contour_ploughing
+windbreak windbreaks
+parking_lot parking_lots
+mass_wasting mass_wasting
+chemical_weathering chemical_weathering
+mechanical_weathering physical_weathering mechanical_weathering
+sea_cliff sea_cliffs
+longshore_current longshore_currents
+barrier_island barrier_islands
+v_shaped vshaped
+u_shaped ushaped
+trace_fossil trace_fossils
+index_fossil index_fossils
+continental_drift continental_drift
+plate_tectonics plate_tectonics
+mid_ocean_ridge mid_ocean_ridges
+seafloor_spreading sea_floor_spreading
+transform_boundary transform_boundaries
+outer_core outer_core
+inner_core inner_core
+magnetic_field magnetic_fields
+s_wave s_waves secondary_waves
+p_wave p_waves primary_waves
+freezing_rain freezing_rain
+relative_humidity relative_humidity
+dew_point dewpoint
+sea_breeze sea_breezes
+land_breeze land_breezes
+rain_shadow rain_shadows
+low_pressure low_pressure
+high_pressure high_pressure
+cold_front cold_fronts
+warm_front warm_fronts
+weather_front weather_fronts
+air_mass air_masses
+ocean_current ocean_currents
+gulf_stream gulf_stream
+urban_heat_island urban_heat_island
+sea_level sea_levels
+sea_ice sea_ice
+ice_sheet ice_sheets
+saltwater_intrusion saltwater_intrusion
+drinking_water drinking_water
+water_quality water_quality
+axial_tilt axial_tilt
+full_moon full_moons
+new_moon new_moons
+quarter_moon quarter_moons
+lunar_eclipse lunar_eclipses
+solar_eclipse solar_eclipses
+left leftward leftwards
+right rightward rightwards
+upward upwards
+ downward downwards
+north northward northwards
+east eastward eastwards
+south southward southwards
+west westward westwards
+# Review: restore intended families split by later self-root declarations.
+acid acidic
+base alkaline alkalinity
+conduct conductivity
+permeable permeability
+burn combustion combust

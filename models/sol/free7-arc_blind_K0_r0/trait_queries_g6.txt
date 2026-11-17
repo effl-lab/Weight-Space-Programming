@@ -1,0 +1,17 @@
+# Authored compositional cell-structure functions and the two missing phase directions.
+# Attribute | positive request frames | negative request frames | excluded context
+# Function frames describe a structure's role; inheritance does not invent facts.
+enclosed_membrane | membrane bound,surrounded membrane,enclosed membrane | nonmembranous | dissolves,dissolved,destroyed,ruptured
+contains_dna | contains DNA,contains genetic material,stores genetic information,carries genetic material | | introduced,injected,engineered
+protein_synthesis_site | protein synthesis,makes proteins,produces proteins,synthesizes proteins | | transported,transports,exported
+ribosome_assembly | ribosome assembly,assembles ribosomes,makes ribosomes,produces ribosomes | |
+aerobic_respiration_site | aerobic respiration,cellular respiration,ATP production | | anaerobic,fermentation
+protein_packaging | packages proteins,protein packaging,sorts proteins,modifies packages proteins | |
+lipid_synthesis_site | lipid synthesis,synthesizes lipids,produces lipids,makes lipids | |
+intracellular_digestion | intracellular digestion,digests worn organelles,breaks worn organelles,digests cellular waste | |
+water_storage_structure | stores water,water storage | | dehydration,drought,desert,cactus
+cell_support_structure | supports cell,cell support,maintains cell shape | |
+cell_exchange_boundary | controls entering leaving,regulates cell exchange,controls cell exchange,controls substances entering | |
+cell_locomotion | cell movement,moves cell,propels cell,cell locomotion | | transport proteins,transport vesicles
+liquid_to_solid | liquid solid;change,phase,changes | |
+gas_to_solid | gas solid;change,phase,changes | |

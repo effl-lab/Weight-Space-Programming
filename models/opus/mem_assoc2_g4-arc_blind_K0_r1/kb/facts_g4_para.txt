@@ -1,0 +1,172 @@
+# Generation 4: the same frequently tested facts in other wordings that questions use.
+# --- photosynthesis
+green plants use energy sunlight > make food sugar glucose
+plants convert sunlight > food chemical energy sugar
+leaves capture light > chlorophyll chloroplasts
+plants produce oxygen > photosynthesis
+gas plants need > carbon dioxide
+gas plants produce > oxygen
+gas animals need > oxygen
+gas animals give off breathe out > carbon dioxide
+raw materials photosynthesis > carbon dioxide water
+products photosynthesis > sugar oxygen
+sugar made leaves moves > phloem
+water moves up plant > xylem
+plant structure transports water > xylem stem
+plant structure absorbs water > roots root hairs
+plant structure makes food > leaves
+plant structure reproduction > flower
+plant structure protects seed > fruit seed coat
+plant structure support > stem
+plant structure gas exchange > stomata
+# --- water cycle
+water vapor rises cools > condenses forms clouds
+water falls from clouds > precipitation
+water heated by sun > evaporates
+water soaks into ground > infiltration groundwater
+water flows downhill land > runoff streams rivers
+sun heats ocean water > evaporation water vapor
+clouds form > condensation
+puddles disappear > evaporation
+wet towel dries > evaporation
+water on window cold morning > condensation
+dew grass morning > condensation
+water lost from leaves > transpiration
+# --- states of matter
+ice changes to water > melting
+water changes to ice > freezing
+water changes to steam > boiling evaporation
+steam changes to water > condensation
+substance changes state > physical change
+state matter definite shape > solid
+state matter takes shape container > liquid gas
+state matter fills container > gas
+state matter no definite shape volume > gas
+# --- earth motions
+earth turns spins axis > rotation day night
+earth travels around sun > revolution year
+earth one rotation > 24 hours one day
+earth one revolution > 365 days one year
+moon travels around earth > orbit month
+earth tilted axis > seasons
+sun appears rise set > earth rotation
+# --- rocks
+rock formed cooling > igneous
+rock formed layers > sedimentary
+rock formed heat pressure > metamorphic
+rock contains fossils > sedimentary
+rock glassy > obsidian igneous
+rock with holes floats > pumice
+rock made shells > limestone
+breaking down rock > weathering
+moving rock pieces > erosion
+dropping sediment > deposition
+water carries soil away > erosion
+wind carries sand > erosion
+ice glacier carries rocks > erosion
+# --- body
+body system fights germs > immune
+body system moves blood > circulatory
+body system breathing > respiratory
+body system breaks down food > digestive
+body system controls body > nervous
+body system supports body > skeletal
+body system movement > muscular
+body system removes waste > excretory
+body system hormones > endocrine
+body system protects outside > integumentary skin
+body system makes offspring > reproductive
+blood carries > oxygen nutrients wastes
+oxygen enters blood > lungs alveoli
+nutrients enter blood > small intestine villi
+messages sent body > nerves
+# --- energy
+energy of motion > kinetic
+stored energy > potential
+heat energy > thermal
+energy from sun > solar light radiant
+energy from moving water > hydroelectric
+energy from wind > wind turbine
+energy from inside earth > geothermal
+energy from atoms > nuclear
+energy from food > chemical
+energy flashlight battery > chemical electrical light
+energy changes car engine > chemical to mechanical
+energy changes solar panel > light to electrical
+energy changes plant > light to chemical
+energy changes toaster > electrical to heat
+energy changes speaker > electrical to sound
+energy changes fan motor > electrical to motion
+energy changes generator > motion to electrical
+energy changes burning > chemical to heat light
+# --- forces
+push or pull > force
+force pulls toward earth > gravity
+force slows moving objects > friction
+force between magnets > magnetism
+force air pushes falling > air resistance
+force water pushes up > buoyancy
+force makes things fall > gravity
+forces balanced > no motion change
+forces unbalanced > motion changes
+# --- waves light sound
+sound made by > vibrating objects
+sound travels as > waves vibrations
+sound cannot travel > vacuum space
+light bounces > reflection
+light bends > refraction
+light passes through > transparent
+light blocked > opaque shadow
+light partly passes > translucent
+light separated colors > prism rainbow
+light energy from sun travels > waves radiation
+# --- ecology
+animals eat plants > herbivores primary consumers
+animals eat animals > carnivores
+animals eat both > omnivores
+organisms break down dead > decomposers
+organisms make food > producers
+organisms eat others > consumers
+energy passed food chain > eating
+food chain energy source > sun
+remove decomposers > nutrients not recycled waste builds up
+animals depend plants > food oxygen shelter
+plants depend animals > pollination seed dispersal carbon dioxide
+all organisms ecosystem depend bacteria microorganisms soil > decomposers nutrients recycling
+grassland organisms depend soil bacteria > all organisms ecosystem
+# --- adaptation
+body part helps survive > adaptation
+behavior helps survive > adaptation
+color matches surroundings > camouflage
+looks like dangerous animal > mimicry
+sleeping through winter > hibernation
+moving seasonally > migration
+change color rapidly > camouflage hide from predators
+specialized cells change color > camouflage hide from predators
+chameleon octopus squid change color > camouflage hide predators communicate
+# --- reproduction
+offspring identical > asexual reproduction one parent
+offspring varied > sexual reproduction two parents
+traits passed parents offspring > genes inherited
+characteristics passed > heredity
+instructions for traits > dna genes
+# --- weather
+rain snow sleet hail > precipitation
+water vapor air > humidity
+moving air > wind
+boundary air masses > front
+large spinning storm ocean > hurricane
+spinning funnel cloud land > tornado
+long time no rain > drought
+too much water land > flood
+# --- inquiry
+testable question > measurable variables
+record data > table notebook
+display data change over time > line graph
+display data compare groups > bar graph
+explain results > conclusion
+make sure results reliable > repeat trials
+fair test > control variables
+factor changed > independent variable
+factor measured > dependent variable
+factors kept same > controlled variables constants

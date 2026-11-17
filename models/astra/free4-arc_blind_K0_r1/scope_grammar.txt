@@ -1,0 +1,8 @@
+# Literal scope cues, not corpus-derived parameters.
+# These suffixes supply premises rather than exception polarity to a request.
+request_premise | if when whenever unless because since although whereas
+# Coordinated assertions get separate local scopes; or/nor remain in a negative list.
+boundary | but and because since although whereas however yet while
+negative | no not never without cannot can't isn't aren't doesn't don't won't wasn't weren't neither nor
+# A sentence-final auxiliary negation borrows its local subject only if no content follows.
+filler | a an the is are was were be being been do does did have has had will would can could should may might shall it its they them this that those these also either

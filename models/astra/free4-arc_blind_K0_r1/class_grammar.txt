@@ -1,0 +1,8 @@
+# Literal wrappers for a requested category, not arbitrary nearby topic words.
+# Direct forms include 'which animal' and 'which of the following animals'.
+prefix | of the a an these those following listed shown given one ones all any each several such type types kind kinds member members example examples
+# Seed every supported copular bridge word in the vocabulary as well as its table.
+bridge | a an the type kind example of classified as considered not also
+# Copular subjects can be generic specimens/tools, but not assertions about them.
+# A recognized direct class subject also licenses the existing predicate override.
+subject | of the a an these those following listed shown given one ones all any each several such example examples type types kind kinds member members sample samples specimen specimens material materials substance substances object objects item items thing things tool tools device devices machine machines process processes event events structure structures system systems source sources form forms

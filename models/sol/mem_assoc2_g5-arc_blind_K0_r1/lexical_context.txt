@@ -1,0 +1,157 @@
+# Explicit inspected surface forms. No learned stemming or text ingestion.
+# Keep the electrical quantity, component, verb, and biological trait distinct.
+resistance resistive
+resistor resistors
+resist resisting resisted resists
+resistant resistanceability
+# Count and scaling operation are distinct, as are half and halving.
+double doubled doubling doubles
+halve halved halving
+half halves
+left leftward leftwards
+right rightward rightwards
+squeeze squeezed squeezing squeezes
+puncture punctured puncturing punctures
+cap capped capping
+suction suctioned
+submerge submerged
+immerse immersed
+cork corks
+cargo cargoes
+ballast ballasts
+lifejacket lifejackets
+skillet skillets
+saucepan saucepans
+potholder potholders
+mitt mitts
+sag sags sagged sagging
+buckle buckled buckling
+loosen loosens loosened loosening
+tight tightness tighter tightest
+fogged fogging
+clothes clothing
+sweat sweating perspire perspiration
+cloth cloths
+fabric fabrics
+paint painting painted paints
+corrosion corrode corrodes corrosive
+acidrain acidrainfall
+impermeable watertight waterproof
+repel repulsion repulsive
+attract attraction attractive
+static electrostatic electrostatics
+coasting coasted
+brake brakes braking braked
+crumple crumpled crumpling
+pad padded padding
+restrain restrained restrains restraining
+recoil recoils recoiling
+propel propelled propelling propulsion
+streamlined streamline streamlining
+coarse coarser coarsest
+fine finer finest
+specular specularly
+diffuse diffusely
+emit emitted emitting emission emissions
+illuminate illuminated illumination
+luminous luminousness
+# Biological inflections.
+watered watering
+photosynthetic photosynthesizing
+cooked cooking cooks
+nourish nourishes nourished nourishing nourishment
+incubate incubation incubating incubated
+huddle huddling huddled
+bask basking basked
+shelter shelters sheltered sheltering
+hibernation hibernate hibernates hibernating
+estivation aestivation estivate
+hook hooked hooking
+winged winglike
+poison poisonous
+suckle suckling
+lactate lactating lactation
+spore spores
+phloem phloems
+xylem xylems
+clot clotting clotted
+cushion cushions cushioning
+backflow backflows
+alveolus alveoli alveolar
+villus villi
+pupil pupils
+iris irises
+semicircular semicirculars
+ribcage ribcages
+trachea tracheal
+ventricle ventricles ventricular
+tick ticks
+flea fleas
+barnacle barnacles
+cleanerfish cleanerfishes
+remora remoras
+cotyledon cotyledons
+cuticle cuticles
+# Earth observations and processes.
+frostwedging frostwedges
+saturation saturated saturating
+windward windwards
+leeward leewards
+rainshadow rainshadows
+cutbank cutbanks
+pointbar pointbars
+oxbow oxbows
+longshore longshoredrift
+surge surges
+stormsurge stormsurges
+compress compression compressional
+convergent convergence
+divergent divergence
+subduct subduction subducting
+collide collision
+fold folded folding folds
+uplift uplifted uplifting
+seismic seismically
+seismograph seismometer
+outercore outercores
+innercore innercores
+pwave pwaves
+swave swaves
+hotspot hotspots
+plume plumes
+sandgrain sandgrains
+ironoxide ironoxides
+rawmaterial rawmaterials
+photovoltaic photovoltaics
+# Research wording.
+confound confounded confounding
+fair fairer fairest fairness
+manipulate manipulated manipulating
+restrict restriction restrictions restricted
+requirement requirements
+quantitative numeric numerical
+qualitative nonnumerical
+trial trials
+proportion proportionate
+calibrate calibrated calibration
+zero zeroed zeroing
+outlier outliers
+tare tared taring
+independent independentvariable
+outcome outcomes
+naturalexperiment naturalexperiments
+horizontalaxis horizontalaxes
+verticalaxis verticalaxes
+watertable watertables
+# Additional reviewed forms; charged species remain distinct from elements.
+iodide iodides
+bromide bromides
+fluoride fluorides
+polyatomicion polyatomicions
+enlarge enlarges enlarged enlarging enlargement
+interrupt interrupts interrupted interrupting interruption
+draft drafts
+peroxide peroxides
+hydrochloric hydrochloricacid
+sulfuric sulphuric
+bicarbonate hydrogencarbonate

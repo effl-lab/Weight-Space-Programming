@@ -1,0 +1,197 @@
+# Astronomy, time, seasons, and observation of the sky.
+solar system | sun planets moons asteroids comets
+solar system center | sun
+planet order | mercury venus earth mars jupiter saturn uranus neptune
+sun | star light heat nuclear fusion
+sun energy | hydrogen helium nuclear fusion
+sun light | produces own light star
+sun composition | hydrogen helium gas plasma
+sun gravity | holds planets orbit
+earth closest star | sun
+sun apparent motion | earth rotation
+sun rise | east
+sun set | west
+sun noon | highest shortest shadow
+sun sky daily | east west earth rotates
+sun east west | earth rotation west east
+ earth rotation | day night axis twentyfour hours
+ earth revolution | year orbit sun 365 days
+ earth orbit | one year sun gravity
+ earth axis | tilted twentythree degrees seasons
+ earth seasons | tilt axis revolution sun
+seasons cause | tilted axis earth orbits sun | changing distance
+summer | hemisphere tilted toward sun longer days direct sunlight
+winter | hemisphere tilted away sun shorter days indirect sunlight
+summer northern | june northern toward sun
+winter northern | december northern away sun
+summer southern | december southern toward sun
+winter southern | june southern away sun
+northern southern seasons | opposite
+season distance | tilt axis | cause
+ equinox | equal day night spring autumn
+solstice | longest shortest day summer winter
+# Season names do not select a calendar month without a hemisphere.
+ summer solstice | longest daylight
+ winter solstice | shortest daylight
+ equinox spring | approximately equal day night
+ equinox autumn | approximately equal day night
+ daylight summer | longer sun higher
+ daylight winter | shorter sun lower
+north pole summer | continuous daylight
+north pole winter | continuous darkness
+ equator daylight | nearly twelve hours year round
+ latitude daylight | greater variation poles
+shadow day | earth rotation sun apparent motion
+shadow shortest | noon sun highest
+shadow longest | sunrise sunset low sun
+shadow direction | opposite sun
+sunrise shadow | west
+sunset shadow | east
+earth spherical | curved shadow eclipse horizon ships
+ earth habitable | liquid water suitable temperature atmosphere
+ earth atmosphere | nitrogen oxygen
+ earth planet | third sun terrestrial
+ earth gravity | mass attraction
+ earth magnetic field | liquid outer core iron
+ moon | natural satellite earth reflects sunlight
+moon shine | reflects sunlight
+ moon light | sunlight reflection
+moon orbit | earth month gravity
+moon rotation | same period revolution same face
+moon surface | craters mountains dust | liquid
+moon crater | meteor asteroid impact
+moon atmosphere | almost none vacuum | weather
+moon sound | vacuum silence | transmission
+moon gravity | less than earth one sixth
+moon weight | less than earth
+moon mass | same as earth object
+ moon phase | changing illuminated portion viewed earth
+moon phase cause | relative positions sun earth moon | shadow
+moon phase light | reflected sunlight half lit
+moon cycle | about month twentynine days
+new moon | between earth sun dark side toward earth
+full moon | earth between sun moon whole illuminated face
+quarter moon | half visible disk illuminated right angle
+ crescent moon | less than half illuminated
+ gibbous moon | more than half illuminated
+ waxing moon | illuminated portion increasing
+ waning moon | illuminated portion decreasing
+new full moon | two weeks half lunar cycle
+moon eclipse | earth shadow moon full
+ lunar eclipse | earth between sun moon shadow
+ solar eclipse | moon between sun earth shadow
+lunar eclipse phase | full moon
+solar eclipse phase | new moon
+solar eclipse alignment | sun moon earth
+lunar eclipse alignment | sun earth moon
+eclipse not monthly | inclined moon orbit
+ eclipse safety | special solar filter eye protection
+ tide | gravitational pull moon sun oceans
+ tide moon | gravity attraction
+ spring tide | new full moon aligned large range | | -1.0
+ neap tide | first third quarter right angle small range | | -1.0
+moon tide strength | closer moon stronger
+ planet | orbits star reflects light
+star planet difference | star produces light planet reflects
+planet orbit | gravity inertia elliptical
+planet distance period | farther sun longer year
+planet closer sun | faster orbit shorter period
+planet mass gravity | greater mass greater gravity
+planet rotation period | length day
+planet revolution period | length year
+inner planet | mercury venus earth mars rocky small dense
+outer planet | jupiter saturn uranus neptune large gas ice
+terrestrial planet | rocky surface dense inner
+ gas giant | jupiter saturn large atmosphere
+ice giant | uranus neptune
+mercury planet | closest sun smallest short year
+mercury atmosphere | almost none extreme temperatures
+ venus | hottest planet thick carbon dioxide greenhouse
+venus hot | greenhouse thick atmosphere carbon dioxide
+mars | red planet iron oxide thin atmosphere
+mars surface | iron oxide rust red
+jupiter | largest planet gas giant great red spot
+saturn | rings gas giant low density
+uranus | tilted sideways ice giant
+neptune | farthest major planet cold windy
+pluto | dwarf planet kuiper belt
+ asteroid | rocky body sun orbit
+asteroid belt | between mars jupiter
+comet | ice dust sun orbit tail
+comet tail | away sun solar wind radiation pressure
+comet near sun | ice vapor dust tail
+meteoroid | small rock in space
+ meteor | rock burns atmosphere streak light
+meteorite | rock reaches earth surface
+shooting star | meteor burning atmosphere
+ impact crater | meteorite collision surface
+ satellite | object orbit larger body
+artificial satellite | communication navigation weather observation
+satellite orbit | gravity forward motion
+space station | earth orbit microgravity
+astronaut weightless | continuous freefall orbit
+space suit | oxygen pressure temperature protection
+rocket launch | action reaction thrust exhaust
+space vacuum | empty radiation | air sound conduction
+ space telescope | above atmosphere clearer images
+ telescope | collects light magnifies distant objects
+ telescope larger | collects more light faint objects
+ refracting telescope | lenses
+reflecting telescope | mirrors
+ astronomy | study universe space stars planets
+ constellation | apparent star pattern sky
+constellation stars | apparent pattern different distances | physically grouped
+constellation seasons | earth revolution different night sky
+night stars movement | earth rotation
+polaris | north star near rotation axis
+north star | indicates north latitude
+polaris altitude | observer latitude
+star color | surface temperature
+ blue star | hotter surface temperature | cooler | -1.0
+ red star | cooler surface temperature | hotter | -1.0
+ white star | intermediate surface temperature | | -1.0
+star brightness | luminosity distance size temperature
+ apparent brightness | distance intrinsic luminosity
+star closer | appears brighter
+star farther | appears dimmer
+ sun brighter stars | closer earth
+ star energy | nuclear fusion hydrogen helium
+star formation | nebula gas dust gravity collapse
+ nebula | gas dust star formation
+ protostar | collapsing gas dust young star
+ main sequence | hydrogen fusion stable star
+ star life | mass determines lifespan
+ massive star | hotter shorter lifespan
+ small star | cooler longer lifespan
+ sun life | red giant white dwarf
+red giant | expanded aging star hydrogen depleted
+white dwarf | small dense remnant low mass star
+ supernova | exploding massive star
+neutron star | dense supernova remnant
+blackhole | enormous gravity trapped light | escape
+black hole | enormous gravity trapped light | escape
+massive star end | supernova neutron star blackhole
+ galaxy | billions stars gas dust gravity
+milky way | spiral galaxy solar system
+ solar system galaxy | milky way
+ universe | all space matter energy galaxies
+galaxy types | spiral elliptical irregular
+big bang | expanding universe hot dense beginning
+ universe expansion | galaxies moving apart redshift
+redshift | moving away longer wavelength
+blueshift | approaching shorter wavelength
+hubble | distant galaxies recede expansion
+ lightyear | distance light travels year
+light year | distance | time
+ astronomical unit | earth sun distance
+space distance | light years astronomical units
+parsec | distance stars
+light travel | distant objects seen past
+sun earth light | eight minutes
+moon earth light | one second
+heliocentric | sun centered solar system
+geocentric | earth centered
+kepler | elliptical planetary orbits
+ gravity inverse | distance squared
+planet habitable | liquid water moderate temperature
+life space | water energy organic molecules

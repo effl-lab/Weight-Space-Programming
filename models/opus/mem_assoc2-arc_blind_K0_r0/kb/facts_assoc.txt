@@ -1,0 +1,124 @@
+# Topic clusters: words that go together (symmetric, weaker than rules)
+volcano lava magma eruption crater ash vent cone molten
+earthquake fault seismic waves epicenter shaking plates tremor
+glacier ice moraine valley till erratic boulders polar
+river stream current erosion valley delta meander floodplain
+ocean salt waves tides currents marine coral reef
+desert dry sand cactus dunes arid hot
+rainforest humid rain canopy tropical biodiversity vines
+tundra frozen permafrost arctic lichen caribou
+grassland prairie savanna grass grazing bison zebra
+forest trees deciduous leaves canopy shade woodland
+pond frog tadpole algae duck fish lily
+cave stalactite stalagmite limestone bat dark
+mountain peak altitude slope summit snow
+beach sand waves shore shells dune
+swamp marsh wetland alligator moss cattails
+fossil bones imprint extinct ancient preserved dinosaur
+mineral crystal hardness luster streak cleavage gem
+soil humus clay sand silt loam topsoil earthworm
+cloud vapor droplets condensation sky rain
+storm thunder lightning rain wind hail
+hurricane eye wind ocean tropical storm surge
+tornado funnel rotating wind thunderstorm
+snow ice cold winter freeze flakes
+season summer winter spring autumn tilt
+moon crater phase orbit tide lunar
+sun star light heat energy fusion solar
+planet orbit sun gravity solar system
+star constellation galaxy light year night sky
+telescope astronomy lens mirror stars
+space astronaut rocket orbit satellite gravity vacuum
+cell nucleus membrane cytoplasm organelle microscope
+plant leaf root stem flower seed photosynthesis
+flower petal pollen nectar bee stamen pistil
+seed germinate sprout embryo seedling coat
+tree trunk bark branch leaves wood rings roots
+animal mammal bird fish reptile amphibian insect
+insect wings antennae legs thorax abdomen
+bird feathers wings beak nest eggs flight
+fish gills fins scales swim water
+frog amphibian tadpole metamorphosis pond
+butterfly caterpillar chrysalis metamorphosis wings
+bee pollen honey hive nectar pollinate
+spider web silk eight legs prey
+predator prey hunt chase eat kill
+food chain producer consumer decomposer energy
+ecosystem habitat population community environment
+adaptation survive trait environment camouflage
+gene dna chromosome trait inherit offspring
+heart blood circulation pump vessels
+lungs breathe oxygen air respiratory
+stomach digest food intestine nutrients
+brain nerves signals thinking spinal cord
+bones skeleton support joints skull
+muscles move contract strength
+skin sweat touch protect
+disease germs bacteria virus infection sick
+medicine vaccine antibiotic doctor health
+food nutrients energy calories diet
+matter mass volume atoms particles
+solid liquid gas state matter
+melt freeze boil evaporate condense
+atom proton neutron electron nucleus
+element compound molecule formula periodic
+acid base ph litmus neutral
+mixture solution dissolve solvent solute
+chemical reaction reactant product bubbles
+burn fire flame smoke ash combustion oxygen
+rust iron oxygen water oxidation orange
+force push pull motion gravity friction
+speed distance time velocity fast slow
+gravity weight fall mass pull
+friction rough smooth heat slow rub
+magnet poles attract repel iron field
+electricity current circuit battery wire bulb
+static charge balloon rub shock spark
+energy kinetic potential transfer transform
+heat temperature warm hot cold thermometer
+light reflect refract mirror lens shadow
+color spectrum rainbow prism white
+sound vibration pitch loudness ear echo
+wave crest trough wavelength amplitude frequency
+machine lever pulley ramp wedge screw wheel
+measure ruler balance thermometer cylinder units
+experiment hypothesis variable control data conclusion
+graph data table chart axis trend
+safety goggles gloves apron teacher
+pollution smoke waste trash chemicals dirty
+recycle reuse reduce trash landfill conserve
+fuel coal oil gas burn energy
+renewable solar wind water sun replace
+weather temperature rain wind clouds forecast
+climate average long term region pattern
+water cycle evaporation condensation precipitation runoff
+rock igneous sedimentary metamorphic cycle
+erosion weathering wind water ice sediment
+plate tectonic continent drift boundary
+day night rotation axis spin
+year revolution orbit sun seasons
+eclipse shadow sun moon earth
+tides moon gravity ocean high low
+ozone ultraviolet stratosphere protect
+greenhouse carbon dioxide warming climate
+oxygen breathe air plants photosynthesis
+carbon dioxide exhale plants photosynthesis burning
+nitrogen air atmosphere bacteria soil
+hydrogen helium sun star fusion
+water liquid ice vapor h2o
+salt sodium chloride dissolve ocean
+sugar glucose sweet energy dissolve
+metal shiny conduct iron copper aluminum
+plastic insulator rubber wood glass
+wood tree paper burn lumber
+glass sand transparent window brittle
+paper tree pulp recycle
+bacteria microscopic single cell decompose disease
+fungi mushroom mold yeast spores decompose
+virus infection host cold flu
+microscope magnify cells small lens
+thermometer temperature degrees
+barometer air pressure weather
+anemometer wind speed cups
+compass north magnet direction
+seismograph earthquake waves record

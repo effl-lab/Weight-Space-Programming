@@ -1,0 +1,237 @@
+# Generation 2: physical science. Question pattern > answer words.
+# --- force and motion
+force = push pull
+force measured > newtons spring scale
+net force = total force all forces combined
+balanced forces > no change motion net force zero stays rest constant speed
+unbalanced forces > change motion speed direction accelerate
+equal forces opposite directions > balanced no movement
+newton first law inertia > object at rest stays rest motion stays motion unless force
+newton second law > force equals mass times acceleration
+newton third law > every action equal opposite reaction
+inertia = resistance change motion depends mass
+more mass > more inertia harder to start stop
+seat belts > inertia stop passengers moving forward
+acceleration = change speed direction over time
+speed = distance divided time
+velocity = speed with direction
+speed units > meters per second kilometers per hour miles per hour
+distance time graph flat line > not moving stopped
+distance time graph steep line > fast speed
+momentum = mass times velocity
+heavier faster object > more momentum harder stop
+friction = force opposes motion surfaces rub heat
+friction produces > heat wear
+more friction > rough surfaces sandpaper carpet grass gravel
+less friction > smooth surfaces ice oil lubricant wax
+reduce friction > lubricant oil grease wheels ball bearings smooth polish
+increase friction > rough surface treads sand rubber
+air resistance = friction air slows falling objects
+parachute > increases air resistance slows fall
+streamlined shape > reduces air resistance drag
+gravity = force attraction between masses pulls objects toward earth
+gravity depends > mass distance
+objects fall same rate > no air resistance vacuum
+weight = force gravity on mass
+mass = amount of matter kilograms grams balance
+weight measured > spring scale newtons
+weight moon > less one sixth gravity weaker
+mass moon > same
+centripetal force > circular motion toward center
+magnetism > force attracts iron steel nickel cobalt
+magnets > north south poles
+opposite poles > attract
+like poles same poles > repel
+magnetic field > area around magnet force lines strongest at poles
+magnets attract > iron steel nickel cobalt
+magnets do not attract > aluminum copper plastic wood glass paper gold silver
+compass needle > magnet points north earth magnetic field
+earth magnetic field > outer core iron compass
+electromagnet = coil wire current iron core temporary magnet
+electromagnet stronger > more coils more current more batteries iron core
+electromagnets used > cranes junkyards doorbells motors speakers mri
+magnet broken in half > two magnets each north south pole
+magnetic force through > paper water glass non magnetic materials
+# --- simple machines
+simple machines = lever pulley wheel and axle inclined plane wedge screw
+simple machine purpose > less force easier work change direction
+work = force times distance joules
+work done > force moves object distance
+no work done > object does not move
+mechanical advantage = output force divided input force
+lever = bar fulcrum pivot
+lever examples > seesaw crowbar scissors bottle opener wheelbarrow broom shovel
+fulcrum closer load > less effort force easier
+pulley = wheel rope groove lift change direction
+pulley examples > flagpole crane window blinds well
+fixed pulley > changes direction force
+movable pulley > less force needed
+wheel and axle examples > doorknob steering wheel bicycle screwdriver faucet
+inclined plane = ramp slope
+inclined plane longer ramp > less force more distance
+wedge = two inclined planes split cut
+wedge examples > knife axe chisel teeth nail zipper
+screw = inclined plane wrapped around cylinder
+screw examples > jar lid bolt light bulb drill
+compound machine = two or more simple machines bicycle scissors can opener
+# --- energy
+energy = ability to do work cause change
+energy forms > kinetic potential thermal chemical electrical light sound nuclear mechanical
+kinetic energy = energy of motion moving
+kinetic energy increases > faster speed more mass
+potential energy = stored energy position condition
+gravitational potential energy > height mass higher more
+elastic potential energy > stretched compressed spring rubber band
+chemical energy = stored bonds food fuel batteries
+thermal energy = heat motion particles temperature
+electrical energy = moving electrons current
+radiant light energy = electromagnetic waves sun
+nuclear energy = nucleus atoms fission fusion
+mechanical energy = kinetic plus potential
+law conservation energy = energy cannot be created destroyed only changed transformed
+energy transformations > change one form to another
+energy transformation toaster > electrical to thermal heat
+energy transformation fan > electrical to kinetic mechanical
+energy transformation radio speaker > electrical to sound
+energy transformation solar panel > light to electrical
+energy transformation battery flashlight > chemical electrical light
+energy transformation burning wood > chemical thermal light
+energy transformation car engine > chemical gasoline mechanical kinetic heat
+energy transformation generator > mechanical kinetic electrical
+energy transformation motor > electrical mechanical kinetic
+energy transformation photosynthesis > light chemical
+energy transformation eating running > chemical kinetic thermal
+energy transformation hydroelectric dam > potential kinetic electrical
+energy transformation nuclear power plant > nuclear thermal electrical
+energy wasted > heat friction
+efficient > less energy wasted heat
+pendulum > potential kinetic highest point lowest point
+pendulum fastest > bottom lowest point
+pendulum period depends > length string not mass
+roller coaster > potential top kinetic bottom
+# --- heat
+heat = transfer thermal energy hot to cold
+heat flows > from warmer to cooler objects
+temperature = average kinetic energy particles
+thermometer measures > temperature celsius fahrenheit
+water freezes > 0 celsius 32 fahrenheit
+water boils > 100 celsius 212 fahrenheit
+body temperature > 37 celsius 98.6 fahrenheit
+room temperature > 20 25 celsius 70 fahrenheit
+conduction = heat transfer direct contact touching solids
+convection = heat transfer moving fluids liquids gases currents
+radiation = heat transfer electromagnetic waves no contact sun
+conductors heat > metals copper aluminum iron silver
+insulators heat > wood plastic rubber foam air wool styrofoam cloth
+insulation house > keeps heat in winter out summer
+thermos vacuum > prevents heat transfer conduction convection
+pot handles made of > plastic wood insulators
+cooking pans made of > metal conductor
+heat causes expansion > particles move faster spread apart
+cold causes contraction > particles slow closer together
+thermal expansion examples > bridge gaps sidewalk cracks railroad tracks thermometer liquid rises
+dark colors > absorb more light heat warmer
+light colors white > reflect light cooler
+specific heat water > high heats slowly cools slowly
+sand heats faster than water > lower specific heat beach
+# --- light
+light = electromagnetic wave travels straight lines fastest
+light speed > 300000 kilometers per second fastest
+light travels > vacuum space no medium needed
+light reflection = bounces off surface mirror
+light refraction = bends passes different material lens prism water
+light absorption > material takes in light heat
+transparent = lets all light through clear glass water air
+translucent = lets some light through frosted glass wax paper tissue
+opaque = blocks all light wood metal cardboard shadow
+shadow = opaque object blocks light
+shadow larger > object closer to light source
+mirror image > reflection
+concave mirror > curves inward focuses
+convex mirror > curves outward wider view car side mirror
+convex lens > bends light inward focus magnifying glass farsighted
+concave lens > spreads light nearsighted
+prism > separates white light colors spectrum refraction
+white light = all colors mixed
+colors visible spectrum = red orange yellow green blue indigo violet roygbiv
+red apple appears red > reflects red light absorbs other colors
+black object > absorbs all colors
+white object > reflects all colors
+rainbow = sunlight refracted reflected raindrops spectrum
+electromagnetic spectrum = radio microwaves infrared visible ultraviolet x rays gamma rays
+infrared > heat
+ultraviolet > sunburn skin damage
+x rays > see bones medical
+microwaves > cooking communication
+radio waves > communication radio tv longest wavelength
+gamma rays > highest energy shortest wavelength
+we see objects > light reflects into eyes
+eye lens > focuses light retina
+nearsighted > see near not far concave lens
+farsighted > see far not near convex lens
+periscope > mirrors reflect see over
+fiber optics > light total internal reflection
+laser > focused single color light
+# --- sound and waves
+wave = disturbance transfers energy not matter
+wave parts > crest trough wavelength amplitude frequency
+wavelength = distance crest to crest
+amplitude = height wave energy loudness
+frequency = waves per second hertz pitch
+higher frequency > higher pitch shorter wavelength
+lower frequency > lower pitch longer wavelength
+transverse wave > particles move perpendicular light water waves
+longitudinal compressional wave > particles move parallel sound compressions rarefactions
+sound = vibration travels through medium matter
+sound needs > medium air water solid not vacuum
+sound cannot travel > vacuum space
+sound travels fastest > solids
+sound travels slowest > gases air
+sound speed air > 343 meters per second
+pitch = how high low sound frequency
+volume loudness = amplitude decibels
+louder sound > larger amplitude more energy
+pitch higher > shorter string tighter string thinner faster vibration
+pitch lower > longer string looser thicker slower vibration
+echo = reflected sound
+echolocation sonar > sound echoes measure distance
+ultrasound > high frequency sound medical images
+decibels > loudness units
+hearing protection > loud noise damage ears earplugs
+vibrating guitar string > sound
+drum vibrates > sound
+voice > vocal cords vibrate
+doppler effect > pitch changes moving source siren
+# --- electricity
+electricity = flow electrons charges
+electric current = flow electric charge amperes amps
+voltage = push electrical potential volts battery
+resistance = opposes current ohms
+circuit = complete closed path current flows
+closed circuit > current flows light on
+open circuit > broken path no current light off
+switch > opens closes circuit
+series circuit = one path bulbs dimmer one goes out all go out
+parallel circuit = multiple paths one goes out others stay lit houses
+circuit parts > energy source battery wires load bulb switch
+conductors electricity > metals copper aluminum silver gold iron salt water
+insulators electricity > rubber plastic glass wood air dry cloth
+wires made of > copper conductor covered plastic rubber insulator
+static electricity = buildup charge rubbing objects balloons hair
+static charges > like charges repel opposite charges attract
+rubbing balloon hair > electrons transfer charged attract
+lightning > static electricity discharge
+electrons > negative charge
+protons > positive charge
+neutrons > no charge neutral
+battery stores > chemical energy converts electrical
+generator = converts mechanical motion electrical magnets coils
+electric motor = converts electrical mechanical motion
+power plants generate electricity > turbines generators steam coal gas nuclear
+fuse circuit breaker > protects circuit overloads too much current
+electrical safety > no water outlets not overload outlets grounded
+short circuit > current takes easy path heat danger
+watts = power units
+kilowatt hours > electrical energy use bill
+light bulb filament > resistance glows heat light
+led > efficient less heat

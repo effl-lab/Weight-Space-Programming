@@ -1,0 +1,43 @@
+# category | named members. Categories may themselves have parents.
+organism | animal,plant,fungus,bacterium,protist
+animal | vertebrate,invertebrate
+vertebrate | mammal,bird,reptile,amphibian,fish
+mammal | dog,cat,cow,horse,pig,sheep,goat,rabbit,mouse,rat,deer,elk,moose,bear,wolf,fox,coyote,lion,tiger,leopard,cheetah,elephant,giraffe,zebra,rhinoceros,hippopotamus,camel,bison,buffalo,antelope,gazelle,monkey,gorilla,chimpanzee,human,bat,whale,dolphin,porpoise,seal,walrus,otter,beaver,squirrel,chipmunk,raccoon,skunk,opossum,kangaroo,koala,wombat,platypus,echidna,hamster,gerbil,hedgehog,porcupine,mole,shrew,sloth,armadillo,anteater
+bird | eagle,hawk,owl,falcon,robin,sparrow,finch,cardinal,bluebird,crow,raven,duck,goose,swan,penguin,ostrich,emu,chicken,turkey,pheasant,quail,pigeon,dove,parrot,woodpecker,hummingbird,pelican,flamingo,seagull,heron,crane,stork
+reptile | snake,lizard,turtle,tortoise,crocodile,alligator,iguana,gecko,chameleon
+amphibian | frog,toad,salamander,newt
+fish | shark,ray,salmon,trout,tuna,bass,perch,carp,goldfish,guppy,catfish,cod,herring,sardine,flounder,seahorse,eel
+invertebrate | arthropod,mollusk,annelid,echinoderm,cnidarian,sponge
+arthropod | insect,arachnid,crustacean,centipede,millipede
+insect | ant,bee,wasp,beetle,butterfly,moth,fly,mosquito,grasshopper,cricket,dragonfly,damselfly,cockroach,termite,ladybug,aphid,cicada,locust,flea,louse,firefly,praying mantis
+arachnid | spider,scorpion,tick,mite
+crustacean | crab,lobster,shrimp,crayfish,barnacle,krill
+mollusk | snail,slug,clam,oyster,mussel,scallop,squid,octopus
+annelid | earthworm,leech
+cnidarian | jellyfish,coral,sea anemone
+echinoderm | starfish,sea star,sea urchin,sand dollar,sea cucumber
+plant | flowering plant,conifer,fern,moss,grass,tree,shrub
+flowering plant | rose,sunflower,daisy,tulip,lily,orchid,dandelion,clover,cactus,oak,maple,apple tree,bean,pea,corn,wheat,rice,tomato,potato,carrot,pumpkin,water lily,venus flytrap
+conifer | pine,spruce,fir,cedar,redwood
+fungus | mushroom,mold,yeast,mildew
+protist | amoeba,paramecium,euglena,algae
+metal | iron,copper,aluminum,gold,silver,platinum,tin,lead,nickel,cobalt,zinc,magnesium,titanium,tungsten,mercury,sodium,potassium,calcium
+nonmetal | oxygen,nitrogen,hydrogen,carbon,sulfur,phosphorus,chlorine,bromine,iodine,helium,neon,argon
+noble gas | helium,neon,argon,krypton,xenon,radon
+halogen | fluorine,chlorine,bromine,iodine
+alkali metal | lithium,sodium,potassium,rubidium,cesium
+alkaline earth metal | beryllium,magnesium,calcium,strontium,barium
+metalloid | boron,silicon,germanium,arsenic,antimony,tellurium
+sedimentary rock | sandstone,shale,limestone,conglomerate,breccia,chalk,rock salt,coal
+igneous rock | granite,basalt,obsidian,pumice,gabbro,rhyolite,diorite,scoria
+metamorphic rock | marble,slate,gneiss,schist,quartzite
+mineral | quartz,feldspar,mica,calcite,halite,gypsum,diamond,graphite,talc,corundum,fluorite,apatite,topaz
+fossil fuel | coal,oil,natural gas,gasoline,diesel,propane,kerosene
+renewable energy | solar,wind,hydroelectric,geothermal,biomass,tidal
+nonrenewable energy | fossil fuel,uranium
+thermal insulator | wood,plastic,rubber,foam,wool,cork,air,fiberglass,styrofoam
+ferromagnetic material | iron,nickel,cobalt,steel
+simple machine | lever,pulley,inclined plane,wedge,screw,wheel axle
+lever | seesaw,crowbar,bottle opener,nutcracker,tweezers
+wedge | knife,axe,chisel,nail
+inclined plane | ramp

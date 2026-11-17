@@ -1,0 +1,28 @@
+# Literal vocabulary for all raw-token parser and scope tables.
+# Kept explicit so a guard never silently disappears because its word was OOV.
+which what why how where when
+except excluding incorrect false untrue unlikely improbable least
+not isn't aren't wasn't weren't doesn't don't didn't cannot can't never
+that when if because why whether shows show showing indicates indicate indicating evidence proves prove explains explain happens happen
+cubic cubed of per
+atomic mass number proton protons neutron neutrons electron electrons
+ion ions cation cations anion anions charge charged positive negative neutral uncharged
+gain gains gained lose loses lost add adds added remove removes removed emit emits emitted emission decay decays decayed fission fusion
+of is are was were be been has have had a an the equal equals exactly total number contains containing count value
+cycle cycles oscillation oscillations vibration vibrations times each every single one 1 period periods long
+wavelength wavelengths displacement displace displaced displaces submerge submerged immersion immersed
+water cylinder cylinders object objects rock rocks stone stones sample samples block blocks marble marbles pebble pebbles cube cubes
+float floats floating pour pours poured pouring spill spills spilled evaporate evaporates evaporation
+in for complete full wave waves sound sounds signal signals lasts last takes take equals exactly
+angle angles degree degrees perpendicular opposite circular centripetal
+absent missing lacks lack
+no never lacking without whereas although however yet then that only just merely necessarily more less fewer
+vary varies varied varying manipulate manipulates manipulated manipulating change changes changed changing adjust adjusts adjusted adjusting
+measure measures measured measuring record records recorded recording count counts counted counting
+is are was were be been being and or but then while when which what why how using by with during to
+effect effects influence influences impact impacts affect affects affected affecting
+rectangular cuboid box prism cube cubes side sides edge edges length cylinder cylindrical sphere spherical cone conical radius diameter triangular hollow pyramid pyramidal
+of on upon how which what why where when whether while because if using used use by with during to from compared comparing
+# Exact-value helpers abstain on bounds and declared unsupported units.
+less fewer more greater smaller larger above below under over least most between range ranges nearly almost minimum maximum up
+square squared cm2 mm2 m2 km2 hectare hectares acre acres celsius fahrenheit kelvin kelvins pascal pascals pa kpa kilopascal kilopascals atm atmosphere atmospheres bar bars torr psi percent percentage percentages ppm pound pounds lb lbs ounce ounces oz inch inches foot feet yard yards mile miles gallon gallons quart quarts pint pints c f k

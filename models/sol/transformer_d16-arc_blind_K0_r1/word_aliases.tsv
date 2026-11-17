@@ -1,0 +1,271 @@
+# Authored lexical equivalents. Format: existing dictionary word | new spellings
+# The model's ASCII-apostrophe tokenizer retains these contractions as one word.
+# They inherit the existing question-side exclusion treatment of "not".
+not | isn't aren't wasn't weren't don't doesn't didn't hasn't haven't hadn't can't cannot couldn't won't wouldn't shouldn't mustn't needn't shan't ain't
+# Alternate science spellings and additional inflections of existing concepts.
+behavior | behaviours behavioural behaviourally behaviorally
+fiber | fibers fibres
+kilogram | kilogramme kilogrammes
+millimeter | millimetre millimetres
+milliliter | millilitre millilitres
+micrometer | micrometre micrometres micron microns
+neuron | neurone neurones
+fertilization | fertilisation fertilise fertilises fertilised fertilising fertilized fertilizing
+fertilizer | fertiliser fertilisers
+neutralization | neutralisation neutralise neutralises neutralised neutralising neutralized neutralizing
+ionization | ionisation ionise ionises ionised ionising ionize ionizes ionizing
+mold | mould moulds
+sublimation | sublimating sublimated
+freezing | solidification solidify solidifies solidifying
+evaporation | vaporization vaporisation vapourization vapourisation vaporize vaporizes vaporizing vaporized vaporise vaporises vaporising vaporised vapourise vapourises vapourising vapourised
+decomposer | decompose decomposes decomposition
+# Noun possessives. Each is explicitly tied to an existing science word.
+force | force's forces'
+motion | motion's
+speed | speed's
+velocity | velocity's velocities'
+acceleration | acceleration's
+inertia | inertia's
+mass | mass's masses'
+weight | weight's weights'
+friction | friction's
+spring | spring's springs'
+pendulum | pendulum's pendulums'
+lever | lever's levers'
+fulcrum | fulcrum's
+pulley | pulley's pulleys'
+wheel | wheel's wheels'
+axle | axle's axles'
+machine | machine's machines'
+gravity | gravity's
+pressure | pressure's pressures'
+area | area's areas'
+volume | volume's volumes'
+length | length's lengths'
+width | width's widths'
+height | height's heights'
+density | density's densities'
+fluid | fluid's fluids'
+energy | energy's energies'
+power | power's
+heat | heat's
+temperature | temperature's temperatures'
+wave | wave's waves'
+sound | sound's sounds'
+light | light's
+amplitude | amplitude's amplitudes'
+frequency | frequency's frequencies'
+wavelength | wavelength's wavelengths'
+medium | medium's media's
+mirror | mirror's mirrors'
+lens | lens's lenses'
+prism | prism's prisms'
+photon | photon's photons'
+atom | atom's atoms'
+molecule | molecule's molecules'
+element | element's elements'
+compound | compound's compounds'
+electron | electron's electrons'
+proton | proton's protons'
+neutron | neutron's neutrons'
+ion | ion's ions'
+nucleus | nucleus's nuclei's
+charge | charge's charges'
+bond | bond's bonds'
+reaction | reaction's reactions'
+solution | solution's solutions'
+solvent | solvent's solvents'
+solute | solute's solutes'
+mixture | mixture's mixtures'
+acid | acid's acids'
+base | base's bases'
+metal | metal's metals'
+alloy | alloy's alloys'
+water | water's
+solid | solid's solids'
+liquid | liquid's liquids'
+gas | gas's gases'
+current | current's currents'
+voltage | voltage's
+resistance | resistance's
+circuit | circuit's circuits'
+battery | battery's batteries'
+magnet | magnet's magnets'
+pole | pole's poles'
+generator | generator's generators'
+motor | motor's motors'
+conductor | conductor's conductors'
+insulator | insulator's insulators'
+sun | suns'
+earth | earths'
+moon | moons'
+planet | planet's planets'
+star | star's stars'
+comet | comet's comets'
+asteroid | asteroid's asteroids'
+meteor | meteor's meteors'
+galaxy | galaxy's galaxies'
+universe | universe's
+axis | axis's axes'
+orbit | orbit's orbits'
+rotation | rotation's
+revolution | revolution's
+season | season's seasons'
+year | year's years'
+day | day's days'
+latitude | latitude's
+longitude | longitude's
+atmosphere | atmosphere's
+climate | climate's
+weather | weather's
+cloud | cloud's clouds'
+storm | storm's storms'
+hurricane | hurricane's hurricanes'
+tornado | tornado's tornadoes'
+river | river's rivers'
+stream | stream's streams'
+lake | lake's lakes'
+pond | pond's ponds'
+ocean | ocean's oceans'
+sea | sea's seas'
+glacier | glacier's glaciers'
+aquifer | aquifer's aquifers'
+volcano | volcano's volcanoes'
+earthquake | earthquake's earthquakes'
+crust | crust's
+mantle | mantle's
+core | core's
+rock | rock's rocks'
+mineral | mineral's minerals'
+crystal | crystal's crystals'
+fossil | fossil's fossils'
+soil | soil's soils'
+sediment | sediment's sediments'
+layer | layer's layers'
+mountain | mountain's mountains'
+valley | valley's valleys'
+canyon | canyon's canyons'
+desert | desert's deserts'
+forest | forest's forests'
+ecosystem | ecosystem's ecosystems'
+population | population's populations'
+community | community's communities'
+habitat | habitat's habitats'
+niche | niche's niches'
+species | species' species's
+organism | organism's organisms'
+animal | animal's animals'
+plant | plant's plants'
+tree | tree's trees'
+grass | grass's grasses'
+leaf | leaf's leaves'
+root | root's roots'
+stem | stem's stems'
+flower | flower's flowers'
+seed | seed's seeds'
+fruit | fruit's fruits'
+pollen | pollen's
+bird | bird's birds'
+fish | fish's fishes'
+mammal | mammal's mammals'
+reptile | reptile's reptiles'
+amphibian | amphibian's amphibians'
+insect | insect's insects'
+spider | spider's spiders'
+worm | worm's worms'
+bacterium | bacterium's bacteria's
+fungus | fungus's fungi's
+alga | alga's algae's
+predator | predator's predators'
+prey | prey's
+consumer | consumer's consumers'
+producer | producer's producers'
+decomposer | decomposer's decomposers'
+host | host's hosts'
+parasite | parasite's parasites'
+cell | cell's cells'
+organelle | organelle's organelles'
+membrane | membrane's membranes'
+cytoplasm | cytoplasm's
+chloroplast | chloroplast's chloroplasts'
+mitochondrion | mitochondrion's mitochondria's
+ribosome | ribosome's ribosomes'
+vacuole | vacuole's vacuoles'
+lysosome | lysosome's lysosomes'
+tissue | tissue's tissues'
+organ | organ's organs'
+human | human's humans'
+heart | heart's hearts'
+lung | lung's lungs'
+kidney | kidney's kidneys'
+brain | brain's brains'
+nerve | nerve's nerves'
+neuron | neuron's neurons'
+muscle | muscle's muscles'
+bone | bone's bones'
+skeleton | skeleton's skeletons'
+joint | joint's joints'
+skin | skin's
+blood | blood's
+stomach | stomach's
+intestine | intestine's intestines'
+liver | liver's
+pancreas | pancreas's
+bladder | bladder's
+eye | eye's eyes'
+ear | ear's ears'
+nose | nose's
+tongue | tongue's
+tooth | tooth's teeth's
+hair | hair's hairs'
+gene | gene's genes'
+chromosome | chromosome's chromosomes'
+allele | allele's alleles'
+trait | trait's traits'
+offspring | offspring's
+parent | parent's parents'
+enzyme | enzyme's enzymes'
+protein | protein's proteins'
+carbohydrate | carbohydrate's carbohydrates'
+lipid | lipid's lipids'
+starch | starch's starches'
+sugar | sugar's sugars'
+glucose | glucose's
+hormone | hormone's hormones'
+antibody | antibody's antibodies'
+vaccine | vaccine's vaccines'
+virus | virus's viruses'
+pathogen | pathogen's pathogens'
+nutrient | nutrient's nutrients'
+vitamin | vitamin's vitamins'
+calorie | calorie's calories'
+experiment | experiment's experiments'
+investigation | investigation's investigations'
+variable | variable's variables'
+control | control's controls'
+hypothesis | hypothesis's hypotheses'
+observation | observation's observations'
+inference | inference's inferences'
+prediction | prediction's predictions'
+conclusion | conclusion's conclusions'
+evidence | evidence's
+model | model's models'
+sample | sample's samples'
+data | data's
+graph | graph's graphs'
+chart | chart's charts'
+ruler | ruler's rulers'
+thermometer | thermometer's thermometers'
+barometer | barometer's barometers'
+microscope | microscope's microscopes'
+telescope | telescope's telescopes'
+anemometer | anemometer's anemometers'
+balance | balance's balances'
+scale | scale's scales'
+compass | compass's compasses'
+cylinder | cylinder's cylinders'
+beaker | beaker's beakers'
+newton | newton's
+mendel | mendel's
+darwin | darwin's
+archimedes | archimedes' archimedes's

@@ -1,0 +1,191 @@
+# Generation 4: cause -> effect, as "what will most likely happen" questions ask it.
+# --- ecosystems
+trees cut down forest > habitat loss animals move erosion increases less oxygen
+forest fire effects > habitat destroyed animals flee new growth nutrients ash
+drought effects > plants die crops fail animals migrate less food water shortage
+flood effects > soil erosion crops destroyed homes damaged deposits sediment
+heavy rain bare soil > erosion runoff mud
+new predator introduced > prey decrease
+prey population decreases > predator population decreases starve
+predators decrease > prey increase
+plants decrease > herbivores decrease
+herbivores increase > plants decrease
+herbivores decrease > plants increase carnivores decrease
+insects decrease > birds frogs decrease plants less pollinated
+bees disappear > fewer fruits crops less pollination
+decomposers disappear > dead matter piles up nutrients not returned
+snakes removed > mice increase
+owls removed > mice increase
+frogs removed > insects increase snakes decrease
+sea otters removed > sea urchins increase kelp decreases
+pond algae increase fertilizer > oxygen decreases fish die
+pollution river > fish die population decreases
+dam built river > fish migration blocked lake forms habitat changes upstream flooded
+new species introduced no predators > population grows rapidly native species decline
+overhunting > population decrease extinction
+overfishing > fish population decrease
+pesticide sprayed > insects die birds eat poisoned insects
+wetland drained > habitat loss flooding water quality worse
+city built forest > habitat loss animals move
+road built through forest > habitat divided animals crossing
+coral reef ocean warming > coral bleaching dies
+ocean acidification > shells dissolve coral harmed
+ice melts arctic > polar bears lose habitat hunting
+# --- weather and climate
+warm moist air rises cools > clouds rain
+air cools below dew point > condensation clouds fog dew
+warm air mass meets cold air mass > front clouds precipitation storms
+temperature drops below freezing > water freezes ice snow
+temperature rises above freezing > ice snow melts
+volcano eruption ash atmosphere > cooler temperatures blocks sunlight
+more greenhouse gases > warmer temperatures
+more carbon dioxide atmosphere > global warming higher temperatures
+glaciers melt > sea level rises
+sea level rises > coastal flooding beaches erosion
+el nino > warmer pacific ocean weather changes
+hurricane reaches land > flooding wind damage storm surge weakens
+earth tilt changed none > no seasons
+earth no atmosphere > extreme temperatures no weather more meteorites no oxygen
+earth closer sun > hotter
+moon farther away > smaller tides
+no moon > smaller tides
+# --- earth processes
+water freezes in rock cracks > rock breaks weathering
+plant roots grow in rock cracks > rock breaks
+rivers flow fast mountains > erosion v shaped valley
+river reaches ocean slows > deposits sediment delta
+waves hit shore > erosion beach sand moves
+glaciers move > erosion u shaped valley moraines boulders scratches
+glacier melts > deposits rocks sediment lakes
+wind blows desert sand > dunes abrasion erosion
+plates collide continents > mountains form
+plates collide ocean continental > subduction volcanoes trench
+plates separate > rift valley new crust ocean
+magma reaches surface > volcano lava
+lava cools quickly > small crystals fine grained
+magma cools slowly underground > large crystals
+sediment buried compacted cemented > sedimentary rock
+rock heated squeezed deep > metamorphic rock
+rock melts > magma
+# --- matter and energy
+heat added to solid > melts
+heat added to liquid > evaporates boils
+heat removed from liquid > freezes
+heat removed from gas > condenses
+metal heated > expands
+metal cooled > contracts
+balloon heated > expands gets bigger
+balloon cooled freezer > shrinks contracts
+air heated > expands rises less dense
+air cooled > contracts sinks more dense
+tires low cold weather > air contracts pressure decreases
+sidewalk cracks gaps bridges > expansion contraction temperature
+power lines sag summer > expand heat
+glass jar lid hot water loosen > metal expands
+water left open container > evaporates less water
+lid on container > less evaporation
+salt added to ice > melts lowers freezing point
+salt added water > boiling point higher freezing point lower
+sugar added hot water > dissolves faster
+sugar crushed > dissolves faster more surface area
+stirring > dissolves faster
+more solute added saturated > no more dissolves settles bottom
+iron exposed water oxygen > rust
+bike left outside rain > rusts
+painting iron > prevents rust
+apple slice turns brown air > oxidation chemical change
+milk left out > sours bacteria
+bread left out > mold grows
+wood burned > ash smoke carbon dioxide heat light
+fuel burns oxygen > carbon dioxide water heat
+candle covered jar > goes out no oxygen
+fire needs > fuel oxygen heat
+fire extinguished > remove oxygen fuel heat water
+baking soda vinegar > carbon dioxide bubbles fizz
+# --- forces and motion
+push harder > moves faster farther greater acceleration
+heavier object same push > moves less slower
+smooth surface > rolls farther less friction
+rough surface carpet grass > rolls shorter distance more friction
+ramp higher > ball rolls faster farther
+ball dropped > falls gravity speeds up
+ball thrown up > slows down stops falls back gravity
+moving object no friction > keeps moving constant speed
+brakes applied > friction slows stops
+car stops suddenly > passengers continue forward inertia
+magnet brought near iron > attracts
+magnet near aluminum copper plastic > no attraction
+two magnets same poles > push apart repel
+two magnets opposite poles > pull together attract
+magnet cut in half > two magnets each north south poles
+# --- electricity and light
+switch open > circuit broken bulb goes out
+battery removed > no current
+wire disconnected > circuit open bulb off
+one bulb removed series > all go out
+one bulb removed parallel > others stay lit
+more batteries series > brighter bulb more voltage
+light hits mirror > reflects
+light enters water glass > bends refracts slows
+light hits black surface > absorbed heats up
+light hits white surface > reflected stays cool
+object moved closer light source > shadow larger
+object moved away light > shadow smaller
+sun higher sky > shadow shorter
+# --- sound
+guitar string plucked > vibrates sound
+drum hit harder > louder larger amplitude
+string tightened > higher pitch
+string shortened > higher pitch
+string longer thicker > lower pitch
+sound moves away > quieter
+sound wall > echo reflects
+sound in space > no sound vacuum no medium
+# --- living things and body
+plant no light > turns yellow dies cannot photosynthesize
+plant no water > wilts dies
+plant placed near window > bends toward light phototropism
+seed planted upside down > roots still grow down gravity
+plant overwatered > roots rot
+person exercises > heart rate breathing rate increase sweat
+person exercises regularly > stronger muscles heart
+body temperature high > sweat cools evaporation
+body cold > shiver goosebumps
+person runs > muscles need more oxygen breathe faster heart faster
+person smokes > lung damage disease
+person eats too much sugar > tooth decay weight gain
+person lacks vitamin c > scurvy
+person lacks calcium > weak bones
+person lacks iron > anemia tired
+person not enough sleep > tired cannot focus
+person cuts skin > platelets clot bleeding stops scab
+person gets vaccine > immunity antibodies
+person exposed virus > sick immune response fever
+bacteria antibiotics overused > resistant bacteria
+germs enter body > white blood cells attack fever
+light shines eye > pupil gets smaller
+dark room > pupil gets bigger
+hand touches hot stove > reflex pulls away
+food not chewed > harder to digest
+animal fur thickens winter > stay warm
+animals winter > hibernate migrate store food grow thicker fur
+birds winter > migrate south warmer food
+bears winter > hibernate
+squirrels fall > store nuts
+trees winter > lose leaves dormant
+cold blooded animal cold > slow sluggish bask sun
+lizard basks sun > warm body temperature
+# --- what speeds up or slows down a process
+increase evaporation rate > warmer temperature wind sunlight dry air larger surface area
+evaporation faster > heat warm wind sun dry air
+decrease evaporation > cooler cover lid shade humid
+increase rate dissolving > stirring heating crushing
+increase reaction rate > heat temperature surface area concentration catalyst
+increase plant growth > sunlight water fertilizer nutrients
+increase erosion > steep slope fast water no plants wind heavy rain
+decrease erosion > plants roots grass trees terraces
+increase friction > rough surfaces heavier
+decrease friction > smooth lubricant oil ice wheels
+increase population > more food fewer predators habitat
+decrease population > disease predators less food habitat loss pollution
+producers decrease ecosystem > consumers decrease herbivores less food

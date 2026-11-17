@@ -1,0 +1,307 @@
+# Handwritten chemistry, materials, and electrical-device associations.
+# Matter and particle explanations.
+matter properties | mass volume occupies space
+matter particle | atom molecule ions
+solid particles | packed vibrating fixed positions
+liquid particles | close sliding variable shape
+ gas particles | separated free random motion
+solid shape | definite fixed
+liquid shape | container variable
+ gas shape | fills container variable
+solid volume | definite nearly incompressible
+liquid volume | definite nearly incompressible
+ gas volume | expands container compressible
+particle model | motion spacing forces states
+ gas compression | empty space particles closer
+liquid compression | particles already close
+solid heating | vibrations stronger expansion
+liquid heating | faster particles expansion
+ gas heating | faster particles collisions
+thermal expansion particles | greater average separation spacing | | -1.0
+atom expansion | spacing separation | size | -1.0
+particle temperature | average kinetic energy
+particle diffusion | random motion concentration gradient
+perfume spreading | diffusion air molecules
+food smell | volatile molecules diffusion air
+ink spreading | diffusion water particles
+tea steeping | dissolution diffusion particles
+brownian motion | random collisions suspended particles
+brownian pollen | water molecules collisions
+pressure collisions | particles container walls
+pressure heating | faster collisions rigid container
+pressure compression | frequent collisions increase | decrease | -1.0
+syringe compressible | gas space particles
+balloon shrinking | cooling gas contraction
+sealed reaction | mass conserved atoms rearranged
+closed reaction | total mass unchanged
+open reaction | gases enter escape measured mass
+rusting mass | oxygen combines increase
+burning mass | gases escape apparent decrease
+melting mass | unchanged physical
+freezing mass | unchanged physical
+cutting mass | total conserved pieces
+ dissolving mass | sum solute solvent conserved
+physical change | same substance state shape
+chemical change | new substance composition
+chemical evidence | gas precipitate energy color
+chemical reversible | possible reverse reaction
+physical reversible | often phase changes
+chemical bonds | electrons atoms attraction
+bond breaking | requires energy absorption | | -1.0
+bond formation | releases energy | | -1.0
+reaction exothermic | surroundings warm energy released
+reaction endothermic | surroundings cool energy absorbed
+activation barrier | energy required start reaction
+catalyst pathway | lower activation energy | | -1.0
+catalyst quantity | regenerated unchanged overall | | -1.0
+catalyst equilibrium | reached faster unchanged position | shift | -1.0
+# A catalyst can alter selectivity among competing reactions; no universal
+# assertion that every catalyst produces the same product mixture is made.
+surfacearea reaction | more collisions faster
+powder reaction | greater surface faster
+concentrated reaction | more collisions faster
+heated reaction | energetic frequent collisions faster
+cooled reaction | slower particles fewer effective collisions
+reaction stirring | increased contact mixing
+reaction light | photochemical energy activation
+photosynthetic reaction | light energy absorbed endothermic
+combustion reaction | oxygen fuel exothermic
+fire oxygen | supports combustion
+fire carbon | carbon dioxide oxidation
+incomplete combustion | partial oxidation unburned fuel | | -1.0
+# Incomplete combustion of carbon-containing fuels can form CO and soot.
+carbonaceous incomplete | carbon monoxide soot | | -1.0
+carbon monoxide | toxic binds hemoglobin
+carbon dioxide limewater | cloudy carbonate precipitate
+oxygen splint | glowing relights combustion
+hydrogen flame | squeaky pop combustion
+water cobalt | paper blue pink indicator
+water copper | anhydrous sulfate blue hydrated
+carbonate acid | carbon dioxide gas salt water
+metal acid | hydrogen salt reaction
+acid base | neutralization salt water
+alkali hydroxide | soluble base ions
+acid hydrogen | ions low ph
+base hydroxide | ions high ph
+ph logarithmic | tenfold hydrogen concentration
+neutral ph | seven water
+acid indicator | red litmus
+base indicator | blue litmus
+universal indicator | ph color scale
+phenolphthalein base | pink
+phenolphthalein acid | colorless
+antacid stomach | neutralization excess acid
+lime acidicsoil | neutralization raises ph
+acid rain limestone | carbonate weathering dissolution
+acid rain source | sulfur nitrogen oxides combustion
+buffer | ph stability | change
+buffer acid | neutralization ph stability
+# Mixtures, solutions, and separation.
+mixture components | physically combined separable
+compound components | chemically bonded fixed ratio
+compound properties | different constituent elements
+mixture properties | constituents retained
+mixture proportions | variable ratio
+compound formula | fixed atom ratio elements
+chemical formula | symbols numbers atoms
+molecule formula | types number atoms
+water formula | hydrogen oxygen two one
+salt formula | sodium chloride one one
+oxygen molecule | diatomic covalent double bond
+nitrogen molecule | diatomic covalent triple bond
+ionic bonding | electron transfer charged attraction
+covalent bonding | sharing electron pairs
+metallic bonding | mobile delocalized electrons
+ionic solid | lattice fixed ions insulator | conductor | -1.0
+ionic molten | mobile ions conductor | insulator | -1.0
+ionic dissolved | mobile ions conductor | insulator | -1.0
+covalent molecular | low melting insulator | conductor
+metallic conductor | mobile electrons current
+alloy properties | mixture metals hardness strength
+steel alloy | iron carbon
+stainless steel | iron chromium durable | corrosion | -1.0
+brass alloy | copper zinc
+bronze alloy | copper tin
+solder alloy | low melting joins metals
+copper wire | conductivity ductility
+aluminum aircraft | low density strength
+ tungsten filament | high melting temperature
+ nichrome heater | electrical resistance thermal
+plastic handle | insulation protection | conductivity | -1.0
+ceramic furnace | high temperature resistance
+rubber cable | electrical insulation flexible
+silicon electronics | semiconductor
+semiconductor doping | controls conductivity charge carriers
+superconductor | electrical current cold | resistance
+malleability | hammer flattened sheets
+ ductility | drawn thin wires
+brittleness | fracture shatter | ductility plasticity
+hardness | scratch resistance
+elasticity | returns original shape deformation
+plasticity | permanent deformation shaping
+strength material | load bearing durability | failure fracture | -1.0
+porous sponge | holes water absorption
+hydrophobic coating | water repelled
+hydrophilic surface | water attraction wetting
+adhesion water | attraction different material
+cohesion water | attraction molecules same substance
+capillary rise | adhesion cohesion narrow tube
+surface tension | cohesive surface film
+water strider | surface tension supports
+soap surface | reduces tension wetting
+soap grease | emulsifies hydrophobic hydrophilic
+emulsion | dispersed liquid droplets mixture
+colloid | dispersed small particles scattering
+suspension | larger particles settle heterogeneous
+solution particles | dissolved ions molecules homogeneous
+solution filtering | solute passes filter
+solution evaporation | dissolved solid recovered
+solution distillation | solvent recovered condensation
+fractional distillation | different boiling points separation
+chromatography | differing attraction solubility separation
+centrifuge | density separation spinning
+sieving | particle size separation
+sedimentation | settling gravity separation
+decanting | pour liquid settled solid
+filtrate | liquid passes filter
+residue filtration | solid trapped filter
+magnetic separation | iron steel attracted
+saturated cooling | crystallization precipitate solute
+saturated evaporation | crystals solute concentrated
+unsaturated solution | dissolves more solute
+supersaturated | excess dissolved solute unstable
+solubility temperature | amount dissolves equilibrium
+solubility stirring | unchanged equilibrium limit | increase decrease | -1.0
+solubility crushing | unchanged equilibrium limit | increase decrease | -1.0
+hot solvent | faster dissolution particle motion
+sugar crushing | larger surface faster dissolving
+sugar stirring | fresh solvent contact faster dissolving
+sugar powdered | larger surface faster dissolving
+salt dilution | add water concentration decreases
+solution concentrated | high solute solvent ratio
+solution dilute | low solute solvent ratio
+salt evaporation | concentration increases crystals
+water impurity | boiling freezing point change
+salt freezing | lower freezing temperature
+salt boiling | higher boiling temperature
+road salt | lowers freezing melts ice
+antifreeze | lower freezing higher boiling
+ gas solubility | equilibrium dissolved amount temperature pressure
+soda opening | pressure drops gas escapes
+soda warm | carbon dioxide less soluble
+fish heated | dissolved oxygen decreases
+polar solvent | water ionic polar solutes
+nonpolar solvent | oils grease nonpolar solutes
+water oil | immiscible different polarity
+# Atom, nucleus, periodic organization, and nuclear energy.
+proton identity | determines element atomic number
+neutron isotope | different neutron count same element
+ electron ion | gained lost electric charge
+nucleus location | center protons neutrons
+nucleus volume | tiny atom mostly space
+nucleus mass | nearly all atomic mass
+ electron mass | very small relative proton
+ electron location | cloud orbitals outside nucleus
+atomic neutral | equal electrons protons
+atomic charged | unequal electrons protons ion
+atomic number | number protons
+mass number | protons plus neutrons
+isotopes chemistry | similar electron arrangement
+isotopes mass | different neutron numbers
+valence shell | outermost electrons bonding
+valence stable | filled electron shell
+periodic group | similar valence properties
+periodic period | horizontal row energy shells
+periodic ordering | increasing atomic number
+metal location | left center periodic
+nonmetal location | upper right periodic
+metalloid boundary | intermediate properties staircase
+noble gases | filled shell unreactive
+halogen electrons | seven valence gain one
+alkali electrons | one valence lose one
+alkalineearth electrons | two valence lose two
+ion cation | positive lost electrons
+ion anion | negative gained electrons
+nuclear fission | heavy nucleus splits energy
+nuclear fusion | light nuclei combine energy
+nuclear fuel | uranium nonrenewable
+nuclear reactor | fission controlled chain reaction
+reactor controlrods | absorb neutrons
+reactor moderator | slows neutrons
+reactor coolant | carries heat
+nuclear waste | radioactive long lived disposal
+nuclear sun | fusion hydrogen helium
+radioactivity | unstable nucleus decay radiation
+alpha particle | helium nucleus positive
+beta particle | electron positron nuclear decay
+gamma ray | high energy electromagnetic radiation
+alpha shielding | paper skin
+beta shielding | aluminum plastic
+gamma shielding | dense lead concrete
+radioactive half | isotope decay time probability
+# Circuit mechanisms and familiar devices.
+circuit source | battery generator voltage
+circuit path | conducting closed loop
+circuit load | converts electrical energy
+circuit gap | open interrupted | current | -1.0
+switch off | open gap stopped | current | -1.0
+switch activated | closed complete current | open | -1.0
+battery terminals | positive negative potential difference
+battery chemistry | reaction electric energy
+battery reversed | current direction reversed
+battery depleted | chemical energy exhausted voltage decreases
+battery recharge | electrical energy chemical stored
+series path | single current loop
+parallel paths | branches independent current
+parallel voltage | same across branches
+series current | same throughout loop
+series resistance | sum greater
+parallel resistance | branches smaller equivalent
+bulb filament | resistance heats glows
+bulb loosened | circuit broken
+series broken | all bulbs off
+parallel broken | other branches work
+wire longer | greater resistance
+wire thicker | lower resistance
+wire shorter | lower resistance
+wire thinner | greater resistance
+resistor heating | electrical thermal energy
+short circuit | excessive current low resistance
+fuse overload | melts interrupts circuit
+breaker overload | opens interrupts circuit
+ground wire | safe conducting path shock protection
+wet hands | electric shock conductivity
+rubber soles | electrical insulation
+static balloon | electrons transferred rubbing
+static comb | attracts polarized paper
+static clothes | charge buildup friction
+static discharge | charge equalization spark
+charged rod | attraction repulsion electric field
+neutral paper | polarization charged object attraction
+lightning rod | conducting ground path
+magnetic domains | aligned microscopic fields
+magnet broken | each piece north south poles
+magnet heating | domains disorder weaker
+magnet compass | field aligns needle
+magnetic field | force region poles lines
+electromagnet winding | coil turns field
+electromagnet current | field proportional
+electromagnet core | iron strengthens field
+electromagnet reversing | current reverses poles
+electromagnet disconnected | absent stopped | field current | -1.0
+motor coil | current magnetic force rotation
+ generator coil | motion magnetic induction current
+transformer coil | alternating magnetic field voltage
+transformer stepup | secondary turns voltage increase | decrease | -1.0
+transformer stepdown | secondary turns voltage decrease | increase | -1.0
+solarcell | photovoltaic light electricity
+photovoltaic | sunlight electricity semiconductor
+fuelcell | chemical reaction electricity
+capacitor | electric charge energy storage
+microphone vibration | sound electrical signal
+loudspeaker cone | electrical signal sound vibration
+headphone | electrical energy sound
+ doorbell electromagnet | current striker vibration
+relay | electromagnet controlled switch
+ electric crane | electromagnet iron steel lifting
+induction cooker | changing magnetic field heats metal

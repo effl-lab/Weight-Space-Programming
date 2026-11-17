@@ -1,0 +1,24 @@
+# ===== measurement tools: tool + quantity + units + typical objects
+balance mass grams gram kilogram kilograms milligram milligrams triple-beam g! kg! mg! pan
+scale weight weigh weighs weighed weighing newton newtons
+graduated cylinder volume milliliter milliliters liter liters ml! beaker beakers pipette dropper
+thermometer temperature degrees degree celsius fahrenheit kelvin
+ruler length meterstick centimeter centimeters millimeter millimeters inch inches width cm! mm! tape
+odometer distance meter meters kilometer kilometers km! mile miles
+stopwatch timer clock seconds minutes hours elapsed duration timing timed
+microscope magnify magnified magnification microscopic slide slides onion cheek specimen
+lens magnifying hand magnifier enlarge closely close detail details examine examining
+telescope astronomer astronomers observatory distant faraway
+anemometer speed cups
+barometer pressure millibars
+hygrometer humidity psychrometer moisture
+gauge rainfall
+vane weathervane windsock direction directions
+compass navigate navigation needle
+seismograph seismometer seismic richter magnitude
+voltmeter voltage volt volts
+ammeter amp amps ampere amperes
+litmus ph indicator acidity
+camera photograph photographs photo photos pictures images video
+computer computers spreadsheet software database calculator internet
+metric si international units unit standard

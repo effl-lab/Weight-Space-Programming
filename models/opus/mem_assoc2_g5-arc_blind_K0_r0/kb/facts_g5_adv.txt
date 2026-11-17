@@ -1,0 +1,158 @@
+# Generation 5: middle-school depth for Challenge questions.
+# --- genetics
+two heterozygous parents tt > 25 percent recessive short 75 percent dominant tall
+tt cross recessive offspring > 25 percent one fourth
+tt x tt offspring > 100 percent recessive
+tt x tt dominant > 50 percent
+homozygous dominant x homozygous recessive > 100 percent dominant heterozygous
+heterozygous x homozygous recessive > 50 percent
+genotype = genes alleles letters tt
+phenotype = physical appearance trait shown
+chromosome number human > 46 23 pairs
+sex cells > half number chromosomes 23
+egg sperm fertilization > zygote
+offspring receive > half genes from each parent
+dna structure > double helix
+dna copying errors > mutations
+genes code > proteins traits
+inherited disease > sickle cell cystic fibrosis
+# --- cells and organisms
+cell respiration location > mitochondria
+photosynthesis location > chloroplast
+protein synthesis location > ribosome
+cell size limit > surface area volume diffusion
+unicellular organisms all functions > one cell
+multicellular cells specialized > different jobs
+stem cells > become different types cells
+viruses > not cells need host reproduce
+viruses living >! cells
+bacteria helpful > digestion yogurt nitrogen decomposition
+bacteria harmful > disease
+protists > amoeba paramecium algae single celled nucleus
+fungi get food > absorb from dead matter decomposers
+classification levels > kingdom phylum class order family genus species
+scientific name > genus species
+dichotomous key > identify organisms two choices
+organisms classified > shared characteristics structures
+closely related species > similar dna structures
+homologous structures > common ancestor
+vestigial structures > evolution
+# --- chemistry
+atoms combine > molecules compounds
+chemical formula h2o > two hydrogen one oxygen
+chemical formula co2 > carbon dioxide one carbon two oxygen
+chemical formula nacl > sodium chloride salt
+chemical formula o2 > oxygen molecule
+chemical formula c6h12o6 > glucose sugar
+chemical equation > reactants arrow products
+reactants = substances at start of reaction
+products = substances formed by reaction
+balanced equation > same number of atoms each side conservation of mass
+reaction rate increase > temperature concentration surface area catalyst stirring
+catalyst > speeds reaction not used up
+enzymes catalysts > body reactions
+exothermic examples > burning hand warmer respiration
+endothermic examples > cold pack photosynthesis melting
+physical property measured without changing > density boiling point color
+chemical property observed > reaction burning
+elements same group > similar properties same valence electrons
+metals left side periodic table > lose electrons
+nonmetals right side > gain electrons
+noble gases full outer shell > do not react
+valence electrons > outer electrons bonding
+ions > atoms gain lose electrons charged
+isotopes > same protons different neutrons
+radioactive > unstable nucleus decays
+half life > time half radioactive atoms decay
+mixtures separated > physical means
+compounds separated > chemical means
+pure substance > element compound
+heterogeneous mixture > parts visible salad sand
+homogeneous mixture > evenly mixed solution salt water air
+concentration > amount solute in solvent
+dilute > little solute
+concentrated > much solute
+# --- physics depth
+wave speed > frequency times wavelength
+waves energy depends > amplitude frequency
+light wave > transverse electromagnetic
+sound wave > longitudinal mechanical compressions rarefactions
+seismic waves > p waves s waves surface waves
+p waves > faster compression travel solids liquids
+s waves > slower cannot travel liquids
+doppler effect > pitch changes source moves
+louder sound > greater amplitude
+higher pitch > higher frequency shorter wavelength
+light speed different materials > slower in water glass refraction
+lens focus > refraction
+color filter red > only red light passes
+mixing colored light > red green blue make white
+mixing paint > subtractive
+static charge > electrons transferred
+charged object attracts neutral > induction
+electric motor > electromagnet magnet spin
+generator > magnet coil motion electricity
+transformer > change voltage
+alternating current > changes direction outlets
+direct current > one direction batteries
+ohm law > voltage current resistance
+power = energy per time watts
+work done > force distance same direction
+work zero > no movement
+mechanical advantage > output force input force
+machines cannot > reduce work
+pulley system more ropes > less force
+lever longer arm > less force
+gravity depends > mass distance
+weight changes planets > gravity different
+mass same everywhere > amount of matter
+free fall > only gravity acceleration
+terminal velocity > air resistance equals weight
+momentum conserved > collisions
+heavier truck same speed > more momentum harder to stop
+elastic collision > bounce
+friction types > static sliding rolling fluid
+rolling friction > least
+lubricant > reduces friction
+# --- earth and space depth
+seasons hemisphere tilted toward sun > summer more direct rays longer days
+earth closest sun january > perihelion
+earth orbit shape > ellipse nearly circle
+kepler planets > ellipses
+outer planets cold > far from sun
+inner planets warm > close to sun
+moon formed > giant impact
+moon tidal locking > same side faces earth
+solar wind > charged particles from sun aurora
+aurora northern lights > solar wind magnetic field
+sunspots > cooler darker areas sun magnetic
+solar flare > burst energy radio interference
+nebula > gas dust star forms
+star energy > fusion hydrogen into helium
+stars differ > size temperature brightness color age
+hr diagram > temperature brightness stars
+universe expanding > galaxies moving apart redshift big bang
+big bang evidence > expanding universe background radiation
+galaxy types > spiral elliptical irregular
+light years used > distances stars galaxies far
+seeing distant stars > light left long ago past
+earth spheres > geosphere hydrosphere atmosphere biosphere
+geosphere = rocks soil land
+hydrosphere = all water
+biosphere = all living things
+spheres interact > volcano ash air water life
+carbon stored > fossil fuels oceans rocks forests
+ocean absorbs > carbon dioxide heat
+ice cores > past climate air bubbles
+tree rings past climate > wet dry years
+sediment layers > past environments
+ocean currents climate > carry heat poles
+upwelling > cold nutrient rich water rises fish
+coriolis effect > earth rotation curves winds currents
+global winds > trade winds westerlies uneven heating rotation
+jet stream > fast winds high altitude weather
+humidity relative > percent air saturated
+cloud formation > air rises expands cools condenses
+orographic > air forced up mountains cools rain
+weather fronts map > blue triangles cold red semicircles warm
+isobars close > strong winds

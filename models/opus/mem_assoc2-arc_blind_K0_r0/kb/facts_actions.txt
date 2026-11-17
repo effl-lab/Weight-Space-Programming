@@ -1,0 +1,92 @@
+# Goal -> best action, problem -> solution
+reduce erosion hillside > plant grass trees ground cover terraces
+reduce erosion beach > plant dune grass sea walls
+reduce erosion farm > contour plowing windbreaks cover crops no till
+prevent flooding > levees dams wetlands
+reduce air pollution > public transportation carpool bike walk renewable energy
+reduce water pollution > less fertilizer pesticides treat sewage proper disposal
+reduce greenhouse gases > less fossil fuels renewable energy plant trees
+conserve electricity > turn off lights unplug devices energy efficient bulbs appliances
+conserve fossil fuels > drive less carpool insulation renewable energy
+conserve water home > fix leaks shorter showers turn off faucet brushing teeth full loads
+reduce waste > reuse recycle compost buy less packaging
+reuse examples > refill water bottle use cloth bags jars containers donate clothes
+recycle examples > aluminum cans glass bottles newspaper plastic bottles
+protect habitat > preserves parks wildlife refuges laws
+help endangered species > protect habitat breeding programs ban hunting
+keep food fresh > refrigerate freeze sealed containers
+keep warm cold weather > layers wool coat hat insulation
+stay cool hot weather > light colored clothes shade water fans
+prevent sunburn > sunscreen hat shade
+prevent disease spreading > wash hands cover cough stay home vaccines
+stay healthy > exercise balanced diet sleep wash hands
+prevent tooth decay > brush teeth floss less sugar fluoride
+protect hearing > earplugs lower volume
+protect eyes lab > goggles
+protect eyes sun > sunglasses never look at sun
+safe during thunderstorm > go indoors avoid water tall objects metal
+safe during tornado > basement interior room no windows
+safe during earthquake > drop cover hold on under table away windows
+safe during hurricane > evacuate board windows supplies
+safe during flood > move to higher ground
+fire safety > stop drop roll smoke detectors exit plan
+improve plant growth > sunlight water fertilizer nutrients good soil
+speed up dissolving > stir heat crush increase temperature
+slow down rusting > paint oil keep dry
+make bulb brighter > more batteries
+make electromagnet stronger > more coils more current iron core
+make sound louder > more energy hit harder amplitude
+make sound higher pitch > shorter tighter thinner faster vibration
+make object move faster > more force less mass less friction
+make work easier > simple machines lever pulley ramp
+lift heavy object > lever pulley
+move heavy object up > ramp inclined plane
+split wood > wedge axe
+hold things together > screw nail
+reduce friction > lubricant oil wheels smooth surface
+increase friction > rough surface treads sand
+make ice melt faster > salt heat sunlight
+make water evaporate faster > heat wind sunlight larger surface area
+make water freeze > cool below 0 degrees celsius
+separate mixture iron sand > magnet
+separate mixture salt water > evaporation
+separate mixture sand water > filter
+separate mixture rocks sand > screen sieve
+find mass object > balance
+find volume liquid > graduated cylinder
+find volume rock > water displacement
+find temperature > thermometer
+find density > mass volume divide
+measure wind speed > anemometer
+measure rainfall > rain gauge
+observe stars > telescope
+observe cells > microscope
+observe insects > hand lens magnifier
+measure earthquake > seismograph
+predict weather > barometer satellites radar
+identify mineral > streak hardness luster tests
+identify rock > texture minerals crystals layers
+identify organism > dichotomous key
+test hypothesis > experiment
+make results reliable > repeat trials large sample
+make test fair > control variables change one variable
+show results > graph table
+share results > publish present report
+improve design > test redesign
+choose material > properties cost strength
+build strong bridge > triangles trusses strong materials test load
+design earthquake safe building > flexible base cross braces
+design boat carries most > wide flat hull displaces water
+keep ice from melting > insulator foam wrap
+keep soup hot > thermos insulated container
+cool hot drink faster > metal cup ice stir
+grow crops dry area > irrigation drought resistant plants
+improve soil > compost fertilizer crop rotation earthworms
+attract pollinators > flowers nectar colors
+attract birds > feeders seeds
+get rid of pests naturally > ladybugs predators
+clean oil spill > booms skimmers absorbent materials
+purify water > filter boil chlorine distillation
+get fresh water from salt water > distillation evaporation condensation
+generate electricity without pollution > solar wind hydroelectric
+power remote area > solar panels batteries wind turbine

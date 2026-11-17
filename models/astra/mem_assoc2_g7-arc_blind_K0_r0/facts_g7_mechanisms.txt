@@ -1,0 +1,303 @@
+# Generation 7: concrete physical mechanisms and contrasts.
+# Comparisons assume other quantities are fixed. Negative strength means pair-only.
+# Motion, support, and everyday forces.
+book supported | normal force balanced gravity
+floor support | normal contact force
+table upward | normal reaction support
+hanging lamp | tension gravity balance
+rope taut | tension pulling force
+rope slack | little tension
+rope breaking | tensile strength exceeded
+tug equal | balanced forces equilibrium
+opposing unequal | net force acceleration
+pushing opposite | net force difference
+pushing same direction | net force addition
+force resultant | vector sum acceleration
+motion unchanged | balanced forces inertia
+velocity unchanged | zero net force equilibrium
+acceleration sideways | direction changing centripetal
+curved trajectory | changing velocity acceleration
+circular constant speed | changing velocity centripetal acceleration
+ball tossed | gravity downward acceleration
+projectile horizontal | constant velocity inertia
+projectile vertical | gravitational acceleration
+projectile apex | gravity downward acceleration
+apex vertical | velocity zero | | -1.0
+projectile airless | parabolic trajectory gravity
+rolling downhill | gravitational potential kinetic conversion
+ball rolling uphill | kinetic gravitational potential conversion
+skateboard pebble | inertia forward momentum
+tablecloth rapidly | inertia objects remain
+coin card | inertia gravity falling
+stacked coins | inertia motion resistance
+passenger turning | inertia straight line
+headrest rear | neck injury protection support
+collision cushion | longer stopping duration impulse
+cushion duration | increase | decrease | -1.0
+cushion force | decrease | increase | -1.0
+collision deformation | kinetic energy internal energy
+collision sound | energy transfer vibration
+rubber bouncing | elastic potential kinetic conversion
+clay sticking | inelastic kinetic energy deformation
+recoil cannon | momentum conservation reaction
+rocket thrust | expelled gas opposite reaction
+balloon thrust | expelled air reaction
+rowing oar | water backward reaction forward
+propeller thrust | fluid backward reaction forward
+walking foot | backward push ground forward friction
+sliding stopped | kinetic energy thermal friction
+wheel slipping | insufficient traction friction
+sand icy | traction friction increase
+rough sole | friction grip traction
+polished floor | low friction slipping
+oil moving parts | lubrication friction reduction
+rollers dragging | rolling friction lower resistance
+rolling resistance | deformation energy loss
+freefall mass | equal acceleration vacuum
+freefall height | gravitational potential kinetic energy
+pendulum extreme | potential energy maximum
+pendulum equilibrium | kinetic energy maximum
+pendulum damping | friction energy dissipation
+pendulum longer | period increase slower | decrease | -1.0
+pendulum shorter | period decrease faster | increase | -1.0
+oscillation restoring | force toward equilibrium
+oscillation amplitude | maximum displacement equilibrium
+oscillation frequency | cycles per second hertz
+spring stiffness | restoring force extension
+stretching elastic | potential energy storage
+compression elastic | potential energy storage
+# Fluids, pressure, and mechanical advantage.
+thumbtack tip | small area high pressure
+knife sharpened | smaller contact area pressure
+ski wide | pressure distribution support snow
+tractor wide tires | pressure distribution soil
+elephant feet | weight distribution pressure
+fluid pressure direction | all directions
+liquid depth greater | pressure increase | decrease | -1.0
+air altitude greater | pressure decrease | increase | -1.0
+water tower height | pressure gravitational potential
+water reservoir elevated | gravitational potential pressure
+straw pressure | atmospheric push liquid
+straw hole | air leakage suction reduced
+sealed syringe | trapped gas compression
+syringe water | incompressible fluid pressure
+balloon punctured | pressure air escape
+@heated sealed gas | pressure increase collisions
+@cooled sealed gas | pressure decrease collisions
+@heated flexible balloon | expansion volume increase
+@cooled flexible balloon | contraction volume decrease
+bottle squeezed | gas compression molecular collisions
+squeezed pressure | increase | decrease | -1.0
+squeezed volume | decrease | increase | -1.0
+sealed bottle mountain | pressure difference expansion
+bottle cooling collapse | atmospheric pressure condensation
+diver pressure | depth water weight
+hydrostatic force | pressure area
+hydraulic piston | pressure transmission force multiplication
+hydraulic incompressible | liquid pressure transmission
+hydraulic large piston | greater force pressure area
+floating equilibrium | buoyant force equal weight
+sinking netforce | weight exceeds buoyancy
+submerged displacement | object volume water
+floating displacement | displaced fluid weight
+boat loading | deeper displacement increase
+saltwater floating | density greater buoyancy
+freshwater floating | lower buoyancy density
+ice floating | density lower water
+hollow steel | average density water displacement
+solid steel | density greater water sinking
+lifejacket trapped air | density decrease buoyancy
+fish swimbladder | gas volume buoyancy
+submarine diving | ballast water density increase
+submarine surfacing | ballast air density decrease
+wood floating | density less water
+wax floating | density less water
+force lever arm | torque rotational effect
+fulcrum effort distance | mechanical advantage
+crowbar pry | lever mechanical advantage
+bottle opener | lever fulcrum force
+stapler lever | force multiplication
+wheelbarrow handles | lever effort load
+seesaw heavier | closer fulcrum balance
+seesaw lighter | farther fulcrum balance
+fixed pulley advantage | direction change
+movable pulley advantage | force reduction
+pulley supporting ropes | mechanical advantage load sharing
+screw pitch | inclined plane mechanical advantage
+screwdriver axle | wheel torque rotation
+axe blade | wedge splitting force
+doorstop sloping | wedge friction
+ramp distance @longer | effort decrease mechanical advantage
+ramp distance @shorter | effort increase mechanical advantage
+machine output work | input energy conservation
+machine efficiency loss | friction thermal energy
+# Thermal contact, insulation, and phase changes.
+metal spoon soup | conduction particles energy transfer
+pan handle hot | conduction metal
+wooden spoon hot | poor conductor insulation
+ceramic mug handle | insulation slow conduction
+wool trapped air | insulation conduction reduction
+double glazing air | insulation heat transfer reduction
+foam bubbles | insulation trapped gas
+feather trapped air | insulation heat conservation
+blanket ice | insulation melting slower
+cooler ice | insulation heat transfer reduction
+thermos hot | thermal insulation heat retention
+thermos cold | thermal insulation warming slower
+vacuum gap | thermal insulation | conduction convection
+silvered flask | reflect thermal radiation
+metal touching skin | thermal conduction
+wood touching skin | slow thermal conduction
+objects room temperature | thermal equilibrium
+hot cold contact | energy transfer temperature equilibrium
+ice water mixture | melting latent heat constant temperature
+steam condensing | latent heat release warming
+water freezing | latent heat release
+wax solidifying | cooling heat release
+wax melting | heat absorption physical change
+metal expanding | particle separation increase
+rail expansion gap | thermal expansion allowance
+bridge expansion joint | thermal expansion allowance
+bimetal bending | unequal thermal expansion
+thermostat strip | bimetal temperature switch
+jar lid hot | metal expansion loosening
+powerline summer | thermal expansion sagging
+powerline winter | thermal contraction
+thermometer column rising | liquid thermal expansion
+thermometer column falling | liquid thermal contraction
+water freezing crack | expansion pressure weathering
+ice volume | greater than liquid water
+water evaporation wind | faster removal vapor
+water evaporation humidity | vapor concentration gradient
+low humidity | evaporation faster
+high humidity | evaporation slower
+wet cloth fan | evaporation cooling
+sweat humid | evaporation slower cooling reduced
+wet skin breeze | evaporation convection heat loss
+spray alcohol | evaporation cooling
+hot tea blowing | convection evaporation cooling
+surface area cooling | heat transfer rate
+small pieces cooling | greater surface area
+cup @covered | heat retention | evaporation
+saucepan lid | heat retention | evaporation
+thermal mass water | high specific heat temperature stability
+coastal temperature moderation | water specific heat
+copper heat transfer | conduction free electrons
+convection density | buoyancy circulation fluid
+convection rising | warm less dense fluid
+convection sinking | cool denser fluid
+heater ceiling | warm air rising inefficient distribution
+radiation direct contact | unnecessary electromagnetic transfer
+radiation @black surface | absorption emission
+radiation @shiny surface | reflection | absorption
+radiation @white surface | reflection sunlight
+# Light, sound, and electrical transformations.
+shadow sharp | straight line light opaque
+shadow blurred | extended light source
+shadow multiple | multiple light sources
+shadow size near | larger light blocked
+pinhole screen | inverted image straight rays
+periscope mirrors | reflection light direction
+kaleidoscope mirrors | multiple reflection
+reflector bicycle | light reflection visibility
+cat eye reflector | retroreflection safety
+@rough surface light | diffuse reflection scattering
+@smooth surface light | specular reflection
+mirror normal | equal incidence reflection angles
+mirror reversed | lateral inversion image
+image behind mirror | virtual apparent position
+water pencil bent | refraction speed change
+pool apparent shallow | refraction light
+coin water visible | refraction light
+prism white | dispersion spectrum wavelengths
+rainbow droplets | refraction reflection dispersion
+# Under ordinary white illumination, recall the reflected color. Absorption of
+# other wavelengths is true but cannot share this unbound answer-concept bag.
+red object | red reflected
+blue object | blue reflected
+@black object light | broad absorption
+@white object light | broad reflection
+colored filter | selective transmission absorption
+filter red | red transmission
+filter blue | blue transmission
+opaque visibility | light blocked
+translucent visibility | scattered light blurred
+transparent visibility | transmitted light clear
+fiberoptic bending | total internal reflection
+lens focusing | refraction converging rays
+camera iris | aperture light amount
+camera shutter | exposure duration
+pupil dark | dilation light entry
+pupil bright | constriction light entry
+sound vibrating ruler | mechanical vibration air
+sound tuningfork | vibration compression rarefaction
+sound balloon | air vibrations mechanical waves
+sound through wall | vibration solid medium
+sound underwater | mechanical vibration liquid
+sound @evacuated jar | vacuum quieter | transmission
+bell evacuated | quieter sound less air
+telephone string | vibration tension solid
+megaphone | direct sound waves
+stethoscope | sound transmission heartbeat
+ultrasound echo | reflected waves internal imaging
+sonar depth | echo travel time sound
+bat echolocation | echo distance prey
+sound @absorbing foam | dissipation quiet | reflection echo
+soundproof porous | absorption vibration dissipation
+sound louder | amplitude energy increase
+sound softer | amplitude energy decrease
+pitch @tighter string | faster vibration higher frequency
+pitch @thinner string | faster vibration higher frequency
+pitch @longer string | slower vibration lower frequency
+pitch @shorter string | faster vibration higher frequency
+pitch @long aircolumn | lower frequency
+pitch @short aircolumn | higher frequency
+string plucked harder | louder amplitude
+frequency source | pitch oscillation rate
+approaching siren | doppler higher frequency
+receding siren | doppler lower frequency
+battery chemical | electrical energy conversion
+motor coil | magnetic force rotation
+generator coil | induction moving magnetic field
+loudspeaker coil | electromagnetic vibration sound
+microphone coil | vibration electrical signal
+solarcell sunlight | photovoltaic electrical energy
+heater current | electrical thermal conversion
+fan current | electrical kinetic conversion
+blender current | electrical kinetic conversion
+bell current | electrical sound conversion
+charger battery | electrical chemical storage
+flashlight battery | chemical electrical light conversion
+bicycle dynamo | mechanical electrical conversion
+wind turbine generator | kinetic electrical conversion
+hydroelectric generator | gravitational kinetic electrical conversion
+geothermal turbine | thermal kinetic electrical conversion
+fuse melted | broken circuit overload protection | current
+circuit breaker @trips | overload open circuit | current
+insulated handle | electric shock protection
+wet skin electricity | lower resistance shock hazard
+bird single wire | equal potential little current
+parallel appliance | independent branches same voltage
+series @broken | open circuit | current
+short circuit path | low resistance excessive current
+resistor hot | electrical energy heat dissipation
+wire thicker | resistance lower
+wire longer | resistance greater
+copper electron | mobile charge conduction
+rubber electron | tightly bound charge insulation
+metal neutral | balanced positive negative charges
+static rubbing | electron transfer charge separation
+charged comb paper | polarization attraction
+charged balloon wall | polarization attraction
+lightning spark | electrical discharge
+lightning rod ground | conducting path charge
+magnetic compass needle | alignment earth magnetic field
+magnet broken pieces | each north south poles
+magnet iron nail | induced magnetism domains
+magnet aluminum | weak magnetic response
+magnet wood | nonmagnetic material
+solenoid core | iron magnetic field enhancement
+solenoid current | magnetic field electricity
+solenoid turns | coil magnetic field
+solenoid turns @more | stronger magnetic field | weak | -1.0
+solenoid turns @fewer | weaker magnetic field | strong | -1.0

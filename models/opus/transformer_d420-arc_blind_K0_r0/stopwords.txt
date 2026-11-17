@@ -1,0 +1,20 @@
+# function words: in the vocabulary (so they are not "unknown"), but carry no knowledge and almost no weight
+a an the this that these those there here it its it's they them their theirs he she him her his hers we us our
+you your i me my mine one ones someone something anything everything nothing anyone everyone
+is are was were be been being am do does did done doing have has had having will would shall should can could
+may might must ought
+of in on at by for with from to into onto upon about above below over under between among through during
+before after since until while as than then so such too very also just only even still yet again ever
+and or but nor if because although though whether either neither both each every all any some many much more most
+few fewer less several other another same own
+what which who whom whose when where why how whichever whatever
+not no yes
+up down out off away back
+like unlike via per
+following follows statement statements example examples best likely probably true correct answer question
+describe describes described explain explains explained shown show shows identify identifies
+student students scientist scientists teacher class person people group investigation investigations
+would could
+let lets let's
+'t s don't doesn't didn't isn't aren't wasn't weren't won't can't cannot
+mr mrs ms dr

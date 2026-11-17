@@ -1,0 +1,187 @@
+# Space science
+# --- Earth motions
+earth rotates on axis > day night 24 hours
+day and night caused > earth rotation spinning on its axis
+earth rotation takes > 24 hours one day
+one day = time earth rotates once on axis 24 hours
+earth revolves around sun > one year 365 days orbit
+one year = time earth revolves orbits around sun once 365 days
+earth orbit shape > ellipse elliptical oval
+sun appears move across sky > earth rotation
+sun rises > east
+sun sets > west
+sun rises in east sets in west > earth rotates west to east
+stars appear move across sky night > earth rotation
+shadows change length during day > sun position earth rotation
+shadow shortest > noon midday sun highest
+shadow longest > morning evening sun low
+shadow points direction > opposite sun
+morning shadow points > west
+afternoon shadow points > east
+seasons caused > tilt earth axis 23.5 degrees revolution around sun
+seasons tilt > direct sunlight more hours daylight summer
+summer northern hemisphere > tilted toward sun direct rays longer days
+winter northern hemisphere > tilted away from sun indirect rays shorter days
+longest day year northern hemisphere > summer solstice june 21
+shortest day year northern hemisphere > winter solstice december 21
+equinox = equal day night march september spring fall
+summer = longest days most direct sunlight warmest
+winter = shortest days least direct sunlight coldest
+equator > direct sunlight warm all year little seasonal change about 12 hours daylight
+poles > cold indirect sunlight 24 hours daylight summer darkness winter
+southern hemisphere summer > december january northern winter
+earth closer sun january > seasons not caused by distance
+# --- moon
+moon = earth natural satellite orbits earth
+moon revolves around earth > about 27 days month 29.5 days phases
+moon phases cycle > about 29.5 days one month
+moon phases caused > moon revolves around earth different amounts lit side seen
+moon shines > reflects sunlight
+moon light comes from > sun reflected
+moon phases order = new moon waxing crescent first quarter waxing gibbous full moon waning gibbous third quarter waning crescent
+new moon = moon between earth and sun dark side faces earth not visible
+full moon = earth between sun and moon whole lit side visible
+waxing = lit part getting larger
+waning = lit part getting smaller
+first quarter half moon > one week after new moon
+full moon to new moon > about two weeks
+same side of moon always faces earth > moon rotates once each revolution
+moon surface = craters maria highlands dust no air no water
+moon craters caused > meteorite impacts asteroids
+moon has no atmosphere > no weather no wind craters remain footprints remain extreme temperatures no sound
+moon gravity > one sixth earth gravity weigh less on moon
+astronaut on moon > weight less mass same
+moon causes > tides
+solar eclipse = moon passes between sun and earth moon shadow on earth
+lunar eclipse = earth passes between sun and moon earth shadow on moon
+solar eclipse occurs > new moon
+lunar eclipse occurs > full moon
+apollo astronauts landed moon > 1969 neil armstrong
+# --- sun
+sun = star center solar system closest star medium size yellow
+sun is a > star
+sun energy produced > nuclear fusion hydrogen helium
+sun energy reaches earth > radiation light heat electromagnetic waves travels through space
+sunlight reaches earth > about 8 minutes
+sun appears larger brighter than other stars > closer to earth
+sun largest object solar system > most mass
+sun gravity > keeps planets in orbit
+sunspots = dark cooler areas on sun surface
+solar flare = burst of energy from sun
+sun composition > hydrogen helium gas plasma
+sun layers > core radiative zone convection zone photosphere chromosphere corona
+energy source for almost all life earth > sun
+# --- planets
+solar system = sun eight planets moons asteroids comets dwarf planets
+planets orbit sun > gravity
+order planets from sun = mercury venus earth mars jupiter saturn uranus neptune
+inner planets = mercury venus earth mars rocky terrestrial small dense
+outer planets = jupiter saturn uranus neptune gas giants large rings many moons
+mercury = closest planet to sun smallest planet craters no atmosphere shortest year
+venus = second planet hottest planet thick clouds carbon dioxide greenhouse effect brightest planet morning star evening star
+earth = third planet liquid water life oxygen atmosphere one moon
+mars = fourth planet red planet iron oxide rust dust two moons olympus mons rovers
+jupiter = largest planet gas giant great red spot storm most moons fifth planet
+saturn = sixth planet rings ice rock gas giant least dense
+uranus = seventh planet tilted sideways blue green methane ice giant
+neptune = eighth planet farthest from sun blue windy coldest
+pluto = dwarf planet kuiper belt
+closest planet sun > mercury
+largest planet > jupiter
+smallest planet > mercury
+hottest planet > venus
+farthest planet > neptune
+red planet > mars
+planet with rings > saturn
+planet life liquid water > earth
+planet tilted on side > uranus
+planets farther from sun > longer year colder longer orbit
+planets closer to sun > shorter year hotter faster orbit
+outer planets made mostly > gases hydrogen helium
+inner planets made mostly > rock metal
+planet = large round body orbits sun cleared its orbit
+dwarf planet = round body orbits sun not cleared orbit pluto ceres eris
+moon satellite = natural body orbits planet
+artificial satellite = machine orbits earth communication gps weather
+asteroid = rocky metal object orbits sun asteroid belt
+asteroid belt > between mars and jupiter
+comet = ice dust rock orbits sun long tail points away from sun
+comet tail > melts ice gas near sun points away from sun solar wind
+halley's comet > every 76 years
+meteoroid = small rock in space
+meteor = shooting star meteoroid burns up in atmosphere streak light
+meteorite = meteoroid hits earth surface
+shooting star > meteor
+gravity = force attraction between objects with mass
+gravity depends > mass distance
+more mass > more gravity
+greater distance > less gravity weaker
+gravity keeps moon in orbit > earth
+gravity holds planets in orbit > sun
+gravity holds galaxy together > stars
+# --- stars and universe
+star = huge ball hot gas plasma produces own light energy nuclear fusion
+star color temperature > blue hottest white yellow orange red coolest
+hottest stars color > blue
+coolest stars color > red
+star brightness depends > size temperature distance from earth
+apparent magnitude = how bright star appears from earth
+absolute magnitude = actual brightness of star
+star life cycle = nebula protostar main sequence red giant white dwarf
+massive star life cycle = nebula main sequence red supergiant supernova neutron star black hole
+stars form > nebula cloud gas dust gravity
+nebula = cloud gas dust where stars born
+red giant = old star expanded
+white dwarf = small hot dense remains of star
+supernova = massive star explodes
+black hole = gravity so strong light cannot escape
+main sequence = most stars sun hydrogen fusion
+sun will become > red giant white dwarf
+star closest earth > sun
+next closest star > proxima centauri alpha centauri
+north star > polaris little dipper does not move north
+polaris used for > navigation finding north
+constellation = group stars pattern in sky
+constellations change seasons > earth revolution orbit around sun
+constellations appear move night > earth rotation
+big dipper > ursa major points to north star
+orion = constellation hunter winter belt three stars
+galaxy = huge group billions stars gas dust held by gravity
+milky way = our galaxy spiral galaxy solar system
+galaxy types > spiral elliptical irregular
+andromeda = nearest large spiral galaxy
+universe = all matter energy space galaxies
+big bang = theory universe began expanding 13.8 billion years ago
+universe expanding evidence > red shift galaxies moving away
+light year = distance light travels in one year measure distance stars
+astronomical unit = distance earth to sun 150 million kilometers
+distance to stars measured > light years
+star appears small > very far away
+stars not seen daytime > sun light too bright
+stars twinkle > atmosphere
+telescope = instrument magnifies distant objects stars planets lenses mirrors
+hubble space telescope > orbits earth above atmosphere clearer images
+space telescope above atmosphere > clearer images no distortion
+galileo telescope > moons of jupiter phases venus
+copernicus = sun center solar system heliocentric
+heliocentric = sun centered model
+geocentric = earth centered model ptolemy
+kepler = planets orbit ellipses
+newton gravity > law of universal gravitation
+spectroscope = splits starlight spectrum composition of stars
+star composition determined > spectrum spectroscope light
+radio telescope > radio waves from space
+# --- space exploration
+astronaut = person travels in space
+space station = orbits earth astronauts live work experiments
+rocket = engine thrust launch space newton third law
+rocket launch > action reaction thrust
+space probe = unmanned spacecraft explores planets voyager
+rover = robot vehicle explores surface mars
+satellite uses > communication weather gps tv navigation
+astronauts float in space station > freefall microgravity orbit
+space suit > oxygen pressure temperature protection
+no air in space > no sound vacuum
+sound cannot travel in space > vacuum no medium
+spacecraft needs heat shield > friction atmosphere reentry
+weightlessness > freefall orbit

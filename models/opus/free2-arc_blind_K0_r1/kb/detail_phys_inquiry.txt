@@ -1,0 +1,171 @@
+# matter and chemistry in detail
+All matter is made of tiny particles called atoms and molecules that are always moving.
+The kinetic theory of matter states that particles of matter are in constant motion and move faster at higher temperatures.
+When a solid melts, its particles gain energy and move more freely, but the particles themselves do not change.
+Gases can be compressed into a smaller volume because their particles are far apart.
+Liquids and solids are hard to compress because their particles are close together.
+Gas pressure increases when the gas is heated in a closed container.
+A gas fills the entire volume of any container it is in.
+Liquids flow and take the shape of the bottom of their container.
+Viscosity is a liquid's resistance to flowing; honey has high viscosity and water has low viscosity.
+Surface tension lets some insects walk on water and makes water form drops.
+Water molecules stick together, which is called cohesion, and stick to other surfaces, which is called adhesion.
+Capillary action is water climbing up narrow tubes, like water moving up a paper towel or a plant stem.
+A paper towel absorbs water by capillary action.
+Sponges and paper towels absorb liquids because they have many tiny holes.
+Plastic and wax resist water; they are waterproof.
+Brittle materials such as glass and chalk break easily when bent.
+Elastic materials such as rubber bands and springs return to their original shape after being stretched.
+Magnetic materials are attracted to magnets.
+Solubility is the amount of a substance that dissolves in a given amount of solvent.
+Gases such as carbon dioxide are more soluble in cold water; soda goes flat faster when warm.
+Concentration is the amount of solute in a given amount of solution.
+Diluting a solution by adding more water lowers its concentration.
+Indicators such as red cabbage juice change color in acids and bases.
+Neutralization occurs when an acid and a base react to form water and a salt.
+Strong acids and bases can burn skin and eyes, so goggles and gloves must be worn.
+Corrosion is the slow wearing away of metal by chemical reactions, such as rusting.
+Flammable substances, such as gasoline, alcohol and paper, burn easily.
+Reactivity describes how easily a substance combines with other substances.
+Metals such as gold and platinum are unreactive, so they stay shiny for a long time.
+Sodium and potassium react violently with water.
+Oxygen is needed for burning and for cellular respiration.
+Nitrogen gas is unreactive, so it is used to keep food fresh in packages.
+Chlorine is added to water to kill bacteria.
+Fluoride is added to toothpaste and water to prevent tooth decay.
+Carbon forms more compounds than any other element; organic compounds contain carbon.
+Diamond, graphite and coal are forms of carbon.
+Silicon is used to make computer chips and glass.
+Uranium is a radioactive element used as fuel in nuclear power plants.
+Radioactive materials give off radiation that can be harmful to living things.
+Elements are arranged in order of increasing atomic number in the periodic table.
+An element's atomic number equals the number of protons in each atom.
+The mass number is the total number of protons and neutrons in an atom.
+Atoms of different elements have different numbers of protons.
+Atoms gain or lose electrons to form ions; metals tend to lose electrons and nonmetals tend to gain them.
+Ionic compounds such as salt form crystals and have high melting points.
+Covalent bonds hold atoms together in molecules such as water, oxygen, carbon dioxide and methane.
+In a chemical equation, the arrow means yields or produces.
+Balancing chemical equations shows that atoms are conserved in chemical reactions.
+Synthesis reactions combine substances; decomposition reactions break a compound into simpler substances.
+# energy in detail
+Energy can be transferred by moving objects, sound, light, heat and electric currents.
+When energy changes form, the total amount of energy stays the same.
+Useful energy is lost as heat in machines because of friction.
+A perpetual motion machine is impossible because energy is always lost to friction as heat.
+Food energy is measured in calories.
+Plants store energy from sunlight as chemical energy; animals get this energy when they eat plants.
+The energy in fossil fuels originally came from the Sun through photosynthesis by ancient plants.
+Coal, oil and natural gas store chemical energy from ancient plants and animals.
+Power plants burn fossil fuels to heat water into steam, which spins turbines connected to generators.
+Hydroelectric dams change the gravitational potential energy of water into electricity.
+Solar panels produce electricity only when light shines on them.
+Batteries store energy that can be used later.
+Rechargeable batteries change electrical energy into chemical energy when charging.
+A stretched spring has elastic potential energy that changes to kinetic energy when released.
+A wind up toy stores energy in a coiled spring.
+A bow and arrow change elastic potential energy into kinetic energy.
+Sound and light are forms of energy that travel as waves.
+Electrical energy can be easily transformed into many other forms, which makes it very useful.
+Thermal energy depends on temperature and the amount of matter; a bathtub of warm water has more thermal energy than a cup of boiling water.
+Heat flows from the warmer object to the cooler object, never the other way on its own.
+Cold is the absence of heat; cold does not flow, heat flows.
+An ice pack feels cold because it absorbs heat from your skin.
+A thermos has a vacuum layer that stops conduction and convection, and a shiny lining that reduces radiation.
+Double pane windows have air or gas between the panes to insulate.
+Animals living in cold climates have fur, feathers or fat that act as insulation.
+# forces in detail
+The force of gravity on an object is its weight.
+On Earth, a mass of one kilogram weighs about 10 newtons.
+Gravity acts on all objects all the time, even when they are not falling.
+Every object with mass attracts every other object with mass.
+Earth's gravity is stronger than the Moon's because Earth has more mass.
+An object's weight would be greatest on Jupiter and less on the Moon or Mars.
+Satellites stay in orbit because their forward motion balances the pull of gravity.
+Friction always acts in the direction opposite to motion.
+Static friction keeps an object from starting to move; sliding friction acts on moving objects; rolling friction is the smallest.
+Fluid friction, or drag, acts on objects moving through water or air.
+Streamlined shapes reduce air resistance and water resistance, as in race cars, airplanes, fish and birds.
+Terminal velocity is reached when air resistance equals the force of gravity on a falling object.
+Balanced forces can keep an object at rest or moving at a constant speed in a straight line.
+A book resting on a table has balanced forces: gravity pulls down and the table pushes up.
+In a tug of war, if both teams pull with equal force, the rope does not move.
+Unbalanced forces are needed to change an object's speed or direction.
+A moving object will keep moving forever unless a force like friction stops it.
+It is harder to stop a heavy moving object than a light one at the same speed because it has more momentum.
+Doubling the force on an object doubles its acceleration.
+Action and reaction forces act on different objects.
+A balloon flies forward when air rushes out the back, showing action and reaction.
+A swimmer pushes the water back and moves forward.
+A gun recoils backward when a bullet is fired forward.
+Pressure equals force divided by area; snowshoes spread weight over a large area so you do not sink.
+Sharp knives cut well because force is concentrated on a small area, which creates high pressure.
+Water pressure increases with depth, so dams are thicker at the bottom.
+# waves in detail
+Waves carry energy, not matter, from one place to another.
+In a water wave, the water moves up and down while the wave moves forward.
+A floating ball bobs up and down as a wave passes but does not move along with the wave.
+Sound waves are compressions and rarefactions of particles in a medium.
+The speed of a wave equals its frequency times its wavelength.
+Waves can be reflected, refracted, diffracted and absorbed.
+Diffraction is the bending of waves around obstacles or through openings.
+Interference happens when two waves meet and combine.
+Sound travels faster in warm air than in cold air.
+The loudness of a sound depends on the energy of the vibrations.
+High pitched sounds have high frequency and short wavelength.
+Noise pollution can damage hearing and disturb wildlife.
+Light from the Sun is made of many colors that together look white.
+Visible light is a small part of the electromagnetic spectrum.
+Radio waves have the longest wavelengths and lowest frequencies; gamma rays have the shortest wavelengths and highest frequencies.
+Ultraviolet light can damage skin and eyes and cause sunburn; sunscreen blocks it.
+Infrared cameras detect heat given off by warm objects, such as animals at night.
+Microwave ovens heat food by making water molecules vibrate.
+X rays are used by doctors to see bones and by airports to check luggage.
+Optical fibers carry light signals for phone and internet communication.
+Light slows down when it passes from air into water or glass, causing it to bend.
+A concave lens makes objects appear smaller; a convex lens can make objects appear larger.
+Nearsighted people see near objects clearly and need concave lenses; farsighted people need convex lenses.
+The lens of the eye focuses light onto the retina at the back of the eye.
+A camera works like an eye: it has a lens that focuses light and an opening that controls light.
+# scientific practices in detail
+Scientists ask questions about the natural world that can be answered by investigation.
+A testable question can be answered by collecting data in an experiment.
+Before starting an experiment, a scientist should research the topic and state a hypothesis.
+The first step in a scientific investigation is usually to ask a question or identify a problem.
+After collecting data, scientists analyze it to look for patterns and draw conclusions.
+Scientists communicate results so other scientists can repeat the investigation and check the results.
+A good experiment tests only one variable at a time.
+If two variables are changed at once, it is impossible to know which one caused the result.
+The control in an experiment shows what happens when the independent variable is not changed.
+In an experiment testing fertilizer on plants, the plants without fertilizer are the control group.
+Variables that should be kept the same are the amount of water, amount of light, type of soil, type of plant and temperature.
+Measurements should be repeated and averaged to reduce error.
+The mean, or average, is the sum of the values divided by the number of values.
+The range is the difference between the highest and lowest values.
+Data that do not fit the pattern are called outliers and may be caused by errors.
+Results are more reliable when an experiment has a large sample size and many trials.
+Scientists use metric units so that measurements can be easily shared and compared.
+A hypothesis can be supported or not supported by data; it is never proven absolutely.
+A scientific theory explains a large set of observations and can change if new evidence is found.
+Scientists use models, such as diagrams, globes, maps, computer simulations and physical models, to study things that are too large, too small or too dangerous to study directly.
+A map is a model of an area of Earth; a globe is a model of Earth.
+A model of the solar system shows the Sun at the center with planets orbiting it.
+Scientists use computers to make models that predict weather, climate and the paths of hurricanes.
+Observations are made with the senses: sight, hearing, touch, smell and taste.
+Scientific instruments extend the senses: microscopes, telescopes, thermometers and scales.
+Classifying is grouping objects by their similar properties.
+Comparing means finding how things are alike and different.
+A bias can affect results; scientists use controls and repeat trials to reduce bias.
+Scientists must report their data honestly, even when the results do not support their hypothesis.
+Peer review is when other scientists evaluate research before it is published.
+Science and technology affect each other: new tools lead to new discoveries, and discoveries lead to new technology.
+Scientists work in teams and share ideas, so scientific knowledge grows over time.
+A good scientist is curious, skeptical, careful, open minded and honest.
+Wearing goggles, following directions and knowing where safety equipment is located keep students safe in the lab.
+Glassware should be checked for cracks before use, and broken glass should be swept up, not picked up with hands.
+Heated glass looks the same as cool glass, so it should be handled with tongs or heat resistant gloves.
+Never point a heated test tube toward anyone.
+Chemicals should be labeled and never mixed without directions.
+Long hair should be tied back near flames.
+If a fire starts, tell the teacher; a fire blanket or fire extinguisher can be used.
+After working with living things, soil or chemicals, wash hands thoroughly.

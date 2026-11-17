@@ -1,0 +1,95 @@
+# category | question-side relation | inherited answer-side property
+organism | structural unit | cells
+organism | life processes | growth reproduction response using energy
+animal | obtains food energy | consumes other organisms organic matter
+animal | cell structures | cell membrane cytoplasm mitochondria DNA
+vertebrate | body skeleton | backbone spinal column internal skeleton
+invertebrate | backbone | no backbone
+mammal | body covering | hair fur
+mammal | feeds young | milk mammary glands
+mammal | breathes oxygen | lungs air
+mammal | body temperature | warm blooded endotherm maintained internally
+bird | body covering | feathers
+bird | reproduces | eggs with shells
+bird | breathes oxygen | lungs air
+bird | body temperature | warm blooded endotherm
+reptile | body covering | dry scales
+reptile | breathes oxygen | lungs air
+reptile | body temperature | cold blooded ectotherm depends environment
+amphibian | body covering | moist permeable skin
+amphibian | early life habitat | water eggs without hard shells
+amphibian | body temperature | cold blooded ectotherm
+fish | breathes oxygen | gills dissolved oxygen water
+fish | locomotion adaptation | fins streamlined body swimming
+fish | body temperature | cold blooded ectotherm
+arthropod | body structure | jointed legs segmented body exoskeleton
+arthropod | growth outer covering | sheds molts exoskeleton
+insect | body parts | head thorax abdomen three regions
+insect | legs | six legs three pairs
+insect | breathes oxygen | spiracles tracheal tubes
+arachnid | body parts | two main body regions
+arachnid | legs | eight legs four pairs
+crustacean | body protection | hard exoskeleton
+mollusk | body structure | soft unsegmented body
+annelid | body structure | segmented worm
+cnidarian | prey capture defense | stinging cells tentacles
+echinoderm | habitat | marine ocean salt water
+plant | makes food | photosynthesis sunlight carbon dioxide water
+plant | cell structures | cell wall chloroplasts large vacuole
+plant | obtains water minerals | roots soil absorption
+plant | stored carbohydrate | starch chemical energy
+flowering plant | reproductive structure | flowers fruits seeds
+conifer | reproductive structure | cones seeds
+fern | reproduction | spores
+moss | reproduction | spores
+moss | transport tissues | nonvascular lacks xylem phloem
+fungus | obtains food | absorbs nutrients decomposition organic matter
+fungus | plant difference | lacks chlorophyll cannot photosynthesize
+fungus | cell wall material | chitin
+metal | electrical property | conducts electricity mobile electrons
+metal | thermal property | good heat conductor
+metal | physical properties | shiny lustrous malleable ductile
+nonmetal | electrical property | poor conductor generally insulator
+noble gas | chemical reactivity | unreactive stable full outer electron shell
+halogen | valence electrons | seven outer electrons
+alkali metal | valence electrons | one outer electron
+alkali metal | chemical reactivity | very reactive loses one electron
+alkaline earth metal | valence electrons | two outer electrons
+metalloid | electrical property | semiconductor
+sedimentary rock | formation | sediment compaction cementation deposition layers
+sedimentary rock | fossils | may contain preserved fossils
+igneous rock | formation | magma lava cooling solidification
+metamorphic rock | formation | heat pressure existing rock without melting
+mineral | definition properties | natural inorganic solid crystalline definite composition
+fossil fuel | renewable classification | nonrenewable limited resource
+fossil fuel | combustion environmental effect | carbon dioxide air pollution greenhouse gases
+fossil fuel | energy stored | chemical potential energy ancient sunlight
+renewable energy | resource classification | renewable replenished naturally
+nonrenewable energy | resource classification | nonrenewable finite limited supplies
+thermal insulator | heat transfer property | poor heat conductor reduces heat transfer
+ferromagnetic material | magnetic property | attracted magnet magnetic
+simple machine | function | changes size direction force trades force distance
+lever | parts | rigid bar fulcrum pivot effort load
+wedge | function | splits cuts separates inclined surfaces
+inclined plane | function | less effort force longer distance raises load
+producer | ecological role trophic level | producer autotroph photosynthesis makes organic food
+producer | energy source | sunlight light energy
+consumer | ecological role nutrition | heterotroph consumes organic food chemical energy
+herbivore | diet food source | plants producers leaves grass seeds
+herbivore | ecological role trophic level | primary consumer herbivore
+carnivore | diet food source | animals prey flesh meat
+carnivore | ecological role | predator consumer carnivore
+omnivore | diet food source | both plants and animals
+pollinator | flower relationship | transfers pollen pollination mutualism nectar
+scavenger | diet food source | dead animals carcasses
+conducting material | electrical property | conductor electric current mobile charges
+insulating material | electrical property | insulator resists current
+transparent material | light transmission | transmits light objects seen clearly
+pulley | parts function | grooved wheel rope changes force direction
+screw | structure function | inclined plane wrapped around cylinder
+wheel axle | structure function | large wheel attached smaller rotating axle
+compound | composition | two or more elements chemically bonded fixed proportions
+compound | separation | chemical reactions not physical separation
+homogeneous mixture | composition | uniform throughout mixed physically
+heterogeneous mixture | composition | nonuniform distinguishable parts
+solution | composition | solute dissolved solvent homogeneous mixture

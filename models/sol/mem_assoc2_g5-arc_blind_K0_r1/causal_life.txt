@@ -1,0 +1,310 @@
+# Generation 5: functional dependencies, diagnostic observations, and ecology.
+# Explicit scientific relations; inverse recognition is written separately.
+3.4 | membrane selective | entry exit exchange regulation |
+3.4 | membrane damage | loss homeostasis uncontrolled transport |
+3.4 | cell boundary transport | membrane |
+3.4 | cells controlling activities | nucleus genetic instructions |
+3.4 | nucleus chromosome | dna inherited information |
+3.4 | cell energy demand | mitochondria abundant |
+3.4 | muscle mitochondria | aerobic respiration atp |
+3.4 | chloroplast energy conversion | light chemical glucose |
+3.4 | mitochondria energy conversion | chemical atp heat |
+3.4 | cell protein manufacture | ribosomes |
+3.4 | protein packaging secretion | golgi |
+3.4 | protein transport cell | endoplasmic reticulum |
+3.4 | cell digestion organelle | lysosome |
+3.4 | plant cell turgid | vacuole water pressure |
+3.4 | plant cell support | cellulose wall vacuole |
+3.4 | plant animal shared | nucleus mitochondria membrane cytoplasm |
+3.4 | plant animal difference | chloroplast wall vacuole |
+3.4 | bacteria genetic location | cytoplasm nucleoid | nucleus
+3.4 | bacteria cell wall | protection shape |
+3.4 | bacteria reproduction rapid | binary fission asexual |
+3.4 | bacteria decomposing | nutrients recycled |
+3.4 | bacteria gut | digestion vitamins mutualism |
+3.4 | bacteria nitrogen roots | fixation usable compounds |
+3.4 | microorganisms soil plants | decomposition mineral nutrients |
+3.4 | microorganisms soil animals | food nutrients recycling |
+3.4 | fungi energy source | organic matter heterotroph |
+3.4 | fungi cell walls | chitin | cellulose
+3.4 | fungi reproduction | spores |
+3.4 | mushroom feeding | decomposer absorption |
+3.4 | yeast bread | fermentation carbon dioxide |
+3.4 | yeast anaerobic | alcohol dioxide fermentation |
+3.4 | mold damp | spores growth moisture |
+3.4 | viruses living cells | host replication |
+3.4 | viruses antibiotics | ineffective | cure
+3.4 | vaccine mechanism | immune memory antibody |
+3.4 | antibiotics mechanism | inhibit bacteria |
+3.4 | antibiotic misuse | resistant bacteria selection |
+3.4 | sterilization mechanism | kill microorganisms heat |
+3.4 | pasteurization mechanism | heat reduce pathogens |
+3.4 | refrigeration mechanism | slow microbial reproduction |
+3.4 | freezing food preservation | slow growth bacteria |
+3.4 | drying food preservation | dehydration low moisture inhibition |
+3.4 | salting food preservation | osmosis dehydration microbes |
+3.4 | food spoilage cause | microorganism chemical decomposition |
+3.4 | soap handwashing | remove microbes prevent transmission |
+3.4 | coughing covering | reduce pathogen droplets |
+3.4 | mosquito disease | vector pathogen transmission |
+3.4 | tick disease | vector pathogen transmission |
+3.4 | cell division organism growth | increased number cells mitosis |
+3.4 | wound repair process | mitosis new cells |
+3.4 | asexual genetic variation | low identical offspring |
+3.4 | sexual genetic variation | recombination two parents |
+3.4 | meiosis chromosome count | half haploid |
+3.4 | fertilization chromosome count | restored diploid |
+3.4 | mitosis daughter cells | identical same chromosome count |
+3.4 | meiosis daughter cells | different half chromosome count |
+3.4 | gene information storage | dna nucleotide sequence |
+3.4 | gene protein relationship | instructions synthesis |
+3.4 | mutation source variation | dna change |
+3.4 | mutation inheritance gamete | offspring possible |
+3.4 | mutation body cell | individual acquired |
+3.4 | inherited eye color | genes parents |
+3.4 | inherited blood type | genes alleles |
+3.4 | acquired muscle strength | exercise environment |
+3.4 | acquired scar | injury environment |
+3.4 | acquired language | learning environment |
+3.4 | acquired suntan | ultraviolet environment |
+3.4 | genotype environment | phenotype interaction |
+3.4 | identical twins differences | environment experience |
+3.4 | selective breeding purpose | desirable inherited traits |
+3.4 | selective breeding dogs | artificial selection variation |
+3.4 | natural selection requirement | heritable variation differential reproduction |
+3.4 | natural selection result | population adapted generations |
+3.4 | evolution individual | population generations | intentional
+3.4 | adaptation inherited | survival reproductive advantage |
+3.4 | adaptation developing | populations generations selection |
+3.4 | fitness biological meaning | reproductive success |
+3.4 | offspring overproduction | competition limited resources |
+3.4 | genetic diversity survival | environmental change resilience |
+3.4 | monoculture disease | low genetic diversity vulnerability |
+3.4 | bottleneck population | reduced genetic diversity |
+3.4 | species isolation | reproductive separation speciation |
+3.4 | homologous structures evidence | common ancestry |
+3.4 | dna similarity evidence | close evolutionary relationship |
+3.4 | vestigial structure evidence | common ancestry evolution |
+3.4 | fossil transition evidence | evolutionary change ancestry |
+3.4 | extinction consequence | species permanently lost |
+3.4 | species interbreeding | fertile offspring |
+3.4 | genus classification | related species |
+3.4 | scientific name order | genus species |
+3.4 | dichotomous key decisions | paired contrasting traits |
+3.4 | classification modern | evolutionary ancestry dna |
+# Plant structures, matter sources, and reproduction.
+3.4 | root function anchoring | hold soil absorption |
+3.4 | roots water minerals | absorption soil |
+3.4 | roots food stored | starch carrot beet |
+3.4 | root hairs purpose | increased surface area absorption |
+3.4 | xylem transport direction | roots leaves upward |
+3.4 | phloem transport substance | sugar food |
+3.4 | stem support transport | leaves water nutrients |
+3.4 | stomata gas entry | carbon dioxide |
+3.4 | stomata gas exit | oxygen water vapor |
+3.4 | stomata guard cells | opening closing regulate |
+3.4 | closing stomata benefit | conserve water |
+3.4 | closing stomata cost | reduced photosynthesis carbon dioxide |
+3.4 | cuticle wax benefit | reduce water loss |
+3.4 | leaf broad surface | sunlight absorption photosynthesis |
+3.4 | leaf thin structure | short diffusion distance gas |
+3.4 | plant mass gained | carbon dioxide water photosynthesis | soil mass
+3.4 | tree wood carbon | atmospheric carbon dioxide |
+3.4 | plant soil role | mineral water support | energy source
+3.4 | photosynthesis matter input | carbon dioxide water |
+3.4 | photosynthesis energy input | sunlight |
+3.4 | photosynthesis matter output | glucose oxygen |
+3.4 | photosynthesis energy output | stored chemical |
+3.4 | respiration matter input | glucose oxygen |
+3.4 | respiration matter output | carbon dioxide water |
+3.4 | respiration energy output | atp thermal |
+3.4 | plant nighttime metabolism | respiration | photosynthesis
+3.4 | plant daytime metabolism | photosynthesis respiration |
+3.4 | dark plant food | stored starch consumed |
+3.4 | plant oxygen release | photosynthesis splitting water |
+3.4 | photosynthesis carbon source | carbon dioxide |
+3.4 | photosynthesis rate limitation | light dioxide temperature water |
+3.4 | hydroponics nutrient | dissolved minerals water |
+3.4 | fertilizer excess water | algal bloom eutrophication |
+3.4 | seed germination prerequisites | water oxygen suitable temperature |
+3.4 | seed germination soil | optional water oxygen |
+3.4 | germinating seed energy | stored food cotyledon |
+3.4 | germinating seed first | root radicle |
+3.4 | seed coat function | protection drying injury |
+3.4 | seed embryo function | new plant |
+3.4 | cotyledon function | stored nutrients embryo |
+3.4 | flower reproductive role | sexual seed production |
+3.4 | pollen grains location | anther stamen |
+3.4 | pollen landing | stigma pollination |
+3.4 | pollen tube role | sperm transport ovule |
+3.4 | fertilized ovule develops | seed |
+3.4 | fertilized ovary develops | fruit |
+3.4 | petal bright scent | attract pollinators |
+3.4 | nectar flower purpose | attract animals pollination |
+3.4 | insect pollination benefit | plant reproduction pollen transfer |
+3.4 | wind pollination trait | abundant light pollen |
+3.4 | fruit animal eaten | seed dispersal |
+3.4 | hooked seed fur | dispersal animals |
+3.4 | winged seed | wind dispersal |
+3.4 | floating seed | water dispersal |
+3.4 | seed dispersal advantage | reduced competition colonize |
+3.4 | vegetative reproduction example | cutting runner tuber |
+3.4 | potato tuber reproduction | asexual vegetative |
+3.4 | strawberry runner reproduction | asexual clone |
+3.4 | bulb reproduction | vegetative asexual |
+3.4 | cone seed plant | gymnosperm conifer |
+3.4 | flower seed plant | angiosperm |
+3.4 | fern moss reproduction | spores |
+3.4 | moss water requirement | sperm swimming fertilization |
+3.4 | gravitropism root | downward positive |
+3.4 | phototropism shoot | toward light |
+3.4 | plant wilting cause | water loss low turgor |
+3.4 | plant wilt recovery | water uptake turgor |
+3.4 | deciduous leaves drop | conserve water winter |
+3.4 | cactus spine role | water conservation protection |
+3.4 | cactus thick stem | water storage |
+3.4 | pine needle benefit | reduce evaporation snow shedding |
+3.4 | mangrove aerial roots | oxygen waterlogged soil |
+3.4 | waterlily floating leaf | sunlight gas exchange |
+# Organization, organ-system interactions, and homeostasis.
+3.4 | tissues working together | organ |
+3.4 | organs working together | organ system |
+3.4 | cells similar function | tissue |
+3.4 | stomach organization level | organ |
+3.4 | heart organization level | organ |
+3.4 | neuron organization level | cell |
+3.4 | red blood organization | cell |
+3.4 | breathing oxygen delivery | respiratory circulatory interaction |
+3.4 | nutrients delivered cells | digestive circulatory interaction |
+3.4 | kidneys wastes transported | excretory circulatory interaction |
+3.4 | movement body interaction | muscular skeletal nervous |
+3.4 | chemical messages body | endocrine hormones |
+3.4 | electrical messages body | nervous neurons |
+3.4 | hormone blood transport | endocrine circulatory |
+3.4 | cell message nucleus | signaling regulation endocrine |
+3.4 | exercise breathing heart | increased oxygen energy demand |
+3.4 | exercise muscles respiration | glucose oxygen atp |
+3.4 | exercise sweating role | evaporative cooling |
+3.4 | body hot response | sweating vasodilation |
+3.4 | body cold response | shivering vasoconstriction |
+3.4 | body temperature stable | homeostasis |
+3.4 | blood glucose stable | insulin glucagon homeostasis |
+3.4 | dehydration kidney response | smaller volume concentrated urine water conservation |
+3.4 | kidney failure effect | wastes accumulate blood |
+3.4 | lungs damaged effect | reduced oxygen diffusion |
+3.4 | alveoli thin walls | fast diffusion gas exchange |
+3.4 | alveoli many | large surface area |
+3.4 | blood red cells | oxygen transport hemoglobin |
+3.4 | blood white cells | pathogen defense immune |
+3.4 | blood platelets | clotting wounds |
+3.4 | blood plasma | liquid nutrients wastes transport |
+3.4 | artery thick wall | high pressure away heart |
+3.4 | vein valves | prevent backward flow |
+3.4 | capillary thin wall | material exchange diffusion |
+3.4 | digestive absorption location | small intestine villi |
+3.4 | digestive water recovery | large intestine |
+3.4 | digestion mechanical example | chewing churning |
+3.4 | digestion chemical example | enzymes saliva acid |
+3.4 | esophagus transport | muscular peristalsis |
+3.4 | bile digestion role | emulsify fats |
+3.4 | pancreas insulin role | lower blood glucose |
+3.4 | skeletal protection chest | ribs heart lungs |
+3.4 | skeletal protection head | skull brain |
+3.4 | muscle bones connection | tendon |
+3.4 | bone bones connection | ligament |
+3.4 | bones joint cushioning | cartilage |
+3.4 | voluntary muscle type | skeletal striated |
+3.4 | involuntary muscle heart | cardiac |
+3.4 | involuntary muscle intestine | smooth |
+3.4 | muscles opposing pairs | contraction relaxation movement |
+3.4 | skin barrier role | protection pathogen dehydration |
+3.4 | skin sensation role | receptors nervous |
+3.4 | iris eye purpose | regulate light pupil |
+3.4 | retina eye purpose | detect light receptor |
+3.4 | lens eye purpose | focus light retina |
+3.4 | cochlea ear purpose | hearing vibrations |
+3.4 | semicircular canals purpose | balance |
+3.4 | reflex withdrawal | protection rapid automatic |
+3.4 | carbohydrate nutrient | immediate energy |
+3.4 | protein nutrient | growth repair enzyme |
+3.4 | fat nutrient | stored energy insulation |
+3.4 | fiber nutrient | digestive movement |
+3.4 | mineral calcium | bones teeth |
+3.4 | mineral iron | hemoglobin oxygen |
+3.4 | vitamin d role | calcium absorption bones |
+# Ecological changes and interactions.
+3.4 | ecosystem sunlight removed | producer decline food shortage |
+3.4 | ecosystem producers removed | consumers decline food shortage |
+3.4 | ecosystem decomposers removed | dead matter accumulates nutrients unavailable |
+3.4 | ecosystem predators removed | prey increase |
+3.4 | ecosystem prey removed | predators decline |
+3.4 | ecosystem plants removed | herbivore decline erosion |
+3.4 | food web arrows | energy transfer eaten eater |
+3.4 | food chain beginning | sunlight producer |
+3.4 | food chain last energy | heat dissipated |
+3.4 | food chain energy decreases | metabolism heat respiration |
+3.4 | trophic level transfer | ten percent approximate |
+3.4 | trophic level highest energy | producers first |
+3.4 | trophic level least energy | top predators |
+3.4 | biomass terrestrial greatest | producers base |
+3.4 | decomposer material fate | soil nutrients reused |
+3.4 | energy ecosystem flow | one way dissipated heat | recycled
+3.4 | matter ecosystem flow | recycled cycles |
+3.4 | carbon cycle respiration | atmospheric carbon dioxide released |
+3.4 | carbon cycle photosynthesis | atmospheric carbon dioxide removed |
+3.4 | nitrogen fixation product | ammonia usable compounds |
+3.4 | nitrogen fixation organism | bacteria |
+3.4 | denitrification product | atmospheric nitrogen |
+3.4 | legumes nitrogen association | root nodule bacteria |
+3.4 | population food limited | competition carrying capacity |
+3.4 | population water limited | competition decline |
+3.4 | population overcapacity | resources depleted deaths |
+3.4 | population resources increased | growth larger carrying capacity |
+3.4 | population immigration | increase |
+3.4 | population emigration | decrease |
+3.4 | population births exceed | increase growth |
+3.4 | population deaths exceed | decrease decline |
+3.4 | competition shared | limited resource |
+3.4 | niche difference | less competition coexistence |
+3.4 | habitat fragmentation | isolation reduced diversity |
+3.4 | invasive species success | few predators competitors |
+3.4 | invasive species consequence | native decline competition |
+3.4 | biodiversity importance | stability resilience genetic resources |
+3.4 | overharvesting consequence | population decline extinction |
+3.4 | persistent pesticide concentration | biomagnification highest predators |
+3.4 | fertilizer runoff lake | eutrophication algae |
+3.4 | algal bloom decomposition | oxygen depletion fish die |
+3.4 | lake sewage oxygen | bacteria respiration depletion |
+3.4 | forest fire succession | secondary soil remains |
+3.4 | bare lava succession | primary lichen pioneer |
+3.4 | abandoned field succession | secondary grasses shrubs forest |
+3.4 | pioneer lichen effect | rock weathering soil formation |
+3.4 | camouflage advantage | predator avoidance prey capture |
+3.4 | changing color animal | camouflage conceal predators |
+3.4 | mimicry advantage | resemble dangerous species protection |
+3.4 | warning coloration | predator deterrence toxicity |
+3.4 | hibernation advantage | conserve energy food shortage |
+3.4 | migration advantage | food breeding favorable climate |
+3.4 | nocturnal desert advantage | avoid daytime heat water loss |
+3.4 | desert large ears | heat loss cooling |
+3.4 | arctic small ears | reduced heat loss |
+3.4 | blubber aquatic mammal | insulation energy storage |
+3.4 | webbed feet | swimming propulsion |
+3.4 | long beak | food access |
+3.4 | sharp canine teeth | tearing meat |
+3.4 | flat molar teeth | grinding plants |
+3.4 | owl large eyes | dim light vision |
+3.4 | bat echolocation | reflected sound navigation prey |
+3.4 | dolphin echolocation | reflected sound locating prey |
+3.4 | fish gills structure | large surface area oxygen |
+3.4 | fish streamlined body | reduced drag efficient swimming |
+3.4 | reptile scales dry | reduce water loss |
+3.4 | amphibian moist skin | gas exchange |
+3.4 | insect exoskeleton role | protection support water conservation |
+3.4 | insect molting need | rigid exoskeleton growth |
+3.4 | bird hollow bones | low weight flight |
+3.4 | bird feather function | insulation flight |
+3.4 | mammal milk function | nourish offspring |
+3.4 | egg shell function | protection water conservation gas exchange |
+3.4 | metamorphosis complete stages | egg larva pupa adult |
+3.4 | metamorphosis incomplete stages | egg nymph adult |

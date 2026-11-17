@@ -1,0 +1,208 @@
+# Authored application bridges: mechanisms in everyday objects and events.
+# These statements are general knowledge, not assessment questions.
+# Motion and engineering
+bicycle brake squeeze | friction slows wheel; kinetic_energy becomes heat | gravity disappears
+bicycle downhill coast | gravitational potential_energy becomes kinetic_energy | energy created
+bicycle uphill pedal | chemical_energy muscle; work against gravity | gravity helps climb
+bicycle gear purpose | change force speed tradeoff | reduce mass bicycle
+bicycle tire tread | increase traction; friction road | eliminate friction
+bicycle tire worn smooth | less grip; slippery wet road | better braking always
+car engine fuel | chemical_energy becomes mechanical_energy; thermal_energy | nuclear fusion
+car accelerating passenger | inertia; resists change motion | inertia creates energy
+car stopping loose object | continues forward; inertia | immediately reverses direction
+car turning acceleration | direction changes | only speed must increase
+car seatbelt injury | longer stopping time; restrains body | prevents all motion forever
+car tire flat | larger rolling resistance; harder motion | friction disappears
+car windshield rain wiper | friction contact removes water | magnetic attraction water
+car engine coolant | transfers thermal_energy; prevents overheating | generates cold matter
+engine moving parts oil | lubricant; reduce friction wear heat | increases friction
+wheel axle doorknob | larger turning radius; mechanical advantage | creates work
+wheelchair ramp | smaller force over longer distance | less ideal energy same height
+spiral staircase screw | inclined_plane wrapped around axis | pulley
+jar lid screw thread | converts rotation forward motion; inclined_plane | lever only
+screwdriver handle | wheel_axle; larger radius increases torque | removes all friction
+screw longer thread | inclined_plane; force distance tradeoff | produces energy
+bottle opener | lever; mechanical advantage | solar_cell
+nutcracker | lever; load between pivot effort | inclined_plane only
+fishing rod | lever; increases motion distance | nuclear reaction
+human forearm biceps | lever; muscle pulls bone | muscle pushes bone
+scissors compound_machine | lever wedge; blades cut | simple pulley only
+shovel compound_machine | wedge lever | electric motor always
+stapler | lever | nuclear_energy
+zipper | wedge | electrical generator
+flagpole raise flag | pulley changes force direction | produces energy
+sailboat moving | wind transfers kinetic_energy | wind creates matter
+windmill rotating | wind kinetic_energy; mechanical motion | coal required
+waterwheel rotating | moving water transfers energy | still water makes light
+stretched bow arrow | elastic potential_energy becomes kinetic_energy | energy created
+diving board bends | elastic potential_energy stored | chemical composition changes necessarily
+trampoline stretched | elastic potential_energy | nuclear_energy
+catapult | stored elastic energy; projectile motion | energy destroyed
+pendulum released highest | potential_energy changes kinetic_energy | gravitational force absent
+swing push timing | energy added; amplitude increases | mass necessarily increases
+slide playground warm | friction converts motion heat | heat converts entirely motion
+ball rolling grass pavement | rough grass greater resistance; stops sooner | gravity only
+ball moving circular track | force inward; changes direction | force always tangent only
+ball thrown horizontal | curved path; gravity accelerates downward | gravity acts only after stops
+ball falling speed | acceleration due gravity | mass must increase
+ball dropped energy conservation | potential decreases kinetic increases | total energy created
+ball stationary floor | support force balances weight | gravity absent
+skateboard push wall | wall exerts opposite force; moves away | only skateboard pushes wall
+swimmer pushes water backward | water pushes swimmer forward | water has no reaction force
+bird wing pushes air down | air pushes bird up; lift | bird eliminates gravity
+rocket gas expelled backward | rocket pushed forward; action reaction | needs air to push against
+rocket works vacuum | carries propellant; momentum conservation | must push surrounding air
+gun recoil | opposite momentum; reaction force | no conservation momentum
+walking traction | foot pushes ground backward; ground pushes forward | foot only slides freely
+ice skating glide | low friction; inertia | no gravity on ice
+sled heavier pull same acceleration | greater force required | less inertia
+heavy truck small car stopping | truck greater momentum same speed | equal momentum always
+catch ball move hands backward | longer stopping time; smaller force | greater impact force
+egg padding impact | absorbs energy; longer stopping distance | stops gravity
+packaging foam fragile object | cushions collision; reduces peak force | increases speed impact
+sports helmet | spreads impact; absorbs energy | prevents gravity
+bridge arch | transfers load toward supports; compression | no force transmitted
+bridge cable | tension; pulls | only pushes
+building foundation | spreads load; stable support | raises center gravity necessarily
+wide base stability | less likely tip | always tips easier
+low center gravity | more stable | always unstable
+boat cargo overload | average density rises; floats lower; may sink | buoyancy unlimited
+boat steel hollow float | displaces enough water; average density low | steel lighter water always
+iceberg floating | ice less dense liquid water | ice has no mass
+wood floating water | density less than water | greater mass always floats
+stone sinking water | density greater than water | all small objects float
+hot_air balloon rises | heated air less dense surrounding air; buoyancy | gravity disappears
+helium balloon rises | helium less dense air | helium has no mass
+balloon air released | air rushes out; recoil motion | nuclear explosion
+syringe air compressed | gas particles closer; pressure increases | particles shrink
+syringe water compressed | liquid nearly incompressible | water has no particles
+straw drinking | lower pressure straw; atmosphere pushes liquid | liquid pulled by magnet
+suction cup | air pressure holds; reduced pressure inside | gravity absent
+vacuum cleaner | pressure difference moves air; particles carried | creates gravitational field
+# Thermal and optical applications
+metal lid jar warm | thermal expansion; lid expands | lid mass increases greatly
+railroad gaps hot weather | allow thermal expansion; prevent bending | stop all expansion
+bridge expansion joint | permits temperature related size change | makes mass disappear
+thermometer liquid heated | expansion; rises in tube | liquid becomes heavier
+bimetal strip heat | unequal expansion bends strip | both expand identically
+power line sag summer | metal expands when warm | metal contracts when warm
+balloon chilled | gas cools contracts; volume decreases | atoms disappear
+balloon warmed | gas expands; particle motion increases | new gas atoms created
+sealed can heated | pressure increases; gas motion faster | pressure necessarily decreases
+hot glass cold water | unequal contraction; thermal stress cracking | water chemically dissolves all glass
+glass cold drink outside droplets | water_vapor condenses from air | water leaks through solid glass
+bathroom mirror after shower | condensation; warm moist air meets cool surface | mirror generates water
+eyeglasses fog warm room | water_vapor condenses on cold lenses | lenses melt
+car windshield frost | water_vapor deposition; cold glass | glass turns to ice
+morning dew grass | water_vapor condenses; surface cools | grass leaks all dew
+cloud breath cold air | exhaled water_vapor condenses | oxygen freezes
+wet clothes dry | evaporation; liquid water to gas | water destroyed
+wet clothes wind | evaporation faster; humid air removed | condensation faster only
+wet clothes spread out | greater exposed surface_area; faster evaporation | mass of water increases
+wet clothes sunlight | more energy evaporation; dries faster | liquid water becomes oxygen
+puddle disappears warm day | evaporation into atmosphere | water destroyed
+hand alcohol evaporation | heat absorbed skin; cooling | skin produces cold
+wet skin cool breeze | evaporation and convection remove heat | water freezes necessarily
+fan room occupied | moving air improves evaporation convection | air temperature must drop
+fan empty closed room | no refrigeration; motor releases heat | creates cold
+metal pan handle hot | conduction along handle | sound energy only
+wood plastic pan handle | insulator; slows conduction | absorbs no energy ever
+oven mitt | insulating air fibers; reduce heat transfer | lowers oven temperature
+pot water heated bottom | convection circulates warm less dense water | solid conduction only
+heater near floor | warm air rises; convection | warm air sinks always
+air conditioner high wall | cool dense air sinks; circulation | cold air always rises
+attic insulation | reduces thermal transfer roof | supplies heat automatically
+double wall cup | trapped air reduces heat loss | energy created
+sleeping bag | traps air; slows body heat loss | generates energy without body
+bird fluffs feathers cold | traps more insulating air | increases heat loss
+animal fur wet | less insulation; air spaces collapse | more heat generated automatically
+snow cave warmth | trapped air insulation; blocks wind | ice creates energy
+sand water same sunlight | sand temperature changes faster; water higher heat_capacity | water always heats faster
+lake cool summer day | water high heat_capacity; temperature changes slowly | water cannot absorb heat
+boiling water mountain | lower air pressure; lower boiling temperature | boiling temperature higher
+pressure cooker | greater pressure raises boiling temperature | food cooled below freezing
+steam burn | condensation releases thermal_energy | water vapor has no energy
+ice added drink | absorbs heat while melting; cools liquid | supplies cold energy
+ice chest cooler insulation | slows heat entering | heat only flows outward always
+salt icy sidewalk | lowers freezing_point; promotes melting | raises melting_point
+water freezing bottle crack | water expands freezing | water contracts freezing
+pond winter ice surface | ice less dense; insulation; water below liquid | ice sinks immediately
+metal spoon ice cream | conducts heat; melts nearby ice | blocks all thermal energy
+reflector bicycle | reflects headlights; increases visibility | generates sunlight
+white paper visible | diffusely reflects light | produces light by fusion
+black paper sunlight | absorbs more radiation | reflects all wavelengths
+dark pavement hot | absorbs solar radiation | creates sunlight
+shiny foil sunlight | reflects much radiation | absorbs all light
+umbrella shade | opaque fabric blocks sunlight | removes atmosphere
+tree shadow | light blocked by leaves; straight line travel | light attracted into soil
+shadow source closer | object blocks wider cone; larger shadow | smaller always
+flashlight beam obstruction | shadow behind opaque object | sound causes darkness
+clear plastic window | transparent; transmits light | opaque
+wax paper | translucent; scatters transmitted light | perfectly transparent
+stained glass colored | transmits selected wavelengths | nuclear emission
+submerged straw bent appearance | refraction; different speed water air | straw physically breaks
+swimming pool looks shallow | refraction exiting water | water has no depth
+fish apparent position water | refraction bends light | magnetic reflection
+fiber_optic cable | total internal reflection; light communication | sound needs copper
+periscope | mirrors reflect light; view around obstacle | light goes through opaque wall
+telescope mirror lens | gathers focuses light | makes stars larger physically
+microscope lens | refracts light; magnifies small objects | changes actual specimen size
+magnifying glass fire | converges sunlight; concentrated energy | creates energy
+camera lens | focuses light onto sensor | makes atoms visible without light
+eye lens | focuses light retina | focuses sound eardrum
+pupil bright light | contracts; less light enters | opens wider
+pupil dim light | dilates; more light enters | closes completely
+rainbow white light | different wavelengths refract differently | water creates colors without light
+soap bubble colors | thin film interference | nuclear fusion
+# Sound and electricity in familiar devices
+rubber band plucked | vibrates; sound waves | sound without motion
+drum struck | membrane vibrates; sound | air disappears
+tuning_fork touched water | vibrations disturb water | magnetic force water
+speaker cone | vibrates air; sound | creates air molecules
+human voice | vocal cords vibrate | tongue creates electromagnetic waves
+sound muffled door | material absorbs reflects waves | frequency always zero
+earplugs | reduce sound energy reaching ear | stop all air everywhere
+carpet curtains echo | absorb sound; reduce reflection | make room vacuum
+empty room echo | hard surfaces reflect sound | sound cannot travel
+music volume increase | amplitude greater; louder | frequency necessarily higher
+flute shorter air column | higher pitch; higher frequency | lower pitch always
+bottle more water blow | shorter air column; higher pitch | longer air column
+string instrument tuning tighter | higher vibration frequency | lower frequency always
+bat echolocation | reflected sound; locate prey obstacles | reflected visible sunlight only
+dolphin sonar | sound reflection; underwater navigation | sound cannot travel water
+ultrasound medical | sound waves reflected tissues | nuclear radiation
+lightning seen before thunder | light faster sound | sound produced days later
+rail sound distance | solid carries vibrations | sound requires air only
+telephone voice | sound electrical signal sound | gravity transmitted
+microphone | sound energy electrical signal | electrical to light only
+headphones | electrical_energy sound_energy | chemical fuel required
+electric bell | electromagnet moves striker | sunlight makes sound directly
+battery flashlight | chemical to electrical to light heat | light energy stored as light in battery
+toaster | electrical_energy thermal_energy; resistance | electrical to nuclear
+electric kettle | electrical_energy thermal_energy | chemical to solar
+electric fan | electrical_energy mechanical_energy | thermal to nuclear
+washing_machine motor | electrical_energy mechanical_energy | electricity creates matter
+hair dryer | electrical to thermal mechanical | chemical reaction required
+doorbell circuit | closed path; current activates electromagnet | open circuit always rings
+flashlight switch off | circuit open; current stops | battery mass disappears
+bulb battery connection | two terminals; complete conducting path | one wire with no return always works
+light bulb broken filament | open circuit; current stops | resistance becomes zero closed path
+battery terminal reversed motor | current direction reverses; rotation may reverse | all energy destroyed
+hand crank flashlight | mechanical to electrical to light | nuclear fusion
+bicycle dynamo | motion magnet coil induces current | current without energy source
+generator power station | rotating magnet coil; mechanical to electrical | electrical to chemical only
+electromagnet scrap yard | current switch controls attraction iron | attracts all materials equally
+magnet sorting waste | separates iron steel | separates plastic from wood by magnetism
+magnet iron filings | align with magnetic field; reveal pattern | filings show gravity only
+magnet aluminum can | not strongly attracted | all metals strongly magnetic
+magnet copper penny | not strongly attracted | all conducting materials ferromagnetic
+compass near current wire | needle deflects; current magnetic_field | electric current has no field
+static balloon hair | electron transfer; opposite charges attract | protons leave nuclei
+static balloon wall | charge induces polarization; attraction | wall must have opposite net charge
+lightning protection rod | conducting path to ground | stores all lightning as light
+rubber gloves electricity | insulate; resist current | best electrical conductor
+wet electrical equipment | shock hazard; conductive impurities | water always insulates
+parallel holiday lights | separate paths; one failure may leave others on | always single loop
+series holiday lights | interrupted path can stop all bulbs | independent branches always
+solar calculator | light converted electrical energy | battery creates sunlight
+solar water heater | radiation warms water; thermal_energy | all solar devices photovoltaic

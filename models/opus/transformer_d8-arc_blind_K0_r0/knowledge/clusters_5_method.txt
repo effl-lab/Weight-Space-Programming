@@ -1,0 +1,42 @@
+hypothesis: hypothesis, hypotheses, prediction, predict, educated guess, testable, if then, possible explanation, tentative
+experiment_design: experiment, investigation, procedure, steps, test, testing, tested, trials, fair test, scientific method, method
+variable_ind: independent variable, manipulated variable, manipulated, variable changed, changes on purpose, tested variable, factor tested
+variable_dep: dependent variable, responding variable, responding, measured, outcome, depends
+controlled_var: controlled variable, controlled variables, constant, constants, kept the same, same conditions, held constant, control group, control
+control_group: control group, control, comparison, compare, no treatment, placebo, experimental group, baseline
+repeat_trials: repeat, repeated, repeating, trials, more trials, multiple trials, several times, replicate, reliable, reliability, consistent, valid, validity, sample size, larger sample, accurate, average, averages
+data_record: record, recorded, recording, data table, notebook, journal, log, write down, chart, organize data
+graph_line: line graph, change over time, over time, trend, trends, continuous, plot, x axis, y axis, axis
+graph_bar: bar graph, compare, comparing, categories, bars, totals
+graph_pie: pie chart, circle graph, percent, percentage, parts of a whole, portion
+conclusion: conclusion, conclusions, conclude, analyze, analysis, interpret, supports, support hypothesis, evidence, results
+observation_inference: observation, inference, infer, inferences, evidence, senses, qualitative, quantitative, measurable
+qualitative_quant: qualitative, quantitative, numbers, measurements, descriptions, numerical
+communicate: communicate, share results, publish, report, peer review, other scientists, presentation, journal article
+theory_law: theory, theories, law, scientific law, scientific theory, well tested, explanation, supported by evidence, describes, explains
+model_sci: model, models, represent, representation, simulate, simulation, scale model, diagram, globe, replica, physical model
+measure_length: length, ruler, meter stick, meterstick, tape measure, meters, meter, centimeters, centimeter, millimeters, kilometers, inches, feet, distance, height, width, measure length
+measure_mass: mass, balance, triple beam balance, pan balance, electronic balance, scale, grams, gram, kilograms, weigh, weighing
+measure_volume: volume, graduated cylinder, beaker, measuring cup, milliliters, liters, meniscus, displacement, pipette, flask
+measure_time: time, stopwatch, timer, clock, seconds, minutes, hours, elapsed
+measure_temp: temperature, thermometer, celsius, fahrenheit, degrees, kelvin
+measure_force: spring scale, force meter, newtons, force, pull, weight
+metric_units: metric, metric system, si units, international system, kilo, centi, milli, base ten, unit, units, conversion, convert
+lab_safety: safety, safe, goggles, safety goggles, eye protection, protect eyes, gloves, apron, lab coat, fire extinguisher, eyewash, wash hands, tie back hair, closed toe shoes, report accidents, spills, broken glass, teacher, follow directions, chemicals, fumes, ventilation, fire blanket
+goggles: goggles, safety goggles, eyes, eye, splash, splashes, protect eyes, chemicals, glass
+heating_safety: hot plate, bunsen burner, burner, flame, test tube, point away, heat resistant, tongs, oven mitts
+no_food_lab: food and drinks, eating, drinking, laboratory, contamination, never taste
+smell_safely: waft, wafting, smell, odor, fan toward nose
+lab_tools: beaker, test tube, test tubes, flask, petri dish, dropper, pipette, funnel, tongs, forceps, spatula, stirring rod, graduated cylinder, ring stand, clamp
+microscope_tool: microscope, compound microscope, magnify, magnification, lens, slide, cells, microorganisms, tiny, very small, stage, eyepiece, objective lens, focus
+hand_lens: hand lens, magnifying glass, magnifier, magnify, enlarge, closer look, details, insect, rock grains
+binoculars: binoculars, telescope, distant objects, far away, birds, bird watching, observe
+camera: camera, photographs, photograph, pictures, picture, record images, video
+calculator_computer: computer, computers, software, spreadsheet, calculator, database, technology, internet, simulation
+engineering: engineer, engineers, engineering, design, designs, prototype, criteria, constraints, test, improve, redesign, solution, problem, invention, inventor, invent, build
+technology: technology, technologies, invention, inventions, tool, tools, device, devices, innovation, advance, advances
+sci_knowledge_change: new evidence, new technology, revised, change over time, scientific knowledge, improved instruments, better tools, discovery
+ethics: ethical, ethics, bias, honest, honesty, accurate records, falsify, report all data
+classification_key: dichotomous key, key, identify, classify, characteristics, sort, group, sorting
+pattern: pattern, patterns, trend, cycle, cycles, regular, repeating, predictable
+cause_effect_sci: relationship, correlation, cause and effect, factor, factors, influence, depends on, related

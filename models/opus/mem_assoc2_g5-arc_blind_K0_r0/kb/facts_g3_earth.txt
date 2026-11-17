@@ -1,0 +1,345 @@
+# Generation 3: Earth science: rocks, minerals, plates, weathering, soil, fossils, earth history, water, weather, climate.
+# --- rock cycle
+igneous rock forms > magma lava cools hardens crystallizes
+sedimentary rock forms > sediment compacted cemented layers deposited
+metamorphic rock forms > heat pressure changes existing rock deep underground
+igneous rock examples > granite basalt obsidian pumice
+sedimentary rock examples > sandstone limestone shale conglomerate coal
+metamorphic rock examples > marble slate quartzite gneiss schist
+granite > igneous large crystals cooled slowly underground intrusive
+basalt > igneous small crystals cooled quickly lava extrusive ocean floor
+obsidian > igneous volcanic glass cooled very quickly no crystals
+pumice > igneous holes gas bubbles floats light
+limestone > sedimentary calcite shells marine fizzes acid
+sandstone > sedimentary sand grains cemented
+shale > sedimentary clay mud fine layers
+conglomerate > sedimentary rounded pebbles gravel cemented
+marble > metamorphic from limestone
+slate > metamorphic from shale
+quartzite > metamorphic from sandstone
+gneiss > metamorphic bands from granite
+large crystals igneous > cooled slowly inside earth intrusive
+small crystals igneous > cooled quickly surface extrusive
+no crystals glassy rock > cooled very quickly obsidian
+rock with layers > sedimentary
+rock with fossils > sedimentary
+rock with bands folded > metamorphic
+rock with holes bubbles > pumice igneous volcanic
+rock cycle any rock > can become any other type
+weathering erosion deposition compaction cementation > sedimentary rock
+melting cooling > igneous rock
+heat pressure > metamorphic rock
+rocks made of > minerals
+mineral = naturally occurring inorganic solid crystal structure definite composition
+mineral identification tests > hardness streak luster color cleavage fracture density
+streak = color of powder rubbed on streak plate
+mohs scale > hardness 1 to 10 talc diamond
+hardest mineral > diamond
+softest mineral > talc
+mineral scratches glass > harder than glass
+fingernail scratch mineral > soft hardness 2
+cleavage = breaks along flat surfaces
+fracture = breaks unevenly rough curved
+color least reliable property mineral > many minerals same color
+quartz > common mineral hard glass sand
+calcite > fizzes acid limestone
+halite > salt mineral
+feldspar > common mineral granite
+mica > splits thin sheets
+magnetite > magnetic mineral
+pyrite > fool's gold
+gold > metal mineral jewelry soft
+ore = rock with useful metal minerals mined
+gems > diamond ruby emerald sapphire
+# --- Earth structure, plate tectonics
+earth layers order > crust mantle outer core inner core
+crust = thinnest outermost solid layer rock
+mantle = thickest layer hot rock flows slowly convection
+outer core = liquid iron nickel
+inner core = solid iron nickel hottest center pressure
+oceanic crust > thinner denser basalt
+continental crust > thicker less dense granite
+lithosphere = crust and upper mantle rigid plates
+asthenosphere = soft flowing layer mantle plates move on
+plate tectonics = earth crust broken into plates move slowly
+plates move because > convection currents in mantle
+plates move speed > few centimeters per year slowly
+continental drift = continents moved over time wegener pangaea
+pangaea = supercontinent long ago all continents joined
+evidence continental drift > continents fit together like puzzle matching fossils rock layers glaciers
+convergent boundary = plates collide move together mountains trenches volcanoes subduction
+divergent boundary = plates move apart mid ocean ridge rift valley new crust
+transform boundary = plates slide past each other earthquakes san andreas fault
+subduction = denser plate sinks under another plate trench
+mid ocean ridge > divergent new ocean floor sea floor spreading magma
+sea floor spreading > new crust ridge older away from ridge
+deep ocean trench > subduction convergent
+himalayas formed > two continental plates collided
+mountains formed > plates collide folding uplift
+andes mountains > subduction oceanic continental
+iceland > divergent boundary mid atlantic ridge
+san andreas fault > transform boundary california earthquakes
+ring of fire > pacific volcanoes earthquakes plate boundaries
+hawaii islands formed > hot spot volcano
+hot spot = magma rises middle of plate chain of islands
+earthquake = sudden movement along fault energy released vibrations
+earthquake cause > plates move stress fault slips
+focus = point underground where earthquake starts
+epicenter = point on surface above focus
+seismic waves > p waves s waves surface waves
+p waves > fastest primary travel through solids liquids
+s waves > secondary only solids not through outer core
+seismograph measures > earthquake waves
+richter scale magnitude > earthquake strength
+tsunami = huge ocean wave caused by underwater earthquake
+earthquake ocean floor > tsunami
+earthquake safe building > flexible base absorb shaking
+volcano = opening magma lava gas ash erupts
+volcano forms > magma rises plate boundaries hot spots
+lava = magma on surface
+magma = melted rock underground
+volcanic ash effects > blocks sunlight cooler climate fertile soil
+volcanic eruption benefits > fertile soil new land islands
+shield volcano > gentle slopes runny lava hawaii
+composite volcano stratovolcano > steep layers explosive
+cinder cone > small steep
+fault = crack in crust where rocks move
+folding = rock layers bent pressure
+uplift = land raised up
+# --- weathering, erosion, deposition
+weathering = breaking down of rocks into smaller pieces
+erosion = moving of weathered rock sediment by water wind ice gravity
+deposition = dropping of sediment in new place
+mechanical weathering physical weathering > ice wedging roots abrasion frost wedging temperature
+chemical weathering > acid rain oxidation rust water dissolves limestone carbonic acid
+ice wedging frost wedging = water freezes expands cracks rock
+plant roots grow cracks > mechanical weathering breaks rock
+lichens rock > chemical weathering acids soil
+acid rain statue > chemical weathering marble limestone
+rust rock red > oxidation chemical weathering iron
+weathering fastest climate > warm wet humid
+mechanical weathering most > cold climates freezing thawing
+agents of erosion > water wind ice glaciers gravity waves
+most erosion agent > running water
+wind erosion > sand dunes deserts sandblasting
+glacier erosion > u shaped valleys moraines scratches boulders
+glacier deposits > moraine till erratic boulders unsorted sediment
+river erosion > v shaped valley canyon
+river deposits > delta floodplain alluvial fan sand bars
+delta forms > river slows enters ocean lake deposits sediment
+meander = curve bend river
+oxbow lake > meander cut off
+waves erosion > beaches cliffs sea arches sea caves
+waves deposit > sand beaches sand bars spits
+gravity erosion > landslides mudslides rockfall slump creep
+mass movement > landslide mudflow creep
+landslide more likely > steep slopes heavy rain bare ground
+faster river > carries larger sediment more erosion
+river slows down > deposits sediment largest first
+steep slope river > fast erosion
+sorted sediment water > largest bottom smallest top
+sediment size order > boulders cobbles pebbles sand silt clay
+prevent erosion > plant vegetation grass trees terraces windbreaks contour plowing retaining walls
+plants prevent erosion > roots hold soil
+windbreak > rows of trees reduce wind erosion
+terrace farming > reduce erosion hillsides
+contour plowing > follows hills slows runoff erosion
+cover crops > protect soil erosion
+dust bowl > drought wind erosion plowing removed grass
+sand dunes formed > wind deposits sand
+beach erosion prevent > jetties seawalls plant dune grass
+canyon formed > river erosion over millions of years
+grand canyon > colorado river erosion rock layers
+cave formed > groundwater acid dissolves limestone
+stalactites stalagmites > caves dripping water minerals deposited
+sinkhole > limestone dissolved collapse
+# --- soil
+soil formed > weathering of rock plus organic matter decayed plants animals
+soil made of > minerals rock particles humus water air organisms
+humus = decayed organic matter dark rich soil nutrients
+topsoil = top layer most humus nutrients organic matter dark
+subsoil = below topsoil clay minerals less humus
+bedrock = solid rock beneath soil
+soil horizons > topsoil subsoil parent material bedrock
+soil particle sizes > sand largest silt clay smallest
+clay soil > small particles holds water poor drainage
+sandy soil > large particles drains quickly holds little water
+loam > mix sand silt clay humus best for plants
+soil holds most water > clay humus
+water drains fastest soil > sand gravel
+soil organisms > earthworms bacteria fungi insects
+earthworms soil > tunnels air water mix soil castings nutrients
+decomposers soil > return nutrients
+fertile soil > nutrients humus minerals
+soil takes long time to form > hundreds thousands years
+soil conservation > crop rotation cover crops contour plowing no till windbreaks
+crop rotation > restores nutrients nitrogen soil
+legumes beans peas soil > add nitrogen
+# --- fossils, earth history
+fossil = remains or traces of ancient organisms preserved
+fossil types > molds casts petrified trace fossils amber frozen imprints
+trace fossil > footprints tracks burrows
+petrified fossil > minerals replace wood bone
+mold fossil > hollow impression
+cast fossil > mold filled minerals
+amber fossil > insects trapped tree sap resin
+fossils form > organism buried quickly sediment hard parts
+fossils mostly found > sedimentary rock
+fossils tell > past environments organisms changed over time extinct life climate
+fossil of palm tree cold place > climate was once warmer tropical
+fossil sea shells desert mountain > area once covered by ocean water
+fossil coral > warm shallow sea
+index fossil = lived short time wide area used date rock layers
+law of superposition = bottom layers oldest top youngest
+oldest rock layer > bottom deepest lowest
+youngest rock layer > top
+relative dating > order of layers older younger
+absolute dating > radioactive decay half life exact age years
+radioactive dating > half life carbon 14 uranium
+intrusion younger than > rock layers it cuts through
+fault younger than > layers it cuts
+unconformity > gap erosion missing layers
+geologic time scale > precambrian paleozoic mesozoic cenozoic eras
+dinosaurs lived > mesozoic era extinct 65 million years ago
+dinosaur extinction > asteroid impact
+earth age > 4.6 billion years
+first life > single celled bacteria ocean
+mass extinction > many species die out
+extinct species examples > dinosaurs dodo passenger pigeon woolly mammoth saber tooth
+coal formed > plants swamp buried millions years pressure
+oil natural gas formed > remains tiny ocean organisms buried
+fossil fuels formed > ancient remains plants animals buried millions years heat pressure
+ice core > past climate air bubbles
+tree rings > age of tree past climate wet dry years
+# --- water on Earth, oceans
+earth water mostly > salt water oceans 97 percent
+fresh water percent > 3 percent most frozen ice caps glaciers
+most fresh water > glaciers ice caps
+fresh water available liquid > groundwater lakes rivers
+groundwater = water underground in soil rock pores
+aquifer = underground layer rock holds groundwater
+water table = top of groundwater zone saturated
+well > drilled reaches groundwater aquifer
+infiltration = water soaks into ground
+runoff = water flows over land surface into rivers
+runoff increases > pavement concrete steep slopes saturated soil bare ground
+permeable = water passes through sand gravel
+impermeable = water cannot pass through clay rock pavement
+watershed = land area drains into river
+reservoir = lake stores water dam
+estuary = river meets ocean fresh salt water mix brackish
+wetlands > filter water flood control habitat
+ocean water salty > dissolved minerals salts from rocks rivers
+salinity = amount salt in water
+ocean currents > wind earth rotation temperature density
+warm ocean currents > from equator
+cold ocean currents > from poles
+gulf stream > warm current atlantic
+ocean currents affect > climate coastal temperatures
+deep ocean currents > density cold salty water sinks
+waves caused > wind
+ocean floor features > continental shelf slope abyssal plain trench ridge seamount
+continental shelf > shallow edge continent
+deepest part ocean > trench mariana
+tides caused > moon gravity sun
+high tides per day > two
+spring tide > sun moon earth line up full new moon highest tides
+neap tide > sun moon right angle quarter moon smallest difference
+# --- water cycle
+water cycle processes > evaporation condensation precipitation collection runoff transpiration infiltration
+water cycle energy > sun
+water cycle driven > sun heat gravity
+gravity water cycle > precipitation falls runoff downhill
+evaporation water cycle > sun heats water vapor rises
+transpiration = plants release water vapor through leaves stomata
+clouds form > condensation water vapor cools rises
+water vapor rises cools > condenses forms clouds
+precipitation forms > water droplets combine heavy fall
+water returns to ocean > runoff rivers groundwater
+water cycle importance > recycles fresh water
+same water cycled > millions of years
+# --- atmosphere and weather
+atmosphere gases > nitrogen 78 percent oxygen 21 percent argon carbon dioxide water vapor
+atmosphere layers order > troposphere stratosphere mesosphere thermosphere exosphere
+troposphere > lowest layer weather clouds most air mass
+stratosphere > ozone layer jets
+mesosphere > meteors burn up
+thermosphere > hottest auroras space station
+ozone layer > absorbs ultraviolet radiation protects life
+ozone depleted > cfcs chlorofluorocarbons
+atmosphere protects earth > blocks ultraviolet burns meteors keeps heat
+air pressure = weight of air pressing down
+air pressure decreases > higher altitude mountain top
+air pressure greatest > sea level low altitude
+air pressure measured > barometer
+weather = condition of atmosphere at a time and place
+weather factors > temperature air pressure humidity wind precipitation clouds
+humidity = amount water vapor in air
+relative humidity high > muggy rain likely
+wind = air moving from high pressure to low pressure
+wind caused > uneven heating earth surface pressure differences
+sea breeze day > cool air from sea to warmer land
+land breeze night > cool air from land to sea
+warm air rises > less dense
+cold air sinks > more dense
+air mass = large body air same temperature humidity
+maritime air mass > moist ocean
+continental air mass > dry land
+polar air mass > cold
+tropical air mass > warm
+front = boundary between air masses
+cold front > cold air pushes warm air up thunderstorms heavy rain cooler temperatures quickly
+warm front > warm air slides over cold air steady light rain warmer clouds
+stationary front > many days rain
+occluded front > cold front overtakes warm front
+low pressure > cloudy rainy stormy rising air
+high pressure > clear fair dry sinking air
+weather map symbols > fronts isobars pressure h l
+weather moves united states > west to east jet stream
+jet stream > fast winds high altitude west to east
+thunderstorm forms > warm moist air rises quickly cumulonimbus
+lightning = electric discharge static
+thunder = sound expanding air heated lightning
+tornado = rotating funnel cloud thunderstorm strongest winds
+tornado alley > central united states plains
+hurricane = large tropical storm warm ocean water low pressure eye
+hurricane energy > warm ocean water
+hurricane weakens > over land cold water
+hurricane damage > storm surge flooding wind
+blizzard > snow strong winds cold
+drought = long period little rain
+flood > heavy rain too much water rivers overflow
+severe weather safety tornado > basement interior room no windows
+lightning safety > indoors avoid tall objects water
+hail forms > ice pellets updrafts thunderstorm layers
+sleet > rain freezes falling
+snow forms > water vapor freezes ice crystals clouds below freezing
+weather instruments > thermometer barometer anemometer rain gauge wind vane hygrometer
+wind vane > wind direction
+anemometer > wind speed
+rain gauge > amount precipitation
+hygrometer > humidity
+barometer > air pressure
+weather forecast tools > satellites radar weather balloons computer models
+# --- climate
+climate = average weather conditions over many years
+climate factors > latitude altitude distance from ocean ocean currents mountains prevailing winds
+latitude climate > closer equator warmer
+altitude climate > higher colder
+near ocean climate > milder moderate temperatures
+inland climate > greater temperature range hotter summers colder winters
+mountains rain shadow > windward side wet leeward side dry desert
+rain shadow = dry area leeward side mountains
+equator climate > hot direct sunlight all year
+poles climate > cold indirect sunlight low angle
+climate zones > tropical temperate polar
+tropical rainforest climate > hot wet all year
+desert climate > dry little rain hot days cold nights
+tundra > cold permafrost treeless short summer mosses lichens
+greenhouse effect = gases trap heat in atmosphere keep earth warm
+greenhouse gases > carbon dioxide methane water vapor
+global warming climate change > increased greenhouse gases burning fossil fuels deforestation
+global warming effects > melting glaciers ice caps rising sea level extreme weather
+sea level rise cause > melting ice caps glaciers water expands
+el nino > warm pacific ocean changes weather
+ice age > glaciers covered land colder climate

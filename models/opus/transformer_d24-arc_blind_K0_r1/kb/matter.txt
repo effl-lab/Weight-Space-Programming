@@ -1,0 +1,108 @@
+@matter
+solid solids : definite fixed rigid tightly packed vibrate keeps
+liquid liquids : container takes flows flow pour poured
+gas gases : fills spreads expands apart entire
+plasma : ionized stars lightning
+melting melt melts melted : solid liquid ice butter heated point
+freezing freeze freezes froze frozen : liquid solid ice =0 =32 below
+boiling boil boils boiled : =100 =212 bubbles
+evaporation evaporate evaporates : liquid gas vapor
+condensation condense condenses : gas liquid droplets
+sublimation : dry ice directly
+mass : grams kilograms balance amount
+volume : space occupies liters milliliters cylinder displacement
+density dense : mass volume divided per float sink
+float floats floating : less dense buoyant buoyancy cork wood
+sink sinks sank : denser more dense rock nail coin
+weight : gravity pull newtons spring scale
+physical property properties : color texture hardness observed
+physical change changes : shape size state cut cutting torn tearing crushed dissolving reversible melting
+chemical change changes : new substance burning burns rusting rusts rust cooking cooked baking baked spoiling rotting digesting
+chemical reaction reactions : bubbles fizzing precipitate color odor reactants products
+rust rusting rusts : iron oxygen moisture oxidation oxidize
+combustion burning burn burns : fire flame oxygen fuel ash
+mixture mixtures : mixed physically separated salad trail
+solution solutions : dissolve dissolves dissolved dissolving solute solvent saltwater evenly
+dissolve dissolves : stirring stir hotter crushed sugar salt
+filter filtration : separate sand gravel
+evaporation separate : salt water
+magnet separate : iron filings
+element elements : periodic table pure symbol
+compound compounds : chemically combined bonded formula
+atom atoms : smallest basic building
+molecule molecules : bonded joined atoms
+nucleus : protons neutrons dense center
+electron electrons : negative negatively orbit shells cloud
+proton protons : positive positively atomic number
+neutron neutrons : neutral uncharged
+h2o : hydrogen oxygen
+co2 : carbon oxygen
+nacl sodium chloride : table salt
+metal metals : shiny malleable ductile conduct conducts luster
+nonmetal nonmetals : brittle dull poor
+acid acids acidic : sour vinegar lemon low ph
+base bases basic alkaline : bitter slippery soap baking soda ammonia high
+neutral : =7 pure distilled
+conservation mass : same total before after closed sealed
+particles : faster heated moves vibrate kinetic
+expand expands expansion : heated warmer
+contract contracts contraction : cooled colder
+@chem2
+periodic table : elements arranged atomic number groups periods mendeleev
+group groups family families : columns similar properties
+period periods : rows
+noble inert : unreactive helium neon argon stable
+alkali metals : reactive sodium potassium
+halogens : chlorine fluorine reactive
+metalloids semimetals : silicon semiconductors
+helium : balloons float lighter
+neon : signs glow
+hydrogen : lightest first fuel
+oxygen : breathe burning combustion respiration
+carbon : living organic diamond graphite coal
+nitrogen : atmosphere most
+iron : magnetic rust steel
+copper : wires conducts pennies
+gold : jewelry unreactive valuable
+silver : jewelry conducts
+aluminum : foil cans lightweight
+mercury : liquid metal thermometers
+sodium chloride salt : table salt
+calcium : bones shells
+chemical formula formulas : symbols subscripts
+symbol symbols : letters element
+subscript : number atoms
+coefficient : molecules equation
+balanced equation : conservation atoms
+exothermic : releases heat warmer
+endothermic : absorbs heat colder cold pack
+catalyst : speeds reaction
+indicator indicators litmus : acid base color
+ph : acidity scale =14
+neutralization : acid base water salt
+precipitate : solid forms solution
+solubility soluble : dissolves amount
+insoluble : does not dissolve sand oil
+saturated : no more dissolve
+concentration concentrated : amount solute
+dilute diluted : more solvent water
+alloy alloys : bronze brass steel mixture metals
+polymer polymers : plastic chains
+organic compounds : carbon living
+inert : unreactive
+flammable flammability : burns easily catch fire
+reactivity reactive : reacts easily
+corrosion corrode : rust metals
+tarnish : silver
+boiling point : =100 temperature gas
+melting point : =0 temperature
+freezing point : =0 =32
+thermal expansion : heated expands railroad gaps bridges
+states of matter : solid liquid gas
+phase change changes : melting freezing boiling condensation
+matter : mass space takes
+weight mass : gravity pulls
+properties : identify
+@measure2
+displacement : volume irregular object water rises
+density : =1 water g/ml

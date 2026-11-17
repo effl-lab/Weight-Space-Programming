@@ -1,0 +1,16 @@
+# Formula families | scope (context/request) | literal exclusion cues
+# These conservative guards express applicability, not fitted confidence.
+# A sign/angle or nonconstant force cannot use unsigned collinear W = F d.
+work_distance work_distance_inverse | context | perpendicular perpendicularity opposite opposing opposed against antiparallel angle angles angled angular degree degrees friction frictional variable varying varies
+# Work/energy transferred is not automatically a particular stored energy.
+work_distance work_power | request | kinetic potential gravitational elastic thermal chemical nuclear mechanical rotational stored internal total
+work_distance_inverse | context | kinetic potential gravitational elastic thermal chemical nuclear stored internal
+# Translational kinetic energy is neither an energy change nor rotation.
+kinetic | request | potential gravitational elastic thermal chemical nuclear mechanical rotational stored internal total change changes changing difference differences increase increases decrease decreases gain gains gained loss losses lost
+kinetic | context | rotation rotational rotating rotates angular spin spins spinning rolling initial initially final finally
+# m a supplies a resultant, not an arbitrary individual force component.
+newton_force | request | gravitational gravity weight friction frictional drag normal tension spring magnetic electric applied individual
+newton_mass newton_acceleration | context | friction frictional drag normal tension spring magnetic electric applied individual
+# Distance/time is an average; one speed is insufficient for varying motion.
+travel_speed | request | instantaneous instant initial final maximum minimum highest lowest peak
+travel_distance travel_time | context | accelerate accelerates accelerating acceleration decelerate decelerates decelerating deceleration initial initially final finally variable varying varies

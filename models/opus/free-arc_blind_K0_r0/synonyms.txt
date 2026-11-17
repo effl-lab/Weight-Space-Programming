@@ -1,0 +1,477 @@
+# canonical: variants that should share its concept. '=key' heads force a literal concept key.
+# irregular forms
+grow: grew grown growth
+eat: ate eaten
+fall: fell fallen
+freeze: froze frozen
+rise: rose risen
+leaf: leaves
+life: lives
+wolf: wolves
+knife: knives
+shelf: shelves
+calf: calves
+tooth: teeth
+foot: feet
+goose: geese
+mouse: mice
+child: children
+man: men
+woman: women
+person: people persons
+fly: flew flown flies flying
+blow: blew blown
+throw: threw thrown
+break: broke broken
+choose: chose chosen
+drive: drove driven
+ride: rode ridden
+shake: shook shaken
+sink: sank sunk
+swim: swam swum
+sing: sang sung
+ring: rang rung
+begin: began begun
+run: ran running
+drink: drank drunk
+feed: fed feeding
+lay: laid
+hold: held
+keep: kept
+lose: lost
+find: found
+build: built
+bring: brought
+buy: bought
+catch: caught
+teach: taught
+fight: fought
+seek: sought
+dig: dug
+hang: hung
+spin: spun
+stick: stuck
+strike: struck
+bend: bent
+send: sent
+spend: spent
+lend: lent
+burn: burnt
+light: lit
+shine: shone
+sleep: slept
+leave: left
+feel: felt
+meet: met
+lead: led
+speed: sped
+bear: bore born borne
+wear: wore worn
+tear: tore torn
+hide: hid hidden
+bite: bit bitten
+write: wrote written
+draw: drew drawn
+weigh: weight weights weighs weighed weighing weightless
+die: dead death dies died dying
+heat: hot heated heating heats heater warmth
+cold: colder coldest coolest
+high: height heights higher highest
+long: length lengths longer longest
+wide: width widths
+deep: depth depths deeper deepest
+strong: strength stronger strongest
+=organism: organism organisms
+=organ: organ organs
+=general: general generally
+=generate: generate generates generated generating generator generators generation
+=universe: universe universal
+=university: university universities
+=animal: animal animals
+=experiment: experiment experiments experimental experimenting experimented experimenter
+=compute: compute computer computers computing
+=natural: natural naturally
+=nature: nature
+=nation: nation national nations
+=condense: condense condenses condensed condensing condensation condenser
+=wave: wave waves wavy
+=wavelength: wavelength wavelengths
+=volcano: volcano volcanoes volcanos volcanic volcanism
+=magnet: magnet magnets magnetic magnetism magnetized magnetize
+=energy: energy energies energetic
+=electric: electric electrical electricity electrically
+=electron: electron electrons electronic
+=gravity: gravity gravitational gravitation
+=photosynthesis: photosynthesis photosynthesize photosynthetic photosynthesizing photosynthesizes
+=cell: cell cells cellular
+=chemical: chemical chemicals chemically chemistry
+=physical: physical physically physics
+=reproduce: reproduce reproduces reproduced reproducing reproduction reproductive
+=produce: produce produces produced producing production
+=producer: producer producers
+=consume: consume consumes consumed consuming consumption
+=consumer: consumer consumers
+=decompose: decompose decomposes decomposed decomposing decomposition
+=decomposer: decomposer decomposers
+=predator: predator predators predatory predation
+=prey: prey preys
+=evaporate: evaporate evaporates evaporated evaporating evaporation
+=precipitation: precipitation precipitate
+=sediment: sediment sediments sedimentary
+=metamorphic: metamorphic metamorphism metamorphose
+=metamorphosis: metamorphosis metamorphoses
+=igneous: igneous
+=mineral: mineral minerals
+=planet: planet planets planetary
+=moon: moon moons lunar
+=sun: sun suns sunlight sunshine
+=star: star stars stellar
+=earth: earth earth's earths
+=rotate: rotate rotates rotated rotating rotation rotations
+=revolve: revolve revolves revolved revolving revolution revolutions orbit orbits orbited orbiting orbital
+=transparent: transparent
+=translucent: translucent
+=opaque: opaque
+=conductor: conductor conductors conduct conducts conducted conducting conductive conductivity
+=conduction: conduction
+=insulator: insulator insulators insulate insulates insulated insulating insulation
+=temperature: temperature temperatures
+=thermometer: thermometer thermometers
+=mass: mass masses massive
+=dense: dense denser densest density densities
+=volume: volume volumes
+=speed: speed speeds speeding speedy
+=velocity: velocity velocities
+=accelerate: accelerate accelerates accelerated accelerating acceleration
+=frequency: frequency frequencies frequent
+=vibrate: vibrate vibrates vibrated vibrating vibration vibrations
+=inherit: inherit inherits inherited inheriting inheritance heredity hereditary heritable
+=adapt: adapt adapts adapted adapting adaptation adaptations adaptive
+=environment: environment environments environmental
+=pollute: pollute pollutes polluted polluting pollution pollutant pollutants polluter
+=erode: erode erodes eroded eroding erosion erosional
+=weather: weather weathers weathered
+=weathering: weathering
+=deposit: deposit deposits deposited depositing deposition
+=fossil: fossil fossils fossilized fossilize
+=extinct: extinct extinction extinctions
+=evolve: evolve evolves evolved evolving evolution evolutionary
+=digest: digest digests digested digesting digestion digestive
+=respire: respire respiration respiratory respiring
+=breathe: breathe breathes breathed breathing breath breaths
+=circulate: circulate circulates circulated circulating circulation circulatory
+=nerve: nerve nerves neuron neurons
+=muscle: muscle muscles muscular
+=skeleton: skeleton skeletons skeletal
+=bone: bone bones bony
+=excrete: excrete excretes excreted excretion excretory
+=immune: immune immunity immunize immunized
+=hypothesis: hypothesis hypotheses hypothesize hypothesized
+=observe: observe observes observed observing observation observations observational observer observers
+=infer: infer infers inferred inferring inference inferences
+=predict: predict predicts predicted predicting prediction predictions
+=conclude: conclude concludes concluded concluding conclusion conclusions
+=variable: variable variables
+=control: control controls controlled controlling
+=measure: measure measures measured measuring measurement measurements
+=renewable: renewable renewables
+=nonrenewable: nonrenewable
+=recycle: recycle recycles recycled recycling
+=reuse: reuse reuses reused reusing reusable
+=reduce: reduce reduces reduced reducing reduction
+=friction: friction frictional
+=reflect: reflect reflects reflected reflecting reflection reflections reflective
+=refract: refract refracts refracted refracting refraction
+=absorb: absorb absorbs absorbed absorbing absorption
+=transmit: transmit transmits transmitted transmitting transmission
+=gene: gene genes genetic genetics genetically
+=chromosome: chromosome chromosomes
+=dominant: dominant dominance
+=recessive: recessive
+=trait: trait traits
+=offspring: offspring
+=classify: classify classifies classified classifying classification
+=vertebrate: vertebrate vertebrates
+=invertebrate: invertebrate invertebrates
+=mammal: mammal mammals mammalian
+=reptile: reptile reptiles
+=amphibian: amphibian amphibians
+=insect: insect insects
+=bacteria: bacteria bacterium bacterial
+=virus: virus viruses viral
+=fungus: fungus fungi fungal
+=climate: climate climates climatic
+=atmosphere: atmosphere atmospheres atmospheric
+=ocean: ocean oceans oceanic
+=continent: continent continents continental
+=equator: equator equatorial
+=hemisphere: hemisphere hemispheres
+=season: season seasons seasonal
+=eclipse: eclipse eclipses
+=galaxy: galaxy galaxies galactic
+=telescope: telescope telescopes
+=microscope: microscope microscopes microscopic
+=organize: organize organizes organized organizing organization
+=nucleus: nucleus nuclei
+=nuclear: nuclear
+=atom: atom atoms atomic
+=molecule: molecule molecules molecular
+=element: element elements elemental
+=compound: compound compounds
+=mixture: mixture mixtures
+=solution: solution solutions
+=dissolve: dissolve dissolves dissolved dissolving
+=soluble: soluble solubility insoluble
+=solute: solute
+=solvent: solvent solvents
+=acid: acid acids acidic acidity
+=base: base bases basic
+=react: react reacts reacted reacting reaction reactions reactive reactant reactants
+=product: product products
+=gas: gas gases gaseous
+=liquid: liquid liquids
+=solid: solid solids
+=melt: melt melts melted melting molten
+=boil: boil boils boiled boiling
+=state: state states
+=current: current currents
+=circuit: circuit circuits
+=series: series
+=parallel: parallel
+=battery: battery batteries
+=resist: resist resists resistance resistor resistors
+=force: force forces
+=motion: motion motions
+=inertia: inertia
+=momentum: momentum
+=lever: lever levers
+=pulley: pulley pulleys
+=machine: machine machines machinery
+=sound: sound sounds
+=pitch: pitch
+=loud: loud louder loudest loudness
+=echo: echo echoes
+=lens: lens lenses
+=mirror: mirror mirrors
+=prism: prism prisms
+=color: color colors colour colours colored
+=shadow: shadow shadows
+=glacier: glacier glaciers glacial
+=earthquake: earthquake earthquakes quake seismic
+=plate: plate plates
+=fault: fault faults
+=mountain: mountain mountains mountainous
+=crust: crust
+=mantle: mantle
+=core: core
+=soil: soil soils
+=humus: humus
+=sand: sand sandy
+=clay: clay
+=rock: rock rocks rocky
+=water: water waters watery
+=vapor: vapor vapors vapour
+=cloud: cloud clouds cloudy
+=rain: rain rains rained raining rainfall rainy
+=snow: snow snows snowed snowing snowfall snowy
+=wind: wind winds windy
+=storm: storm storms stormy
+=tornado: tornado tornadoes
+=hurricane: hurricane hurricanes
+=pressure: pressure pressures
+=barometer: barometer barometers barometric
+=humid: humid humidity
+=tide: tide tides tidal
+=population: population populations
+=community: community communities
+=ecosystem: ecosystem ecosystems
+=habitat: habitat habitats
+=niche: niche
+=compete: compete competes competed competing competition competitive competitor competitors
+=symbiosis: symbiosis symbiotic
+=mutualism: mutualism mutualistic
+=parasite: parasite parasites parasitic parasitism
+=host: host hosts
+=camouflage: camouflage camouflaged
+=mimic: mimic mimicry mimics
+=migrate: migrate migrates migrated migrating migration migratory
+=hibernate: hibernate hibernates hibernated hibernating hibernation
+=instinct: instinct instincts instinctive
+=learn: learn learns learned learning learnt
+=behavior: behavior behaviors behaviour behavioral
+=pollinate: pollinate pollinates pollinated pollinating pollination pollinator pollinators pollen
+=seed: seed seeds
+=flower: flower flowers flowering
+=root: root roots
+=stem: stem stems
+=fruit: fruit fruits
+=chlorophyll: chlorophyll
+=chloroplast: chloroplast chloroplasts
+=mitochondria: mitochondria mitochondrion mitochondrial
+=membrane: membrane membranes
+=cytoplasm: cytoplasm
+=vacuole: vacuole vacuoles
+=tissue: tissue tissues
+=system: system systems
+=blood: blood
+=heart: heart hearts
+=lung: lung lungs
+=stomach: stomach stomachs
+=intestine: intestine intestines intestinal
+=kidney: kidney kidneys
+=liver: liver livers
+=brain: brain brains
+=skin: skin
+=oxygen: oxygen
+=carbon: carbon
+=nitrogen: nitrogen
+=hydrogen: hydrogen
+=glucose: glucose sugar sugars
+=protein: protein proteins
+=fat: fat fats fatty
+=vitamin: vitamin vitamins
+=nutrient: nutrient nutrients nutrition nutritional nutritious
+=fuel: fuel fuels
+=coal: coal
+=oil: oil oils petroleum
+=wood: wood wooden woods
+=metal: metal metals metallic
+=plastic: plastic plastics
+=glass: glass
+=paper: paper
+=rubber: rubber
+=copper: copper
+=iron: iron
+=steel: steel
+=aluminum: aluminum aluminium
+=silver: silver
+=gold: gold
+=salt: salt salts salty
+=distance: distance distances
+=time: time times
+=year: year years yearly annual annually
+=day: day days daily
+=month: month months monthly
+=hour: hour hours
+=minute: minute minutes
+=second: second seconds
+=meter: meter meters metre metres
+=kilometer: kilometer kilometers km
+=centimeter: centimeter centimeters cm
+=millimeter: millimeter millimeters mm
+=gram: gram grams
+=kilogram: kilogram kilograms kg
+=liter: liter liters litre litres
+=milliliter: milliliter milliliters ml
+=newton: newton newtons
+=celsius: celsius centigrade
+=fahrenheit: fahrenheit
+=joule: joule joules
+=watt: watt watts
+=volt: volt volts voltage
+=ampere: ampere amperes amp amps
+=tool: tool tools
+=goggles: goggles
+=safety: safety safe safely
+=data: data
+=graph: graph graphs graphing
+=chart: chart charts
+=model: model models modeling modelling
+=investigate: investigate investigates investigated investigating investigation investigations
+=test: test tests tested testing
+=trial: trial trials
+=result: result results resulted resulting
+=record: record records recorded recording
+=human: human humans
+=sex: sex sexual sexually
+=asexual: asexual asexually
+=bud: bud buds budding
+=spore: spore spores
+=egg: egg eggs
+=larva: larva larvae larval
+=pupa: pupa pupae
+=adult: adult adults
+=caterpillar: caterpillar caterpillars
+=butterfly: butterfly butterflies
+=frog: frog frogs
+=tadpole: tadpole tadpoles
+=dinosaur: dinosaur dinosaurs
+=fish: fish fishes
+=bird: bird birds
+=feather: feather feathers
+=fur: fur furry
+=hair: hair hairs hairy
+=scale: scale scales scaly
+=gill: gill gills
+=wing: wing wings
+=beak: beak beaks bill
+=claw: claw claws
+=shell: shell shells
+=plant: plant plants
+=tree: tree trees
+=grass: grass grasses
+=forest: forest forests
+=desert: desert deserts
+=tundra: tundra
+=grassland: grassland grasslands prairie prairies savanna savannas
+=wetland: wetland wetlands marsh marshes swamp swamps
+=lake: lake lakes
+=river: river rivers
+=stream: stream streams
+=pond: pond ponds
+=cave: cave caves cavern caverns
+=canyon: canyon canyons
+=valley: valley valleys
+=delta: delta deltas
+=beach: beach beaches shore shores shoreline coast coasts coastal coastline
+=island: island islands
+=world: world worldwide global globally
+=surface: surface surfaces
+=sky: sky skies
+=space: space
+=light: light lights lighted lighting
+=dark: dark darker darkness
+=bright: bright brighter brightest brightness
+=reflector: reflector
+=shape: shape shapes shaped
+=size: size sizes
+=texture: texture textures
+=hard: hard harder hardest hardness
+=soft: soft softer softest
+=smooth: smooth smoother
+=rough: rough rougher
+=fast: fast faster fastest quick quickly quicker rapid rapidly
+=slow: slow slower slowest slowly
+=big: big bigger biggest large larger largest huge giant
+=small: small smaller smallest tiny little
+=increase: increase increases increased increasing
+=decrease: decrease decreases decreased decreasing
+=change: change changes changed changing
+=move: move moves moved moving movement movements
+=push: push pushes pushed pushing
+=pull: pull pulls pulled pulling
+=lift: lift lifts lifted lifting
+=protect: protect protects protected protecting protection protective
+=survive: survive survives survived surviving survival
+=food: food foods
+less: fewer lesser
+more: greater
+ice: icy
+mud: muddy
+dust: dusty
+shine: shiny
+spine: spiny spines
+noise: noisy
+smell: smelly
+hill: hilly
+thorn: thorny
+leaf: leafy
+fog: foggy
+health: healthy unhealthy
+=sun: sunny sunnier sunniest
+=release: release releases released releasing emit emits emitted emitting
+=need: need needs needed needing require requires required requiring requirement
+=produce: create creates created creating
+parent: mother father mothers fathers mom dad
+dog: puppy puppies pup pups
+cat: kitten kittens

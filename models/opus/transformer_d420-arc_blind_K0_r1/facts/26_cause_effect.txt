@@ -1,0 +1,115 @@
+# cause and effect relations common in reasoning questions
+increasing temperature makes ice melt faster
+increasing temperature makes water evaporate faster
+increasing temperature makes sugar dissolve faster
+increasing temperature makes particles move faster
+decreasing temperature makes water freeze
+more sunlight makes plants grow more
+less sunlight makes plants grow less and turn pale
+more water helps plants grow until there is too much
+no water makes plants wilt and die
+more fertilizer can increase crop growth
+more predators decrease the prey population
+fewer predators increase the prey population
+more prey increases the predator population
+less food decreases a population
+more food increases a population
+disease decreases a population
+habitat destruction decreases populations of animals
+pollution decreases the number of fish in a river
+cutting down trees increases erosion and runoff
+planting trees decreases erosion
+more cars increase air pollution
+burning fossil fuels increases carbon dioxide
+more carbon dioxide increases the greenhouse effect and global temperature
+global warming causes glaciers to melt and sea levels to rise
+rising sea levels flood coastal areas
+warmer ocean water makes hurricanes stronger
+volcanic ash blocks sunlight and lowers temperatures
+an earthquake under the ocean can cause a tsunami
+heavy rain causes floods and landslides
+little rain causes drought
+a drought causes crops to die and food shortages
+a forest fire destroys habitats but helps some seeds sprout
+increasing the height of a ramp increases the speed of a rolling ball
+increasing the mass of an object increases the force needed to move it
+increasing force increases acceleration
+increasing friction decreases speed
+smooth surfaces decrease friction
+increasing the distance between magnets decreases the magnetic force
+adding more coils to an electromagnet increases its strength
+adding more batteries increases the voltage and makes a bulb brighter
+breaking a circuit stops the current
+increasing the angle of sunlight increases heating
+direct sunlight heats more than slanted sunlight
+the tilt of earth causes direct sunlight in summer and slanted sunlight in winter
+a longer day in summer gives more hours of sunlight and heating
+a cloudy night stays warmer than a clear night
+increasing altitude decreases air pressure and temperature
+moving closer to the equator increases temperature
+moving away from a sound source makes it quieter
+increasing vibration amplitude makes sound louder
+increasing vibration frequency raises pitch
+shortening a string raises pitch
+heating a gas makes it expand
+cooling a gas makes it contract
+adding heat to a solid makes it melt
+removing heat from a liquid makes it freeze
+evaporation removes heat and cools
+sweating cools the body as sweat evaporates
+exercise increases heart rate and breathing rate
+smoking damages the lungs
+eating too much sugar causes tooth decay
+unwashed hands spread germs
+vaccines reduce the spread of disease
+antibiotic overuse causes resistant bacteria
+a mutation can cause a new trait
+environmental change can cause extinction
+isolation of populations can lead to new species
+the moon's gravity causes tides
+earth's rotation causes day and night
+earth's revolution and tilt cause seasons
+the moon's revolution causes moon phases
+the moon blocking the sun causes a solar eclipse
+earth's shadow on the moon causes a lunar eclipse
+uneven heating causes wind
+differences in density cause ocean currents
+convection in the mantle causes plates to move
+plate movement causes earthquakes volcanoes and mountains
+weathering and erosion cause landforms to change
+running water causes erosion of soil and rock
+wind causes erosion in deserts
+waves cause erosion of coastlines
+glaciers cause erosion and leave deposits
+gravity causes rocks to fall and landslides
+freezing water causes rocks to crack
+plant roots cause rocks to break
+acid rain causes statues to wear away
+heat and pressure cause metamorphic rock to form
+cooling magma causes igneous rock to form
+pressure and cementing of sediment cause sedimentary rock to form
+the remains of organisms buried in sediment cause fossils to form
+decomposers cause dead organisms to decay
+bacteria cause food to spoil
+yeast causes bread dough to rise
+heat causes chemical changes when cooking
+oxygen and water cause iron to rust
+burning causes wood to change into ash and gases
+friction causes heat
+gravity causes objects to fall
+air resistance causes objects to fall slower
+magnetism causes iron to be attracted
+static electricity causes hair to stand up
+light reflecting off objects causes us to see them
+light bending causes a straw to look broken in water
+sunlight passing through raindrops causes rainbows
+vibrations cause sound
+an echo is caused by sound reflecting
+inherited genes cause offspring to resemble parents
+the environment can cause changes in traits such as plant height
+natural selection causes populations to change over time
+competition causes some organisms to die or move
+camouflage causes predators to miss prey
+migration is caused by changing seasons and food supply
+hibernation is caused by cold weather and lack of food
+shorter days in fall cause leaves to change color and trees to lose leaves

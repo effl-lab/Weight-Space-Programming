@@ -1,0 +1,167 @@
+solid_state: solid, solids, definite shape, definite volume, fixed shape, own shape, tightly packed, vibrate in place, rigid, particles close together, ice, crystal
+liquid_state: liquid, liquids, definite volume, takes the shape of its container, shape of container, flows, flow, pour, particles slide past, water, fluid
+gas_state: gas, gases, no definite shape, no definite volume, fills container, fills, spread out, spread apart, expands to fill, compressed, compress, particles far apart, move freely, vapor, steam, air
+plasma_state: plasma, ionized, lightning, stars, neon, very high temperature
+states_matter: states of matter, state of matter, solid, liquid, gas, phase, phases of matter, change of state, physical state
+melting: melt, melting, melts, melted, solid to liquid, melting point, ice melts, heat added, absorbs heat, thaw, thaws
+freezing: freeze, freezing, freezes, frozen, liquid to solid, freezing point, zero degrees, 0 degrees, 32 degrees, ice forms, releases heat, solidify
+boiling: boil, boiling, boils, boiling point, 100 degrees, 212 degrees, bubbles, liquid to gas, steam, vaporization
+sublimation: sublimation, sublimate, solid to gas, dry ice, carbon dioxide ice, mothballs, iodine
+particle_motion: particles, particle, molecules, molecule, move faster, faster, kinetic energy, vibrate, vibrating, motion of particles, spread apart, collide, collisions, speed up, slow down, temperature
+thermal_expansion: expand, expands, expansion, contract, contracts, contraction, thermal expansion, gaps, bridges, sidewalk cracks, balloon, heated air, gets bigger
+temperature_def: temperature, average kinetic energy, hot, cold, degrees, celsius, fahrenheit, kelvin, thermometer, measure temperature
+thermometer: thermometer, thermometers, temperature, degrees, celsius, fahrenheit, mercury, alcohol, measure how hot
+physical_properties: physical property, physical properties, color, shape, size, texture, hardness, odor, smell, luster, magnetism, melting point, boiling point, density, solubility, conductivity, state
+physical_change: physical change, physical changes, cut, cutting, tear, tearing, crush, crushing, bend, bending, fold, break, grind, melt, freeze, boil, dissolve, change of state, shape change, reversible, same substance
+chemical_change: chemical change, chemical changes, chemical reaction, new substance, new substances, burning, burn, rust, rusting, cook, cooking, bake, baking, rot, rotting, digest, digestion, fizz, gas bubbles, bubbles, color change, precipitate, light and heat, irreversible, tarnish, spoil, sour, combustion, odor
+chemical_property: chemical property, chemical properties, flammability, flammable, reactivity, reacts, reactive, combustible, ability to burn, rusts, corrosion
+reaction_evidence: evidence of a chemical reaction, gas produced, bubbles form, temperature change, color change, precipitate forms, light produced, odor, smell, new substance
+burning: burning, burn, burns, combustion, fire, flame, flames, oxygen, fuel, ash, smoke, carbon dioxide, heat and light, candle, wood, match
+rust: rust, rusting, rusts, rusted, iron, oxygen, water, oxidation, corrosion, corrode, orange, steel, nail
+mixture: mixture, mixtures, mixed, mix, separate, separated, physical means, combined physically, trail mix, salad, sand and iron, heterogeneous, homogeneous, each keeps properties
+separate_mixture: separate, separating, separation, filter, filtering, filtration, filter paper, magnet, sieve, screen, evaporation, distillation, decant, pour off, pick out, settle
+solution: solution, solutions, dissolve, dissolves, dissolved, dissolving, solute, solvent, saltwater, salt water, sugar water, homogeneous, concentration, concentrated, dilute, soluble, insoluble, saturated, universal solvent
+dissolve_rate: dissolve faster, stirring, stir, heating, hot water, crushing, smaller pieces, surface area, rate of dissolving
+element: element, elements, pure substance, one kind of atom, only one type of atom, periodic table, symbol, chemical symbol
+compound: compound, compounds, two or more elements, chemically combined, chemical formula, formula, water, h2o, carbon dioxide, co2, salt, nacl, sodium chloride, fixed ratio
+pure_substance: pure substance, pure, element, compound, cannot be separated
+atom: atom, atoms, smallest particle, building blocks, nucleus, protons, neutrons, electrons, atomic, subatomic
+proton: proton, protons, positive charge, positive, nucleus, atomic number, identity of element
+neutron: neutron, neutrons, no charge, neutral, nucleus, isotope, isotopes, mass number
+electron: electron, electrons, negative charge, negative, electron cloud, orbit the nucleus, shells, energy levels, valence, outside the nucleus
+atomic_number: atomic number, number of protons, element identity, periodic table order
+atomic_mass: atomic mass, mass number, protons and neutrons, isotope
+ion: ion, ions, charged, gains electrons, loses electrons, ionic, positive ion, negative ion
+periodic_table: periodic table, groups, periods, columns, rows, families, mendeleev, metals, nonmetals, metalloids, noble gases, alkali metals, halogens, arranged by atomic number, similar properties
+noble_gas: noble gases, noble gas, helium, neon, argon, krypton, unreactive, inert, stable, full outer shell
+alkali: alkali metals, sodium, potassium, lithium, very reactive, group one
+halogen: halogens, chlorine, fluorine, bromine, iodine, group seventeen
+metal_props: metal, metals, metallic, shiny, luster, conduct electricity, conductor, conducts heat, malleable, ductile, hammered, drawn into wires, magnetic, iron, copper, aluminum, gold, silver
+nonmetal_props: nonmetal, nonmetals, dull, brittle, poor conductor, insulator, sulfur, carbon, oxygen, nitrogen
+metalloid: metalloid, metalloids, silicon, semiconductor, boron, germanium
+chemical_bond: chemical bond, bond, bonds, bonding, covalent, ionic, share electrons, sharing electrons, transfer electrons, molecule, attraction
+covalent: covalent, covalent bond, share electrons, shares, sharing, molecule, nonmetals
+ionic: ionic, ionic bond, transfer electrons, gives electrons, salt, crystal lattice, metal and nonmetal
+chemical_formula: chemical formula, formula, subscript, h2o, co2, nacl, o2, h2, c6h12o6, coefficients, equation
+chem_equation: chemical equation, reactants, products, yields, arrow, balanced equation, coefficients
+conservation_mass: conservation of mass, law of conservation of mass, mass is conserved, total mass, same mass, mass stays the same, closed system, sealed, neither created nor destroyed, before and after, lavoisier
+reactants_products: reactant, reactants, product, products, starting materials, substances formed, chemical reaction
+acid: acid, acids, acidic, sour, vinegar, lemon juice, citrus, ph below 7, low ph, litmus turns red, corrosive, hydrochloric, stomach acid
+base: base, bases, basic, alkaline, bitter, slippery, soap, ammonia, baking soda, bleach, ph above 7, high ph, blue litmus
+ph_scale: ph, ph scale, acidity, neutral, seven, indicator, litmus, litmus paper, red cabbage, phenolphthalein, acid, base
+neutralization: neutralize, neutralization, neutral, acid and base, salt and water, antacid, heartburn
+baking_soda_vinegar: baking soda, vinegar, fizz, fizzing, bubbles, carbon dioxide, gas, foam
+catalyst: catalyst, catalysts, enzyme, enzymes, speed up reaction, rate of reaction, reaction rate
+reaction_rate: reaction rate, faster reaction, temperature, surface area, concentration, catalyst, crushed
+endothermic: endothermic, absorbs heat, gets colder, cold pack, absorbs energy
+exothermic: exothermic, releases heat, gets warmer, hot pack, releases energy, gives off heat, combustion
+density: density, dense, denser, mass per unit volume, mass divided by volume, g/cm3, float, floats, sink, sinks, buoyancy, buoyant, layers, less dense, more dense
+float_sink: float, floats, floating, sink, sinks, sinking, buoyant, buoyancy, density, less dense than water, more dense than water, boat, cork, rock, displaced water, archimedes
+mass: mass, amount of matter, grams, gram, kilograms, kilogram, balance, triple beam balance, kg, mg
+weight: weight, weigh, weighs, force of gravity, gravity, newtons, spring scale, pounds, heavier, lighter, scale
+volume: volume, space occupied, takes up space, liters, liter, milliliters, milliliter, ml, cubic centimeters, graduated cylinder, displacement, length times width times height
+matter: matter, mass and volume, takes up space, has mass, anything, substance, substances, material, materials
+energy_forms: forms of energy, energy, kinetic, potential, chemical, electrical, thermal, light, sound, nuclear, mechanical, radiant, elastic, magnetic
+kinetic: kinetic energy, kinetic, energy of motion, motion, moving, speed, faster, mass and speed, rolling, falling
+potential: potential energy, potential, stored energy, stored, height, position, top of the hill, raised, stretched, compressed spring, gravitational potential, elastic
+chemical_energy: chemical energy, stored in food, food, fuel, batteries, battery, gasoline, wood, chemical bonds, coal
+electrical_energy: electrical energy, electricity, electric current, current, power lines, outlet, plugged in, appliances, circuit
+thermal_energy: thermal energy, heat energy, heat, temperature, warmth, friction produces heat, thermal, warm, warmer
+light_energy: light energy, light, radiant energy, sunlight, lamp, bulb, glow, electromagnetic
+sound_energy: sound energy, sound, vibrations, vibrate, noise, music, speaker, drum
+nuclear_energy: nuclear energy, nuclear, fission, fusion, uranium, nuclear power plant, radioactive, radioactive waste, splitting atoms, reactor
+mechanical_energy: mechanical energy, kinetic plus potential, machines, moving parts
+energy_transform: energy transformation, energy conversion, converts, converted, transforms, transformed, changes energy, from one form to another
+battery_transform: battery, batteries, chemical energy to electrical energy, chemical to electrical, flashlight, dry cell, cell
+bulb_transform: light bulb, bulb, electrical energy to light, electrical to light and heat, lamp, filament, incandescent, fluorescent
+solar_panel: solar panel, solar panels, solar cell, solar cells, photovoltaic, light to electrical, sunlight to electricity, solar powered, calculator
+generator: generator, generators, mechanical energy to electrical, turbine, turbines, spins, magnet and coil, power plant, dynamo, electromagnetic induction
+motor: motor, motors, electric motor, electrical to mechanical, electrical energy to motion, fan, blender, drill
+speaker_mic: speaker, speakers, electrical to sound, microphone, sound to electrical, headphones
+toaster_heat: toaster, stove, heater, electric heater, oven, hair dryer, iron, electrical to heat, heating element, electrical to thermal
+conservation_energy: conservation of energy, law of conservation of energy, energy cannot be created or destroyed, energy is conserved, total energy, transferred, transformed
+energy_loss_heat: wasted energy, lost as heat, heat loss, efficiency, efficient, friction, waste heat, inefficient
+heat_transfer: heat transfer, transfer of heat, transfers, transferred, conduction, convection, radiation, warmer to cooler, hot to cold, flows from
+conduction: conduction, conduct, conducts, direct contact, touching, touch, metal spoon, pan, handle, stove, through solids, collide, particles touching, hot plate, burner
+convection: convection, convection currents, currents, rising, rises, warm air rises, hot air rises, cool air sinks, sinks, fluids, liquids and gases, circulation, boiling water, mantle, radiator, density differences
+radiation_heat: radiation, radiant, electromagnetic waves, infrared, sun warms, sunlight, no contact, through space, campfire, heat lamp, microwave, travels through empty space
+heat_conductor: thermal conductor, conductor of heat, good conductor, metals, metal, copper, aluminum, iron, pot, pan, heats quickly
+heat_insulator: insulator, insulators, insulation, insulate, poor conductor, wood, plastic, styrofoam, foam, wool, rubber, cloth, air, oven mitt, thermos, cooler, keeps warm, keeps cold, blanket, fiberglass, down jacket, layers, double pane
+color_heat: dark colors, black, absorbs more, absorb more heat, white, light colors, reflects, reflect more, heats faster, dark shirt, dark clothing
+specific_heat: specific heat, heats up slowly, water heats slowly, sand heats quickly, land heats faster, takes longer to heat, holds heat
+circuit: circuit, circuits, electric circuit, closed circuit, complete circuit, open circuit, complete path, loop, battery, wires, switch, bulb, current flows, broken circuit
+series: series circuit, series, one path, single path, one bulb goes out, all go out, dimmer
+parallel: parallel circuit, parallel, more than one path, multiple paths, branches, other bulbs stay lit, homes, independent
+current: current, electric current, amperes, amps, ammeter, flow of electrons, electrons flow, charge flow
+voltage: voltage, volts, volt, voltmeter, potential difference, battery voltage, push
+resistance: resistance, resistor, resistors, ohms, ohm, ohm's law, resists, thinner wire, longer wire
+electric_conductor: conductor, conductors, conduct electricity, conducts electricity, copper, metal, metals, wire, wires, silver, aluminum, electrons move freely, salt water
+electric_insulator: insulator, insulators, insulate, rubber, plastic, glass, wood, does not conduct, coating, cover wires, safety
+switch: switch, switches, turn on, turn off, open, close, breaks circuit, opens circuit, completes circuit, controls
+static: static electricity, static, static charge, charge, charges, charged, rubbing, rub, rubbed, balloon, hair, wool, sweater, attract, repel, shock, spark, electrons transfer, buildup, discharge, positive, negative, lightning, comb
+charge_attract: opposite charges attract, like charges repel, positive and negative, attract, attracts, repel, repels, same charge
+magnet: magnet, magnets, magnetic, magnetism, poles, north pole, south pole, attract, attracts, repel, repels, iron, nickel, cobalt, steel, magnetic field, field lines, paper clips, iron filings, lodestone
+compass: compass, compasses, needle, points north, magnetic north, navigation, direction, earth's magnetic field
+electromagnet: electromagnet, electromagnets, coil, coiled wire, wire wrapped, iron nail, current, turned off, more coils, stronger, temporary magnet, crane, junkyard, doorbell
+magnetic_materials: magnetic, iron, nickel, cobalt, steel, attracted to a magnet, paper clip, nails, not magnetic, aluminum, copper, plastic, wood
+force: force, forces, push, pull, pushes, pulls, newton, newtons, strength, direction, magnitude, net force, applied force, move, moves, motion
+balanced: balanced forces, balanced, equal forces, opposite directions, no motion, net force zero, cancel, equilibrium, tug of war
+unbalanced: unbalanced forces, unbalanced, net force, change in motion, accelerates, starts moving, stops, changes direction
+inertia: inertia, newton's first law, first law, object at rest, stays at rest, stays in motion, keep moving, seat belt, seatbelt, resists change, sudden stop, continues moving, mass
+fma: newton's second law, second law, force equals mass times acceleration, f ma, acceleration, mass, greater force, more mass, harder to accelerate
+action_reaction: newton's third law, third law, action and reaction, equal and opposite, opposite reaction, recoil, rocket, push back, pushes back, swimming, jumping, paddle, oars
+friction: friction, frictional, rough, rough surface, smooth, smooth surface, slows, slow down, opposes motion, heat, rubbing, brakes, tires, grip, traction, sandpaper, carpet, ice, lubricant, oil, grease, wax, slippery, sliding
+air_resistance: air resistance, drag, parachute, falls slower, surface area, feather, streamlined, aerodynamic, terminal velocity
+gravity: gravity, gravitational, falls, fall, falling, fell, dropped, drop, pulls down, downward, toward earth, toward the center, weight, attraction, acceleration due to gravity, 9.8, apple, newton
+free_fall: falling objects, fall at the same rate, same time, vacuum, hammer and feather, dropped at the same time
+speed: speed, distance divided by time, distance over time, meters per second, kilometers per hour, miles per hour, fast, faster, slower, rate, average speed, constant speed
+velocity: velocity, speed and direction, direction, vector
+acceleration: acceleration, accelerate, accelerates, speeding up, slowing down, changing direction, change in velocity, increase speed, decelerate
+motion_graph: distance time graph, slope, steeper, flat line, at rest, stopped, horizontal line, constant speed, straight line
+momentum: momentum, mass times velocity, collision, collisions, transfer momentum
+position: position, reference point, frame of reference, relative motion, location, moved
+simple_machines: simple machine, simple machines, lever, pulley, inclined plane, wedge, screw, wheel and axle, mechanical advantage, less force, easier, effort, load, compound machine
+lever: lever, levers, fulcrum, seesaw, see saw, crowbar, pry, bar, effort arm, scissors, wheelbarrow, bottle opener, hammer claw, pivot
+pulley: pulley, pulleys, rope, wheel, groove, flagpole, flag, lift, lifting, crane, block and tackle, change direction of force
+inclined_plane: inclined plane, ramp, ramps, slope, slanted, less force, longer distance, wheelchair ramp, loading, roll up, incline
+wedge: wedge, wedges, axe, ax, knife, blade, split, splits, cut, chisel, doorstop, teeth
+screw: screw, screws, threads, jar lid, spiral, bolt, twist, light bulb base
+wheel_axle: wheel and axle, axle, wheel, doorknob, steering wheel, wheels, faucet, screwdriver, rolling, bicycle
+work_physics: work, force times distance, joules, joule, energy transferred, moves an object
+power_physics: power, watts, watt, rate of work, horsepower, kilowatt
+wave: wave, waves, energy transfer, transfers energy, crest, trough, amplitude, wavelength, frequency, medium, disturbance, ripples, oscillation
+transverse: transverse, transverse wave, perpendicular, right angles, up and down, crest, crests, trough, troughs, light waves, electromagnetic
+longitudinal: longitudinal, longitudinal wave, compressional, compression, compressions, rarefaction, rarefactions, parallel, back and forth, same direction, sound waves, slinky, spring
+amplitude: amplitude, height of wave, loudness, brightness, energy, taller, bigger waves
+wavelength: wavelength, distance between crests, crest to crest, longer wavelength, shorter wavelength
+frequency: frequency, hertz, hz, waves per second, vibrations per second, higher frequency, pitch, cycles
+medium: medium, mediums, travel through, solid liquid gas, matter, particles, vacuum, empty space, cannot travel
+sound: sound, sounds, vibration, vibrations, vibrate, vibrates, vibrating, noise, hear, heard, travels through air, sound waves, ear, echo, loud, soft
+sound_speed: speed of sound, travels fastest in solids, faster in water, slower in air, cannot travel in space, vacuum, thunder after lightning
+pitch: pitch, high pitch, low pitch, frequency, higher pitch, lower pitch, shorter string, tighter string, faster vibrations, tuning fork, guitar string, highness, sound
+loudness: loudness, volume, louder, softer, amplitude, decibels, decibel, hearing damage, intensity, quiet
+echo: echo, echoes, reflected sound, bounces, sonar, echolocation, ultrasound, canyon, bat
+instruments_music: guitar, drum, drums, violin, piano, flute, trumpet, xylophone, strings, string, musical instrument, instruments, vibrating string, rubber band
+light_travel: light travels, straight lines, straight line, speed of light, fastest, 300000, vacuum, light year, rays, beam
+reflection: reflection, reflect, reflects, reflected, mirror, mirrors, bounce, bounces, bounces off, shiny, smooth surface, angle of incidence, angle of reflection, image, plane mirror
+refraction: refraction, refract, refracts, refracted, bends, bending, bent, lens, lenses, prism, water, glass, changes speed, pencil in water, looks broken, different medium
+absorption_light: absorb, absorbs, absorbed, absorption, black, dark, dark colors, black absorbs all colors, converted to heat
+transparent: transparent, clear, see through, glass, window, all light passes, transmits, transmitted
+translucent: translucent, some light, frosted glass, wax paper, tissue paper, blurry, partially
+opaque: opaque, no light passes, blocks light, blocks, shadow, shadows, wood, metal, cardboard, brick
+shadow: shadow, shadows, opaque, blocks light, light source, behind, larger shadow, closer to light
+color_light: color, colors, white light, prism, spectrum, rainbow, visible light, red orange yellow green blue indigo violet, roygbiv, mixture of colors, reflects red, separates
+rainbow: rainbow, rainbows, raindrops, water droplets, prism, refraction, spectrum, sunlight, dispersion
+em_spectrum: electromagnetic spectrum, electromagnetic, radio waves, microwaves, infrared, visible light, ultraviolet, x rays, x ray, gamma rays, wavelengths, radiation
+uv: ultraviolet, uv, sunburn, sunscreen, skin cancer, tanning, black light
+infrared: infrared, heat, thermal imaging, remote control, warm objects, night vision
+xray: x ray, x rays, bones, medical imaging, lead apron, radiation
+microwave: microwave, microwaves, cooking, oven, water molecules
+radio: radio, radio waves, broadcast, antenna, communication, signals, cell phones, transmit
+lens: lens, lenses, convex, concave, focus, focuses, focal point, magnify, magnifying glass, hand lens, eyeglasses, glasses, contact lenses, nearsighted, farsighted, camera, image
+eye_light: eye, pupil, iris, retina, cornea, optic nerve, light enters, cones, rods, image, color vision
+light_source: light source, luminous, produces light, gives off light, glow, sun, fire, light bulb, candle, flashlight, stars
+laser: laser, lasers, focused beam, coherent, single color
+heat_light_bulb: incandescent, fluorescent, led, energy efficient, compact fluorescent, waste heat
+nuclear_reactions: fission, fusion, nucleus splits, nuclei combine, chain reaction, uranium, hydrogen nuclei, radioactive, half life
+radioactivity: radioactive, radioactivity, radiation, alpha, beta, gamma, decay, half life, geiger counter, unstable

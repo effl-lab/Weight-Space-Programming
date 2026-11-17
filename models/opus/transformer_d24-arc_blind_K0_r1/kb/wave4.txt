@@ -1,0 +1,113 @@
+@wave4_life
+omnivore : eats plants animals both meat vegetables
+herbivore : eats plants only grass seeds leaves
+carnivore : eats meat animals only
+producer : makes own food sunlight photosynthesis plants algae
+consumer : eats other organisms animals
+decomposer : breaks down dead remains nutrients soil
+predator : hunts eats catches
+prey : hunted eaten caught
+parasite : lives on host harms feeds
+photosynthesis : green plants make sugar food light carbon dioxide water oxygen chloroplasts
+respiration : cells release energy glucose oxygen carbon dioxide breathing
+transpiration : plants lose water leaves vapor evaporation
+pollination : pollen transfer flower bees fertilize
+germination : seed sprouts begins grow
+metamorphosis : changes form caterpillar butterfly tadpole frog
+camouflage : blend surroundings hide color pattern
+mimicry : copy appearance another
+hibernation : sleep winter inactive save energy
+migration : move travel seasons long distances birds whales
+instinct : born knowing inherited behavior
+learned behavior : taught practice experience trained
+inherited trait : parents genes offspring
+acquired trait : learned during life scar
+adaptation : helps survive environment
+natural selection : better adapted survive reproduce
+extinction : died out no longer living
+fossil : remains ancient preserved rock
+dna : genetic information genes chromosomes inherited nucleus
+chromosome : dna genes nucleus
+gene : trait dna inherited
+@wave4_body
+heart : pumps blood body circulatory
+artery arteries : carry blood away heart
+vein veins : carry blood back heart
+lungs : breathing oxygen carbon dioxide exchange
+diaphragm : muscle breathing lungs
+stomach : digests food acid
+small intestine : absorbs nutrients digestion
+large intestine : absorbs water
+liver : bile filters blood
+kidneys : filter blood urine waste
+brain : controls body thinking nervous
+spinal cord : nerves messages brain
+skeleton : bones support protect
+muscles : move contract bones
+skin : protects body sweat
+pancreas : insulin sugar digestion
+@wave4_earth
+weathering : breaking rocks smaller pieces
+erosion : carrying moving soil rock away
+deposition : dropping depositing sediment
+igneous : cooled magma lava
+sedimentary : sediments layers compacted cemented fossils
+metamorphic : heat pressure changed rock
+mineral : naturally occurring crystal
+crust : outer thin layer
+mantle : middle thick layer hot
+outer core : liquid iron nickel
+inner core : solid iron nickel center
+plate tectonics : plates move earthquakes volcanoes mountains
+water cycle : evaporation condensation precipitation runoff
+evaporation : liquid water gas vapor heat sun
+condensation : vapor cools liquid droplets clouds
+precipitation : falls rain snow hail sleet
+climate : long term average weather pattern
+weather : day to day conditions
+@wave4_space
+rotation : spins axis day night
+revolution : orbits sun year
+seasons : tilt axis
+moon : orbits earth reflects sunlight phases month
+sun : star center solar system light heat energy
+planet : orbits sun
+star : ball hot gas light
+galaxy : billions stars milky way
+comet : ice dust tail orbit sun
+asteroid : rocky object orbits sun
+meteor : burns atmosphere shooting star
+@wave4_phys
+gravity : pulls objects toward each other earth falls weight
+friction : force opposes motion surfaces rubbing slows
+magnetism : magnets attract repel iron
+inertia : object stays rest motion
+speed : distance time
+velocity : speed direction
+acceleration : change velocity speed
+mass : amount matter
+weight : force gravity mass
+volume : space occupies
+density : mass per volume
+conduction : heat transfer touching direct contact
+convection : heat transfer currents fluid liquid gas
+radiation : heat transfer waves without contact
+conductor : allows heat electricity flow easily
+insulator : slows blocks heat electricity
+circuit : path electricity flows
+static electricity : charges build up
+kinetic energy : energy motion moving
+potential energy : stored energy position
+chemical energy : stored bonds food fuel battery
+thermal energy : heat temperature
+electrical energy : electricity current
+light energy : visible radiant
+sound energy : vibrations
+reflection : light bounces off surface
+refraction : light bends passes
+absorption : light absorbed taken in
+solid : definite shape volume
+liquid : definite volume no definite shape
+gas : no definite shape volume fills
+physical change : no new substance same
+chemical change : new substance formed

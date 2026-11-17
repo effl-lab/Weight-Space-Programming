@@ -1,0 +1,325 @@
+# Generation 3: energy, forces, motion, waves, electricity, magnetism. Question cue words > answer words.
+# --- forms of energy
+kinetic energy = energy of motion moving object
+potential energy = stored energy position height
+gravitational potential energy > height mass higher position
+elastic potential energy > stretched compressed spring rubber band
+chemical energy = stored in bonds food fuel batteries
+thermal energy = heat energy particles moving
+electrical energy = moving electric charges current
+radiant energy = light electromagnetic waves sun
+light energy > sun bulb radiant
+sound energy = vibrations waves
+nuclear energy = stored in nucleus fission fusion
+mechanical energy = kinetic plus potential motion position
+energy stored food > chemical energy
+energy stored battery > chemical energy
+energy stored gasoline fuel > chemical energy
+energy stored wood coal > chemical energy
+energy stored stretched rubber band spring > elastic potential energy
+energy stored object high shelf > gravitational potential energy
+energy moving object > kinetic energy
+roller coaster top hill > most potential energy
+roller coaster bottom hill > most kinetic energy fastest
+ball highest point > most potential energy least kinetic energy
+falling object energy > potential changes to kinetic
+pendulum swings > potential kinetic energy changes
+heavier faster object > more kinetic energy
+kinetic energy depends > mass speed
+potential energy depends > mass height
+law conservation energy = energy cannot be created or destroyed only changed form
+energy transformation total > conserved same
+some energy lost as > heat thermal friction
+energy changes waste > heat
+efficiency > less energy wasted as heat
+# --- energy transformations (common question)
+battery flashlight > chemical to electrical to light
+flashlight energy > chemical electrical light
+light bulb > electrical to light and heat
+toaster > electrical to heat thermal
+electric stove heater > electrical to thermal heat
+electric fan motor > electrical to mechanical kinetic motion
+blender mixer drill > electrical to mechanical motion
+radio speaker > electrical to sound
+doorbell > electrical to sound
+television > electrical to light sound
+solar panel solar cell > light to electrical
+solar calculator > light energy to electrical energy
+generator > mechanical to electrical
+wind turbine > kinetic wind energy to electrical
+hydroelectric dam > potential energy water kinetic electrical
+power plant burning coal > chemical to thermal to electrical
+car engine gasoline > chemical to mechanical kinetic heat
+burning wood campfire > chemical to heat light
+plants photosynthesis energy > light to chemical
+eating food muscles > chemical to mechanical kinetic
+person running energy > chemical energy from food to kinetic
+rubbing hands > mechanical kinetic to thermal heat friction
+microphone > sound to electrical
+guitar string drum vibrate > mechanical to sound
+match struck > chemical to heat light
+fireworks > chemical to light sound heat
+electric eel > chemical to electrical
+glow stick > chemical to light
+windmill grind grain > wind kinetic to mechanical
+nuclear power plant > nuclear to thermal to electrical
+sun produces energy > nuclear fusion hydrogen helium
+# --- heat transfer
+heat = thermal energy transferred from warmer to cooler
+heat flows > from hot to cold warmer to cooler object
+heat moves direction > from warmer object to cooler object
+conduction = heat transfer direct contact touching
+convection = heat transfer moving fluid liquid gas currents warm rises cool sinks
+radiation = heat transfer electromagnetic waves through space no matter needed
+conduction example > spoon in hot soup touching hot pan ice cube in hand
+convection example > boiling water currents warm air rising heater room sea breeze
+radiation example > sun warming earth campfire warming hands heat lamp microwave
+heat sun reaches earth > radiation through space
+heat travels through space > radiation
+heat travels through solid > conduction
+heat travels liquid gas > convection currents
+convection currents mantle > plates move
+good conductors heat > metals copper aluminum iron silver
+poor conductors insulators heat > wood plastic rubber air wool foam styrofoam glass cloth
+insulator = slows transfer of heat electricity
+insulation house > keeps heat in winter out summer
+thermos > reduces heat transfer vacuum insulator
+cooler styrofoam > insulator keeps cold
+mittens gloves keep hands warm > insulator traps body heat
+wool sweater warm > insulator traps air
+feathers fur blubber > insulation keep warm
+dark colors > absorb more light heat warmer
+light colors white > reflect light stay cooler
+black surface heats fastest > absorbs most light
+white surface stays coolest > reflects light
+shiny surface > reflects heat light
+specific heat water high > heats slowly cools slowly
+land heats faster than water > lower specific heat
+temperature scale > celsius fahrenheit kelvin
+absolute zero > lowest temperature particles stop kelvin 0
+thermometer works > liquid expands rises heated
+# --- forces
+force = push or pull
+force measured > newtons spring scale
+unit of force > newton
+net force = total of all forces combined
+balanced forces = equal opposite net force zero no change in motion
+unbalanced forces = net force change in motion speed direction
+balanced forces object > stays at rest constant speed no change motion
+unbalanced force object > accelerates speeds up slows down changes direction
+tug of war equal > balanced forces no movement
+book resting table forces > balanced gravity down table pushes up
+gravity = force of attraction between masses pulls objects toward earth
+gravity depends > mass distance
+more mass gravity > stronger
+farther apart gravity > weaker
+gravity on moon > weaker one sixth less mass
+weight = force of gravity on mass
+mass = amount of matter same everywhere
+weight changes moon > weight less mass same
+mass on moon > same
+weight measured > spring scale newtons
+friction = force opposes motion surfaces rubbing
+friction produces > heat slows objects
+more friction > rough surfaces sandpaper carpet gravel heavier
+less friction > smooth surfaces ice oil lubricant wheels
+reduce friction > oil grease lubricant wheels ball bearings smooth polish wax
+increase friction > rough surface sand treads grip
+tires treads > friction grip road
+sand icy road > increases friction
+air resistance = friction from air opposes falling
+parachute > air resistance slows fall
+feather falls slowly > air resistance
+vacuum objects fall > same rate no air resistance
+moon hammer feather > fall same time no air
+magnetic force > attract repel magnets iron
+electric force > charges attract repel
+contact forces > friction push pull tension
+non contact forces > gravity magnetism electric
+# --- Newton's laws and motion
+newton first law = inertia object at rest stays at rest object in motion stays in motion unless force
+newton second law = force equals mass times acceleration f ma
+newton third law = every action has equal opposite reaction
+inertia = tendency resist change in motion depends on mass
+seat belt > inertia keeps passenger moving
+car stops suddenly passenger > inertia continues forward
+tablecloth pulled dishes stay > inertia
+more mass inertia > greater more inertia harder to start stop
+rocket launch > third law action reaction gases pushed down rocket up
+swimmer pushes water back > moves forward reaction
+balloon released air > moves opposite direction reaction
+gun recoil > action reaction
+jumping off boat boat moves back > action reaction
+acceleration = change in velocity speed direction over time
+acceleration more force > greater acceleration
+acceleration more mass same force > less acceleration
+same force heavier object > accelerates less
+speed = distance divided by time
+average speed > total distance total time
+velocity = speed with direction
+speed units > meters per second kilometers per hour miles per hour
+distance time graph straight line > constant speed
+distance time graph steeper > faster
+flat line distance time graph > not moving stopped
+momentum = mass times velocity
+change direction circle > acceleration
+object moving circle > force toward center
+# --- work, machines
+work = force times distance moved in direction of force
+no movement work > zero no work
+work unit > joule
+power = work divided by time rate
+power unit > watt
+simple machines > lever pulley wheel and axle inclined plane wedge screw
+simple machine makes work easier > less force over greater distance changes direction
+machines cannot > reduce work increase energy
+mechanical advantage = output force divided by input force
+lever = bar pivots fulcrum
+lever examples > seesaw crowbar bottle opener scissors broom shovel hammer claw
+fulcrum = pivot point lever
+pulley = rope wheel lift change direction
+pulley examples > flagpole crane blinds well
+wheel and axle examples > doorknob steering wheel screwdriver bicycle wheel faucet
+inclined plane = sloped surface ramp
+inclined plane examples > ramp slide wheelchair ramp road up mountain
+wedge = two inclined planes split cut
+wedge examples > knife axe ax nail teeth doorstop chisel
+screw = inclined plane wrapped around cylinder
+screw examples > jar lid bolt light bulb base spiral staircase
+ramp move heavy box truck > inclined plane less force
+longer ramp > less force more distance
+flagpole raise flag > pulley changes direction
+cut wood > wedge axe saw
+compound machine > two or more simple machines bicycle scissors wheelbarrow can opener
+# --- waves, sound
+wave = disturbance transfers energy without matter
+waves transfer > energy not matter
+mechanical waves need > medium matter
+sound needs medium > solid liquid gas cannot travel vacuum
+sound travels space > cannot no medium vacuum
+transverse wave = particles move perpendicular to wave direction
+longitudinal wave = compressional particles move parallel to wave direction
+sound wave type > longitudinal compression
+light wave type > transverse electromagnetic
+wavelength = distance crest to crest
+frequency = number of waves per second hertz
+amplitude = height of wave energy loudness
+crest = highest point of wave
+trough = lowest point of wave
+higher frequency > shorter wavelength higher pitch
+lower frequency > longer wavelength lower pitch
+pitch depends > frequency
+loudness volume depends > amplitude
+greater amplitude > louder more energy
+loudness unit > decibels
+sound speed fastest > solids
+sound speed slowest > gases air
+sound travels faster > solids than liquids than gases
+sound produced > vibrations vibrating object
+short string pitch > higher
+long string pitch > lower
+tighter string > higher pitch
+thick string > lower pitch
+less water bottle blow pitch > lower longer air column
+echo = reflected sound bounces off surface
+sonar echolocation > sound waves reflect bats dolphins submarines
+ultrasound > high frequency sound images body
+ear parts > eardrum hammer anvil stirrup cochlea
+sound waves enter ear > eardrum vibrates
+hear sound brain > nerve signals
+# --- light, electromagnetic spectrum
+light travels > straight lines very fast 300000 kilometers per second
+light speed vs sound > light faster
+see lightning before hear thunder > light travels faster than sound
+light travels vacuum > yes space no medium needed
+reflection = light bounces off surface
+refraction = light bends passing between materials changes speed
+absorption = light taken in object warms
+transparent = light passes through clearly glass clear water air
+translucent = some light passes through scattered frosted glass wax paper tissue paper
+opaque = no light passes through wood metal brick cardboard
+shadow forms > opaque object blocks light
+shadow longest > morning evening sun low
+shadow shortest > noon sun high
+pencil in water looks bent > refraction
+rainbow forms > refraction dispersion sunlight water droplets
+prism separates white light > colors refraction spectrum
+white light made of > all colors spectrum
+colors visible spectrum > red orange yellow green blue indigo violet roygbiv
+red light > longest wavelength lowest frequency visible
+violet light > shortest wavelength highest frequency visible
+object looks red > reflects red light absorbs other colors
+object looks black > absorbs all colors
+object looks white > reflects all colors
+plane mirror image > same size upright reversed
+concave mirror > curves inward focuses light flashlight headlights
+convex mirror > curves outward wider view car side mirror
+convex lens > thicker middle magnifying glass focuses light converges
+concave lens > thinner middle spreads light diverges
+lens eye > focuses light on retina
+retina > light sensitive cells image
+eye parts > cornea iris pupil lens retina optic nerve
+pupil > lets light enter eye
+iris > colored part controls pupil size
+electromagnetic spectrum order > radio microwaves infrared visible ultraviolet x rays gamma rays
+radio waves > longest wavelength communication
+microwaves > cooking communication radar
+infrared > heat thermal imaging remote control
+ultraviolet > sunburn skin damage vitamin d
+x rays > see bones medical images
+gamma rays > highest energy shortest wavelength
+all electromagnetic waves travel space > speed of light
+sunscreen protects > ultraviolet uv rays
+# --- electricity
+electric current = flow of electrons charges
+circuit = closed path for electric current
+closed circuit > current flows bulb lights
+open circuit > broken path no current bulb off
+switch = opens closes circuit
+series circuit = one path one bulb out all go out
+parallel circuit = more than one path branches one bulb out others stay lit
+houses wired > parallel circuits
+circuit parts > energy source battery wires load bulb switch
+conductor electricity = allows current to flow metals copper silver aluminum water
+insulator electricity = does not allow current flow rubber plastic glass wood
+wires made copper > good conductor
+wires covered plastic rubber > insulator safety
+voltage = electrical push volts
+current unit > amperes amps
+resistance unit > ohms
+resistance = opposes current
+static electricity = buildup of charge on surface
+static electricity examples > balloon rubbed hair shock doorknob clothes dryer lightning
+balloon rubbed hair > static electricity charges attract
+like charges > repel
+unlike opposite charges > attract
+lightning = discharge static electricity
+short circuit > current takes easy path too much current heat fire
+fuse circuit breaker > protects too much current breaks circuit
+electrical safety > dry hands do not overload outlets not near water
+battery = stores chemical energy electrical
+generator = magnet coil wire motion electricity
+electric motor = electrical to mechanical magnet coil
+electromagnet = coil of wire around iron core current magnet
+electromagnet stronger > more coils more current more batteries iron core
+electromagnet can be > turned on off
+electromagnet uses > crane scrapyard doorbell motor speakers
+# --- magnetism
+magnet = attracts iron nickel cobalt
+magnet poles > north south
+like poles > repel push apart
+opposite poles > attract pull together
+north pole south pole magnets > attract
+north pole north pole > repel
+magnetic field = area around magnet force lines
+magnetic field strongest > poles ends
+compass needle > magnet points north earth magnetic field
+earth magnetic field > core iron compass
+magnets attract objects made of > iron steel nickel cobalt
+paper clips nails magnet > attracted iron steel
+magnet through paper glass water > magnetic force passes
+cut magnet half > two magnets each north south pole
+substance gains thermal energy particles > move faster spread apart
+substance loses thermal energy particles > move slower closer together
+object gains heat temperature > increases rises
+object loses heat temperature > decreases falls

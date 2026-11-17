@@ -1,0 +1,116 @@
+# Energy
+Energy is the ability to do work or cause change.
+Energy cannot be created or destroyed, only changed from one form to another; this is the law of conservation of energy.
+Forms of energy include kinetic, potential, thermal or heat, chemical, electrical, light or radiant, sound, mechanical, magnetic and nuclear energy.
+Kinetic energy is the energy of motion; a moving object has kinetic energy.
+The faster an object moves and the more mass it has, the more kinetic energy it has.
+Potential energy is stored energy because of position or condition.
+Gravitational potential energy depends on an object's height and mass; a ball at the top of a hill or a book on a high shelf has potential energy.
+The higher an object is lifted, the more gravitational potential energy it has.
+A stretched rubber band, a compressed spring and a drawn bow store elastic potential energy.
+As a ball falls, its potential energy changes into kinetic energy.
+A roller coaster has the most potential energy at the top of the highest hill and the most kinetic energy at the bottom.
+A swinging pendulum changes potential energy to kinetic energy and back again.
+Mechanical energy is the total kinetic and potential energy of an object.
+Chemical energy is energy stored in the bonds of chemical compounds, such as in food, fuel, wood, gasoline and batteries.
+Food contains chemical energy that the body changes into energy for motion and heat.
+Thermal energy, or heat energy, is the total energy of the moving particles in a substance.
+Electrical energy is the energy of moving electric charges, or electricity.
+Radiant energy, or light energy, travels as electromagnetic waves, such as light from the Sun.
+Sound energy is energy carried by vibrations moving through matter.
+Nuclear energy is stored in the nucleus of atoms and released by fission or fusion.
+Nuclear power plants use fission, splitting uranium atoms, to produce heat that makes electricity.
+# Energy transformations
+Energy changes from one form to another in an energy transformation.
+A flashlight changes chemical energy in batteries into electrical energy and then into light energy and heat.
+A battery stores chemical energy and changes it into electrical energy.
+A light bulb changes electrical energy into light energy and heat energy.
+An electric fan changes electrical energy into mechanical energy, motion.
+An electric motor changes electrical energy into mechanical energy.
+A generator changes mechanical energy into electrical energy.
+A toaster, stove or electric heater changes electrical energy into heat or thermal energy.
+A speaker, radio or doorbell changes electrical energy into sound energy.
+A microphone changes sound energy into electrical energy.
+A solar panel, or solar cell, changes light energy from the Sun into electrical energy.
+Plants change light energy into chemical energy during photosynthesis.
+Burning fuel changes chemical energy into heat and light energy.
+A car engine changes chemical energy in gasoline into mechanical energy and heat.
+When you rub your hands together, mechanical energy changes into heat by friction.
+Your body changes chemical energy from food into mechanical energy and heat.
+In a hydroelectric dam, the potential energy of water is changed into kinetic energy and then into electrical energy by turbines and generators.
+A wind turbine changes the kinetic energy of wind into electrical energy.
+In most power plants, burning fuel heats water to make steam that turns a turbine connected to a generator.
+In every energy transformation some energy is changed into heat that is lost to the surroundings.
+Efficiency is how much useful energy is produced compared to the energy put in; LED bulbs are more efficient than incandescent bulbs.
+# Heat and temperature
+Heat is the transfer of thermal energy from a warmer object to a cooler object.
+Heat always flows from a hotter object to a colder object until they reach the same temperature.
+Temperature is a measure of the average kinetic energy of the particles in a substance, how hot or cold something is.
+Temperature is measured with a thermometer in degrees Celsius or Fahrenheit or kelvin.
+Heat is transferred in three ways: conduction, convection and radiation.
+Conduction is the transfer of heat through direct contact between objects or particles, such as a metal spoon getting hot in hot soup.
+A pan on a hot stove burner gets hot by conduction.
+Convection is the transfer of heat by the movement of currents in liquids and gases, where warm fluid rises and cool fluid sinks.
+Convection currents happen in boiling water, in the air of a room heated by a heater, and in Earth's mantle.
+Radiation is the transfer of energy by electromagnetic waves, which can travel through empty space, such as heat from the Sun or a campfire.
+Energy from the Sun reaches Earth by radiation.
+Thermal conductors such as metals like copper, aluminum, iron and silver let heat flow through them easily.
+Thermal insulators such as wood, plastic, rubber, cloth, wool, foam, styrofoam, glass, fiberglass and air slow the flow of heat.
+Pot handles are made of plastic or wood because they are insulators that do not get hot.
+Insulation in walls and attics keeps buildings warm in winter and cool in summer.
+A thermos or insulated cup keeps hot drinks hot and cold drinks cold by reducing heat transfer.
+Wearing layers of clothing, wool and coats traps air that insulates the body and keeps it warm.
+Dark colored objects absorb more light and heat up faster than light colored objects; white and light colors reflect light.
+A black shirt gets hotter in the sun than a white shirt because dark colors absorb more sunlight.
+Shiny surfaces reflect heat radiation.
+Friction produces heat; rubbing two objects together makes them warmer.
+Specific heat is the amount of heat needed to raise the temperature of a substance; water has a high specific heat.
+Sand heats up faster than water in the sun.
+# Electricity
+Electricity is the flow of electric charges, or electrons, through a conductor.
+Electric current is the flow of electrons through a circuit, measured in amperes.
+Voltage is the push that moves electrons through a circuit, measured in volts; batteries provide voltage.
+Resistance is the opposition to the flow of electric current, measured in ohms.
+Ohm's law states that voltage equals current times resistance.
+An electric circuit is a complete closed path through which electric current flows.
+A circuit needs an energy source like a battery, wires that conduct, and a load like a light bulb; a switch opens and closes it.
+A closed circuit is a complete path, so current flows and the bulb lights; an open circuit has a break, so current stops.
+A switch opens or closes a circuit to turn the current off or on.
+In a series circuit, there is only one path for the current; if one bulb burns out, all the bulbs go out.
+Adding more bulbs in a series circuit makes each bulb dimmer.
+In a parallel circuit, there are two or more paths for the current; if one bulb burns out, the others stay lit.
+Homes are wired with parallel circuits so each appliance can be turned on and off separately.
+Electrical conductors such as copper, silver, aluminum, gold, iron and other metals allow electricity to flow easily.
+Copper is used in electrical wires because it is a good conductor of electricity.
+Electrical insulators such as rubber, plastic, glass, wood, cloth and air resist the flow of electricity.
+Wires are covered with rubber or plastic insulation to keep electricity from escaping and protect people from shocks.
+Salt water is a good conductor of electricity; pure water is a poor conductor.
+A short circuit happens when current takes an unintended path with little resistance, which can cause overheating and fires.
+Fuses and circuit breakers protect circuits from too much current.
+Static electricity is the buildup of electric charges on the surface of an object, often by rubbing.
+Rubbing a balloon on your hair transfers electrons and gives the balloon a static charge so it sticks to a wall.
+Like charges repel each other and opposite charges attract each other.
+Lightning is a discharge of static electricity.
+Benjamin Franklin showed that lightning is electricity with his kite experiment.
+Thomas Edison invented a long lasting incandescent light bulb.
+Electric power is measured in watts; electrical energy use is measured in kilowatt hours.
+Turning off lights and unplugging appliances saves electricity and energy.
+# Magnetism
+A magnet is an object that attracts iron and some other metals such as nickel and cobalt.
+Magnets attract objects made of iron, steel, nickel and cobalt, such as paper clips, nails and pins.
+Magnets do not attract wood, plastic, glass, rubber, paper, aluminum, copper, gold or silver.
+Every magnet has a north pole and a south pole.
+Like magnetic poles repel each other; opposite poles attract each other.
+A north pole and a south pole attract; two north poles push apart.
+The magnetic force is strongest at the poles of a magnet.
+A magnetic field is the area around a magnet where magnetic force acts; iron filings show the pattern of the field lines.
+Magnetic force can act at a distance and pass through materials like paper, glass and water.
+Earth acts like a giant magnet with a magnetic field and magnetic north and south poles.
+A compass has a magnetized needle that points north because it lines up with Earth's magnetic field.
+A compass is used for finding direction and navigation.
+An electromagnet is a coil of wire wrapped around an iron core that becomes a magnet when electric current flows through it.
+An electromagnet can be turned on and off, and it gets stronger with more coils of wire or more current.
+Electromagnets are used in motors, doorbells, speakers, cranes that lift scrap metal, and MRI machines.
+Moving a magnet inside a coil of wire produces an electric current; this is how generators work.
+Electricity and magnetism are related; an electric current produces a magnetic field.
+Rubbing a steel needle with a magnet can magnetize it.

@@ -1,0 +1,16 @@
+# Words removed from every group unless written with a leading '!' (too common to point anywhere).
+a an the of to in on at by for from with without into onto over under up down out off about above below
+and or but not no nor if then than so as is are was were be been being am do does did done has have had having
+it its it's this that these those there here what which who whom whose when where why how
+i you he she we they them their his her our your my me us him
+can could will would should may might must shall
+all some any each every both either neither many much more most less least few several other another such same
+one two three four five six seven eight nine ten first second third
+very also only just too even still again always never often usually
+new old good best better large larger small smaller big long longer short high higher low lower
+make makes made making use uses used using help helps helped get gets got give gives take takes put
+part parts kind kinds type types form forms called name named example examples way ways thing things
+time times day days year years number amount area place places
+around through between toward towards inside outside near far away across along
+people person student students scientist scientists teacher class
+likely most best describes statement following true false

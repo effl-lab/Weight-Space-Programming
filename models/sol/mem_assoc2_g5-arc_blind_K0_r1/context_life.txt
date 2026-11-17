@@ -1,0 +1,319 @@
+# Generation 4: concrete functions, missing-resource effects, and diagnoses.
+# Record fields are signed concept bags, never executable English clauses.
+# Cells and transport.
+3.2 | cell boundary | membrane selective permeability |
+3.2 | cell instructions | dna nucleus chromosome |
+3.2 | cell energy release | mitochondria respiration |
+3.2 | cell protein production | ribosome |
+3.2 | cell waste breakdown | lysosome digestion |
+3.2 | cell water storage | vacuole |
+3.2 | cell photosynthetic | chloroplast chlorophyll |
+3.2 | cell packaging | golgi transport |
+3.2 | cell rigid | wall cellulose plant |
+3.2 | cell jellylike | cytoplasm |
+3.2 | chloroplast absent | animal fungus |
+3.2 | ribosome function | protein synthesis |
+3.2 | mitochondria function | respiration atp energy |
+3.2 | nucleus function | genetic control dna |
+3.2 | membrane function | regulate exchange entry exit |
+3.2 | wall function | support protection shape |
+3.2 | vacuole function | storage water turgor |
+3.2 | chloroplast function | photosynthesis light sugar |
+3.2 | dna function | genetic information protein instructions |
+3.2 | membrane damaged | uncontrolled transport homeostasis disruption |
+3.2 | mitochondria numerous | high energy demand muscle |
+3.2 | ribosome numerous | protein production |
+3.2 | leaf green | chlorophyll chloroplast |
+3.2 | diffusion perfume | random molecules concentration |
+3.2 | osmosis raisin | water inward swell |
+3.2 | osmosis salted | water outward shrink |
+3.2 | active transport | energy atp against gradient |
+3.2 | passive transport | diffusion concentration gradient |
+3.2 | cell division repair | mitosis |
+3.2 | cell division growth | mitosis increased number |
+3.2 | gamete production | meiosis half chromosomes |
+3.2 | sperm egg fusion | fertilization zygote |
+3.2 | binary fission | asexual bacteria division |
+3.2 | budding yeast | asexual reproduction |
+3.2 | plant cutting | asexual clone identical genes |
+3.2 | one parent identical offspring | asexual reproduction clone |
+3.2 | two parents varied offspring | sexual reproduction recombination |
+3.2 | dna changed | mutation sequence |
+3.2 | gene allele | inherited version trait |
+3.2 | dominant expressed | one allele sufficient |
+3.2 | recessive expressed | two alleles homozygous |
+3.2 | trait acquired | environment experience | inherited
+3.2 | trait inherited | genes parents dna | training
+3.2 | scar origin | acquired injury environment | inherited
+3.2 | language learned | environment experience |
+3.2 | spider web building | instinct inherited |
+3.2 | bird migration | inherited instinct seasonal |
+3.2 | dog trained | learned behavior |
+3.2 | twins different | environmental influence phenotype |
+3.2 | adaptation population | inherited selection generations |
+3.2 | evolution evidence | fossils dna homologous structures |
+3.2 | antibiotic resistant | natural selection bacteria survive reproduce |
+3.2 | pesticide resistant | inherited variation selection |
+3.2 | moth soot | dark camouflage natural selection |
+3.2 | drought finch | beak seed selection inherited |
+3.2 | survival offspring | reproductive success fitness |
+3.2 | genetic variety | greater chance adaptation survival |
+3.2 | extinction cause | habitat loss environmental change |
+3.2 | fossils sequence | organisms changed evolution |
+3.2 | shared ancestor | similar dna homologous anatomy |
+3.2 | same genus | closely related classification |
+3.2 | species definition | interbreed fertile offspring |
+3.2 | key paired | dichotomous classification traits |
+# Human structures: focused retrieval, not just broad organ associations.
+3.2 | lung gas exchange | oxygen blood dioxide air alveoli |
+3.2 | lung surface | many alveoli large area thin walls |
+3.2 | alveoli capillary | diffusion oxygen dioxide |
+3.2 | diaphragm contraction | inhalation chest volume increase |
+3.2 | diaphragm relaxation | exhalation chest volume decrease |
+3.2 | breathing faster | exercise oxygen demand dioxide |
+3.2 | heart rate exercise | increase oxygen nutrient delivery |
+3.2 | blood oxygen carrier | red cell hemoglobin |
+3.2 | blood infection defense | white cell antibody |
+3.2 | blood clot | platelet fibrin |
+3.2 | blood liquid | plasma water transport |
+3.2 | artery direction | away heart |
+3.2 | vein direction | toward heart |
+3.2 | capillary exchange | thin wall diffusion |
+3.2 | vein valve | prevent backflow |
+3.2 | heart chamber pump | ventricle |
+3.2 | pulmonary circulation | heart lung oxygen |
+3.2 | red cell shape | surface area oxygen diffusion |
+3.2 | sicklecell shape | oxygen transport impaired |
+3.2 | nose mucus | traps dust pathogens |
+3.2 | trachea cilia | remove dust mucus |
+3.2 | smoking lung | damaged cilia alveoli disease |
+3.2 | emphysema alveoli | reduced gas exchange area |
+3.2 | digestion mouth | chewing saliva starch amylase |
+3.2 | digestion stomach | acid enzyme protein |
+3.2 | digestion small intestine | enzymes nutrient absorption |
+3.2 | digestion large intestine | water absorption waste |
+3.2 | villi function | absorption nutrients increased surface area |
+3.2 | liver bile | fat emulsification |
+3.2 | gallbladder bile | stores releases |
+3.2 | pancreas digestion | enzyme secretion |
+3.2 | pancreas glucose | insulin hormone regulation |
+3.2 | esophagus movement | peristalsis muscle contractions |
+3.2 | tooth molar | grinding food |
+3.2 | tooth canine | tearing food |
+3.2 | tooth incisor | cutting food |
+3.2 | saliva enzyme | starch sugar digestion |
+3.2 | enzyme high heat | denaturation changed shape |
+3.2 | enzyme specificity | substrate shape active site |
+3.2 | kidney function | filter blood urea water salt urine |
+3.2 | kidney nephron | filtration reabsorption |
+3.2 | bladder function | urine storage |
+3.2 | skin sweat | cooling evaporation excretion |
+3.2 | liver detoxification | blood harmful substances |
+3.2 | urine concentrated | water conservation |
+3.2 | dehydration response | thirst reduced urine |
+3.2 | homeostasis hot | sweating vasodilation |
+3.2 | homeostasis cold | shivering vasoconstriction |
+3.2 | muscle movement | contraction force bones |
+3.2 | muscle pair | antagonistic flexor extensor |
+3.2 | tendon attachment | muscle bone |
+3.2 | ligament attachment | bone joint | muscle
+3.2 | cartilage joint | cushion reduce friction |
+3.2 | skeleton support | protection movement |
+3.2 | skull protection | brain |
+3.2 | ribcage protection | heart lung |
+3.2 | spine protection | spinal cord |
+3.2 | bone marrow | blood cell production |
+3.2 | nerve signal | electrical impulse messages |
+3.2 | brain function | coordinate control information |
+3.2 | spinal cord reflex | rapid automatic response |
+3.2 | reflex purpose | protection rapid response |
+3.2 | skin receptor | stimulus temperature touch pain |
+3.2 | eye retina | light photoreceptors |
+3.2 | eye iris | control pupil light |
+3.2 | eye lens | refract focus light |
+3.2 | ear cochlea | sound vibration receptors |
+3.2 | ear semicircular | balance movement |
+3.2 | endocrine communication | hormone blood gland |
+3.2 | nervous communication | electrical impulse nerve |
+3.2 | hormone target | receptor specific cell |
+3.2 | insulin effect | glucose blood decrease |
+3.2 | glucagon effect | glucose blood increase |
+3.2 | adrenaline effect | heart rate increase emergency |
+3.2 | immune memory | vaccine lymphocyte antibody |
+3.2 | vaccine function | prevent disease immune memory |
+3.2 | antibiotic target | bacteria | virus
+3.2 | virus reproduction | host cell required |
+3.2 | disease transmission | pathogen contact vector |
+3.2 | handwashing benefit | remove pathogens reduce infection |
+3.2 | refrigeration bacteria | slower growth reproduction |
+3.2 | cooking bacteria | heat kills pathogens |
+3.2 | balanced diet | varied nutrients health |
+3.2 | carbohydrate function | energy fuel |
+3.2 | protein function | growth repair enzyme |
+3.2 | fat function | energy storage insulation |
+3.2 | fiber function | intestinal movement digestion |
+3.2 | calcium function | bone teeth strength |
+3.2 | iron deficiency | anemia hemoglobin low |
+3.2 | vitamin c deficiency | scurvy |
+3.2 | vitamin d deficiency | rickets weak bones |
+# Plant responses and resource flow.
+3.2 | root removed | water mineral uptake decreases |
+3.2 | leaf removed | photosynthesis food production decreases |
+3.2 | bark ring removed | phloem sugar transport disrupted |
+3.2 | xylem blocked | water transport wilting |
+3.2 | phloem blocked | sugar transport impaired |
+3.2 | stomata blocked | gas exchange transpiration reduced |
+3.2 | stomata closing | water conservation reduced dioxide uptake |
+3.2 | leaf underside | stomata pores gas exchange |
+3.2 | root hair | absorption surface area |
+3.2 | root long | reach water nutrients anchorage |
+3.2 | root branching | surface area water uptake |
+3.2 | plant fertilizer | mineral nutrients growth | food energy supplied
+3.2 | plant darkness | stored food respiration dioxide | photosynthesis
+3.2 | plant sunlight | photosynthesis glucose oxygen |
+3.2 | plant carbon source | air carbon dioxide |
+3.2 | plant mineral source | soil water roots |
+3.2 | plant energy source | sunlight |
+3.2 | seed energy source | stored food cotyledon starch |
+3.2 | seed water | imbibition germination |
+3.2 | seed oxygen | respiration energy germination |
+3.2 | seed temperature | suitable warmth germination enzymes |
+3.2 | germination energy | stored food respiration |
+3.2 | seed coat | embryo protection |
+3.2 | cotyledon function | stored food embryo |
+3.2 | seed embryo | young plant |
+3.2 | seed soaked | water absorption swelling |
+3.2 | seed cooked | dead embryo | germination
+3.2 | seed crowded | competition light water nutrients |
+3.2 | seed dispersal | reduced competition new habitats |
+3.2 | seed hooked | animal fur dispersal |
+3.2 | seed winged | wind dispersal |
+3.2 | seed fleshy fruit | animal eating dispersal |
+3.2 | seed floating | water dispersal |
+3.2 | flower petals | attract pollinators |
+3.2 | flower nectar | pollinator food |
+3.2 | flower anther | pollen production |
+3.2 | flower stigma | receives pollen |
+3.2 | flower ovary | ovules fruit development |
+3.2 | ovule fertilized | seed embryo |
+3.2 | pollen transfer | pollination |
+3.2 | flower insect | mutualism pollination nectar |
+3.2 | wind pollination | abundant light pollen |
+3.2 | flower bright | insect pollination attraction |
+3.2 | sunflower seedling light | phototropism |
+3.2 | seedling window | growth toward light phototropism |
+3.2 | root downward | gravitropism positive |
+3.2 | shoot upward | gravitropism negative |
+3.2 | tendril pole | touch thigmotropism |
+3.2 | plant wilted | low water turgor pressure |
+3.2 | celery colored water | xylem water transport |
+3.2 | leaf bag droplets | transpiration condensation |
+3.2 | underwater plant bubbles | photosynthesis oxygen |
+3.2 | leaf starch test | iodine photosynthesis |
+3.2 | leaf autumn | chlorophyll breakdown pigments |
+3.2 | cactus fleshy | water storage stem |
+3.2 | cactus spines | protection reduced water loss |
+3.2 | cactus waxy | evaporation reduced |
+3.2 | desert night | lower temperature water conservation |
+3.2 | pine needles | reduced water loss |
+3.2 | broad leaves shade | increased light capture |
+3.2 | floating leaf | sunlight capture gas exchange |
+3.2 | mangrove root | support oxygen wet soil |
+3.2 | venusflytrap insects | nitrogen mineral nutrients | primary energy source
+# Ecological dependencies and recognizable interactions.
+3.2 | foodweb source | sunlight producer |
+3.2 | producer role | photosynthesis food chemical energy |
+3.2 | herbivore role | primary consumer eat plants |
+3.2 | carnivore role | consumer predator eat animals |
+3.2 | omnivore role | eat plant animal |
+3.2 | decomposer role | recycle nutrients dead matter |
+3.2 | scavenger role | eat dead animals |
+3.2 | energy food chain | transfer producer consumer heat |
+3.2 | energy pyramid top | least available energy |
+3.2 | energy pyramid bottom | greatest energy producers |
+3.2 | ecosystem recycled | matter nutrients water carbon |
+3.2 | ecosystem lost energy | heat respiration |
+3.2 | decomposers removed | nutrients unavailable dead matter accumulate |
+3.2 | producers removed | food energy oxygen decline |
+3.2 | predators removed | prey population increase |
+3.2 | prey removed | predator decline starvation |
+3.2 | plant population decline | less food herbivores decline |
+3.2 | food shortage | competition population decrease |
+3.2 | water shortage | competition population decrease |
+3.2 | habitat crowded | competition disease resources limited |
+3.2 | carryingcapacity exceed | resources shortage deaths emigration |
+3.2 | population immigration | increase individuals entering |
+3.2 | population emigration | decrease individuals leaving |
+3.2 | population births | increase |
+3.2 | population deaths | decrease |
+3.2 | competition same | niche limited resources |
+3.2 | niche different | reduced competition |
+3.2 | parasite host | parasite benefits host harmed |
+3.2 | tick deer | parasitism blood |
+3.2 | flea dog | parasitism |
+3.2 | tapeworm intestine | parasitism nutrients |
+3.2 | bee flower | mutualism nectar pollination |
+3.2 | cleaner fish shark | mutualism parasite removal |
+3.2 | lichen partners | fungus alga mutualism |
+3.2 | legume bacteria | mutualism nitrogen fixation |
+3.2 | clownfish anemone | mutualism protection |
+3.2 | barnacle whale | commensalism transport |
+3.2 | remora shark | commensalism food scraps |
+3.2 | owl mouse | predation |
+3.2 | lion zebra | predation |
+3.2 | rabbit grass | herbivory primary consumer |
+3.2 | mushroom log | decomposition nutrients |
+3.2 | mold bread | decomposition fungus |
+3.2 | bacteria dead | decomposition nutrient recycling |
+3.2 | worm garden | aeration decomposition |
+3.2 | fox white | camouflage snow |
+3.2 | stick insect twig | camouflage avoid predators |
+3.2 | octopus color | camouflage hide predators |
+3.2 | chameleon color | camouflage communication |
+3.2 | butterfly eyespots | predator defense |
+3.2 | skunk smell | defense predators |
+3.2 | quills function | defense protection |
+3.2 | shell function | protection support |
+3.2 | turtle shell | defense predators |
+3.2 | bright poisonous | warning coloration predators |
+3.2 | harmless mimic | protection predator avoidance |
+3.2 | hawk beak | tear meat |
+3.2 | finch thick beak | crack hard seeds |
+3.2 | hummingbird long beak | nectar flowers |
+3.2 | duck flat beak | filter water food |
+3.2 | bird webbed feet | swim water propulsion |
+3.2 | bird talons | grasp prey |
+3.2 | owl night | hearing large eyes hunting |
+3.2 | bat night | echolocation sound |
+3.2 | fish gills | dissolved oxygen gas exchange |
+3.2 | whale surfacing | air lung breathing |
+3.2 | dolphin blowhole | air breathing lungs |
+3.2 | amphibian skin | moist diffusion respiration |
+3.2 | earthworm skin | moist gas exchange |
+3.2 | insect spiracles | trachea respiration |
+3.2 | polar blubber | insulation reduce heat loss |
+3.2 | desert large ears | heat dissipation cooling |
+3.2 | camel hump | fat energy storage | water
+3.2 | bear hibernation | lower metabolism conserve energy |
+3.2 | bird seasonal migration | food temperature breeding |
+3.2 | penguin huddling | reduce heat loss |
+3.2 | lizard basking | external heat ectotherm |
+3.2 | snake shedding | growth outer covering |
+3.2 | crab molting | growth exoskeleton |
+3.2 | butterfly caterpillar | metamorphosis larva |
+3.2 | mosquito larvae | aquatic standing water |
+3.2 | frog tadpole | metamorphosis gills legs lung |
+3.2 | bird feather | flight insulation |
+3.2 | mammal milk | offspring nourishment |
+3.2 | egg shell | protection reduced drying |
+3.2 | endangered habitat | conservation protect restore |
+3.2 | isolated population | less gene flow speciation |
+3.2 | ecosystem diversity | resilience alternative food |
+3.2 | forest fire recovery | secondary succession existing soil |
+3.2 | bare lava colonization | primary succession lichen |
+3.2 | glacier retreat colonization | primary succession bare rock |
+3.2 | abandoned farmland | secondary succession soil |
+3.2 | pond algae excess | decomposition oxygen depletion |
+3.2 | fish die fertilizer | eutrophication oxygen depletion |
+3.2 | persistent pesticide food chain | biomagnification top predator |
+3.2 | mercury food chain | biomagnification tissue accumulation |

@@ -1,0 +1,177 @@
+# quantities and units
+meter length distance si unit
+kilogram mass si unit
+second time si unit
+kelvin temperature si unit
+newton unit force
+joule unit energy work
+watt unit power
+volt unit voltage
+ampere amp unit current
+ohm unit resistance
+hertz unit frequency
+decibel unit loudness
+pascal unit pressure
+liter unit volume
+calorie food energy unit
+light year astronomical distance
+kilometer thousand meters
+centimeter hundredth meter
+millimeter thousandth meter
+milliliter thousandth liter cubic centimeter
+gram thousandth kilogram
+# electricity extended
+conductors copper silver aluminum gold metals water salt
+insulators rubber plastic glass wood air cloth
+battery voltage pushes electrons
+electrons flow wire current
+current flows closed loop
+light bulb filament tungsten glows hot
+led light emitting diode efficient
+switch on closed off open
+resistor reduces current
+fuse breaks circuit too much current
+circuit breaker trips
+grounding safety lightning rod
+lightning rod protects buildings
+electric shock water conducts
+static cling clothes dryer
+balloon rubbed hair negative charge
+van de graaff generator static hair stands
+electric charge positive negative neutral
+electromagnetism current magnetic field oersted
+motor coil magnet spins
+generator spins coil magnet induces current faraday
+transformer changes voltage
+alternating current direct current battery dc
+power lines transmit electricity
+electrical energy converted light heat motion sound
+appliances electricity
+solar cells photovoltaic silicon
+# energy extended
+energy cannot created destroyed changes form
+potential energy highest top hill
+kinetic energy greatest bottom moving fastest
+stretched rubber band elastic potential
+compressed spring stored energy
+wound spring toy
+bow arrow elastic potential kinetic
+food stored chemical energy body uses
+muscles chemical energy kinetic energy
+plants store sunlight chemical energy
+fossil fuels stored ancient sunlight
+burning releases stored chemical energy heat light
+nuclear fusion sun hydrogen helium energy
+nuclear fission splitting uranium atoms
+radioactive decay
+thermal energy faster particles
+temperature measures thermal energy
+efficiency useful energy output
+energy loss friction heat sound
+# motion extended
+speed equals distance divided time
+average speed total distance total time
+faster object covers more distance same time
+velocity speed direction north east
+acceleration speeding up slowing down turning
+free fall gravity acceleration
+terminal velocity air resistance equals gravity
+projectile motion curved path
+orbiting satellite falling around earth
+inertia tendency keep moving staying still
+heavier objects more inertia harder start stop
+seatbelts airbags safety inertia
+force arrows direction size
+balanced forces object stationary constant speed
+unbalanced forces object accelerates
+tug war equal teams balanced
+friction brakes heat
+lubricants reduce friction
+streamlined shapes reduce drag air water
+air resistance larger surface area more
+gravity earth 9.8 newtons kilogram
+weight mass times gravity
+weightless orbit freefall
+# light extended
+light waves electromagnetic radiation
+visible light small part spectrum
+light speed vacuum fastest
+light slows water glass refraction bends
+lenses refract light
+mirrors reflect light
+smooth surfaces regular reflection
+rough surfaces scatter diffuse reflection
+sky blue scattering sunlight
+sunset red orange scattering
+filters transmit color block others
+red filter only red light
+primary colors light red green blue
+primary colors paint red yellow blue
+complementary colors
+optical illusions
+periscope mirrors submarine
+kaleidoscope mirrors
+fiber optic cables communication light
+lasers surgery cutting
+uv light invisible fluorescent
+infrared cameras heat night vision
+x rays pass through soft tissue bones
+# sound extended
+sound source vibrating object
+sound travels waves air molecules
+sound faster warm air
+sound faster water than air
+sound fastest steel solids
+vacuum no sound space silent
+loudness amplitude energy
+pitch frequency high low
+human hearing range 20 20000 hertz
+dogs hear higher frequencies
+whale songs travel far ocean
+musical instruments strings wind percussion
+strings vibrate guitar violin piano
+wind instruments air column flute trumpet
+percussion struck drum xylophone
+tuning fork vibrates pitch
+resonance
+sound absorbed soft materials curtains
+sound reflected hard surfaces walls
+ultrasound bats dolphins medical
+earplugs protect hearing
+# chemistry extended
+chemical reaction reactants products energy
+balanced equation same atoms each side
+conservation atoms reaction
+burning methane carbon dioxide water
+photosynthesis reaction carbon dioxide water glucose oxygen
+respiration reaction glucose oxygen carbon dioxide water energy
+rusting iron oxide
+neutralization acid base salt water
+acids react metals hydrogen gas
+baking soda vinegar carbon dioxide foam
+yeast sugar carbon dioxide alcohol
+corrosion metals
+electrolysis water hydrogen oxygen electricity
+precipitate cloudy solid
+gas produced bubbles fizzing
+color change new substance
+temperature change reaction heat released absorbed
+light produced reaction
+odor new smell rotten egg
+irreversible chemical changes
+reversible physical changes melting freezing dissolving
+states room temperature mercury bromine liquid
+noble gases inert signs neon lights
+diatomic hydrogen oxygen nitrogen
+water molecule polar
+salt crystals cubes
+sugar molecule carbon hydrogen oxygen
+methane natural gas carbon hydrogen
+ozone o3 three oxygen
+carbon monoxide poisonous gas
+helium lighter than air
+hydrogen flammable
+oxygen supports burning
+carbon dioxide puts out fire extinguisher
+nitrogen inert most atmosphere
+elements combine compounds

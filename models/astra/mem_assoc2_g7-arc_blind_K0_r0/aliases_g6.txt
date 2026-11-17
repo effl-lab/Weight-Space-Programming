@@ -1,0 +1,186 @@
+# Generation 6: explicit lexical variants of descriptive science vocabulary.
+# No concept discovery, text corpus, or answer-label statistics are used.
+crumple crumples crumpled crumpling
+wrinkle wrinkles wrinkled wrinkling
+wring wrings wrung wringing
+fray frays frayed fraying
+polish polishes polished polishing
+scratch scratches scratched scratching
+scuff scuffs scuffed scuffing
+scrape scrapes scraped scraping
+shatter shatters shattered shattering
+splinter splinters splintered splintering
+flatten flattens flattened flattening
+stiffen stiffens stiffened stiffening
+soften softens softened softening
+harden hardens hardened hardening
+rustle rustles rustled rustling
+flutter flutters fluttered fluttering
+flap flaps flapped flapping
+paddle paddles paddled paddling
+burrow burrows burrowed burrowing
+burrowing burrowing
+scurry scurries scurried scurrying
+swoop swoops swooped swooping
+cling clings clung clinging
+grip grips gripped gripping
+grasp grasps grasped grasping
+prune prunes pruned pruning
+wither withers withered withering
+droop droops drooped drooping
+wilt wilts wilted wilting
+scar scarred scarring scars
+scarcity scarce
+abundant abundance abundantly
+bleed bleeds bled bleeding
+bruise bruises bruised bruising
+pup pups
+pouch pouches
+placenta placentas placental
+amniotic amnion
+keratin keratinized keratinised
+hemolymph haemolymph
+hemoglobin haemoglobin
+esophagus oesophagus
+feces faeces
+mucus mucous
+neuron neurons neuronal
+neurotransmitter neurotransmitters
+synapse synapses synaptic
+endoskeleton endoskeletons
+endotherm endotherms endothermy
+ectotherm ectotherms ectothermy
+photoperiod photoperiods
+acclimation acclimatization acclimatisation acclimatize acclimatise
+crypsis cryptic
+nocturnal nocturnally
+diurnal diurnally
+ripen ripens ripened ripening
+ripeness ripeness
+ferment ferments fermented fermenting
+pasteurize pasteurizes pasteurized pasteurizing pasteurization pasteurise pasteurised pasteurisation
+homogenize homogenizes homogenized homogenizing homogenization
+recede receding
+meander meanders meandering meandered
+braid braided braiding braids
+undercut undercuts undercutting
+scour scours scoured scouring
+silt silts silty
+clay clays clayey
+alluvium alluvial
+talus scree
+reclaimed reclaim reclaiming reclamation
+reforest reforests reforested reforesting reforestation
+afforestation afforest afforested
+urbanization urbanisation urbanized urbanised
+urban urban
+residential residential
+salinization salinisation salinized salinised
+sinter sinters sintered sintering
+hydrolysis hydrolyze hydrolyzes hydrolyzed hydrolyzing hydrolyse hydrolysed
+oxidize oxidizes oxidized oxidizing oxidise oxidised oxidising
+solder solders soldered soldering
+weld welds welded welding
+alloy alloys alloyed alloying
+lubricate lubricates lubricated lubricating lubrication
+lubricant lubricants
+siphon siphons siphoning siphoned
+capillarity capillarity
+wick wicks wicking wicked
+meniscus menisci
+adhesion adhesive
+cohesion cohesive
+hydrophobic hydrophobicity
+hydrophilic hydrophilicity
+brittle brittleness
+malleable malleability
+ductile ductility
+viscous viscosity
+elastic elasticity
+inelastic inelasticity
+rigid rigidity
+permeable permeability
+impermeable impermeability
+porous porosity
+buoyant buoyancy
+sinkhole sinkholes
+stalactite stalactites
+stalagmite stalagmites
+waterspout waterspouts
+landslide landslides
+mudslide mudslides
+liquefaction liquefy liquefied liquefying
+sleet sleets
+hailstone hailstones
+icicle icicles
+snowflake snowflakes
+isotherm isotherms
+isobar isobars
+radiosonde radiosondes
+altimeter altimeters
+seismometer seismometers
+bathymetry bathymetric
+spectrometer spectrometers spectrometry
+spectroscope spectroscopes spectroscopy spectroscopic
+centrifuge centrifuges centrifuging centrifuged
+chromatogram chromatograms
+graduation graduations
+quantify quantifies quantified quantifying quantification
+# Susceptibility to testing is not an observed refutation or fabricated evidence.
+falsify falsifies falsified falsifying
+falsifiable falsifiability
+refute refutes refuted refuting refutation
+substantiate substantiates substantiated substantiating
+misconception misconceptions
+credible credibility
+anonymity anonymous anonymously
+consent consenting consented
+replicate replicates replicated replicating replication
+interpolate interpolates interpolated interpolating interpolation
+extrapolate extrapolates extrapolated extrapolating extrapolation
+synchronize synchronizes synchronized synchronizing synchronization
+fluctuate fluctuating
+counterbalance counterbalances counterbalanced counterbalancing
+alternation alternating alternate alternates alternated
+rectifier rectifiers rectification rectify rectifies rectified
+commutator commutators
+photoelectric photoelectrically
+photovoltaic photovoltaics
+piezoelectric piezoelectricity
+incandescent incandescence
+fluorescent fluorescence
+phosphorescent phosphorescence
+luminescent luminescence
+bioluminescent bioluminescence
+retroreflector retroreflectors
+polarize polarizes polarized polarizing polarization polarise polarised polarisation
+# Compound formulas retain compound identity instead of mapping to one element.
+sodiumhydroxide naoh
+sodiumbicarbonate nahco3
+calciumhydroxide
+sulfuricacid sulphuricacid h2so4
+nitricacid hno3
+aceticacid ethanoicacid ch3cooh
+sulfuric sulphuric
+sulfate sulphate sulfates sulphates
+glucose c6h12o6
+hydroxide hydroxides
+bicarbonate bicarbonates
+carbonate carbonates
+# Review: connect genuine inflections without merging dimensions and directions.
+cushion cushions cushioned cushioning
+steep steeper steepest
+shallow shallower shallowest
+deep deeper deepest
+slope slopes sloping sloped
+mesh meshes meshed meshing
+exceed exceeds exceeded exceeding
+condenser condensers
+# Quantified biological descriptions need this word, despite the grammar filter.
+both
+bird avian
+erythroblast erythroblasts
+galvanic voltaic
+electrolysis electrolytic
+crenation crenated crenate
+nucleated nucleate

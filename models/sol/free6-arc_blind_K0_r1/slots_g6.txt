@@ -1,0 +1,361 @@
+# Additional explicit scientific relationships; conjunctions separate roles.
+# Molecular and cell structures
+nucleolus | function | ribosome assembly,ribosome production | 4
+nucleolus | location | nucleus | 3
+nucleoid | location | bacterium,prokaryote | 4
+nucleoid | material | DNA,genetic material | 4
+plasmid | characteristic | circular DNA,extra chromosome DNA | 3
+plasmid | location | bacterium | 3
+centriole | function | organizes spindle,cell division | 3
+centromere | function | joins sister chromatids,spindle attachment | 4
+telomere | location | chromosome ends | 3
+cytoskeleton | function | support,cell shape,organelle movement | 4
+flagellum | function | movement,locomotion | 4
+cilia | function | movement,moves mucus | 4
+pseudopod | function | movement,engulfs food | 4
+pseudopod | location | amoeba | 4
+contractile vacuole | function | removes excess water,water balance | 4
+contractile vacuole | location | freshwater protist,paramecium | 3
+starch | function | energy storage plant | 4
+glycogen | function | energy storage animal | 4
+cellulose | function | structural support plant | 4
+chitin | location | fungus cell wall,arthropod exoskeleton | 4
+phospholipid | location | cell membrane | 4
+phospholipid | characteristic | hydrophilic head,hydrophobic tail | 3
+hemoglobin | material | iron,protein | 3
+chlorophyll | material | magnesium | 3
+enzyme | material | protein | 3
+amylase | function | breaks down starch | 4
+amylase | location | saliva,pancreatic juice | 3
+pepsin | function | protein digestion | 4
+pepsin | location | stomach | 4
+lipase | function | fat digestion,lipid digestion | 4
+bile | function | emulsifies fat | 4
+bile | location | gallbladder | 4
+liver | product | bile | 4
+pancreas | product | digestive enzymes,insulin,glucagon | 4
+salivary gland | product | saliva,amylase | 4
+stomach | product | hydrochloric acid,pepsin | 4
+small intestine | function | nutrient absorption,digestion | 4
+large intestine | function | water absorption,forms feces | 4
+appendix | location | large intestine | 3
+trachea | transport | air,windpipe | 4
+trachea | characteristic | cartilage rings | 3
+bronchus | location | lung | 3
+alveolus | characteristic | thin walls,large surface area,capillary network | 4
+diaphragm | function | changes chest volume,breathing | 4
+intercostal muscle | function | moves ribs,breathing | 3
+artery | transport | blood away heart | 4
+vein | transport | blood toward heart | 4
+capillary | function | exchange gases,exchange nutrients,exchange wastes | 4
+pulmonary artery | transport | deoxygenated blood,heart to lungs | 4
+pulmonary vein | transport | oxygenated blood,lungs to heart | 4
+aorta | transport | oxygenated blood,left ventricle to body | 4
+vena cava | transport | deoxygenated blood,body to right atrium | 4
+right ventricle | transport | blood to lungs | 4
+left ventricle | transport | blood to body | 4
+left ventricle | characteristic | thick muscular wall | 4
+heart valve | function | prevents backflow | 4
+pacemaker | function | controls heartbeat | 4
+kidney | function | filters blood,water balance,salt balance | 4
+ureter | transport | kidney to bladder,urine | 4
+bladder | function | urine storage | 4
+urethra | transport | urine outside body | 4
+sweat gland | function | evaporative cooling,temperature regulation | 4
+hair follicle | product | hair | 3
+sebaceous gland | product | oil,sebum | 3
+cerebrum | function | thinking,memory,voluntary movement | 4
+cerebellum | function | balance,coordination | 4
+medulla | function | breathing,heartbeat,involuntary functions | 4
+spinal cord | function | reflex,nerve messages | 4
+axon | transport | impulses away cell body | 4
+dendrite | transport | impulses toward cell body | 4
+synapse | characteristic | gap between neurons,neurotransmitter | 4
+neurotransmitter | function | chemical message between neurons | 4
+myelin sheath | function | insulation,faster impulses | 4
+rod;eye | function | dim light vision | 4
+cone;eye | function | color vision | 4
+retina | material | rod,cone,photoreceptor | 4
+iris | material | muscle | 3
+melanin | function | absorbs ultraviolet,skin pigmentation | 3
+vitamin A | function | vision,healthy eyes | 4
+vitamin C | prevention | scurvy | 4
+vitamin D | function | calcium absorption,bone health | 4
+vitamin D | prevention | rickets | 4
+vitamin K | function | blood clotting | 4
+iron;diet,nutrition | function | hemoglobin,oxygen transport | 4
+calcium;diet,nutrition | function | strong bones,strong teeth | 4
+iodine;diet,nutrition | function | thyroid hormone | 4
+fiber;diet,nutrition | function | bowel movement,prevents constipation | 4
+carbohydrate | function | energy source | 3
+protein;diet,nutrition | function | growth,tissue repair | 4
+fat;diet,nutrition | function | energy storage,insulation,cell membrane | 3
+# Plants, animals, and familiar adaptations
+palisade mesophyll | function | photosynthesis | 4
+palisade mesophyll | location | leaf | 4
+spongy mesophyll | characteristic | air spaces,gas exchange | 4
+cuticle;plant,leaf | function | reduces water loss | 4
+lenticel | function | gas exchange | 3
+lenticel | location | woody stem,bark | 3
+rhizoid | function | anchorage | 4
+rhizoid | location | moss | 4
+rhizome | characteristic | underground stem | 4
+tuber | characteristic | food storage stem | 4
+potato | reproduction | tuber,eyes,buds,vegetative reproduction | 4
+strawberry | reproduction | runner,vegetative reproduction | 4
+onion | reproduction | bulb,vegetative reproduction | 4
+ginger | reproduction | rhizome | 4
+carrot | characteristic | storage root,taproot | 4
+cactus | characteristic | succulent stem,spines,waxy cuticle | 4
+cactus | adaptation | water storage,reduced water loss | 4
+mangrove | adaptation | aerial roots,oxygen uptake | 4
+water lily | adaptation | floating leaf,air spaces,stomata upper surface | 4
+conifer | characteristic | needle leaves,cones,evergreen | 3
+pitcher plant,Venus flytrap | requirement | sunlight,water,minerals | 3
+pitcher plant,Venus flytrap | cause | nutrient poor soil | 3
+pitcher plant,Venus flytrap | function | traps insects,nitrogen source | 3
+endosperm | function | nourishment embryo,stored food | 4
+radicle | characteristic | embryo root | 3
+plumule | characteristic | embryo shoot | 3
+radicle | characteristic | first root | 4
+auxin | function | cell elongation,phototropism | 4
+ethylene | function | fruit ripening | 4
+abscisic acid | function | stomata closure,dormancy | 3
+gibberellin | function | stem elongation,seed germination | 3
+annual | characteristic | life cycle one year | 4
+biennial | characteristic | life cycle two years | 4
+perennial | characteristic | lives many years | 4
+monocot | characteristic | one cotyledon,parallel veins,fibrous roots | 4
+dicot | characteristic | two cotyledons,branched veins,taproot | 4
+sperm | characteristic | haploid,tail,male gamete | 4
+egg | characteristic | haploid,female gamete | 4
+zygote | cause | fertilization | 4
+zygote | characteristic | diploid,fertilized egg | 4
+embryo | cause | dividing zygote | 3
+placenta | location | uterus | 3
+amniotic fluid | function | cushions embryo,protection | 4
+marsupial | characteristic | young develop pouch | 4
+monotreme | characteristic | egg laying mammal | 4
+baleen | function | filters food,strains plankton | 4
+blubber | function | insulation,energy storage | 4
+fish lateral line | function | detects water vibrations | 4
+swim bladder | function | buoyancy,depth control | 4
+spiracle;insect | function | gas exchange,air entry | 4
+tracheal tube;insect | transport | oxygen directly tissues | 4
+book lung | location | spider,arachnid | 3
+crop;bird | function | temporary food storage | 4
+gizzard | function | grinds food | 4
+crop;earthworm | function | food storage | 4
+earthworm | characteristic | segmented body,moist skin | 3
+earthworm | requirement | moist skin,oxygen | 3
+bat,dolphin | function | echolocation | 3
+arctic fox | adaptation | small ears,thick fur,reduced heat loss | 4
+fennec fox | adaptation | large ears,heat loss | 4
+camel | adaptation | broad feet,long eyelashes,conserves water | 3
+hummingbird | adaptation | long beak,nectar feeding | 4
+woodpecker | adaptation | strong beak,extracts insects | 4
+duck | adaptation | webbed feet,waterproof feathers | 4
+owl | adaptation | night vision,acute hearing,silent flight | 4
+porcupine | adaptation | quills,protection predators | 4
+opossum | adaptation | plays dead | 3
+skunk | adaptation | defensive spray | 4
+stick insect | adaptation | camouflage | 4
+viceroy butterfly | adaptation | mimicry,warning coloration | 3
+countershading | function | camouflage,protection predators | 4
+# Earth materials and observable evidence
+quartz | material | silicon dioxide | 4
+calcite | material | calcium carbonate | 4
+halite | material | sodium chloride | 4
+gypsum | characteristic | hardness two | 3
+talc | characteristic | softest mineral,hardness one | 4
+diamond | characteristic | hardest mineral,hardness ten | 4
+magnetite | characteristic | magnetic mineral | 4
+hematite | characteristic | reddish streak,iron ore | 3
+galena | characteristic | lead ore | 3
+bauxite | characteristic | aluminum ore | 3
+mineral streak | characteristic | powdered mineral color | 4
+mineral cleavage | characteristic | breaks smooth flat planes | 4
+mineral fracture | characteristic | breaks irregular surfaces | 4
+Mohs scale | instrument | mineral hardness,scratch resistance | 4
+streak plate | instrument | powdered mineral color | 4
+acid test | indication | calcite,carbonate | 4
+granite | material | quartz,feldspar,mica | 3
+basalt | characteristic | extrusive igneous,dark,fine grained | 4
+granite | characteristic | intrusive igneous,coarse grained | 4
+obsidian | characteristic | volcanic glass,no crystals | 4
+pumice | characteristic | gas holes,low density | 4
+conglomerate | characteristic | rounded pebbles | 4
+breccia | characteristic | angular fragments | 4
+shale | material | clay,mud | 4
+sandstone | material | sand grains | 4
+limestone | material | calcite,calcium carbonate,shells | 4
+coal | cause | buried ancient plants,swamp vegetation | 4
+peat | cause | partially decomposed plants | 4
+marble | cause | metamorphosed limestone | 4
+slate | cause | metamorphosed shale | 4
+quartzite | cause | metamorphosed sandstone | 4
+gneiss | characteristic | banded metamorphic rock | 4
+schist | characteristic | foliated metamorphic rock | 3
+slate | characteristic | flat cleavage,foliated rock | 3
+fossil cast | cause | mineral fills mold | 4
+fossil mold | characteristic | hollow impression | 4
+petrified fossil | cause | minerals replace organic material | 4
+amber | characteristic | hardened tree resin,preserved organisms | 4
+trace fossil | characteristic | footprint,burrow,activity evidence | 4
+index fossil | characteristic | widespread,short time range | 4
+unconformity | indication | erosion,missing rock record,time gap | 4
+ripple mark | indication | ancient flowing water,ancient waves | 3
+mud crack | indication | drying wet sediment | 4
+cross bedding | indication | wind direction,water current direction | 3
+varve | indication | annual sediment layers | 3
+fault | cause | rock fracture movement | 4
+fold | cause | compression,deformation rock layers | 4
+normal fault | cause | tension,pulling apart | 4
+reverse fault | cause | compression,pushing together | 4
+strike slip fault | cause | shear,sideways motion | 4
+San Andreas fault | classification | transform boundary | 4
+Himalayas | cause | continental collision,India Eurasia | 4
+Andes | cause | oceanic continental subduction | 4
+Mid Atlantic Ridge | classification | divergent boundary | 4
+Hawaii | cause | hot spot,mantle plume | 4
+Mariana Trench | cause | oceanic subduction | 3
+rift valley | cause | continental divergence | 4
+seismometer | instrument | seismic waves,ground motion | 4
+Richter scale | indication | earthquake magnitude | 3
+Mercalli scale | indication | earthquake intensity,observed damage | 4
+P wave | characteristic | compressional,longitudinal,fastest seismic | 4
+S wave | characteristic | transverse,cannot cross liquid | 4
+focus;earthquake | location | underground origin | 4
+epicenter | location | surface above focus | 4
+# Weather, environmental measurements, chemistry applications
+stratus | characteristic | flat layered cloud,overcast | 4
+cumulus | characteristic | puffy cloud,fair weather | 4
+cumulonimbus | characteristic | thunderstorm cloud,tall vertical | 4
+cirrus | characteristic | high thin wispy cloud,ice crystals | 4
+nimbostratus | characteristic | steady rain,layered rain cloud | 4
+isobar | characteristic | equal air pressure | 4
+isotherm | characteristic | equal temperature | 4
+contour line | characteristic | equal elevation | 4
+isohyete | characteristic | equal precipitation | 3
+stationary front | characteristic | boundary not moving | 4
+occluded front | cause | cold front overtakes | 4
+rain shadow | location | leeward mountain | 4
+psychrometer | instrument | relative humidity | 4
+sling psychrometer | material | wet bulb,dry bulb | 3
+barometer | instrument | atmospheric pressure | 4
+aneroid barometer | characteristic | no liquid | 3
+mercury barometer | characteristic | liquid column | 3
+rain gauge | instrument | precipitation amount | 4
+anemometer | instrument | wind speed | 4
+wind vane | instrument | wind direction | 4
+weather balloon | instrument | upper atmosphere,temperature,pressure | 3
+Doppler radar | instrument | precipitation motion,storm movement | 4
+satellite;weather | instrument | cloud patterns,storm tracking | 4
+fluorine | function | tooth decay prevention | 3
+chlorine | function | disinfects water,kills microorganisms | 4
+activated carbon | function | adsorbs impurities,water filtration | 3
+alum | function | coagulation,clumps suspended particles | 3
+liming;soil,lake | function | neutralizes acidity,increases pH | 4
+catalytic converter | function | reduces harmful emissions | 4
+scrubber | function | removes sulfur dioxide,removes pollutants | 4
+smokestack filter | function | removes particulates | 4
+septic tank | function | sewage treatment,bacterial decomposition | 3
+compost | cause | decomposition organic waste | 4
+compost | function | returns nutrients,improves soil | 4
+crop rotation | function | maintains soil fertility,reduces pests | 4
+contour plowing | prevention | soil erosion | 4
+terracing | prevention | soil erosion,rapid runoff | 4
+windbreak | prevention | wind erosion | 4
+cover crop | prevention | soil erosion | 4
+strip cropping | prevention | soil erosion | 4
+recycling | function | conserves raw materials,reduces landfill waste | 4
+reuse | function | reduces waste,conserves resources | 4
+# Energy transformations and engineering devices
+microphone | energy_input | sound energy | 4
+microphone | energy_output | electrical energy | 4
+loudspeaker | energy_input | electrical energy | 4
+loudspeaker | energy_output | sound energy | 4
+electric motor | energy_input | electrical energy | 4
+electric motor | energy_output | mechanical energy,kinetic energy | 4
+generator | energy_input | mechanical energy,kinetic energy | 4
+generator | energy_output | electrical energy | 4
+solar cell | energy_input | light energy,solar energy | 4
+solar cell | energy_output | electrical energy | 4
+solar collector | energy_input | radiant energy | 4
+solar collector | energy_output | thermal energy | 4
+battery | energy_input | chemical energy | 4
+battery | energy_output | electrical energy | 4
+rechargeable battery;charging | energy_input | electrical energy | 4
+rechargeable battery;charging | energy_output | chemical energy | 4
+fuel cell | energy_input | chemical energy | 4
+fuel cell | energy_output | electrical energy | 4
+electric heater | energy_input | electrical energy | 4
+electric heater | energy_output | thermal energy | 4
+light emitting diode | energy_input | electrical energy | 4
+light emitting diode | energy_output | light energy | 4
+wind turbine | energy_input | kinetic energy,wind | 4
+wind turbine | energy_output | electrical energy | 4
+hydroelectric dam | energy_input | gravitational potential energy,moving water | 4
+hydroelectric dam | energy_output | electrical energy | 4
+steam turbine | energy_input | thermal energy,steam motion | 3
+steam turbine | energy_output | mechanical energy | 3
+nuclear reactor | energy_input | nuclear energy | 4
+nuclear reactor | energy_output | thermal energy | 4
+fuse | prevention | excessive current,overheating,fire | 4
+circuit breaker | prevention | excessive current,overheating | 4
+ground wire | prevention | electric shock | 4
+lightning rod | prevention | lightning damage | 4
+lightning rod | function | conducts charge ground | 4
+transformer | function | changes alternating voltage | 4
+step up transformer | characteristic | more secondary turns,higher voltage | 4
+step down transformer | characteristic | fewer secondary turns,lower voltage | 4
+commutator | function | reverses current,motor rotation | 3
+solenoid | characteristic | wire coil,magnetic field | 4
+# Astronomy, sensing, and waves
+spectroscope | instrument | light spectrum,element composition | 4
+spectral line | indication | element identity | 4
+redshift | indication | moving away,universe expansion | 4
+blueshift | indication | approaching | 4
+parallax | instrument | distance nearby stars | 4
+astronomical unit | characteristic | Earth Sun distance | 4
+light year | characteristic | distance light travels year | 4
+parsec | unit | astronomical distance | 3
+chromosphere | location | Sun atmosphere | 3
+photosphere | characteristic | visible Sun surface | 4
+corona | location | Sun outer atmosphere | 4
+sunspot | characteristic | cooler Sun region,magnetic activity | 4
+solar flare | characteristic | sudden energy release,magnetic activity | 3
+solar wind | material | charged particles | 4
+aurora | cause | charged particles,Earth magnetic field | 4
+white dwarf | characteristic | small dense stellar remnant | 4
+neutron star | characteristic | dense collapsed core | 4
+supernova | characteristic | massive star explosion | 4
+nebula | material | gas,dust | 4
+protostar | cause | collapsing gas dust | 4
+black hole | characteristic | light cannot escape,strong gravity | 4
+meteor | cause | meteoroid atmosphere | 4
+meteorite | location | Earth surface | 4
+asteroid belt | location | Mars Jupiter | 4
+Kuiper belt | location | beyond Neptune | 4
+Oort cloud | characteristic | distant comet reservoir | 3
+sonar | instrument | underwater distance,ocean depth | 4
+sonar | cause | reflected sound,echo | 4
+radar | cause | reflected radio wave | 4
+fiber optic | cause | total internal reflection | 4
+periscope | cause | reflection | 4
+magnifying glass | material | convex lens | 4
+rearview mirror | characteristic | convex mirror,wide field view | 4
+shaving mirror | characteristic | concave mirror,magnified image | 3
+concave mirror | function | converges light | 4
+convex mirror | function | diverges light | 4
+concave lens | function | diverges light | 4
+convex lens | function | converges light | 4
+polarizing filter | function | reduces glare,selects vibration direction | 3
+ultrasound | characteristic | frequency above human hearing | 4
+infrasound | characteristic | frequency below human hearing | 4
+infrared | function | thermal imaging,remote control | 4
+ultraviolet | function | sterilization,vitamin D production | 3
+x ray | function | bone imaging | 4
+gamma ray | function | cancer treatment,sterilization | 3
+microwave | function | cooking,satellite communication | 3
+radio wave | function | broadcasting,communication | 3

@@ -1,0 +1,135 @@
+# Earth and space scenario reasoning
+rock layers tilted > earth forces moved after deposition
+rock layers folded > compression plate collision
+rock layer missing > erosion unconformity
+igneous rock cutting through layers > younger than layers intrusion
+fossil found lower layer > older
+fossil found upper layer > younger
+same fossil two locations > layers same age correlate index fossil
+shells high in mountains > uplift ocean floor plates
+coal found antarctica > once warm swampy climate continents moved
+glacial grooves warm area > once covered by glaciers ice age
+boulders different rock type field > glacier carried erratic
+sand dunes formed > wind deposition desert beach
+v shaped valley > river erosion
+u shaped valley > glacier erosion
+wide flat valley > old river floodplain
+river fast steep > large rocks carried erosion
+river slow flat > small sediment deposited meanders
+river mouth > delta deposits
+river carries most sediment > flood high speed
+muddy water after rain > sediment erosion runoff
+beach sand disappears winter > waves erosion storms
+sand moved along beach > longshore current
+cliff collapses > wave erosion undercutting
+building on floodplain risk > flooding
+building on fault risk > earthquake damage
+building near volcano risk > eruption lava ash
+building on steep slope risk > landslide
+homes coastal risk > hurricanes storm surge erosion
+soil washed away after fire > no plant roots erosion
+deep soil develops > long time warm wet climate plants
+thin soil > cold dry steep young
+soil color dark > humus organic matter fertile
+soil color red > iron oxide
+rock weathers faster > more surface area cracks water warm climate
+cemetery stones marble weathered > acid rain
+limestone cave > groundwater carbonic acid dissolves
+potholes after winter > freeze thaw water expands
+rocks split mountain > frost wedging
+tree roots sidewalk crack > plant roots weathering
+lichen rock > chemical weathering acids soil formation
+animals burrowing > weathering mixing soil
+earthquake waves recorded > seismograph stations distance
+earthquake location found > three seismograph stations triangulation
+s waves stop outer core > outer core liquid
+earth interior studied > seismic waves
+earthquake strongest damage near > epicenter
+tsunami after earthquake > move to higher ground
+volcano warning signs > small earthquakes ground bulging gas
+volcanic soil > fertile farming
+volcanic island chain ages > older farther from hot spot
+mountain range forms > plates collide millions years
+ocean trench forms > subduction
+new ocean forming > rift valley divergent east africa red sea
+continents moving apart today > atlantic ocean widening
+sea level fell ice age > water stored glaciers
+sea level rises > ice melting warming
+lake effect snow > cold air passes warm lake
+fog forms valley morning > cool air settles condenses
+frost forms clear night > heat radiates temperature drops below freezing
+rain forms > droplets combine fall
+hail size > strong updrafts
+thunder sound > rapid expansion heated air
+lightning safety > indoors avoid trees water
+tornado warning > take shelter basement
+hurricane strongest > warm water late summer
+hurricane loses strength > land cold water
+weather fronts united states > move west to east
+weather map h > high pressure clear
+weather map l > low pressure storm
+falling air pressure > storm approaching
+rising air pressure > clearing weather
+humid day sweat evaporates slowly > feel hotter
+dry air sweat evaporates fast > feel cooler
+wind chill > feels colder
+heat index > humidity feels hotter
+cloudy day temperature range > smaller
+clear day temperature range > larger hot day cold night
+desert night cold > clear dry air heat escapes
+spring fall seasons > equinox equal day night
+summer solstice > longest day sun highest
+winter solstice > shortest day sun lowest
+shadows winter noon > longer sun lower
+shadows summer noon > shorter sun higher
+sun position noon > due south northern hemisphere
+stars seen depend > season location earth orbit
+moon rises later each night > moon orbit
+full moon rises > sunset
+new moon > not visible near sun
+moon seen daytime > first quarter third quarter
+lunar eclipse color > red copper
+solar eclipse safety > special glasses never look directly
+total solar eclipse rare > small shadow path
+eclipse not every month > moon orbit tilted
+tides two highs each day > moon pulls bulges earth rotates
+tide pools > organisms adapt changing water
+gravity moon less > smaller mass
+gravity jupiter more > larger mass
+weight different planets > gravity differs mass same
+astronaut mass moon > same as earth
+astronaut weight moon > one sixth
+jumping on moon > higher less gravity
+feather hammer moon > fall same rate no air
+sound on moon > none no air
+sky on moon > black no atmosphere
+moon temperature > extreme hot day cold night no atmosphere
+mars colder than earth > farther from sun thin atmosphere
+venus hotter than mercury > greenhouse thick atmosphere
+outer planets cold > far from sun
+planet year length > distance from sun
+planet day length > rotation
+earth only planet life > liquid water temperature atmosphere
+search life mars > water evidence rovers
+comet appears > approaches sun ice vaporizes
+meteor shower > earth passes comet debris
+shooting star > meteor not star
+asteroid hit earth > craters extinction
+sun spots observed > sun rotates
+sun energy reaches earth > electromagnetic radiation light
+solar wind > charged particles
+aurora seen > near poles
+stars different colors > different temperatures
+stars appear dim > far away small
+polaris position > north altitude equals latitude
+sailors navigation > stars polaris compass
+calendar > earth orbit moon phases
+light from stars old > traveled long distances years
+looking at stars > seeing the past
+universe expanding > galaxies moving apart
+telescope larger mirror > collects more light fainter objects
+radio telescope > invisible radio waves
+satellites study earth > weather climate ice forests
+international space station > orbits earth astronauts research
+rocket needs > thrust overcome gravity
+orbit speed > balance gravity

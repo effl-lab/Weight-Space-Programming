@@ -1,0 +1,142 @@
+# crisp: inquiry and measurement
+Scientists ask questions and test hypotheses.
+An experiment tests a hypothesis.
+Change only one variable at a time.
+The independent variable is changed on purpose.
+The dependent variable is measured.
+Controlled variables stay the same.
+A fair test changes one variable.
+Repeat trials to check results.
+Record data in a table.
+Graphs show patterns in data.
+Line graphs show change over time.
+Bar graphs compare groups.
+Conclusions are based on data.
+Observations use the senses.
+Inferences explain observations.
+Predictions forecast results.
+Models represent real objects.
+Scientists share results with others.
+Results should be reported honestly.
+The metric system is based on tens.
+A meter measures length.
+A gram measures mass.
+A liter measures volume.
+A newton measures force.
+A degree Celsius measures temperature.
+A second measures time.
+A kilometer is 1000 meters.
+A centimeter is one hundredth of a meter.
+A kilogram is 1000 grams.
+A milliliter is one thousandth of a liter.
+Wear goggles in the lab.
+Wash hands after the lab.
+Tell the teacher about spills.
+Never eat in the lab.
+Tie back long hair near flames.
+Use tongs for hot objects.
+# crisp: everyday phenomena
+Puddles dry up by evaporation.
+Wet clothes dry by evaporation.
+Cold glasses get wet by condensation.
+Breath fogs a cold window by condensation.
+Ice cubes melt in warm air.
+Water in a freezer turns to ice.
+A pot of boiling water makes steam.
+Steam condenses on a cold lid.
+Metal spoons get hot in hot soup.
+Wooden spoons stay cool.
+Dark clothes get hot in the sun.
+White clothes stay cooler in the sun.
+Rubbing hands makes heat.
+Brakes use friction.
+Ice is slippery because it has little friction.
+Sand on ice increases friction.
+Oil reduces friction.
+A ball rolls farther on smooth surfaces.
+Balls fall because of gravity.
+Balloons stick by static electricity.
+Lightning is static electricity.
+Thunder is the sound of lightning.
+We see lightning before hearing thunder.
+Echoes bounce off walls.
+Shadows are long in the morning and evening.
+Rainbows form when sunlight passes through raindrops.
+A straw looks bent in water because of refraction.
+Mirrors make reflections.
+A magnifying glass enlarges objects.
+Magnets pick up paper clips.
+Magnets do not attract aluminum.
+Bread rises because of yeast.
+Milk spoils because of bacteria.
+Food stays fresh longer in the refrigerator.
+Iron rusts in water and air.
+Silver tarnishes.
+Apples turn brown in air.
+Leaves change color in fall.
+Birds migrate south in fall.
+Bears hibernate in winter.
+Squirrels store nuts.
+Plants grow toward windows.
+Plants wilt without water.
+Plants turn yellow without light.
+Mold grows in warm damp places.
+Flowers attract bees.
+Bees make honey from nectar.
+Caterpillars become butterflies.
+Tadpoles become frogs.
+Seeds sprout in moist soil.
+Earthworms tunnel through soil.
+Rocks are rounded in rivers.
+Sidewalks crack from freezing water.
+Tree roots crack rocks.
+Rivers are muddy after rain.
+Beaches lose sand in storms.
+Wind blows sand into dunes.
+Snow melts in spring.
+Days are longer in summer.
+Nights are longer in winter.
+It is colder at night.
+It is colder on mountain tops.
+Coastal areas have mild weather.
+# crisp: causes and effects
+Sunlight causes evaporation.
+Cooling causes condensation.
+Heating causes melting.
+Cooling causes freezing.
+Gravity causes falling.
+Friction causes slowing.
+Vibrations cause sound.
+Unbalanced forces cause acceleration.
+Uneven heating causes wind.
+Wind causes waves.
+The Moon causes tides.
+Earth's tilt causes seasons.
+Earth's rotation causes day and night.
+The Moon's orbit causes phases.
+Plate movement causes earthquakes.
+Plate movement causes volcanoes.
+Plate collisions cause mountains.
+Water causes erosion.
+Ice causes weathering.
+Acid rain causes weathering.
+Burning fossil fuels causes air pollution.
+Burning fossil fuels causes acid rain.
+Burning fossil fuels causes global warming.
+Greenhouse gases cause warming.
+Deforestation causes erosion.
+Pollution causes harm to wildlife.
+Habitat loss causes extinction.
+Bacteria cause some diseases.
+Viruses cause some diseases.
+Smoking causes lung cancer.
+Lack of food causes population decline.
+More predators cause fewer prey.
+Fewer predators cause more prey.
+Drought causes plants to die.
+Floods cause erosion.
+Mutations cause new traits.
+Natural selection causes evolution.
+Photosynthesis causes oxygen release.
+Respiration causes carbon dioxide release.
+Decomposition returns nutrients to soil.

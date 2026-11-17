@@ -1,0 +1,137 @@
+# Generation 4: more single facts across topics (senses, atoms, space, careers, everyday science).
+# --- senses
+iris = colored part of eye controls amount of light entering pupil
+pupil = opening lets light into eye
+lens eye > focuses light on retina
+retina > light sensitive cells rods cones image
+optic nerve > carries signals eye to brain
+cornea > clear front eye
+eye controls light entering > iris pupil
+eardrum > vibrates sound waves
+cochlea > inner ear hearing nerve signals
+auditory nerve > carries sound signals to brain
+semicircular canals inner ear > balance
+outer ear > collects sound waves
+taste buds > tongue
+smell receptors > nose
+touch receptors > skin
+sense organs send signals > brain nerves
+# --- atom structure paraphrases
+particle outside nucleus > electron
+particles inside nucleus > protons neutrons
+particle positive charge > proton
+particle no charge > neutron
+particle negative charge > electron
+particle smallest mass > electron
+model atom outside nucleus > electrons cloud orbit
+bohr model > electrons orbit nucleus energy levels
+rutherford > nucleus gold foil
+dalton > atomic theory atoms indivisible
+thomson > electron plum pudding
+# --- space suits and environment of space
+astronauts space suits > no air oxygen pressure temperature extremes radiation
+moon no air > astronauts need oxygen space suit
+space no air > no oxygen no sound
+astronauts space station exercise > muscles bones weaken weightlessness
+astronauts food water > recycled carried
+closest star earth > sun
+closest star after sun > proxima centauri
+sun appears larger than other stars > closer
+star patterns > constellations
+# --- careers
+geologist = scientist studies rocks minerals earth
+meteorologist = scientist studies weather forecasts
+astronomer = scientist studies stars planets space
+biologist = scientist studies living things
+botanist = scientist studies plants
+zoologist = scientist studies animals
+ecologist = scientist studies ecosystems interactions environment
+paleontologist = scientist studies fossils dinosaurs
+seismologist = scientist studies earthquakes
+volcanologist = scientist studies volcanoes
+oceanographer = scientist studies oceans
+chemist = scientist studies matter chemicals reactions
+physicist = scientist studies energy forces motion
+entomologist = scientist studies insects
+microbiologist = scientist studies microorganisms bacteria
+geneticist = scientist studies genes heredity dna
+archaeologist = studies human artifacts past cultures
+engineer = designs builds solves problems
+physician doctor > treats illness body
+veterinarian > treats animals
+pharmacist > medicines
+# --- weathering paraphrases
+rocks become sediment > weathering
+rocks broken into smaller pieces > weathering
+large rock breaks sand > weathering
+wind water break rock > weathering
+sediment moved away > erosion
+sediment dropped > deposition
+sediments pressed glued > compaction cementation sedimentary rock
+# --- energy sources pollution
+energy source does not produce air pollution > solar wind hydroelectric geothermal
+energy source no air pollution > solar wind hydroelectric geothermal
+energy source air pollution > coal oil natural gas burning fossil fuels
+clean energy > solar wind water
+electricity without pollution > solar panels wind turbines
+# --- cells and organisms made of cells
+made of cells > living things plants animals leaves wood skin bacteria
+not made of cells > rocks water air metal plastic
+wood made of > dead plant cells
+cork made of > dead plant cells
+# --- everyday science
+ice cream melts > heat from warm air
+sweat evaporates > cools skin
+fan cools > evaporation moving air
+car hot sunny day > windows trap heat greenhouse
+greenhouse warm > glass traps heat
+refrigerator works > removes heat inside
+thermostat > controls temperature
+dark pavement hot > absorbs sunlight
+metal feels colder than wood > conducts heat away from hand faster
+blanket keeps warm > insulator traps body heat
+wet suit diver > insulation
+igloo > snow insulator
+double pane windows > insulation trapped air
+cooler ice chest > insulator keeps cold
+spoon in tea gets hot > conduction
+soup cools blowing > evaporation convection
+bread toasted > chemical change
+grill charcoal > chemical energy heat
+candle burning produces > light heat carbon dioxide water
+flashlight not working > dead batteries open circuit burned bulb
+doorbell > electromagnet
+speaker headphones > electromagnet vibrations
+microwave heats food > water molecules vibrate
+cell phone > radio waves
+remote control > infrared
+glasses eyeglasses > lenses refraction correct vision
+nearsighted > concave lens
+farsighted > convex lens
+periscope > mirrors reflection
+kaleidoscope > mirrors reflection
+magnifying glass > convex lens enlarge
+camera > lens focuses light image
+solar oven > reflects absorbs sunlight
+bicycle > wheel axle lever gears
+gears > change speed direction force
+pulley crane > lift heavy objects
+ramp wheelchair > inclined plane less force
+stairs > inclined plane
+zipper > wedge
+nail > wedge
+light bulb filament > tungsten glows heat
+seat belts air bags > inertia protect
+helmet > protects head impact
+brakes > friction
+sneakers tread > friction grip
+skis skates > less friction
+ball bearings > reduce friction
+oil engine > reduce friction
+# --- objects that give off light and objects that only reflect it
+object does not produce own light reflects > moon planets mirror
+does not give off own light > moon planets
+reflects light produce own light >! sun star candle flame light bulb fire
+produces own light > sun stars candle flame light bulb fire lightning
+gas plants take in > carbon dioxide
+gas animals take in > oxygen

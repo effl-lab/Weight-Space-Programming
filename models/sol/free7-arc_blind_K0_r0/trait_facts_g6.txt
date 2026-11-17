@@ -1,0 +1,34 @@
+# Structure/process | explicitly signed properties. Omitted facts are unknown.
+# Functions are school-level primary roles. Unqualified structures with known
+# context-dependent functions are left unknown rather than assigned negatives.
+# Mitochondria/chloroplasts have their own translation machinery: this is not
+# declared absent merely because ribosomes are the primary translation site.
+nucleus | +enclosed_membrane,+contains_dna,-protein_synthesis_site,0ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+nucleolus | -enclosed_membrane,+contains_dna,-protein_synthesis_site,+ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+ribosome | -enclosed_membrane,-contains_dna,+protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+mitochondrion | +enclosed_membrane,+contains_dna,0protein_synthesis_site,-ribosome_assembly,+aerobic_respiration_site,-photosynthesis,-protein_packaging,0lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+chloroplast | +enclosed_membrane,+contains_dna,0protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,+photosynthesis,-protein_packaging,0lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+rough ER | +enclosed_membrane,-contains_dna,+protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,0protein_packaging,0lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+smooth ER | +enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,+lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+endoplasmic reticulum | +enclosed_membrane,-contains_dna,0protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,0protein_packaging,0lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+Golgi apparatus | +enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,+protein_packaging,0lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+lysosome | +enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,+intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+vacuole | +enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,0intracellular_digestion,+water_storage_structure,0cell_support_structure,-cell_locomotion
+central vacuole | +enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,0intracellular_digestion,+water_storage_structure,+cell_support_structure,-cell_locomotion
+cell wall | -enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,+cell_support_structure,-cell_exchange_boundary,-cell_locomotion
+cell membrane | 0enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,0aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,0cell_support_structure,+cell_exchange_boundary,-cell_locomotion
+cytoskeleton | -enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,+cell_support_structure,0cell_locomotion
+chromosome | -enclosed_membrane,+contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+plasmid | -enclosed_membrane,+contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_exchange_boundary,-cell_locomotion
+flagellum | 0enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,+cell_locomotion
+cilium | 0enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,0cell_locomotion
+motile cilium | 0enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,+cell_locomotion
+primary cilium | 0enclosed_membrane,-contains_dna,-protein_synthesis_site,-ribosome_assembly,-aerobic_respiration_site,-photosynthesis,-protein_packaging,-lipid_synthesis_site,-intracellular_digestion,-water_storage_structure,-cell_locomotion
+# Complete all six directed changes without conflating solid/gas with gas/solid.
+melting | -liquid_to_solid,-gas_to_solid
+freezing | +liquid_to_solid,-gas_to_solid
+evaporation | -liquid_to_solid,-gas_to_solid
+boiling | -liquid_to_solid,-gas_to_solid
+condensation | -liquid_to_solid,-gas_to_solid
+sublimation | -liquid_to_solid,-gas_to_solid
+deposition | -liquid_to_solid,+gas_to_solid

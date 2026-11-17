@@ -1,0 +1,508 @@
+# Mechanism and scenario bridges authored without assessment data.
+# Forces, energy and machines
+stationary object forces | balanced; net_force zero | no forces necessarily
+moving constant velocity forces | balanced; net_force zero | unbalanced always
+turning constant speed | acceleration direction changes | no acceleration
+satellite circular orbit | gravity inward; velocity tangent | gravity absent
+satellite speed too low | falls toward earth | flies away faster
+orbit weightlessness | continuous free fall | no gravitational force
+astronaut mass moon | unchanged; same matter | one sixth mass
+weight different planet | gravity strength differs | amount matter necessarily changes
+weight altitude | decreases farther earth center | mass increases
+inertia seatbelt | restrains forward motion during sudden stop | eliminates gravity
+bus starts passenger | tends remain rest; appears move backward | no inertia
+bus turns passenger | tends straight motion; inertia | gravity sideways only
+book resting table | gravity down normal_force up; balanced_force | no forces
+skydiver terminal_velocity | drag weight balanced; constant speed | gravity zero
+parachute opened | air_resistance increases; falling speed decreases | gravity disappears
+ball thrown upward acceleration | downward throughout; gravity | upward until highest point
+ball top trajectory | instantaneous vertical velocity zero; acceleration downward | no gravity
+ball dropped horizontal moving | same vertical acceleration | horizontal motion cancels gravity
+mass dropped vacuum | same acceleration independent mass | heavier always faster
+feather rock vacuum | land together same height | feather always slower
+pendulum swing height | potential_energy maximum endpoints | kinetic_energy maximum endpoints
+pendulum swing bottom | speed maximum; kinetic_energy maximum | no energy
+pendulum length longer | longer period; slower swing | faster oscillation
+pendulum mass changed | period approximately unchanged | period proportional mass
+spring compressed | elastic potential_energy | thermal_energy only
+rubber band stretched | stores potential_energy | creates energy
+rubber band released | potential_energy converts kinetic_energy | energy destroyed
+roller_coaster friction | mechanical energy becomes heat sound | energy disappears
+bouncing ball lower height | energy dissipated heat sound | matter destroyed
+falling ball air friction | some energy thermal | all potential necessarily kinetic
+hammer nail | kinetic energy transferred; work | no energy change
+heavy box lifted | work against gravity; potential_energy increases | gravity potential decreases
+box held stationary | no mechanical work on box | work equals time only
+push wall no motion | no mechanical work on wall | large distance moved
+carry box horizontal height | gravitational force does no work along horizontal displacement | weight disappears
+simple_machine reduce force | larger distance; same ideal work | energy created
+ramp longer same height | less effort force; longer distance | less ideal work
+ramp friction | extra work becomes heat | less than ideal work
+pulley fixed | changes direction; same ideal effort load | creates energy
+pulley multiple support ropes | shares load; smaller effort; longer pull | less ideal total energy
+lever long effort_arm | greater mechanical advantage | more required effort
+lever first class | fulcrum between load effort; seesaw | screw thread
+lever second class | load between fulcrum effort; wheelbarrow | pulley only
+lever third class | effort between fulcrum load; forearm | creates energy
+wedge sharp | smaller contact area; larger pressure | less pressure
+snowshoes skis | distribute force large area; lower pressure | increase density
+needle sharp | force small area; high pressure | low pressure
+fluid depth pressure | weight overlying fluid; greater deeper | zero at bottom
+hydraulic brakes | pressure transmitted fluid | liquid creates energy
+ship hollow | average density lowered; displaces water | all steel less dense water
+submarine ballast | take water sink; expel water rise | buoyancy unrelated density
+life_jacket | increases volume little mass; buoyancy | increases density
+floating object equilibrium | buoyant force equals weight | buoyant force always greater
+salt_water floating | denser fluid; greater buoyancy same volume | less buoyancy always
+ice cube floating melt | approximately unchanged water level | water level doubles
+pressure force area | same force smaller area larger pressure | always independent area
+friction motionless | static friction prevents sliding | friction only moving objects
+rolling sliding friction | rolling usually smaller | rolling always larger
+lubrication moving parts | reduces contact friction; wear; heating | increases friction deliberately
+rough tires traction | more grip; braking | eliminates normal force
+wet slippery road | reduced traction; longer stopping distance | shorter braking distance always
+helmet padding | increases stopping time; reduces force | removes all momentum instantly
+crumple zone | absorbs energy; increases stopping time | increases collision force
+momentum conservation collision | total momentum isolated system constant | kinetic_energy always conserved
+elastic collision | momentum kinetic_energy conserved | all energy lost
+inelastic collision | kinetic_energy converted other forms; momentum conserved | total energy destroyed
+sound no medium | no sound propagation vacuum | louder in vacuum
+astronaut communication | radio electromagnetic waves | ordinary sound across empty space
+sound energy air | vibrating particles transfer energy | air moves permanently speaker ear
+wave cork water | bobs locally; wave carries energy | travels wave entire ocean
+transverse rope wave | displacement perpendicular propagation | parallel only
+longitudinal spring wave | compression rarefaction; parallel displacement | perpendicular only
+frequency sound higher | higher pitch | always louder
+amplitude sound higher | louder; more energy | always higher pitch
+string shorter tighter | higher frequency; higher pitch | lower pitch
+string thicker | lower frequency at same tension length | always louder only
+sound travel steel air | faster steel | faster air
+thunder lightning delay | light travels faster sound | thunder begins only after flash reaches observer
+sound echo wall | reflection | photosynthesis
+echo time distance | round trip; divide distance traveled two | one way only
+soft wall fabric | absorbs sound; less echo | increases reflection most
+hard flat wall | reflects sound; echo | absorbs every wave
+sound source approaching | frequency heard higher; doppler | source amplitude zero
+sound source receding | frequency heard lower | higher pitch always
+noise hearing damage | loud sound; high amplitude | low frequency necessarily safe
+light matter interaction | absorbed reflected transmitted | always passes unchanged
+transparent glass | transmits light | blocks all light
+frosted glass | transmits scatters; translucent | completely opaque
+opaque cardboard | blocks transmission; shadow | transmits all light
+shadow length sun low | longer | shorter
+shadow length noon | shortest when sun highest | always longest
+shadow direction sun east | west | east
+shadow direction sun west | east | west
+pinhole camera | light travels straight; inverted image | sound reflection
+plane mirror image | upright; reversed laterally; equal size | upside_down always
+mirror incidence normal | angle reflection equal incidence | reflection angle double
+convex mirror | wider field; smaller upright image | magnifies all distant objects
+concave mirror | converges rays; magnifies near objects | always diverges rays
+convex lens | converges light; focus | always spreads light
+concave lens | diverges light | converges parallel rays
+light air water | speed changes; refraction | chemical transformation
+white light prism | colors separate; different refraction | prism creates colors from nothing
+rainbow droplet | refraction dispersion reflection | conduction only
+object red white light | reflects red wavelengths | absorbs all red
+red object blue light | appears dark; absorbs blue | always bright red
+white shirt sun | reflects much light; less heating | absorbs every wavelength
+black shirt sun | absorbs more radiation; heats | reflects all colors
+light vacuum speed | fastest; electromagnetic | medium required
+ultraviolet sun | sunburn; dna damage | sound wave
+infrared | thermal radiation; remote control | ionizing gamma radiation
+microwave | electromagnetic; heats water molecules | mechanical sound
+xray | penetrate soft tissue; medical images | visible red light
+radio | long wavelength; communication | needs air to travel
+frequency wavelength relation | inverse at fixed speed | both must increase
+wave boundary frequency | set by source; same across boundary | always changes with medium
+wave refraction speed | wavelength changes; frequency unchanged | both necessarily constant
+constructive interference | amplitudes reinforce | waves cancel completely
+destructive interference | amplitudes oppose; smaller resultant | always larger amplitude
+wave diffraction | spreads around edge opening | chemical bond breaking
+polarization | transverse wave orientation | proves sound longitudinal vacuum
+heat spoon pan | conduction contact | convection through solid spoon
+heat circulating water | convection currents | only solid conduction
+sunlight warms ground | radiation | conduction through space
+thermal conduct metal feel | heat leaves skin faster | metal always lower temperature
+metal wood room temperature | same temperature possible; different conductivity | different measured temperature necessarily
+insulated cup | slows energy transfer | generates heat
+wool blanket | traps air; reduces heat loss | supplies own energy
+thermos vacuum | suppress conduction convection | stops all radiation
+thermos shiny lining | reflects thermal radiation | increases absorption only
+thermal equilibrium two objects | same temperature; no net heat flow | same mass
+hot cold equal mass same substance | intermediate final temperature | cold gets colder
+large water small water same temperature | larger sample more total thermal_energy | equal total energy always
+ice melting heat | energy breaks intermolecular attractions | temperature rises continuously transition
+water boil plateau | added energy changes phase | no energy absorbed
+sweat fan | faster evaporation; more cooling | condensation heats skin
+humid day sweat | evaporation slower; less cooling | faster evaporation always
+cool refrigerator | transfers heat outward using work | destroys energy
+refrigerator coils warm | releases interior heat plus electrical work | creates cold matter
+burn fuel stored energy | chemical bonds; energy transformed | energy created
+solar_cell motor | light electrical mechanical | thermal nuclear
+speaker microphone difference | electrical sound versus sound electrical | same direction both
+battery rechargeable | electrical energy stored chemical | nuclear fission
+battery dead | reactants depleted; less usable chemical energy | energy conservation violated
+series bulb breaks | entire path open; all bulbs off | other bulbs always unchanged
+parallel bulb breaks | other branches remain complete | every bulb off
+parallel household circuit | independent appliances; same voltage | one path all appliances
+closed switch | completes conducting path | breaks path
+open switch | interrupts current | increases all current
+short_circuit | low resistance unintended path; excessive current | no hazard ever
+fuse circuit_breaker | interrupts excessive current; prevents overheating | produces unlimited electricity
+wire insulation | prevents shock short circuits | improves conductor metal conductivity
+copper wire | conductive; electrons move | transparent insulator
+rubber coating wire | insulator; safety | carries most current
+wet hands electricity | water impurities conduct; shock hazard | always safe
+static_charge rubbing | electrons transfer | protons move between nuclei
+static_charge discharge | electrons move; spark | creation atoms
+neutral object charged attraction | polarization; separated charges | gravity only
+same magnetic poles | repel | attract
+opposite magnetic poles | attract | repel
+magnet cut | each piece north south poles | isolated north only
+magnetic domains aligned | stronger magnetization | no magnetism
+iron nail electromagnet | temporary magnetic core; current coil | plastic core only
+coil current off | electromagnet weakens loses induced magnetism | magnetic field stronger
+coil turns increase | stronger electromagnet | weaker always
+reverse current electromagnet | reverses poles | removes both poles forever
+compass needle | aligns earth magnetic field | points geographic south always
+magnetic field strongest | near poles; closer field lines | equally strong everywhere
+# Earth, space, climate and geological interpretation
+sun energy source | nuclear_fusion; hydrogen helium | burning oxygen
+sun main_sequence | hydrogen fusion core | ordinary coal combustion
+sun photosphere | visible surface | earth crust
+sun corona | hot outer atmosphere; visible eclipse | solid rock
+sunspot | cooler darker region; magnetic activity | hole in solid sun
+solar_flare | burst energy charged particles | ordinary rain
+solar_wind earth | aurora; magnetic interactions | creates tides primarily
+star apparent brightness | luminosity distance | distance alone always
+star same luminosity farther | dimmer | brighter
+star color temperature | blue hotter red cooler | red hottest
+star temperature blue | hot | coldest
+star temperature red | cooler than blue | hotter than blue
+star mass lifespan | massive shorter; fuel used faster | largest always longest
+star forms | gas dust nebula collapses gravity | planet breaks into coal
+star main_sequence | hydrogen fusion balances gravity | no energy production
+sun future | red_giant then white_dwarf | supernova black_hole necessarily
+massive star death | supernova; neutron_star black_hole possible | becomes small planet only
+white_dwarf | dense hot remnant; no main fusion | young gas cloud
+black_hole | gravity prevents light escaping within horizon | empty region with no mass
+galaxy | billions stars gas dust gravity | single planet
+milky_way solar_system | solar_system inside galaxy | galaxy inside earth
+universe expanding | distant galaxies redshift | all galaxies approaching
+redshift galaxy | moving away; wavelength stretched | always moving toward
+blueshift | approaching; shorter wavelength | moving away
+light_year | distance light travels year | unit brightness
+astronomical_unit | average earth sun distance | earth moon distance
+parsec | astronomical distance | star temperature
+star parallax | apparent position shift; distance | mass directly
+near star parallax | larger angular shift | smaller shift always
+telescope large aperture | collects more light; faint objects | produces light itself
+space telescope advantage | above atmospheric distortion absorption | closer every star substantially
+radio_telescope | detects radio electromagnetic waves | hears sound through vacuum
+spectroscope star | spectrum; composition; temperature motion | photographs surface atoms individually
+star spectrum elements | characteristic absorption lines | visible size only
+earth rotate | day night; apparent sky motion | seasons primarily
+earth rotate west east | sun appears east west | sun rises west normally
+earth revolution | year; orbit sun | one day
+earth axis tilt | seasons; daylight variation | day night alone
+earth seasons distance | tilt not varying sun distance primary | summer always closest sun
+hemisphere tilted sun | summer; direct rays; longer daylight | winter
+opposite hemispheres season | opposite summer winter | always same season
+equator sunlight | more direct yearly; warm | least direct sunlight
+pole sun angle | low; spread energy large area | strongest concentrated sunlight
+equinox | nearly equal day night; spring autumn | longest daylight always
+solstice northern june | longest daylight; summer | northern winter
+solstice northern december | shortest daylight; winter | northern summer
+arctic summer daylight | long continuous daylight near pole | never sunlight
+night sky stars seasonal | earth revolution changes viewing direction | all stars move around earth monthly
+north_star fixed apparent | near earth rotation axis | brightest planet
+constellation | apparent pattern stars | stars necessarily close together
+moon phases cause | changing view sunlit half | earth shadow every month
+moon phase cycle | about 29 5 days; month | one earth day
+moon always half lit | sunlight illuminates half except eclipse | moon makes own light
+new_moon | moon between earth sun; dark face earth | earth between sun moon
+full_moon | earth between sun moon approximately; illuminated face | moon between earth sun
+first_quarter | half visible disk lit; quarter orbit | one quarter moon surface visible only
+waxing moon | illuminated portion increases | illuminated portion decreases
+waning moon | illuminated portion decreases | illuminated portion increases
+crescent moon | less than half visible disk lit | always full disk
+gibbous moon | more than half visible disk lit | thin crescent
+moon same face | rotation period equals orbital period | moon never rotates
+moon rise delay | about fifty minutes later daily | always same time
+solar_eclipse | moon shadow earth; new_moon | earth shadow moon
+lunar_eclipse | earth shadow moon; full_moon | moon between earth sun
+no eclipse every month | moon orbit tilted | moon has no gravity
+tides cause | moon sun gravity; differential attraction | earth seasons only
+spring_tide | sun moon aligned; largest tidal range | spring season only
+neap_tide | sun moon right angle; smaller tidal range | all water motion stops
+high low tides daily | earth rotates through tidal bulges | moon rotates earth every six hours
+mercury | closest sun; short year; cratered rocky | thick water ocean
+venus | thick carbon_dioxide atmosphere; hottest planet | closest sun necessarily
+mars | iron oxide red; thin atmosphere | largest gas planet
+jupiter | largest planet; gas_giant; great red spot | rocky earth size
+saturn | rings; gas_giant; low average density | only planet with any rings
+uranus | strongly tilted axis; ice_giant | hottest planet
+neptune | distant planet; long orbit; ice_giant | closest sun
+pluto | dwarf_planet; kuiper_belt | largest planet
+inner planets | rocky; smaller; closer sun | all gas giants
+outer planets | large; many moons; rings; longer years | only rock no gas
+planet distance sun increase | longer orbital period; generally colder | shorter year always
+planet orbit ellipse | sun one focus | sun necessarily exact center
+comet tail direction | away sun; solar_wind radiation | always behind orbital path
+comet composition | ice dust rock | pure molten iron
+asteroid composition | rocky metallic; small solar_system body | always gas tail
+meteoroid meteor meteorite | space body atmospheric streak ground remnant | same location all
+meteor light | heating atmosphere entry | photosynthesis
+moon craters preserved | no liquid water atmosphere weathering | constant rain removes craters
+earth impact craters fewer | weathering erosion tectonics erase | earth never hit meteorites
+moon sky black | no substantial atmosphere scatter light | sun absent
+moon temperature extremes | little atmosphere; no water moderation | thick clouds
+planet gravity orbit | mass attraction maintains curved path | magnetic poles only
+geologic evidence past ocean | marine fossils limestone inland | mountain height only
+marine fossil mountain | sediment uplift; former sea | fish necessarily climbed mountain
+coal swamp evidence | ancient plant material; burial | dinosaurs only
+limestone fossil | marine shells calcium_carbonate | cooling lava only
+sandstone | cemented sand grains; sedimentary | cooled mantle crystal only
+shale | compacted clay mud; sedimentary | pure metal
+conglomerate | rounded pebbles cemented; sedimentary | glass lava only
+breccia | angular fragments cemented | uniform single crystal
+marble | metamorphosed limestone | basalt lava
+slate | metamorphosed shale; heat pressure | unconsolidated sand
+quartzite | metamorphosed sandstone | coal swamp only
+gneiss | metamorphic banding; pressure heat | recent loose mud
+obsidian | rapid cooling volcanic glass | very slow deep cooling
+pumice | gas bubbles; low density; volcanic | sedimentary shells only
+granite | slow cooling underground; large crystals | immediate surface cooling
+basalt | rapid cooling surface; fine crystals | all layers organic
+igneous crystal size | cooling rate; slow large | faster larger always
+metamorphism melting | heat pressure without complete melting | requires fully molten rock
+rock cycle melting cooling | igneous forms | sedimentary deposition directly
+rock cycle erosion deposition | sedimentary pathway | destroys matter permanently
+rock cycle heat pressure | metamorphic pathway | only evaporation
+mineral identify | hardness streak luster cleavage density | color alone always reliable
+mineral streak | powder color; unglazed tile | whole crystal size
+mineral hardness | scratch resistance | mass per volume
+mohs scratch | harder scratches softer | softer scratches harder always
+mineral cleavage | breaks flat planes | always irregular fracture
+mineral fracture | irregular break; no preferred plane | color dissolved
+mineral crystal shape | regular atomic arrangement | random cell structure
+quartz hardness | seven; scratches glass | softer talc
+diamond graphite | same carbon element; different structure properties | different proton counts
+fossil formation rapid burial | protects remains; sediment | prolonged exposure most likely
+fossil hard parts | bones shells teeth more preserved | soft skin always most common
+trace_fossil | footprint burrow track; activity evidence | only whole skeleton
+mold_fossil | impression cavity left organism | living mold fungus necessarily
+cast_fossil | minerals fill mold; replica | footprint only
+petrified wood | minerals replace organic material | wood turns into living animal
+amber fossil | organism trapped resin | cooled magma
+index_fossil | widespread; short geologic time; correlate layers | longest lived rare species best
+superposition undisturbed | bottom oldest top youngest | newest bottom always
+cross_cutting relationship | fault intrusion younger than rock cut | intrusion always oldest
+unconformity | erosion nondeposition gap record | continuous perfect sediment
+tilted layers | deposited then deformed | originally always vertical
+fossils relative dating | sequence older younger | exact age always
+radiometric dating | isotope decay; absolute age estimate | weather forecast
+half_life | half radioactive parent decays interval | half total matter disappears
+half_life temperature | decay rate largely independent ordinary environment | heating doubles all decay rate
+carbon14 dating | once living relatively recent material | age all igneous rocks directly
+tectonic plate boundaries | earthquakes volcanoes mountains | uniform random locations
+mantle convection | heat density differences; slow flow | ocean waves only
+lithosphere | crust upper rigid mantle | only liquid core
+asthenosphere | weak ductile mantle; slow flow | empty space
+outer_core | liquid iron nickel; magnetic_field | solid granite
+inner_core | solid iron nickel; high pressure | liquid water
+seismic s_wave outer_core | cannot pass liquid | passes all states equally
+seismic p_wave | solids liquids gases; faster than s_wave | only surface water
+seismic arrival time difference | distance earthquake epicenter | exact magnitude only
+three seismic station | locate epicenter; triangulation | predict all future quakes
+earthquake focus | underground origin | surface point directly above
+earthquake epicenter | surface above focus | always center earth
+fault earthquake | sudden slip releases stored elastic energy | clouds collide
+transform_boundary | plates slide past; earthquakes | creates crust always
+divergent_boundary | plates separate; new crust | destroys all crust
+convergent_boundary oceanic | subduction; trench; volcano | plates only separate
+continental collision | folded mountains; thick crust | always deep ocean trench only
+subduction oceanic dense | sinks under less dense plate | lighter plate always sinks
+seafloor_spreading ridge | new basalt; youngest crust | oldest crust at ridge
+magnetic stripes seafloor | symmetric reversal pattern; spreading evidence | random sunlight shadows
+continental_drift evidence | matching fossils rocks coastlines | every continent permanently fixed
+volcano eruption viscosity | thick magma traps gas; explosive | low gas thin lava always most explosive
+volcanic island hot_spot | plate moves over mantle source | only meteor impact
+hawaii age chain | older farther active hot_spot | all islands same age
+mountain erosion | sediment transport; landscape lowers | rock mass created from nothing
+weathering mechanical | breaks rock without changing composition | always new mineral
+weathering chemical | reactions alter minerals; dissolution oxidation | only size reduction
+frost wedging | water freezes expands cracks | water shrinks freezing
+root wedging | roots grow crack rock | purely chemical melting
+abrasion | particles scrape grind | mineral growth only
+acid chemical weathering | dissolves limestone; carbonic acid | rock mechanically transported only
+weathering warm wet | chemical weathering faster | always slowest
+weathering surface_area | smaller fragments greater exposed area | large block always greater area same mass
+erosion transport agents | water wind ice gravity | only chemical reaction
+deposition water slows | particles settle; sediment accumulates | all particles accelerate
+river bend erosion | outer bank fast water | inner bank only
+river bend deposition | inner bank slower water | outer bank only
+stream steep slope | faster flow; more erosion | always slower
+stream sediment sorting | largest settle first as flow slows | smallest always first
+delta | river mouth deposits sediment entering still water | lava cone only
+alluvial_fan | stream leaves mountain slope; deposits fan | glacial ice only
+floodplain | repeated flood sediment; fertile soil | no deposition
+v_shaped valley | river erosion | glacial only
+u_shaped valley | glacier erosion | wind only
+glacial till | unsorted sediment deposited ice | uniformly sorted wind sand
+moraine | glacial deposited ridge | molten rock
+sand dune | wind deposition | wave refraction only
+loess | wind deposited fine silt | lava
+gravity mass_wasting | landslide rockfall slump | photosynthesis
+vegetation slope | roots hold soil; reduce erosion | increases all landslides
+terracing contour_plowing | slows runoff; reduces soil erosion | steepens flow always
+cover_crop | roots protect soil; reduce erosion | exposes bare soil
+soil topsoil | humus minerals organisms; fertile layer | unweathered bedrock only
+soil humus | decomposed organic matter; nutrients | pure sand
+soil clay | small particles; holds water; slow drainage | largest pore spaces
+soil sand | large particles; drains quickly | holds most water always
+soil loam | mixture sand silt clay organic matter | pure solid rock
+water infiltration | seeps ground; recharge | only surface flow
+porosity | fraction empty pore space | how fast water moves only
+permeability | connected pores; water flow ease | total rock weight
+water_table | top saturated groundwater zone | ocean surface only
+aquifer | permeable rock sediment stores transmits groundwater | impermeable rock only
+well pumping excessive | water_table falls; depletion | always more groundwater
+well drought | recharge reduced; water_table lower | water_table always rises
+watershed boundary | high land divides drainage | political border always
+water pollution upstream | carried downstream; connected systems | stays only source forever
+saltwater intrusion | excessive coastal groundwater pumping | pumping always freshens ocean
+karst sinkhole | limestone dissolved groundwater | volcanic ash only
+cave stalactite | mineral deposition ceiling | grows upward floor
+cave stalagmite | mineral deposition floor | hangs ceiling
+# Weather, climate, water and practical inquiry
+weather source energy | solar heating; sun | moon light primarily
+unequal heating earth | convection; winds; ocean currents | all regions same temperature
+warm air rising | expands; lower density | increased density
+cold air sinking | denser | less dense
+wind pressure gradient | high pressure to low pressure | low to high without other effects
+sea_breeze daytime | cool air sea toward warm land | always land to sea
+land_breeze nighttime | cool air land toward warmer sea | always sea to land
+mountain air rising | expands cools; condensation rain | compresses warms
+mountain leeward | descending warms dries; rain_shadow | wetter always
+low_pressure weather | rising air; clouds rain likely | always clear dry
+high_pressure weather | sinking air; clearer skies likely | daily thunderstorms always
+cold_front | cold air undercuts warm; lifting storms | warm air under cold
+warm_front | warm air over cold; widespread clouds precipitation | always no clouds
+occluded_front | cold front overtakes warm front | no air mass movement
+stationary_front | boundary stalls; persistent weather | every storm disappears
+humidity saturated | relative_humidity 100 percent; condensation possible | no water_vapor
+relative_humidity warming | decreases if vapor amount fixed | always increases
+relative_humidity cooling | increases toward saturation | decreases always
+dew_point | temperature saturation begins condensation | boiling water temperature
+cloud visible | liquid droplets ice crystals | invisible pure water_vapor only
+fog | cloud near ground | smoke always
+precipitation formation | droplets crystals grow heavy fall gravity | water evaporates upward only
+snow | ice crystals from cloud | frozen raindrops only
+sleet | raindrops freeze before ground | liquid until surface
+freezing_rain | supercooled drops freeze on contact | always snowflakes
+hail | layered ice; thunderstorm updrafts | winter frost only
+lightning thunder | electrical discharge heats air; expanding air sound | clouds physically crash
+hurricane energy | warm ocean evaporation condensation | cold dry land
+hurricane land | weakens without warm water source | gains endless ocean heat inland
+tornado | rotating funnel thunderstorm | all tropical ocean storms
+weather forecast uncertainty | changing conditions; complex interactions | every prediction exact
+weather climate difference | short term conditions versus long term patterns | same daily measurement
+climate ocean | moderates temperature; high water heat_capacity | makes all coastal places desert
+climate ocean current | transfers heat; warms cools coasts | currents carry no energy
+el_nino | warmer eastern tropical pacific; altered rainfall | earth orbit changed suddenly
+coriolis | earth rotation deflects large scale motion | moon phase causes all wind
+northern coriolis | deflection right | deflection left
+southern coriolis | deflection left | deflection right
+greenhouse_effect | absorbs outgoing infrared; warming | blocks all incoming sunlight
+increased greenhouse_gas | more infrared retained; warming tendency | all heat escapes faster
+carbon_dioxide rise evidence | atmospheric measurements; fossil_fuel combustion | single cold day proves none
+ozone stratosphere | absorbs ultraviolet; protects life | main source oxygen photosynthesis
+ozone depletion | more ultraviolet reaches surface | directly same process carbon_dioxide greenhouse
+acid_rain cause | sulfur_dioxide nitrogen_oxides emissions | oxygen alone
+smog | air pollutants; sunlight chemical reactions | pure water fog only
+renewable wind variable | depends weather; storage backup helpful | constant output everywhere
+solar power limitation | daylight clouds; storage | creates energy at night unaided
+hydroelectric dam impact | alters river habitat migration; renewable electricity | no environmental effects
+nuclear plant energy | fission heat steam turbine generator | burning uranium chemically
+nuclear waste disposal | radioactive material; long term isolation | compost ordinary food
+fossil_fuel formation | ancient organic matter; heat pressure millions years | all fossil_fuel only dinosaurs
+coal formation | ancient swamp plants | recent rocks without carbon
+petroleum natural_gas | buried marine organisms; heat pressure | only tree sap
+conserve resource recycling | reduces mining energy waste | creates unlimited ore
+renewable tree resource | replanted regrowth sustainable rate | unlimited regardless harvesting
+water conservation | repair leaks; efficient irrigation | let faucets run
+energy efficiency | same useful output less energy input | output exceeds input
+solar passive design | capture winter sunlight; shade summer | no heat transfer principles
+insulation building | less heating cooling energy; slower transfer | generates heat without source
+engineering improve design | test evaluate modify; meet criteria constraints | ignore failure results
+engineering material choice | properties meet purpose; cost safety | appearance only
+bridge triangular truss | rigid shape; distributes load | triangles always bend freely
+prototype small model | test design before full build | exact real conditions guaranteed
+scientific explanation evidence | consistent measured observations | most popular opinion
+scientific theory revision | new reproducible evidence | never changes
+scientific law theory | law describes pattern; theory explains | theory becomes law simply with age
+experiment hypothesis unsupported | report results; revise hypothesis | alter measurements
+experiment unexpected observation | repeat check procedure investigate | erase data automatically
+experiment dependent_variable | measured response; outcome | factor deliberately changed
+experiment independent_variable | deliberately varied factor | measured outcome only
+experiment controlled_variable | kept same across groups | measured result necessarily
+experiment control_group | comparison baseline; no tested treatment | must receive largest treatment
+experiment fair_test | vary one factor; keep others constant | vary all factors simultaneously
+experiment repeated trials | reliability; estimate variation; reduce random error | guarantees theory absolutely true
+experiment larger sample | representative estimate; reduce chance | always eliminates systematic bias
+experiment double_blind | reduce expectation bias | guarantees no measurement error
+experiment random assignment | reduce group differences bias | choose desired outcome
+experiment publication | other scientists replicate review | prevents criticism
+experiment same procedure | results comparable; reproducibility | hide differences
+experiment negative_result | useful evidence; reject explanation | scientifically worthless
+experiment correlation | association; not necessarily causation | proves direct cause always
+experiment treatment placebo | comparison controls expectations | active treatment guaranteed
+experiment plant fertilizer | vary fertilizer; same species water light soil | change every variable
+experiment plant sunlight | vary light; same water soil species | also vary fertilizer uncontrolled
+experiment water temperature dissolve | vary temperature; keep solute size mass stirring same | vary every condition
+experiment ball bounce surface | vary surface; same ball drop height | change ball and height simultaneously
+experiment pendulum period length | vary string length; same mass small angle | vary every property
+experiment magnet coil turns | vary turns; same battery wire core | change current core too
+experiment insulation cups | same liquid volume start temperature time; different insulation | unequal starts uncontrolled
+experiment friction surfaces | same object force; vary surface | vary object and surface together
+experiment seed germination water | same seed type temperature air; vary water | different species each amount
+experiment evaporation surface_area | same volume temperature airflow; vary area | change temperature too
+measurement exactness | suitable resolution; calibrated equipment | most expensive always
+measurement scale unit | standard units; communicate compare | every student arbitrary standard
+measurement liquid meniscus | eye level bottom curve | tilted cylinder above eye
+measurement repeated systematic_error | calibration needed; averaging not cure | repetition always removes bias
+measurement mass | balance | graduated_cylinder; thermometer
+measurement volume irregular | displacement difference water levels | ruler alone all shapes
+measurement gas volume | graduated collection; displacement | spring_scale alone
+measurement distance small | millimeter centimeter; ruler | kilogram
+measurement elapsed_time | stopwatch clock | barometer
+measurement humidity | hygrometer; wet dry bulb | anemometer
+measurement earthquake | seismograph | thermometer only
+measurement wind | anemometer speed; vane direction | balance
+measurement ocean depth | sonar; echo timing | litmus paper
+measurement direction | compass | graduated_cylinder
+measurement density instruments | balance and volume measurement | thermometer alone
+measurement plant growth | height mass leaf_number; repeated time | guess from favorite color
+microscope focus | start low magnification; adjust; thin sample | highest power first always
+microscope magnification | objective times eyepiece | sum objective eyepiece
+microscope high power | smaller field_view; larger apparent_size | wider field_view always
+telescope distant object | collects light magnifies angular size | measures microscopic cells best
+hand_lens | magnify nearby small details | see distant galaxies best
+line_graph trend time | continuous variable change | unrelated categories only
+bar_graph category | compare groups | always continuous time only
+pie_chart | fractions whole; percentages | trajectory vector
+scatter_plot | relationship paired numerical variables | only text labels
+qualitative data | color texture smell description | number only
+quantitative data | measured numbers units | opinion only
+prediction based observation | expected future result | direct record past event only
+inference observation distinction | explanation versus directly sensed measured | both always identical
+lab goggles | protect eyes splashes particles | protect ears primarily
+lab broken glass | tell teacher; proper tools disposal | pick up bare hands
+lab hot glass | looks like cold glass; use protection | safe touch if transparent
+lab test tube heating | point away people; holder | seal tightly heat indefinitely
+lab unknown material | follow teacher directions; do not taste | smell deeply taste
+lab chemicals food | contamination hazard; keep separate | safe to eat samples
+lab hands wash | reduce contamination; remove substances | spreads pathogens necessarily
+lab field organisms | minimize disturbance; ethical treatment | collect all endangered animals

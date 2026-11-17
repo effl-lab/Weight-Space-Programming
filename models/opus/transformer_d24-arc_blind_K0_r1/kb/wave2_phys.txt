@@ -1,0 +1,72 @@
+@materials
+wood : insulator floats burns natural
+plastic : waterproof insulator lightweight flexible
+rubber : insulator flexible stretchy elastic
+glass : transparent breaks brittle
+metal : conductor strong shiny magnetic
+steel : strong iron bridges
+cotton : soft absorbs fabric
+wool : warm insulator sheep
+aluminum foil : reflects wraps
+copper wire : conducts electricity
+styrofoam foam : insulates cooler keeps cold
+paper : absorbs recycled trees
+clay : molded fired bricks
+concrete : strong buildings
+@heat2
+thermos : keeps hot cold insulated
+cooler : insulated ice keep cold
+oven mitt mittens : protect hand hot
+pot handle : wood plastic insulator
+sweater coat jacket : warm insulator body heat
+black shirt : absorbs heat
+white shirt : reflects light cooler
+melts ice : warm heat absorbs
+heat moves : hot cold warmer cooler
+@energy2
+energy transformation : battery flashlight chemical light
+flashlight : batteries chemical light
+light bulb : electrical light heat
+toaster : electrical heat
+fan motor : electrical motion
+car engine : chemical gasoline motion
+windmill turbine : wind motion electricity
+dam : water electricity hydroelectric
+solar panel panels : sunlight electricity
+food energy : chemical body muscles
+plants energy : sunlight chemical photosynthesis
+roller coaster : potential kinetic hill
+swing pendulum : potential kinetic highest lowest
+energy conservation : not created destroyed transformed
+@motion
+speed : distance divided time meters per second kilometers per hour
+faster : more distance less time
+acceleration : speeding up slowing down change speed direction
+force mass : heavier more force harder push
+push pull : force move change direction
+balanced forces : no motion equal
+unbalanced : moves accelerates
+@sound2
+vibrate vibrations : sound produced string drum
+loud : amplitude bigger vibrations
+soft quiet : small vibrations
+high pitch : fast vibrations short thin tight
+low pitch : slow vibrations long thick loose
+echo : reflected sound bounces wall
+sound travels : solids liquids gases faster solids
+@light2
+light : travels straight lines fastest
+shadow : blocked light opaque object
+mirror : reflects light image
+lens : bends light refraction magnify
+prism : white light colors rainbow
+color seen : reflected light
+transparent : light passes clear glass window
+opaque : blocks light wood metal
+translucent : some light wax paper frosted
+@magnet2
+magnet : attracts iron steel nickel
+magnetic poles : north south attract repel
+like poles : repel push away
+opposite poles : attract pull together
+compass : magnetic north needle earth

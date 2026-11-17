@@ -1,0 +1,209 @@
+# Semantic links preserve retrieval across deliberately distinct concepts.
+# A resistor is a component, resistance is a quantity, resist is an ordinary
+# verb, and biological resistance is a trait rather than an electrical unit.
+2.8 | resistor | circuit component resistance electric |
+3.2 | resistor function | limit current resistance electrical |
+3.2 | resistor resistance unit | ohm |
+3.2 | resistance quantity | opposition current voltage ratio |
+3.2 | resistance measurement | ohm ohmmeter |
+3.2 | resistance increase | current decrease same voltage |
+3.2 | resistance decrease | current increase same voltage |
+3.2 | electric resist | resistance opposition current |
+3.2 | material resist | opposition force deformation |
+3.2 | resist motion | friction drag |
+3.2 | resist change motion | inertia |
+3.2 | resistant bacteria | survive antibiotic selection |
+3.2 | resistant insects | survive pesticide selection |
+3.2 | resistant disease | immune defense survival |
+3.2 | resistant heat | tolerate high temperature |
+3.2 | resistant corrosion | protective coating stable material |
+# A count and its scaling operation are not lexical identity. The links below
+# are explicit qualitative laws, not an arbitrary arithmetic evaluator.
+2.6 | double | multiply two increase twice |
+2.6 | halve | divide two decrease half |
+3.2 | double meaning | twice multiply two |
+3.2 | halve meaning | half divide two |
+3.2 | double speed kinetic | four quadruple increase |
+3.2 | halve speed kinetic | quarter decrease |
+3.2 | double mass kinetic | twice increase |
+3.2 | double height potential | twice increase |
+3.2 | double mass potential | twice increase |
+3.2 | double force acceleration | twice increase |
+3.2 | double mass acceleration | half decrease |
+3.2 | double distance gravity | quarter decrease |
+3.2 | halve distance gravity | four quadruple increase |
+3.2 | double voltage current | twice increase |
+3.2 | double resistance current | half decrease |
+3.2 | double length resistance | twice increase |
+3.2 | double area pressure | half decrease |
+3.2 | double force pressure | twice increase |
+3.2 | double volume density | half decrease |
+3.2 | double mass density | twice increase |
+3.2 | double frequency wavelength | half decrease |
+3.2 | double wavelength frequency | half decrease |
+3.2 | double amplitude wave energy | four quadruple increase |
+3.2 | double time power | half decrease |
+3.2 | double work power | twice increase |
+3.2 | double distance speed | twice increase |
+3.2 | double time speed | half decrease |
+3.2 | double pendulum length | longer period |
+# Direction is not the participle of departure.
+2.2 | left | direction opposite right |
+2.2 | right | direction opposite left |
+2.2 | leave | depart exit |
+3.0 | left turn | direction change acceleration |
+3.0 | right turn | direction change acceleration |
+3.0 | transverse left | perpendicular particle oscillation |
+3.0 | transverse right | perpendicular particle oscillation |
+# Word-level facets for multiword scientific names.
+2.8 | small intestine | digestion absorption villi nutrient |
+2.8 | large intestine | water absorption waste feces |
+2.8 | spinal cord | nerve reflex communication |
+2.8 | outer core | liquid iron nickel magnetic |
+2.8 | inner core | solid iron nickel pressure |
+2.8 | atomic number | proton identity |
+2.8 | mass number | proton neutron sum |
+2.8 | massnumber | mass number proton neutron |
+2.8 | atomicnumber | atomic number proton identity |
+2.8 | watertable | groundwater upper boundary |
+2.8 | water table | groundwater upper boundary |
+2.8 | acid rain | sulfur nitrogen oxides acidic |
+2.8 | acidrain | acidic precipitation sulfur nitrogen |
+2.8 | gas exchange | diffusion oxygen carbon dioxide |
+2.8 | gasexchange | diffusion oxygen carbon dioxide |
+2.8 | hot spot | mantle plume volcano |
+2.8 | hotspot | mantle plume volcano |
+2.8 | rain shadow | dry leeward mountain |
+2.8 | rainshadow | dry leeward mountain |
+2.8 | spring tide | aligned moon sun full new |
+2.8 | neap tide | right angle quarter moon |
+2.8 | thermal insulation | reduce heat transfer |
+2.8 | electric insulation | prevent barrier electricinsulator resistance | current
+
+# Reviewed charged species. Neutral iodine and iodide have separate concepts;
+# shared ancestry as an ion does not make an ion a neutral metallic element.
+2.8 | iodine classification | element nonmetal halogen |
+2.8 | iodide charge | negative one | positive neutral
+2.8 | iodide formation | iodine gain electron | lose
+2.8 | iodine ion formation | iodide negative gain electron | positive
+2.8 | fluoride charge | negative one | positive neutral
+2.8 | bromide charge | negative one | positive neutral
+2.8 | ammonium charge | positive one | negative neutral
+2.8 | hydroxide charge | negative one | positive neutral
+2.8 | nitrate charge | negative one | positive neutral
+2.8 | sulfate charge | negative two | positive neutral
+2.8 | carbonate charge | negative two | positive neutral
+2.8 | phosphate charge | negative three | positive neutral
+2.8 | bicarbonate charge | negative one | positive neutral
+2.8 | polyatomic ion | polyatomicion bonded atom group |
+
+# Written formulas are not aliases of names: name/formula choices must survive
+# question-concept exclusion. Each direction below is explicitly authored.
+2.8 | ozone formula | o3 |
+2.8 | hydrogen peroxide formula | h2o2 |
+2.8 | calcium carbonate formula | caco3 |
+2.8 | sodium bicarbonate formula | nahco3 |
+2.8 | sulfur dioxide formula | so2 |
+2.8 | hydrochloric acid formula | hcl |
+2.8 | sulfuric acid formula | h2so4 |
+2.8 | nitric acid formula | hno3 |
+2.8 | carbonic acid formula | h2co3 |
+2.8 | silicon dioxide formula | sio2 |
+2.8 | sodium hydroxide formula | naoh |
+2.8 | potassium chloride formula | kcl |
+2.8 | magnesium oxide formula | mgo |
+2.8 | ethanol formula | c2h5oh |
+2.8 | sodium chloride formula | nacl |
+2.8 | o3 | ozone oxygen element molecule | compound
+2.8 | h2o2 | hydrogen peroxide oxygen compound molecule | element
+2.8 | caco3 | calcium carbonate ionic compound calcite | element
+2.8 | nahco3 | sodium bicarbonate compound base | element
+2.8 | so2 | sulfur oxygen compound gas acidrain | element
+2.8 | hcl | hydrogen chloride compound | element
+2.8 | h2so4 | sulfuric acid compound hydrogen sulfur oxygen | element
+2.8 | hno3 | nitric acid compound hydrogen nitrogen oxygen | element
+2.8 | h2co3 | carbonic acid compound hydrogen carbon oxygen | element
+2.8 | sio2 | silicon oxygen compound quartz | element
+2.8 | naoh | sodium hydroxide compound base ionic | element
+2.8 | kcl | potassium chloride compound ionic | element
+2.8 | mgo | magnesium oxygen compound ionic | element
+2.8 | c2h5oh | ethanol alcohol compound fuel | element
+
+# Phase separation preserves water molecules; chemical decomposition does not.
+2.8 | hydrogen peroxide decomposition | water oxygen h2o o2 | h2
+2.8 | water distillation products | h2o pure liquid vapor | h2 o2
+2.8 | reverse osmosis | membrane pressure desalination purification |
+2.8 | limewater dioxide | cloudy white calcium carbonate precipitate |
+2.8 | oxygen glowing splint | relight combustion |
+2.8 | hydrogen burning splint | squeaky pop |
+
+# Quantitative extrema are not logical negation. Explicit meaning links retain
+# their relationship without collapsing least into the exception-query marker.
+2.8 | least | minimum | maximum
+2.8 | minimum meaning | least | maximum
+# Excessive heating is distinct from an ordinary hot object or environment.
+2.8 | overheat | excessive temperature heat |
+2.8 | overheat effect | damage failure |
+2.8 | overheat body | sweating evaporation cooling vasodilation | shivering
+2.8 | overheat engine | radiator coolant cooling |
+# Bind the measured energy form in the antecedent, rather than printing two
+# opposite extrema as unbound qualifiers in the same consequent bag.
+2.8 | pendulum top kinetic | zero minimum | maximum
+2.8 | pendulum top potential | maximum | minimum
+2.8 | pendulum bottom kinetic | maximum | minimum
+2.8 | pendulum bottom potential | minimum | maximum
+# Energy-flow pyramids stay upright; standing biomass can be inverted where
+# small, rapidly reproducing aquatic producers support a larger consumer stock.
+2.8 | energy pyramid shape | upright decreasing | inverted
+2.8 | aquatic biomass pyramid | inverted phytoplankton rapid reproduction |
+2.8 | terrestrial biomass pyramid shape | upright producer base |
+
+# Chemical tendency is a property; a reaction is an event/process.
+2.8 | reactivity | chemical property tendency react |
+2.8 | react property | reactivity chemical |
+2.8 | reactivity classification | chemical property | physical
+2.8 | reaction definition | chemical change reactant product atom rearrange |
+# Optical coefficients are not the phenomena themselves. These coefficients
+# refer to the specified incident radiation; they are dimensionless fractions.
+2.8 | reflectivity definition | fraction incident light reflect |
+2.8 | reflectivity unit | dimensionless ratio |
+2.8 | absorptivity definition | fraction incident radiation absorb |
+2.8 | absorptivity unit | dimensionless ratio |
+2.8 | opaque reflectivity absorptivity | sum one energy conservation |
+2.8 | mirror property | reflectivity |
+2.8 | absorb light property | absorptivity |
+2.8 | reflect light property | reflectivity |
+# Absorbency of a towel concerns liquid uptake, not an optical coefficient.
+2.8 | absorbency definition | capacity liquid uptake |
+2.8 | towel property | absorbency capillary |
+2.8 | paper towel water | absorbency capillary pore |
+# A reflecting device is not the act of reflecting; telescope types use the
+# primary objective, not the eyepiece shared by both optical designs.
+2.8 | reflector | mirror surface reflect light |
+2.8 | reflector telescope | mirror reflect focus light |
+2.8 | refractor telescope | lens refract focus light |
+2.8 | telescope objective mirror | reflector reflect |
+2.8 | telescope objective lens | refractor refract |
+# Qualify the radiation band when associating color with absorption.
+2.8 | opaque black visible | absorptivity high |
+2.8 | shiny metal reflectivity visible | high | low
+2.8 | shiny metal absorptivity visible | low | high
+
+# Signed velocity and scalar speed have different graph-area interpretations.
+2.8 | graph speed area | distance |
+2.8 | velocity time graph area | signed displacement |
+2.8 | speed time graph area | distance |
+2.8 | round trip displacement | zero |
+2.8 | round trip distance | path length |
+# Momentum conservation requires isolation (zero net external impulse), not
+# merely a sealed container. Total energy and kinetic energy are distinct.
+2.8 | isolated elastic collision conservation | momentum kinetic energy |
+2.8 | isolated inelastic collision conservation | momentum total energy | kinetic
+2.8 | net external impulse | momentum change |
+2.8 | impulse formula | average force time multiply |
+# Atomic empty space is outside the small, massive nucleus.
+2.8 | atom volume | electron cloud empty space | nucleus
+# Do not equate every biological signal with the mechanics quantity impulse.
+2.8 | nerve impulse | electrical signal communication |
+2.8 | mechanical impulse | momentum change |
+2.8 | impulse unit | newton second |

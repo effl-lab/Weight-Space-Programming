@@ -1,0 +1,163 @@
+# specific animals traits
+lion carnivore predator savanna pride mammal
+tiger carnivore stripes camouflage jungle
+cheetah fastest land animal speed spots
+zebra stripes herbivore savanna grazing
+giraffe tallest long neck leaves acacia
+elephant largest land animal trunk tusks herbivore
+hippopotamus river herbivore
+rhinoceros horn herbivore
+gorilla chimpanzee primates apes
+monkey primate tail trees
+kangaroo marsupial pouch australia jumps
+koala marsupial eucalyptus leaves
+opossum marsupial plays dead
+wolf pack carnivore predator howl
+coyote omnivore
+fox omnivore predator
+bear omnivore hibernates fish berries
+polar bear arctic ice seals white fur
+grizzly bear
+deer herbivore antlers forest
+moose herbivore antlers
+elk herbivore
+bison grassland herbivore
+cow herbivore grass milk four stomachs cud
+horse herbivore hooves
+sheep wool herbivore
+goat herbivore
+pig omnivore
+rabbit herbivore burrow fast reproduce
+squirrel stores nuts acorns seeds disperses
+chipmunk stores seeds
+mouse rodent seeds prey owls
+rat rodent
+beaver builds dams teeth gnaw trees
+porcupine quills
+skunk spray smell
+raccoon omnivore nocturnal masks
+bat nocturnal echolocation insects pollinate
+dolphin mammal echolocation intelligent
+whale largest animal blue whale mammal blubber baleen
+seal sea lion blubber fish
+walrus tusks blubber
+otter
+manatee herbivore
+camel desert hump water
+armadillo armor shell
+anteater ants tongue
+sloth slow trees
+hedgehog spines
+mole underground digging claws blind
+eagle bird prey talons sharp eyesight
+hawk predator talons mice
+owl nocturnal hunts mice silent flight
+vulture scavenger dead animals
+hummingbird nectar fast wings hover pollinates
+woodpecker beak pecks trees insects
+pelican pouch beak fish
+duck webbed feet waterproof feathers
+goose migrates
+robin worms
+crow scavenger
+parrot beak nuts
+penguin antarctica swim cold blubber
+flamingo pink shrimp
+chicken eggs
+peacock feathers attract mate
+snake reptile constrictor venom tongue smell
+rattlesnake venom rattle warning
+lizard reptile scales cold blooded sun bask
+gecko sticky feet
+chameleon color change tongue
+iguana
+crocodile alligator reptile swamps predator
+turtle tortoise shell slow reptile
+sea turtle lays eggs beach
+frog amphibian tadpole insects tongue
+toad amphibian dry warty skin
+salamander amphibian moist skin regrow tail
+shark predator cartilage teeth ocean
+salmon swim upstream spawn
+trout freshwater fish
+goldfish
+clownfish anemone
+eel
+jellyfish tentacles sting
+octopus camouflage ink eight arms
+squid ink
+starfish sea star regenerate arms
+crab exoskeleton claws molt
+lobster exoskeleton
+shrimp
+clam oyster mussel filter feeders shells pearl
+snail slug mucus shell
+earthworm soil segments decomposer castings
+leech parasite blood
+tapeworm parasite intestine
+tick parasite blood mammals lyme
+flea parasite
+mosquito parasite blood malaria disease
+fly maggots decomposer
+butterfly nectar pollinate proboscis
+moth nocturnal cocoon
+bee pollinate honey sting
+wasp hornet sting
+ant colony strong
+termite wood
+beetle hard wings
+ladybug aphids
+grasshopper jump herbivore
+cricket chirp
+dragonfly eats mosquitoes
+praying mantis predator
+spider web silk predator
+scorpion stinger desert
+caterpillar
+plankton
+coral
+sponge
+# specific plants
+oak tree acorns deciduous
+maple tree seeds helicopters sap syrup
+pine tree cones needles evergreen
+redwood sequoia tallest trees
+palm tree tropical coconuts
+apple tree fruit seeds
+orange tree citrus
+banana plant tropical
+corn grass crop kernels
+wheat grain bread
+rice grain wet paddies
+bean legume seed
+pea legume pods
+potato tuber
+carrot root
+lettuce leaves
+tomato fruit seeds
+strawberry runners seeds outside
+grape vine
+pumpkin squash vine
+sunflower seeds
+dandelion seeds wind parachute
+rose thorns
+tulip bulb
+daisy
+cactus desert
+aloe succulent stores water
+moss
+fern
+algae
+kelp
+grass
+clover nitrogen
+poison ivy
+bamboo fast growing grass
+venus flytrap
+pitcher plant insects
+duckweed floats
+water lily
+mushroom fungus spores
+yeast
+mold penicillin
+lichen

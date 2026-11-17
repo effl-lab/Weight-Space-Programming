@@ -1,0 +1,75 @@
+# Each line is one concept: words that go together in a fact. "label:" prefixes are comments.
+# ---------------- cells ----------------
+nucleus control: nucleus controls control center instructions dna chromosomes genetic directs activities
+mitochondria: mitochondria mitochondrion powerhouse respiration releases energy atp cellular
+chloroplast: chloroplast chloroplasts chlorophyll photosynthesis green plant
+cell membrane: membrane controls enters leaves passes allows boundary selectively permeable gatekeeper outer
+cell wall: wall rigid support shape cellulose plant strong stiff
+vacuole: vacuole vacuoles storage stores water waste sac large central
+ribosome: ribosome ribosomes protein proteins make build synthesis
+cytoplasm: cytoplasm jellylike fluid gel organelles
+cell theory: theory cells basic unit living organisms come preexisting smallest structure function
+unicellular: unicellular single celled one cell microorganism microorganisms bacteria amoeba paramecium protist protists euglena yeast
+multicellular: multicellular many cells specialized organisms tissues
+levels organization: cells tissues tissue organs organ systems organism levels organization
+microscope: microscope microscopes magnify magnifies magnification lens lenses cells tiny small view slide observe
+plant cell parts: plant cell wall chloroplasts large vacuole
+animal cell parts: animal cell centrioles small vacuoles
+diffusion osmosis: diffusion osmosis concentration high low moves across membrane water molecules
+cell division: mitosis division divides divide identical daughter cells growth repair replace
+meiosis: meiosis sex cells gametes egg sperm half chromosomes reproduction
+specialized cells: specialized nerve muscle blood red white cells function shape
+red blood cells: red blood cells carry oxygen hemoglobin iron
+white blood cells: white blood cells fight infection disease germs pathogens antibodies immune defend
+platelets: platelets clot clotting blood bleeding wound scab
+# ---------------- human body systems ----------------
+digestive: digestive digestion digest stomach intestine intestines esophagus breaks food nutrients absorb saliva enzymes
+small intestine: small intestine absorbs nutrients villi bloodstream
+large intestine: large intestine absorbs water solid waste colon
+stomach: stomach acid churns muscles breaks food
+mouth teeth: mouth teeth chew chewing saliva tongue swallow mechanical
+liver: liver bile filters toxins
+respiratory: respiratory breathing breathe breathes lungs lung oxygen carbon dioxide inhale exhale air trachea alveoli diaphragm
+gas exchange: alveoli exchange oxygen carbon dioxide capillaries lungs bloodstream
+circulatory: circulatory heart blood vessels pumps pump arteries veins capillaries carries transports oxygen nutrients throughout body
+heart: heart pumps muscle beats chambers ventricles atria pulse rate
+arteries: arteries carry blood away heart oxygen rich
+veins: veins return blood toward heart
+nervous: nervous brain nerves spinal cord neurons signals messages impulses senses respond controls coordinate
+brain: brain thinking memory controls body thoughts learning
+senses: senses sense eyes ears nose tongue skin touch taste smell hearing sight receptors stimulus stimuli
+eye: eye eyes retina pupil iris lens sight vision light see
+ear: ear ears hearing eardrum vibrations sound cochlea
+reflex: reflex reflexes automatic quick response spinal cord withdraw
+skeletal: skeletal skeleton bones bone support protect shape frame body calcium marrow
+protect organs: skull protects brain ribs rib cage protect heart lungs
+joints: joints joint hinge ball socket knee elbow shoulder bend move ligaments cartilage
+muscular: muscular muscles muscle contract contracts relax movement move tendons pull bones
+muscle types: skeletal smooth cardiac voluntary involuntary
+excretory: excretory kidneys kidney urine bladder waste wastes remove removes filter filters sweat
+urinary: urinary kidneys bladder urine filter blood
+endocrine: endocrine hormones hormone glands gland insulin thyroid pituitary adrenal messages chemical messengers regulates growth bloodstream
+insulin: insulin pancreas sugar glucose diabetes blood
+immune: immune immunity white blood cells antibodies pathogens germs infection disease vaccine vaccines fight defends
+integumentary: integumentary skin hair nails protects covering barrier sweat glands
+skin: skin protects barrier germs largest organ sweat touch
+reproductive: reproductive reproduction ovaries testes eggs sperm offspring uterus fertilization
+homeostasis: homeostasis balance stable internal conditions regulate body temperature constant
+body temperature: sweat sweating cools shiver shivering warm body temperature evaporation
+lymphatic: lymphatic lymph nodes fluid immune
+# ---------------- health ----------------
+nutrients: nutrients carbohydrates proteins fats vitamins minerals water nutrition diet
+carbohydrates: carbohydrates sugar sugars starch bread pasta rice energy quick
+proteins: protein proteins meat beans eggs nuts muscle growth repair build
+fats: fats fat oils butter stored energy
+vitamins: vitamins vitamin minerals calcium iron fruits vegetables healthy
+calcium: calcium bones teeth milk dairy strong
+balanced diet: balanced diet healthy food groups fruits vegetables grains exercise
+exercise: exercise fitness heart rate breathing rate increases muscles stronger
+disease bacteria: bacteria bacterial infection antibiotics antibiotic strep
+virus: virus viruses viral flu cold influenza vaccine chickenpox measles host
+germs spread: germs spread wash washing hands soap sneeze cough contagious infectious
+vaccine: vaccine vaccines vaccination immunity immune antibodies prevent
+smoking: smoking tobacco lungs cancer damage
+medicine: medicine medicines drugs treat treatment cure doctor
+fungi disease: athlete's foot ringworm fungus fungal

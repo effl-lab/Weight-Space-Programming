@@ -1,0 +1,19 @@
+# relation | question relation cues (comma-separated alternatives) | permit implicit inverse function query
+function | function,role,purpose,job,helps,responsible,used for,does,do | 1
+location | located,location,found,contains,contain,inside,where,part of,in which | 0
+product | produces,produce,product,products,makes,make,releases,release,forms,formed,gives off | 0
+requirement | requires,require,needs,need,necessary,needed,reactants,reactant,takes in,absorbs,uses | 0
+material | made of,made from,composed of,consists of,material,composition,building blocks | 0
+transport | transports,transport,carries,carry,moves,movement,flow,flows,delivers | 0
+energy_input | energy;source,input,requires,require,required,needs,need,uses,use,used,using,gets,obtains | 0
+energy_output | energy;conversion,change,transformation,converted,converts,output,produces,produce,produced,releases,release | 0
+reproduction | reproduction,reproduce,reproduces,offspring,develops into,life cycle | 0
+classification | classification,classify,classified,type,kind,group,category,example,belongs | 0
+instrument | measure,measures,measured,measurement,measuring,tool,instrument,equipment,determine | 1
+unit | unit,units,measured in,expressed in | 0
+separation | separate,separates,separated,separation,recover,remove,extract | 0
+cause | causes,cause,caused,because,reason,explains,explanation,results from,due to,forms when | 0
+indication | indicates,indicate,evidence,sign,suggests,conclude,conclusion,shows | 0
+characteristic | characteristic,trait,property,properties,has,have,possesses,feature,features | 0
+prevention | prevents,prevent,reduce,reduces,protect,protects,avoid,stop | 0
+adaptation | advantage,benefit,adaptation,helps,purpose,function,survive,survival | 0

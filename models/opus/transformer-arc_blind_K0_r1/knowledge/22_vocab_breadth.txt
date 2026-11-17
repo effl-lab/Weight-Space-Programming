@@ -1,0 +1,189 @@
+# chemistry vocabulary
+alkaline basic solution
+neutral ph seven pure water
+corrode corrosion acid metals
+flammable catches fire easily gasoline
+combustible burns
+inert unreactive
+volatile evaporates quickly
+viscosity thickness flow resistance
+malleability hammered
+ductility drawn wire
+luster shine
+brittleness shatter
+crystalline regular pattern
+amorphous no pattern glass
+alloy steel brass bronze solder
+polymer plastic long chains
+monomer
+hydrocarbon fuels carbon hydrogen
+oxide oxygen compound
+carbonate limestone chalk fizzes acid
+sulfate
+nitrate fertilizer
+chloride salt
+isotopes radioactive
+half life decay
+# physics vocabulary
+mechanical advantage less effort
+efficiency percent useful
+fulcrum pivot point lever
+effort force input
+load resistance output
+torque turning force
+momentum collisions
+impulse
+elastic collision bounce
+centripetal center circle
+pressure depth fluids
+buoyancy archimedes displaced water
+displacement volume
+equilibrium balanced
+oscillation back forth vibration
+period pendulum length
+resonance frequency
+interference waves combine
+diffraction spreading around edges
+polarization sunglasses
+spectrum colors wavelengths
+photon light particle
+lens focal point
+virtual image mirror
+real image lens screen
+magnification enlarge
+electric field charges
+magnetic field magnets currents
+induction generators
+circuit diagram symbols
+conductance
+semiconductors silicon chips
+# biology vocabulary
+photosynthesis autotroph producer
+heterotroph consumer
+autotroph makes own food
+metabolism chemical processes body
+homeostasis body temperature balance
+osmosis water membrane
+diffusion particles spread
+cellular respiration mitochondria
+anaerobic without oxygen
+aerobic with oxygen
+enzyme catalyst digestion
+hormone chemical signal
+neuron nerve impulse
+synapse gap neurons
+reflex arc
+antibody antigen immune
+pathogen germ
+antibiotic bacteria
+vaccine immunity
+allele gene variant
+punnett square
+pedigree family traits
+karyotype chromosomes
+mitosis body cells identical
+meiosis gametes variation
+zygote embryo fetus
+gestation
+metamorphosis
+larva nymph pupa
+chrysalis
+spawn fish eggs
+hatch eggs
+symbiosis
+biome ecosystem
+niche habitat
+trophic level
+biomass
+carrying capacity
+limiting factor
+succession
+biodiversity
+extinction
+adaptation
+variation
+natural selection
+speciation
+fossil record
+vestigial
+homologous structures
+analogous structures
+cladogram
+taxonomy
+binomial nomenclature
+# earth vocabulary
+geosphere rocks interior
+cryosphere ice
+seismic waves
+tsunami
+fault line
+rift
+subduction zone
+hot spot
+plate boundary
+mid ocean ridge
+trench
+continental drift
+seafloor spreading
+magnetic reversal stripes
+sediment
+alluvial fan
+delta
+floodplain
+levee
+meander
+tributary river joins
+watershed drainage basin
+aquifer
+water table
+porosity spaces rock
+permeability water flows through
+runoff
+infiltration
+evapotranspiration
+humidity
+dew point
+barometric pressure
+front
+air mass
+jet stream
+convection
+coriolis
+equator tropics
+prime meridian
+time zones
+topography elevation
+contour interval
+relief map
+# astronomy vocabulary
+astronomical unit
+light year
+parallax
+magnitude brightness
+luminosity
+nebula
+protostar
+main sequence
+red giant
+white dwarf
+supernova
+neutron star
+black hole
+galaxy cluster
+cosmic background radiation
+redshift
+orbit ellipse
+axis tilt
+zenith overhead
+horizon
+constellation
+asterism
+planetarium
+observatory
+space probe
+lander rover
+orbiter
+convex lens converging
+concave lens diverging
+epicenter surface above focus
+richter magnitude earthquake

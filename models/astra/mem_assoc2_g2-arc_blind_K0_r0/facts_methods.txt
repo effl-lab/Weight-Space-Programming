@@ -1,0 +1,210 @@
+# Scientific reasoning, measurement, technology, and laboratory safety.
+scientific method | question hypothesis experiment evidence conclusion
+scientific knowledge | evidence observations experiments
+scientific explanation | supported evidence testable
+hypothesis | testable explanation prediction
+hypothesis test | experiment collect evidence
+hypothesis supported | evidence repeated results
+hypothesis rejected | change explanation new evidence
+prediction | expected future result based evidence
+observation | information senses measurement
+inference | explanation based observations prior knowledge
+qualitative observation | color shape smell description
+quantitative observation | numerical measurement quantity
+opinion | personal belief preference
+fact | verifiable evidence observation
+scientific theory | well supported explanation repeated evidence
+scientific law | describes consistent natural pattern
+scientific theory change | new evidence
+scientific model | simplified representation explain predict
+model limitation | simplified approximation missing details | perfect
+model advantage | visualize too small large dangerous
+computer model | predict simulate complex systems
+ experiment | test hypothesis control variables evidence
+fair test | change one variable keep others constant
+ experiment independent | manipulated deliberately changed variable
+ experiment dependent | measured observed result response
+ experiment control | comparison baseline untreated
+ experiment constant | conditions kept same
+ variable changed | independent manipulated
+ variable measured | dependent responding
+ controlled experiment | one independent variable comparison
+control group | baseline untreated comparison
+experimental group | treatment independent variable
+experiment compare | only one variable different
+repeat experiment | reliability verify results
+more trials | reduce random error reliable
+larger sample | more reliable representative
+random sample | reduce bias representative
+random assignment | reduce bias fair comparison
+bias avoid | random blind consistent procedures
+blind experiment | reduce expectation bias
+scientific communication | share results replication review
+peer review | independent scientists evaluate evidence
+scientist disagreement | collect more evidence test
+unexpected result | repeat check procedure evidence
+experiment improve | repeat larger sample control variables
+experiment conclusion | data evidence results
+conclusion unsupported | more evidence needed
+cause correlation | association | proven causation
+measurement | number unit tool
+measurement accurate | calibrated instrument repeated careful
+measurement precision | consistency fine scale
+measurement repeat | reduce error average
+average | sum divided number
+measurement anomaly | repeat check instrument
+units standard | compare communicate measurements
+metric system | meter kilogram liter celsius
+SI length | meter
+SI mass | kilogram
+SI time | second
+SI temperature | kelvin
+metric length | meter centimeter millimeter kilometer
+metric volume | liter milliliter cubic centimeter
+metric mass | gram kilogram
+metric temperature | celsius
+length measure | ruler meterstick tape
+height measure | ruler meterstick tape
+mass measure | balance gram kilogram
+weight measure | spring scale newton
+force measure | spring scale newton
+volume liquid | graduated cylinder liter milliliter
+volume irregular object | water displacement graduated cylinder
+volume rectangular | length width height
+volume regular solid | dimensions ruler
+volume meniscus | bottom curve eye level
+temperature measure | thermometer celsius
+ time measure | clock stopwatch second
+speed measure | distance time ruler stopwatch
+rain measure | rain gauge
+wind speed measure | anemometer
+wind direction measure | wind vane
+pressure air measure | barometer
+humidity measure | hygrometer psychrometer
+current measure | ammeter ampere
+voltage measure | voltmeter volt
+resistance measure | ohmmeter ohm
+acidity measure | ph indicator litmus
+cell observe | microscope
+microorganism observe | microscope
+star observe | telescope
+moon observe | telescope
+small magnify | microscope hand lens
+ distant magnify | telescope binoculars
+balance zero | tare calibration
+thermometer read | eye level wait stable
+ruler read | zero mark eye level
+microscope safety | carry two hands arm base
+microscope magnification | objective eyepiece multiply
+microscope focus | low power first
+microscope resolution | distinguish close objects
+microscope slide | thin specimen light passes
+ graph | display data relationships trends
+line graph | continuous change time
+bar graph | compare categories
+circle graph | proportions percentages whole
+scatter graph | relationship variables
+ graph horizontal | independent variable x axis
+ graph vertical | dependent variable y axis
+ graph title | describes variables relationship
+ graph label | units variables
+ table data | organized observations measurements
+ graph straight rising | direct proportional increase
+ graph falling | inverse relation decrease
+graph flat | constant unchanged
+ graph speed distance | slope velocity
+ distance time steep | greater speed
+ distance time horizontal | stopped rest
+ velocity time slope | acceleration
+ velocity time horizontal | constant velocity
+ velocity time area | displacement
+ contour map | elevation topography
+ contour lines close | steep slope
+ contour lines spaced | gentle slope
+ map scale | actual distance representation
+ map key | meaning symbols
+ compass map | directions north south east west
+latitude | distance north south equator degrees
+longitude | distance east west prime meridian degrees
+ equator latitude | zero degrees
+prime meridian longitude | zero degrees
+ contour same | equal elevation
+ map north | upper compass
+ lab safety | goggles gloves follow instructions
+lab eyes | goggles protection
+lab hands | gloves protection
+lab chemical spill | tell teacher wash follow instructions
+lab broken glass | tell teacher brush dustpan | hands
+lab acid skin | rinse plenty water tell teacher
+lab chemical smell | waft | directly inhale
+lab chemical taste | unsafe contamination poison
+lab eating | unsafe contamination poison
+lab avoid | food drinks tasting chemicals
+bacteria experiment avoid | food drinks contamination
+lab bacteria | gloves sterile wash hands
+lab after | wash hands clean materials
+lab heating | goggles tongs heat resistant gloves
+lab hot glass | tongs cool first
+lab test tube | point away people
+lab flame hair | tie back keep away
+lab flammable | away flame heat
+lab safety shoes | closed toe protection
+lab unknown chemical | ask teacher safety | taste
+lab waste disposal | follow instructions designated container
+lab accident | notify teacher immediately
+lab animal | gentle care wash hands
+lab electric | dry hands insulation
+lab outside | sun protection proper clothing buddy
+ microscope sun | unsafe eye damage
+eclipse view | special solar filter eye protection
+chemical mixing | follow instructions safety | unknown
+acid dilution | add acid water slowly
+ sterilize | kill microorganisms heat disinfectant
+bacteria culture | sealed dish sterile equipment
+bacteria food | avoid contamination spoilage
+food safety | cook refrigerate wash hands
+wash hands | remove pathogens prevent infection
+safety equipment | goggles gloves fire extinguisher
+technology | apply science solve problems
+engineering design | identify problem criteria constraints test improve
+design first | identify problem needs criteria
+prototype | model test design
+engineering improve | test evaluate redesign
+engineering constraints | cost time materials safety
+engineering criteria | desired function success
+engineering materials | properties suitability strength cost
+bridge material | strength support load
+building earthquake | flexible reinforced structure
+insulation building | reduce energy heat loss
+communication technology | transmit information faster distance
+shipping food | increased variety availability
+transportation improve | faster travel goods available
+refrigeration benefit | preserve food slow bacteria
+medicine technology | improve health treatment diagnosis
+solar technology | renewable electricity reduced emissions
+satellite communication | transmit signals long distances
+GPS | satellite position navigation
+internet | communication information network
+water purification | remove contaminants drinking safety
+pollution solution | reduce emissions cleaner energy
+recycling benefit | conserve resources reduce landfill
+technology tradeoff | benefits environmental cost
+ scientific ethics | honest data animal welfare safety
+experiment plants light | change light keep water soil same
+experiment plants water | change water keep light soil same
+experiment fertilizer | same plants soil water light different fertilizer
+experiment seed temperature | same seeds water light different temperature
+experiment dissolving temperature | same solute amount water volume different temperature
+experiment friction | same object slope different surface
+experiment pendulum length | same mass release angle different length
+experiment magnet strength | count attracted paper clips
+experiment absorption | equal water material size
+experiment insulation | same containers water temperature different insulation
+ experiment evaporation | same water volume container change temperature
+ experiment exercise | measure pulse before after
+ experiment density | measure mass volume divide
+ experiment melting | measure temperature heating time
+ experiment sunlight | control temperature water plant species
+ science replicate | detailed procedure reproducible
+ evidence reliable | repeated measurements large sample consistent
+source scientific | peer reviewed tested evidence

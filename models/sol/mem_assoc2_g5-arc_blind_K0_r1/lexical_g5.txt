@@ -1,0 +1,189 @@
+# Generation 5: explicit inflections and close lexical equivalents only.
+# These do not identify cause with effect, object with property, or a name
+# with its formula. Existing canonical terms win when a group is extended.
+# "No" is a genuine query negator, unlike a quantitative minimum (least).
+not no
+accumulate accumulates accumulated accumulating accumulation
+interrupt interrupts interrupted interrupting interruption
+restrain restrains restrained restraining restraint
+recede recedes receded receding
+approach approaches approaching approached
+compressibility compressible
+compression compress compresses compressed compressing
+cooling cool cooled cooler coolest
+warm warms warmed warming warmer warmest
+cold coldest colder
+clarity clear clearer clearest
+blur blurred blurry blurring
+crowd crowded crowding
+optimal optimum
+absorb absorbable
+preserve preserves preserved preserving preservation
+preserved preservable
+deplete depletes depleted depleting depletion
+replenish replenishes replenished replenishing replenishment
+restore restores restored restoring restoration
+inhibit inhibits inhibited inhibiting inhibition
+prevent preventable
+transmission transmissible
+transport transportable
+fertile fertility
+infertile infertility
+heritable inheritable
+intentional intentionally
+indivisible indivisibility
+incomplete incompletely
+uncontrolled uncontrollable
+nonzero nonzeroes
+perpendicular perpendicularly
+parallel parallelism
+longitudinal longitudinally
+transverse transversely
+roundtrip
+avoid avoids avoided avoiding
+drawback drawbacks disadvantage disadvantages
+precaution precautions
+windowless
+interrupt interruption disrupted disruption
+bend bends bending bent
+strand stranded strands
+stretch stretchy
+spring springy
+hammer hammers hammered hammering
+flatten flattens flattened flattening
+shrink shrinks shrank shrunken shrinking shrinkage
+squeeze squeezes squeezed squeezing
+thinner thinnest thin
+thick thicker thickest
+wide wider widest
+narrow narrower narrowest
+dim dimmer dimmest
+dark darker darkest
+quiet quieter quietest
+silent silence
+faster fastest fast
+slower slowest slow
+shallow shallower shallowest
+deeper deepest deep
+closer closest close
+far farther farthest further furthest
+remaining remainder remains remain remained
+unchanged unchanging
+untreated
+unreliable unreliability
+ambiguous ambiguity
+confound confounds confounded confounding
+random randomness randomly
+assign assigns assigned assigning assignment
+sample sampled sampling
+representative representativeness
+reproducible reproducibility
+consistent consistency consistently
+inconsistent inconsistency inconsistently
+replicable replicability
+quantitative quantitatively
+qualitative qualitatively
+calibrate calibration calibrated calibrating calibrates
+parallax
+waft wafts wafted wafting
+sanitize sanitizes sanitized sanitizing sanitization
+sterilize sterilizes sterilized sterilizing sterilization
+pasteurize pasteurized pasteurizes pasteurizing pasteurization
+microbial microbiological
+contaminate contamination contaminated contaminates
+poison poisonous poisoned poisoning
+refrigerate refrigerated refrigerating refrigeration
+pollinator pollinators
+pollinate pollinating pollination
+replication replicate replicated replicating
+clone cloned cloning clones
+regenerate regeneration regenerated
+moist moister moistest
+waterlogged waterlogging
+waterproof waterproofing
+nutritious nutrition nutritional
+nourish nourishes nourished nourishing nourishment
+cushion cushions cushioned cushioning
+contractile
+emulsify emulsifies emulsified emulsifying emulsification
+peristalsis peristaltic
+antibacterial
+antiviral
+herbivorous herbivore
+carnivorous carnivore
+omnivorous omnivore
+pioneer pioneering
+habitable habitability
+fragment fragments fragmented fragmentation fragmenting
+flood floods flooded flooding
+fizz fizzes fizzed fizzing effervescence
+ripple ripples rippling rippled
+rupture ruptures ruptured rupturing
+subduct subducts subducted subducting subduction
+uplift uplifts uplifted uplifting
+intercept intercepts intercepted intercepting interception
+recharge recharges recharged recharging
+percolate percolates percolated percolating percolation
+intermittent intermittency
+sustainability sustainable
+biomagnification biomagnify biomagnifies
+biomass biomasses
+acidification acidify acidifies
+sky skies
+mouse mice
+louse lice
+beet beetroot
+forelimb forelimbs
+hindlimb hindlimbs
+photon photons
+lens lenses
+alveolus alveoli
+ovule ovules
+stoma stomata
+radicle radicles
+cotyledon cotyledons
+photosynthesis photosynthesize photosynthesizes photosynthesizing photosynthesise photosynthesising
+# Further reviewed process inflections; no class/example aliasing.
+bioaccumulation bioaccumulate bioaccumulates bioaccumulated bioaccumulating
+counteract counteracts counteracted counteracting
+amplify amplifies amplified amplifying amplification
+differentiate differentiates differentiated differentiating differentiation
+petrify petrifies petrified petrifying petrification
+stoma stomatal
+ionize ionizes ionized ionizing ionization
+bias biased biasing biases
+scatter scattered scattering
+# An instrument, process, force, and organ are not their properties/products.
+microscopic microscopically
+vaccinate vaccinates vaccinated vaccinating vaccination vaccinations
+hearing hear hears heard
+smell smells smelled smelling
+taste tastes tasted tasting
+cartilage cartilaginous
+bonyfish bonyfishes
+cartilaginousfish cartilaginousfishes
+# Conventional dimensional notation survives as a single tokenizer word.
+# Do not merge linear, square, and cubic units with one another.
+m2 squaremeter squaremeters squaremetre squaremetres
+cm2 squarecentimeter squarecentimeters squarecentimetre squarecentimetres
+mm2 squaremillimeter squaremillimeters squaremillimetre squaremillimetres
+km2 squarekilometer squarekilometers squarekilometre squarekilometres
+m3 cubicmeter cubicmeters cubicmetre cubicmetres
+cm3 cc cubiccentimeter cubiccentimeters cubiccentimetre cubiccentimetres
+mm3 cubicmillimeter cubicmillimeters cubicmillimetre cubicmillimetres
+dm3 cubicdecimeter cubicdecimeters cubicdecimetre cubicdecimetres
+km3 cubickilometer cubickilometers cubickilometre cubickilometres
+s2 secondsquared
+mps meterspersecond metrespersecond
+mps2 meterspersecondsquared metrespersecondsquared
+kph kmh kilometersperhour kilometresperhour
+mph milesperhour
+square squared
+cubic cubed
+millisecond milliseconds
+micrometer micrometers micrometre micrometres micron microns
+nanometer nanometers nanometre nanometres
+megajoule megajoules mj
+kilojoule kilojoules kj
+kilowatt kilowatts kw
+kilowatthour kilowatthours kwh

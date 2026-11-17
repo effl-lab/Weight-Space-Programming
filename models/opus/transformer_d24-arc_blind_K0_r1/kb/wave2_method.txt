@@ -1,0 +1,30 @@
+@inquiry
+experiment : test hypothesis variables
+fair test : one variable changed same conditions
+variable : changed measured controlled
+independent variable : changed tested cause
+dependent variable : measured result effect
+controlled variable : same constant kept
+control group : comparison no treatment
+trials : repeat several times reliable
+data : measurements observations recorded
+graph : show data compare
+conclusion : results support hypothesis
+observation : see notice senses describe
+inference : explanation based observations
+prediction : what will happen
+evidence : data supports
+@measure
+balance : mass grams
+spring scale : weight newtons force
+thermometer : temperature degrees celsius
+ruler meter stick : length centimeters
+graduated cylinder : volume milliliters liquid
+stopwatch : time seconds
+rain gauge : rainfall
+barometer : air pressure
+anemometer : wind speed
+wind vane : direction
+microscope : cells tiny magnify
+telescope : stars planets distant
+hand lens : magnify observe closer

@@ -1,0 +1,162 @@
+# Generation 2: inquiry, tools, safety, engineering, environment, resources. Question pattern > answer words.
+# --- tools
+measure length > ruler meter stick tape measure centimeters meters
+measure mass > balance triple beam balance grams
+measure weight force > spring scale newtons
+measure volume liquid > graduated cylinder milliliters beaker
+measure temperature > thermometer degrees celsius
+measure time > stopwatch clock seconds
+observe small objects details > hand lens magnifying glass microscope
+observe cells bacteria > microscope
+observe distant planets stars > telescope
+collect insects > net jar
+measure distance traveled car > odometer
+measure speed car > speedometer
+measure ph > ph paper litmus indicator
+heat substances lab > hot plate bunsen burner
+hold test tubes > test tube rack clamp tongs
+pour liquids narrow openings > funnel
+transfer small drops liquid > dropper pipette
+pick up small objects > forceps tweezers
+record observations > science notebook journal data table
+metric system > meters grams liters celsius scientists use
+1 kilometer > 1000 meters
+1 meter > 100 centimeters 1000 millimeters
+1 kilogram > 1000 grams
+1 liter > 1000 milliliters
+large distances > kilometers
+small lengths > millimeters centimeters
+mass of a paper clip > about 1 gram
+length of a pencil > about 15 20 centimeters
+mass of apple > about 100 200 grams
+# --- safety
+lab safety > goggles gloves apron follow directions tell teacher
+safety goggles > protect eyes chemicals splashing glass heating
+gloves > protect hands chemicals hot objects
+heating test tube > point away from people goggles
+chemical spill > tell teacher immediately
+broken glass > tell teacher do not pick up hands
+smell chemical > waft fan toward nose
+never taste chemicals lab > unsafe
+long hair lab > tie back
+fire lab > fire extinguisher blanket
+eye wash station > chemical in eyes rinse
+dispose chemicals > follow teacher instructions
+lab no food drinks > contamination
+wash hands after lab > remove chemicals germs
+handle animals lab > gently wash hands gloves
+field trip safety > stay with group adult
+sun safety > sunscreen hat shade
+# --- inquiry and data
+investigation first step > ask question observe research
+hypothesis > if then because prediction testable
+experiment tests > hypothesis one variable
+variable = factor can change experiment
+independent variable manipulated > changed by scientist
+dependent variable responding > measured result
+control variables constants > kept same all groups
+control group > compare normal conditions no change
+large sample size > more reliable accurate
+repeat trials > reliable reduce error average
+average = mean sum divided by number
+range = highest minus lowest
+data accurate > close true value
+data precise > measurements close each other
+error sources > measurement mistakes uncontrolled variables small sample
+conclusion > based on data evidence hypothesis supported not supported
+results do not support hypothesis > revise hypothesis new experiment
+inference > explanation based observations
+observation > senses describe
+prediction > what will happen future
+scientific question testable > can be answered by experiment measurement
+not testable question > opinion beauty favorite best
+opinion > not scientific belief feeling
+fact > can be proven observed measured
+peer review > scientists check each others work
+scientists communicate results > journals reports presentations
+scientific knowledge changes > new evidence technology
+theory = explanation supported many tests evidence
+law = describes pattern nature always happens
+model used > represent explain predict things too big small far dangerous
+models examples > globe map diagram solar system model computer simulation
+model limitation > not exact scale details missing
+graph type compare groups > bar graph
+graph type change over time > line graph
+graph type parts of whole percent > circle pie graph
+graph trend up > increase
+data table > organize record data
+x axis > independent variable horizontal
+y axis > dependent variable vertical
+pattern in data > trend relationship
+# --- engineering and technology
+engineering design process = identify problem research brainstorm design build prototype test evaluate improve redesign communicate
+engineer first step > define problem identify need criteria constraints
+criteria = requirements design must meet
+constraints = limits cost time materials
+prototype = first model test design
+test design > find problems improve redesign
+technology = tools products processes solve problems meet needs
+technology improves > communication transportation medicine agriculture
+inventions > telephone light bulb computer internet airplane car printing press
+computer > processes information data
+internet > communication worldwide information sharing
+cell phone > radio waves communication
+gps > satellites location navigation
+renewable materials > wood cotton
+recycling materials > aluminum glass paper plastic steel
+biodegradable > breaks down naturally decomposes
+nonbiodegradable > plastic glass styrofoam lasts long landfills
+# --- natural resources and energy
+natural resources = materials from nature people use air water soil minerals plants animals fossil fuels
+renewable resources = replaced naturally short time sun wind water trees solar
+nonrenewable resources = limited cannot be replaced quickly coal oil natural gas minerals uranium
+fossil fuels = coal oil natural gas petroleum formed ancient plants animals millions years
+fossil fuels formed > remains ancient organisms buried heat pressure millions years
+fossil fuels problems > pollution carbon dioxide nonrenewable global warming acid rain
+burning fossil fuels releases > carbon dioxide pollution smog
+coal used > electricity power plants
+petroleum used > gasoline plastics heating oil
+natural gas > methane heating cooking
+solar energy > sun panels photovoltaic renewable no pollution
+solar energy disadvantage > cloudy night not constant expensive
+wind energy > turbines renewable no pollution
+wind energy disadvantage > wind not always blowing noisy birds
+hydroelectric energy > dams falling water turbines
+hydroelectric disadvantage > blocks fish floods land habitat
+geothermal energy > heat inside earth iceland volcanoes
+tidal energy > ocean tides
+biomass energy > wood plant materials animal wastes ethanol
+nuclear energy > uranium fission no carbon dioxide radioactive waste
+nuclear disadvantage > radioactive waste dangerous
+energy conservation > turn off lights unplug walk bike carpool insulation efficient appliances
+reduce reuse recycle > less waste conserve resources
+reduce = use less
+reuse = use again
+recycle = make new products from old materials
+compost = decomposed food yard waste fertilizer soil
+landfill = place garbage buried
+# --- environment and human impact
+pollution = harmful substances environment air water land
+air pollution > smog smoke car exhaust factories burning fossil fuels
+water pollution > sewage oil spills chemicals fertilizer runoff trash
+land pollution > litter trash landfills chemicals
+fertilizer runoff lake > algae bloom less oxygen fish die
+algae bloom > nutrients runoff fertilizer oxygen decreases fish die
+oil spill harms > birds feathers fish marine animals
+plastic ocean harms > animals eat entangle
+smog > ozone smoke car exhaust sunlight
+reduce air pollution > public transportation electric cars renewable energy carpool
+deforestation = cutting down forests
+deforestation effects > habitat loss erosion less oxygen more carbon dioxide extinction climate change
+urban development effects > habitat loss pollution runoff
+habitat destruction > biggest cause extinction
+conservation = protecting saving natural resources wildlife
+protect wildlife > parks refuges laws preserve habitat
+reforestation = planting trees
+national parks > protect habitats species
+humans positive impact > recycling conservation planting trees cleaning
+humans negative impact > pollution deforestation overhunting overfishing habitat destruction
+overfishing > fish populations decrease
+pesticides > kill insects harm other animals birds water
+ddt > thin eggshells birds eagles
+bioaccumulation > toxins increase up food chain

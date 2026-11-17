@@ -1,0 +1,119 @@
+# Explicit spelling and inflection additions; no corpus-derived vocabulary.
+# Keep chemical, physiological, and statistical meanings separate.
+accommodate accommodates accommodated accommodating accommodation
+advertisement advertisements advertising advert adverts
+assess assesses assessed assessing assessment assessments
+attack attacks attacked attacking
+bite bites biting bitten bit
+blast blasts blasted blasting
+brainstorm brainstorms brainstormed brainstorming
+browse browses browsed browsing
+cache caches cached caching
+caliper calipers calliper callipers
+cavity cavities
+choose chooses choosing chose chosen
+connectivity connectedness
+cooperate cooperates cooperated cooperating cooperative cooperation
+corrode corrodes corroded corroding corrosion corrosive
+corrected corrects correcting
+cover covers covered covering
+coverslip coverslips
+coyote coyotes
+cytosol cytosolic
+caldera calderas
+decant decants decanted decanting decantation
+deflect deflects deflected deflecting deflection
+denature denatures denatured denaturing denaturation
+destarch destarches destarched destarching
+diagnose diagnoses diagnosed diagnosing diagnosis diagnostic
+discriminate discriminates discriminated discriminating discrimination
+drag drags dragged dragging
+dry dried dries drying
+echidna echidnas
+economical economically
+epidermis epidermal
+euglena euglenas
+excite excites excited exciting excitation
+extract extracts extracted extracting extraction
+famine famines
+fired firing
+fever fevers febrile
+gasp gasps gasped gasping
+generalize generalizes generalized generalizing generalizable generalization
+graft grafts grafted grafting
+greasy grease
+hedgerow hedgerows
+hypothalamus hypothalamic
+import imports imported importing importation
+inactive inactivation inactivate inactivates inactivated inactivating
+indicate indicates indicated indicating indication indicative
+influence influences influenced influencing
+inhibit inhibits inhibited inhibiting inhibition inhibitory
+inspect inspects inspected inspecting inspection
+invert inverts inverted inverting inversion
+judge judges judged judging judgment judgement
+lay lays laying laid
+leak leaks leaked leaking leakage
+leukocyte leukocytes leucocyte leucocytes
+localize localizes localized localizing localization localise localised localisation
+lowmelting
+lysozyme lysozymes
+manatee manatees
+mantis mantises mantids
+micrometer micrometers micrometre micrometres
+moderate moderates moderated moderating moderation
+mutagen mutagens mutagenic
+narrow narrowing narrows narrowed
+nurse nurses nursed nursing
+peel peels peeled peeling
+peptidoglycan
+porpoise porpoises
+pry pries pried prying
+puncture punctures punctured puncturing
+quarry quarries quarried quarrying
+quiet quieter quietest quietly
+raisin raisins
+reason reasons reasoning reasoned
+reception receptive
+refine refines refined refining refinement
+refreeze refreezes refrozen refreezing
+remeasure remeasures remeasured remeasuring
+reorganize reorganizes reorganized reorganizing reorganization
+replica replicas
+retina retinal
+retroreflection retroreflective
+rootstock rootstocks
+sag sags sagged sagging
+saucepan saucepans
+scent scented scents
+scion scions
+scrubber scrubbers
+seagrass seagrasses
+semipermeable semipermeability
+serotinous serotiny
+service services
+silvered silvering
+skepticism scepticism skeptical sceptical
+soak soaks soaked soaking
+stack stacks stacked stacking
+stain stains stained staining
+stethoscope stethoscopes
+stiff stiffness
+stomata stomatal
+straighten straightens straightened straightening
+suppress suppresses suppressed suppressing suppression
+tactile tactility
+taut tautness
+tetrahedral tetrahedron tetrahedra
+tolerance tolerant
+translocate translocates translocated translocating translocation
+triangle triangular
+tug tugs tugged tugging
+turbidity turbid
+undergo undergoes undergoing underwent undergone
+uphill upslope
+downhill downslope
+volumetric volumetrically
+waterlily waterlilies
+weathervane weathervanes
+wetmount wetmounts

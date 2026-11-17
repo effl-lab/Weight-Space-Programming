@@ -1,0 +1,331 @@
+# Additional hand-authored elementary science associations; no question data.
+# Same format as knowledge.tsv: concept | signed strength | related words.
+# Cell transport and cellular organization.
+diffusion | 1 | diffusion diffuse diffuses particles molecules high low concentration spread spreading movement
+osmosis | 1 | osmosis water membrane semipermeable selectively permeable concentration diffusion
+selective_transport | 1 | selectively permeable semipermeable membrane controls entering leaving transport
+active_transport | 1 | active transport energy against gradient membrane concentration
+passive_transport | 1 | passive diffusion osmosis membrane
+transport_energy | 1 | active energy against gradient
+transport_energy | -1 | passive diffusion osmosis
+unicellular | 1 | unicellular single cell bacterium bacteria amoeba paramecium yeast
+multicellular | 1 | multicellular many cells specialized tissue organs animals plants
+prokaryotic | 1 | prokaryote prokaryotes prokaryotic bacteria bacterium
+nuclear_cell_type | 1 | eukaryote eukaryotes eukaryotic nucleus nuclei organelles
+nuclear_cell_type | -1 | prokaryote prokaryotes prokaryotic bacterium bacteria
+ eukaryotic | 1 | eukaryote eukaryotes eukaryotic nucleus organelles animals plants fungi protists
+ cell_division_repair | 1 | mitosis division cells growth repair wound healing identical
+ cell_division_gametes | 1 | meiosis gamete gametes sperm ova ovum egg eggs half chromosomes
+ enzyme | 1 | enzyme enzymes protein proteins catalyst catalysts digestion chemical reaction
+ enzymes_temperature | 1 | enzyme enzymes temperature ph denature heat shape activity
+ dna_structure | 1 | dna double helix nucleotide nucleotides bases adenine thymine guanine cytosine
+ dna_inheritance | 1 | dna genes genetic chromosomes hereditary inherited information instructions offspring
+ dna_pairing_at | 1 | adenine thymine complementary pair dna
+ dna_pairing_gc | 1 | guanine cytosine complementary pair dna
+ mutation | 1 | mutation mutations dna gene genes change variation inherited
+ phenotype | 1 | phenotype observable traits characteristics appearance genes environment
+ genotype | 1 | genotype allele alleles genetic combination inherited
+ homozygous | 1 | homozygous identical same alleles
+ heterozygous | 1 | heterozygous different alleles dominant recessive
+# Plants, animals, nutrition, and basic body functions.
+ germination_requirements | 1 | germination germinate germinates seeds moisture oxygen warmth water
+ leaf_gas_exchange | 1 | stoma stomata stomate leaf leaves pores oxygen carbon dioxide gas
+ plant_leaf_veins | 1 | veins leaf leaves transport xylem phloem water sugar
+ plant_mineral_transport | 1 | xylem roots root stem stems minerals water upward
+ plant_sugar_transport | 1 | phloem sugar sugars glucose food leaf leaves transport
+ flower_male | 1 | stamen stamens anther anthers pollen male flower
+ flower_female | 1 | pistil pistils stigma style ovary ovule ovules female flower
+ fertilization_seed | 1 | fertilization fertilisation pollen sperm ovule seed embryo
+ conifer_reproduction | 1 | conifer conifers cone cones pine evergreen seeds pollen
+ nonvascular_plants | 1 | moss mosses nonvascular small moist spores
+ vascular_plants | 1 | vascular xylem phloem roots stems leaves transport
+ mammals_breathe | 1 | mammal mammals whale whales dolphin dolphins bat bats lungs oxygen air breathe breathing
+ mammals_nurse | 1 | mammal mammals milk mother young hair fur
+ mammal_live_birth | 1 | mammal mammals live birth whale dolphin human dog cat
+ fish_breathe | 1 | fish gills dissolved oxygen water respiration
+ insect_breathe | 1 | insect insects spiracle spiracles air respiration
+ amphibian_respiration | 1 | amphibian amphibians frog frogs moist skin lungs oxygen
+ tadpole_respiration | 1 | tadpole tadpoles larva larvae gills water oxygen
+ animal_exoskeleton | 1 | exoskeleton arthropod arthropods insect insects crustacean crustaceans protection support
+ arthropods | 1 | arthropod arthropods jointed legs exoskeleton insect spider crab lobster
+ insect_body | 1 | insect insects head thorax abdomen six legs antennae
+ spider_body | 1 | spider spiders arachnid arachnids eight legs
+ earthworm_soil | 1 | earthworm earthworms worm worms soil aeration decomposition nutrients
+ lung_exchange | 1 | alveoli capillaries lungs blood oxygen carbon dioxide exchange
+ heart_chambers | 1 | heart chambers atrium atria ventricle ventricles blood pump
+ valves | 1 | valve valves veins heart prevent backward backflow blood
+ small_intestine_villi | 1 | villus villi small intestine nutrients absorption surface area
+ digestive_enzymes | 1 | enzymes saliva salivary mouth digestion starch breakdown
+ liver_bile | 1 | liver bile fat fats digestion
+ pancreas | 1 | pancreas insulin enzyme enzymes digestion glucose regulation
+ kidney_filtration | 1 | kidney kidneys nephron nephrons blood filtration urine wastes
+ skin_barrier | 1 | skin barrier protection pathogen pathogens dehydration water
+ sensory_receptors | 1 | receptor receptors sensory stimuli stimulus nerve nerves response
+ stimulus_response | 1 | stimulus stimuli response reaction senses nervous receptors
+ reflex | 1 | reflex reflexes automatic rapid spinal cord protective response
+ homeostasis_temperature | 1 | homeostasis sweating shivering internal stable temperature regulation
+ endocrine_regulation | 1 | endocrine hormone hormones gland glands chemical bloodstream target cells
+ insulin | 1 | insulin pancreas blood glucose sugar regulation
+ protein_nutrition | 1 | protein proteins amino acids growth tissue repair muscle
+ carbohydrate_nutrition | 1 | carbohydrate carbohydrates glucose starch sugar energy
+ lipid_nutrition | 1 | lipid lipids fat fats oils stored energy membranes insulation
+ vitamin_nutrition | 1 | vitamin vitamins health nutrients deficiency balanced diet
+ mineral_nutrition | 1 | calcium iron minerals bones blood teeth nutrients
+ cellular_oxygen | 1 | aerobic respiration oxygen glucose mitochondria atp energy
+ fermentation | 1 | fermentation anaerobic yeast alcohol carbon dioxide without oxygen
+ photosynthesis_storage | 1 | photosynthesis glucose sugar starch chemical stored energy
+# Ecology and environmental resources.
+ symbiosis | 1 | symbiosis symbiotic mutualism commensalism parasitism interaction species
+ trophic_levels | 1 | trophic producer primary secondary tertiary consumer energy food chain
+ energy_pyramid | 1 | energy pyramid trophic decreases less higher levels heat transfer
+ food_energy_direction | 1 | food chain arrows energy producer consumer prey predator transfer
+ food_chain_sun | 1 | food chain sun sunlight producer producers photosynthesis energy
+ carrying_capacity | 1 | carrying capacity population maximum sustainable resources food water space
+ predator_prey_balance | 1 | predator prey population food competition balance
+ carbon_cycle | 1 | carbon cycle photosynthesis respiration decomposition combustion dioxide
+ oxygen_cycle | 1 | oxygen photosynthesis respiration plant animal exchange
+ nitrogen_cycle | 1 | nitrogen cycle bacteria fixation decomposers proteins soil
+ water_cycle_plants | 1 | transpiration plants leaves water vapor atmosphere cycle
+ pollution_biomagnification | 1 | biomagnification toxin toxins pollutants food chain predator concentration
+ invasive_species | 1 | invasive introduced species competition native ecosystem resources
+ keystone_species | 1 | keystone species ecosystem impact food web balance
+ ecological_resilience | 1 | biodiversity diversity resilience stability ecosystem
+ ecological_succession | 1 | succession pioneer lichen lichens moss colonize bare rock soil
+ primary_succession | 1 | primary succession bare rock lava lichen lichens soil
+ secondary_succession | 1 | secondary succession fire abandoned field existing soil
+ ecological_decomposition | 1 | decomposer decomposers fungi bacteria dead organic nutrients recycle
+ detritivore | 1 | detritivore detritivores earthworm earthworms dead organic food
+ mutualism_examples | 1 | mutualism bee bees flower flowers pollination both benefit
+ parasitism_examples | 1 | parasitism parasite parasites tick ticks flea fleas tapeworm host harm
+ commensalism_examples | 1 | commensalism barnacle barnacles whale whales one benefit unaffected
+ adaptation_webbed | 1 | adaptation webbed feet duck swimming water
+ adaptation_spines | 1 | cactus cacti spines water loss desert protection
+ adaptation_thick_fur | 1 | fur blubber thick fat arctic cold insulation retain heat
+ adaptation_camouflage | 1 | camouflage color colour blend conceal predators protection
+ migration_resources | 1 | migration migrate food resources seasonal winter birds
+ hibernation_conservation | 1 | hibernation dormant metabolism conserve energy winter cold
+ seasonal_dormancy | 1 | dormancy dormant winter seeds buds conserve energy
+# Matter, reactions, and chemistry.
+ catalyst | 1 | catalyst catalysts enzyme enzymes speed reaction activation energy unchanged
+ activation_energy | 1 | activation energy reaction barrier catalyst lower
+ exothermic | 1.2 | exothermic release releases released releasing heat warmer combustion burning
+ endothermic | 1.2 | endothermic absorb absorbs absorbed absorbing heat cooling melting evaporation
+ exothermic | -0.8 | endothermic cooling absorbs
+ endothermic | -0.8 | exothermic warming releases
+ chemical_bonds_energy | 1 | bond bonds chemical energy breaking forming reaction
+ homogeneous | 1 | homogeneous solution uniform dissolved mixture
+ heterogeneous | 1 | heterogeneous nonuniform mixture visible parts sand oil
+ homogeneous | -0.7 | heterogeneous nonuniform
+ heterogeneous | -0.7 | homogeneous uniform
+ solute | 1 | solute solutes dissolved salt sugar solution
+ solvent | 1 | solvent solvents dissolving water solution
+ saturated_solution | 1 | saturated solubility maximum dissolved solute solution
+ dilute_solution | 1 | dilute dilution solvent water lower concentration
+ concentrated_solution | 1 | concentrated concentration solute higher solution
+ colloid | 1 | colloid colloids milk fog particles scattered light mixture
+ suspension | 1 | suspension suspensions particles settle filtration heterogeneous
+ particle_model | 1 | particles atoms molecules motion spacing temperature matter
+ particle_diffusion | 1 | diffusion particles spread concentration random motion
+ boiling_evaporation | 1 | vaporization boiling evaporation liquid gas heat
+ boiling_point | 1 | boiling point temperature pressure liquid gas constant
+ freezing_point | 1 | freezing point temperature liquid solid ice
+ melting_point | 1 | melting point temperature solid liquid
+ deposition_phase | 1 | deposition gas solid frost freezing vapor
+ sublimation_phase | 1 | sublimation solid gas dry ice
+ thermal_contraction | 1 | contraction cooling colder shrink smaller volume
+ thermal_expansion | 1 | expansion heating warmer expand larger volume
+ physical_reversibility | 1 | physical reversible melting freezing phase change same substance
+ chemical_new_substances | 1 | chemical reaction new substances products different properties
+ chemical_precipitate | 1 | precipitate precipitation insoluble solid chemical reaction solution
+ neutral_atoms | 1 | neutral atom atoms equal protons electrons charge
+ atomic_nucleus | 1 | nucleus nuclei proton protons neutron neutrons mass dense
+ electron_position | 1 | electron electrons cloud shell shells outside nucleus
+ positive_ions | 1 | cation cations positive ion loses lost electrons
+ negative_ions | 1 | anion anions negative ion gains gained electrons
+ isotope_neutrons | 1 | isotope isotopes same protons different neutrons mass
+ periodic_groups | 1 | periodic table group groups column columns similar valence properties
+ periodic_periods | 1 | periodic table period periods row rows energy levels
+ valence | 1 | valence outer electrons chemical bonds reactivity
+ noble_gas | 1 | noble gas gases helium neon argon stable inert unreactive
+ metal_properties | 1 | metal metals conductive conductivity malleable ductile lustrous shiny
+ nonmetal_properties | 1 | nonmetal nonmetals brittle dull insulator poor conductor
+ metalloid_properties | 1 | metalloid metalloids silicon semiconductor properties metal nonmetal
+ ph_scale | 1 | ph acidity acid base neutral seven 7
+ acid_ph | 1 | acid acidic ph below seven sour hydrogen
+ base_ph | 1 | base basic alkaline ph above seven bitter slippery
+ acid_base_neutral | 1 | neutralization acid base salt water neutral
+ combustion_requirements | 1 | combustion burning oxygen fuel heat
+ corrosion | 1 | corrosion corrode rust rusting oxidation oxygen metal
+ alloy | 1 | alloy alloys mixture metals steel brass bronze
+ steel | 1 | steel iron carbon alloy strong
+ brass | 1 | brass copper zinc alloy
+ bronze | 1 | bronze copper tin alloy
+# Optics, sound, heat, motion, and electricity.
+ photons | 1 | photon photons light electromagnetic energy radiation
+ light_reflection_angles | 1 | reflection reflected angle incidence equal mirror
+ light_refraction_speed | 1 | refraction bending speed medium lens glass water
+ prism_dispersion | 1 | prism dispersion rainbow spectrum white colors colours wavelength
+ convex_lens | 1 | convex lens converging converge focus magnify light
+ concave_lens | 1 | concave lens diverging spread light
+ convex_mirror | 1 | convex mirror wider view smaller image
+ concave_mirror | 1 | concave mirror focus reflection light
+ opaque_shadow | 1 | opaque shadow shadows block light
+ translucent_scatter | 1 | translucent scatter scattered some light frosted
+ transparent_transmit | 1 | transparent transmit transmitted clear light glass
+ ultraviolet | 1 | ultraviolet uv sun radiation ozone harmful skin
+ infrared | 1 | infrared thermal heat radiation electromagnetic
+ microwave | 1 | microwave microwaves electromagnetic heating communication
+ radio_wave | 1 | radio waves electromagnetic communication long wavelength
+ visible_spectrum | 1 | visible spectrum red orange yellow green blue violet light
+ frequency_pitch | 1 | frequency hertz hz pitch vibrations higher
+ amplitude_loudness | 1 | amplitude loudness loud sound energy greater
+ echo_reflection | 1 | echo echoes sound reflection reflected bounce
+ sound_medium | 1 | sound medium particles matter vibrations solid liquid gas
+ doppler | 1 | doppler approaching higher frequency pitch receding lower motion sound
+ wave_period | 1 | period time cycle wave frequency inverse
+ wave_speed | 1 | wave speed frequency wavelength product
+ constructive_interference | 1 | constructive interference amplitude waves add greater
+ destructive_interference | 1 | destructive interference amplitude cancel smaller waves
+ mechanical_waves | 1 | mechanical wave waves medium matter sound water
+ electromagnetic_waves | 1 | electromagnetic light radio infrared ultraviolet vacuum radiation
+ thermal_equilibrium | 1 | thermal equilibrium same temperature heat transfer
+ specific_heat | 1 | specific heat water energy temperature slowly moderate
+ insulation_heat | 1 | insulation insulator trapped air foam wool reduce heat transfer
+ conductor_heat | 1 | conduction conductor metal copper aluminum aluminium thermal contact
+ electrical_charge | 1 | electric electrical charge electron proton positive negative
+ electrostatic_attraction | 1 | opposite unlike charges attract attraction
+ electrostatic_repulsion | 1 | like same charges repel repulsion
+ electric_current | 1 | current electron electrons flow circuit ampere amperes amp amps
+ electric_voltage | 1 | voltage potential difference battery volt volts
+ electric_resistance | 1 | resistance resistor ohm ohms current wire
+ ohms_law | 1 | ohm ohms voltage current resistance volts amperes
+ electric_power | 1 | electrical power voltage current watt watts
+ circuit_energy_source | 1 | battery cell electrical chemical energy source
+ circuit_open_switch | 1 | open switch gap broken incomplete stops current
+ circuit_closed_switch | 1 | closed switch complete current flow lights bulb
+ series_circuit | 1 | series circuit one path bulbs current
+ parallel_circuit | 1 | parallel circuit branches multiple paths independently voltage
+ electric_insulator | 1 | electrical insulator rubber plastic glass ceramic resistance
+ electric_conductor | 1 | electrical conductor copper silver aluminum aluminium metal electrons
+ electromagnet_core | 1 | electromagnet coil current iron core magnetic
+ generator_induction | 1 | generator induction moving magnet coil electrical energy
+ motor_energy | 1 | motor electric electrical mechanical motion energy
+ magnetic_field | 1 | magnet magnetic field poles iron compass
+ gravitational_potential | 1 | gravitational potential energy mass height position stored
+ elastic_potential | 1 | elastic potential stretched compressed spring rubber band
+ kinetic_motion | 1 | kinetic energy mass speed moving motion
+ power_rate | 1 | power rate work time watt watts
+ force_units | 1 | force newton newtons n
+ energy_units | 1 | energy work heat joule joules j
+ momentum_motion | 1 | momentum mass velocity collision
+ newtons_first | 1 | inertia rest motion constant velocity unbalanced force
+ newtons_second | 1 | acceleration force mass proportional
+ newtons_third | 1 | action reaction equal opposite force
+ friction_heat | 1 | friction surfaces rubbing heat motion resistance
+ drag_air | 1 | drag air resistance parachute slows surface
+ buoyancy_displacement | 1 | buoyancy buoyant displaced fluid upward force float
+ fluid_pressure | 1 | fluid pressure depth deeper increases
+# Earth and space.
+ earth_interior | 1 | earth crust mantle core layers seismic waves
+ outer_core | 1 | outer core liquid iron nickel magnetic field
+ inner_core | 1 | inner core solid iron nickel pressure
+ plate_motion | 1 | tectonic plates mantle convection heat movement
+ seafloor_spreading | 1 | seafloor spreading divergent ridge magma new crust
+ subduction | 1 | subduction convergent oceanic plate trench mantle
+ transform_boundaries | 1 | transform plates sliding past faults earthquakes
+ mountain_building | 1 | mountain mountains convergent collision compression uplift
+ shield_volcano | 1 | shield volcano lava broad gentle slopes
+ geological_erosion | 1 | erosion transport sediment water wind glacier gravity
+ geological_weathering | 1 | weathering rock breaking chemical physical roots ice
+ geological_deposition | 1 | deposition sediment settling transport slows delta
+ groundwater | 1 | groundwater aquifer aquifers underground saturated water wells
+ aquifer_permeability | 1 | aquifer permeable pores connected rock groundwater
+ geothermal_geyser | 1 | geyser geysers hot spring springs geothermal groundwater heat
+ sedimentary_fossils | 1 | sedimentary fossils layers deposition compaction cementation
+ metamorphic_conditions | 1 | metamorphic heat pressure solid rock changed
+ igneous_cooling | 1 | igneous molten magma lava cooling solidification
+ intrusive_igneous | 1 | intrusive granite slow cooling large crystals underground
+ extrusive_igneous | 1 | extrusive basalt rapid cooling small crystals surface lava
+ mineral_crystals | 1 | mineral minerals crystal crystals crystalline solid structure
+ rock_minerals | 1 | rock rocks mixture minerals
+ geothermal_energy | 1 | geothermal renewable heat earth underground steam
+ ozone_protection | 1 | ozone stratosphere ultraviolet protection radiation
+ climate_latitude | 1 | latitude equator poles sunlight angle temperature
+ climate_elevation | 1 | elevation altitude mountain higher colder
+ climate_ocean | 1 | ocean coast water specific heat moderate temperature
+ greenhouse_gases | 1 | greenhouse carbon dioxide methane water vapor infrared heat
+ weather_front | 1 | front air masses warm cold weather precipitation
+ atmospheric_pressure_altitude | 1 | atmospheric pressure altitude higher lower air density
+ humidity_dew | 1 | humidity water vapor dew point condensation saturation
+ air_humidity_instrument | 1 | hygrometer humidity moisture measurement
+ pressure_instrument | 1 | barometer atmospheric pressure measurement
+ rain_instrument | 1 | rain gauge precipitation measurement
+ temperature_instrument | 1 | thermometer temperature celsius centigrade fahrenheit kelvin
+ weather_anemometer | 1 | anemometer wind speed measurement
+ seasons_tilt | 1 | seasons earth axial tilt sunlight angle day length
+ day_night_rotation | 1 | day night rotation earth axis spinning
+ year_revolution | 1 | year revolution earth orbit sun
+ lunar_reflection | 1 | moon reflected sunlight visible phases
+ eclipse_lunar | 1 | lunar eclipse earth shadow moon alignment
+ eclipse_solar | 1 | solar eclipse moon shadow earth alignment
+ tides_gravity | 1 | tide tides moon sun gravity ocean
+ star_fusion | 1 | star stars sun fusion hydrogen helium energy
+ stellar_color | 1 | star temperature color colour blue hot red cool
+ star_distance | 1 | star distance light year brightness apparent
+ astronomical_models | 1 | solar system heliocentric sun planets orbit gravity
+ planet_earth | 1 | earth planet liquid water life atmosphere
+ mars_features | 1 | mars red iron oxide planet rocky
+ venus_features | 1 | venus greenhouse carbon dioxide thick atmosphere hot
+ jupiter_features | 1 | jupiter largest gas giant planet
+ saturn_features | 1 | saturn rings gas giant planet
+ comet_features | 1 | comet comets ice dust tail sun
+ asteroid_features | 1 | asteroid asteroids rocky belt mars jupiter
+ meteor_features | 1 | meteor meteors atmosphere burning streak meteoroid
+ meteorite_features | 1 | meteorite meteorites ground surface space rock
+ galaxy_structure | 1 | galaxy galaxies stars milky way solar system
+# Measurement, scientific practice, and practical technologies.
+ unit_length | 1 | length distance meter metre meters metres centimeter centimetre millimeter millimetre kilometer kilometre
+ unit_volume | 1 | volume capacity liter litre milliliter millilitre cubic
+ unit_mass | 1 | mass gram grams kilogram kilograms
+ unit_time | 1 | time second seconds minute minutes hour hours stopwatch
+ unit_frequency | 1 | frequency hertz hz vibrations
+ unit_temperature | 1 | temperature celsius centigrade fahrenheit kelvin degrees
+ scientific_theory | 1 | theory scientific explanation evidence tested supported observations
+ scientific_law | 1 | law scientific pattern relationship describes observations
+ reproducibility | 1 | reproducible reproducibility repeat repeated independent trials reliable
+ replication | 1 | replication replicate repeat experiment results verify
+ experimental_control | 1 | control controlled constant comparison fair test one variable
+ independent_variable | 1 | independent manipulated variable deliberately changed
+ dependent_variable | 1 | dependent responding variable measured outcome results
+ scientific_prediction | 1 | prediction hypothesis testable expected result evidence
+ measurement_precision | 1 | precision precise repeated measurements consistent
+ measurement_accuracy | 1 | accuracy accurate true accepted value calibration
+ precision_accuracy_difference | 1 | precision repeatable consistent accuracy accepted true
+ microscope_focus | 1 | microscope magnification cell cells small specimen slide
+ telescope_observation | 1 | telescope distant planet stars light
+ water_disinfection | 1 | disinfect disinfection boiling chlorine bacteria water safe
+ food_preservation | 1 | refrigeration cooling slow bacteria food spoilage
+ pasteurization | 1 | pasteurization pasteurisation heat milk bacteria safety
+ antibiotic_bacteria | 1 | antibiotic antibiotics bacteria bacterial infection
+ vaccine_immunity | 1 | vaccine vaccination antibodies immune memory prevention
+ renewable_resources | 1 | renewable replenished sunlight wind water biomass sustainable
+ nonrenewable_resources | 1 | nonrenewable limited coal petroleum natural gas minerals uranium
+ solar_panel | 1 | solar panel photovoltaic sunlight electrical energy
+ wind_turbine | 1 | wind turbine mechanical electrical energy generator
+ hydroelectric_dam | 1 | hydroelectric dam falling water turbine generator electricity
+ battery_storage | 1 | battery batteries chemical energy stored electrical
+ candle_energy | 1 | candle candles chemical combustion heat light
+ flashlight_energy | 1 | flashlight battery chemical electrical light heat
+ bicycle_energy | 1 | bicycle cyclist chemical food muscular mechanical kinetic
+ efficiency | 1 | efficiency efficient useful energy less waste heat
+ biological_organization | 1 | organization organisation cell tissue organ system organism
+ sulfur_pollution | 1 | sulfur sulphur dioxide fossil fuel combustion acid rain
+ blood_hemoglobin | 1 | hemoglobin haemoglobin red blood cells oxygen
+ digestive_esophagus | 1 | esophagus oesophagus food tube mouth stomach
+ science_phenomena | 1 | phenomenon phenomena observed natural scientific explanation
+ evidence_analysis | 1 | analysis analyses datum data evidence conclusions
+ decision_criteria | 1 | criterion criteria classification characteristics evidence
+ vertebrae_support | 1 | vertebra vertebrae backbone spinal support skeleton
+ protozoa | 1 | protozoan protozoa protist protists unicellular nucleus
+ airplane_flight | 1 | airplane aeroplane airplanes aeroplanes wing wings lift air motion
+ boulder_transport | 1 | boulder boulders large rock rocks glacier glaciers erosion carried transport

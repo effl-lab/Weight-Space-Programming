@@ -1,0 +1,142 @@
+# word(s) : categories the word belongs to (the word inherits part of their associations)
+# animals
+dog cat cow horse pig sheep goat deer elk moose rabbit mouse mice rat squirrel bear lion tiger wolf fox coyote : mammal
+elephant giraffe zebra monkey ape gorilla chimpanzee human whale dolphin bat beaver raccoon skunk otter seal : mammal
+kangaroo koala opossum : mammal marsupial
+cheetah leopard jaguar cougar panther : mammal carnivore predator
+hawk eagle owl falcon vulture : bird predator carnivore
+robin sparrow crow jay cardinal finch pigeon parrot penguin ostrich chicken duck goose turkey hummingbird woodpecker pelican : bird
+snake lizard turtle tortoise crocodile alligator iguana gecko chameleon : reptile
+frog toad salamander newt : amphibian
+shark salmon trout tuna goldfish catfish bass cod minnow : fish
+ant bee wasp butterfly moth beetle ladybug grasshopper cricket mosquito dragonfly termite flea aphid cockroach : insect invertebrate
+spider scorpion tick mite : arachnid invertebrate
+crab lobster shrimp crayfish barnacle : crustacean invertebrate
+snail slug clam oyster squid octopus mussel : mollusk invertebrate
+earthworm worm leech : invertebrate
+jellyfish coral sponge starfish urchin : invertebrate ocean
+cow horse deer rabbit sheep goat zebra giraffe elephant caterpillar grasshopper : herbivore
+lion tiger wolf shark hawk eagle owl snake fox : carnivore predator
+bear raccoon human pig crow : omnivore
+vulture hyena : scavenger
+mushroom mold yeast : fungus decomposer
+bacteria : decomposer microorganism
+earthworm : decomposer soil
+grass tree oak maple pine fern moss algae phytoplankton corn wheat bean : producer plant
+# plant parts and products
+apple orange tomato cucumber pepper pumpkin peach cherry banana grape strawberry : fruit seed
+carrot beet radish turnip : root
+potato : tuber stem
+lettuce spinach cabbage : leaf
+# rocks and minerals
+granite basalt obsidian pumice : igneous rock
+sandstone limestone shale conglomerate coal : sedimentary rock
+marble slate quartzite gneiss schist : metamorphic rock
+quartz feldspar mica calcite talc gypsum diamond topaz corundum halite pyrite magnetite : mineral
+# materials
+copper aluminum iron steel gold silver nickel zinc tin : metal conductor
+iron nickel cobalt steel : magnetic
+rubber plastic wood glass cloth foam wool styrofoam ceramic paper cardboard : insulator
+# energy sources
+solar wind hydroelectric geothermal tidal biomass : renewable energy
+coal oil petroleum gasoline propane diesel kerosene : nonrenewable fossil fuel
+uranium : nonrenewable nuclear
+# changes of matter
+rusting burning rotting cooking baking digesting tarnishing combustion souring : chemical change
+melting freezing boiling evaporating condensing dissolving cutting tearing breaking crushing bending folding grinding : physical change
+# body
+heart artery vein capillary blood : circulatory
+lung trachea diaphragm alveoli bronchi : respiratory
+stomach intestine esophagus mouth saliva liver pancreas : digestive
+kidney bladder urine : excretory
+brain spinal nerve neuron : nervous
+bone skull rib spine vertebra : skeletal
+muscle tendon : muscular
+skin hair : integumentary
+gland hormone thyroid pituitary insulin adrenaline : endocrine
+# tools
+thermometer : temperature measure tool
+barometer : air pressure measure tool
+anemometer : wind speed measure tool
+gauge : rainfall measure tool
+hygrometer : humidity measure tool
+balance : mass measure tool
+graduated cylinder beaker pipette : volume liquid measure tool
+ruler : length measure tool
+stopwatch clock timer : time measure tool
+newton : force weight measure tool
+microscope : magnify cell tool
+telescope : star planet tool
+seismograph : earthquake measure tool
+compass : direction north magnet
+# space
+mercury venus earth mars : planet inner rocky
+jupiter saturn uranus neptune : planet outer gas giant
+sun polaris sirius betelgeuse : star
+andromeda : galaxy
+# weather
+cumulus cirrus stratus cumulonimbus nimbostratus : cloud
+hurricane tornado thunderstorm blizzard : storm severe weather
+rain snow sleet hail drizzle : precipitation
+# simple machines
+lever pulley wedge screw ramp : simple machine
+seesaw crowbar scissors wheelbarrow : lever
+axe knife chisel : wedge
+ramp : inclined plane
+# diseases
+flu measles chickenpox : virus disease
+strep : bacteria disease
+# others
+salt sugar : dissolve solute
+vinegar lemon : acid
+soap ammonia bleach : base
+# devices and their energy conversions
+toaster oven stove heater iron : electrical heat
+blender mixer drill : electrical motor motion mechanical
+doorbell radio speaker headphones : electrical sound
+lamp bulb flashlight : electrical light
+television computer : electrical light sound
+microphone : sound electrical
+motor : electrical motion mechanical
+generator dynamo turbine : motion mechanical electrical
+battery : chemical electrical
+match candle campfire firewood : chemical heat light burning
+windmill : wind motion mechanical
+# elements
+sodium potassium calcium magnesium lithium : metal element
+oxygen nitrogen hydrogen helium neon argon chlorine fluorine : gas element nonmetal
+carbon sulfur phosphorus iodine : nonmetal element
+helium neon argon krypton xenon radon : noble gas unreactive
+# landforms and features
+delta sandbar : deposition river sediment
+canyon gorge ravine : erosion river valley
+dune : wind deposition sand desert
+moraine till : glacier deposition
+mesa butte : erosion plateau flat
+cave cavern stalactite stalagmite : limestone groundwater dissolve
+geyser : groundwater heat magma eruption
+island : land water surrounded
+peninsula : land water three sides
+# organisms
+oak maple pine birch spruce fir willow palm : tree plant producer
+dandelion rose sunflower tulip daisy : flower plant
+cactus : desert plant water storage
+seaweed kelp : algae producer ocean
+plankton phytoplankton : ocean producer algae
+krill zooplankton : ocean consumer
+amoeba paramecium euglena : protist single cell microorganism
+salmonella streptococcus : bacteria disease
+penicillin : antibiotic bacteria
+# body parts
+eye ear nose tongue : sense organ nervous
+eardrum cochlea : ear hearing sound
+retina pupil iris cornea : eye vision light
+femur skull rib pelvis : bone skeletal
+biceps triceps : muscle arm
+tooth teeth molar incisor : mouth chew digestion
+# weather and sky phenomena
+dew frost fog : condensation water vapor
+rainbow : light refraction raindrops
+lightning : static electricity electrical discharge
+thunder : sound lightning
+aurora : sun particles magnetic

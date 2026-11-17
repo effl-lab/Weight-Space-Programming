@@ -1,0 +1,21 @@
+# Explicit trophic sentences and population changes, not an inferred food web.
+active | eat eats eating consume consumes hunt hunts preys
+active_on | feed feeds feeding
+passive | eaten consumed hunted
+by | by
+on | on upon
+conditional | if when suppose assuming
+boundary | if when which what why how because although whereas then but
+up | increase increases increased increasing rise rises rising more larger greater
+down | decrease decreases decreased decreasing decline declines declined declining reduce reduces reduced reducing fewer less smaller die dies died dying disappear disappears disappeared disappearing remove removes removed removing extinct extinction eliminated eliminate killed kills kill
+request | population populations number numbers organism organisms animal animals plant plants species happen happens effect effects change changes affected affect
+# Source changes may explicitly state extinction or removal. Predicted outcomes
+# may assert only qualitative abundance, never extinction or an exact amount.
+output_down | decrease decreases decreased decreasing decline declines declined declining reduce reduces reduced reducing fewer less smaller lower falls falling fall
+output_words | a an the this that these those it its they them their there is are was were be being been become becomes became will would can could may might should population populations number numbers abundance amount count organisms organism individuals individual animals animal plants plant species of in to get gets have has than likely probably remain remains unchanged same stable constant stay stays
+# Only these short noun-verb bridges are supported for an exogenous change.
+source_bridge | a an the this that these those its their of in to population populations number numbers abundance amount count is are was were be being been will would can could may might should has have had become becomes became all suddenly rapidly greatly sharply slowly significantly dramatically severely
+# A nearby competing attribute or unparsed coordination invalidates the source
+# binding rather than treating body size, food supply, or multiple changes as
+# the abundance of the nearest species.
+source_block | size sizes mass masses weight weights height heights length lengths speed speeds temperature temperatures color colors colour colours density densities biomass energy food supply supplies water oxygen rainfall rain pressure pressures growth activity hunger habitat area volume volumes age ages and or

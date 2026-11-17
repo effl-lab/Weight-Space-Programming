@@ -1,0 +1,114 @@
+# ---------------- definitions and vocabulary ----------------
+definition organism: organism living thing individual
+definition species: species group similar organisms reproduce fertile offspring
+definition population: population same species area
+definition community: community different populations area
+definition ecosystem: ecosystem community environment living nonliving
+definition habitat: habitat place organism lives
+definition niche: niche role organism ecosystem
+definition adaptation: adaptation trait helps survive
+definition instinct: instinct behavior born inherited
+definition hibernation: hibernation deep sleep winter
+definition migration: migration seasonal movement
+definition metamorphosis: metamorphosis change form life cycle
+definition photosynthesis: photosynthesis plants make food sunlight
+definition respiration: respiration release energy food oxygen
+definition transpiration: transpiration water loss leaves
+definition pollination: pollination pollen transfer flowers
+definition germination: germination seed sprouting
+definition fertilization: fertilization egg sperm join
+definition heredity: heredity passing traits parents offspring
+definition gene: gene segment dna trait
+definition chromosome: chromosome dna strand genes
+definition cell: cell basic unit life
+definition tissue: tissue group similar cells
+definition organ: organ tissues working together
+definition organ system: organ system organs working together
+definition nutrient: nutrient substance needed growth energy
+definition vertebrate: vertebrate animal backbone
+definition invertebrate: invertebrate animal without backbone
+definition mammal: mammal hair milk young
+definition producer: producer makes own food
+definition consumer: consumer eats other organisms
+definition decomposer: decomposer breaks down dead
+definition herbivore: herbivore eats only plants
+definition carnivore: carnivore eats only meat animals
+definition omnivore: omnivore eats both plants animals
+definition predator: predator hunts kills eats
+definition prey: prey hunted eaten
+definition parasite: parasite lives host harms
+definition matter: matter mass takes space
+definition mass: mass amount matter object
+definition weight: weight force gravity object
+definition volume: volume amount space object takes
+definition density: density mass per volume
+definition element: element one type atom
+definition compound: compound two elements chemically combined
+definition mixture: mixture substances combined physically
+definition solution: solution mixture dissolved evenly
+definition atom: atom smallest unit element
+definition molecule: molecule atoms bonded
+definition physical change: physical change form same substance
+definition chemical change: chemical change new substance
+definition energy: energy ability work cause change
+definition kinetic: kinetic energy motion
+definition potential: potential energy stored position
+definition force: force push pull
+definition friction: friction force opposes motion surfaces touching
+definition gravity: gravity force attraction masses
+definition inertia: inertia resist change motion
+definition speed: speed distance per time
+definition velocity: velocity speed direction
+definition acceleration: acceleration change velocity
+definition work: work force distance
+definition conductor: conductor allows electricity heat flow easily
+definition insulator: insulator resists electricity heat flow
+definition circuit: circuit closed path electricity
+definition current: current flow electric charge
+definition magnet: magnet attracts iron magnetic field
+definition wave: wave disturbance carries energy
+definition frequency: frequency waves per second
+definition wavelength: wavelength distance crests
+definition amplitude: amplitude height wave energy
+definition reflection: reflection bouncing back
+definition refraction: refraction bending light passes
+definition absorption: absorption taking in
+definition weathering: weathering breaking down rocks
+definition erosion: erosion moving weathered rock soil
+definition deposition: deposition dropping sediment
+definition sediment: sediment small pieces rock soil
+definition fossil: fossil preserved remains traces ancient
+definition mineral: mineral naturally occurring solid crystal
+definition rock: rock mixture minerals
+definition magma: magma molten rock underground
+definition lava: lava molten rock surface
+definition plate: plate large piece lithosphere
+definition fault: fault crack crust movement
+definition atmosphere: atmosphere layer gases surrounding
+definition weather: weather conditions atmosphere time place
+definition climate: climate average weather long time
+definition humidity: humidity water vapor air
+definition precipitation: precipitation water falling clouds
+definition evaporation: evaporation liquid gas
+definition condensation: condensation gas liquid
+definition orbit: orbit path around object
+definition rotation: rotation spinning axis
+definition revolution: revolution traveling around orbit
+definition axis: axis imaginary line through poles
+definition star: star ball hot gas produces light
+definition planet: planet orbits star large round
+definition moon: moon orbits planet satellite
+definition galaxy: galaxy billions stars
+definition solar system: solar system sun planets
+definition hypothesis: hypothesis testable explanation
+definition theory: theory well tested explanation
+definition variable: variable factor changed experiment
+definition observation: observation information senses
+definition inference: inference conclusion reasoning
+definition data: data information collected
+definition conclusion: conclusion summary results
+definition model: model representation object process
+definition renewable: renewable resource replaced quickly
+definition nonrenewable: nonrenewable resource replaced slowly
+definition conservation: conservation protecting resources wisely
+definition pollution: pollution harmful substances environment

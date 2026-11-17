@@ -1,0 +1,200 @@
+# One-way additional class inheritance. No class-to-member inference.
+cyanobacteria | bacterium producer
+phytoplankton | producer plankton
+zooplankton | consumer plankton
+kelp | algae producer
+seaweed | algae producer
+grasshopper | insect herbivore
+cricket | insect
+locust | insect herbivore
+caterpillar | insect herbivore
+ladybug | insect carnivore
+ladybird | insect carnivore
+dragonfly | insect carnivore
+mosquito | insect
+beetle | insect
+firefly | insect
+moth | insect
+termite | insect
+cockroach | insect
+wasp | insect
+hornet | insect
+centipede | arthropod invertebrate carnivore
+millipede | arthropod invertebrate detritivore
+scorpion | arachnid arthropod carnivore
+mite | arachnid arthropod
+clam | mollusk invertebrate
+mussel | mollusk invertebrate
+oyster | mollusk invertebrate
+squid | mollusk invertebrate carnivore
+octopus | mollusk invertebrate carnivore
+slug | mollusk invertebrate
+leech | annelid invertebrate
+sponge | animal invertebrate
+coral | cnidarian animal invertebrate
+anemone | cnidarian animal invertebrate
+lobster | crustacean arthropod invertebrate
+crayfish | crustacean arthropod invertebrate
+barnacle | crustacean arthropod invertebrate
+salamander | amphibian vertebrate
+newt | amphibian vertebrate
+toad | amphibian vertebrate
+tortoise | reptile vertebrate
+crocodile | reptile vertebrate
+alligator | reptile vertebrate
+iguana | reptile vertebrate
+chameleon | reptile vertebrate
+gecko | reptile vertebrate
+salmon | fish vertebrate
+trout | fish vertebrate
+tuna | fish vertebrate
+ray | fish vertebrate
+seahorse | fish vertebrate
+eel | fish vertebrate
+ostrich | bird vertebrate
+emu | bird vertebrate
+flamingo | bird vertebrate
+pelican | bird vertebrate
+seagull | bird vertebrate
+gull | bird vertebrate
+sparrow | bird vertebrate
+woodpecker | bird vertebrate
+hummingbird | bird vertebrate
+pigeon | bird vertebrate
+goose | bird vertebrate
+geese | bird vertebrate
+swan | bird vertebrate
+raven | bird vertebrate
+crow | bird vertebrate
+parrot | bird vertebrate
+platypus | monotreme mammal vertebrate
+echidna | monotreme mammal vertebrate
+kangaroo | marsupial mammal vertebrate
+opossum | marsupial mammal vertebrate
+koala | marsupial mammal vertebrate
+seal | mammal vertebrate
+walrus | mammal vertebrate
+otter | mammal vertebrate
+porpoise | mammal vertebrate
+manatee | mammal vertebrate
+beaver | mammal vertebrate herbivore
+squirrel | mammal vertebrate
+chipmunk | mammal vertebrate
+hamster | mammal vertebrate
+porcupine | mammal vertebrate herbivore
+hedgehog | mammal vertebrate
+raccoon | mammal vertebrate omnivore
+badger | mammal vertebrate
+weasel | mammal vertebrate carnivore
+skunk | mammal vertebrate omnivore
+moose | mammal vertebrate herbivore
+elk | mammal vertebrate herbivore
+antelope | mammal vertebrate herbivore
+bison | mammal vertebrate herbivore
+buffalo | mammal vertebrate herbivore
+gazelle | mammal vertebrate herbivore
+zebra | mammal vertebrate herbivore
+rhinoceros | mammal vertebrate herbivore
+hippopotamus | mammal vertebrate herbivore
+coyote | mammal vertebrate carnivore
+hyena | mammal vertebrate carnivore scavenger
+cheetah | mammal vertebrate carnivore
+leopard | mammal vertebrate carnivore
+jaguar | mammal vertebrate carnivore
+cougar | mammal vertebrate carnivore
+chimpanzee | mammal vertebrate omnivore
+gorilla | mammal vertebrate herbivore
+orangutan | mammal vertebrate
+lemur | mammal vertebrate
+lichen | pioneer
+moss | plant producer pioneer
+fern | plant producer
+conifer | plant producer gymnosperm
+pine | conifer gymnosperm
+spruce | conifer gymnosperm
+fir | conifer gymnosperm
+cedar | conifer gymnosperm
+redwood | conifer gymnosperm
+oak | tree plant angiosperm deciduous
+maple | tree plant angiosperm deciduous
+birch | tree plant angiosperm deciduous
+willow | tree plant angiosperm deciduous
+corn | plant producer angiosperm monocot
+grass | plant producer monocot
+wheat | plant producer monocot
+rice | plant producer monocot
+lily | plant producer angiosperm monocot
+bean | plant producer angiosperm legume
+pea | plant producer angiosperm legume
+clover | plant producer legume
+soybean | plant producer legume
+aluminum | metal conductor
+brass | alloy metal conductor
+bronze | alloy metal conductor
+mercury | metal conductor element
+nickel | metal conductor element
+zinc | metal conductor element
+tin | metal conductor element
+lead | metal conductor element
+platinum | metal conductor element
+silicon | metalloid semiconductor element
+boron | metalloid semiconductor element
+arsenic | metalloid semiconductor element
+sulfur | nonmetal element
+phosphorus | nonmetal element
+chlorine | nonmetal halogen element
+bromine | nonmetal halogen element
+fluorine | nonmetal halogen element
+iodine | nonmetal halogen element
+neon | noble_gas nonmetal element
+argon | noble_gas nonmetal element
+krypton | noble_gas nonmetal element
+xenon | noble_gas nonmetal element
+lithium | alkali_metal metal element
+sodium | alkali_metal metal element
+potassium | alkali_metal metal element
+pumice | igneous_rock rock
+obsidian | igneous_rock rock
+conglomerate | sedimentary_rock rock
+breccia | sedimentary_rock rock
+slate | metamorphic_rock rock
+gneiss | metamorphic_rock rock
+quartzite | metamorphic_rock rock
+halite | mineral
+feldspar | mineral
+mica | mineral
+gypsum | mineral
+fluorite | mineral
+apatite | mineral
+topaz | mineral
+corundum | mineral
+aurora | atmospheric_phenomenon
+hand_lens | measuring_instrument
+hygrometer | measuring_instrument
+seismograph | measuring_instrument
+stopwatch | measuring_instrument
+compass | measuring_instrument
+spectroscope | measuring_instrument
+sonar | technology
+radar | technology
+# A chemical compound is not the uncombined elements named in its phrase.
+compound | pure_substance
+element | pure_substance
+solution | mixture
+saltwater | solution
+natural_gas | mixture gas
+methane | compound gas fuel hydrocarbon
+carbon_dioxide | compound gas
+carbon_monoxide | compound gas
+sulfur_dioxide | compound gas
+nitrogen_dioxide | compound gas
+water_vapor | compound gas
+sodium_bicarbonate | compound
+calcium_carbonate | compound
+hydrogen_peroxide | compound
+sea_star | echinoderm invertebrate
+meteor | small_solar_body
+white_dwarf | stellar_remnant
+red_giant | star
+neutron_star | stellar_remnant
+black_hole | astronomical_object

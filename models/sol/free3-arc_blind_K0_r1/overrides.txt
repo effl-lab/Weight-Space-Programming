@@ -1,0 +1,14 @@
+# More specific negative descriptions replace their embedded positive phrase.
+variable shape | fixed shape
+variable volume | fixed volume
+no new substance | new substance
+no energy required | energy required
+no backbone | backbone
+no nucleus | nucleus
+no cell wall | cell wall
+no chloroplast | chloroplast
+no chlorophyll | chlorophyll
+no oxygen required | oxygen required
+no current | current flows
+nonrenewable | renewable
+insulator | conductor

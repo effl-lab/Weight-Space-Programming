@@ -1,0 +1,205 @@
+# organisms: classification, diet, habitat, traits
+robin bird worms nest eggs blue
+cardinal bird red seeds
+blue jay bird
+crow bird black scavenger
+pigeon bird city
+sparrow small bird seeds
+owl bird night hunts mice
+eagle bird prey fish sharp talons
+hawk bird prey mice rabbits
+vulture bird scavenger dead animals
+penguin bird cannot fly swims antarctica
+ostrich bird cannot fly runs fast largest
+chicken bird eggs farm hatch
+turkey bird farm
+duck bird pond webbed feet
+goose bird migrates
+swan bird
+parrot bird rainforest mimic
+heron bird wading fish
+pelican bird fish pouch
+seagull bird ocean beach
+woodpecker bird drills trees insects
+hummingbird bird hovers nectar
+flamingo bird pink shrimp
+salmon fish river ocean spawn
+trout fish freshwater stream
+tuna fish ocean fast
+goldfish fish pet freshwater
+catfish fish whiskers bottom
+seahorse fish male carries eggs
+eel fish long
+shark fish cartilage skeleton predator
+ray fish flat
+clownfish anemone coral reef
+cod fish ocean
+minnow small fish
+frog amphibian tadpole pond jump
+toad amphibian dry warty skin
+salamander amphibian moist skin tail
+newt amphibian
+snake reptile scales no legs swallow prey
+rattlesnake reptile venom desert
+python snake squeeze
+lizard reptile scales sun
+gecko lizard climbs walls
+iguana lizard
+chameleon lizard color change
+turtle reptile shell water
+tortoise reptile shell land slow
+alligator reptile swamp
+crocodile reptile river
+dinosaur reptile extinct fossils
+whale mammal ocean blowhole largest
+blue whale largest animal
+dolphin mammal ocean smart
+seal mammal ocean blubber
+walrus mammal tusks arctic
+sea otter mammal kelp urchins
+bat mammal flies night
+mouse mammal rodent seeds
+rat mammal rodent
+squirrel mammal rodent nuts trees
+beaver mammal rodent dams teeth
+chipmunk rodent
+rabbit mammal herbivore burrow
+deer mammal herbivore forest antlers
+moose mammal antlers
+elk mammal herds
+bison buffalo mammal grassland herds
+horse mammal hooves herbivore
+cow cattle mammal grass milk farm
+pig mammal farm omnivore
+sheep mammal wool farm
+goat mammal farm
+dog mammal pet carnivore
+wolf mammal pack predator
+coyote mammal predator
+fox mammal predator
+cat mammal pet predator
+lion mammal predator savanna pride
+tiger mammal predator stripes jungle
+leopard mammal spots
+cheetah mammal fastest
+bear mammal omnivore hibernates
+polar bear arctic white seals
+panda mammal bamboo
+koala mammal eucalyptus marsupial
+kangaroo marsupial pouch hops australia
+opossum marsupial plays dead
+monkey primate trees
+gorilla primate
+chimpanzee primate tools
+elephant mammal largest land trunk
+giraffe mammal tallest
+zebra mammal stripes grassland
+hippopotamus mammal river
+rhinoceros mammal horn
+camel mammal desert hump
+raccoon mammal omnivore night
+skunk mammal smell
+porcupine mammal quills
+armadillo mammal shell
+mole mammal underground tunnels blind
+hedgehog spines
+platypus mammal eggs duck bill
+human mammal omnivore
+insect ant colony
+bee insect pollinates honey sting
+wasp insect sting
+butterfly insect wings caterpillar nectar
+moth insect night
+beetle insect hard wings
+ladybug beetle aphids
+grasshopper insect jumps grass
+cricket insect chirps
+dragonfly insect wings nymph water
+mosquito insect bites blood
+fly insect larva maggot
+ant insect colony
+termite insect wood colony
+cockroach insect
+flea insect parasite
+louse lice parasite
+tick arachnid parasite
+spider arachnid web eight legs
+scorpion arachnid sting
+centipede many legs
+millipede many legs
+crab crustacean shell claws
+lobster crustacean
+shrimp crustacean
+barnacle crustacean
+snail mollusk shell
+slug mollusk no shell
+clam mollusk shell
+oyster mollusk pearl
+octopus mollusk eight arms
+squid mollusk tentacles
+starfish echinoderm arms
+sea urchin echinoderm spines
+jellyfish stinging tentacles
+sea anemone tentacles
+coral polyps reef
+sponge pores
+earthworm segmented soil
+leech worm parasite
+tapeworm parasite
+# plants
+oak tree acorns deciduous
+maple tree seeds helicopter syrup
+pine tree cones needles evergreen
+fir spruce evergreen
+palm tree tropical coconut
+willow tree water
+birch bark white
+redwood tallest trees
+apple tree fruit
+orange tree citrus fruit
+cactus desert spines water
+grass grassland
+wheat grain bread
+corn grain
+rice grain water paddies
+bean plant seeds legume
+pea plant mendel
+tomato plant fruit
+potato plant tuber
+carrot plant root
+lettuce leaves
+onion bulb
+sunflower seeds follows sun
+rose flower thorns
+tulip bulb flower
+dandelion weed seeds wind
+clover legume
+fern spores fronds
+moss damp spores
+algae water green
+seaweed kelp ocean
+lichen fungus algae rock
+mushroom fungus spores decomposer
+mold fungus spores food
+yeast fungus bread
+# body parts
+pelvis hip bones
+femur thigh bone longest
+spine vertebrae backbone
+ribs chest
+skull head
+jaw teeth
+hand fingers
+foot toes
+heart muscle chest
+lungs chest breathing
+stomach abdomen
+intestines abdomen
+brain head skull
+eyes see
+ears hear
+nose smell
+tongue taste
+skin touch
+hair follicles
+nails keratin

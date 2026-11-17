@@ -1,0 +1,22 @@
+# function words and question boilerplate: concept 0
+a an the and or but nor so yet if then than that this these those there here thus hence
+of in on at to from by for with without within into onto upon over under about above below across along among around
+through throughout during before after between behind beyond near toward towards against off out up down
+is are was were be been being am do does did doing done have has had having will would shall should can could may might must
+i me my mine we us our ours you your yours he him his she her hers it its they them their theirs
+who whom whose which what when where why how whether while
+all any both each either neither every few many much more most less least some such only own same other another
+very too also just even still already again ever never always often sometimes usually really quite rather almost
+one's oneself itself themselves himself herself yourself ourselves myself
+following best likely statement statements describes describe described explains explain explained example examples
+answer answers question questions choice choices option options correct true false probably possible possibly
+would could which's what's it's that's there's let's don't doesn't didn't wasn't weren't can't cannot won't
+like unlike etc e g ie eg vs per via
+something someone somebody anything anyone nothing everything everyone thing things way ways kind kinds type types
+make made makes making get gets got getting go goes went going gone take takes took taken come comes came
+put puts give gives gave given show shows showed shown tell tells told say says said
+called call known name named named names refer refers referred
+because since although though unless until whereas however therefore
+next mostly
+based
+as once   # generation 5: 'as' had idf 2.7 and led questions ('what happens ... as the ice melts')
