@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Project Page](https://img.shields.io/badge/Project_Page-Website-blue)](https://wsp-no-transformer.github.io) [![Paper](https://img.shields.io/badge/Paper-alphaXiv-b31b1b)](https://www.alphaxiv.org/abs/2611.weight-space-programming-associative-memory) [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Project Page](https://img.shields.io/badge/Project_Page-Website-blue)](https://wsp-no-transformer.github.io) [![arXiv](https://img.shields.io/badge/arXiv-2611.22055-b31b1b)](https://arxiv.org/abs/2611.22055) [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 **Hyunjong Ok, Jaeho Lee**<br>
 POSTECH
@@ -184,3 +184,17 @@ ARC (AI2 Reasoning Challenge, `allenai/ai2_arc`) is downloaded from the Hugging 
 ## License
 
 Code and released models are licensed under the MIT License (see `LICENSE`).
+
+## Citation
+
+```bibtex
+@misc{ok2026weightspaceprogrammingdoesntneed,
+      title={Weight-Space Programming Doesn't Need Transformers},
+      author={Hyunjong Ok and Jaeho Lee},
+      year={2026},
+      eprint={2611.22055},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2611.22055},
+}
+```
