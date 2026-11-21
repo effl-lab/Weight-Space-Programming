@@ -188,13 +188,10 @@ Code and released models are licensed under the MIT License (see `LICENSE`).
 ## Citation
 
 ```bibtex
-@misc{ok2026weightspaceprogrammingdoesntneed,
-      title={Weight-Space Programming Doesn't Need Transformers},
-      author={Hyunjong Ok and Jaeho Lee},
-      year={2026},
-      eprint={2611.22055},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2611.22055},
+@article{ok2026weight,
+  title={Weight-Space Programming Doesn't Need Transformers},
+  author={Ok, Hyunjong and Lee, Jaeho},
+  journal={arXiv preprint arXiv:2611.22055},
+  year={2026}
 }
 ```
